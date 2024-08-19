@@ -590,6 +590,53 @@ export interface PluginContentReleasesReleaseAction
   };
 }
 
+export interface PluginI18NLocale extends Schema.CollectionType {
+  collectionName: 'i18n_locale';
+  info: {
+    singularName: 'locale';
+    pluralName: 'locales';
+    collectionName: 'locales';
+    displayName: 'Locale';
+    description: '';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  pluginOptions: {
+    'content-manager': {
+      visible: false;
+    };
+    'content-type-builder': {
+      visible: false;
+    };
+  };
+  attributes: {
+    name: Attribute.String &
+      Attribute.SetMinMax<
+        {
+          min: 1;
+          max: 50;
+        },
+        number
+      >;
+    code: Attribute.String & Attribute.Unique;
+    createdAt: Attribute.DateTime;
+    updatedAt: Attribute.DateTime;
+    createdBy: Attribute.Relation<
+      'plugin::i18n.locale',
+      'oneToOne',
+      'admin::user'
+    > &
+      Attribute.Private;
+    updatedBy: Attribute.Relation<
+      'plugin::i18n.locale',
+      'oneToOne',
+      'admin::user'
+    > &
+      Attribute.Private;
+  };
+}
+
 export interface PluginUsersPermissionsPermission
   extends Schema.CollectionType {
   collectionName: 'up_permissions';
@@ -766,53 +813,6 @@ export interface PluginUsersPermissionsUser extends Schema.CollectionType {
   };
 }
 
-export interface PluginI18NLocale extends Schema.CollectionType {
-  collectionName: 'i18n_locale';
-  info: {
-    singularName: 'locale';
-    pluralName: 'locales';
-    collectionName: 'locales';
-    displayName: 'Locale';
-    description: '';
-  };
-  options: {
-    draftAndPublish: false;
-  };
-  pluginOptions: {
-    'content-manager': {
-      visible: false;
-    };
-    'content-type-builder': {
-      visible: false;
-    };
-  };
-  attributes: {
-    name: Attribute.String &
-      Attribute.SetMinMax<
-        {
-          min: 1;
-          max: 50;
-        },
-        number
-      >;
-    code: Attribute.String & Attribute.Unique;
-    createdAt: Attribute.DateTime;
-    updatedAt: Attribute.DateTime;
-    createdBy: Attribute.Relation<
-      'plugin::i18n.locale',
-      'oneToOne',
-      'admin::user'
-    > &
-      Attribute.Private;
-    updatedBy: Attribute.Relation<
-      'plugin::i18n.locale',
-      'oneToOne',
-      'admin::user'
-    > &
-      Attribute.Private;
-  };
-}
-
 export interface ApiAudienceAudience extends Schema.CollectionType {
   collectionName: 'audiences';
   info: {
@@ -842,6 +842,41 @@ export interface ApiAudienceAudience extends Schema.CollectionType {
       Attribute.Private;
     updatedBy: Attribute.Relation<
       'api::audience.audience',
+      'oneToOne',
+      'admin::user'
+    > &
+      Attribute.Private;
+  };
+}
+
+export interface ApiClasificationClasification extends Schema.CollectionType {
+  collectionName: 'clasifications';
+  info: {
+    singularName: 'clasification';
+    pluralName: 'clasifications';
+    displayName: 'Clasification';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    name: Attribute.String;
+    videos: Attribute.Relation<
+      'api::clasification.clasification',
+      'oneToMany',
+      'api::video.video'
+    >;
+    createdAt: Attribute.DateTime;
+    updatedAt: Attribute.DateTime;
+    publishedAt: Attribute.DateTime;
+    createdBy: Attribute.Relation<
+      'api::clasification.clasification',
+      'oneToOne',
+      'admin::user'
+    > &
+      Attribute.Private;
+    updatedBy: Attribute.Relation<
+      'api::clasification.clasification',
       'oneToOne',
       'admin::user'
     > &
@@ -897,11 +932,6 @@ export interface ApiGenderGender extends Schema.CollectionType {
     draftAndPublish: true;
   };
   attributes: {
-    videos: Attribute.Relation<
-      'api::gender.gender',
-      'manyToMany',
-      'api::video.video'
-    >;
     clasification: Attribute.String;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
@@ -971,7 +1001,6 @@ export interface ApiVideoVideo extends Schema.CollectionType {
   attributes: {
     name: Attribute.String;
     year: Attribute.Integer;
-    clasification: Attribute.Enumeration<['film', 'serie']>;
     audiences: Attribute.Relation<
       'api::video.video',
       'manyToMany',
@@ -987,11 +1016,13 @@ export interface ApiVideoVideo extends Schema.CollectionType {
       'manyToMany',
       'api::language.language'
     >;
-    genders: Attribute.Relation<
+    clasification: Attribute.Relation<
       'api::video.video',
-      'manyToMany',
-      'api::gender.gender'
+      'manyToOne',
+      'api::clasification.clasification'
     >;
+    url: Attribute.String;
+    photo: Attribute.String;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -1024,11 +1055,12 @@ declare module '@strapi/types' {
       'plugin::upload.folder': PluginUploadFolder;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
+      'plugin::i18n.locale': PluginI18NLocale;
       'plugin::users-permissions.permission': PluginUsersPermissionsPermission;
       'plugin::users-permissions.role': PluginUsersPermissionsRole;
       'plugin::users-permissions.user': PluginUsersPermissionsUser;
-      'plugin::i18n.locale': PluginI18NLocale;
       'api::audience.audience': ApiAudienceAudience;
+      'api::clasification.clasification': ApiClasificationClasification;
       'api::country.country': ApiCountryCountry;
       'api::gender.gender': ApiGenderGender;
       'api::language.language': ApiLanguageLanguage;
