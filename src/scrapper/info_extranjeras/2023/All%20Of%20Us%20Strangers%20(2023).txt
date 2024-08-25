@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su infancia donde descubre que sus padres, fallecidos hace mucho tiempo, están vivos y tienen la misma edad que el día de su muerte.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-24 21:56:41</dateadded>
+  <title>Desconocidos</title>
+  <originaltitle>All of Us Strangers</originaltitle>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+    <tvdbid>295574</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Mescal</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>2326151</tmdbid>
+  </actor>
+  <actor>
+    <name>Carter John Grout</name>
+    <role>Young Adam</role>
+    <type>Actor</type>
+    <tmdbid>4315362</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Bell</name>
+    <role>Dad</role>
+    <type>Actor</type>
+    <tmdbid>478</tmdbid>
+    <imdbid>nm0068260</imdbid>
+    <tvdbid>278259</tvdbid>
+  </actor>
+  <actor>
+    <name>Claire Foy</name>
+    <role>Mum</role>
+    <type>Actor</type>
+    <tmdbid>120932</tmdbid>
+    <imdbid>nm2946516</imdbid>
+  </actor>
+  <actor>
+    <name>Ami Tredrea</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3893524</tmdbid>
+  </actor>
+  <director tmdbid="586002">Andrew Haigh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uqWoYBitIxc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D6D2_Ys2Q3o</trailer>
+  <rating>7.8</rating>
+  <year>2023</year>
+  <sorttitle>Desconocidos</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21192142</imdbid>
+  <tmdbid>994108</tmdbid>
+  <premiered>2023-12-22</premiered>
+  <releasedate>2023-12-22</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>102</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Fantasía</genre>
+  <studio>Film4 Productions</studio>
+  <studio>Blueprint Pictures</studio>
+  <studio>Searchlight Pictures</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt21192142</uniqueid>
+  <uniqueid type="tmdb">994108</uniqueid>
+  <id>tt21192142</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2490749</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>60</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6142</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

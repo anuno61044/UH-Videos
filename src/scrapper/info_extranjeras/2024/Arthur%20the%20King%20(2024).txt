@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mikael Lindnord, el capitán del equipo sueco de atletismo de aventura, tuvo un extraño encuentro durante la carrera de 400 millas en la jungla ecuatoriana, cuando en su camino se cruzó un perro callejero. Tras el momento en el que Lindnord le alimentó, el perro le siguió por el resto del recorrido, haciendo incluso los tramos más complicados del planeta. Tras finalizar la carrera, Lindnord decidió adoptar al perro, llamarlo Arthur y llevarlo con él a Suecia.]]></plot>
+  <outline><![CDATA[An unexpected encounter. An unlikely bond. An unforgettable adventure.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-24 07:59:58</dateadded>
+  <title>Arthur</title>
+  <originaltitle>Arthur the King</originaltitle>
+  <actor>
+    <name>Mark Wahlberg</name>
+    <role>Michael Light</role>
+    <type>Actor</type>
+    <tmdbid>13240</tmdbid>
+    <imdbid>nm0000242</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Olivia</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+    <imdbid>nm2812026</imdbid>
+    <tvdbid>247884</tvdbid>
+  </actor>
+  <actor>
+    <name>Simu Liu</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>1489211</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Suliman</name>
+    <role>Chik</role>
+    <type>Actor</type>
+    <tmdbid>762</tmdbid>
+    <imdbid>nm1846124</imdbid>
+    <tvdbid>540173</tvdbid>
+  </actor>
+  <actor>
+    <name>Juliet Rylance</name>
+    <role>Helen Light</role>
+    <type>Actor</type>
+    <tmdbid>928906</tmdbid>
+    <imdbid>nm1628115</imdbid>
+    <tvdbid>536750</tvdbid>
+  </actor>
+  <actor>
+    <name>Bear Grylls</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>208629</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Landes</name>
+    <role>Broadrail Executive</role>
+    <type>Actor</type>
+    <tmdbid>57428</tmdbid>
+    <imdbid>nm0484678</imdbid>
+    <tvdbid>290635</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrés Castillo</name>
+    <role>Broadrail Executive</role>
+    <type>Actor</type>
+    <tmdbid>3570596</tmdbid>
+  </actor>
+  <actor>
+    <name>Angie Berube</name>
+    <role>Broadrail Executive</role>
+    <type>Actor</type>
+    <tmdbid>4604501</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Guilfoyle</name>
+    <role>Charlie Light</role>
+    <type>Actor</type>
+    <tmdbid>925</tmdbid>
+    <tvdbid>267370</tvdbid>
+    <imdbid>nm0002117</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Collins</name>
+    <role>Decker Swanson</role>
+    <type>Actor</type>
+    <tmdbid>1636490</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Chahin</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>2879806</tmdbid>
+  </actor>
+  <actor>
+    <name>Viktor Åkerblom</name>
+    <role>Swedish CFO</role>
+    <type>Actor</type>
+    <tmdbid>105465</tmdbid>
+  </actor>
+  <actor>
+    <name>Zamantha Díaz</name>
+    <role>Hotel Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3222852</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlton Byrd</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>1183648</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauricio Adrian</name>
+    <role>Race official TA 10</role>
+    <type>Actor</type>
+    <tmdbid>4330355</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis del Valle</name>
+    <role>Dominican Vet</role>
+    <type>Actor</type>
+    <tmdbid>3712466</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo Duvergé</name>
+    <role>Local Guide</role>
+    <type>Actor</type>
+    <tmdbid>4367148</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Wasserman</name>
+    <role>Santiago</role>
+    <type>Actor</type>
+    <tmdbid>2069444</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Gallardo</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>3890069</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Best</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1494307</tmdbid>
+  </actor>
+  <actor>
+    <name>Iban Marrero</name>
+    <role>Immigration officer supervisor</role>
+    <type>Actor</type>
+    <tmdbid>2606615</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlton Mallard</name>
+    <role>Crowd cheerer</role>
+    <type>Actor</type>
+    <tmdbid>4379986</tmdbid>
+  </actor>
+  <actor>
+    <name>Cece Valentina</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>4379987</tmdbid>
+  </actor>
+  <director tmdbid="144798">Simon Cellan Jones</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wjDJNEPghNY</trailer>
+  <rating>7</rating>
+  <year>2024</year>
+  <sorttitle>Arthur</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10720352</imdbid>
+  <tmdbid>618588</tmdbid>
+  <premiered>2024-03-15</premiered>
+  <releasedate>2024-03-15</releasedate>
+  <runtime>107</runtime>
+  <tagline>An unexpected encounter. An unlikely bond. An unforgettable adventure.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Aventura</genre>
+  <studio>Sierra/Affinity</studio>
+  <studio>Entertainment One</studio>
+  <studio>Tucker Tooley Entertainment</studio>
+  <studio>Municipal Pictures</studio>
+  <studio>Mark Canton Productions</studio>
+  <uniqueid type="imdb">tt10720352</uniqueid>
+  <uniqueid type="tmdb">618588</uniqueid>
+  <id>tt10720352</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1041089</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6422</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

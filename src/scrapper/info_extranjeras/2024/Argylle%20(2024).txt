@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece.]]></plot>
+  <outline><![CDATA[Aquí hay gato encerrado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-05 09:42:25</dateadded>
+  <title>Argylle</title>
+  <originaltitle>Argylle</originaltitle>
+  <actor>
+    <name>Bryce Dallas Howard</name>
+    <role>Elly Conway</role>
+    <type>Actor</type>
+    <tmdbid>18997</tmdbid>
+    <imdbid>nm0397171</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Rockwell</name>
+    <role>Aidan Wilde</role>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+    <tvdbid>333915</tvdbid>
+  </actor>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Director Ritter</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+    <tvdbid>255211</tvdbid>
+  </actor>
+  <actor>
+    <name>Catherine O'Hara</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>11514</tmdbid>
+    <imdbid>nm0001573</imdbid>
+    <tvdbid>254127</tvdbid>
+  </actor>
+  <actor>
+    <name>Henry Cavill</name>
+    <role>Argylle</role>
+    <type>Actor</type>
+    <tmdbid>73968</tmdbid>
+    <imdbid>nm0147147</imdbid>
+  </actor>
+  <actor>
+    <name>Ariana DeBose</name>
+    <role>Keira</role>
+    <type>Actor</type>
+    <tmdbid>1437491</tmdbid>
+    <tvdbid>8163444</tvdbid>
+  </actor>
+  <actor>
+    <name>Dua Lipa</name>
+    <role>Lagrange</role>
+    <type>Actor</type>
+    <tmdbid>1959397</tmdbid>
+    <imdbid>nm7645984</imdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Wyatt</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Alfie</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+    <tvdbid>287826</tvdbid>
+  </actor>
+  <actor>
+    <name>Sofia Boutella</name>
+    <role>Saba Al-Badr</role>
+    <type>Actor</type>
+    <tmdbid>568657</tmdbid>
+    <tvdbid>8036967</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard E. Grant</name>
+    <role>Director Fowler</role>
+    <type>Actor</type>
+    <tmdbid>20766</tmdbid>
+    <imdbid>nm0001290</imdbid>
+    <tvdbid>261928</tvdbid>
+  </actor>
+  <actor>
+    <name>Chip</name>
+    <role>Alfie the Cat</role>
+    <type>Actor</type>
+    <tmdbid>4514499</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanley Morgan</name>
+    <role>Bakunin</role>
+    <type>Actor</type>
+    <tmdbid>1779664</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Singh</name>
+    <role>Armed Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>2476299</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Fuchs</name>
+    <role>Moderator</role>
+    <type>Actor</type>
+    <tmdbid>131947</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomás Paredes</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>2963838</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Holland Hanton</name>
+    <role>Enforcer #1</role>
+    <type>Actor</type>
+    <tmdbid>1381548</tmdbid>
+    <imdbid>nm3479192</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Townley</name>
+    <role>Enforcer #2</role>
+    <type>Actor</type>
+    <tmdbid>237162</tmdbid>
+    <imdbid>nm3215232</imdbid>
+  </actor>
+  <actor>
+    <name>Alaa Habib</name>
+    <role>Zoe the Superfan</role>
+    <type>Actor</type>
+    <tmdbid>2430491</tmdbid>
+  </actor>
+  <actor>
+    <name>Clementine Vaughn</name>
+    <role>Fan #2</role>
+    <type>Actor</type>
+    <tmdbid>4514497</tmdbid>
+  </actor>
+  <actor>
+    <name>Raagni Sharma</name>
+    <role>Fan #1</role>
+    <type>Actor</type>
+    <tmdbid>4514498</tmdbid>
+  </actor>
+  <actor>
+    <name>Jing Lusi</name>
+    <role>Li Na</role>
+    <type>Actor</type>
+    <tmdbid>564035</tmdbid>
+    <tvdbid>496466</tvdbid>
+  </actor>
+  <actor>
+    <name>Kandy Rohmann</name>
+    <role>Train Conductor</role>
+    <type>Actor</type>
+    <tmdbid>3782978</tmdbid>
+  </actor>
+  <actor>
+    <name>Fiona Marr</name>
+    <role>Bar Woman</role>
+    <type>Actor</type>
+    <tmdbid>3253744</tmdbid>
+  </actor>
+  <actor>
+    <name>Diljohn Singh</name>
+    <role>1st Class Passenger #1</role>
+    <type>Actor</type>
+    <tmdbid>2726647</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmett Scanlan</name>
+    <role>Handsome Man</role>
+    <type>Actor</type>
+    <tmdbid>1111204</tmdbid>
+    <imdbid>nm1631384</imdbid>
+  </actor>
+  <actor>
+    <name>Joyce Kaminski</name>
+    <role>1st Class Passenger #3</role>
+    <type>Actor</type>
+    <tmdbid>4514500</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Bernard</name>
+    <role>1st Class Passenger #2</role>
+    <type>Actor</type>
+    <tmdbid>4514503</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomiwa Edun</name>
+    <role>Deputy Nolan</role>
+    <type>Actor</type>
+    <tmdbid>1576541</tmdbid>
+    <imdbid>nm3643989</imdbid>
+    <tvdbid>7891155</tvdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>Deputy Director Powell</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+    <imdbid>nm3008739</imdbid>
+    <tvdbid>300914</tvdbid>
+  </actor>
+  <actor>
+    <name>Annabella King</name>
+    <role>Young British Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>4514505</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Lau Fernandez</name>
+    <role>Young Brit #2</role>
+    <type>Actor</type>
+    <tmdbid>2928090</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Barrett</name>
+    <role>Op-Centre Tech #1</role>
+    <type>Actor</type>
+    <tmdbid>4514506</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Ariaie</name>
+    <role>Op-Centre Tech #2</role>
+    <type>Actor</type>
+    <tmdbid>3431803</tmdbid>
+  </actor>
+  <actor>
+    <name>Abe Jarman</name>
+    <role>Op-Centre Tech #3</role>
+    <type>Actor</type>
+    <tmdbid>3272771</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Vincenti</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1184849</tmdbid>
+  </actor>
+  <actor>
+    <name>David Bedella</name>
+    <role>Leonard</role>
+    <type>Actor</type>
+    <tmdbid>146140</tmdbid>
+    <imdbid>nm1525717</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Kaye</name>
+    <role>Saba Al-Badr Security</role>
+    <type>Actor</type>
+    <tmdbid>2036955</tmdbid>
+  </actor>
+  <actor>
+    <name>Amra Mallassi</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1363060</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Partridge</name>
+    <role>Aubrey Argylle</role>
+    <type>Actor</type>
+    <tmdbid>1558986</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Daniels</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>27632</tmdbid>
+    <imdbid>nm0199842</imdbid>
+    <tvdbid>317986</tvdbid>
+  </actor>
+  <director tmdbid="957" imdbid="nm0891216">Matthew Vaughn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nd3qNVGIhq0</trailer>
+  <rating>6</rating>
+  <year>2024</year>
+  <sorttitle>Argylle</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15009428</imdbid>
+  <tmdbid>848538</tmdbid>
+  <premiered>2024-01-31</premiered>
+  <releasedate>2024-01-31</releasedate>
+  <criticrating>34</criticrating>
+  <runtime>139</runtime>
+  <tagline>Aquí hay gato encerrado.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <studio>Marv</studio>
+  <studio>Apple Studios</studio>
+  <studio>Cloudy Productions</studio>
+  <uniqueid type="imdb">tt15009428</uniqueid>
+  <uniqueid type="tmdb">848538</uniqueid>
+  <id>tt15009428</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>902089</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8340</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

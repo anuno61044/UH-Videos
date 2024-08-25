@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Toni (Paco León) y Emilio (Ernesto Alterio) reciben la misma trágica llamada: sus mujeres están en coma tras un alud en una estación de esquí. Cuando se presentan en el mostrador de admisiones del hospital de montaña hacen un sorprendente descubrimiento: sus mujeres son, en realidad, la misma persona, Laura (Celia Freijeiro). Durante años, Laura ha llevado en secreto vidas paralelas, una salvaje montaña rusa a caballo entre sus dos familias. Obligados a convivir hasta que Laura despierte y pueda ser trasladada, Emilio y Toni luchan por demostrar quién de los dos es el único y auténtico marido.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-11 08:20:21</dateadded>
+  <title>Mari(dos)</title>
+  <originaltitle>Mari(dos)</originaltitle>
+  <actor>
+    <name>Paco León</name>
+    <role>Toni</role>
+    <type>Actor</type>
+    <tmdbid>224870</tmdbid>
+    <imdbid>nm1346713</imdbid>
+    <tvdbid>448237</tvdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Alterio</name>
+    <role>Emilio</role>
+    <type>Actor</type>
+    <tmdbid>27459</tmdbid>
+    <imdbid>nm0022764</imdbid>
+    <tvdbid>503668</tvdbid>
+  </actor>
+  <actor>
+    <name>Celia Freijeiro</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1062026</tmdbid>
+    <imdbid>nm2033210</imdbid>
+  </actor>
+  <actor>
+    <name>Raúl Cimas</name>
+    <type>Actor</type>
+    <tmdbid>578368</tmdbid>
+    <imdbid>nm1832683</imdbid>
+    <tvdbid>294454</tvdbid>
+  </actor>
+  <actor>
+    <name>Kirill Bunegin</name>
+    <role>Vladimir</role>
+    <type>Actor</type>
+    <tmdbid>4157579</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Hernández</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>4157581</tmdbid>
+  </actor>
+  <director tmdbid="2388428">Lucía Alemany</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lZtAwhmdFEs</trailer>
+  <rating>4.7</rating>
+  <year>2023</year>
+  <sorttitle>Mari(dos)</sorttitle>
+  <imdbid>tt18393816</imdbid>
+  <tmdbid>1008009</tmdbid>
+  <premiered>2023-03-10</premiered>
+  <releasedate>2023-03-10</releasedate>
+  <runtime>98</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Telecinco Cinema</studio>
+  <studio>Mediaset España</studio>
+  <studio>Movistar+</studio>
+  <studio>Think Studio</studio>
+  <uniqueid type="imdb">tt18393816</uniqueid>
+  <uniqueid type="tmdb">1008009</uniqueid>
+  <id>tt18393816</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>193395</bitrate>
+        <width>640</width>
+        <height>276</height>
+        <aspect>160:69</aspect>
+        <aspectratio>160:69</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5904</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

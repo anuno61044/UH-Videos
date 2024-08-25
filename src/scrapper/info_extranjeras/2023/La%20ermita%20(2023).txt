@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Emma quiere aprender a comunicarse con el espíritu de una niña que lleva siglos atrapada en una ermita y por eso intenta convencer a Carol, una incrédula y falsa médium de que la ayude. Contactar con el espíritu le ayudará a seguir unida a su madre enferma cuando esta muera. Lo que Carol no sospecha es que Emma posee realmente ‘el don’ y que, si la niña sigue intentando usarlo sin su ayuda, pondrá su pequeña vida en peligro.]]></plot>
+  <outline><![CDATA[Nunca olvidés decir adiós.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-05 10:54:40</dateadded>
+  <title>La ermita</title>
+  <originaltitle>La ermita</originaltitle>
+  <actor>
+    <name>Maia Zaitegi</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>3891651</tmdbid>
+  </actor>
+  <actor>
+    <name>Belén Rueda</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>19907</tmdbid>
+    <imdbid>nm0749104</imdbid>
+    <tvdbid>469966</tvdbid>
+  </actor>
+  <actor>
+    <name>Josean Bengoetxea</name>
+    <role>Jon Elorza</role>
+    <type>Actor</type>
+    <tmdbid>840814</tmdbid>
+    <imdbid>nm1322246</imdbid>
+    <tvdbid>630366</tvdbid>
+  </actor>
+  <actor>
+    <name>Loreto Mauleón</name>
+    <role>Maider</role>
+    <type>Actor</type>
+    <tmdbid>1179338</tmdbid>
+    <imdbid>nm3084972</imdbid>
+    <tvdbid>8038350</tvdbid>
+  </actor>
+  <actor>
+    <name>Jon Olivares</name>
+    <role>Asier</role>
+    <type>Actor</type>
+    <tmdbid>2410790</tmdbid>
+    <tvdbid>8164559</tvdbid>
+  </actor>
+  <actor>
+    <name>Elena Irureta</name>
+    <role>Edurne</role>
+    <type>Actor</type>
+    <tmdbid>16980</tmdbid>
+    <imdbid>nm0410118</imdbid>
+    <tvdbid>596132</tvdbid>
+  </actor>
+  <actor>
+    <name>Nagore Aranburu</name>
+    <role>Ivana Peralta joven</role>
+    <type>Actor</type>
+    <tmdbid>1303016</tmdbid>
+    <imdbid>nm1084844</imdbid>
+  </actor>
+  <actor>
+    <name>María Barrios</name>
+    <role>Sofía Soler</role>
+    <type>Actor</type>
+    <tmdbid>3891660</tmdbid>
+  </actor>
+  <actor>
+    <name>Airoa Izaguirre</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>4044590</tmdbid>
+  </actor>
+  <actor>
+    <name>Araia Díaz</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>4044594</tmdbid>
+  </actor>
+  <actor>
+    <name>Anastasia Russo</name>
+    <role>Carol niña</role>
+    <type>Actor</type>
+    <tmdbid>3690350</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Hernández</name>
+    <role>Usoa</role>
+    <type>Actor</type>
+    <tmdbid>3891657</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Probanza</name>
+    <role>Asistente social</role>
+    <type>Actor</type>
+    <tmdbid>94214</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñaki Beraetxe</name>
+    <role>Alcalde</role>
+    <type>Actor</type>
+    <tmdbid>1124052</tmdbid>
+    <imdbid>nm0073218</imdbid>
+  </actor>
+  <actor>
+    <name>Ainhoa Aierbe</name>
+    <role>Señora Soler</role>
+    <type>Actor</type>
+    <tmdbid>1488232</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaizka Ugarte</name>
+    <role>Profesor</role>
+    <type>Actor</type>
+    <tmdbid>2294585</tmdbid>
+  </actor>
+  <actor>
+    <name>Antton Bastero</name>
+    <role>Sacerdota</role>
+    <type>Actor</type>
+    <tmdbid>3891656</tmdbid>
+  </actor>
+  <actor>
+    <name>Belén Cruz</name>
+    <role>Señora sesión espiritismo</role>
+    <type>Actor</type>
+    <tmdbid>2844026</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Galán</name>
+    <role>Chica sesión espiritismo</role>
+    <type>Actor</type>
+    <tmdbid>1260914</tmdbid>
+    <imdbid>nm3351812</imdbid>
+    <tvdbid>9099751</tvdbid>
+  </actor>
+  <actor>
+    <name>Amets Otxoa</name>
+    <role>Niño malote Ikastola</role>
+    <type>Actor</type>
+    <tmdbid>3177400</tmdbid>
+  </actor>
+  <actor>
+    <name>Ane Pikaza</name>
+    <role>Actriz sobreactuada</role>
+    <type>Actor</type>
+    <tmdbid>2294583</tmdbid>
+  </actor>
+  <director tmdbid="1987284" tvdbid="8969629">Carlota Pereda</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pg0K5wkvgAM</trailer>
+  <rating>5.875</rating>
+  <year>2023</year>
+  <sorttitle>ermita</sorttitle>
+  <imdbid>tt23554012</imdbid>
+  <tmdbid>1078928</tmdbid>
+  <premiered>2023-11-17</premiered>
+  <releasedate>2023-11-17</releasedate>
+  <runtime>104</runtime>
+  <tagline>Nunca olvidés decir adiós.</tagline>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <studio>Bixagu Entertainment</studio>
+  <studio>Filmax</studio>
+  <studio>Castelao Pictures</studio>
+  <uniqueid type="imdb">tt23554012</uniqueid>
+  <uniqueid type="tmdb">1078928</uniqueid>
+  <id>tt23554012</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>933132</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.000166</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6212</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64580</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

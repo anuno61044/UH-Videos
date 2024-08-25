@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La pareja de superhéroes Scott Lang y Hope van Dyne regresa para continuar sus aventuras como Ant-Man y la Avispa. Los dos, junto a los padres de Hope, Hank Pym y Janet van Dyne y la hija de Scott, Cassie Lang, se dedican a explorar el Mundo Cuántico, interactuando con nuevas y extrañas criaturas y embarcándose en una aventura que les llevará más allá de los límites de lo que creían posible.]]></plot>
+  <outline><![CDATA[Sé testigo del comienzo de una nueva dinastía.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-17 13:39:01</dateadded>
+  <title>Ant-Man y la Avispa: Quantumanía</title>
+  <originaltitle>Ant-Man and the Wasp: Quantumania</originaltitle>
+  <actor>
+    <name>Paul Rudd</name>
+    <role>Scott Lang / Ant-Man</role>
+    <type>Actor</type>
+    <tmdbid>22226</tmdbid>
+    <imdbid>nm0748620</imdbid>
+    <tvdbid>266506</tvdbid>
+  </actor>
+  <actor>
+    <name>Evangeline Lilly</name>
+    <role>Hope van Dyne / The Wasp</role>
+    <type>Actor</type>
+    <tmdbid>19034</tmdbid>
+    <imdbid>nm1431940</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Majors</name>
+    <role>Kang the Conqueror</role>
+    <type>Actor</type>
+    <tmdbid>1674162</tmdbid>
+    <imdbid>nm3718007</imdbid>
+    <tvdbid>533764</tvdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Newton</name>
+    <role>Cassie Lang</role>
+    <type>Actor</type>
+    <tmdbid>221192</tmdbid>
+    <imdbid>nm1105980</imdbid>
+    <tvdbid>307562</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Pfeiffer</name>
+    <role>Janet van Dyne</role>
+    <type>Actor</type>
+    <tmdbid>1160</tmdbid>
+    <imdbid>nm0000201</imdbid>
+    <tvdbid>321109</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Douglas</name>
+    <role>Dr. Hank Pym</role>
+    <type>Actor</type>
+    <tmdbid>3392</tmdbid>
+    <imdbid>nm0000140</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>M.O.D.O.K.</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+    <imdbid>nm1015684</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Murray</name>
+    <role>Lord Krylar</role>
+    <type>Actor</type>
+    <tmdbid>1532</tmdbid>
+    <imdbid>nm0000195</imdbid>
+  </actor>
+  <actor>
+    <name>William Jackson Harper</name>
+    <role>Quaz</role>
+    <type>Actor</type>
+    <tmdbid>1410478</tmdbid>
+    <imdbid>nm2860379</imdbid>
+    <tvdbid>296902</tvdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Veb (voice)</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Andrew Cutler</name>
+    <role>XOLUM</role>
+    <type>Actor</type>
+    <tmdbid>1530151</tmdbid>
+  </actor>
+  <actor>
+    <name>Katy O'Brian</name>
+    <role>Jentorra</role>
+    <type>Actor</type>
+    <tmdbid>2252989</tmdbid>
+    <imdbid>nm6884042</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Weinman</name>
+    <role>Patrol Police Officer / On-Set M.O.D.O.K.</role>
+    <type>Actor</type>
+    <tmdbid>1602424</tmdbid>
+  </actor>
+  <actor>
+    <name>Randall Park</name>
+    <role>Jimmy Woo</role>
+    <type>Actor</type>
+    <tmdbid>79082</tmdbid>
+    <imdbid>nm1320827</imdbid>
+    <tvdbid>308086</tvdbid>
+  </actor>
+  <actor>
+    <name>Ross Mullan</name>
+    <role>Axia Restaurant Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>1126237</tmdbid>
+    <imdbid>nm1368643</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Clark</name>
+    <role>Axia Restaurant Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2677070</tmdbid>
+    <imdbid>nm10005581</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Cooke</name>
+    <role>Axia Restaurant Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1234382</tmdbid>
+    <imdbid>nm2654510</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Blees</name>
+    <role>Axia Restaurant Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3909113</tmdbid>
+  </actor>
+  <actor>
+    <name>Durassie Kiangangu</name>
+    <role>Axia Restaurant Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3243391</tmdbid>
+  </actor>
+  <actor>
+    <name>Liran Nathan</name>
+    <role>Axia Restaurant Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1972102</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Symons</name>
+    <role>Krylar's Valet</role>
+    <type>Actor</type>
+    <tmdbid>3909124</tmdbid>
+  </actor>
+  <actor>
+    <name>Grahame Fox</name>
+    <role>Broccoli Man</role>
+    <type>Actor</type>
+    <tmdbid>662006</tmdbid>
+    <imdbid>nm0289018</imdbid>
+  </actor>
+  <actor>
+    <name>Nicola Peluso</name>
+    <role>Corrections Officer</role>
+    <type>Actor</type>
+    <tmdbid>3909128</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Daniels</name>
+    <role>Booking Officer</role>
+    <type>Actor</type>
+    <tmdbid>3861486</tmdbid>
+  </actor>
+  <actor>
+    <name>Brahmdeo Shannon Ramana</name>
+    <role>Hope's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3909135</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Balogh</name>
+    <role>Nomad Leader</role>
+    <type>Actor</type>
+    <tmdbid>937222</tmdbid>
+    <imdbid>nm4095121</imdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Taiwo</name>
+    <role>Quantumnaut Scientist</role>
+    <type>Actor</type>
+    <tmdbid>3757664</tmdbid>
+  </actor>
+  <actor>
+    <name>Osian Roberts</name>
+    <role>Quantumnaut Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>2595392</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Gerstel</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909141</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Gerstel</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909142</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Jeffrey</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909144</tmdbid>
+  </actor>
+  <actor>
+    <name>Dinah Jeffrey</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909145</tmdbid>
+  </actor>
+  <actor>
+    <name>Judy Jeffrey</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909146</tmdbid>
+  </actor>
+  <actor>
+    <name>John Nayagam</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909147</tmdbid>
+  </actor>
+  <actor>
+    <name>Greta Nayagam</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3344665</tmdbid>
+  </actor>
+  <actor>
+    <name>Cathy Chan</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909150</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Sai</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909151</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Sai</name>
+    <role>Book Signing Audience</role>
+    <type>Actor</type>
+    <tmdbid>3909155</tmdbid>
+  </actor>
+  <actor>
+    <name>Jakari Fraser</name>
+    <role>Young Ant-Man Fan</role>
+    <type>Actor</type>
+    <tmdbid>2003778</tmdbid>
+    <imdbid>nm7989041</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Belcher</name>
+    <role>Ant-Man Fan</role>
+    <type>Actor</type>
+    <tmdbid>56358</tmdbid>
+    <imdbid>nm0006970</imdbid>
+    <tvdbid>266792</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Oliver Everett</name>
+    <role>Jogger with Dog</role>
+    <type>Actor</type>
+    <tmdbid>937146</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruben Rabasa</name>
+    <role>Café Owner</role>
+    <type>Actor</type>
+    <tmdbid>1434041</tmdbid>
+    <imdbid>nm0704737</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Garcia</name>
+    <role>Barista</role>
+    <type>Actor</type>
+    <tmdbid>3408058</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregg Turkington</name>
+    <role>Dale</role>
+    <type>Actor</type>
+    <tmdbid>1224999</tmdbid>
+    <imdbid>nm0877203</imdbid>
+  </actor>
+  <actor>
+    <name>Sierra Katow</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3232721</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Bergara</name>
+    <role>Toasting Man</role>
+    <type>Actor</type>
+    <tmdbid>1943331</tmdbid>
+  </actor>
+  <actor>
+    <name>Marielle Scott</name>
+    <role>Toasting Woman</role>
+    <type>Actor</type>
+    <tmdbid>1702762</tmdbid>
+    <tvdbid>8161650</tvdbid>
+  </actor>
+  <actor>
+    <name>Jake Millgard</name>
+    <role>Jogger</role>
+    <type>Actor</type>
+    <tmdbid>3909166</tmdbid>
+  </actor>
+  <actor>
+    <name>Dey Young</name>
+    <role>Woman with Dog</role>
+    <type>Actor</type>
+    <tmdbid>39568</tmdbid>
+  </actor>
+  <actor>
+    <name>Briza Covarrubias</name>
+    <role>Hostess</role>
+    <type>Actor</type>
+    <tmdbid>2999652</tmdbid>
+  </actor>
+  <actor>
+    <name>Tess Aubert</name>
+    <role>Waitstaff</role>
+    <type>Actor</type>
+    <tmdbid>2341456</tmdbid>
+  </actor>
+  <actor>
+    <name>David J. Castillo</name>
+    <role>Waitstaff</role>
+    <type>Actor</type>
+    <tmdbid>2449433</tmdbid>
+  </actor>
+  <actor>
+    <name>Sir Cornwell</name>
+    <role>Waitstaff</role>
+    <type>Actor</type>
+    <tmdbid>3909168</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Heitz</name>
+    <role>Waitstaff</role>
+    <type>Actor</type>
+    <tmdbid>149708</tmdbid>
+    <imdbid>nm1476559</imdbid>
+  </actor>
+  <actor>
+    <name>Esther McAuley</name>
+    <role>Alien World Citizen</role>
+    <type>Actor</type>
+    <tmdbid>3909170</tmdbid>
+  </actor>
+  <actor>
+    <name>Aisling Maria Andreica</name>
+    <role>Alien World Citizen</role>
+    <type>Actor</type>
+    <tmdbid>3909171</tmdbid>
+  </actor>
+  <actor>
+    <name>Milton Lopes</name>
+    <role>Alien World Citizen</role>
+    <type>Actor</type>
+    <tmdbid>1202168</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Craig Smith</name>
+    <role>Quantumnaut Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>75038</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Wood</name>
+    <role>Quantumnaut Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>71536</tmdbid>
+    <imdbid>nm0003214</imdbid>
+  </actor>
+  <actor>
+    <name>Loveday Smith</name>
+    <role>Janet Van Dyne Acting Double</role>
+    <type>Actor</type>
+    <tmdbid>1717900</tmdbid>
+  </actor>
+  <actor>
+    <name>John Townsend</name>
+    <role>Lord Krylar Acting Photo Double</role>
+    <type>Actor</type>
+    <tmdbid>3909172</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Hiddleston</name>
+    <role>Loki (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>91606</tmdbid>
+    <imdbid>nm1089991</imdbid>
+    <tvdbid>311136</tvdbid>
+  </actor>
+  <actor>
+    <name>Owen Wilson</name>
+    <role>Mobius M. Mobius (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>887</tmdbid>
+    <imdbid>nm0005562</imdbid>
+    <tvdbid>310578</tvdbid>
+  </actor>
+  <actor>
+    <name>Abby Ryder Fortson</name>
+    <role>Cassie Lang (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1360010</tmdbid>
+    <imdbid>nm5338858</imdbid>
+    <tvdbid>537591</tvdbid>
+  </actor>
+  <director tmdbid="59026" imdbid="nm0715636">Peyton Reed</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Uzoud5nQWdU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bDrWm3HgmKA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BaLJ044I2HI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G4ZV8qfskfA</trailer>
+  <rating>6.1</rating>
+  <year>2023</year>
+  <sorttitle>Ant-Man y la Avispa: Quantumania</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10954600</imdbid>
+  <tmdbid>640146</tmdbid>
+  <premiered>2023-02-15</premiered>
+  <releasedate>2023-02-15</releasedate>
+  <runtime>125</runtime>
+  <tagline>Sé testigo del comienzo de una nueva dinastía.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <set tmdbcolid="422834">
+    <name>Ant-Man - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10954600</uniqueid>
+  <uniqueid type="tmdb">640146</uniqueid>
+  <id>tt10954600</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>895061</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7474</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Aren es reclutado por una sociedad secreta de negros mágicos que dedican sus vidas a una causa de suma importancia.]]></plot>
+  <outline><![CDATA[Saving the damn world.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-04 09:24:28</dateadded>
+  <title>The American Society of Magical Negroes</title>
+  <originaltitle>The American Society of Magical Negroes</originaltitle>
+  <actor>
+    <name>Justice Smith</name>
+    <role>Aren</role>
+    <type>Actor</type>
+    <tmdbid>1029934</tmdbid>
+    <imdbid>nm6819854</imdbid>
+  </actor>
+  <actor>
+    <name>David Alan Grier</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>58563</tmdbid>
+    <imdbid>nm0004979</imdbid>
+    <tvdbid>254061</tvdbid>
+  </actor>
+  <actor>
+    <name>An-Li Bogan</name>
+    <role>Lizzie</role>
+    <type>Actor</type>
+    <tmdbid>2365075</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Tarver</name>
+    <role>Jason Munt</role>
+    <type>Actor</type>
+    <tmdbid>1292228</tmdbid>
+    <imdbid>nm3358633</imdbid>
+  </actor>
+  <actor>
+    <name>Michaela Watkins</name>
+    <role>Masterson</role>
+    <type>Actor</type>
+    <tmdbid>113224</tmdbid>
+    <imdbid>nm1143861</imdbid>
+    <tvdbid>308068</tvdbid>
+  </actor>
+  <actor>
+    <name>Rupert Friend</name>
+    <role>Mick</role>
+    <type>Actor</type>
+    <tmdbid>36669</tmdbid>
+    <imdbid>nm1670029</imdbid>
+    <tvdbid>465866</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicole Byer</name>
+    <role>DeDe</role>
+    <type>Actor</type>
+    <tmdbid>1381399</tmdbid>
+    <imdbid>nm3355329</imdbid>
+  </actor>
+  <actor>
+    <name>Aisha Hinds</name>
+    <role>Gabbard</role>
+    <type>Actor</type>
+    <tmdbid>1192492</tmdbid>
+    <imdbid>nm1490300</imdbid>
+    <tvdbid>333531</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Baltz</name>
+    <role>Officer Miller</role>
+    <type>Actor</type>
+    <tmdbid>1394353</tmdbid>
+    <imdbid>nm5263495</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Vigman</name>
+    <role>Andrea</role>
+    <type>Actor</type>
+    <tmdbid>61182</tmdbid>
+    <imdbid>nm0897005</imdbid>
+    <tvdbid>308046</tvdbid>
+  </actor>
+  <director tmdbid="1318632">Kobi Libii</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gizIbhk5Eu4</trailer>
+  <rating>2.8</rating>
+  <year>2024</year>
+  <sorttitle>American Society of Magical Negroes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt30007864</imdbid>
+  <tmdbid>1039773</tmdbid>
+  <premiered>2024-03-15</premiered>
+  <releasedate>2024-03-15</releasedate>
+  <runtime>105</runtime>
+  <tagline>Saving the damn world.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Comedia</genre>
+  <studio>Sight Unseen Pictures</studio>
+  <studio>Juba Lane</studio>
+  <uniqueid type="imdb">tt30007864</uniqueid>
+  <uniqueid type="tmdb">1039773</uniqueid>
+  <id>tt30007864</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1064382</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6286</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

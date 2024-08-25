@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.]]></plot>
+  <outline><![CDATA[Some lies never die.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-10 08:42:57</dateadded>
+  <title>Sombras del pasado</title>
+  <originaltitle>Sleeping Dogs</originaltitle>
+  <actor>
+    <name>Russell Crowe</name>
+    <role>Roy Freeman</role>
+    <type>Actor</type>
+    <tmdbid>934</tmdbid>
+    <imdbid>nm0000128</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Gillan</name>
+    <role>Laura Baines</role>
+    <type>Actor</type>
+    <tmdbid>543261</tmdbid>
+    <imdbid>nm2394794</imdbid>
+    <tvdbid>360589</tvdbid>
+  </actor>
+  <actor>
+    <name>Marton Csokas</name>
+    <role>Joseph Wieder</role>
+    <type>Actor</type>
+    <tmdbid>20982</tmdbid>
+    <imdbid>nm0190744</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <role>Jimmy Remis</role>
+    <type>Actor</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+    <tvdbid>473029</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas M. Wright</name>
+    <role>Wayne Devereaux</role>
+    <type>Actor</type>
+    <tmdbid>1212871</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Greenwood</name>
+    <role>Richard Finn</role>
+    <type>Actor</type>
+    <tmdbid>1510769</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Blackmore</name>
+    <role>Dana Olsen</role>
+    <type>Actor</type>
+    <tmdbid>1046233</tmdbid>
+    <imdbid>nm3899933</imdbid>
+  </actor>
+  <actor>
+    <name>Lynn Gilmartin</name>
+    <role>Red</role>
+    <type>Actor</type>
+    <tmdbid>2321639</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Harber</name>
+    <role>Catherine Finn</role>
+    <type>Actor</type>
+    <tmdbid>209871</tmdbid>
+  </actor>
+  <actor>
+    <name>Ming-Zhu Hii</name>
+    <role>Dr. Margaret Xu</role>
+    <type>Actor</type>
+    <tmdbid>1525897</tmdbid>
+    <tvdbid>509693</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucy-Rose Leonard</name>
+    <role>Lulu</role>
+    <type>Actor</type>
+    <tvdbid>8203289</tvdbid>
+    <tmdbid>2056675</tmdbid>
+  </actor>
+  <actor>
+    <name>Pacharo Mzembe</name>
+    <role>Isaac Samuel</role>
+    <type>Actor</type>
+    <tmdbid>1576672</tmdbid>
+    <imdbid>nm3273503</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Maiden</name>
+    <role>Eddie Finn</role>
+    <type>Actor</type>
+    <tmdbid>75745</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Arundell</name>
+    <role>Susan Avery</role>
+    <type>Actor</type>
+    <tmdbid>1535052</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasper Bagg</name>
+    <role>O'Toole</role>
+    <type>Actor</type>
+    <tmdbid>187016</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Leonard</name>
+    <role>Leonard</role>
+    <type>Actor</type>
+    <tmdbid>3185680</tmdbid>
+  </actor>
+  <director tmdbid="59265">Adam Cooper</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KOI7cijBgWs</trailer>
+  <rating>6</rating>
+  <year>2024</year>
+  <sorttitle>Sombras del pasado</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8542964</imdbid>
+  <tmdbid>978592</tmdbid>
+  <premiered>2024-03-21</premiered>
+  <releasedate>2024-03-21</releasedate>
+  <runtime>112</runtime>
+  <tagline>Some lies never die.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Nickel City Pictures</studio>
+  <studio>New Leaf Literary &amp; Media</studio>
+  <studio>Highland Film Group</studio>
+  <studio>G2 Dispatch</studio>
+  <studio>Gala Media Capital</studio>
+  <studio>JaiD7 Pictures</studio>
+  <uniqueid type="imdb">tt8542964</uniqueid>
+  <uniqueid type="tmdb">978592</uniqueid>
+  <id>tt8542964</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>999061</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6694</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

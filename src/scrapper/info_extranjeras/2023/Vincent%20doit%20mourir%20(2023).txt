@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue a Vincent, quien se encuentra bajo ataque sin motivo aparente durante la noche. Cuando el fenómeno se intensifica, debe correr y cambiar su forma de vida por completo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-21 09:47:38</dateadded>
+  <title>Vincent debe morir</title>
+  <originaltitle>Vincent doit mourir</originaltitle>
+  <actor>
+    <name>Karim Leklou</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>587142</tmdbid>
+  </actor>
+  <actor>
+    <name>Vimala Pons</name>
+    <role>Margaux</role>
+    <type>Actor</type>
+    <tmdbid>146342</tmdbid>
+  </actor>
+  <actor>
+    <name>Hervé Pierre</name>
+    <type>Actor</type>
+    <tmdbid>146720</tmdbid>
+    <imdbid>nm0682634</imdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Chabane</name>
+    <role>Lionel</role>
+    <type>Actor</type>
+    <tmdbid>1473452</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne-Gaëlle Jourdain</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>2172584</tmdbid>
+  </actor>
+  <actor>
+    <name>François Chattot</name>
+    <role>Jean-Pierre</role>
+    <type>Actor</type>
+    <tmdbid>62444</tmdbid>
+  </actor>
+  <actor>
+    <name>Karoline Rose Sun</name>
+    <role>Audrey</role>
+    <type>Actor</type>
+    <tmdbid>2983688</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Vérité</name>
+    <role>Yves</role>
+    <type>Actor</type>
+    <tmdbid>3771689</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Christophe Folly</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>559648</tmdbid>
+  </actor>
+  <actor>
+    <name>Stéphan Castang</name>
+    <role>Policier</role>
+    <type>Actor</type>
+    <tmdbid>1473453</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Bursztyn</name>
+    <role>Le facteur</role>
+    <type>Actor</type>
+    <tmdbid>3039087</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Perez</name>
+    <role>Joachim</role>
+    <type>Actor</type>
+    <tmdbid>2396224</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurin Ollès</name>
+    <role>Raph</role>
+    <type>Actor</type>
+    <tmdbid>3175903</tmdbid>
+  </actor>
+  <actor>
+    <name>Benoît Lambert</name>
+    <role>Le policier</role>
+    <type>Actor</type>
+    <tmdbid>3175901</tmdbid>
+  </actor>
+  <actor>
+    <name>Ulysse Genevrey</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>3882840</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Rémi Chaize</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <tmdbid>3882841</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre Maillet</name>
+    <role>Le psy</role>
+    <type>Actor</type>
+    <tmdbid>586917</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoann Gasiorowski</name>
+    <type>Actor</type>
+    <tmdbid>2991787</tmdbid>
+  </actor>
+  <actor>
+    <name>Imer Kutllovci</name>
+    <type>Actor</type>
+    <tmdbid>1473450</tmdbid>
+  </actor>
+  <director tmdbid="1473453">Stéphan Castang</director>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>Vincent debe morir</sorttitle>
+  <imdbid>tt23790924</imdbid>
+  <tmdbid>965890</tmdbid>
+  <premiered>2023-11-15</premiered>
+  <releasedate>2023-11-15</releasedate>
+  <runtime>108</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Fantasía</genre>
+  <genre>Terror</genre>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Capricci Films</studio>
+  <studio>Bobi Lux</studio>
+  <studio>Wild West</studio>
+  <studio>Frakas Productions</studio>
+  <studio>Auvergne-Rhône-Alpes Cinéma</studio>
+  <uniqueid type="tmdb">965890</uniqueid>
+  <uniqueid type="imdb">tt23790924</uniqueid>
+  <id>tt23790924</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1045294</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6495</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

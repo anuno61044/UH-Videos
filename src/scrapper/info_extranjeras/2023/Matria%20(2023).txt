@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer llega a un punto de inflexión tras haber sufrido una terrible sobredosis y vuelve a su hogar natal para enfrentarse a sus propios demonios. Sin embargo, se encuentra con uno de verdad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-24 20:23:11</dateadded>
+  <title>Matriarcado</title>
+  <originaltitle>Matriarch</originaltitle>
+  <actor>
+    <name>Jemima Rooper</name>
+    <role>Laura Birch</role>
+    <type>Actor</type>
+    <tmdbid>62932</tmdbid>
+    <imdbid>nm0740383</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Dickie</name>
+    <role>Celia</role>
+    <type>Actor</type>
+    <tmdbid>71083</tmdbid>
+    <imdbid>nm0225483</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Paul</name>
+    <role>Abi</role>
+    <type>Actor</type>
+    <tmdbid>1602723</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Haverson</name>
+    <role>Gerald</role>
+    <type>Actor</type>
+    <tmdbid>1899117</tmdbid>
+  </actor>
+  <actor>
+    <name>Franc Ashman</name>
+    <role>Maxine</role>
+    <type>Actor</type>
+    <tmdbid>1013049</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Frost</name>
+    <role>The Goddess</role>
+    <type>Actor</type>
+    <tmdbid>3753233</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith David Bartlett</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>3701107</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathryn McGarr</name>
+    <role>Angry Mother</role>
+    <type>Actor</type>
+    <tmdbid>3753234</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Meacock</name>
+    <role>Leonard</role>
+    <type>Actor</type>
+    <tmdbid>1017597</tmdbid>
+    <imdbid>nm0574873</imdbid>
+  </actor>
+  <actor>
+    <name>Celinde Schoenmaker</name>
+    <role>Katrin</role>
+    <type>Actor</type>
+    <tmdbid>2318996</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillipa Peak</name>
+    <role>Mrs Dent</role>
+    <type>Actor</type>
+    <tmdbid>1229415</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Thurrell</name>
+    <role>Gemma the Baby-Eater</role>
+    <type>Actor</type>
+    <tmdbid>3753235</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Cole</name>
+    <role>(Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>47625</tmdbid>
+    <imdbid>nm1268047</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen DeRosa</name>
+    <role>(Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1587937</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Lynn-Evans</name>
+    <role>(Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>21344</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Barrett</name>
+    <role>(Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1373498</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Blyth</name>
+    <role>(Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1191519</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Page Hayman</name>
+    <role>(Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3219825</tmdbid>
+  </actor>
+  <director tmdbid="1450921">Ben Steiner</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x_M8KJXQBPc</trailer>
+  <rating>4.6</rating>
+  <year>2022</year>
+  <sorttitle>Matriarcado</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17202326</imdbid>
+  <tmdbid>1024535</tmdbid>
+  <premiered>2022-10-11</premiered>
+  <releasedate>2022-10-11</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>95</runtime>
+  <country>United Kingdom</country>
+  <genre>Terror</genre>
+  <studio>20th Digital Studio</studio>
+  <studio>Sharp House</studio>
+  <uniqueid type="imdb">tt17202326</uniqueid>
+  <uniqueid type="tmdb">1024535</uniqueid>
+  <id>tt17202326</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>299367</bitrate>
+        <width>600</width>
+        <height>360</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5722</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63817</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

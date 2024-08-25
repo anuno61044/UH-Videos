@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ariel es una joven y soñadora sirena, hija del Rey Tritón, que está cansada de su vida como princesa bajo el mar. Su mayor deseo es abandonar el fondo marino y tener una vida normal y apacible en la superficie. La bruja Úrsula descubre su anhelo y, por eso, a cambio de su preciosa voz le ofrece un cuerpo totalmente humano. Ariel acepta, movida por su pasión por conocer el mundo terrestre y porque está enamorada de un apuesto príncipe humano. Pero las cosas no serán fáciles para Ariel, ya que la bruja Úrsula esconde oscuras intenciones.]]></plot>
+  <outline><![CDATA[Yo he de volver, debo formar parte de él.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-24 10:41:05</dateadded>
+  <title>La sirenita</title>
+  <originaltitle>The Little Mermaid</originaltitle>
+  <actor>
+    <name>Halle Bailey</name>
+    <role>Ariel</role>
+    <type>Actor</type>
+    <tmdbid>1735828</tmdbid>
+    <imdbid>nm1782991</imdbid>
+  </actor>
+  <actor>
+    <name>Jonah Hauer-King</name>
+    <role>Prince Eric</role>
+    <type>Actor</type>
+    <tmdbid>1599391</tmdbid>
+    <imdbid>nm5999355</imdbid>
+    <tvdbid>621057</tvdbid>
+  </actor>
+  <actor>
+    <name>Daveed Diggs</name>
+    <role>Sebastian (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1652371</tmdbid>
+    <imdbid>nm4377526</imdbid>
+    <tvdbid>469857</tvdbid>
+  </actor>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Scuttle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>Jacob Tremblay</name>
+    <role>Flounder (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1277188</tmdbid>
+    <imdbid>nm5016878</imdbid>
+  </actor>
+  <actor>
+    <name>Noma Dumezweni</name>
+    <role>Queen Selina</role>
+    <type>Actor</type>
+    <tmdbid>517103</tmdbid>
+    <imdbid>nm1282920</imdbid>
+    <tvdbid>522651</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>King Triton</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa McCarthy</name>
+    <role>Ursula</role>
+    <type>Actor</type>
+    <tmdbid>55536</tmdbid>
+    <imdbid>nm0565250</imdbid>
+    <tvdbid>296532</tvdbid>
+  </actor>
+  <actor>
+    <name>Art Malik</name>
+    <role>Sir Grimsby</role>
+    <type>Actor</type>
+    <tmdbid>10672</tmdbid>
+    <imdbid>nm0539562</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Alexander</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>2600509</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Coates</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>1534625</tmdbid>
+    <imdbid>nm10483098</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Akuwudike</name>
+    <role>Joshua</role>
+    <type>Actor</type>
+    <tmdbid>669820</tmdbid>
+    <imdbid>nm0015617</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Balogh</name>
+    <role>Triton Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>937222</tmdbid>
+    <imdbid>nm4095121</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Christopher</name>
+    <role>Triton Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>2244163</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Ashley</name>
+    <role>Indira</role>
+    <type>Actor</type>
+    <tmdbid>2223752</tmdbid>
+    <tvdbid>7885719</tvdbid>
+  </actor>
+  <actor>
+    <name>Martina Laird</name>
+    <role>Lashana</role>
+    <type>Actor</type>
+    <tmdbid>195242</tmdbid>
+  </actor>
+  <actor>
+    <name>John Dagleish</name>
+    <role>Mulligan</role>
+    <type>Actor</type>
+    <tmdbid>1240353</tmdbid>
+    <imdbid>nm2742856</imdbid>
+  </actor>
+  <actor>
+    <name>Sienna King</name>
+    <role>Tamika</role>
+    <type>Actor</type>
+    <tmdbid>4027004</tmdbid>
+  </actor>
+  <actor>
+    <name>Karolina Conchet</name>
+    <role>Mala</role>
+    <type>Actor</type>
+    <tmdbid>1438939</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Stein</name>
+    <role>Dancer / Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1489322</tmdbid>
+    <imdbid>nm1270268</imdbid>
+  </actor>
+  <actor>
+    <name>Lorena Andrea</name>
+    <role>Perla</role>
+    <type>Actor</type>
+    <tmdbid>1887484</tmdbid>
+    <imdbid>nm8460271</imdbid>
+  </actor>
+  <actor>
+    <name>Kajsa Mohammar</name>
+    <role>Karina</role>
+    <type>Actor</type>
+    <tmdbid>2212128</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Sorrell</name>
+    <role>Caspia</role>
+    <type>Actor</type>
+    <tmdbid>1123125</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodi Benson</name>
+    <role>Market Vendor</role>
+    <type>Actor</type>
+    <tmdbid>63978</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Fairbank</name>
+    <role>Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>8399</tmdbid>
+    <imdbid>nm0265457</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Carver</name>
+    <role>Cabin Boy</role>
+    <type>Actor</type>
+    <tmdbid>4163465</tmdbid>
+  </actor>
+  <actor>
+    <name>Julz West</name>
+    <role>Hat Vendor</role>
+    <type>Actor</type>
+    <tmdbid>4163467</tmdbid>
+  </actor>
+  <actor>
+    <name>Shay Barclay</name>
+    <role>Coconut Seller / Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2441604</tmdbid>
+  </actor>
+  <actor>
+    <name>Arina Li</name>
+    <role>Flower Vendor</role>
+    <type>Actor</type>
+    <tmdbid>4163468</tmdbid>
+  </actor>
+  <actor>
+    <name>Leon Cooke</name>
+    <role>Core Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1234382</tmdbid>
+    <imdbid>nm2654510</imdbid>
+  </actor>
+  <actor>
+    <name>Tarik Frimpong</name>
+    <role>Core Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1898964</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris George</name>
+    <role>Core Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2843868</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasmin Harrison</name>
+    <role>Core Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1826765</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Stubbs</name>
+    <role>Core Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163471</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Thompson</name>
+    <role>Core Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163474</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Bishop</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163475</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Bryan</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163476</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Carmen-Jones</name>
+    <role>Dance</role>
+    <type>Actor</type>
+    <tmdbid>1803043</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon-Scott Clark</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2261088</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Valentina</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163477</tmdbid>
+  </actor>
+  <actor>
+    <name>Austyn Farrell</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163478</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecil Jee</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163479</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Hukin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163480</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Lyle-Pinnock</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163483</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanel Mian</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2843904</tmdbid>
+  </actor>
+  <actor>
+    <name>Ebony Molina</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1803117</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Oswald</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3919317</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Ravelin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163487</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Ruhrmund</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2441616</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Valverde</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163490</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Watson Lobo</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163491</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny White</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163492</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Wilmott</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4163493</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Windebank</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2174815</tmdbid>
+  </actor>
+  <director tmdbid="17633" imdbid="nm0551128">Rob Marshall</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iEjJMpzzfMc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IWMC7FW81MQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RdxqdIc7xlQ</trailer>
+  <rating>7.2</rating>
+  <year>2023</year>
+  <sorttitle>sirenita</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt5971474</imdbid>
+  <tmdbid>447277</tmdbid>
+  <premiered>2023-05-18</premiered>
+  <releasedate>2023-05-18</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>135</runtime>
+  <tagline>Yo he de volver, debo formar parte de él.</tagline>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Familia</genre>
+  <genre>Fantasía</genre>
+  <genre>Romance</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Lucamar Productions</studio>
+  <studio>Marc Platt Productions</studio>
+  <uniqueid type="imdb">tt5971474</uniqueid>
+  <uniqueid type="tmdb">447277</uniqueid>
+  <id>tt5971474</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>927487</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8114</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

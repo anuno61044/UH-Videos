@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El psicólogo social estadounidense Ben Monroe investiga una secta local relacionada con un suceso perturbador, mientras su hija se enreda con un misterioso chico de la localidad.]]></plot>
+  <outline><![CDATA[Purify and start again.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-19 11:55:40</dateadded>
+  <title>Secta</title>
+  <originaltitle>A Sacrifice</originaltitle>
+  <actor>
+    <name>Eric Bana</name>
+    <role>Ben Monroe</role>
+    <type>Actor</type>
+    <tmdbid>8783</tmdbid>
+    <imdbid>nm0051509</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Sink</name>
+    <role>Mazzy</role>
+    <type>Actor</type>
+    <tmdbid>1590797</tmdbid>
+    <imdbid>nm5584750</imdbid>
+    <tvdbid>538549</tvdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Hoeks</name>
+    <role>Nina</role>
+    <type>Actor</type>
+    <tmdbid>104632</tmdbid>
+    <imdbid>nm1679778</imdbid>
+    <tvdbid>481311</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonas Dassler</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>1723252</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rois</name>
+    <role>Hilma</role>
+    <type>Actor</type>
+    <tmdbid>15122</tmdbid>
+    <imdbid>nm0294984</imdbid>
+  </actor>
+  <actor>
+    <name>Stephan Kampwirth</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>4541</tmdbid>
+  </actor>
+  <actor>
+    <name>Justine del Corte</name>
+    <role>Sofie Aumann</role>
+    <type>Actor</type>
+    <tmdbid>48270</tmdbid>
+  </actor>
+  <actor>
+    <name>Joone Dankou</name>
+    <role>Elsa Neumann</role>
+    <type>Actor</type>
+    <tmdbid>4379940</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Feith</name>
+    <role>Lotte</role>
+    <type>Actor</type>
+    <tmdbid>2229819</tmdbid>
+  </actor>
+  <actor>
+    <name>Sira-Anna Faal</name>
+    <role>Larissa</role>
+    <type>Actor</type>
+    <tmdbid>2894590</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Schubert</name>
+    <role>Lead Detective</role>
+    <type>Actor</type>
+    <tmdbid>1257219</tmdbid>
+  </actor>
+  <actor>
+    <name>Daphna Rosenthal</name>
+    <role>Martin's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>3571495</tmdbid>
+  </actor>
+  <actor>
+    <name>Lea Draeger</name>
+    <role>Young Hilma</role>
+    <type>Actor</type>
+    <tmdbid>1192536</tmdbid>
+  </actor>
+  <actor>
+    <name>Frida Stittrich</name>
+    <role>Young Nina</role>
+    <type>Actor</type>
+    <tmdbid>2894605</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana Nekrasov</name>
+    <role>Nina's Mother</role>
+    <type>Actor</type>
+    <tmdbid>2139117</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthias Rheinheimer</name>
+    <role>Nina's Father</role>
+    <type>Actor</type>
+    <tmdbid>1962968</tmdbid>
+  </actor>
+  <actor>
+    <name>Carl Bagnar</name>
+    <role>Pogo Boy</role>
+    <type>Actor</type>
+    <tmdbid>2805654</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerhard Elfers</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>4236664</tmdbid>
+  </actor>
+  <actor>
+    <name>DJ Express</name>
+    <type>Actor</type>
+    <tmdbid>3894709</tmdbid>
+  </actor>
+  <director tmdbid="91759" imdbid="nm0779386">Jordan Scott</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I_okcXmUx2s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v2C5GJoRzzA</trailer>
+  <rating>5.417</rating>
+  <year>2024</year>
+  <sorttitle>Secta</sorttitle>
+  <imdbid>tt16491560</imdbid>
+  <tmdbid>931628</tmdbid>
+  <premiered>2024-06-28</premiered>
+  <releasedate>2024-06-28</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>94</runtime>
+  <tagline>Purify and start again.</tagline>
+  <country>France</country>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>Augenschein Filmproduktion</studio>
+  <studio>Logical Content Ventures</studio>
+  <studio>WeFadeToGrey</studio>
+  <studio>LAVAlabs Moving Images</studio>
+  <studio>Magic Media Productions</studio>
+  <studio>Scott Free Productions</studio>
+  <uniqueid type="imdb">tt16491560</uniqueid>
+  <uniqueid type="tmdb">931628</uniqueid>
+  <id>tt16491560</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1183144</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5649</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Madrid, España. Durante un procedimiento de deshaucio, Dani, una agente de policía, hace un impactante descubrimiento.]]></plot>
+  <outline><![CDATA[Si no eres la solución, quizá seas parte del problema.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-28 09:24:56</dateadded>
+  <title>Asedio</title>
+  <originaltitle>Asedio</originaltitle>
+  <actor>
+    <name>Natalia de Molina</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>1270686</tmdbid>
+    <imdbid>nm5131296</imdbid>
+    <tvdbid>499261</tvdbid>
+  </actor>
+  <actor>
+    <name>Bella Agossou</name>
+    <role>Nasha</role>
+    <type>Actor</type>
+    <tmdbid>1072088</tmdbid>
+    <imdbid>nm3452541</imdbid>
+  </actor>
+  <actor>
+    <name>Francisco Reyes</name>
+    <role>Trajano</role>
+    <type>Actor</type>
+    <tmdbid>1793815</tmdbid>
+    <tvdbid>8447032</tvdbid>
+  </actor>
+  <actor>
+    <name>Fran Cantos</name>
+    <role>Coria</role>
+    <type>Actor</type>
+    <tmdbid>2648877</tmdbid>
+  </actor>
+  <actor>
+    <name>Chani Martín</name>
+    <role>Cervantes</role>
+    <type>Actor</type>
+    <tmdbid>560248</tmdbid>
+    <imdbid>nm1476722</imdbid>
+    <tvdbid>667784</tvdbid>
+  </actor>
+  <actor>
+    <name>Jorge Kent</name>
+    <role>Rivero</role>
+    <type>Actor</type>
+    <tmdbid>2613422</tmdbid>
+  </actor>
+  <actor>
+    <name>Efraín Rodríguez</name>
+    <role>Lolo</role>
+    <type>Actor</type>
+    <tmdbid>4196010</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Nabor</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>2768896</tmdbid>
+  </actor>
+  <actor>
+    <name>Federico Pérez Rey</name>
+    <role>Santos</role>
+    <type>Actor</type>
+    <tmdbid>588129</tmdbid>
+    <imdbid>nm1853380</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Hacha</name>
+    <role>Miranda</role>
+    <type>Actor</type>
+    <tmdbid>972640</tmdbid>
+    <imdbid>nm1209862</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Valdivielso</name>
+    <role>Reyes</role>
+    <type>Actor</type>
+    <tmdbid>1367156</tmdbid>
+  </actor>
+  <actor>
+    <name>Karlos Aurrekoetxea</name>
+    <role>Calderón</role>
+    <type>Actor</type>
+    <tmdbid>233280</tmdbid>
+    <imdbid>nm2671273</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Casaseca</name>
+    <role>Torrico</role>
+    <type>Actor</type>
+    <tmdbid>111092</tmdbid>
+    <imdbid>nm1458166</imdbid>
+  </actor>
+  <actor>
+    <name>Óscar Eribo</name>
+    <role>Little</role>
+    <type>Actor</type>
+    <tmdbid>4196016</tmdbid>
+  </actor>
+  <actor>
+    <name>Sesinou Henriette</name>
+    <role>Skinny</role>
+    <type>Actor</type>
+    <tmdbid>4196018</tmdbid>
+  </actor>
+  <actor>
+    <name>Salman L-Mrabat</name>
+    <role>Mustafá</role>
+    <type>Actor</type>
+    <tmdbid>4196020</tmdbid>
+  </actor>
+  <actor>
+    <name>Esperanza Moreno García</name>
+    <role>Dani's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4196021</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramiro Alonso</name>
+    <role>Ramiro</role>
+    <type>Actor</type>
+    <tmdbid>100258</tmdbid>
+    <imdbid>nm0022265</imdbid>
+  </actor>
+  <actor>
+    <name>Zohra Hichau</name>
+    <role>Aminah</role>
+    <type>Actor</type>
+    <tmdbid>4196022</tmdbid>
+  </actor>
+  <actor>
+    <name>Khaled Kouka</name>
+    <role>Omar</role>
+    <type>Actor</type>
+    <tmdbid>1378256</tmdbid>
+  </actor>
+  <actor>
+    <name>Issa N'Diaye</name>
+    <role>Lucky</role>
+    <type>Actor</type>
+    <tmdbid>1787480</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadal Bin</name>
+    <role>Hakim</role>
+    <type>Actor</type>
+    <tmdbid>2489666</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Sisa Dong</name>
+    <role>Kaleb</role>
+    <type>Actor</type>
+    <tmdbid>4196030</tmdbid>
+  </actor>
+  <actor>
+    <name>Piotr Pavel</name>
+    <role>Emaciated Man</role>
+    <type>Actor</type>
+    <tmdbid>4196037</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Emmanuel Atauyo</name>
+    <role>Anuar</role>
+    <type>Actor</type>
+    <tmdbid>4196038</tmdbid>
+  </actor>
+  <actor>
+    <name>Chete Guzmán</name>
+    <role>Spanish Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>2788540</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Chiorazzo</name>
+    <role>6-Year-Old Girl</role>
+    <type>Actor</type>
+    <tmdbid>2325874</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Lozano</name>
+    <role>African Girl</role>
+    <type>Actor</type>
+    <tmdbid>4196042</tmdbid>
+  </actor>
+  <actor>
+    <name>DeeDee Kane</name>
+    <role>The Hulk</role>
+    <type>Actor</type>
+    <tmdbid>4196043</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrés Tebar</name>
+    <role>Family Man</role>
+    <type>Actor</type>
+    <tmdbid>4196047</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Black</name>
+    <role>Street Vendor Ousmane</role>
+    <type>Actor</type>
+    <tmdbid>4196051</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Velasco</name>
+    <role>Nightclub Flirting Young Man</role>
+    <type>Actor</type>
+    <tmdbid>3256598</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen García Rejo</name>
+    <role>Elderly Spanish Tenant</role>
+    <type>Actor</type>
+    <tmdbid>4196065</tmdbid>
+  </actor>
+  <actor>
+    <name>Almudena Nkoenke</name>
+    <role>Swimming Pool Kid's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4196067</tmdbid>
+  </actor>
+  <actor>
+    <name>Apolonio García</name>
+    <role>African Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>4196068</tmdbid>
+  </actor>
+  <actor>
+    <name>Chafic Rahme</name>
+    <role>Moroccan Father</role>
+    <type>Actor</type>
+    <tmdbid>4196069</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaoutar Abakha</name>
+    <role>Moroccan Mother</role>
+    <type>Actor</type>
+    <tmdbid>4196070</tmdbid>
+  </actor>
+  <actor>
+    <name>Dikra Zahriou</name>
+    <role>Moroccan Daughter</role>
+    <type>Actor</type>
+    <tmdbid>4196071</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Lucia Adedeji</name>
+    <role>Lucky's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>4196072</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Nguema Mba</name>
+    <role>Lucky's Son</role>
+    <type>Actor</type>
+    <tmdbid>4196073</tmdbid>
+  </actor>
+  <actor>
+    <name>César Plasencia</name>
+    <role>Locksmith</role>
+    <type>Actor</type>
+    <tmdbid>4196074</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Margallo</name>
+    <role>Evicted Old Man</role>
+    <type>Actor</type>
+    <tmdbid>37844</tmdbid>
+  </actor>
+  <director tmdbid="140396">Miguel Ángel Vivas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FkcRmYXoKtM</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Asedio</sorttitle>
+  <imdbid>tt16156592</imdbid>
+  <tmdbid>1090868</tmdbid>
+  <premiered>2023-05-05</premiered>
+  <releasedate>2023-05-05</releasedate>
+  <runtime>99</runtime>
+  <tagline>Si no eres la solución, quizá seas parte del problema.</tagline>
+  <country>Mexico</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>México City Project</studio>
+  <studio>TVE</studio>
+  <studio>Apaches Films</studio>
+  <uniqueid type="tmdb">1090868</uniqueid>
+  <uniqueid type="imdb">tt16156592</uniqueid>
+  <id>tt16156592</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>217754</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5944</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

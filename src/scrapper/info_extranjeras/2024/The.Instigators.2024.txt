@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Rory, un padre desesperado, y Cobby, un expresidiario, se ven obligados a aliarse para cometer un atraco. Cuando todo se tuerce, hacen equipo con un cómplice inesperado, la psicóloga de Rory, para escapar de la policía, unos funcionarios corruptos y un capo vengativo.]]></plot>
+  <outline><![CDATA[No hay robo peor que este.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-12 16:59:38</dateadded>
+  <title>Los instigadores</title>
+  <originaltitle>The Instigators</originaltitle>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Rory</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Affleck</name>
+    <role>Cobby</role>
+    <type>Actor</type>
+    <tmdbid>1893</tmdbid>
+    <imdbid>nm0000729</imdbid>
+  </actor>
+  <actor>
+    <name>Hong Chau</name>
+    <role>Dr. Donna Rivera</role>
+    <type>Actor</type>
+    <tmdbid>1360317</tmdbid>
+    <tvdbid>467343</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Mr. Besegai</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+    <tvdbid>317044</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Walter Hauser</name>
+    <role>Booch</role>
+    <type>Actor</type>
+    <tmdbid>1294982</tmdbid>
+    <imdbid>nm3236159</imdbid>
+    <tvdbid>527298</tvdbid>
+  </actor>
+  <actor>
+    <name>Ving Rhames</name>
+    <role>Frank Toomey</role>
+    <type>Actor</type>
+    <tmdbid>10182</tmdbid>
+    <imdbid>nm0000609</imdbid>
+  </actor>
+  <actor>
+    <name>Alfred Molina</name>
+    <role>Richie Dechico</role>
+    <type>Actor</type>
+    <tmdbid>658</tmdbid>
+    <imdbid>nm0000547</imdbid>
+    <tvdbid>272145</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Alan Flynn</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Harlow</name>
+    <role>Scalvo</role>
+    <type>Actor</type>
+    <tmdbid>3000374</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Perlman</name>
+    <role>Mayor Miccelli</role>
+    <type>Actor</type>
+    <tmdbid>2372</tmdbid>
+    <imdbid>nm0000579</imdbid>
+  </actor>
+  <actor>
+    <name>André De Shields</name>
+    <role>Mr. Kelly</role>
+    <type>Actor</type>
+    <tmdbid>1043858</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Onwumere</name>
+    <role>John Wayne</role>
+    <type>Actor</type>
+    <tmdbid>1726859</tmdbid>
+    <imdbid>nm5255496</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Gronkowski</name>
+    <role>Rob Gronkowskoi</role>
+    <type>Actor</type>
+    <tmdbid>1420673</tmdbid>
+    <tvdbid>327512</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalie Carter</name>
+    <role>Mrs. Haggerty</role>
+    <type>Actor</type>
+    <tmdbid>1232567</tmdbid>
+    <imdbid>nm1102488</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Earls</name>
+    <role>Charlie Haggerty</role>
+    <type>Actor</type>
+    <tmdbid>3810226</tmdbid>
+  </actor>
+  <actor>
+    <name>Richie Moriarty</name>
+    <role>Jerry the Grocer</role>
+    <type>Actor</type>
+    <tmdbid>1493747</tmdbid>
+  </actor>
+  <actor>
+    <name>David Gborie</name>
+    <role>Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>1838652</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheika Murray</name>
+    <role>Waiter #1 at Wharf</role>
+    <type>Actor</type>
+    <tmdbid>3584749</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Strong</name>
+    <role>Waiter #2 at Wharf</role>
+    <type>Actor</type>
+    <tmdbid>2234808</tmdbid>
+  </actor>
+  <actor>
+    <name>Walter Terry Liebman</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>4875648</tmdbid>
+  </actor>
+  <actor>
+    <name>Slate Holmgren</name>
+    <role>Dave Wedge</role>
+    <type>Actor</type>
+    <tmdbid>1364346</tmdbid>
+    <imdbid>nm2104946</imdbid>
+  </actor>
+  <actor>
+    <name>Ronnie Cho</name>
+    <role>Mark Choi</role>
+    <type>Actor</type>
+    <tmdbid>4875651</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Trice</name>
+    <role>City Hall Employee</role>
+    <type>Actor</type>
+    <tmdbid>4875657</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Nohilly</name>
+    <role>Police Commissioner</role>
+    <type>Actor</type>
+    <tmdbid>172017</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Furlani</name>
+    <role>Cabinet Member</role>
+    <type>Actor</type>
+    <tmdbid>1455760</tmdbid>
+    <imdbid>nm1445418</imdbid>
+  </actor>
+  <actor>
+    <name>Scout Backus</name>
+    <role>Colani</role>
+    <type>Actor</type>
+    <tmdbid>1816097</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas B Alexander</name>
+    <role>Sergeant at Rivera's Office</role>
+    <type>Actor</type>
+    <tmdbid>4875659</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Wood</name>
+    <role>Massachusetts Trooper #1</role>
+    <type>Actor</type>
+    <tmdbid>4111053</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Hutchinson</name>
+    <role>Massachusetts Trooper #2</role>
+    <type>Actor</type>
+    <tmdbid>4875664</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Bash</name>
+    <role>Boston Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1535487</tmdbid>
+    <imdbid>nm1488998</imdbid>
+  </actor>
+  <actor>
+    <name>Deirdre McCourt</name>
+    <role>Vermont Cop</role>
+    <type>Actor</type>
+    <tmdbid>3085281</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Fitzgibbon</name>
+    <role>Quincy Cop</role>
+    <type>Actor</type>
+    <tmdbid>1435747</tmdbid>
+    <imdbid>nm1263428</imdbid>
+  </actor>
+  <actor>
+    <name>Jerry Kernion</name>
+    <role>Fire Monitor</role>
+    <type>Actor</type>
+    <tmdbid>1001821</tmdbid>
+  </actor>
+  <actor>
+    <name>Nik Walker</name>
+    <role>Hero Fireman</role>
+    <type>Actor</type>
+    <tmdbid>3547974</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramona Floyd</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3151693</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Steven Dancewicz</name>
+    <role>Tactical Cop</role>
+    <type>Actor</type>
+    <tmdbid>3357613</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Keating</name>
+    <role>Sniper in Tower</role>
+    <type>Actor</type>
+    <tmdbid>2274541</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rodrick</name>
+    <role>Police on the Roof</role>
+    <type>Actor</type>
+    <tmdbid>99860</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleni Yiovas</name>
+    <role>Senior Tactical Cop</role>
+    <type>Actor</type>
+    <tmdbid>3264036</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Cunningham</name>
+    <role>Senior Cop at Plaza</role>
+    <type>Actor</type>
+    <tmdbid>4875667</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Morse</name>
+    <role>Cop at Barricade</role>
+    <type>Actor</type>
+    <tmdbid>1745907</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Marsella</name>
+    <role>Cop That Says Hey</role>
+    <type>Actor</type>
+    <tmdbid>1942135</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Dipetta</name>
+    <role>Officer at Airport</role>
+    <type>Actor</type>
+    <tmdbid>1537755</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Brian Roach</name>
+    <role>Police Transfer Officer</role>
+    <type>Actor</type>
+    <tmdbid>1725328</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Smith</name>
+    <role>New Police Commissioner</role>
+    <type>Actor</type>
+    <tmdbid>1218180</tmdbid>
+    <imdbid>nm1577957</imdbid>
+  </actor>
+  <actor>
+    <name>John Noble Barrack</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2864860</tmdbid>
+  </actor>
+  <actor>
+    <name>Jadon Cole</name>
+    <role>Rory's Son</role>
+    <type>Actor</type>
+    <tmdbid>4688860</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie Dema</name>
+    <role>Border Patrol Mountie #1</role>
+    <type>Actor</type>
+    <tmdbid>3526343</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Harvey</name>
+    <role>Border Patrol Mountie #2</role>
+    <type>Actor</type>
+    <tmdbid>62100</tmdbid>
+    <imdbid>nm0367445</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Gabriel Charles</name>
+    <role>Pollster</role>
+    <type>Actor</type>
+    <tmdbid>3231949</tmdbid>
+  </actor>
+  <director tmdbid="11694" imdbid="nm0510731">Doug Liman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G0PgpOLBjpk</trailer>
+  <rating>6.7</rating>
+  <year>2024</year>
+  <sorttitle>Los instigadores</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt24169886</imdbid>
+  <tmdbid>1059064</tmdbid>
+  <premiered>2024-08-02</premiered>
+  <releasedate>2024-08-02</releasedate>
+  <criticrating>41</criticrating>
+  <runtime>101</runtime>
+  <tagline>No hay robo peor que este.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>Artists Equity</studio>
+  <studio>The Walsh Company</studio>
+  <studio>Apple Studios</studio>
+  <studio>Studio 8</studio>
+  <uniqueid type="tmdb">1059064</uniqueid>
+  <uniqueid type="imdb">tt24169886</uniqueid>
+  <id>tt24169886</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1105712</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6075</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

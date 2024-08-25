@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A journalist and his pregnant girlfriend attempt to track down those responsible for the murder of his estranged son. Together, they confront a world of drugs and corruption in the underbelly of their small city in upstate New York, where they uncover an even darker secret.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-19 22:03:05</dateadded>
+  <title>The Good Mother</title>
+  <originaltitle>The Good Mother</originaltitle>
+  <actor>
+    <name>Hilary Swank</name>
+    <role>Marissa Bennings</role>
+    <type>Actor</type>
+    <tmdbid>448</tmdbid>
+    <imdbid>nm0005476</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Cooke</name>
+    <role>Paige</role>
+    <type>Actor</type>
+    <tmdbid>1173984</tmdbid>
+    <imdbid>nm4972453</imdbid>
+    <tvdbid>467256</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Reynor</name>
+    <role>Toby</role>
+    <type>Actor</type>
+    <tmdbid>1007683</tmdbid>
+    <imdbid>nm2930503</imdbid>
+    <tvdbid>465868</tvdbid>
+  </actor>
+  <actor>
+    <name>Dilone</name>
+    <role>Dina</role>
+    <type>Actor</type>
+    <tmdbid>2881864</tmdbid>
+  </actor>
+  <actor>
+    <name>Hopper Penn</name>
+    <role>Ducky</role>
+    <type>Actor</type>
+    <tmdbid>1230738</tmdbid>
+    <imdbid>nm1813421</imdbid>
+  </actor>
+  <actor>
+    <name>Norm Lewis</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>145113</tmdbid>
+    <imdbid>nm0507592</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Aldridge</name>
+    <role>Laurie</role>
+    <type>Actor</type>
+    <tmdbid>1782455</tmdbid>
+    <imdbid>nm1675620</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Fessenden</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>31268</tmdbid>
+    <imdbid>nm0275244</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Alfano</name>
+    <role>Figure</role>
+    <type>Actor</type>
+    <tmdbid>1459769</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Rejto</name>
+    <role>Chip</role>
+    <type>Actor</type>
+    <tmdbid>1084956</tmdbid>
+    <imdbid>nm1818245</imdbid>
+  </actor>
+  <actor>
+    <name>Nate Francis</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>3663575</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikayla Schaefer</name>
+    <role>Diane</role>
+    <type>Actor</type>
+    <tmdbid>3168961</tmdbid>
+  </actor>
+  <actor>
+    <name>Cliff Ware</name>
+    <role>Grandpa Jack</role>
+    <type>Actor</type>
+    <tmdbid>3254832</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Latzko</name>
+    <role>Baby Section Shopper</role>
+    <type>Actor</type>
+    <tmdbid>3910474</tmdbid>
+  </actor>
+  <director tmdbid="1419048">Miles Joris-Peyrafitte</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=433sBTXYEI4</trailer>
+  <rating>4.7</rating>
+  <year>2023</year>
+  <sorttitle>Good Mother</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21222462</imdbid>
+  <tmdbid>996347</tmdbid>
+  <premiered>2023-08-31</premiered>
+  <releasedate>2023-08-31</releasedate>
+  <runtime>90</runtime>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <studio>SSS Entertainments</studio>
+  <studio>Syndicate, The</studio>
+  <studio>Portman Artemis Productions</studio>
+  <studio>Votiv Films</studio>
+  <studio>Priority Pictures</studio>
+  <studio>Vertical Entertainment</studio>
+  <studio>First Love Films</studio>
+  <uniqueid type="tmdb">996347</uniqueid>
+  <uniqueid type="imdb">tt21222462</uniqueid>
+  <id>tt21222462</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149741</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5425</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129447</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

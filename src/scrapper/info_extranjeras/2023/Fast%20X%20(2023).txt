@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dom Toretto y su familia se convierten en el objetivo del vengativo hijo del capo de las drogas Hernán Reyes.]]></plot>
+  <outline><![CDATA[El final del camino comienza.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-12 08:37:52</dateadded>
+  <title>Fast &amp; Furious X</title>
+  <originaltitle>Fast X</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+    <tvdbid>310526</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Letty</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+    <imdbid>nm0879085</imdbid>
+    <tvdbid>266859</tvdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+    <imdbid>nm0524839</imdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Jakob Toretto</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Ramsey</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+    <imdbid>nm2812026</imdbid>
+    <tvdbid>247884</tvdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+    <tvdbid>295858</tvdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+    <tvdbid>329425</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Dante</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+    <tvdbid>247856</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott Eastwood</name>
+    <role>Little Nobody</role>
+    <type>Actor</type>
+    <tmdbid>928572</tmdbid>
+    <imdbid>nm2207222</imdbid>
+  </actor>
+  <actor>
+    <name>Daniela Melchior</name>
+    <role>Isabel</role>
+    <type>Actor</type>
+    <tmdbid>1784612</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Ritchson</name>
+    <role>Aimes</role>
+    <type>Actor</type>
+    <tmdbid>64295</tmdbid>
+    <imdbid>nm2024927</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Queenie</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+    <imdbid>nm0000545</imdbid>
+    <tvdbid>296967</tvdbid>
+  </actor>
+  <actor>
+    <name>Brie Larson</name>
+    <role>Tess</role>
+    <type>Actor</type>
+    <tmdbid>60073</tmdbid>
+    <imdbid>nm0488953</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Shaw</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Charlize Theron</name>
+    <role>Cipher</role>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>Rita Moreno</name>
+    <role>Abuelita</role>
+    <type>Actor</type>
+    <tmdbid>13299</tmdbid>
+    <imdbid>nm0001549</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquim de Almeida</name>
+    <role>Hernan Reyes</role>
+    <type>Actor</type>
+    <tmdbid>22462</tmdbid>
+    <imdbid>nm0021835</imdbid>
+  </actor>
+  <actor>
+    <name>Leo A. Perry</name>
+    <role>Little Brian</role>
+    <type>Actor</type>
+    <tmdbid>2984075</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Da Silva Jr.</name>
+    <role>Diogo</role>
+    <type>Actor</type>
+    <tmdbid>37149</tmdbid>
+    <imdbid>nm1534888</imdbid>
+  </actor>
+  <actor>
+    <name>Jaz Hutchins</name>
+    <role>Agency Tech</role>
+    <type>Actor</type>
+    <tmdbid>1678751</tmdbid>
+  </actor>
+  <actor>
+    <name>Luka Hays</name>
+    <role>Cipher Tech</role>
+    <type>Actor</type>
+    <tmdbid>1897706</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Capon</name>
+    <role>Cipher Tech</role>
+    <type>Actor</type>
+    <tmdbid>4074147</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Davidson</name>
+    <role>Bowie</role>
+    <type>Actor</type>
+    <tmdbid>1427948</tmdbid>
+    <imdbid>nm0203457</imdbid>
+  </actor>
+  <actor>
+    <name>Shadrach Agozino</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>4074148</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludmilla</name>
+    <role>Starter</role>
+    <type>Actor</type>
+    <tmdbid>2282001</tmdbid>
+  </actor>
+  <actor>
+    <name>Miraj Grbić</name>
+    <role>Russian Bag Guy</role>
+    <type>Actor</type>
+    <tmdbid>508582</tmdbid>
+    <imdbid>nm1096977</imdbid>
+  </actor>
+  <actor>
+    <name>Meadow Walker Thornton-Allan</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>3184164</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Irby</name>
+    <role>Zizi (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>124304</tmdbid>
+    <imdbid>nm0409831</imdbid>
+    <tvdbid>314565</tvdbid>
+  </actor>
+  <actor>
+    <name>Shahir Figueira</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>4074151</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Santos</name>
+    <role>Lead Cartel Thug</role>
+    <type>Actor</type>
+    <tmdbid>2545367</tmdbid>
+    <imdbid>nm8552036</imdbid>
+  </actor>
+  <actor>
+    <name>Debby Ryan</name>
+    <role>Debby Ryan</role>
+    <type>Actor</type>
+    <tmdbid>123846</tmdbid>
+    <imdbid>nm2913275</imdbid>
+    <tvdbid>301502</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Dun</name>
+    <role>Josh Dun</role>
+    <type>Actor</type>
+    <tmdbid>2138286</tmdbid>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Luke Hobbs (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+    <tvdbid>255089</tvdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Gisele Yashar (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+    <imdbid>nm0908094</imdbid>
+  </actor>
+  <actor>
+    <name>Ali Baddou</name>
+    <role>Ali Baddou (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4211960</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Buchan</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3579266</tmdbid>
+  </actor>
+  <director tmdbid="18865" imdbid="nm0504642">Louis Leterrier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FDhvbIqTQwI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KOQy0AwA7k8</trailer>
+  <rating>5.8</rating>
+  <year>2023</year>
+  <sorttitle>Fast &amp; Furious X</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5433140</imdbid>
+  <tmdbid>385687</tmdbid>
+  <premiered>2023-05-17</premiered>
+  <releasedate>2023-05-17</releasedate>
+  <criticrating>56</criticrating>
+  <runtime>141</runtime>
+  <tagline>El final del camino comienza.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Original Film</studio>
+  <studio>One Race</studio>
+  <studio>Perfect Storm Entertainment</studio>
+  <set tmdbcolid="9485">
+    <name>A todo gas - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt5433140</uniqueid>
+  <uniqueid type="tmdb">385687</uniqueid>
+  <id>tt5433140</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>890048</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>140</duration>
+        <durationinseconds>8455</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

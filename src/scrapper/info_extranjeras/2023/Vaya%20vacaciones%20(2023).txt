@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Manuela y José quieren mucho a sus hijos y, sobre todo, idolatran a sus nietos. Pero los padres de estos han tomado por costumbre dejar a sus retoños al cuidado de sus abuelos, día sí y día también. Manuela y José ya no recuerdan la última vez que tuvieron un rato para ellos mismos. Y para colmo este verano han tenido que cancelar el viaje de sus sueños porque a sus hijos les ha salido un importantísimo viaje de trabajo…, aunque pronto van a descubrir la verdad: en realidad están de vacaciones en Bali.]]></plot>
+  <outline><![CDATA[La guerra ha comenzado]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-21 12:40:27</dateadded>
+  <title>¡Vaya vacaciones!</title>
+  <originaltitle>¡Vaya vacaciones!</originaltitle>
+  <actor>
+    <name>Tito Valverde</name>
+    <type>Actor</type>
+    <tmdbid>974519</tmdbid>
+    <imdbid>nm0885453</imdbid>
+    <tvdbid>292043</tvdbid>
+  </actor>
+  <actor>
+    <name>Gracia Olayo</name>
+    <type>Actor</type>
+    <tmdbid>982296</tmdbid>
+    <imdbid>nm0646010</imdbid>
+    <tvdbid>604679</tvdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Sevilla</name>
+    <type>Actor</type>
+    <tmdbid>972158</tmdbid>
+    <imdbid>nm1238859</imdbid>
+    <tvdbid>294453</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniela Rubio</name>
+    <type>Actor</type>
+    <tmdbid>2556044</tmdbid>
+    <imdbid>nm6882589</imdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Mas</name>
+    <type>Actor</type>
+    <tmdbid>3776583</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramón Barea</name>
+    <type>Actor</type>
+    <tmdbid>24987</tmdbid>
+    <imdbid>nm0054381</imdbid>
+    <tvdbid>493593</tvdbid>
+  </actor>
+  <actor>
+    <name>Nuria Herrero</name>
+    <type>Actor</type>
+    <tmdbid>1529784</tmdbid>
+    <imdbid>nm3794746</imdbid>
+  </actor>
+  <actor>
+    <name>Marta de Toro</name>
+    <type>Actor</type>
+    <tmdbid>3776587</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolás Costi</name>
+    <type>Actor</type>
+    <tmdbid>3776588</tmdbid>
+  </actor>
+  <director tmdbid="1044792">Víctor García León</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eqj6BxWKgUI</trailer>
+  <rating>5.1</rating>
+  <year>2023</year>
+  <sorttitle>¡Vaya vacaciones!</sorttitle>
+  <imdbid>tt15523334</imdbid>
+  <tmdbid>926924</tmdbid>
+  <premiered>2023-04-21</premiered>
+  <releasedate>2023-04-21</releasedate>
+  <runtime>87</runtime>
+  <tagline>La guerra ha comenzado</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Telecinco Cinema</studio>
+  <studio>Mediaset España</studio>
+  <studio>Aliwood Mediterráneo Producciones</studio>
+  <studio>Movistar+</studio>
+  <studio>Quexito Films</studio>
+  <uniqueid type="imdb">tt15523334</uniqueid>
+  <uniqueid type="tmdb">926924</uniqueid>
+  <id>tt15523334</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>301668</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5238</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63824</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

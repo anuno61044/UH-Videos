@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Miss Novak es una maestra que se une al equipo de una escuela de élite para dar clases de nutrición a jóvenes estudiantes. En poco tiempo, la maestra establece un estrecho vínculo con cinco de sus alumnos, sin que el resto de profesores se dé cuenta de lo que sucede. Hasta que todo da un inesperado giro muy peligroso.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-13 20:18:26</dateadded>
+  <title>Club Zero</title>
+  <originaltitle>Club Zero</originaltitle>
+  <actor>
+    <name>Mia Wasikowska</name>
+    <role>Miss Novak</role>
+    <type>Actor</type>
+    <tmdbid>76070</tmdbid>
+    <imdbid>nm1985859</imdbid>
+  </actor>
+  <actor>
+    <name>Sidse Babett Knudsen</name>
+    <role>Miss Dorset</role>
+    <type>Actor</type>
+    <tmdbid>32683</tmdbid>
+    <tvdbid>321419</tvdbid>
+  </actor>
+  <actor>
+    <name>Amir El-Masry</name>
+    <role>Mr. Dahl</role>
+    <type>Actor</type>
+    <tmdbid>1739403</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Zylberstein</name>
+    <role>Elsa's Mother</role>
+    <type>Actor</type>
+    <tmdbid>39195</tmdbid>
+    <imdbid>nm0959113</imdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Demy</name>
+    <role>Elsa's Father</role>
+    <type>Actor</type>
+    <tmdbid>64751</tmdbid>
+  </actor>
+  <actor>
+    <name>Ksenia Devriendt</name>
+    <role>Elsa</role>
+    <type>Actor</type>
+    <tmdbid>3661234</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Barker</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>3661233</tmdbid>
+  </actor>
+  <actor>
+    <name>Florence Baker</name>
+    <role>Ragna</role>
+    <type>Actor</type>
+    <tmdbid>1464781</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel D Anderson</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>3661232</tmdbid>
+  </actor>
+  <actor>
+    <name>Gwen Currant</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>3661231</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Lawrence</name>
+    <role>Miss Benedict</role>
+    <type>Actor</type>
+    <tmdbid>990064</tmdbid>
+    <imdbid>nm1054648</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Hoare</name>
+    <role>Fred's Father</role>
+    <type>Actor</type>
+    <tmdbid>1075144</tmdbid>
+    <imdbid>nm2397390</imdbid>
+  </actor>
+  <actor>
+    <name>Camilla Rutherford</name>
+    <role>Fred's Mother</role>
+    <type>Actor</type>
+    <tmdbid>38809</tmdbid>
+    <imdbid>nm0751950</imdbid>
+  </actor>
+  <actor>
+    <name>Keeley Forsyth</name>
+    <role>Ragna's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1234991</tmdbid>
+    <imdbid>nm0287055</imdbid>
+  </actor>
+  <actor>
+    <name>Lukas Turtur</name>
+    <role>Ragna's Father</role>
+    <type>Actor</type>
+    <tmdbid>1746343</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Lamers</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3661230</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrei Hozoc</name>
+    <role>Corbinian</role>
+    <type>Actor</type>
+    <tmdbid>3755917</tmdbid>
+  </actor>
+  <actor>
+    <name>Laoisha O'Callaghan</name>
+    <role>Helen's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3755919</tmdbid>
+  </actor>
+  <actor>
+    <name>Sade McNichols-Thomas</name>
+    <role>Joan</role>
+    <type>Actor</type>
+    <tmdbid>3755920</tmdbid>
+  </actor>
+  <actor>
+    <name>Szandra Asztalos</name>
+    <role>Housekeeper</role>
+    <type>Actor</type>
+    <tmdbid>2503037</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Crankshaw</name>
+    <role>Sports Teacher</role>
+    <type>Actor</type>
+    <tmdbid>3964949</tmdbid>
+  </actor>
+  <director tmdbid="19896" imdbid="nm0369618">Jessica Hausner</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AzxWBX8T4sc</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Club Zero</sorttitle>
+  <imdbid>tt18235146</imdbid>
+  <tmdbid>938250</tmdbid>
+  <premiered>2023-09-27</premiered>
+  <releasedate>2023-09-27</releasedate>
+  <runtime>105</runtime>
+  <country>Austria</country>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Turkey</country>
+  <country>United Kingdom</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Coop 99 Filmproduktion</studio>
+  <studio>Essential Filmproduktion</studio>
+  <studio>Coproduction Office</studio>
+  <studio>Société Parisienne de Production</studio>
+  <studio>Paloma Productions</studio>
+  <studio>Club Zero Ltd.</studio>
+  <studio>BBC Film</studio>
+  <uniqueid type="tmdb">938250</uniqueid>
+  <uniqueid type="imdb">tt18235146</uniqueid>
+  <id>tt18235146</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>927009</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>83:45</aspect>
+        <aspectratio>83:45</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6321</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

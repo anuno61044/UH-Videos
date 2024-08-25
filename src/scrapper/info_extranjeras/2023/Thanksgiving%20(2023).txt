@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras un Black Friday en el que se producen disturbios que acaban en tragedia, un misterioso asesino inspirado en la festividad de Acción de Gracias aterroriza Plymouth, en Massachusetts – lugar de origen de la tristemente célebre festividad. Versión en largometraje del celebrado falso tráiler de Eli Roth para "Grindhouse".]]></plot>
+  <outline><![CDATA[No quedarán ni los restos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-19 21:35:54</dateadded>
+  <title>Black Friday</title>
+  <originaltitle>Thanksgiving</originaltitle>
+  <actor>
+    <name>Patrick Dempsey</name>
+    <role>Sheriff Eric Newlon</role>
+    <type>Actor</type>
+    <tmdbid>18352</tmdbid>
+    <imdbid>nm0001131</imdbid>
+  </actor>
+  <actor>
+    <name>Nell Verlaque</name>
+    <role>Jessica</role>
+    <type>Actor</type>
+    <tmdbid>2300122</tmdbid>
+  </actor>
+  <actor>
+    <name>Addison Rae</name>
+    <role>Gabby</role>
+    <type>Actor</type>
+    <tmdbid>2773990</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalen Thomas Brooks</name>
+    <role>Bobby</role>
+    <type>Actor</type>
+    <tmdbid>2444677</tmdbid>
+  </actor>
+  <actor>
+    <name>Milo Manheim</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tmdbid>1914958</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Hoffman</name>
+    <role>Thomas Wright</role>
+    <type>Actor</type>
+    <tmdbid>1216133</tmdbid>
+    <imdbid>nm0389069</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Gershon</name>
+    <role>Amanda Collins</role>
+    <type>Actor</type>
+    <tmdbid>11150</tmdbid>
+    <imdbid>nm0000153</imdbid>
+  </actor>
+  <actor>
+    <name>Tomaso Sanelli</name>
+    <role>Evan</role>
+    <type>Actor</type>
+    <tmdbid>1746412</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Davenport</name>
+    <role>Scuba</role>
+    <type>Actor</type>
+    <tmdbid>2561203</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Warren</name>
+    <role>Yulia</role>
+    <type>Actor</type>
+    <tmdbid>1802602</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Cliche</name>
+    <role>Kathleen</role>
+    <type>Actor</type>
+    <tmdbid>139419</tmdbid>
+    <imdbid>nm0166566</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Teravainen</name>
+    <role>Labelle</role>
+    <type>Actor</type>
+    <tmdbid>1492757</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Poole</name>
+    <role>Jacob</role>
+    <type>Actor</type>
+    <tmdbid>1872286</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Delfin</name>
+    <role>McCarty</role>
+    <type>Actor</type>
+    <tmdbid>1849328</tmdbid>
+  </actor>
+  <actor>
+    <name>Ty Olsson</name>
+    <role>Mitch Collins</role>
+    <type>Actor</type>
+    <tmdbid>42711</tmdbid>
+    <imdbid>nm0648153</imdbid>
+  </actor>
+  <actor>
+    <name>Mika Amonsen</name>
+    <role>Lonnie</role>
+    <type>Actor</type>
+    <tmdbid>2184164</tmdbid>
+  </actor>
+  <actor>
+    <name>Shailyn Griffin</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>4381964</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Dillon</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>2419859</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Barker</name>
+    <role>Lizzie</role>
+    <type>Actor</type>
+    <tmdbid>1128322</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Sandiford</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>2069639</tmdbid>
+    <tvdbid>570732</tvdbid>
+  </actor>
+  <actor>
+    <name>Derek McGrath</name>
+    <role>Mayor Cantin</role>
+    <type>Actor</type>
+    <tmdbid>1212317</tmdbid>
+    <imdbid>nm0569787</imdbid>
+  </actor>
+  <actor>
+    <name>Lynne Griffin</name>
+    <role>Grandma</role>
+    <type>Actor</type>
+    <tmdbid>34917</tmdbid>
+  </actor>
+  <actor>
+    <name>James Goldman</name>
+    <role>Scott</role>
+    <type>Actor</type>
+    <tmdbid>4390236</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Trowell</name>
+    <role>Mayor Cantin's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1393528</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Yuen</name>
+    <role>Detective Peter Chu</role>
+    <type>Actor</type>
+    <tmdbid>29466</tmdbid>
+    <imdbid>nm0004067</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Claude Dubois</name>
+    <role>McCarty's Dad</role>
+    <type>Actor</type>
+    <tmdbid>3690897</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Sabeta</name>
+    <role>Bobby's Fan</role>
+    <type>Actor</type>
+    <tmdbid>3426980</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam MacDonald</name>
+    <role>John Carver (voice)</role>
+    <type>Actor</type>
+    <tmdbid>64618</tmdbid>
+    <imdbid>nm0531595</imdbid>
+  </actor>
+  <actor>
+    <name>Yusuf Zine</name>
+    <role>Hank Morton</role>
+    <type>Actor</type>
+    <tmdbid>3586914</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorian Giordano</name>
+    <role>Chad</role>
+    <type>Actor</type>
+    <tmdbid>2753242</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailey Kittle</name>
+    <role>Ashley</role>
+    <type>Actor</type>
+    <tmdbid>1664310</tmdbid>
+  </actor>
+  <actor>
+    <name>Andriah Bryan</name>
+    <role>Mrs. Byers</role>
+    <type>Actor</type>
+    <tmdbid>4422983</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoff Rutherford</name>
+    <role>Coach Ingalls</role>
+    <type>Actor</type>
+    <tmdbid>4422985</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank J. Zupancic</name>
+    <role>Yulia’s Dad</role>
+    <type>Actor</type>
+    <tmdbid>136959</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Keat</name>
+    <role>Vomiting Teen</role>
+    <type>Actor</type>
+    <tmdbid>4422988</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Bostick</name>
+    <role>Customer</role>
+    <type>Actor</type>
+    <tmdbid>50776</tmdbid>
+    <imdbid>nm0098232</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Elliot</name>
+    <role>Kid at Party</role>
+    <type>Actor</type>
+    <tmdbid>2852725</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Reynoldson</name>
+    <role>Neck Glass Guy</role>
+    <type>Actor</type>
+    <tmdbid>4422990</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Boorman</name>
+    <role>Cop at Yulia’s</role>
+    <type>Actor</type>
+    <tmdbid>1690507</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Robles</name>
+    <role>Lionel The Mascot (Red Jacket)</role>
+    <type>Actor</type>
+    <tmdbid>2736839</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Storey</name>
+    <role>Kid #1 in Mayflower Truck</role>
+    <type>Actor</type>
+    <tmdbid>3424591</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Storey</name>
+    <role>Kid #2 in Mayflower Truck</role>
+    <type>Actor</type>
+    <tmdbid>4265534</tmdbid>
+  </actor>
+  <actor>
+    <name>Shiloh O’Reilly</name>
+    <role>Screaming Kid</role>
+    <type>Actor</type>
+    <tmdbid>4058530</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Smith</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2122047</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlisle J. Williams</name>
+    <role>Fireman</role>
+    <type>Actor</type>
+    <tmdbid>2310124</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Beiser-Hunt</name>
+    <role>Rejected Teen</role>
+    <type>Actor</type>
+    <tmdbid>4422993</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Creamer</name>
+    <role>Parade Pilgrim</role>
+    <type>Actor</type>
+    <tmdbid>4422994</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas DeCoulos</name>
+    <role>Shopper</role>
+    <type>Actor</type>
+    <tmdbid>4422995</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Gordon Fraser</name>
+    <role>Black Friday Shopper</role>
+    <type>Actor</type>
+    <tmdbid>4376342</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Gosden</name>
+    <role>Shopper</role>
+    <type>Actor</type>
+    <tmdbid>3170445</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Herd</name>
+    <role>Warehouse Worker</role>
+    <type>Actor</type>
+    <tmdbid>2878180</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Timothy Hunt</name>
+    <role>Parade Official</role>
+    <type>Actor</type>
+    <tmdbid>2162656</tmdbid>
+  </actor>
+  <actor>
+    <name>Piret Jõgeda</name>
+    <role>Shopper</role>
+    <type>Actor</type>
+    <tmdbid>3774083</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron J. La Fleur</name>
+    <role>Right Mart Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>4423002</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Leedes</name>
+    <role>Right Mart Shopper</role>
+    <type>Actor</type>
+    <tmdbid>2953726</tmdbid>
+  </actor>
+  <actor>
+    <name>James Magwood</name>
+    <role>Shopper</role>
+    <type>Actor</type>
+    <tmdbid>4423003</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvain Plasse</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>3761301</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Ryan-Astley</name>
+    <role>Right Mart Shopper</role>
+    <type>Actor</type>
+    <tmdbid>4423004</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Nonato</name>
+    <role>Student in Class</role>
+    <type>Actor</type>
+    <tmdbid>4423007</tmdbid>
+  </actor>
+  <director tmdbid="16847" imdbid="nm0744834" tvdbid="290301">Eli Roth</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mQxbZubEv3A</trailer>
+  <rating>6.9</rating>
+  <year>2023</year>
+  <sorttitle>Black Friday</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1448754</imdbid>
+  <tmdbid>1071215</tmdbid>
+  <premiered>2023-11-16</premiered>
+  <releasedate>2023-11-16</releasedate>
+  <runtime>106</runtime>
+  <tagline>No quedarán ni los restos.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Electromagnetic Productions</studio>
+  <studio>Dragonfly Entertainment</studio>
+  <studio>Spyglass Media Group</studio>
+  <set tmdbcolid="1211888">
+    <name>Thanksgiving Collection</name>
+  </set>
+  <uniqueid type="imdb">tt1448754</uniqueid>
+  <uniqueid type="tmdb">1071215</uniqueid>
+  <id>tt1448754</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1052175</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6357</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

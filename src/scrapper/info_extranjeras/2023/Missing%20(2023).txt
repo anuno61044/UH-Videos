@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando su madre desaparece estando de vacaciones en Colombia con su nuevo novio, la búsqueda de respuestas por parte de June se ve entorpecida por la burocracia internacional. Atascada en Los Ángeles, a miles de kilómetros de distancia, June utiliza toda la tecnología a su disposición para intentar encontrarla antes de que sea demasiado tarde. Pero cuanto más profundiza en su búsqueda, su investigación digital levanta más preguntas que respuestas… y cuando June revela secretos sobre su madre, se da cuenta de que nunca la conoció realmente. Secuela de 'Searching' (2018).]]></plot>
+  <outline><![CDATA[Nadie desaparece sin dejar rastro.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-07 08:16:55</dateadded>
+  <title>Missing</title>
+  <originaltitle>Missing</originaltitle>
+  <actor>
+    <name>Storm Reid</name>
+    <role>June Allen</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+    <imdbid>nm4977564</imdbid>
+    <tvdbid>480296</tvdbid>
+  </actor>
+  <actor>
+    <name>Joaquim de Almeida</name>
+    <role>Javier</role>
+    <type>Actor</type>
+    <tmdbid>22462</tmdbid>
+    <imdbid>nm0021835</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Leung</name>
+    <role>Kevin Lin</role>
+    <type>Actor</type>
+    <tmdbid>2131</tmdbid>
+    <imdbid>nm0504962</imdbid>
+    <tvdbid>338544</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Landecker</name>
+    <role>Heather Damore</role>
+    <type>Actor</type>
+    <tmdbid>357551</tmdbid>
+    <imdbid>nm0484541</imdbid>
+    <tvdbid>329931</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Henney</name>
+    <role>Agent Elijah Park</role>
+    <type>Actor</type>
+    <tmdbid>82093</tmdbid>
+    <imdbid>nm2024644</imdbid>
+    <tvdbid>299944</tvdbid>
+  </actor>
+  <actor>
+    <name>Nia Long</name>
+    <role>Grace Allen</role>
+    <type>Actor</type>
+    <tmdbid>9781</tmdbid>
+    <imdbid>nm0000505</imdbid>
+  </actor>
+  <actor>
+    <name>Megan Suri</name>
+    <role>Veena</role>
+    <type>Actor</type>
+    <tmdbid>2073513</tmdbid>
+    <imdbid>nm3514372</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Griffin</name>
+    <role>James Allen</role>
+    <type>Actor</type>
+    <tmdbid>27031</tmdbid>
+    <imdbid>nm0341377</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Chambers</name>
+    <role>Morning Host</role>
+    <type>Actor</type>
+    <tmdbid>1563891</tmdbid>
+    <imdbid>nm9983340</imdbid>
+  </actor>
+  <actor>
+    <name>Tracy Vilar</name>
+    <role>Gabi Gomez</role>
+    <type>Actor</type>
+    <tmdbid>156633</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Cheng</name>
+    <role>Field Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2191238</tmdbid>
+  </actor>
+  <actor>
+    <name>Dalila Ali Rajah</name>
+    <role>Boss</role>
+    <type>Actor</type>
+    <tmdbid>1862670</tmdbid>
+  </actor>
+  <actor>
+    <name>Kendal Evans</name>
+    <role>TaskRabbit Model</role>
+    <type>Actor</type>
+    <tmdbid>3717617</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalil Jay Lynch</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>75636</tmdbid>
+    <imdbid>nm0528324</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren B. Mosley</name>
+    <role>Rachel</role>
+    <type>Actor</type>
+    <tmdbid>1679806</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Yamada</name>
+    <role>Alison</role>
+    <type>Actor</type>
+    <tmdbid>1767444</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharar Ali-Speakes</name>
+    <role>Tia</role>
+    <type>Actor</type>
+    <tmdbid>3167634</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Segovia</name>
+    <role>Angel</role>
+    <type>Actor</type>
+    <tmdbid>1868131</tmdbid>
+  </actor>
+  <actor>
+    <name>Jameel Shivji</name>
+    <role>Karthik</role>
+    <type>Actor</type>
+    <tmdbid>2112698</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Bhatnagar</name>
+    <role>Interviewer</role>
+    <type>Actor</type>
+    <tmdbid>3235875</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcello Padilla</name>
+    <role>Forensic Investigator</role>
+    <type>Actor</type>
+    <tmdbid>3773704</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita Rucker</name>
+    <role>Makeup Artist</role>
+    <type>Actor</type>
+    <tmdbid>2936582</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Zaria Lee</name>
+    <role>Young June</role>
+    <type>Actor</type>
+    <tmdbid>3773706</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy Abramsohn</name>
+    <role>Jason Caplan</role>
+    <type>Actor</type>
+    <tmdbid>154472</tmdbid>
+  </actor>
+  <actor>
+    <name>Briana McLean</name>
+    <role>Abigail Nelson</role>
+    <type>Actor</type>
+    <tmdbid>2175877</tmdbid>
+  </actor>
+  <actor>
+    <name>Karina Noelle Castillo</name>
+    <role>SWAT Lead Actress</role>
+    <type>Actor</type>
+    <tmdbid>1515051</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmin Savoy Brown</name>
+    <role>June Actress</role>
+    <type>Actor</type>
+    <tmdbid>1508653</tmdbid>
+    <imdbid>nm5506401</imdbid>
+  </actor>
+  <actor>
+    <name>Viviana Salinas</name>
+    <role>Colombia News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>3990623</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Goméz Ortega</name>
+    <role>Colombian Teen</role>
+    <type>Actor</type>
+    <tmdbid>3990624</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Nottingham</name>
+    <role>Erica Jones</role>
+    <type>Actor</type>
+    <tmdbid>3423613</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Barbusca</name>
+    <role>Youtube Sleuth #1 - Cody</role>
+    <type>Actor</type>
+    <tmdbid>1540601</tmdbid>
+    <imdbid>nm4564958</imdbid>
+  </actor>
+  <actor>
+    <name>Esteban Dager</name>
+    <role>Youtube Sleuth #2</role>
+    <type>Actor</type>
+    <tmdbid>2964513</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean O'Bryan</name>
+    <role>Radio Host</role>
+    <type>Actor</type>
+    <tmdbid>33836</tmdbid>
+    <imdbid>nm0639917</imdbid>
+  </actor>
+  <actor>
+    <name>Zeke Alton</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>2303967</tmdbid>
+  </actor>
+  <actor>
+    <name>Billie Jordan</name>
+    <role>Photographed Young June</role>
+    <type>Actor</type>
+    <tmdbid>3990625</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Smith</name>
+    <role>Detective Vick (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3990626</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Camacho</name>
+    <role>Desk Clerk (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1036171</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Menville</name>
+    <role>Customer Service Rep (voice)</role>
+    <type>Actor</type>
+    <tmdbid>113916</tmdbid>
+    <imdbid>nm0579914</imdbid>
+    <tvdbid>266693</tvdbid>
+  </actor>
+  <actor>
+    <name>Wolfie Trausch</name>
+    <role>Wine Bar Worker (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1530193</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Stables</name>
+    <role>TikTok Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>107791</tmdbid>
+    <imdbid>nm1261587</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Grajeda</name>
+    <role>Colombian Reporter (voice)</role>
+    <type>Actor</type>
+    <tmdbid>66148</tmdbid>
+    <imdbid>nm0334462</imdbid>
+  </actor>
+  <actor>
+    <name>Mauricio Mendoza</name>
+    <role>Colombian Policeman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1314891</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Remez</name>
+    <role>Field Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1211945</tmdbid>
+    <imdbid>nm0718920</imdbid>
+  </actor>
+  <director tmdbid="2093036">Nicholas D. Johnson</director>
+  <director tmdbid="2093041">Will Merrick</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-iHlvyFPbfQ</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Missing</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10855768</imdbid>
+  <tmdbid>768362</tmdbid>
+  <premiered>2023-01-19</premiered>
+  <releasedate>2023-01-19</releasedate>
+  <runtime>111</runtime>
+  <tagline>Nadie desaparece sin dejar rastro.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Stage 6 Films</studio>
+  <studio>Search Party</studio>
+  <studio>Bazelevs Entertainment</studio>
+  <studio>Screen Gems</studio>
+  <set tmdbcolid="1145924">
+    <name>Searching Collection</name>
+  </set>
+  <set tmdbcolid="768464">
+    <name>Searching - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10855768</uniqueid>
+  <uniqueid type="tmdb">768362</uniqueid>
+  <id>tt10855768</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1007303</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6640</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

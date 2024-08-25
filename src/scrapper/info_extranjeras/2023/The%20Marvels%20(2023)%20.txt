@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando sus obligaciones la envían a un agujero de gusano vinculado a un revolucionario kree, los poderes de Carol Danvers, la capitana Marvel, se entremezclan con los de Kamala Khan, también conocida como la Sra. Marvel y la sobrina de Carol, ahora astronauta de S.A.B.E.R., Monica Rambeau. Juntas, deberán salvar el universo como "The Marvels".]]></plot>
+  <outline><![CDATA[Más alto. Más lejos. Más rápido. Juntas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-06 15:03:45</dateadded>
+  <title>The Marvels</title>
+  <originaltitle>The Marvels</originaltitle>
+  <actor>
+    <name>Brie Larson</name>
+    <role>Carol Danvers / Captain Marvel</role>
+    <type>Actor</type>
+    <tmdbid>60073</tmdbid>
+    <imdbid>nm0488953</imdbid>
+  </actor>
+  <actor>
+    <name>Teyonah Parris</name>
+    <role>Monica Rambeau</role>
+    <type>Actor</type>
+    <tmdbid>970219</tmdbid>
+    <imdbid>nm3500582</imdbid>
+  </actor>
+  <actor>
+    <name>Iman Vellani</name>
+    <role>Kamala Khan / Ms. Marvel</role>
+    <type>Actor</type>
+    <tmdbid>2798462</tmdbid>
+    <tvdbid>8189171</tvdbid>
+  </actor>
+  <actor>
+    <name>Zawe Ashton</name>
+    <role>Dar-Benn</role>
+    <type>Actor</type>
+    <tmdbid>118034</tmdbid>
+    <imdbid>nm1534698</imdbid>
+    <tvdbid>452054</tvdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Nick Fury</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+    <tvdbid>287826</tvdbid>
+  </actor>
+  <actor>
+    <name>Gary Lewis</name>
+    <role>Emperor Dro'ge</role>
+    <type>Actor</type>
+    <tmdbid>480</tmdbid>
+    <imdbid>nm0507207</imdbid>
+    <tvdbid>481275</tvdbid>
+  </actor>
+  <actor>
+    <name>Park Seo-jun</name>
+    <role>Prince Yan</role>
+    <type>Actor</type>
+    <tmdbid>1347525</tmdbid>
+  </actor>
+  <actor>
+    <name>Zenobia Shroff</name>
+    <role>Muneeba Khan</role>
+    <type>Actor</type>
+    <tmdbid>1809782</tmdbid>
+    <tvdbid>619804</tvdbid>
+  </actor>
+  <actor>
+    <name>Mohan Kapur</name>
+    <role>Yusuf Khan</role>
+    <type>Actor</type>
+    <tmdbid>1014905</tmdbid>
+    <tvdbid>7987596</tvdbid>
+  </actor>
+  <actor>
+    <name>Saagar Shaikh</name>
+    <role>Aamir Khan</role>
+    <type>Actor</type>
+    <tmdbid>2889306</tmdbid>
+    <tvdbid>9097737</tvdbid>
+  </actor>
+  <actor>
+    <name>Leila Farzad</name>
+    <role>Talia</role>
+    <type>Actor</type>
+    <tmdbid>2044882</tmdbid>
+  </actor>
+  <actor>
+    <name>Abraham Popoola</name>
+    <role>Dag</role>
+    <type>Actor</type>
+    <tmdbid>1432064</tmdbid>
+    <tvdbid>8285585</tvdbid>
+  </actor>
+  <actor>
+    <name>Lashana Lynch</name>
+    <role>Maria Rambeau</role>
+    <type>Actor</type>
+    <tmdbid>1360281</tmdbid>
+    <imdbid>nm2736476</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Valkyrie</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+    <tvdbid>332925</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Ings</name>
+    <role>Ty-Rone</role>
+    <type>Actor</type>
+    <tmdbid>1131724</tmdbid>
+    <imdbid>nm3958526</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Hughes</name>
+    <role>Kree Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2197138</tmdbid>
+  </actor>
+  <actor>
+    <name>Shardiah Ssagala</name>
+    <role>Skrull Young Adult</role>
+    <type>Actor</type>
+    <tmdbid>4350019</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecily Cleeve</name>
+    <role>Skrull Young Girl</role>
+    <type>Actor</type>
+    <tmdbid>4016965</tmdbid>
+  </actor>
+  <actor>
+    <name>Remi Dabiri-McQuaid</name>
+    <role>Skrull Child</role>
+    <type>Actor</type>
+    <tmdbid>4364359</tmdbid>
+  </actor>
+  <actor>
+    <name>Ffion Jolly</name>
+    <role>Skrull Woman</role>
+    <type>Actor</type>
+    <tmdbid>1769602</tmdbid>
+  </actor>
+  <actor>
+    <name>Kennedy McCallum-Martin</name>
+    <role>Little Monica</role>
+    <type>Actor</type>
+    <tmdbid>4364361</tmdbid>
+  </actor>
+  <actor>
+    <name>Savannah Skinner-Henry</name>
+    <role>Aladnean Child</role>
+    <type>Actor</type>
+    <tmdbid>3251155</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel John</name>
+    <role>Joyous Aladnean</role>
+    <type>Actor</type>
+    <tmdbid>2720669</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Monteiro</name>
+    <role>Royal Attaché</role>
+    <type>Actor</type>
+    <tmdbid>4364363</tmdbid>
+  </actor>
+  <actor>
+    <name>Kya Garwood</name>
+    <role>Awed Kree Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1944807</tmdbid>
+  </actor>
+  <actor>
+    <name>Fikayo Ifarajimi</name>
+    <role>Hala Citizen</role>
+    <type>Actor</type>
+    <tmdbid>4364364</tmdbid>
+  </actor>
+  <actor>
+    <name>Shereen Walker</name>
+    <role>Kree with Mask</role>
+    <type>Actor</type>
+    <tmdbid>4196899</tmdbid>
+  </actor>
+  <actor>
+    <name>Hansen Burton</name>
+    <role>Kree with Mask Comrade</role>
+    <type>Actor</type>
+    <tmdbid>4364367</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailee Steinfeld</name>
+    <role>Kate Bishop</role>
+    <type>Actor</type>
+    <tmdbid>130640</tmdbid>
+    <imdbid>nm2794962</imdbid>
+    <tvdbid>327453</tvdbid>
+  </actor>
+  <actor>
+    <name>Kelsey Grammer</name>
+    <role>Dr. Henry 'Hank' McCoy / Beast</role>
+    <type>Actor</type>
+    <tmdbid>7090</tmdbid>
+    <imdbid>nm0001288</imdbid>
+    <tvdbid>298933</tvdbid>
+  </actor>
+  <actor>
+    <name>Akira Akbar</name>
+    <role>Monica Rambeau (11 Years Old) (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2258733</tmdbid>
+  </actor>
+  <actor>
+    <name>Jude Law</name>
+    <role>Yon-Rogg (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9642</tmdbid>
+    <imdbid>nm0000179</imdbid>
+  </actor>
+  <actor>
+    <name>Annette Bening</name>
+    <role>Dr. Wendy Lawson (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>516</tmdbid>
+    <imdbid>nm0000906</imdbid>
+  </actor>
+  <director tmdbid="1795072">Nia DaCosta</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-Cfg_JGU46Y</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2dhMRmGN6jU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gdSGIf8kbhg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mkTQDEhC5TM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aTy0YYepMh8</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Marvels</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10676048</imdbid>
+  <tmdbid>609681</tmdbid>
+  <premiered>2023-11-08</premiered>
+  <releasedate>2023-11-08</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>98</runtime>
+  <tagline>Más alto. Más lejos. Más rápido. Juntas.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <set tmdbcolid="623911">
+    <name>Capitana Marvel - Colección</name>
+  </set>
+  <uniqueid type="tmdb">609681</uniqueid>
+  <uniqueid type="imdb">tt10676048</uniqueid>
+  <id>tt10676048</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150356</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>1024:429</aspect>
+        <aspectratio>1024:429</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5858</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128357</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

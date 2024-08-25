@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Debido al repentino deterioro de las condiciones meteorológicas, la visibilidad en el puente del aeropuerto se ve gravemente afectada, lo que deja a las personas atrapadas y en riesgo de que el puente se derrumbe debido a una serie de colisiones en cadena y explosiones. En medio del caos, los sujetos caninos "Echo" del experimento militar "Proyecto Silencio", que estaban siendo transportados en secreto, se liberan y todos los supervivientes humanos se convierten en blanco de ataques implacables.]]></plot>
+  <outline><![CDATA[Every Survivor is a Target.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-13 10:20:27</dateadded>
+  <title>Project Silence</title>
+  <originaltitle>탈출: 프로젝트 사일런스</originaltitle>
+  <actor>
+    <name>이선균</name>
+    <role>Cha Jung-won</role>
+    <type>Actor</type>
+    <tmdbid>115290</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Ji-hoon</name>
+    <role>Jobak</role>
+    <type>Actor</type>
+    <tmdbid>150125</tmdbid>
+    <imdbid>nm2352559</imdbid>
+  </actor>
+  <actor>
+    <name>김희원</name>
+    <role>Dr. Yang</role>
+    <type>Actor</type>
+    <tmdbid>550683</tmdbid>
+  </actor>
+  <actor>
+    <name>Moon Sung-keun</name>
+    <role>Byung-hak</role>
+    <type>Actor</type>
+    <tmdbid>240948</tmdbid>
+    <imdbid>nm0600673</imdbid>
+  </actor>
+  <actor>
+    <name>Ye Soo-jung</name>
+    <role>Soon-ok</role>
+    <type>Actor</type>
+    <tmdbid>1351055</tmdbid>
+  </actor>
+  <actor>
+    <name>김태우</name>
+    <role>Jung Hyun-baek</role>
+    <type>Actor</type>
+    <tmdbid>25003</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Hee-von</name>
+    <role>Mi-ran</role>
+    <type>Actor</type>
+    <tmdbid>1177278</tmdbid>
+  </actor>
+  <actor>
+    <name>박주현</name>
+    <role>Yu-ra</role>
+    <type>Actor</type>
+    <tmdbid>2633250</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Su-an</name>
+    <role>Cha Kyung-min</role>
+    <type>Actor</type>
+    <tmdbid>1278162</tmdbid>
+  </actor>
+  <actor>
+    <name>하도권</name>
+    <type>Actor</type>
+    <tmdbid>2774992</tmdbid>
+  </actor>
+  <director tmdbid="1135344">Kim Tae-gon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eirYdH45mR8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vUBUXeT_YLI</trailer>
+  <rating>5.8</rating>
+  <year>2024</year>
+  <sorttitle>Project Silence</sorttitle>
+  <imdbid>tt25808194</imdbid>
+  <tmdbid>726139</tmdbid>
+  <premiered>2024-07-11</premiered>
+  <releasedate>2024-07-11</releasedate>
+  <runtime>96</runtime>
+  <tagline>Every Survivor is a Target.</tagline>
+  <country>South Korea</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Blaad Studios</studio>
+  <studio>CJ ENM</studio>
+  <studio>CJ ENM Studios</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="tmdb">726139</uniqueid>
+  <uniqueid type="imdb">tt25808194</uniqueid>
+  <id>tt25808194</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150080</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5762</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129943</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

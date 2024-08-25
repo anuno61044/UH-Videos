@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El 13 de octubre de 1972, el vuelo 571 de la Fuerza Aérea Uruguaya, fletado para llevar a un equipo de rugby a Chile, se estrella en un glaciar en el corazón de los Andes.]]></plot>
+  <outline><![CDATA[Basada en una impresionante historia real]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-04 08:44:26</dateadded>
+  <title>La sociedad de la nieve</title>
+  <originaltitle>La sociedad de la nieve</originaltitle>
+  <actor>
+    <name>Enzo Vogrincic</name>
+    <role>Numa Turcatti</role>
+    <type>Actor</type>
+    <tmdbid>3301646</tmdbid>
+    <imdbid>nm11193967</imdbid>
+  </actor>
+  <actor>
+    <name>Agustín Pardella</name>
+    <role>Fernando 'Nando' Parrado</role>
+    <type>Actor</type>
+    <tmdbid>1769529</tmdbid>
+  </actor>
+  <actor>
+    <name>Matías Recalt</name>
+    <role>Roberto Canessa</role>
+    <type>Actor</type>
+    <tmdbid>2446476</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomas Wolf</name>
+    <role>Gustavo Zerbino</role>
+    <type>Actor</type>
+    <tmdbid>3329027</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Vegezzi</name>
+    <role>Marcelo Pérez del Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1187534</tmdbid>
+  </actor>
+  <actor>
+    <name>Esteban Kukuriczka</name>
+    <role>Adolfo 'Fito' Strauch</role>
+    <type>Actor</type>
+    <tmdbid>3251453</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Romero</name>
+    <role>Daniel Fernández Strauch</role>
+    <type>Actor</type>
+    <tmdbid>2348658</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafael Federman</name>
+    <role>Eduardo Strauch Urioste</role>
+    <type>Actor</type>
+    <tmdbid>1350179</tmdbid>
+    <imdbid>nm6710927</imdbid>
+  </actor>
+  <actor>
+    <name>Felipe González Otaño</name>
+    <role>Carlitos Páez</role>
+    <type>Actor</type>
+    <tmdbid>2709426</tmdbid>
+  </actor>
+  <actor>
+    <name>Agustín Della Corte</name>
+    <role>Antonio 'Tintin' Vizintín</role>
+    <type>Actor</type>
+    <tmdbid>3330824</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentino Alonso</name>
+    <role>Alfredo 'Pancho' Delgado</role>
+    <type>Actor</type>
+    <tmdbid>1655736</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Hempe</name>
+    <role>José Luis 'Coche' Inciarte</role>
+    <type>Actor</type>
+    <tmdbid>3084635</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Contigiani García</name>
+    <role>Arturo Nogueira</role>
+    <type>Actor</type>
+    <tmdbid>1803969</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamín Segura</name>
+    <role>Rafael 'Vasco' Echevarren</role>
+    <type>Actor</type>
+    <tmdbid>3330825</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciano Chatton</name>
+    <role>Pedro Algorta</role>
+    <type>Actor</type>
+    <tmdbid>3330826</tmdbid>
+  </actor>
+  <actor>
+    <name>Agustín Berruti</name>
+    <role>Bobby François</role>
+    <type>Actor</type>
+    <tmdbid>3330827</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Caruso</name>
+    <role>Álvaro Mangino</role>
+    <type>Actor</type>
+    <tmdbid>3330828</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocco Posca</name>
+    <role>Ramon 'Moncho' Sabella</role>
+    <type>Actor</type>
+    <tmdbid>3088129</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Pruss</name>
+    <role>Roy Harley</role>
+    <type>Actor</type>
+    <tmdbid>3330829</tmdbid>
+  </actor>
+  <actor>
+    <name>Esteban Bigliardi</name>
+    <role>Javier Methol</role>
+    <type>Actor</type>
+    <tmdbid>1086358</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Baldini</name>
+    <role>Liliana Methol</role>
+    <type>Actor</type>
+    <tmdbid>1880274</tmdbid>
+  </actor>
+  <actor>
+    <name>Blas Polidori</name>
+    <role>Gustavo 'Coco' Nicolich</role>
+    <type>Actor</type>
+    <tmdbid>3330833</tmdbid>
+  </actor>
+  <actor>
+    <name>Felipe Ramusio Mora</name>
+    <role>Diego Storm</role>
+    <type>Actor</type>
+    <tmdbid>1856216</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Vaca Narvaja</name>
+    <role>Daniel Maspons</role>
+    <type>Actor</type>
+    <tmdbid>3330834</tmdbid>
+  </actor>
+  <actor>
+    <name>Emanuel Parga</name>
+    <role>Carlos Roque</role>
+    <type>Actor</type>
+    <tmdbid>3330835</tmdbid>
+  </actor>
+  <actor>
+    <name>Federico Aznárez</name>
+    <role>Enrique Platero</role>
+    <type>Actor</type>
+    <tmdbid>4457590</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonsina Carrocio</name>
+    <role>Susy Parrado</role>
+    <type>Actor</type>
+    <tmdbid>1894408</tmdbid>
+  </actor>
+  <actor>
+    <name>Louta</name>
+    <role>Gastón Costemalle</role>
+    <type>Actor</type>
+    <tmdbid>3008057</tmdbid>
+  </actor>
+  <actor>
+    <name>Juandi Eirea Young</name>
+    <role>Juan Carlos Menéndez</role>
+    <type>Actor</type>
+    <tmdbid>4457596</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerónimo Bosia</name>
+    <role>Francisco 'Pancho' Abal</role>
+    <type>Actor</type>
+    <tmdbid>2461272</tmdbid>
+  </actor>
+  <actor>
+    <name>Giselle Douaret</name>
+    <role>Eugenia Dolgay de Parrado</role>
+    <type>Actor</type>
+    <tmdbid>4457597</tmdbid>
+  </actor>
+  <actor>
+    <name>Agustín Lain</name>
+    <role>Carlos Valeta</role>
+    <type>Actor</type>
+    <tmdbid>4457598</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Bedino</name>
+    <role>Guido Magri</role>
+    <type>Actor</type>
+    <tmdbid>4457599</tmdbid>
+  </actor>
+  <actor>
+    <name>Lautaro Martín Bakir</name>
+    <role>Julio Martínez Lamas</role>
+    <type>Actor</type>
+    <tmdbid>4457600</tmdbid>
+  </actor>
+  <actor>
+    <name>Tea Alberti</name>
+    <role>Graziela Gumila de Mariani</role>
+    <type>Actor</type>
+    <tmdbid>4457601</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Bereny</name>
+    <role>Felipe Maquirriain</role>
+    <type>Actor</type>
+    <tmdbid>4211932</tmdbid>
+  </actor>
+  <actor>
+    <name>Toto Rovito</name>
+    <role>Alexis Hounie</role>
+    <type>Actor</type>
+    <tmdbid>3177659</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Mascarena</name>
+    <role>Fernando Vázquez</role>
+    <type>Actor</type>
+    <tmdbid>4457605</tmdbid>
+  </actor>
+  <actor>
+    <name>Maximiliano de la Cruz</name>
+    <role>Dante Lagurara</role>
+    <type>Actor</type>
+    <tmdbid>3326180</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan José Marco</name>
+    <role>Ovidio Ramírez</role>
+    <type>Actor</type>
+    <tmdbid>4040814</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariano Rochman</name>
+    <role>Ramón Martínez</role>
+    <type>Actor</type>
+    <tmdbid>4457610</tmdbid>
+  </actor>
+  <actor>
+    <name>Esteban Pico</name>
+    <role>Julio Ferradás</role>
+    <type>Actor</type>
+    <tmdbid>4457611</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Tate</name>
+    <role>Dr. Francisco Nicola</role>
+    <type>Actor</type>
+    <tmdbid>3519103</tmdbid>
+  </actor>
+  <actor>
+    <name>Virgínia Kauffmann</name>
+    <role>Esther Horta de Nicola</role>
+    <type>Actor</type>
+    <tmdbid>1909888</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Burghi</name>
+    <role>Alfredo Cibils</role>
+    <type>Actor</type>
+    <tmdbid>4457636</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Patricio Antivilio Acuña</name>
+    <role>Major Massa</role>
+    <type>Actor</type>
+    <tmdbid>4457637</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezequiel Fadel Hinojosa</name>
+    <role>Sergió Catalán</role>
+    <type>Actor</type>
+    <tmdbid>4457638</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustavo F. Sasco</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>4457639</tmdbid>
+  </actor>
+  <actor>
+    <name>Facundo Roure</name>
+    <role>Church Friend</role>
+    <type>Actor</type>
+    <tmdbid>4457640</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Miguel Páez Rodríguez</name>
+    <role>Carlos Páez Vilaró</role>
+    <type>Actor</type>
+    <tmdbid>3743662</tmdbid>
+  </actor>
+  <actor>
+    <name>Emanuel Sobré</name>
+    <role>S.A.R. Radio Operator</role>
+    <type>Actor</type>
+    <tmdbid>2764847</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Suárez</name>
+    <role>Seler Parrado</role>
+    <type>Actor</type>
+    <tmdbid>1153979</tmdbid>
+  </actor>
+  <actor>
+    <name>Constanza del Sol Giraudo</name>
+    <role>Graciela Parrado</role>
+    <type>Actor</type>
+    <tmdbid>4005419</tmdbid>
+  </actor>
+  <actor>
+    <name>Federico Formento</name>
+    <role>Daniel Shaw</role>
+    <type>Actor</type>
+    <tmdbid>4060069</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Zerbino Stajano</name>
+    <role>Rugby Coach</role>
+    <type>Actor</type>
+    <tmdbid>3317498</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramón Mario Sabella Barreiro</name>
+    <role>Airport Passenger</role>
+    <type>Actor</type>
+    <tmdbid>4178296</tmdbid>
+  </actor>
+  <director tmdbid="51894" imdbid="nm1291105">J. A. Bayona</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XKM6LZGZVtI</trailer>
+  <rating>7.9</rating>
+  <year>2023</year>
+  <sorttitle>sociedad de la nieve</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt16277242</imdbid>
+  <tmdbid>906126</tmdbid>
+  <premiered>2023-12-13</premiered>
+  <releasedate>2023-12-13</releasedate>
+  <runtime>146</runtime>
+  <tagline>Basada en una impresionante historia real</tagline>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>El Arriero Films</studio>
+  <studio>Misión de Audaces Films</studio>
+  <studio>Netflix</studio>
+  <uniqueid type="imdb">tt16277242</uniqueid>
+  <uniqueid type="tmdb">906126</uniqueid>
+  <id>tt16277242</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>864686</bitrate>
+        <width>1280</width>
+        <height>500</height>
+        <aspect>120:47</aspect>
+        <aspectratio>120:47</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>145</duration>
+        <durationinseconds>8731</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

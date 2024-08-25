@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Corre el año 65 D.C en Roma, y el infam emperador Nerón se nutre de una mezcla de megalomanía, paranoia y violencia física. El famoso filósofo Séneca ha sido el mentor y consejero cercano de Nerón desde la infancia, y fue fundamental en su ascensión al poder. A pesar de esto, Nerón se cansa de Séneca y utiliza un atentado frustrado contra su vida para acusar falsamente a Séneca de ser cómplice del intento de magnicidio. Su generoso regalo a Séneca: es libre para suicidarse. Séneca acepta su destino y, como Sócrates, quiere despedirse de sus seguidores con una última lección de su filosofía de vida. Después, planea que le corten las venas para consolidar su lugar en la historia. Eso es exactamente lo que sucede, pero Séneca muere dolorosa y lentamente.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-19 10:07:06</dateadded>
+  <title>Séneca</title>
+  <originaltitle>Seneca: On the Creation of Earthquakes</originaltitle>
+  <actor>
+    <name>John Malkovich</name>
+    <role>Seneca</role>
+    <type>Actor</type>
+    <tmdbid>6949</tmdbid>
+    <imdbid>nm0000518</imdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Chaplin</name>
+    <role>Lucia</role>
+    <type>Actor</type>
+    <tmdbid>400</tmdbid>
+    <imdbid>nm0001036</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Xander</name>
+    <role>Nero</role>
+    <type>Actor</type>
+    <tmdbid>3132789</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilith Stangenberg</name>
+    <role>Paulina</role>
+    <type>Actor</type>
+    <tmdbid>1372896</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Hofmann</name>
+    <role>Lucilius</role>
+    <type>Actor</type>
+    <tmdbid>1037348</tmdbid>
+    <imdbid>nm3836977</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel Finzi</name>
+    <role>Statius</role>
+    <type>Actor</type>
+    <tmdbid>3841</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Sands</name>
+    <role>Rufus</role>
+    <type>Actor</type>
+    <tmdbid>6104</tmdbid>
+    <imdbid>nm0001696</imdbid>
+  </actor>
+  <actor>
+    <name>Annika Meier</name>
+    <role>Cecilia</role>
+    <type>Actor</type>
+    <tmdbid>1554190</tmdbid>
+  </actor>
+  <actor>
+    <name>Samia Chancrin</name>
+    <role>Balbina</role>
+    <type>Actor</type>
+    <tmdbid>1586915</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Fehling</name>
+    <role>Decimus</role>
+    <type>Actor</type>
+    <tmdbid>31663</tmdbid>
+    <imdbid>nm2356421</imdbid>
+  </actor>
+  <actor>
+    <name>Wolfram Koch</name>
+    <role>Fabius</role>
+    <type>Actor</type>
+    <tmdbid>38312</tmdbid>
+    <imdbid>nm0462439</imdbid>
+  </actor>
+  <actor>
+    <name>Mary-Louise Parker</name>
+    <role>Agrippina</role>
+    <type>Actor</type>
+    <tmdbid>18248</tmdbid>
+    <imdbid>nm0000571</imdbid>
+    <tvdbid>327439</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Koji</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>1658375</tmdbid>
+    <imdbid>nm4010671</imdbid>
+    <tvdbid>8073313</tvdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Mays</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>183814</tmdbid>
+    <imdbid>nm0563070</imdbid>
+    <tvdbid>317622</tvdbid>
+  </actor>
+  <actor>
+    <name>Taoufik Lamallam</name>
+    <role>Rich Fellow</role>
+    <type>Actor</type>
+    <tmdbid>4247488</tmdbid>
+  </actor>
+  <actor>
+    <name>Guido Broscheit</name>
+    <role>Lucius</role>
+    <type>Actor</type>
+    <tmdbid>1124383</tmdbid>
+  </actor>
+  <actor>
+    <name>Zaynab Alji</name>
+    <role>Octavia</role>
+    <type>Actor</type>
+    <tmdbid>4247490</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadia Benzakour</name>
+    <role>Poppaea Sabina</role>
+    <type>Actor</type>
+    <tmdbid>1247539</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurean Wagner</name>
+    <role>Tigellinus</role>
+    <type>Actor</type>
+    <tmdbid>2362584</tmdbid>
+  </actor>
+  <actor>
+    <name>Blerim Destani</name>
+    <role>Piso</role>
+    <type>Actor</type>
+    <tmdbid>90515</tmdbid>
+  </actor>
+  <director tmdbid="57270">Robert Schwentke</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FOKNFlRFF-k</trailer>
+  <rating>5</rating>
+  <year>2023</year>
+  <sorttitle>Seneca</sorttitle>
+  <imdbid>tt10155748</imdbid>
+  <tmdbid>880150</tmdbid>
+  <premiered>2023-02-20</premiered>
+  <releasedate>2023-02-20</releasedate>
+  <runtime>112</runtime>
+  <country>Germany</country>
+  <country>Morocco</country>
+  <genre>Drama</genre>
+  <studio>Filmgalerie 451</studio>
+  <studio>Kasbah Films</studio>
+  <studio>ZDF/Arte</studio>
+  <studio>Gretchenfilm</studio>
+  <uniqueid type="imdb">tt10155748</uniqueid>
+  <uniqueid type="tmdb">880150</uniqueid>
+  <id>tt10155748</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1072736</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6724</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

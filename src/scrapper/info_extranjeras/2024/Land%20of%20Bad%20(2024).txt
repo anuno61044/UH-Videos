@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-19 08:22:54</dateadded>
+  <title>Rescate imposible</title>
+  <originaltitle>Land of Bad</originaltitle>
+  <actor>
+    <name>Liam Hemsworth</name>
+    <role>Kinney</role>
+    <type>Actor</type>
+    <tmdbid>96066</tmdbid>
+    <imdbid>nm2955013</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Crowe</name>
+    <role>Reaper</role>
+    <type>Actor</type>
+    <tmdbid>934</tmdbid>
+    <imdbid>nm0000128</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Abel</role>
+    <type>Actor</type>
+    <tmdbid>216986</tmdbid>
+    <imdbid>nm1292661</imdbid>
+    <tvdbid>392109</tvdbid>
+  </actor>
+  <actor>
+    <name>Ricky Whittle</name>
+    <role>Bishop</role>
+    <type>Actor</type>
+    <tmdbid>195675</tmdbid>
+    <imdbid>nm1340638</imdbid>
+  </actor>
+  <actor>
+    <name>Milo Ventimiglia</name>
+    <role>Sugar</role>
+    <type>Actor</type>
+    <tmdbid>16501</tmdbid>
+    <imdbid>nm0893257</imdbid>
+  </actor>
+  <actor>
+    <name>Chika Ikogwe</name>
+    <role>Staff Sgt. Nia Branson</role>
+    <type>Actor</type>
+    <tmdbid>3366146</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel MacPherson</name>
+    <role>Colonel Duz Packett</role>
+    <type>Actor</type>
+    <tmdbid>1229432</tmdbid>
+    <imdbid>nm0534205</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Rabiah</name>
+    <role>Saeed Hashimi</role>
+    <type>Actor</type>
+    <tmdbid>934253</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Finsterer</name>
+    <role>Victor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>59114</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Masters Mah</name>
+    <role>Bearded Man</role>
+    <type>Actor</type>
+    <tmdbid>4546550</tmdbid>
+  </actor>
+  <actor>
+    <name>Lincoln Lewis</name>
+    <role>Young Airman</role>
+    <type>Actor</type>
+    <tmdbid>94798</tmdbid>
+    <imdbid>nm2089884</imdbid>
+  </actor>
+  <actor>
+    <name>Lachlan Engeler</name>
+    <role>Airman (Phone)</role>
+    <type>Actor</type>
+    <tmdbid>4088499</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Usares</name>
+    <role>Nervous Airman</role>
+    <type>Actor</type>
+    <tmdbid>4546554</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Latimer</name>
+    <role>Blackhawk Pilot</role>
+    <type>Actor</type>
+    <tmdbid>4546556</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Joaquin</name>
+    <role>Hercules Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>4546560</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Vieira</name>
+    <role>Pilot Trevor Pinner</role>
+    <type>Actor</type>
+    <tmdbid>1634567</tmdbid>
+  </actor>
+  <actor>
+    <name>Gunner Wright</name>
+    <role>Capt. David Andrews</role>
+    <type>Actor</type>
+    <tmdbid>113231</tmdbid>
+    <imdbid>nm2322406</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Zivic</name>
+    <role>Capt. Lee Miller</role>
+    <type>Actor</type>
+    <tmdbid>4546562</tmdbid>
+  </actor>
+  <actor>
+    <name>Manix Butterfield</name>
+    <role>Petrov's Son</role>
+    <type>Actor</type>
+    <tmdbid>4546563</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaylen Hill-Suadnyana</name>
+    <role>Kid Soldier</role>
+    <type>Actor</type>
+    <tmdbid>4546564</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Loren</name>
+    <role>Petrov's Wife</role>
+    <type>Actor</type>
+    <tmdbid>4546566</tmdbid>
+  </actor>
+  <actor>
+    <name>Macca Adamson</name>
+    <role>Horse Rider #1</role>
+    <type>Actor</type>
+    <tmdbid>4546567</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Seutin</name>
+    <role>Horse Rider #2</role>
+    <type>Actor</type>
+    <tmdbid>4546568</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhonda Hargrave</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>4546569</tmdbid>
+  </actor>
+  <actor>
+    <name>George Burgess</name>
+    <role>Private Cooper</role>
+    <type>Actor</type>
+    <tmdbid>2966859</tmdbid>
+  </actor>
+  <actor>
+    <name>William Eubank</name>
+    <role>B1 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>125324</tmdbid>
+    <imdbid>nm1827931</imdbid>
+  </actor>
+  <actor>
+    <name>Jeanda St James</name>
+    <role>Woman Shopper</role>
+    <type>Actor</type>
+    <tmdbid>4330622</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Allen</name>
+    <role>Older Shopper</role>
+    <type>Actor</type>
+    <tmdbid>3830510</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Sagad</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>4546598</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Violan</name>
+    <role>Airman</role>
+    <type>Actor</type>
+    <tmdbid>3271316</tmdbid>
+  </actor>
+  <director tmdbid="125324" imdbid="nm1827931">William Eubank</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dKcHOR-V1G4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k330ZVEBBv0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u3QMjSoi2dA</trailer>
+  <rating>6.5</rating>
+  <year>2024</year>
+  <sorttitle>Rescate imposible</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt19864802</imdbid>
+  <tmdbid>969492</tmdbid>
+  <premiered>2024-01-25</premiered>
+  <releasedate>2024-01-25</releasedate>
+  <criticrating>45</criticrating>
+  <runtime>113</runtime>
+  <country>Australia</country>
+  <country>Czech Republic</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Bélica</genre>
+  <studio>Broken Open Pictures</studio>
+  <studio>Volition Media Partners</studio>
+  <studio>Highland Film Group</studio>
+  <studio>Hoodlum Entertainment</studio>
+  <studio>R.U. Robot Studios</studio>
+  <studio>Moonbow</studio>
+  <studio>Gosdom Entertainment</studio>
+  <studio>Short Porch Pictures</studio>
+  <studio>The Avenue Entertainment</studio>
+  <uniqueid type="imdb">tt19864802</uniqueid>
+  <uniqueid type="tmdb">969492</uniqueid>
+  <id>tt19864802</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149606</bitrate>
+        <width>1280</width>
+        <height>530</height>
+        <aspect>480:199</aspect>
+        <aspectratio>480:199</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6798</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129910</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

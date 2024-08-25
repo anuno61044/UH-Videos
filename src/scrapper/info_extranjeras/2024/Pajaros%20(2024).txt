@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Es la historia de un viaje, el de dos hombres que, pasados ya los 50, van en busca de una grulla inalcanzable y un futuro imposible. Un viaje en el que recorrerán Europa, pero también su propia vida, sus relaciones, la familia, el amor, el sexo… como una catarsis ante el inevitable paso del tiempo.]]></plot>
+  <outline><![CDATA[Cuando vuelas lejos lo ves todo más claro]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-20 19:09:17</dateadded>
+  <title>Pájaros</title>
+  <originaltitle>Pájaros</originaltitle>
+  <actor>
+    <name>Luis Zahera</name>
+    <role>Mario</role>
+    <type>Actor</type>
+    <tmdbid>28511</tmdbid>
+    <imdbid>nm0951958</imdbid>
+    <tvdbid>520301</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Gutiérrez</name>
+    <role>Colombo</role>
+    <type>Actor</type>
+    <tmdbid>19024</tmdbid>
+    <imdbid>nm0349522</imdbid>
+    <tvdbid>472102</tvdbid>
+  </actor>
+  <actor>
+    <name>Teresa Saponangelo</name>
+    <role>Elisabetta</role>
+    <type>Actor</type>
+    <tmdbid>116532</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Cavallotti</name>
+    <type>Actor</type>
+    <tmdbid>4545737</tmdbid>
+  </actor>
+  <actor>
+    <name>Edgar Moreno</name>
+    <role>Alberto</role>
+    <type>Actor</type>
+    <tmdbid>1604387</tmdbid>
+  </actor>
+  <actor>
+    <name>Florin Kevorkian</name>
+    <type>Actor</type>
+    <tmdbid>52983</tmdbid>
+    <imdbid>nm0156741</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Heideker</name>
+    <role>Chica del Este</role>
+    <type>Actor</type>
+    <tmdbid>4545739</tmdbid>
+  </actor>
+  <director tmdbid="1106176" imdbid="nm0244459" tvdbid="7911759">Pau Durà</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bYIvITmpYzA</trailer>
+  <rating>7</rating>
+  <year>2024</year>
+  <sorttitle>Pajaros</sorttitle>
+  <imdbid>tt14651070</imdbid>
+  <tmdbid>1130428</tmdbid>
+  <premiered>2024-04-05</premiered>
+  <releasedate>2024-04-05</releasedate>
+  <runtime>100</runtime>
+  <tagline>Cuando vuelas lejos lo ves todo más claro</tagline>
+  <country>Spain</country>
+  <country>Romania</country>
+  <genre>Aventura</genre>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Fosca Films</studio>
+  <studio>Icónica</studio>
+  <studio>Tandem Films</studio>
+  <studio>TV3</studio>
+  <studio>Filmax</studio>
+  <studio>TVE</studio>
+  <studio>Birds Film, AIE</studio>
+  <studio>Motion Picture Management SRL</studio>
+  <uniqueid type="imdb">tt14651070</uniqueid>
+  <uniqueid type="tmdb">1130428</uniqueid>
+  <id>tt14651070</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1041693</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24.999668</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6027</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64704</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

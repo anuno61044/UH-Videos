@@ -68,11 +68,6 @@
     "born": {
       "type": "date"
     },
-    "favorite_audiences": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::audience.audience"
-    },
     "favorite_countries": {
       "type": "relation",
       "relation": "oneToMany",

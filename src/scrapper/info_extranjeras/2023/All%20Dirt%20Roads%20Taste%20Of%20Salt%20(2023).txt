@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tender caresses and enveloping embraces are portals into the life of Mack, a Black woman in Mississippi. Winding through the anticipation, love, and heartbreak she experiences from childhood to adulthood, the expressionist journey is an ode to connection — with loved ones and with place.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-02 09:06:00</dateadded>
+  <title>All Dirt Roads Taste of Salt</title>
+  <originaltitle>All Dirt Roads Taste of Salt</originaltitle>
+  <actor>
+    <name>Charleen McClure</name>
+    <role>Mack</role>
+    <type>Actor</type>
+    <tmdbid>3820536</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Atim</name>
+    <role>Evelyn</role>
+    <type>Actor</type>
+    <tmdbid>1851642</tmdbid>
+  </actor>
+  <actor>
+    <name>Moses Ingram</name>
+    <role>Josie</role>
+    <type>Actor</type>
+    <tmdbid>2042908</tmdbid>
+    <tvdbid>8180108</tvdbid>
+  </actor>
+  <actor>
+    <name>Reginald Helms Jr.</name>
+    <role>Wood</role>
+    <type>Actor</type>
+    <tmdbid>3889943</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaylee Nicole Johnson</name>
+    <role>Young Mack</role>
+    <type>Actor</type>
+    <tmdbid>3724438</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Chalk</name>
+    <role>Isaiah</role>
+    <type>Actor</type>
+    <tmdbid>172096</tmdbid>
+    <imdbid>nm1663252</imdbid>
+    <tvdbid>341720</tvdbid>
+  </actor>
+  <actor>
+    <name>Zainab Jah</name>
+    <role>Older Mack</role>
+    <type>Actor</type>
+    <tmdbid>1187540</tmdbid>
+    <tvdbid>312700</tvdbid>
+  </actor>
+  <actor>
+    <name>Preston MacDowell</name>
+    <role>Young Wood</role>
+    <type>Actor</type>
+    <tmdbid>3889939</tmdbid>
+  </actor>
+  <actor>
+    <name>Jannie Hampton</name>
+    <role>Grandma Betty</role>
+    <type>Actor</type>
+    <tmdbid>3889941</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayah Henry</name>
+    <role>Young Josie</role>
+    <type>Actor</type>
+    <tmdbid>3889942</tmdbid>
+  </actor>
+  <director tmdbid="2230287">Raven Jackson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qiQvFKfpCi4</trailer>
+  <rating>5.8</rating>
+  <year>2023</year>
+  <sorttitle>All Dirt Roads Taste of Salt</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt11534720</imdbid>
+  <tmdbid>800227</tmdbid>
+  <premiered>2023-11-03</premiered>
+  <releasedate>2023-11-03</releasedate>
+  <runtime>98</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>A24</studio>
+  <studio>PASTEL</studio>
+  <studio>Tender</studio>
+  <uniqueid type="tmdb">800227</uniqueid>
+  <uniqueid type="imdb">tt11534720</uniqueid>
+  <id>tt11534720</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149583</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5851</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129160</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

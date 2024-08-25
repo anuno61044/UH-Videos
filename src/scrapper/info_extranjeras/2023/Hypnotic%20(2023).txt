@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un detective se ve envuelto en un misterio en el que está involucrada su hija desaparecida y un programa secreto del gobierno mientras investiga una serie de atracos de alto nivel.]]></plot>
+  <outline><![CDATA[El control es una ilusión.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-31 11:58:25</dateadded>
+  <title>Hypnotic</title>
+  <originaltitle>Hypnotic</originaltitle>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Danny Rourke</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Braga</name>
+    <role>Diana Cruz</role>
+    <type>Actor</type>
+    <tmdbid>8602</tmdbid>
+    <imdbid>nm0103797</imdbid>
+    <tvdbid>532274</tvdbid>
+  </actor>
+  <actor>
+    <name>J. D. Pardo</name>
+    <role>Nicks</role>
+    <type>Actor</type>
+    <tmdbid>81391</tmdbid>
+    <imdbid>nm1238555</imdbid>
+  </actor>
+  <actor>
+    <name>Dayo Okeniyi</name>
+    <role>River</role>
+    <type>Actor</type>
+    <tmdbid>1030512</tmdbid>
+    <imdbid>nm3912883</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Fahey</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>20495</tmdbid>
+    <imdbid>nm0001194</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Earle Haley</name>
+    <role>Jeremiah</role>
+    <type>Actor</type>
+    <tmdbid>17183</tmdbid>
+    <imdbid>nm0355097</imdbid>
+  </actor>
+  <actor>
+    <name>William Fichtner</name>
+    <role>Dellrayne</role>
+    <type>Actor</type>
+    <tmdbid>886</tmdbid>
+    <imdbid>nm0001209</imdbid>
+  </actor>
+  <actor>
+    <name>Zane Holtz</name>
+    <role>Trout</role>
+    <type>Actor</type>
+    <tmdbid>987572</tmdbid>
+    <imdbid>nm1175678</imdbid>
+    <tvdbid>325898</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruben Javier Caballero</name>
+    <role>Watkins</role>
+    <type>Actor</type>
+    <tmdbid>3238977</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Frye</name>
+    <role>Viv</role>
+    <type>Actor</type>
+    <tmdbid>115222</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandy Avila</name>
+    <role>Thelma</role>
+    <type>Actor</type>
+    <tmdbid>2809972</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ryusaki</name>
+    <role>Bong</role>
+    <type>Actor</type>
+    <tmdbid>1885803</tmdbid>
+  </actor>
+  <actor>
+    <name>Hala Finley</name>
+    <role>Minnie (10 yo)</role>
+    <type>Actor</type>
+    <tmdbid>1368479</tmdbid>
+    <imdbid>nm6442629</imdbid>
+  </actor>
+  <actor>
+    <name>Ionie Olivia Nieves</name>
+    <role>Minnie (7 yo)</role>
+    <type>Actor</type>
+    <tmdbid>4068138</tmdbid>
+  </actor>
+  <actor>
+    <name>Corina Calderon</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>932158</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikki Dixon</name>
+    <role>Therapist</role>
+    <type>Actor</type>
+    <tmdbid>1319802</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Discepolo</name>
+    <role>Business Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>1504236</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Phelan</name>
+    <role>Business Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>2057498</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Vines</name>
+    <role>Lyle Terry</role>
+    <type>Actor</type>
+    <tmdbid>4087874</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick A. Grover</name>
+    <role>TV Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>2531068</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Hunter Jones</name>
+    <role>Armored Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>4087876</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Hall</name>
+    <role>Armored Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1386323</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Varnado</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>61566</tmdbid>
+    <imdbid>nm0890073</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie D. Garcia</name>
+    <role>Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>4087884</tmdbid>
+  </actor>
+  <actor>
+    <name>Carrick O'Quinn</name>
+    <role>Bank Guard</role>
+    <type>Actor</type>
+    <tmdbid>550900</tmdbid>
+    <imdbid>nm0642359</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Russo</name>
+    <role>Tiny</role>
+    <type>Actor</type>
+    <tmdbid>1628383</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Brudniak</name>
+    <role>Texas Ranger</role>
+    <type>Actor</type>
+    <tmdbid>2137002</tmdbid>
+  </actor>
+  <actor>
+    <name>Camila Téllez</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>4087886</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Wing Lau</name>
+    <role>TV Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>3122789</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Barajas</name>
+    <role>Border Guard</role>
+    <type>Actor</type>
+    <tmdbid>1723983</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Izzolena</name>
+    <role>Potted Plant Lady</role>
+    <type>Actor</type>
+    <tmdbid>2895707</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Hernandez</name>
+    <role>Mexican Police Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>1813752</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel 'G-Rod' Rodriguez</name>
+    <role>Mexican Police Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>1757724</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Foy</name>
+    <role>TV Reporter #3</role>
+    <type>Actor</type>
+    <tmdbid>559325</tmdbid>
+  </actor>
+  <director tmdbid="2294" imdbid="nm0001675">Robert Rodriguez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F9HEJA1Oo6U</trailer>
+  <rating>5.5</rating>
+  <year>2023</year>
+  <sorttitle>Hypnotic</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8080204</imdbid>
+  <tmdbid>536437</tmdbid>
+  <premiered>2023-05-11</premiered>
+  <releasedate>2023-05-11</releasedate>
+  <runtime>93</runtime>
+  <tagline>El control es una ilusión.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Studio 8</studio>
+  <studio>Solstice Studios</studio>
+  <studio>Ingenious Media</studio>
+  <studio>Double R Productions</studio>
+  <uniqueid type="tmdb">536437</uniqueid>
+  <uniqueid type="imdb">tt8080204</uniqueid>
+  <id>tt8080204</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1193664</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5598</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

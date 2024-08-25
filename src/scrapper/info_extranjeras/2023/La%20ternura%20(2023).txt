@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La reina Esmeralda odia a los hombres porque siempre han limitado su libertad, así que no quiere que sus dos hijas corran la misma suerte; de modo que, por ello, cuando el barco en el que viajan pasa cerca de una isla aparentemente desierta, invoca una tormenta portentosa.]]></plot>
+  <outline><![CDATA[Una comedia épica de romance, fantasía y aventuras]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-30 18:13:55</dateadded>
+  <title>La ternura</title>
+  <originaltitle>La ternura</originaltitle>
+  <actor>
+    <name>Emma Suárez</name>
+    <type>Actor</type>
+    <tmdbid>24974</tmdbid>
+    <imdbid>nm0840772</imdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo de Castro</name>
+    <type>Actor</type>
+    <tmdbid>566330</tmdbid>
+    <imdbid>nm0207891</imdbid>
+    <tvdbid>450136</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Jiménez</name>
+    <type>Actor</type>
+    <tmdbid>114460</tmdbid>
+    <imdbid>nm1411610</imdbid>
+    <tvdbid>7955410</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Guallar</name>
+    <type>Actor</type>
+    <tmdbid>1960046</tmdbid>
+    <imdbid>nm5274367</imdbid>
+    <tvdbid>522026</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Moliner</name>
+    <type>Actor</type>
+    <tmdbid>1589568</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Cuevas</name>
+    <type>Actor</type>
+    <tmdbid>1261476</tmdbid>
+    <imdbid>nm1507717</imdbid>
+    <tvdbid>295045</tvdbid>
+  </actor>
+  <director tmdbid="1035833">Vicente Villanueva</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zDUMdHMRVAU</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>ternura</sorttitle>
+  <imdbid>tt12170898</imdbid>
+  <tmdbid>1053996</tmdbid>
+  <premiered>2023-09-29</premiered>
+  <releasedate>2023-09-29</releasedate>
+  <runtime>102</runtime>
+  <tagline>Una comedia épica de romance, fantasía y aventuras</tagline>
+  <country>Dominican Republic</country>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Fantasía</genre>
+  <genre>Romance</genre>
+  <studio>Pris &amp; Batty Films</studio>
+  <studio>Bahía Carey</studio>
+  <uniqueid type="imdb">tt12170898</uniqueid>
+  <uniqueid type="tmdb">1053996</uniqueid>
+  <id>tt12170898</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>223709</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6090</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63818</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

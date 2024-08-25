@@ -1,0 +1,120 @@
+ï»¿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sam es un boxeador profesional a punto de salir de prisiÃ³n. Mientras estÃ¡ en libertad condicional, su pasado lo alcanza y no tiene mÃ¡s remedio que huir. Cinco aÃ±os despuÃ©s, ha reconstruido una vida sencilla en una isla exÃ³tica de Tailandia con su esposa y su hija, pero cuando un peligroso padrino local lo chantajea, debe embarcarse en una peligrosa misiÃ³n de contrabando de drogas que resulta en una tragedia. Ahora solo tiene un propÃ³sito: buscar una venganza despiadada.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-06 19:45:54</dateadded>
+  <title>La venganza del dragÃ³n (Maythem!)</title>
+  <originaltitle>Farang</originaltitle>
+  <actor>
+    <name>Nassim Lyes</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>1003260</tmdbid>
+  </actor>
+  <actor>
+    <name>Loryn Nounay</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>3494649</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Gourmet</name>
+    <role>Narong</role>
+    <type>Actor</type>
+    <tmdbid>45152</tmdbid>
+    <imdbid>nm0332709</imdbid>
+  </actor>
+  <actor>
+    <name>Vithaya Pansringarm</name>
+    <role>Hansa</role>
+    <type>Actor</type>
+    <tmdbid>1102621</tmdbid>
+    <imdbid>nm3307918</imdbid>
+  </actor>
+  <actor>
+    <name>Mehdi Hadim</name>
+    <type>Actor</type>
+    <tmdbid>3549621</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Won</name>
+    <role>Civil Servant</role>
+    <type>Actor</type>
+    <tmdbid>2522177</tmdbid>
+  </actor>
+  <actor>
+    <name>Sahajak Boonthanakit</name>
+    <type>Actor</type>
+    <tmdbid>521673</tmdbid>
+    <imdbid>nm0095552</imdbid>
+  </actor>
+  <actor>
+    <name>Chananticha Chaipa</name>
+    <role>Dara</role>
+    <type>Actor</type>
+    <tmdbid>3045013</tmdbid>
+  </actor>
+  <director tmdbid="18184" imdbid="nm1164755">Xavier Gens</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vDMouu2CJr0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PmcqVmRPgvk</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>venganza del dragon (Maythem!)</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt19319352</imdbid>
+  <tmdbid>959092</tmdbid>
+  <premiered>2023-06-28</premiered>
+  <releasedate>2023-06-28</releasedate>
+  <runtime>100</runtime>
+  <country>France</country>
+  <country>United States of America</country>
+  <genre>AcciÃ³n</genre>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <studio>France 2 CinÃ©ma</studio>
+  <studio>Same Player</studio>
+  <studio>The Ink Connection</studio>
+  <studio>Two suns production</studio>
+  <uniqueid type="imdb">tt19319352</uniqueid>
+  <uniqueid type="tmdb">959092</uniqueid>
+  <id>tt19319352</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1524750</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5981</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

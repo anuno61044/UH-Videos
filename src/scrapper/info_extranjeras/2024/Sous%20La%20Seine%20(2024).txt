@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La científica Sophie se ve obligada a enfrentarse a su trágico pasado para salvar París de un baño de sangre cuando un tiburón gigante aparece en el Sena.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-05 18:24:12</dateadded>
+  <title>En las profundidades del Sena</title>
+  <originaltitle>Sous la Seine</originaltitle>
+  <actor>
+    <name>Bérénice Bejo</name>
+    <role>Sophia</role>
+    <type>Actor</type>
+    <tmdbid>82923</tmdbid>
+    <imdbid>nm0067367</imdbid>
+  </actor>
+  <actor>
+    <name>Nassim Lyes</name>
+    <role>Adil</role>
+    <type>Actor</type>
+    <tmdbid>1003260</tmdbid>
+    <imdbid>nm4051466</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Léviant</name>
+    <role>Mika</role>
+    <type>Actor</type>
+    <tmdbid>1717801</tmdbid>
+  </actor>
+  <actor>
+    <name>Nagisa Morimoto</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>2173699</tmdbid>
+  </actor>
+  <actor>
+    <name>Anaïs Parello</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>1414117</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñaki Lartigue</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>3452589</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Marivin</name>
+    <role>Mayor of Paris</role>
+    <type>Actor</type>
+    <tmdbid>54168</tmdbid>
+  </actor>
+  <actor>
+    <name>Timi-Joy Marbot</name>
+    <role>Raphaël</role>
+    <type>Actor</type>
+    <tmdbid>2403317</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Tribord</name>
+    <role>Marine Officer</role>
+    <type>Actor</type>
+    <tmdbid>1355622</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurélia Petit</name>
+    <role>Angèle</role>
+    <type>Actor</type>
+    <tmdbid>4287</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Parfait</name>
+    <role>Caro</role>
+    <type>Actor</type>
+    <tmdbid>2166824</tmdbid>
+  </actor>
+  <actor>
+    <name>Yannick Choirat</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>1123785</tmdbid>
+    <tvdbid>460548</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick Ligardes</name>
+    <role>Paris Police Commissioner</role>
+    <type>Actor</type>
+    <tmdbid>35970</tmdbid>
+    <imdbid>nm0509876</imdbid>
+    <tvdbid>8175259</tvdbid>
+  </actor>
+  <actor>
+    <name>Victor Pontecorvo</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>1366194</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Marc Bellu</name>
+    <role>Berruti</role>
+    <type>Actor</type>
+    <tmdbid>1450075</tmdbid>
+    <imdbid>nm0069248</imdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Jacquot</name>
+    <role>Poiccard</role>
+    <type>Actor</type>
+    <tmdbid>1370577</tmdbid>
+  </actor>
+  <actor>
+    <name>Ibrahima Ba</name>
+    <role>Adama</role>
+    <type>Actor</type>
+    <tmdbid>3236054</tmdbid>
+  </actor>
+  <actor>
+    <name>Daouda Keita</name>
+    <role>Léopold</role>
+    <type>Actor</type>
+    <tmdbid>1764370</tmdbid>
+  </actor>
+  <actor>
+    <name>Marvin Dubart</name>
+    <role>Markus</role>
+    <type>Actor</type>
+    <tmdbid>2458747</tmdbid>
+  </actor>
+  <actor>
+    <name>Monsieur Poulpe</name>
+    <role>Triathlon Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>1363809</tmdbid>
+  </actor>
+  <actor>
+    <name>Aksel Üstün</name>
+    <role>Nils</role>
+    <type>Actor</type>
+    <tmdbid>1338488</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Espinera</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>2518487</tmdbid>
+  </actor>
+  <actor>
+    <name>Iván González</name>
+    <role>André</role>
+    <type>Actor</type>
+    <tmdbid>1020716</tmdbid>
+    <imdbid>nm0328223</imdbid>
+  </actor>
+  <actor>
+    <name>Maud Forget</name>
+    <role>Triathlon Journalist 1</role>
+    <type>Actor</type>
+    <tmdbid>82317</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Tabarés</name>
+    <role>Triathlon Journalist 2</role>
+    <type>Actor</type>
+    <tmdbid>4758322</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonas Dinal</name>
+    <role>Adewale</role>
+    <type>Actor</type>
+    <tmdbid>1470534</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Yerles</name>
+    <role>S.O.S. Activist</role>
+    <type>Actor</type>
+    <tmdbid>4758324</tmdbid>
+  </actor>
+  <actor>
+    <name>Karina Testa</name>
+    <role>College Teacher</role>
+    <type>Actor</type>
+    <tmdbid>82314</tmdbid>
+    <imdbid>nm1675534</imdbid>
+  </actor>
+  <actor>
+    <name>Mahily Dement Elismar</name>
+    <role>Aquarium Child</role>
+    <type>Actor</type>
+    <tmdbid>4758330</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Trophardy</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>3686562</tmdbid>
+  </actor>
+  <actor>
+    <name>Yves Calvi</name>
+    <role>TV Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1963462</tmdbid>
+  </actor>
+  <actor>
+    <name>Balthazar Boncza</name>
+    <role>Little Girl's Father</role>
+    <type>Actor</type>
+    <tmdbid>4758335</tmdbid>
+  </actor>
+  <actor>
+    <name>Julien Jakout</name>
+    <role>S.O.S Sharks Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1633278</tmdbid>
+  </actor>
+  <actor>
+    <name>José Antonio Pedrosa Moreno</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4645192</tmdbid>
+  </actor>
+  <director tmdbid="18184" imdbid="nm1164755">Xavier Gens</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jnCefPQIH98</trailer>
+  <rating>5.3</rating>
+  <year>2024</year>
+  <sorttitle>En las profundidades del Sena</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13964390</imdbid>
+  <tmdbid>1001311</tmdbid>
+  <premiered>2024-06-05</premiered>
+  <releasedate>2024-06-05</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>104</runtime>
+  <country>France</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <genre>Acción</genre>
+  <genre>Misterio</genre>
+  <studio>Full Players</studio>
+  <studio>Let Me Be</studio>
+  <uniqueid type="imdb">tt13964390</uniqueid>
+  <uniqueid type="tmdb">1001311</uniqueid>
+  <id>tt13964390</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>584007</bitrate>
+        <width>720</width>
+        <height>408</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6236</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>125564</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

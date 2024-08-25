@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[During a bitter 1964 Massachusetts winter, young secretary Eileen becomes enchanted by Rebecca Saint John, the glamorous new counselor at the prison where she works. Their budding friendship takes a twisted turn when Rebecca reveals a dark secret — throwing Eileen onto a sinister path.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-02 09:02:54</dateadded>
+  <title>Eileen</title>
+  <originaltitle>Eileen</originaltitle>
+  <actor>
+    <name>Thomasin McKenzie</name>
+    <role>Eileen Dunlop</role>
+    <type>Actor</type>
+    <tmdbid>1356758</tmdbid>
+    <imdbid>nm5057169</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Hathaway</name>
+    <role>Rebecca Saint John</role>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+    <tvdbid>255156</tvdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Father Dunlop</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+    <tvdbid>275852</tvdbid>
+  </actor>
+  <actor>
+    <name>Marin Ireland</name>
+    <role>Rita Polk</role>
+    <type>Actor</type>
+    <tmdbid>164094</tmdbid>
+    <imdbid>nm1677477</imdbid>
+    <tvdbid>316328</tvdbid>
+  </actor>
+  <actor>
+    <name>Owen Teague</name>
+    <role>Randy</role>
+    <type>Actor</type>
+    <tmdbid>1586047</tmdbid>
+    <imdbid>nm4977122</imdbid>
+    <tvdbid>582353</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Nivola</name>
+    <role>Leonard Polk</role>
+    <type>Actor</type>
+    <tmdbid>3153829</tmdbid>
+  </actor>
+  <actor>
+    <name>Jefferson White</name>
+    <role>Buck Warren</role>
+    <type>Actor</type>
+    <tmdbid>1385813</tmdbid>
+    <imdbid>nm6366417</imdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Fallon Hogan</name>
+    <role>Mrs. Murray</role>
+    <type>Actor</type>
+    <tmdbid>6751</tmdbid>
+    <imdbid>nm0266441</imdbid>
+  </actor>
+  <actor>
+    <name>Tonye Patano</name>
+    <role>Mrs. Stevens</role>
+    <type>Actor</type>
+    <tmdbid>1214060</tmdbid>
+    <imdbid>nm0665256</imdbid>
+  </actor>
+  <actor>
+    <name>William Hill</name>
+    <role>Intake Guard</role>
+    <type>Actor</type>
+    <tmdbid>1232496</tmdbid>
+    <imdbid>nm0384771</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Yaffe</name>
+    <role>Parent</role>
+    <type>Actor</type>
+    <tmdbid>2730865</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Gavilanes</name>
+    <role>Pat</role>
+    <type>Actor</type>
+    <tmdbid>1390312</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Berman</name>
+    <role>Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1235221</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Noonan</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>1709197</tmdbid>
+    <imdbid>nm1121459</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Kennedy</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2912658</tmdbid>
+  </actor>
+  <actor>
+    <name>Myra Thibault</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3607619</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Havlis</name>
+    <role>Youth Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>2097519</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Pettograsso</name>
+    <role>Luca</role>
+    <type>Actor</type>
+    <tmdbid>3607620</tmdbid>
+  </actor>
+  <director tmdbid="1661862">William Oldroyd</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=otDHCJcdN34</trailer>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>Eileen</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5198890</imdbid>
+  <tmdbid>664341</tmdbid>
+  <premiered>2023-12-01</premiered>
+  <releasedate>2023-12-01</releasedate>
+  <runtime>98</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Likely Story</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Omniscient Productions</studio>
+  <studio>Fifth Season</studio>
+  <uniqueid type="tmdb">664341</uniqueid>
+  <uniqueid type="imdb">tt5198890</uniqueid>
+  <id>tt5198890</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149679</bitrate>
+        <width>1280</width>
+        <height>770</height>
+        <aspect>449:270</aspect>
+        <aspectratio>449:270</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5855</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129298</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

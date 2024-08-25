@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dante besa accidentalmente a Alice que tiene el mismo vestido que su novia. Desde ese momento se comprometen, se van a vivir a la misma casa y son muy felices. Pero no puede administrar su tiempo; de hecho, siempre llega tarde y le cuesta conciliar trabajo y tiempo libre. El 26 de octubre es su 40 cumpleaños. Para el de 2010, Alice le organiza una fiesta sorpresa donde él, como siempre, llega en el último momento. Cuando se despierta a la mañana siguiente, no es un día como cualquier otro. Ya ha pasado un año y Dante no recuerda lo que hizo. Además, se da cuenta de que Alice está embarazada. Pasa otro y nace su hija. A partir de ese momento, el tiempo pasa muy rápido para él y ya no es capaz de detenerlo y controlarlo. Y ya no recuerda algunos de los momentos más importantes de su vida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-20 09:18:05</dateadded>
+  <title>Ya era hora</title>
+  <originaltitle>Era ora</originaltitle>
+  <actor>
+    <name>Edoardo Leo</name>
+    <role>Dante</role>
+    <type>Actor</type>
+    <tmdbid>1047948</tmdbid>
+    <imdbid>nm0502412</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Ronchi</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1204168</tmdbid>
+    <imdbid>nm4039652</imdbid>
+  </actor>
+  <actor>
+    <name>Mario Sgueglia</name>
+    <role>Valerio</role>
+    <type>Actor</type>
+    <tmdbid>1510165</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Cavallin</name>
+    <role>Francesca</role>
+    <type>Actor</type>
+    <tmdbid>1034461</tmdbid>
+  </actor>
+  <actor>
+    <name>Raz Degan</name>
+    <role>Omar</role>
+    <type>Actor</type>
+    <tmdbid>135142</tmdbid>
+    <imdbid>nm0214641</imdbid>
+  </actor>
+  <actor>
+    <name>Massimo Wertmüller</name>
+    <role>Marcello</role>
+    <type>Actor</type>
+    <tmdbid>223175</tmdbid>
+    <imdbid>nm0921632</imdbid>
+  </actor>
+  <actor>
+    <name>Stella Trotta</name>
+    <role>Galadriel (5 - 7 Anni)</role>
+    <type>Actor</type>
+    <tmdbid>4000930</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Purgatori</name>
+    <role>Terapeuta</role>
+    <type>Actor</type>
+    <tmdbid>131663</tmdbid>
+  </actor>
+  <actor>
+    <name>Alla Krasovitzkaya</name>
+    <role>Olga</role>
+    <type>Actor</type>
+    <tmdbid>2905771</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Tanzi</name>
+    <role>Direttore</role>
+    <type>Actor</type>
+    <tmdbid>1902059</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessio Genchi</name>
+    <role>Collega 1</role>
+    <type>Actor</type>
+    <tmdbid>4000932</tmdbid>
+  </actor>
+  <actor>
+    <name>Barnaba Bonafaccia</name>
+    <role>Collega 2</role>
+    <type>Actor</type>
+    <tmdbid>4000933</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Confortini</name>
+    <role>Dottor Giuliani</role>
+    <type>Actor</type>
+    <tmdbid>135157</tmdbid>
+  </actor>
+  <actor>
+    <name>Luigi Cesolini</name>
+    <role>Collaboratore Giuliani</role>
+    <type>Actor</type>
+    <tmdbid>4000935</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiara Shufflebotham</name>
+    <role>Fidanzata Festa 2010</role>
+    <type>Actor</type>
+    <tmdbid>4000936</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastiano Re</name>
+    <role>Fidanzato Festa 2010</role>
+    <type>Actor</type>
+    <tmdbid>2498844</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario De Candia</name>
+    <role>Medico</role>
+    <type>Actor</type>
+    <tmdbid>1331602</tmdbid>
+  </actor>
+  <actor>
+    <name>Myriam Lugarà</name>
+    <role>Invitata 2016</role>
+    <type>Actor</type>
+    <tmdbid>3962758</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Pastore</name>
+    <role>Federica</role>
+    <type>Actor</type>
+    <tmdbid>4000937</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniele Parisi</name>
+    <role>Falegname (voce)</role>
+    <type>Actor</type>
+    <tmdbid>1673837</tmdbid>
+  </actor>
+  <director tmdbid="131655">Alessandro Aronadio</director>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>Ya era hora</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15654800</imdbid>
+  <tmdbid>881462</tmdbid>
+  <premiered>2023-03-16</premiered>
+  <releasedate>2023-03-16</releasedate>
+  <runtime>109</runtime>
+  <country>Italy</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Palomar</studio>
+  <studio>Vision Distribution</studio>
+  <studio>BIM Produzione</studio>
+  <uniqueid type="tmdb">881462</uniqueid>
+  <uniqueid type="imdb">tt15654800</uniqueid>
+  <id>tt15654800</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100015</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6534</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

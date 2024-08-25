@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ian es un adolescente rebelde que vive con su padre al margen de la sociedad. Sobreviven a base de pequeños timos gracias a la extraordinaria habilidad de Ian para proyectar ilusiones visuales en la mente de los demás. Tras perder el control sobre sus poderes en público, dos bandos enfrentados empiezan a perseguirlo. En su huida, Ian tendrá que decidir en qué lado va a librar esa guerra en la que se ha visto obligado a participar.]]></plot>
+  <outline><![CDATA[La realidad es una ilusión]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-10 21:16:52</dateadded>
+  <title>Awareness</title>
+  <originaltitle>Awareness</originaltitle>
+  <actor>
+    <name>Carlos Scholz</name>
+    <role>Ian</role>
+    <type>Actor</type>
+    <tmdbid>2421704</tmdbid>
+    <imdbid>nm10387965</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Alonso</name>
+    <role>Ian's father</role>
+    <type>Actor</type>
+    <tmdbid>1109836</tmdbid>
+    <imdbid>nm0022261</imdbid>
+    <tvdbid>450781</tvdbid>
+  </actor>
+  <actor>
+    <name>María Pedraza</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>1757167</tmdbid>
+    <imdbid>nm8061858</imdbid>
+  </actor>
+  <actor>
+    <name>Óscar Jaenada</name>
+    <type>Actor</type>
+    <tmdbid>59129</tmdbid>
+    <imdbid>nm1049982</imdbid>
+    <tvdbid>7888655</tvdbid>
+  </actor>
+  <actor>
+    <name>Lela Loren</name>
+    <type>Actor</type>
+    <tmdbid>203781</tmdbid>
+    <imdbid>nm2187457</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Fuica</name>
+    <role>El Mulo</role>
+    <type>Actor</type>
+    <tmdbid>1122332</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvia Kal</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>1274514</tmdbid>
+    <imdbid>nm5054903</imdbid>
+  </actor>
+  <actor>
+    <name>Karina Kolokolchykova</name>
+    <role>Urzula</role>
+    <type>Actor</type>
+    <tmdbid>1914003</tmdbid>
+  </actor>
+  <actor>
+    <name>María Mercado</name>
+    <role>Patri</role>
+    <type>Actor</type>
+    <tmdbid>1953954</tmdbid>
+    <tvdbid>8453745</tvdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Rocca</name>
+    <role>Sniper</role>
+    <type>Actor</type>
+    <tmdbid>1635036</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Zahera</name>
+    <role>Dr</role>
+    <type>Actor</type>
+    <tmdbid>28511</tmdbid>
+    <imdbid>nm0951958</imdbid>
+    <tvdbid>520301</tvdbid>
+  </actor>
+  <director tmdbid="568279">Daniel Benmayor</director>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Awareness</sorttitle>
+  <imdbid>tt18556326</imdbid>
+  <tmdbid>1067820</tmdbid>
+  <premiered>2023-03-16</premiered>
+  <releasedate>2023-03-16</releasedate>
+  <runtime>114</runtime>
+  <tagline>La realidad es una ilusión</tagline>
+  <country>Spain</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Acción</genre>
+  <studio>Federation Spain</studio>
+  <uniqueid type="imdb">tt18556326</uniqueid>
+  <uniqueid type="tmdb">1067820</uniqueid>
+  <id>tt18556326</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>168556</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6826</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63837</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

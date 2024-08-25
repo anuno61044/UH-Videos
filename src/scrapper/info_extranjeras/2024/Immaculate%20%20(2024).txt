@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cecilia, una mujer de fe devota, recibe una calurosa bienvenida en la perfecta campiña italiana, donde se le ofrece un nuevo papel en un ilustre convento. Pero se vuelve más claro para Cecilia que su nuevo hogar alberga oscuros y horribles secretos.]]></plot>
+  <outline><![CDATA[Not every intervention is divine.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-16 09:14:14</dateadded>
+  <title>Immaculate</title>
+  <originaltitle>Immaculate</originaltitle>
+  <actor>
+    <name>Sydney Sweeney</name>
+    <role>Sister Cecilia</role>
+    <type>Actor</type>
+    <tmdbid>115440</tmdbid>
+    <imdbid>nm2858875</imdbid>
+    <tvdbid>304835</tvdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Morte</name>
+    <role>Father Sal Tedeschi</role>
+    <type>Actor</type>
+    <tmdbid>1340020</tmdbid>
+    <imdbid>nm1486647</imdbid>
+    <tvdbid>526158</tvdbid>
+  </actor>
+  <actor>
+    <name>Benedetta Porcaroli</name>
+    <role>Sister Gwen</role>
+    <type>Actor</type>
+    <tmdbid>1822392</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Mother Superior</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <actor>
+    <name>Giorgio Colangeli</name>
+    <role>Cardinal Franco Merola</role>
+    <type>Actor</type>
+    <tmdbid>128227</tmdbid>
+  </actor>
+  <actor>
+    <name>Simona Tabasco</name>
+    <role>Sister Mary</role>
+    <type>Actor</type>
+    <tvdbid>545513</tvdbid>
+    <tmdbid>1355967</tmdbid>
+  </actor>
+  <actor>
+    <name>Giampiero Judica</name>
+    <role>Dr. Gallo</role>
+    <type>Actor</type>
+    <tmdbid>128225</tmdbid>
+  </actor>
+  <actor>
+    <name>Niccolò Senni</name>
+    <role>Customs Official</role>
+    <type>Actor</type>
+    <tmdbid>81510</tmdbid>
+    <imdbid>nm0784416</imdbid>
+    <tvdbid>569325</tvdbid>
+  </actor>
+  <actor>
+    <name>Giulia Heathfield Di Renzi</name>
+    <role>Sister Isabelle</role>
+    <type>Actor</type>
+    <tmdbid>4606018</tmdbid>
+  </actor>
+  <actor>
+    <name>Betti Pedrazzi</name>
+    <role>Sister Francesca</role>
+    <type>Actor</type>
+    <tmdbid>2406108</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Lo Piccolo</name>
+    <role>Deacon Enzo</role>
+    <type>Actor</type>
+    <tmdbid>1899664</tmdbid>
+    <tvdbid>8912217</tvdbid>
+  </actor>
+  <actor>
+    <name>Cristina Chinaglia</name>
+    <role>Sister Friede</role>
+    <type>Actor</type>
+    <tmdbid>3494112</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Desantis</name>
+    <role>Young Cecilia</role>
+    <type>Actor</type>
+    <tmdbid>4660204</tmdbid>
+  </actor>
+  <actor>
+    <name>Viviane Florentine Nicolai</name>
+    <role>Sister Sally</role>
+    <type>Actor</type>
+    <tmdbid>2200343</tmdbid>
+  </actor>
+  <actor>
+    <name>Marisa Regina</name>
+    <role>Sister Joan</role>
+    <type>Actor</type>
+    <tmdbid>3841097</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Camassa</name>
+    <role>Young Novice</role>
+    <type>Actor</type>
+    <tmdbid>4660212</tmdbid>
+  </actor>
+  <actor>
+    <name>Cinzia Fantauzzi</name>
+    <role>Red Veiled Nun</role>
+    <type>Actor</type>
+    <tmdbid>4660217</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiziano Ferracci</name>
+    <role>Weary Customs Official</role>
+    <type>Actor</type>
+    <tmdbid>4417459</tmdbid>
+  </actor>
+  <director tmdbid="856440">Michael Mohan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ewxS9Z-XXYo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=11gb7q1tosI</trailer>
+  <rating>5.9</rating>
+  <year>2024</year>
+  <sorttitle>Immaculate</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt23137390</imdbid>
+  <tmdbid>1041613</tmdbid>
+  <premiered>2024-03-20</premiered>
+  <releasedate>2024-03-20</releasedate>
+  <runtime>89</runtime>
+  <tagline>Not every intervention is divine.</tagline>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Black Bear Pictures</studio>
+  <studio>Fifty-Fifty Films</studio>
+  <studio>Lupin Film</studio>
+  <studio>Middle Child Films</studio>
+  <uniqueid type="imdb">tt23137390</uniqueid>
+  <uniqueid type="tmdb">1041613</uniqueid>
+  <id>tt23137390</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1253073</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5338</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

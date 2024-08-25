@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después del presunto suicidio de su hermano sacerdote, Grace viaja al remoto convento escocés donde cayó y murió. Desconfiando del relato de la Iglesia, descubre un asesinato, un sacrilegio y una inquietante verdad sobre sí misma.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-16 09:02:01</dateadded>
+  <title>El Sacramento del Diablo</title>
+  <originaltitle>Consecration</originaltitle>
+  <actor>
+    <name>Jena Malone</name>
+    <role>Grace</role>
+    <type>Actor</type>
+    <tmdbid>20089</tmdbid>
+    <imdbid>nm0540441</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Huston</name>
+    <role>Father Romero</role>
+    <type>Actor</type>
+    <tmdbid>6413</tmdbid>
+    <imdbid>nm0396812</imdbid>
+    <tvdbid>346467</tvdbid>
+  </actor>
+  <actor>
+    <name>Thoren Ferguson</name>
+    <role>DCI Harris</role>
+    <type>Actor</type>
+    <tmdbid>2170974</tmdbid>
+  </actor>
+  <actor>
+    <name>Janet Suzman</name>
+    <role>Mother Superior</role>
+    <type>Actor</type>
+    <tmdbid>67026</tmdbid>
+    <imdbid>nm0840531</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Pirie</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>95716</tmdbid>
+    <imdbid>nm1128414</imdbid>
+  </actor>
+  <actor>
+    <name>Steffan Cennydd</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>2108331</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Keen</name>
+    <type>Actor</type>
+    <tmdbid>51119</tmdbid>
+    <imdbid>nm1652308</imdbid>
+    <tvdbid>361335</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Lewis</name>
+    <role>Sister Beth</role>
+    <type>Actor</type>
+    <tmdbid>1628434</tmdbid>
+  </actor>
+  <actor>
+    <name>Kit Rakusen</name>
+    <role>Young Michael</role>
+    <type>Actor</type>
+    <tmdbid>3313929</tmdbid>
+  </actor>
+  <actor>
+    <name>Eilidh Fisher</name>
+    <role>Meg</role>
+    <type>Actor</type>
+    <tmdbid>3579888</tmdbid>
+  </actor>
+  <actor>
+    <name>Jolade Obasola</name>
+    <role>Sister Matilda</role>
+    <type>Actor</type>
+    <tmdbid>2805863</tmdbid>
+  </actor>
+  <actor>
+    <name>Marilyn O'Brien</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1359423</tmdbid>
+  </actor>
+  <actor>
+    <name>David Boyle</name>
+    <role>Adoption Manager</role>
+    <type>Actor</type>
+    <tmdbid>2023502</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela White</name>
+    <role>Nun</role>
+    <type>Actor</type>
+    <tvdbid>7943911</tvdbid>
+    <tmdbid>2281237</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Hixson</name>
+    <role>Nun</role>
+    <type>Actor</type>
+    <tmdbid>3579913</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachael Joanne Brown</name>
+    <role>Nun</role>
+    <type>Actor</type>
+    <tmdbid>3579914</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Palmer</name>
+    <type>Actor</type>
+    <tmdbid>178040</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Brophy</name>
+    <role>Father Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>3579916</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Allen</name>
+    <role>Young Grace</role>
+    <type>Actor</type>
+    <tmdbid>3579911</tmdbid>
+  </actor>
+  <director tmdbid="41041">Christopher Smith</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HRjG65M6L2c</trailer>
+  <rating>5.2</rating>
+  <year>2023</year>
+  <sorttitle>Sacramento del Diablo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14993352</imdbid>
+  <tmdbid>884184</tmdbid>
+  <premiered>2023-02-09</premiered>
+  <releasedate>2023-02-09</releasedate>
+  <runtime>91</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>AGC Studios</studio>
+  <studio>Bigscope Films</studio>
+  <studio>Moonriver TV</studio>
+  <uniqueid type="tmdb">884184</uniqueid>
+  <uniqueid type="imdb">tt14993352</uniqueid>
+  <id>tt14993352</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1222484</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5463</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

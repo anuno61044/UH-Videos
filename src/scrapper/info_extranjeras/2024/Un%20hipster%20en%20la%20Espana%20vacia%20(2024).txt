@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A Quique le encargan liderar la política de la España Vacía en un pueblo de Teruel, pero no sabe ni por dónde empezar. Se enfrenta solo a un pueblo dispuesto a tomarle el pelo ante sus propuestas modernas y, por si esto fuera poco, pronto descubre que enviarle allí es un plan de su novia y del líder de su partido para poder estar juntos. Solo contará con su buena voluntad y con Lourdes, la camarera del bar, que quiere evitar que el pobre siga haciendo el ridículo y que entienda que la clave de su éxito reside en aprender a escuchar a sus nuevos vecinos.]]></plot>
+  <outline><![CDATA[Una Película de Emilio Martínez Lázaro]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-27 07:49:58</dateadded>
+  <title>Un Hipster En La España Vacía</title>
+  <originaltitle>Un Hipster En La España Vacía</originaltitle>
+  <actor>
+    <name>Lalo Tenorio</name>
+    <role>Quique</role>
+    <type>Actor</type>
+    <tmdbid>3368204</tmdbid>
+  </actor>
+  <actor>
+    <name>Berta Vázquez</name>
+    <role>Lourdes</role>
+    <type>Actor</type>
+    <tmdbid>1457340</tmdbid>
+    <imdbid>nm7152208</imdbid>
+    <tvdbid>473667</tvdbid>
+  </actor>
+  <actor>
+    <name>Paco León</name>
+    <type>Actor</type>
+    <tmdbid>224870</tmdbid>
+    <imdbid>nm1346713</imdbid>
+    <tvdbid>448237</tvdbid>
+  </actor>
+  <actor>
+    <name>Macarena García</name>
+    <type>Actor</type>
+    <tmdbid>1091128</tmdbid>
+    <imdbid>nm3475396</imdbid>
+    <tvdbid>9067227</tvdbid>
+  </actor>
+  <actor>
+    <name>Rober Bodegas</name>
+    <type>Actor</type>
+    <tmdbid>2472659</tmdbid>
+  </actor>
+  <actor>
+    <name>Tito Valverde</name>
+    <type>Actor</type>
+    <tmdbid>974519</tmdbid>
+    <imdbid>nm0885453</imdbid>
+    <tvdbid>292043</tvdbid>
+  </actor>
+  <actor>
+    <name>Miguel Rellán</name>
+    <type>Actor</type>
+    <tmdbid>81848</tmdbid>
+    <imdbid>nm0718829</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Manquiña</name>
+    <type>Actor</type>
+    <tmdbid>264955</tmdbid>
+  </actor>
+  <actor>
+    <name>Aimar Vega</name>
+    <role>Facu</role>
+    <type>Actor</type>
+    <tmdbid>1373422</tmdbid>
+  </actor>
+  <director tmdbid="27449" imdbid="nm0554880">Emilio Martínez Lázaro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmr9Rue0fks</trailer>
+  <rating>4.346</rating>
+  <year>2024</year>
+  <sorttitle>Un Hipster En La Espana Vacia</sorttitle>
+  <imdbid>tt27599817</imdbid>
+  <tmdbid>1118035</tmdbid>
+  <premiered>2024-03-02</premiered>
+  <releasedate>2024-03-02</releasedate>
+  <runtime>97</runtime>
+  <tagline>Una Película de Emilio Martínez Lázaro</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>LAZONA</studio>
+  <uniqueid type="imdb">tt27599817</uniqueid>
+  <uniqueid type="tmdb">1118035</uniqueid>
+  <id>tt27599817</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>327849</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5848</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra un lapso de 15 años de expansión y asentamiento del oeste estadounidense antes y después de la Guerra Civil.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-16 09:04:58</dateadded>
+  <title>Horizon: An American Saga - Capítulo 1</title>
+  <originaltitle>Horizon: An American Saga - Chapter 1</originaltitle>
+  <actor>
+    <name>Kevin Costner</name>
+    <role>Hayes Ellison</role>
+    <type>Actor</type>
+    <tmdbid>1269</tmdbid>
+    <imdbid>nm0000126</imdbid>
+  </actor>
+  <actor>
+    <name>Sienna Miller</name>
+    <role>Frances Kittredge</role>
+    <type>Actor</type>
+    <tmdbid>23459</tmdbid>
+    <imdbid>nm1092227</imdbid>
+    <tvdbid>255070</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Worthington</name>
+    <role>First Lt. Trent Gephardt</role>
+    <type>Actor</type>
+    <tmdbid>65731</tmdbid>
+    <imdbid>nm0941777</imdbid>
+    <tvdbid>366817</tvdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Ribisi</name>
+    <role>Roland Bailey</role>
+    <type>Actor</type>
+    <tmdbid>1771</tmdbid>
+    <imdbid>nm0000610</imdbid>
+    <tvdbid>325080</tvdbid>
+  </actor>
+  <actor>
+    <name>Jena Malone</name>
+    <role>Ellen / Lucy</role>
+    <type>Actor</type>
+    <tmdbid>20089</tmdbid>
+    <imdbid>nm0540441</imdbid>
+  </actor>
+  <actor>
+    <name>Abbey Lee</name>
+    <role>Marigold</role>
+    <type>Actor</type>
+    <tmdbid>1036288</tmdbid>
+    <imdbid>nm3880181</imdbid>
+    <tvdbid>8157549</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Rooker</name>
+    <role>Sgt. Major Riordan</role>
+    <type>Actor</type>
+    <tmdbid>12132</tmdbid>
+    <imdbid>nm0740264</imdbid>
+    <tvdbid>294173</tvdbid>
+  </actor>
+  <actor>
+    <name>Danny Huston</name>
+    <role>Colonel Houghton</role>
+    <type>Actor</type>
+    <tmdbid>6413</tmdbid>
+    <imdbid>nm0396812</imdbid>
+    <tvdbid>346467</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Wilson</name>
+    <role>Matthew Van Weyden</role>
+    <type>Actor</type>
+    <tmdbid>36422</tmdbid>
+    <imdbid>nm0005561</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Fuhrman</name>
+    <role>Diamond</role>
+    <type>Actor</type>
+    <tmdbid>77517</tmdbid>
+    <imdbid>nm2265157</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Fahey</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>20495</tmdbid>
+    <imdbid>nm0001194</imdbid>
+  </actor>
+  <actor>
+    <name>Will Patton</name>
+    <role>Owen Kittredge</role>
+    <type>Actor</type>
+    <tmdbid>883</tmdbid>
+    <imdbid>nm0001599</imdbid>
+    <tvdbid>333716</tvdbid>
+  </actor>
+  <actor>
+    <name>Tatanka Means</name>
+    <role>Taklishim</role>
+    <type>Actor</type>
+    <tmdbid>1112417</tmdbid>
+    <imdbid>nm1877441</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Crow Shoe</name>
+    <role>Pionsenay</role>
+    <type>Actor</type>
+    <tmdbid>3130876</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Hunt</name>
+    <role>Juliette Chesney</role>
+    <type>Actor</type>
+    <tmdbid>989411</tmdbid>
+    <imdbid>nm4457775</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Campbell Bower</name>
+    <role>Caleb Sykes</role>
+    <type>Actor</type>
+    <tmdbid>83356</tmdbid>
+    <imdbid>nm2570429</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Guinee</name>
+    <role>James Kittredge</role>
+    <type>Actor</type>
+    <tmdbid>40275</tmdbid>
+    <imdbid>nm0347375</imdbid>
+    <tvdbid>316059</tvdbid>
+  </actor>
+  <actor>
+    <name>Colin Cunningham</name>
+    <role>Chisholm</role>
+    <type>Actor</type>
+    <tmdbid>1218926</tmdbid>
+    <imdbid>nm0192271</imdbid>
+    <tvdbid>285245</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott Haze</name>
+    <role>Elias Janney</role>
+    <type>Actor</type>
+    <tmdbid>87954</tmdbid>
+    <imdbid>nm2020278</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Payne</name>
+    <role>Hugh Proctor</role>
+    <type>Actor</type>
+    <tmdbid>30319</tmdbid>
+    <imdbid>nm2092835</imdbid>
+    <tvdbid>475505</tvdbid>
+  </actor>
+  <actor>
+    <name>Georgia MacPhail</name>
+    <role>Young Elizabeth Kittredge</role>
+    <type>Actor</type>
+    <tmdbid>3729892</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Smith</name>
+    <role>Sig</role>
+    <type>Actor</type>
+    <tmdbid>60077</tmdbid>
+    <imdbid>nm0808022</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Edda</name>
+    <role>Neron Chavez</role>
+    <type>Actor</type>
+    <tmdbid>1809025</tmdbid>
+    <tvdbid>576182</tvdbid>
+  </actor>
+  <actor>
+    <name>Wasé Chief</name>
+    <role>Liluye</role>
+    <type>Actor</type>
+    <tmdbid>3721031</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Angarano</name>
+    <role>Walter Childs</role>
+    <type>Actor</type>
+    <tmdbid>11665</tmdbid>
+    <imdbid>nm0029400</imdbid>
+    <tvdbid>286913</tvdbid>
+  </actor>
+  <actor>
+    <name>Angus Macfadyen</name>
+    <role>Desmarais</role>
+    <type>Actor</type>
+    <tmdbid>2464</tmdbid>
+    <imdbid>nm0005171</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Beavers</name>
+    <role>Junior Sykes</role>
+    <type>Actor</type>
+    <tmdbid>1175676</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Quinlan</name>
+    <role>Annie Pine</role>
+    <type>Actor</type>
+    <tmdbid>8183</tmdbid>
+    <imdbid>nm0000599</imdbid>
+  </actor>
+  <actor>
+    <name>Etienne Kellici</name>
+    <role>Russell Ganz</role>
+    <type>Actor</type>
+    <tmdbid>2375821</tmdbid>
+  </actor>
+  <actor>
+    <name>Bodhi Okuma Linton</name>
+    <role>Sacaton</role>
+    <type>Actor</type>
+    <tmdbid>4243818</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Cruz</name>
+    <role>Tuayeseh</role>
+    <type>Actor</type>
+    <tmdbid>66585</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Burns</name>
+    <role>Ben Sykes</role>
+    <type>Actor</type>
+    <tmdbid>3038148</tmdbid>
+  </actor>
+  <actor>
+    <name>James Russo</name>
+    <role>Abel Naughton</role>
+    <type>Actor</type>
+    <tmdbid>785</tmdbid>
+    <imdbid>nm0751638</imdbid>
+  </actor>
+  <actor>
+    <name>David O'Hara</name>
+    <role>Bowler Hat Surveyor</role>
+    <type>Actor</type>
+    <tmdbid>2482</tmdbid>
+    <imdbid>nm0641244</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Conner</name>
+    <role>Second Surveyor</role>
+    <type>Actor</type>
+    <tmdbid>1597992</tmdbid>
+    <imdbid>nm0175134</imdbid>
+  </actor>
+  <actor>
+    <name>Leroy Silva</name>
+    <role>Mimbreño Brave</role>
+    <type>Actor</type>
+    <tmdbid>3962206</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Dickey</name>
+    <role>Mrs. Sykes</role>
+    <type>Actor</type>
+    <tmdbid>46814</tmdbid>
+    <imdbid>nm0225460</imdbid>
+    <tvdbid>270668</tvdbid>
+  </actor>
+  <actor>
+    <name>Larry Bagby</name>
+    <role>Bill Landry</role>
+    <type>Actor</type>
+    <tmdbid>426</tmdbid>
+    <imdbid>nm0046541</imdbid>
+  </actor>
+  <actor>
+    <name>James Landry Hébert</name>
+    <role>Flagg</role>
+    <type>Actor</type>
+    <tmdbid>1170659</tmdbid>
+    <imdbid>nm2566469</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Conner</name>
+    <role>Mrs. Bowman</role>
+    <type>Actor</type>
+    <tmdbid>4795205</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Link</name>
+    <role>Malcolm</role>
+    <type>Actor</type>
+    <tmdbid>1959629</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayes Costner</name>
+    <role>Nathaniel Kittredge</role>
+    <type>Actor</type>
+    <tmdbid>4795207</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Ivens</name>
+    <role>Birke</role>
+    <type>Actor</type>
+    <tmdbid>3529517</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Halford</name>
+    <role>James Sykes</role>
+    <type>Actor</type>
+    <tmdbid>134424</tmdbid>
+  </actor>
+  <actor>
+    <name>Whitney Palmer</name>
+    <role>Junior's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2138161</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin R. Grant</name>
+    <role>Gratton Sykes</role>
+    <type>Actor</type>
+    <tmdbid>1281174</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Hisey</name>
+    <role>Uncle Sykes</role>
+    <type>Actor</type>
+    <tmdbid>4795208</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariel Llinas</name>
+    <role>Mike Connolly</role>
+    <type>Actor</type>
+    <tmdbid>1513669</tmdbid>
+    <imdbid>nm2417996</imdbid>
+  </actor>
+  <actor>
+    <name>Raynor Scheine</name>
+    <role>Hermit</role>
+    <type>Actor</type>
+    <tmdbid>21082</tmdbid>
+    <imdbid>nm1807200</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Foster</name>
+    <role>Mrs. Van Weyden</role>
+    <type>Actor</type>
+    <tmdbid>3404135</tmdbid>
+  </actor>
+  <actor>
+    <name>Cici Lau</name>
+    <role>Mrs. Hong</role>
+    <type>Actor</type>
+    <tmdbid>155349</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio D. Charity</name>
+    <role>Joseph</role>
+    <type>Actor</type>
+    <tmdbid>92611</tmdbid>
+    <imdbid>nm0152918</imdbid>
+  </actor>
+  <actor>
+    <name>Adriane McLean</name>
+    <role>Joseph's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1517710</tmdbid>
+  </actor>
+  <actor>
+    <name>John Coinman</name>
+    <role>Dr. Bowman</role>
+    <type>Actor</type>
+    <tmdbid>4803811</tmdbid>
+  </actor>
+  <actor>
+    <name>Cleo Eringer-Parker</name>
+    <role>Samsons</role>
+    <type>Actor</type>
+    <tmdbid>4803812</tmdbid>
+  </actor>
+  <actor>
+    <name>Nyla Eringer-Parker</name>
+    <role>Samsons</role>
+    <type>Actor</type>
+    <tmdbid>4803814</tmdbid>
+  </actor>
+  <actor>
+    <name>Aidan McCann</name>
+    <role>Young Boy Surveyor</role>
+    <type>Actor</type>
+    <tmdbid>3248000</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawn Lura</name>
+    <role>Tonto Woman</role>
+    <type>Actor</type>
+    <tmdbid>3638620</tmdbid>
+  </actor>
+  <actor>
+    <name>Teyton Allan Colbert</name>
+    <role>Tonto Boy</role>
+    <type>Actor</type>
+    <tmdbid>4803815</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Hinkey</name>
+    <role>Papago Scout</role>
+    <type>Actor</type>
+    <tmdbid>3411129</tmdbid>
+  </actor>
+  <actor>
+    <name>H. Jack Williams</name>
+    <role>Gaunt Scalp-Hunter</role>
+    <type>Actor</type>
+    <tmdbid>4803816</tmdbid>
+  </actor>
+  <actor>
+    <name>Fiyero Barehand</name>
+    <role>Cautious Tonto Boy</role>
+    <type>Actor</type>
+    <tmdbid>4803817</tmdbid>
+  </actor>
+  <actor>
+    <name>Boo Arnold</name>
+    <role>Wagon Driver</role>
+    <type>Actor</type>
+    <tmdbid>993608</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiger Curran</name>
+    <role>Maid</role>
+    <type>Actor</type>
+    <tmdbid>2778675</tmdbid>
+  </actor>
+  <director tmdbid="1269" imdbid="nm0000126">Kevin Costner</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VtgUYPB-cgs</trailer>
+  <rating>6.9</rating>
+  <year>2024</year>
+  <sorttitle>Horizon: An American Saga - Capitulo 1</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17505010</imdbid>
+  <tmdbid>932086</tmdbid>
+  <premiered>2024-06-26</premiered>
+  <releasedate>2024-06-26</releasedate>
+  <criticrating>41</criticrating>
+  <runtime>181</runtime>
+  <country>United States of America</country>
+  <genre>Western</genre>
+  <genre>Drama</genre>
+  <studio>Territory Pictures</studio>
+  <set tmdbcolid="1126640">
+    <name>Horizon: An American Saga Collection</name>
+  </set>
+  <uniqueid type="imdb">tt17505010</uniqueid>
+  <uniqueid type="tmdb">932086</uniqueid>
+  <id>tt17505010</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>692370</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>181</duration>
+        <durationinseconds>10884</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

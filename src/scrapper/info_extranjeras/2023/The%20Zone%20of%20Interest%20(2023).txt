@@ -1,0 +1,483 @@
+ï»¿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El comandante de Auschwitz Rudolf HÃ¶ss y su esposa Hedwig se esfuerzan en construir una vida de ensueÃ±o para su familia en una casa con jardÃ­n cerca del campo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-20 12:39:46</dateadded>
+  <title>La zona de interÃ©s</title>
+  <originaltitle>The Zone of Interest</originaltitle>
+  <actor>
+    <name>Christian Friedel</name>
+    <role>Rudolf HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>71374</tmdbid>
+    <imdbid>nm3041056</imdbid>
+    <tvdbid>488789</tvdbid>
+  </actor>
+  <actor>
+    <name>Sandra HÃ¼ller</name>
+    <role>Hedwig HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>7152</tmdbid>
+    <imdbid>nm1197689</imdbid>
+  </actor>
+  <actor>
+    <name>Johann Karthaus</name>
+    <role>Claus HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4072267</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Noah Witte</name>
+    <role>Hans HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4452138</tmdbid>
+  </actor>
+  <actor>
+    <name>Nele Ahrensmeier</name>
+    <role>Inge-Brigitt HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4072269</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilli Falk</name>
+    <role>Heidetraut HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4072268</tmdbid>
+  </actor>
+  <actor>
+    <name>Anastazja Drobniak</name>
+    <role>Annagret HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4452146</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecylia Pekala</name>
+    <role>Annagret HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4452147</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalman Wilson</name>
+    <role>Annagret HÃ¶ss</role>
+    <type>Actor</type>
+    <tmdbid>4452144</tmdbid>
+  </actor>
+  <actor>
+    <name>Medusa Knopf</name>
+    <role>Elfriede</role>
+    <type>Actor</type>
+    <tmdbid>4072265</tmdbid>
+  </actor>
+  <actor>
+    <name>Maximilian Beck</name>
+    <role>Schwarzer</role>
+    <type>Actor</type>
+    <tmdbid>1546090</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrey Isaev</name>
+    <role>Bronek</role>
+    <type>Actor</type>
+    <tmdbid>2154749</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Babiarz</name>
+    <role>Young Polish Housemaid</role>
+    <type>Actor</type>
+    <tmdbid>4547446</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Petrowitz</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>1824177</tmdbid>
+  </actor>
+  <actor>
+    <name>Martyna Poznanski</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>4452145</tmdbid>
+  </actor>
+  <actor>
+    <name>Zuzanna Kobiela</name>
+    <role>Aniela</role>
+    <type>Actor</type>
+    <tmdbid>4452137</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Utzerath</name>
+    <role>Fritz Sander, Topf &amp; Sons</role>
+    <type>Actor</type>
+    <tmdbid>49409</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Neumann</name>
+    <role>Karl PrÃ¼fer, Topf &amp; Sons</role>
+    <type>Actor</type>
+    <tmdbid>51862</tmdbid>
+  </actor>
+  <actor>
+    <name>Klaudiusz Kaufmann</name>
+    <role>ObersturmbannfÃ¼hrer Bischoff</role>
+    <type>Actor</type>
+    <tmdbid>146066</tmdbid>
+  </actor>
+  <actor>
+    <name>Justyna Szklarska</name>
+    <role>Prisoner Gardener 1</role>
+    <type>Actor</type>
+    <tmdbid>4547448</tmdbid>
+  </actor>
+  <actor>
+    <name>Kacper Piwko</name>
+    <role>Prisoner Gardener 2</role>
+    <type>Actor</type>
+    <tmdbid>4547449</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Rosa Tietjen</name>
+    <role>Hedwig's Friend 1</role>
+    <type>Actor</type>
+    <tmdbid>569358</tmdbid>
+  </actor>
+  <actor>
+    <name>Antje Falk</name>
+    <role>Hedwig's Friend 2</role>
+    <type>Actor</type>
+    <tmdbid>4547451</tmdbid>
+  </actor>
+  <actor>
+    <name>Jakub Sierenberg</name>
+    <role>SS Officer 1</role>
+    <type>Actor</type>
+    <tmdbid>3089255</tmdbid>
+  </actor>
+  <actor>
+    <name>Joerg Sierenberg</name>
+    <role>SS Officer 2</role>
+    <type>Actor</type>
+    <tmdbid>4345155</tmdbid>
+  </actor>
+  <actor>
+    <name>Joerg Giessler</name>
+    <role>SS Officer 3</role>
+    <type>Actor</type>
+    <tmdbid>4547456</tmdbid>
+  </actor>
+  <actor>
+    <name>Heiko Lange</name>
+    <role>SS Officer 4</role>
+    <type>Actor</type>
+    <tmdbid>4547463</tmdbid>
+  </actor>
+  <actor>
+    <name>Marek Åukasik</name>
+    <role>SS Officer 5</role>
+    <type>Actor</type>
+    <tmdbid>4386585</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernhard Schirmer</name>
+    <role>SS Horseman</role>
+    <type>Actor</type>
+    <tmdbid>4547465</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Polaczek</name>
+    <role>Aleksandra Bystron-Kolodziejczyk</role>
+    <type>Actor</type>
+    <tmdbid>4386457</tmdbid>
+  </actor>
+  <actor>
+    <name>Shenja Lacher</name>
+    <role>Gauleiter Fritz Bracht (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1149215</tmdbid>
+  </actor>
+  <actor>
+    <name>Imogen Kogge</name>
+    <role>Linna Hensel (Hedwig's Mother)</role>
+    <type>Actor</type>
+    <tmdbid>7153</tmdbid>
+    <imdbid>nm0463130</imdbid>
+  </actor>
+  <actor>
+    <name>Wiktoria Wisniewska</name>
+    <role>Heideraud's School Friend</role>
+    <type>Actor</type>
+    <tmdbid>4547470</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina Burzyk</name>
+    <role>Claus' Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>4547471</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Marciniszyn</name>
+    <role>Redheaded Woman</role>
+    <type>Actor</type>
+    <tmdbid>4328882</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnieszka Wierny</name>
+    <role>Aleksandra's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4547472</tmdbid>
+  </actor>
+  <actor>
+    <name>Patryk Mika</name>
+    <role>Polish Partisan at Table</role>
+    <type>Actor</type>
+    <tmdbid>4547473</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomasz Piwko</name>
+    <role>Kapo Bohner</role>
+    <type>Actor</type>
+    <tmdbid>4547474</tmdbid>
+  </actor>
+  <actor>
+    <name>Carsten Koch</name>
+    <role>War-Wounded Soldier 1</role>
+    <type>Actor</type>
+    <tmdbid>4547475</tmdbid>
+  </actor>
+  <actor>
+    <name>Heinz Nielow</name>
+    <role>War-Wounded Soldier 2</role>
+    <type>Actor</type>
+    <tmdbid>4547477</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine SchrÃ¶der</name>
+    <role>Woman in Park with Dog</role>
+    <type>Actor</type>
+    <tmdbid>2458721</tmdbid>
+  </actor>
+  <actor>
+    <name>Marnius Fislage</name>
+    <role>HÃ¶ss' Adjutant</role>
+    <type>Actor</type>
+    <tmdbid>4547479</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Herforth</name>
+    <role>Oswald Pohl</role>
+    <type>Actor</type>
+    <tmdbid>1856</tmdbid>
+    <imdbid>nm0378929</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Holzberg</name>
+    <role>Gerhard Maurer</role>
+    <type>Actor</type>
+    <tmdbid>1738714</tmdbid>
+  </actor>
+  <actor>
+    <name>Rainer Haustein</name>
+    <role>Richard GlÃ¼cks</role>
+    <type>Actor</type>
+    <tmdbid>586676</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Hoffman</name>
+    <role>Dr. Meindl, Steyr-Daimier-Puch</role>
+    <type>Actor</type>
+    <tmdbid>4547481</tmdbid>
+  </actor>
+  <actor>
+    <name>Wolfgang Lampl</name>
+    <role>Hans Burger</role>
+    <type>Actor</type>
+    <tmdbid>2488795</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Lebeck</name>
+    <role>GlÃ¼cks' Adjutant</role>
+    <type>Actor</type>
+    <tmdbid>4547484</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Willy</name>
+    <role>SS Doctor</role>
+    <type>Actor</type>
+    <tmdbid>4547485</tmdbid>
+  </actor>
+  <actor>
+    <name>Freya Kreutzkam</name>
+    <role>Eleanor Pohl</role>
+    <type>Actor</type>
+    <tmdbid>1910617</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Meier</name>
+    <role>IKL Announcer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2940208</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Koszatka</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547492</tmdbid>
+  </actor>
+  <actor>
+    <name>Izabela Bara</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547493</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Kuwik</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547494</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariola Karczewska</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547495</tmdbid>
+  </actor>
+  <actor>
+    <name>Halina Drzymota</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547496</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominika MatonÃ³g</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547497</tmdbid>
+  </actor>
+  <actor>
+    <name>Ewelina Kaczor</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547498</tmdbid>
+  </actor>
+  <actor>
+    <name>Matgorzata Zurek</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547499</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Jakubowska</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547500</tmdbid>
+  </actor>
+  <actor>
+    <name>Etzbieta Bronka</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547501</tmdbid>
+  </actor>
+  <actor>
+    <name>Zuzanna Janusik</name>
+    <role>Auschwitz-Birkenau State Museum Cleaner</role>
+    <type>Actor</type>
+    <tmdbid>4547502</tmdbid>
+  </actor>
+  <actor>
+    <name>Sascha Maaz</name>
+    <role>Arthur Liebehenschel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1897927</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralf Zillmann</name>
+    <role>Hoffmann (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1895921</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Manavi</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4452142</tmdbid>
+  </actor>
+  <director tmdbid="66728" imdbid="nm0322242">Jonathan Glazer</director>
+  <rating>7.9</rating>
+  <year>2023</year>
+  <sorttitle>zona de interes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7160372</imdbid>
+  <tmdbid>467244</tmdbid>
+  <premiered>2023-12-15</premiered>
+  <releasedate>2023-12-15</releasedate>
+  <runtime>105</runtime>
+  <country>Poland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <genre>BÃ©lica</genre>
+  <studio>A24</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Access Entertainment</studio>
+  <studio>PISF</studio>
+  <studio>JW Films</studio>
+  <studio>Extreme Emotions</studio>
+  <uniqueid type="imdb">tt7160372</uniqueid>
+  <uniqueid type="tmdb">467244</uniqueid>
+  <id>tt7160372</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1064037</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6284</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>deu</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

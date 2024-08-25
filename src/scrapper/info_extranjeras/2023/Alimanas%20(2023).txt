@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia de una madre que no se quiere morir y un par de hijos ruines que solo piensan en heredar.]]></plot>
+  <outline><![CDATA[Una comedia muy mala leche.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-24 07:09:17</dateadded>
+  <title>Alimañas</title>
+  <originaltitle>Alimañas</originaltitle>
+  <actor>
+    <name>Jordi Sánchez</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>560254</tmdbid>
+    <imdbid>nm0844983</imdbid>
+    <tvdbid>7948991</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmina Barrios</name>
+    <type>Actor</type>
+    <tmdbid>1042750</tmdbid>
+    <imdbid>nm4847927</imdbid>
+    <tvdbid>469634</tvdbid>
+  </actor>
+  <actor>
+    <name>Silvia Abril</name>
+    <type>Actor</type>
+    <tmdbid>231486</tmdbid>
+    <imdbid>nm1526347</imdbid>
+    <tvdbid>8107137</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Loles León</name>
+    <type>Actor</type>
+    <tmdbid>6536</tmdbid>
+    <imdbid>nm0508249</imdbid>
+    <tvdbid>534162</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Areces</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>114461</tmdbid>
+    <imdbid>nm1693112</imdbid>
+    <tvdbid>294451</tvdbid>
+  </actor>
+  <actor>
+    <name>Pilar Bergés</name>
+    <type>Actor</type>
+    <tmdbid>1488928</tmdbid>
+    <imdbid>nm6875339</imdbid>
+  </actor>
+  <director tmdbid="560254" imdbid="nm0844983" tvdbid="7948991">Jordi Sánchez</director>
+  <director tmdbid="3045347">Pep Antón Gómez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eyhlVeJmBUY</trailer>
+  <rating>5</rating>
+  <year>2023</year>
+  <sorttitle>Alimanas</sorttitle>
+  <imdbid>tt14443260</imdbid>
+  <tmdbid>816707</tmdbid>
+  <premiered>2023-10-27</premiered>
+  <releasedate>2023-10-27</releasedate>
+  <runtime>81</runtime>
+  <tagline>Una comedia muy mala leche.</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Feelgood Media</studio>
+  <uniqueid type="imdb">tt14443260</uniqueid>
+  <uniqueid type="tmdb">816707</uniqueid>
+  <id>tt14443260</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>160570</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>80</duration>
+        <durationinseconds>4833</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63831</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

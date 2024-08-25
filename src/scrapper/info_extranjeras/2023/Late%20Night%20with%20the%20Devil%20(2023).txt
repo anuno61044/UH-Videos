@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una transmisión de televisión en vivo en 1977 sale terriblemente mal, desatando el mal en las salas de estar de la nación.]]></plot>
+  <outline><![CDATA[Do not adjust your set.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-19 13:58:47</dateadded>
+  <title>Late Night with the Devil</title>
+  <originaltitle>Late Night with the Devil</originaltitle>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Jack Delroy</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Gordon</name>
+    <role>June Ross-Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>187400</tmdbid>
+    <imdbid>nm1916003</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Bliss</name>
+    <role>Carmichael Haig</role>
+    <type>Actor</type>
+    <tmdbid>62486</tmdbid>
+    <imdbid>nm0088513</imdbid>
+  </actor>
+  <actor>
+    <name>Fayssal Bazzi</name>
+    <role>Christou</role>
+    <type>Actor</type>
+    <tmdbid>230609</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Torelli</name>
+    <role>Lilly D'Abo</role>
+    <type>Actor</type>
+    <tmdbid>2554414</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhys Auteri</name>
+    <role>Gus McConnell</role>
+    <type>Actor</type>
+    <tmdbid>3964519</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgina Haig</name>
+    <role>Madeleine Piper</role>
+    <type>Actor</type>
+    <tmdbid>127734</tmdbid>
+    <imdbid>nm3418737</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Quong Tart</name>
+    <role>Leo Fiske</role>
+    <type>Actor</type>
+    <tmdbid>1228907</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Mouzakis</name>
+    <role>Szandor D'Abo</role>
+    <type>Actor</type>
+    <tmdbid>187494</tmdbid>
+    <imdbid>nm1073367</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Arundell</name>
+    <role>Diane</role>
+    <type>Actor</type>
+    <tmdbid>1535052</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamala Shelton</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>1538823</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Kirby</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>75175</tmdbid>
+    <imdbid>nm0456130</imdbid>
+  </actor>
+  <actor>
+    <name>Gaby Seow</name>
+    <role>Sammy</role>
+    <type>Actor</type>
+    <tmdbid>1874115</tmdbid>
+  </actor>
+  <actor>
+    <name>Elise Jansen</name>
+    <role>Cavewoman</role>
+    <type>Actor</type>
+    <tmdbid>1189135</tmdbid>
+    <imdbid>nm3878951</imdbid>
+  </actor>
+  <actor>
+    <name>John O'May</name>
+    <role>Walker Bedford</role>
+    <type>Actor</type>
+    <tmdbid>1546131</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Chihambakwe</name>
+    <role>Stacey</role>
+    <type>Actor</type>
+    <tmdbid>3041083</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelie Mendosa</name>
+    <role>Christou's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>4594691</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Cummings</name>
+    <role>Peggy Decay</role>
+    <type>Actor</type>
+    <tmdbid>3576627</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ironside</name>
+    <role>The Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11086</tmdbid>
+    <imdbid>nm0000461</imdbid>
+  </actor>
+  <actor>
+    <name>Andre Switzer</name>
+    <role>Lou</role>
+    <type>Actor</type>
+    <tmdbid>4594696</tmdbid>
+  </actor>
+  <actor>
+    <name>Declan Fay</name>
+    <role>Cue Card Guy</role>
+    <type>Actor</type>
+    <tmdbid>1736112</tmdbid>
+  </actor>
+  <actor>
+    <name>Milena Berhane</name>
+    <role>Production Assistant 1</role>
+    <type>Actor</type>
+    <tmdbid>4594698</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Wilbraham</name>
+    <role>Production Assistant 2</role>
+    <type>Actor</type>
+    <tmdbid>4594700</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Kauffman</name>
+    <role>Stage Hand 1</role>
+    <type>Actor</type>
+    <tmdbid>4594702</tmdbid>
+  </actor>
+  <actor>
+    <name>Miranda Bloom</name>
+    <role>Stage Hand 2</role>
+    <type>Actor</type>
+    <tmdbid>4594703</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitchell Brotz</name>
+    <role>Stage Hand 3</role>
+    <type>Actor</type>
+    <tmdbid>2617333</tmdbid>
+  </actor>
+  <actor>
+    <name>Caspian Dezfouli</name>
+    <role>Camera Operator 1</role>
+    <type>Actor</type>
+    <tmdbid>4265833</tmdbid>
+  </actor>
+  <actor>
+    <name>Rod Lara</name>
+    <role>Camera Operator 2</role>
+    <type>Actor</type>
+    <tmdbid>1181630</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Chapman</name>
+    <role>Cleo James</role>
+    <type>Actor</type>
+    <tmdbid>2143642</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Kwon</name>
+    <role>Skeleton Man</role>
+    <type>Actor</type>
+    <tmdbid>4594706</tmdbid>
+  </actor>
+  <actor>
+    <name>Imaan Hadchiti</name>
+    <role>Frank Khoury</role>
+    <type>Actor</type>
+    <tmdbid>3617045</tmdbid>
+  </actor>
+  <actor>
+    <name>Farhad Zaiwala</name>
+    <role>Spoon Bender</role>
+    <type>Actor</type>
+    <tmdbid>4594709</tmdbid>
+  </actor>
+  <actor>
+    <name>Jarrad Pidoto</name>
+    <role>Military Officer</role>
+    <type>Actor</type>
+    <tmdbid>4594711</tmdbid>
+  </actor>
+  <actor>
+    <name>Paddy Shiels</name>
+    <role>Vietnam Vet</role>
+    <type>Actor</type>
+    <tmdbid>4594714</tmdbid>
+  </actor>
+  <actor>
+    <name>Aya Cairnes</name>
+    <role>Levitating Woman</role>
+    <type>Actor</type>
+    <tmdbid>4594715</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerasimos Grammenos</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>3336371</tmdbid>
+  </actor>
+  <actor>
+    <name>Pearl Grammenos</name>
+    <role>Infant Lilly</role>
+    <type>Actor</type>
+    <tmdbid>4594716</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Batt</name>
+    <role>Head of Airtime</role>
+    <type>Actor</type>
+    <tmdbid>1750706</tmdbid>
+  </actor>
+  <actor>
+    <name>Raoul Salter</name>
+    <role>Vice President of Marketing</role>
+    <type>Actor</type>
+    <tmdbid>4594718</tmdbid>
+  </actor>
+  <actor>
+    <name>Janine Lum</name>
+    <role>Vice President of Marketing's Wife</role>
+    <type>Actor</type>
+    <tmdbid>4594719</tmdbid>
+  </actor>
+  <actor>
+    <name>Rik Brown</name>
+    <role>Annointed Grove Member</role>
+    <type>Actor</type>
+    <tmdbid>1888756</tmdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Varga</name>
+    <role>Young Lilly</role>
+    <type>Actor</type>
+    <tmdbid>4594720</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Lorey</name>
+    <role>Spinning Wheel Lady</role>
+    <type>Actor</type>
+    <tmdbid>4594722</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiare Skeats</name>
+    <role>High Priestess</role>
+    <type>Actor</type>
+    <tmdbid>4594724</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna van Guens</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>4594725</tmdbid>
+  </actor>
+  <actor>
+    <name>Arkie Simpson-Purdon</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>4594726</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Anderson</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>4594736</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Anderson</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>97591</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Brown</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>1407495</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Purdon</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>4594727</tmdbid>
+  </actor>
+  <actor>
+    <name>Quincy Simpson-Purdon</name>
+    <role>D'Abo's Disciple</role>
+    <type>Actor</type>
+    <tmdbid>4594730</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Rout</name>
+    <role>Grove Member</role>
+    <type>Actor</type>
+    <tmdbid>4594733</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Schwisow</name>
+    <role>Grove Member</role>
+    <type>Actor</type>
+    <tmdbid>4594734</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McArthur</name>
+    <role>Grove Member</role>
+    <type>Actor</type>
+    <tmdbid>2647029</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Marion</name>
+    <role>Orson</role>
+    <type>Actor</type>
+    <tmdbid>1665621</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Moody</name>
+    <role>French Director</role>
+    <type>Actor</type>
+    <tmdbid>1116762</tmdbid>
+  </actor>
+  <actor>
+    <name>Angus Neale</name>
+    <role>David Dastmalchian Stand In</role>
+    <type>Actor</type>
+    <tmdbid>2006217</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Pretto</name>
+    <role>Ingrid Torelli Stand In</role>
+    <type>Actor</type>
+    <tmdbid>4594735</tmdbid>
+  </actor>
+  <director tmdbid="1083154">Cameron Cairnes</director>
+  <director tmdbid="1083156">Colin Cairnes</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TiwvEtimLzQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cvt-mauboTc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YeKYfneOH3o</trailer>
+  <rating>7.2</rating>
+  <year>2024</year>
+  <sorttitle>Late Night with the Devil</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14966898</imdbid>
+  <tmdbid>938614</tmdbid>
+  <premiered>2024-03-19</premiered>
+  <releasedate>2024-03-19</releasedate>
+  <runtime>93</runtime>
+  <tagline>Do not adjust your set.</tagline>
+  <country>Australia</country>
+  <country>United Arab Emirates</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Spooky Pictures</studio>
+  <studio>Future Pictures</studio>
+  <studio>Good Fiend Films</studio>
+  <studio>Image Nation Abu Dhabi</studio>
+  <studio>VicScreen</studio>
+  <studio>AGC Studios</studio>
+  <uniqueid type="imdb">tt14966898</uniqueid>
+  <uniqueid type="tmdb">938614</uniqueid>
+  <id>tt14966898</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1193218</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5567</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

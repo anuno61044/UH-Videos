@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos parejas, Marc y Anna, de España, y Hans y Olga, de Alemania, intercambian sus casas por vacaciones.]]></plot>
+  <outline><![CDATA[Vigila quién entra en tu nido.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-21 09:53:32</dateadded>
+  <title>El cuco</title>
+  <originaltitle>El cuco</originaltitle>
+  <actor>
+    <name>Belén Cuesta</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1423493</tmdbid>
+    <imdbid>nm3177382</imdbid>
+    <tvdbid>473696</tvdbid>
+  </actor>
+  <actor>
+    <name>Jorge Suquet</name>
+    <role>Marc</role>
+    <type>Actor</type>
+    <tmdbid>971606</tmdbid>
+    <imdbid>nm2596357</imdbid>
+    <tvdbid>493281</tvdbid>
+  </actor>
+  <actor>
+    <name>Hildegard Schroedter</name>
+    <role>Olga</role>
+    <type>Actor</type>
+    <tmdbid>571188</tmdbid>
+    <imdbid>nm2202601</imdbid>
+  </actor>
+  <actor>
+    <name>Rainer Reiners</name>
+    <role>Hans</role>
+    <type>Actor</type>
+    <tmdbid>1309014</tmdbid>
+    <imdbid>nm0718030</imdbid>
+  </actor>
+  <actor>
+    <name>Chacha Huang</name>
+    <role>Lili</role>
+    <type>Actor</type>
+    <tmdbid>1915026</tmdbid>
+    <imdbid>nm8002173</imdbid>
+  </actor>
+  <actor>
+    <name>David Selvas</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>942100</tmdbid>
+    <imdbid>nm0783591</imdbid>
+  </actor>
+  <actor>
+    <name>Manel Dueso</name>
+    <role>Serafín</role>
+    <type>Actor</type>
+    <tmdbid>229769</tmdbid>
+    <imdbid>nm0240290</imdbid>
+  </actor>
+  <actor>
+    <name>Marina Gatell</name>
+    <role>Mónica</role>
+    <type>Actor</type>
+    <tmdbid>107927</tmdbid>
+    <imdbid>nm0309510</imdbid>
+    <tvdbid>450147</tvdbid>
+  </actor>
+  <director tmdbid="51896" imdbid="nm0850173">Mar Targarona</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c0MMg51x4xY</trailer>
+  <rating>5.286</rating>
+  <year>2023</year>
+  <sorttitle>cuco</sorttitle>
+  <imdbid>tt12748562</imdbid>
+  <tmdbid>1064801</tmdbid>
+  <premiered>2023-09-15</premiered>
+  <releasedate>2023-09-15</releasedate>
+  <runtime>103</runtime>
+  <tagline>Vigila quién entra en tu nido.</tagline>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Rodar y Rodar</studio>
+  <studio>Barry Films</studio>
+  <uniqueid type="imdb">tt12748562</uniqueid>
+  <uniqueid type="tmdb">1064801</uniqueid>
+  <id>tt12748562</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>200660</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6174</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63822</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

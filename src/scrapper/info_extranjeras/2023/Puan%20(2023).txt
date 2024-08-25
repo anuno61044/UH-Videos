@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Marcelo Peña es desde hace años profesor asistente de filosofía política en la Facultad de la UBA de la calle Puan. Tras la muerte de su mentor, el venerable profesor Caselli, se ha abierto una brutal e inesperada rivalidad por la cátedra con Rafael Sujarchuk, un antiguo discípulo de Caselli que vuelve de Alemania.]]></plot>
+  <outline><![CDATA[Una comedia filosófica de proporciones existenciales]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-28 18:30:41</dateadded>
+  <title>Puan</title>
+  <originaltitle>Puan</originaltitle>
+  <actor>
+    <name>Marcelo Subiotto</name>
+    <role>Marcelo Peña</role>
+    <type>Actor</type>
+    <tmdbid>1500062</tmdbid>
+    <imdbid>nm2515968</imdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Sbaraglia</name>
+    <role>Rafael Sujarchuk</role>
+    <type>Actor</type>
+    <tmdbid>19803</tmdbid>
+    <imdbid>nm0768614</imdbid>
+    <tvdbid>465792</tvdbid>
+  </actor>
+  <actor>
+    <name>Julieta Zylberberg</name>
+    <role>Jazmín</role>
+    <type>Actor</type>
+    <tmdbid>145025</tmdbid>
+    <tvdbid>481681</tvdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Flechner</name>
+    <role>Doris</role>
+    <type>Actor</type>
+    <tmdbid>239252</tmdbid>
+  </actor>
+  <actor>
+    <name>Mara Bestelli</name>
+    <role>Vicky</role>
+    <type>Actor</type>
+    <tmdbid>1291442</tmdbid>
+    <imdbid>nm0079023</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Frigerio</name>
+    <role>Silvia</role>
+    <type>Actor</type>
+    <tmdbid>1659288</tmdbid>
+    <imdbid>nm1102596</imdbid>
+  </actor>
+  <actor>
+    <name>Cristina Banegas</name>
+    <type>Actor</type>
+    <tmdbid>1028517</tmdbid>
+  </actor>
+  <actor>
+    <name>Damián Dreizik</name>
+    <role>Ariel</role>
+    <type>Actor</type>
+    <tmdbid>995616</tmdbid>
+  </actor>
+  <actor>
+    <name>Héctor Bidonde</name>
+    <type>Actor</type>
+    <tmdbid>79290</tmdbid>
+  </actor>
+  <actor>
+    <name>Camila Peralta</name>
+    <role>Ivana</role>
+    <type>Actor</type>
+    <tmdbid>1728864</tmdbid>
+  </actor>
+  <actor>
+    <name>Lali Espósito</name>
+    <role>Vera Motta</role>
+    <type>Actor</type>
+    <tmdbid>1246184</tmdbid>
+    <imdbid>nm1373106</imdbid>
+  </actor>
+  <actor>
+    <name>Laila Maltz</name>
+    <type>Actor</type>
+    <tmdbid>1532829</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Luppi</name>
+    <role>Ariel</role>
+    <type>Actor</type>
+    <tmdbid>2492912</tmdbid>
+  </actor>
+  <actor>
+    <name>Liliana Juárez</name>
+    <role>Luisa</role>
+    <type>Actor</type>
+    <tmdbid>1171463</tmdbid>
+  </actor>
+  <actor>
+    <name>Zulema Galperín</name>
+    <role>Amelia</role>
+    <type>Actor</type>
+    <tmdbid>3020300</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Ziembrowski</name>
+    <role>Comisario</role>
+    <type>Actor</type>
+    <tmdbid>1028444</tmdbid>
+    <imdbid>nm0956249</imdbid>
+  </actor>
+  <actor>
+    <name>Gaspar Offenhenden</name>
+    <role>Manolo Pena</role>
+    <type>Actor</type>
+    <tvdbid>9111743</tvdbid>
+    <tmdbid>3532654</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Calandra</name>
+    <role>Amanda Longo</role>
+    <type>Actor</type>
+    <tmdbid>3396349</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Cantero</name>
+    <role>Daniela</role>
+    <type>Actor</type>
+    <tmdbid>27059</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Lumerman</name>
+    <type>Actor</type>
+    <tmdbid>1291441</tmdbid>
+  </actor>
+  <actor>
+    <name>Julieta Laso</name>
+    <type>Actor</type>
+    <tmdbid>1587466</tmdbid>
+  </actor>
+  <actor>
+    <name>Catalina Garacciolo</name>
+    <role>extra</role>
+    <type>Actor</type>
+    <tmdbid>4606529</tmdbid>
+  </actor>
+  <director tmdbid="130752">María Alché</director>
+  <director tmdbid="1291436" imdbid="nm3028737">Benjamín Naishtat</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8i0om7ezuxI</trailer>
+  <rating>6.9</rating>
+  <year>2023</year>
+  <sorttitle>Puan</sorttitle>
+  <imdbid>tt13866866</imdbid>
+  <tmdbid>764442</tmdbid>
+  <premiered>2023-10-05</premiered>
+  <releasedate>2023-10-05</releasedate>
+  <runtime>111</runtime>
+  <tagline>Una comedia filosófica de proporciones existenciales</tagline>
+  <country>Argentina</country>
+  <country>Brazil</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Italy</country>
+  <genre>Comedia</genre>
+  <studio>PUCARÁ cine</studio>
+  <studio>PASTO</studio>
+  <studio>Infinity Hill</studio>
+  <studio>Pandora Filmproduktion</studio>
+  <studio>Atelier de Production</studio>
+  <studio>Kino Produzioni</studio>
+  <studio>INCAA</studio>
+  <studio>Bubbles Project</studio>
+  <uniqueid type="imdb">tt13866866</uniqueid>
+  <uniqueid type="tmdb">764442</uniqueid>
+  <id>tt13866866</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1033725</bitrate>
+        <width>1200</width>
+        <height>720</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.999699</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6654</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63984</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

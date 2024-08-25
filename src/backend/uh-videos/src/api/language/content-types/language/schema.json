@@ -19,7 +19,8 @@
       "mappedBy": "languages"
     },
     "name": {
-      "type": "string"
+      "type": "string",
+      "unique": true
     }
   }
 }

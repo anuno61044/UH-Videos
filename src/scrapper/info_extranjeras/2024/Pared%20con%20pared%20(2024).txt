@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Valentina es una joven pianista que comienza una nueva vida; su vecino, David, un inventor que detesta el ruido y el finísimo muro que los separa, su mejor opción para hacer match.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-12 08:09:04</dateadded>
+  <title>Pared con pared</title>
+  <originaltitle>Pared con pared</originaltitle>
+  <actor>
+    <name>Aitana</name>
+    <role>Valentina</role>
+    <type>Actor</type>
+    <tmdbid>2167421</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Guallar</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>1960046</tmdbid>
+    <imdbid>nm5274367</imdbid>
+    <tvdbid>522026</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalia Rodríguez</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>56245</tmdbid>
+    <imdbid>nm2283457</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Jezierski</name>
+    <role>Nacho</role>
+    <type>Actor</type>
+    <tmdbid>1071955</tmdbid>
+    <imdbid>nm1499472</imdbid>
+    <tvdbid>474103</tvdbid>
+  </actor>
+  <actor>
+    <name>Paco Tous</name>
+    <role>Sebas</role>
+    <type>Actor</type>
+    <tmdbid>1027740</tmdbid>
+    <imdbid>nm0869718</imdbid>
+    <tvdbid>474095</tvdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel Muñoz</name>
+    <role>Óscar</role>
+    <type>Actor</type>
+    <tmdbid>125852</tmdbid>
+    <imdbid>nm0616475</imdbid>
+    <tvdbid>296751</tvdbid>
+  </actor>
+  <actor>
+    <name>Àlex Maruny</name>
+    <role>Sergio</role>
+    <type>Actor</type>
+    <tmdbid>1074586</tmdbid>
+    <imdbid>nm4454779</imdbid>
+  </actor>
+  <actor>
+    <name>Macarena de Rueda</name>
+    <role>Maite</role>
+    <type>Actor</type>
+    <tmdbid>4148285</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Sentís</name>
+    <role>Gonzalo</role>
+    <type>Actor</type>
+    <tmdbid>4284717</tmdbid>
+  </actor>
+  <actor>
+    <name>Maite Sandoval</name>
+    <role>Mujer tribunal</role>
+    <type>Actor</type>
+    <tmdbid>1610367</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocío Marín</name>
+    <role>Regidora</role>
+    <type>Actor</type>
+    <tmdbid>2555178</tmdbid>
+  </actor>
+  <actor>
+    <name>Manu Imizcoz</name>
+    <role>Chico Agencia</role>
+    <type>Actor</type>
+    <tmdbid>1744864</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Ferrés</name>
+    <role>Operario mudanza</role>
+    <type>Actor</type>
+    <tmdbid>1199332</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Cañas</name>
+    <role>Conserje</role>
+    <type>Actor</type>
+    <tmdbid>1795948</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Santos</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>3248286</tmdbid>
+  </actor>
+  <director tmdbid="1428801">Patricia Font</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jRUheYjIVew</trailer>
+  <rating>5.9</rating>
+  <year>2024</year>
+  <sorttitle>Pared con pared</sorttitle>
+  <imdbid>tt20198716</imdbid>
+  <tmdbid>1005681</tmdbid>
+  <premiered>2024-04-12</premiered>
+  <releasedate>2024-04-12</releasedate>
+  <runtime>98</runtime>
+  <country>Spain</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <studio>Tripictures</studio>
+  <studio>Second Gen Pictures</studio>
+  <studio>Blind Date?</studio>
+  <uniqueid type="imdb">tt20198716</uniqueid>
+  <uniqueid type="tmdb">1005681</uniqueid>
+  <id>tt20198716</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>762176</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5887</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

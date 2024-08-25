@@ -12,8 +12,15 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "clasification": {
-      "type": "string"
+    "name": {
+      "type": "string",
+      "unique": true
+    },
+    "videos": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::video.video",
+      "inversedBy": "genders"
     }
   }
 }

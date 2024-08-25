@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Esta valiente historia de amor muestra la relación compleja del legendario músico Leonard Bernstein y Felicia Montealegre Cohn Bernstein a lo largo de los años.]]></plot>
+  <outline><![CDATA[Una Película de Bradley Cooper]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-20 08:28:47</dateadded>
+  <title>Maestro</title>
+  <originaltitle>Maestro</originaltitle>
+  <actor>
+    <name>Carey Mulligan</name>
+    <role>Felicia Montealegre</role>
+    <type>Actor</type>
+    <tmdbid>36662</tmdbid>
+    <imdbid>nm1659547</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Leonard Bernstein</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Bomer</name>
+    <role>David Oppenheim</role>
+    <type>Actor</type>
+    <tmdbid>66743</tmdbid>
+    <imdbid>nm0093589</imdbid>
+    <tvdbid>324393</tvdbid>
+  </actor>
+  <actor>
+    <name>Maya Hawke</name>
+    <role>Jamie Bernstein</role>
+    <type>Actor</type>
+    <tmdbid>1903874</tmdbid>
+    <imdbid>nm1638321</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Silverman</name>
+    <role>Shirley Bernstein</role>
+    <type>Actor</type>
+    <tmdbid>7404</tmdbid>
+    <imdbid>nm0798971</imdbid>
+  </actor>
+  <actor>
+    <name>Vincenzo Amato</name>
+    <role>Bruno Zirato</role>
+    <type>Actor</type>
+    <tmdbid>20588</tmdbid>
+    <imdbid>nm0024188</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Urie</name>
+    <role>Jerry Robbins</role>
+    <type>Actor</type>
+    <tmdbid>123795</tmdbid>
+    <imdbid>nm1235530</imdbid>
+    <tvdbid>451085</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Klugman</name>
+    <role>Aaron Copeland</role>
+    <type>Actor</type>
+    <tmdbid>51996</tmdbid>
+    <imdbid>nm0460206</imdbid>
+    <tvdbid>266793</tvdbid>
+  </actor>
+  <actor>
+    <name>Nick Blaemire</name>
+    <role>Adolph Green</role>
+    <type>Actor</type>
+    <tmdbid>1094967</tmdbid>
+  </actor>
+  <actor>
+    <name>Mallory Portnoy</name>
+    <role>Betty Comden</role>
+    <type>Actor</type>
+    <tmdbid>1193275</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Santini</name>
+    <role>Claudio's Guest #1</role>
+    <type>Actor</type>
+    <tmdbid>4440197</tmdbid>
+  </actor>
+  <actor>
+    <name>Jarrod LaBine</name>
+    <role>Claudio's Guest #2</role>
+    <type>Actor</type>
+    <tmdbid>1956106</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Eastman</name>
+    <role>Ellen Adler</role>
+    <type>Actor</type>
+    <tmdbid>1193228</tmdbid>
+  </actor>
+  <actor>
+    <name>William Hill</name>
+    <role>Joseph the Janitor</role>
+    <type>Actor</type>
+    <tmdbid>1232496</tmdbid>
+    <imdbid>nm0384771</imdbid>
+  </actor>
+  <actor>
+    <name>Valery Lessard</name>
+    <role>Younger Actress</role>
+    <type>Actor</type>
+    <tmdbid>1638170</tmdbid>
+  </actor>
+  <actor>
+    <name>Renée Stork</name>
+    <role>Older Actress</role>
+    <type>Actor</type>
+    <tmdbid>3858636</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Nivola</name>
+    <role>Alexander Bernstein</role>
+    <type>Actor</type>
+    <tmdbid>3153829</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexa Swinton</name>
+    <role>Nina Bernstein</role>
+    <type>Actor</type>
+    <tmdbid>2380384</tmdbid>
+    <tvdbid>8107699</tvdbid>
+  </actor>
+  <actor>
+    <name>Gideon Glick</name>
+    <role>Tommy Cothran</role>
+    <type>Actor</type>
+    <tmdbid>130228</tmdbid>
+    <imdbid>nm1921376</imdbid>
+  </actor>
+  <actor>
+    <name>Miriam Shor</name>
+    <role>Cynthia O'Neal</role>
+    <type>Actor</type>
+    <tmdbid>18273</tmdbid>
+    <imdbid>nm0794896</imdbid>
+  </actor>
+  <actor>
+    <name>Zachary Booth</name>
+    <role>Mendy Wager</role>
+    <type>Actor</type>
+    <tmdbid>205854</tmdbid>
+    <imdbid>nm2185539</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Pavlo</name>
+    <role>Claudio Arrau</role>
+    <type>Actor</type>
+    <tmdbid>1900393</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Rogan</name>
+    <role>Dick Hart</role>
+    <type>Actor</type>
+    <tmdbid>2906988</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Sanderson</name>
+    <role>Lil Hart</role>
+    <type>Actor</type>
+    <tmdbid>1190818</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Hamilton</name>
+    <role>John Gruen</role>
+    <type>Actor</type>
+    <tmdbid>52419</tmdbid>
+    <imdbid>nm0357979</imdbid>
+    <tvdbid>317218</tvdbid>
+  </actor>
+  <actor>
+    <name>Soledad Campos</name>
+    <role>Julia Vega</role>
+    <type>Actor</type>
+    <tmdbid>983564</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabe Fazio</name>
+    <role>Willard the Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1129833</tmdbid>
+    <imdbid>nm2057434</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Dobson</name>
+    <role>William</role>
+    <type>Actor</type>
+    <tmdbid>4296807</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Patrick Cameron</name>
+    <role>Audience Member</role>
+    <type>Actor</type>
+    <tmdbid>2832722</tmdbid>
+  </actor>
+  <director tmdbid="51329" imdbid="nm0177896">Bradley Cooper</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gJP2QblqLA0</trailer>
+  <rating>7.3</rating>
+  <year>2023</year>
+  <sorttitle>Maestro</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5535276</imdbid>
+  <tmdbid>523607</tmdbid>
+  <premiered>2023-11-22</premiered>
+  <releasedate>2023-11-22</releasedate>
+  <runtime>131</runtime>
+  <tagline>Una Película de Bradley Cooper</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Música</genre>
+  <studio>Amblin Entertainment</studio>
+  <studio>Fred Berner Films</studio>
+  <studio>Sikelia Productions</studio>
+  <studio>Lea Pictures</studio>
+  <uniqueid type="imdb">tt5535276</uniqueid>
+  <uniqueid type="tmdb">523607</uniqueid>
+  <id>tt5535276</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>959999</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>131</duration>
+        <durationinseconds>7874</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

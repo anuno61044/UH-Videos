@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mientras intenta superar la pérdida de su prometido, Mira Ray envía una serie de mensajes románticos a su antiguo número de teléfono… sin tener en cuenta que el número había sido reasignado al nuevo teléfono de trabajo de Rob Burns. Rob, periodista, queda sorprendido por la honestidad de los mensajes de texto. Cuando le asignan la tarea de escribir un artículo sobre la megaestrella Celine Dion, él le pide ayuda para averiguar cómo conocer a Mira en persona… y conquistar así su corazón.]]></plot>
+  <outline><![CDATA[El destino tiene un plan.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-24 09:45:11</dateadded>
+  <title>Love Again</title>
+  <originaltitle>Love Again</originaltitle>
+  <actor>
+    <name>Priyanka Chopra</name>
+    <role>Mira Ray</role>
+    <type>Actor</type>
+    <tmdbid>77234</tmdbid>
+    <imdbid>nm1231899</imdbid>
+    <tvdbid>331136</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Heughan</name>
+    <role>Rob Burns</role>
+    <type>Actor</type>
+    <tmdbid>209326</tmdbid>
+    <imdbid>nm1537825</imdbid>
+    <tvdbid>331158</tvdbid>
+  </actor>
+  <actor>
+    <name>Céline Dion</name>
+    <role>Céline Dion</role>
+    <type>Actor</type>
+    <tmdbid>16303</tmdbid>
+    <imdbid>nm0001144</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Barclay</name>
+    <role>Suzy Ray</role>
+    <type>Actor</type>
+    <tmdbid>2119084</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Tovey</name>
+    <role>Billy Brooks</role>
+    <type>Actor</type>
+    <tmdbid>55469</tmdbid>
+    <imdbid>nm0869871</imdbid>
+    <tvdbid>307476</tvdbid>
+  </actor>
+  <actor>
+    <name>Lydia West</name>
+    <role>Lisa Scott</role>
+    <type>Actor</type>
+    <tmdbid>2317980</tmdbid>
+    <imdbid>nm9519090</imdbid>
+    <tvdbid>8047698</tvdbid>
+  </actor>
+  <actor>
+    <name>Steve Oram</name>
+    <role>Richard Hughes</role>
+    <type>Actor</type>
+    <tmdbid>219367</tmdbid>
+    <imdbid>nm1361530</imdbid>
+  </actor>
+  <actor>
+    <name>Omid Djalili</name>
+    <role>Mohsen</role>
+    <type>Actor</type>
+    <tmdbid>41379</tmdbid>
+    <imdbid>nm0229084</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Jonas</name>
+    <role>Joel</role>
+    <type>Actor</type>
+    <tmdbid>130565</tmdbid>
+    <imdbid>nm2679917</imdbid>
+    <tvdbid>311215</tvdbid>
+  </actor>
+  <actor>
+    <name>Celia Imrie</name>
+    <role>Gina Valentine</role>
+    <type>Actor</type>
+    <tmdbid>9139</tmdbid>
+    <imdbid>nm0408309</imdbid>
+    <tvdbid>272484</tvdbid>
+  </actor>
+  <actor>
+    <name>Arinzé Kene</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>1346536</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Blake</name>
+    <role>Street Musician</role>
+    <type>Actor</type>
+    <tmdbid>3357257</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurence Varda</name>
+    <role>Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>4052526</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Attwell</name>
+    <role>Rendez Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1502462</tmdbid>
+    <imdbid>nm4222038</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Blake</name>
+    <role>Female Journalist</role>
+    <type>Actor</type>
+    <tmdbid>2923050</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Barry</name>
+    <role>Male Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1675813</tmdbid>
+  </actor>
+  <actor>
+    <name>Haley McGee</name>
+    <role>PR Lady</role>
+    <type>Actor</type>
+    <tmdbid>2818382</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Hatcher</name>
+    <role>Molly the Intern</role>
+    <type>Actor</type>
+    <tmdbid>3491144</tmdbid>
+  </actor>
+  <director tmdbid="52413" imdbid="nm1475479">Jim Strouse</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nQGy-JTLvp8</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Love Again</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10276482</imdbid>
+  <tmdbid>758336</tmdbid>
+  <premiered>2023-05-04</premiered>
+  <releasedate>2023-05-04</releasedate>
+  <criticrating>27</criticrating>
+  <runtime>104</runtime>
+  <tagline>El destino tiene un plan.</tagline>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Screen Gems</studio>
+  <studio>Thunder Road</studio>
+  <studio>2.0 Entertainment</studio>
+  <uniqueid type="imdb">tt10276482</uniqueid>
+  <uniqueid type="tmdb">758336</uniqueid>
+  <id>tt10276482</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1068121</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6261</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Anthony Miller (Russell Crowe) es un actor con problemas que empieza a desmoronarse durante el rodaje de una película de terror sobrenatural. Su distante hija (Ryan Simpkins) se pregunta si su padre está volviendo a sus adicciones del pasado o si hay algo más siniestro detrás...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-10 07:54:36</dateadded>
+  <title>El exorcismo de Georgetown</title>
+  <originaltitle>The Exorcism</originaltitle>
+  <actor>
+    <name>Russell Crowe</name>
+    <role>Anthony Miller</role>
+    <type>Actor</type>
+    <tmdbid>934</tmdbid>
+    <imdbid>nm0000128</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Simpkins</name>
+    <role>Lee Miller</role>
+    <type>Actor</type>
+    <tmdbid>35027</tmdbid>
+    <imdbid>nm1364532</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Worthington</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>65731</tmdbid>
+    <imdbid>nm0941777</imdbid>
+    <tvdbid>366817</tvdbid>
+  </actor>
+  <actor>
+    <name>Chloe Bailey</name>
+    <role>Blake Holloway</role>
+    <type>Actor</type>
+    <tmdbid>86800</tmdbid>
+    <imdbid>nm1352900</imdbid>
+    <tvdbid>466086</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Goldberg</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>6163</tmdbid>
+    <imdbid>nm0004965</imdbid>
+    <tvdbid>274498</tvdbid>
+  </actor>
+  <actor>
+    <name>David Hyde Pierce</name>
+    <role>Father Conor</role>
+    <type>Actor</type>
+    <tmdbid>11076</tmdbid>
+    <imdbid>nm0001383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Pasdar</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>17304</tmdbid>
+    <imdbid>nm0664499</imdbid>
+  </actor>
+  <actor>
+    <name>Tracey Bonner</name>
+    <role>Regina</role>
+    <type>Actor</type>
+    <tmdbid>1549537</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Mathis</name>
+    <role>Jennifer Simon</role>
+    <type>Actor</type>
+    <tmdbid>20767</tmdbid>
+    <imdbid>nm0000526</imdbid>
+  </actor>
+  <actor>
+    <name>Marcenae Lynette</name>
+    <role>Monica</role>
+    <type>Actor</type>
+    <tmdbid>3070232</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Warren</name>
+    <role>Donnie</role>
+    <type>Actor</type>
+    <tmdbid>1181557</tmdbid>
+    <imdbid>nm3570642</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Black</name>
+    <role>Crew 2nd AC</role>
+    <type>Actor</type>
+    <tmdbid>2153787</tmdbid>
+  </actor>
+  <actor>
+    <name>Joya Joseph</name>
+    <role>Restaurant Host</role>
+    <type>Actor</type>
+    <tmdbid>4648431</tmdbid>
+  </actor>
+  <actor>
+    <name>Hallie Samuels</name>
+    <role>Hayley / Makeup Person</role>
+    <type>Actor</type>
+    <tmdbid>3077649</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Rapp</name>
+    <role>Office Worker</role>
+    <type>Actor</type>
+    <tmdbid>2268476</tmdbid>
+  </actor>
+  <actor>
+    <name>Jobie James</name>
+    <role>Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>4676297</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Fortunato</name>
+    <role>Second AD</role>
+    <type>Actor</type>
+    <tmdbid>1483022</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Broderick</name>
+    <role>Producer</role>
+    <type>Actor</type>
+    <tmdbid>4141962</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Padlo</name>
+    <role>The Dark Figure</role>
+    <type>Actor</type>
+    <tmdbid>4676298</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris TC Edge</name>
+    <role>Anthony's Actor Friend</role>
+    <type>Actor</type>
+    <tmdbid>3072059</tmdbid>
+  </actor>
+  <actor>
+    <name>Chandler Lane</name>
+    <role>Delivery Guy</role>
+    <type>Actor</type>
+    <tmdbid>2006532</tmdbid>
+  </actor>
+  <actor>
+    <name>William Hutchings</name>
+    <role>Film Crew</role>
+    <type>Actor</type>
+    <tmdbid>4164468</tmdbid>
+  </actor>
+  <director tmdbid="93151">Joshua John Miller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zsa-s6bM0xM</trailer>
+  <rating>4.5</rating>
+  <year>2024</year>
+  <sorttitle>exorcismo de Georgetown</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11240348</imdbid>
+  <tmdbid>646683</tmdbid>
+  <premiered>2024-05-30</premiered>
+  <releasedate>2024-05-30</releasedate>
+  <criticrating>31</criticrating>
+  <runtime>95</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Miramax</studio>
+  <studio>Outerbanks Entertainment</studio>
+  <uniqueid type="imdb">tt11240348</uniqueid>
+  <uniqueid type="tmdb">646683</uniqueid>
+  <id>tt11240348</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1168502</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5724</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nueva York, 2010. Jeff Harris, un periodista musical, se propone descubrir la verdad sobre Francisco Tenório Júnior, un joven pianista brasileño de samba-jazz que desapareció en Buenos Aires el 18 de marzo de 1976.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-01 17:45:27</dateadded>
+  <title>Dispararon al pianista</title>
+  <originaltitle>They Shot the Piano Player</originaltitle>
+  <actor>
+    <name>Jeff Goldblum</name>
+    <role>Jeff Harris (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4785</tmdbid>
+    <imdbid>nm0000156</imdbid>
+  </actor>
+  <director tmdbid="37526" imdbid="nm0874096">Fernando Trueba</director>
+  <director tmdbid="588828" imdbid="nm0973475">Javier Mariscal</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWm-HEyRyzc</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Dispararon al pianista</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11242654</imdbid>
+  <tmdbid>646265</tmdbid>
+  <premiered>2023-10-06</premiered>
+  <releasedate>2023-10-06</releasedate>
+  <runtime>99</runtime>
+  <country>France</country>
+  <country>Netherlands</country>
+  <country>Peru</country>
+  <country>Portugal</country>
+  <country>Spain</country>
+  <genre>Animación</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Fernando Trueba PC</studio>
+  <studio>Julián, Piker y Fermín</studio>
+  <studio>Les Films d'Ici Méditerranée</studio>
+  <studio>Animanostra</studio>
+  <studio>Submarine</studio>
+  <studio>Tondero</studio>
+  <studio>Gao Shan Pictures</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>TVE</studio>
+  <studio>Movistar+</studio>
+  <studio>TV3</studio>
+  <studio>RTP</studio>
+  <uniqueid type="imdb">tt11242654</uniqueid>
+  <uniqueid type="tmdb">646265</uniqueid>
+  <id>tt11242654</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>745644</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>50</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5956</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>65102</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

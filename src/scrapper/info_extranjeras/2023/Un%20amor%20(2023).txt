@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nat, una joven e inexperta traductora, acaba de mudarse. Su casero, que le regala un perro como gesto de bienvenida, no tardará en mostrar su verdadera cara, y los conflictos en torno a la casa alquilada —una construcción pobre, llena de grietas y goteras— se convertirán en una verdadera obsesión para ella.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-02 16:29:18</dateadded>
+  <title>Un amor</title>
+  <originaltitle>Un amor</originaltitle>
+  <actor>
+    <name>Laia Costa</name>
+    <role>Nat</role>
+    <type>Actor</type>
+    <tmdbid>1425019</tmdbid>
+    <imdbid>nm4663937</imdbid>
+  </actor>
+  <actor>
+    <name>Hovik Keuchkerian</name>
+    <role>Andreas</role>
+    <type>Actor</type>
+    <tmdbid>1131415</tmdbid>
+    <imdbid>nm3986032</imdbid>
+    <tvdbid>499258</tvdbid>
+  </actor>
+  <actor>
+    <name>Hugo Silva</name>
+    <role>Píter</role>
+    <type>Actor</type>
+    <tmdbid>112901</tmdbid>
+    <imdbid>nm1281229</imdbid>
+    <tvdbid>306708</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Bermejo</name>
+    <role>Landlord</role>
+    <type>Actor</type>
+    <tmdbid>27471</tmdbid>
+    <imdbid>nm1084399</imdbid>
+    <tvdbid>499262</tvdbid>
+  </actor>
+  <actor>
+    <name>Ingrid García-Jonsson</name>
+    <role>Lara</role>
+    <type>Actor</type>
+    <tmdbid>1223239</tmdbid>
+    <imdbid>nm4201461</imdbid>
+    <tvdbid>7912323</tvdbid>
+  </actor>
+  <actor>
+    <name>Francesco Carril</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>1442194</tmdbid>
+  </actor>
+  <director tmdbid="90" imdbid="nm0170043">Isabel Coixet</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x__7f5grhRs</trailer>
+  <rating>7.6</rating>
+  <year>2023</year>
+  <sorttitle>Un amor</sorttitle>
+  <imdbid>tt26744818</imdbid>
+  <tmdbid>1087571</tmdbid>
+  <premiered>2023-11-10</premiered>
+  <releasedate>2023-11-10</releasedate>
+  <runtime>128</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Buena Pinta Media</studio>
+  <studio>Perdición Films</studio>
+  <studio>Monte Glauco AIE</studio>
+  <studio>Movistar+</studio>
+  <studio>TV3</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt26744818</uniqueid>
+  <uniqueid type="tmdb">1087571</uniqueid>
+  <id>tt26744818</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>162941</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7650</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63826</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

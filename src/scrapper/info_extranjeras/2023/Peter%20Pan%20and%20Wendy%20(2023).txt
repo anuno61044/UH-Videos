@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Wendy Darling, una niña que no quiere ir al internado, conoce a Peter Pan, un niño que se niega a crecer. Junto a sus hermanos y a Campanilla, un hada diminuta, viajará con Peter hasta el mágico mundo de Nunca Jamás. Allí conocerá a un malvado pirata, el Capitán Garfio, y se embarcará en una apasionante aventura que cambiará su vida para siempre.]]></plot>
+  <outline><![CDATA[Vuelve a Nunca Jamás.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-28 08:13:33</dateadded>
+  <title>Peter Pan &amp; Wendy</title>
+  <originaltitle>Peter Pan &amp; Wendy</originaltitle>
+  <actor>
+    <name>Alexander Molony</name>
+    <role>Peter Pan</role>
+    <type>Actor</type>
+    <tmdbid>2562617</tmdbid>
+  </actor>
+  <actor>
+    <name>Ever Anderson</name>
+    <role>Wendy Darling</role>
+    <type>Actor</type>
+    <tmdbid>1743933</tmdbid>
+  </actor>
+  <actor>
+    <name>Jude Law</name>
+    <role>Captain Hook</role>
+    <type>Actor</type>
+    <tmdbid>9642</tmdbid>
+    <imdbid>nm0000179</imdbid>
+  </actor>
+  <actor>
+    <name>Alyssa Wapanatâhk</name>
+    <role>Tiger Lily</role>
+    <type>Actor</type>
+    <tmdbid>2818304</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Gaffigan</name>
+    <role>Mr. Smee</role>
+    <type>Actor</type>
+    <tmdbid>84407</tmdbid>
+    <imdbid>nm0300712</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Blue Pickering</name>
+    <role>John Darling</role>
+    <type>Actor</type>
+    <tmdbid>3115248</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacobi Jupe</name>
+    <role>Michael Darling</role>
+    <type>Actor</type>
+    <tmdbid>3115247</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Parker</name>
+    <role>Mrs. Darling</role>
+    <type>Actor</type>
+    <tmdbid>27125</tmdbid>
+    <imdbid>nm0662504</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Mr. Darling</role>
+    <type>Actor</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+    <tvdbid>295572</tvdbid>
+  </actor>
+  <actor>
+    <name>Yara Shahidi</name>
+    <role>Tinker Bell</role>
+    <type>Actor</type>
+    <tmdbid>118372</tmdbid>
+    <imdbid>nm2780578</imdbid>
+    <tvdbid>311357</tvdbid>
+  </actor>
+  <actor>
+    <name>Florence Bensberg</name>
+    <role>Curly</role>
+    <type>Actor</type>
+    <tmdbid>3115352</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Billingsley-Rodriguez</name>
+    <role>Nibs</role>
+    <type>Actor</type>
+    <tmdbid>1975740</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Matthews Matofsky</name>
+    <role>Slightly</role>
+    <type>Actor</type>
+    <tmdbid>3115348</tmdbid>
+  </actor>
+  <actor>
+    <name>Caelan Edie</name>
+    <role>Tootles</role>
+    <type>Actor</type>
+    <tmdbid>3115355</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelsey Yates</name>
+    <role>Twin 1</role>
+    <type>Actor</type>
+    <tmdbid>2050349</tmdbid>
+  </actor>
+  <actor>
+    <name>Skyler Yates</name>
+    <role>Twin 2</role>
+    <type>Actor</type>
+    <tmdbid>2050348</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Tsoy</name>
+    <role>Birdie</role>
+    <type>Actor</type>
+    <tmdbid>3115351</tmdbid>
+  </actor>
+  <actor>
+    <name>Felix de Sousa</name>
+    <role>Bellweather</role>
+    <type>Actor</type>
+    <tmdbid>3115251</tmdbid>
+  </actor>
+  <actor>
+    <name>John DeSantis</name>
+    <role>Bill Jukes</role>
+    <type>Actor</type>
+    <tmdbid>43299</tmdbid>
+    <imdbid>nm0220883</imdbid>
+    <tvdbid>309405</tvdbid>
+  </actor>
+  <actor>
+    <name>Garfield Wilson</name>
+    <role>Gurley</role>
+    <type>Actor</type>
+    <tmdbid>62709</tmdbid>
+    <imdbid>nm0933435</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Tracey</name>
+    <role>Sallyport</role>
+    <type>Actor</type>
+    <tmdbid>25386</tmdbid>
+    <imdbid>nm0870439</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Acheson</name>
+    <role>Old Clemson</role>
+    <type>Actor</type>
+    <tmdbid>32751</tmdbid>
+    <imdbid>nm0009811</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse James Pierce</name>
+    <role>Skylight</role>
+    <type>Actor</type>
+    <tmdbid>1883928</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemita Samarra</name>
+    <role>Mermaid</role>
+    <type>Actor</type>
+    <tmdbid>1436404</tmdbid>
+    <imdbid>nm5106314</imdbid>
+  </actor>
+  <actor>
+    <name>Cassie Van Wolde</name>
+    <role>Adult Wendy</role>
+    <type>Actor</type>
+    <tmdbid>4007494</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Ramsay</name>
+    <role>Older Wendy</role>
+    <type>Actor</type>
+    <tmdbid>2034415</tmdbid>
+  </actor>
+  <actor>
+    <name>Paloma Nunez</name>
+    <role>Mrs. Starkey</role>
+    <type>Actor</type>
+    <tmdbid>1480981</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Chih-Ping Cheng</name>
+    <role>Scrimshaw Sam</role>
+    <type>Actor</type>
+    <tmdbid>1932590</tmdbid>
+    <imdbid>nm2473601</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Ching</name>
+    <role>Dirtbag Benny</role>
+    <type>Actor</type>
+    <tmdbid>1324714</tmdbid>
+    <imdbid>nm0157879</imdbid>
+  </actor>
+  <actor>
+    <name>Nora Mcadam</name>
+    <role>Tiger Lily's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>4007495</tmdbid>
+  </actor>
+  <director tmdbid="592493" imdbid="nm1108007">David Lowery</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SWeW4wokcv8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GISA8oez0NM</trailer>
+  <rating>4.4</rating>
+  <year>2023</year>
+  <sorttitle>Peter Pan &amp; Wendy</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt5635026</imdbid>
+  <tmdbid>420808</tmdbid>
+  <premiered>2023-04-20</premiered>
+  <releasedate>2023-04-20</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>103</runtime>
+  <tagline>Vuelve a Nunca Jamás.</tagline>
+  <country>United States of America</country>
+  <genre>Familia</genre>
+  <genre>Fantasía</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Whitaker Entertainment</studio>
+  <uniqueid type="imdb">tt5635026</uniqueid>
+  <uniqueid type="tmdb">420808</uniqueid>
+  <id>tt5635026</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>977620</bitrate>
+        <width>1280</width>
+        <height>608</height>
+        <aspect>40:19</aspect>
+        <aspectratio>40:19</aspectratio>
+        <framerate>23.999834</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6201</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

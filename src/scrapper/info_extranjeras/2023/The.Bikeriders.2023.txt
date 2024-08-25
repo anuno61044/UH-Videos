@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras un encuentro casual en un bar, Kathy, una mujer con carácter, se siente profundamente atraída por Benny, el miembro más reciente de “The Vandals” (Los vándalos), un club de moteros del Medio Oeste liderado por el enigmático Johnny. Al igual que el país, el club empieza a cambiar, y pasa de ser un lugar de reunión para los forasteros locales a convertirse en un punto de encuentro para un violento submundo, obligando a Benny a escoger entre Kathy y la lealtad que siente por sus compañeros.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-11 09:02:05</dateadded>
+  <title>Bikeriders. La ley del asfalto</title>
+  <originaltitle>The Bikeriders</originaltitle>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Kathy Cross</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+    <tvdbid>522283</tvdbid>
+  </actor>
+  <actor>
+    <name>Austin Butler</name>
+    <role>Benny Cross</role>
+    <type>Actor</type>
+    <tmdbid>86654</tmdbid>
+    <imdbid>nm2581521</imdbid>
+    <tvdbid>379481</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Johnny</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+    <tvdbid>373728</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Shannon</name>
+    <role>Zipco</role>
+    <type>Actor</type>
+    <tmdbid>335</tmdbid>
+    <imdbid>nm0788335</imdbid>
+    <tvdbid>262015</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Faist</name>
+    <role>Danny Lyon</role>
+    <type>Actor</type>
+    <tmdbid>1423520</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Cal</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+    <imdbid>nm2933542</imdbid>
+    <tvdbid>466734</tvdbid>
+  </actor>
+  <actor>
+    <name>Norman Reedus</name>
+    <role>Funny Sonny</role>
+    <type>Actor</type>
+    <tmdbid>4886</tmdbid>
+    <imdbid>nm0005342</imdbid>
+    <tvdbid>268782</tvdbid>
+  </actor>
+  <actor>
+    <name>Damon Herriman</name>
+    <role>Brucie</role>
+    <type>Actor</type>
+    <tmdbid>62752</tmdbid>
+    <imdbid>nm0380632</imdbid>
+    <tvdbid>333569</tvdbid>
+  </actor>
+  <actor>
+    <name>Beau Knapp</name>
+    <role>Wahoo</role>
+    <type>Actor</type>
+    <tmdbid>1078613</tmdbid>
+    <imdbid>nm3354041</imdbid>
+    <tvdbid>393530</tvdbid>
+  </actor>
+  <actor>
+    <name>Emory Cohen</name>
+    <role>Cockroach</role>
+    <type>Actor</type>
+    <tmdbid>1041440</tmdbid>
+    <imdbid>nm1710309</imdbid>
+    <tvdbid>520936</tvdbid>
+  </actor>
+  <actor>
+    <name>Karl Glusman</name>
+    <role>Corky</role>
+    <type>Actor</type>
+    <tmdbid>1327613</tmdbid>
+    <imdbid>nm3194762</imdbid>
+    <tvdbid>480696</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Wallace</name>
+    <role>The Kid</role>
+    <type>Actor</type>
+    <tmdbid>110419</tmdbid>
+    <imdbid>nm3108675</imdbid>
+    <tvdbid>482587</tvdbid>
+  </actor>
+  <actor>
+    <name>Happy Anderson</name>
+    <role>Big Jack</role>
+    <type>Actor</type>
+    <tmdbid>1370986</tmdbid>
+    <imdbid>nm2322283</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sparks</name>
+    <role>Gary Rogue Leader</role>
+    <type>Actor</type>
+    <tmdbid>167564</tmdbid>
+    <imdbid>nm0817027</imdbid>
+    <tvdbid>323671</tvdbid>
+  </actor>
+  <actor>
+    <name>Will Oldham</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>77080</tmdbid>
+    <imdbid>nm0646165</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Neorr</name>
+    <role>Goodpaster</role>
+    <type>Actor</type>
+    <tmdbid>2688338</tmdbid>
+  </actor>
+  <actor>
+    <name>Mierka Girten</name>
+    <role>The Kid's Mother (as Mierka 'Mookie' Girten)</role>
+    <type>Actor</type>
+    <tmdbid>4791743</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Dillon</name>
+    <role>The Kid's Father</role>
+    <type>Actor</type>
+    <tmdbid>13925</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Jane Parker</name>
+    <role>Dingy</role>
+    <type>Actor</type>
+    <tmdbid>1512181</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Donno</name>
+    <role>Paulie</role>
+    <type>Actor</type>
+    <tmdbid>1463665</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Endoso</name>
+    <role>Henry</role>
+    <type>Actor</type>
+    <tmdbid>2615736</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Lee Kolis</name>
+    <role>Betty</role>
+    <type>Actor</type>
+    <tmdbid>4791748</tmdbid>
+  </actor>
+  <actor>
+    <name>Phuong Kubacki</name>
+    <role>Gail</role>
+    <type>Actor</type>
+    <tmdbid>2025638</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Scerbak</name>
+    <role>Big Barb</role>
+    <type>Actor</type>
+    <tmdbid>1922822</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Riley Stephens</name>
+    <role>Benny's Cousin</role>
+    <type>Actor</type>
+    <tmdbid>3519064</tmdbid>
+  </actor>
+  <actor>
+    <name>Forba Shepherd</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>2034280</tmdbid>
+  </actor>
+  <actor>
+    <name>David Myers Gregory</name>
+    <role>Frank</role>
+    <type>Actor</type>
+    <tmdbid>2688330</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Wesley Gilreath</name>
+    <role>Bikerider #1</role>
+    <type>Actor</type>
+    <tmdbid>1545515</tmdbid>
+    <imdbid>nm1907812</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Abbott Jr.</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>71889</tmdbid>
+    <imdbid>nm2534638</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Freivogel</name>
+    <role>Columbus Member</role>
+    <type>Actor</type>
+    <tmdbid>1677396</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Cramer</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>1981194</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Mackie</name>
+    <role>Laundromat Lady #1</role>
+    <type>Actor</type>
+    <tmdbid>2688337</tmdbid>
+  </actor>
+  <actor>
+    <name>Johanna McGinley</name>
+    <role>Laundromat Lady #2</role>
+    <type>Actor</type>
+    <tmdbid>1618923</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Marvel</name>
+    <role>Motorist</role>
+    <type>Actor</type>
+    <tmdbid>2332388</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Hargous</name>
+    <role>Vandal #1</role>
+    <type>Actor</type>
+    <tmdbid>4791766</tmdbid>
+  </actor>
+  <actor>
+    <name>Radek Lord</name>
+    <role>Gary Rogue Member</role>
+    <type>Actor</type>
+    <tmdbid>1684023</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Haydon</name>
+    <role>Young Vandal</role>
+    <type>Actor</type>
+    <tmdbid>2154016</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Mullins</name>
+    <role>Vandal #2</role>
+    <type>Actor</type>
+    <tmdbid>2589577</tmdbid>
+  </actor>
+  <actor>
+    <name>Becca Howell</name>
+    <role>Dancing Drunk Girl</role>
+    <type>Actor</type>
+    <tmdbid>3116399</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Anderson</name>
+    <role>Biker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4791821</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Dejean</name>
+    <role>General Rally Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4791843</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Harland</name>
+    <role>Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2051472</tmdbid>
+  </actor>
+  <actor>
+    <name>Kagga Jayson</name>
+    <role>Jack (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4746418</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny McManus</name>
+    <role>Car Show Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2345105</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Mullins</name>
+    <role>MC member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4761776</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd O'Reilly</name>
+    <role>Bar Owner Stoplight (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4791878</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Olchovy</name>
+    <role>General Rally Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4534011</tmdbid>
+  </actor>
+  <actor>
+    <name>Dakota Phillips</name>
+    <role>New Vandal (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3698150</tmdbid>
+  </actor>
+  <actor>
+    <name>David Pittinger</name>
+    <role>Happy Family Dad (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1196532</tmdbid>
+    <imdbid>nm1001678</imdbid>
+  </actor>
+  <actor>
+    <name>Chandler Pope</name>
+    <role>School Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4534010</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian D. Schroeder</name>
+    <role>Vandal (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4791893</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Sheridan</name>
+    <role>Rita (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1873330</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Waldfogle</name>
+    <role>Day Drinker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4791900</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Terry Walker</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4534008</tmdbid>
+  </actor>
+  <director tmdbid="71872" imdbid="nm2158772">Jeff Nichols</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9JIQzq4CBBU</trailer>
+  <rating>7.4</rating>
+  <year>2024</year>
+  <sorttitle>Bikeriders. La ley del asfalto</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21454134</imdbid>
+  <tmdbid>1008409</tmdbid>
+  <premiered>2024-06-19</premiered>
+  <releasedate>2024-06-19</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>116</runtime>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <studio>Tri-State Pictures</studio>
+  <studio>New Regency Pictures</studio>
+  <studio>Regency Enterprises</studio>
+  <uniqueid type="tmdb">1008409</uniqueid>
+  <uniqueid type="imdb">tt21454134</uniqueid>
+  <id>tt21454134</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>957321</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6986</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

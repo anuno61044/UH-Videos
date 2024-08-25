@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un padre y sus hijos mellizos intentan sobrevivir al asedio de unas criaturas feroces que atacan su remota granja.]]></plot>
+  <outline><![CDATA[Family is stronger than fear.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-01 09:16:49</dateadded>
+  <title>Arcadian</title>
+  <originaltitle>Arcadian</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Jaeden Martell</name>
+    <role>Joseph</role>
+    <type>Actor</type>
+    <tmdbid>1274508</tmdbid>
+    <imdbid>nm5897057</imdbid>
+  </actor>
+  <actor>
+    <name>Maxwell Jenkins</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>1810651</tmdbid>
+    <imdbid>nm3069420</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Soverall</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>2270402</tmdbid>
+    <tvdbid>8093746</tvdbid>
+  </actor>
+  <actor>
+    <name>Samantha Coughlan</name>
+    <role>Mrs. Rose</role>
+    <type>Actor</type>
+    <tmdbid>1321622</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Gillman</name>
+    <role>Hobson</role>
+    <type>Actor</type>
+    <tmdbid>1542962</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Dixon</name>
+    <role>Mr. Rose</role>
+    <type>Actor</type>
+    <tmdbid>1010264</tmdbid>
+    <imdbid>nm0228878</imdbid>
+  </actor>
+  <actor>
+    <name>Daire McMahon</name>
+    <role>Militant Farmer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4441379</tmdbid>
+  </actor>
+  <director tmdbid="3879718">Benjamin Brewer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HNARuSROxbM</trailer>
+  <rating>6.3</rating>
+  <year>2024</year>
+  <sorttitle>Arcadian</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt22939186</imdbid>
+  <tmdbid>1051896</tmdbid>
+  <premiered>2024-04-12</premiered>
+  <releasedate>2024-04-12</releasedate>
+  <runtime>92</runtime>
+  <tagline>Family is stronger than fear.</tagline>
+  <country>Ireland</country>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Highland Film Group</studio>
+  <studio>Redline Entertainment</studio>
+  <studio>Wild Atlantic Pictures</studio>
+  <studio>Aperture Media Partners</studio>
+  <studio>Saturn Films</studio>
+  <uniqueid type="imdb">tt22939186</uniqueid>
+  <uniqueid type="tmdb">1051896</uniqueid>
+  <id>tt22939186</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1214346</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>959:408</aspect>
+        <aspectratio>959:408</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5506</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

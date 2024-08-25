@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en un Panem postapocalíptico, nos hace retroceder varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la niña seleccionada como tributo del empobrecido Distrito 12. La joven sorprenderá a todos al cantar en la ceremonia de inauguración de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-24 10:02:10</dateadded>
+  <title>Los juegos del hambre: Balada de pájaros cantores y serpientes</title>
+  <originaltitle>The Hunger Games: The Ballad of Songbirds &amp; Snakes</originaltitle>
+  <actor>
+    <name>Tom Blyth</name>
+    <role>Coriolanus Snow</role>
+    <type>Actor</type>
+    <tmdbid>1524100</tmdbid>
+    <imdbid>nm3880241</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Zegler</name>
+    <role>Lucy Gray Baird</role>
+    <type>Actor</type>
+    <tmdbid>2217977</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Dinklage</name>
+    <role>Casca Highbottom</role>
+    <type>Actor</type>
+    <tmdbid>22970</tmdbid>
+    <imdbid>nm0227759</imdbid>
+    <tvdbid>247907</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Schwartzman</name>
+    <role>Lucretius 'Lucky' Flickerman</role>
+    <type>Actor</type>
+    <tmdbid>17881</tmdbid>
+    <imdbid>nm0005403</imdbid>
+  </actor>
+  <actor>
+    <name>Hunter Schafer</name>
+    <role>Tigris Snow</role>
+    <type>Actor</type>
+    <tmdbid>2340180</tmdbid>
+    <imdbid>nm9476408</imdbid>
+    <tvdbid>7902731</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Andrés Rivera</name>
+    <role>Sejanus Plinth</role>
+    <type>Actor</type>
+    <tmdbid>2269067</tmdbid>
+  </actor>
+  <actor>
+    <name>Viola Davis</name>
+    <role>Dr. Volumnia Gaul</role>
+    <type>Actor</type>
+    <tmdbid>19492</tmdbid>
+    <imdbid>nm0205626</imdbid>
+    <tvdbid>269662</tvdbid>
+  </actor>
+  <actor>
+    <name>Fionnula Flanagan</name>
+    <role>Grandma’am</role>
+    <type>Actor</type>
+    <tmdbid>58068</tmdbid>
+    <imdbid>nm0001217</imdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Lansing</name>
+    <role>Coral</role>
+    <type>Actor</type>
+    <tmdbid>2443558</tmdbid>
+  </actor>
+  <actor>
+    <name>Isobel Jesper Jones</name>
+    <role>Mayfair Lipp</role>
+    <type>Actor</type>
+    <tmdbid>3703190</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Liao</name>
+    <role>Clemensia Dovecote</role>
+    <type>Actor</type>
+    <tmdbid>1583971</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerome Lance</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>3588233</tmdbid>
+  </actor>
+  <actor>
+    <name>Knox Gibson</name>
+    <role>Bobbin</role>
+    <type>Actor</type>
+    <tmdbid>3391672</tmdbid>
+  </actor>
+  <actor>
+    <name>Aamer Husain</name>
+    <role>Felix Ravinstill</role>
+    <type>Actor</type>
+    <tmdbid>3588236</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Benson</name>
+    <role>Jessup</role>
+    <type>Actor</type>
+    <tmdbid>1235375</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilly Cooper</name>
+    <role>Arachne Crane</role>
+    <type>Actor</type>
+    <tmdbid>2503085</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Steeples</name>
+    <role>Dill</role>
+    <type>Actor</type>
+    <tmdbid>3597634</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Raphael</name>
+    <role>Festus Creed</role>
+    <type>Actor</type>
+    <tmdbid>2261372</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroki Berrecloth</name>
+    <role>Treech</role>
+    <type>Actor</type>
+    <tmdbid>3597636</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Renee</name>
+    <role>Lysistrata Vickers</role>
+    <type>Actor</type>
+    <tmdbid>1758312</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayomide Adegun</name>
+    <role>Pliny 'Pup' Harrington</role>
+    <type>Actor</type>
+    <tvdbid>9104267</tvdbid>
+    <tmdbid>3304268</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Akinpelumi</name>
+    <role>Domita Whimsiwick</role>
+    <type>Actor</type>
+    <tmdbid>2051651</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Sanchez</name>
+    <role>Wovey</role>
+    <type>Actor</type>
+    <tmdbid>3605152</tmdbid>
+  </actor>
+  <actor>
+    <name>Amélie Hoeferle</name>
+    <role>Vipsania Sickle</role>
+    <type>Actor</type>
+    <tmdbid>2333351</tmdbid>
+  </actor>
+  <actor>
+    <name>Irene Böhm</name>
+    <role>Lamina</role>
+    <type>Actor</type>
+    <tmdbid>2519508</tmdbid>
+  </actor>
+  <actor>
+    <name>Cooper Dillon</name>
+    <role>Mizzen</role>
+    <type>Actor</type>
+    <tmdbid>3614015</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Kuse</name>
+    <role>Brandy</role>
+    <type>Actor</type>
+    <tmdbid>2009625</tmdbid>
+  </actor>
+  <actor>
+    <name>Kjell Brutscheidt</name>
+    <role>Tanner</role>
+    <type>Actor</type>
+    <tmdbid>3062060</tmdbid>
+  </actor>
+  <actor>
+    <name>Dimitri Abold</name>
+    <role>Reaper</role>
+    <type>Actor</type>
+    <tmdbid>2478417</tmdbid>
+  </actor>
+  <actor>
+    <name>Athena Strates</name>
+    <role>Persephone Price</role>
+    <type>Actor</type>
+    <tmdbid>1977981</tmdbid>
+  </actor>
+  <actor>
+    <name>Dakota Shapiro</name>
+    <role>Billy Taupe</role>
+    <type>Actor</type>
+    <tmdbid>1982328</tmdbid>
+  </actor>
+  <actor>
+    <name>George Somner</name>
+    <role>Spruce</role>
+    <type>Actor</type>
+    <tmdbid>1667351</tmdbid>
+  </actor>
+  <actor>
+    <name>Vaughan Reilly</name>
+    <role>Maude Ivory</role>
+    <type>Actor</type>
+    <tmdbid>3614018</tmdbid>
+  </actor>
+  <actor>
+    <name>Flora Thiemann</name>
+    <role>Livia Cardew</role>
+    <type>Actor</type>
+    <tmdbid>1405775</tmdbid>
+  </actor>
+  <actor>
+    <name>Honor Gillies</name>
+    <role>Barb Azure</role>
+    <type>Actor</type>
+    <tmdbid>3703185</tmdbid>
+  </actor>
+  <actor>
+    <name>Eike Onyambu</name>
+    <role>Tam Amber</role>
+    <type>Actor</type>
+    <tmdbid>3703186</tmdbid>
+  </actor>
+  <actor>
+    <name>Konstantin Taffet</name>
+    <role>Clerk Carmine</role>
+    <type>Actor</type>
+    <tmdbid>3703187</tmdbid>
+  </actor>
+  <actor>
+    <name>Burn Gorman</name>
+    <role>Commander Hoff</role>
+    <type>Actor</type>
+    <tmdbid>39659</tmdbid>
+    <imdbid>nm1218607</imdbid>
+    <tvdbid>307183</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott Folan</name>
+    <role>Beanpole</role>
+    <type>Actor</type>
+    <tmdbid>3383260</tmdbid>
+  </actor>
+  <actor>
+    <name>Carl Spencer</name>
+    <role>Smiley</role>
+    <type>Actor</type>
+    <tmdbid>3844900</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Greco</name>
+    <role>Strabo Plinth</role>
+    <type>Actor</type>
+    <tmdbid>178009</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Grubert</name>
+    <role>Mrs. Plinth</role>
+    <type>Actor</type>
+    <tmdbid>3703188</tmdbid>
+  </actor>
+  <actor>
+    <name>Dexter Sol Ansell</name>
+    <role>Young Coriolanus</role>
+    <type>Actor</type>
+    <tmdbid>3568188</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Paige Watkins</name>
+    <role>Liz</role>
+    <type>Actor</type>
+    <tmdbid>3037585</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonas Martens</name>
+    <role>Academy Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4221492</tmdbid>
+  </actor>
+  <actor>
+    <name>Donald Sutherland</name>
+    <role>Coriolanus Snow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55636</tmdbid>
+    <imdbid>nm0000661</imdbid>
+  </actor>
+  <director tmdbid="10943" imdbid="nm1349376">Francis Lawrence</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nai7ED8mCxw</trailer>
+  <rating>7.2</rating>
+  <year>2023</year>
+  <sorttitle>Los juegos del hambre: Balada de pajaros cantores y serpientes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10545296</imdbid>
+  <tmdbid>695721</tmdbid>
+  <premiered>2023-11-15</premiered>
+  <releasedate>2023-11-15</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>157</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Acción</genre>
+  <studio>Lionsgate</studio>
+  <studio>Color Force</studio>
+  <set tmdbcolid="131635">
+    <name>Los juegos del hambre - Colección</name>
+  </set>
+  <uniqueid type="tmdb">695721</uniqueid>
+  <uniqueid type="imdb">tt10545296</uniqueid>
+  <id>tt10545296</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150115</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>157</duration>
+        <durationinseconds>9429</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129817</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

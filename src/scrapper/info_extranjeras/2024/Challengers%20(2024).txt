@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Casada con un campeón con una mala racha de derrotas, la estrategia de Tashi para la redención de su marido da un giro sorprendente cuando éste debe enfrentarse a Patrick - su antiguo mejor amigo y ex novio de Tashi. A medida que sus pasados y presentes chocan, y las tensiones se disparan, Tashi debe preguntarse a sí misma cuánto le costará ganar.]]></plot>
+  <outline><![CDATA[El arte de la seducción y otros juegos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-17 12:20:11</dateadded>
+  <title>Rivales</title>
+  <originaltitle>Challengers</originaltitle>
+  <actor>
+    <name>Zendaya</name>
+    <role>Tashi Donaldson</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+    <tvdbid>327412</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh O'Connor</name>
+    <role>Patrick Zweig</role>
+    <type>Actor</type>
+    <tmdbid>1206334</tmdbid>
+    <imdbid>nm4853066</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Faist</name>
+    <role>Art Donaldson</role>
+    <type>Actor</type>
+    <tmdbid>1423520</tmdbid>
+  </actor>
+  <actor>
+    <name>Darnell Appling</name>
+    <role>Umpire (New Rochelle Final)</role>
+    <type>Actor</type>
+    <tmdbid>3352136</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Doo</name>
+    <role>Art's Physiotherapist</role>
+    <type>Actor</type>
+    <tmdbid>4643864</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane T Harris</name>
+    <role>Art's Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>4643870</tmdbid>
+  </actor>
+  <actor>
+    <name>Nada Despotovich</name>
+    <role>Tashi's Mother</role>
+    <type>Actor</type>
+    <tmdbid>20975</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Mcshane</name>
+    <role>Line Judge (New Rochelle Final)</role>
+    <type>Actor</type>
+    <tmdbid>4687627</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Fowler</name>
+    <role>TV Sports Commentator (Atlanta 2019)</role>
+    <type>Actor</type>
+    <tmdbid>1227356</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Joe Fernández</name>
+    <role>TV Sports Commentator (Atlanta 2019)</role>
+    <type>Actor</type>
+    <tmdbid>4538305</tmdbid>
+  </actor>
+  <actor>
+    <name>A.J. Lister</name>
+    <role>Lily</role>
+    <type>Actor</type>
+    <tmdbid>3662707</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Aulson</name>
+    <role>Leo Du Marier</role>
+    <type>Actor</type>
+    <tmdbid>4643882</tmdbid>
+  </actor>
+  <actor>
+    <name>Doria Bramante</name>
+    <role>Woman With Headset (Atlanta 2019)</role>
+    <type>Actor</type>
+    <tmdbid>2437923</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Dye</name>
+    <role>Motel Front Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1544787</tmdbid>
+    <imdbid>nm6604374</imdbid>
+  </actor>
+  <actor>
+    <name>James Sylva</name>
+    <role>Motel Husband</role>
+    <type>Actor</type>
+    <tmdbid>4643888</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth A. Osherow</name>
+    <role>Motel Husband</role>
+    <type>Actor</type>
+    <tmdbid>4643890</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Collins</name>
+    <role>New Rochelle Parking Lot Guard</role>
+    <type>Actor</type>
+    <tmdbid>1427716</tmdbid>
+    <imdbid>nm1962593</imdbid>
+  </actor>
+  <actor>
+    <name>Burgess Byrd</name>
+    <role>USTA Official / Line Judge US Open Jr.</role>
+    <type>Actor</type>
+    <tmdbid>2747361</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Tong</name>
+    <role>Line Judge (New Rochelle Final)</role>
+    <type>Actor</type>
+    <tmdbid>3819187</tmdbid>
+  </actor>
+  <actor>
+    <name>Hudson Rivera</name>
+    <role>Y. Kucera (US Open Jr. Player)</role>
+    <type>Actor</type>
+    <tmdbid>4643894</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Eisenberg</name>
+    <role>T. Svoboda (US Open Jr. Player)</role>
+    <type>Actor</type>
+    <tmdbid>4643896</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Davis</name>
+    <role>A. Mueller (US Open Jr. Player)</role>
+    <type>Actor</type>
+    <tmdbid>4643899</tmdbid>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Tashi's Father</role>
+    <type>Actor</type>
+    <tmdbid>1745909</tmdbid>
+    <imdbid>nm3608877</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Bancila</name>
+    <role>Grosu</role>
+    <type>Actor</type>
+    <tmdbid>4643904</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Jensen</name>
+    <role>Finn Larsen</role>
+    <type>Actor</type>
+    <tmdbid>2231256</tmdbid>
+  </actor>
+  <actor>
+    <name>Konrad Ryba</name>
+    <role>Player (New Rochelle Locker Room)</role>
+    <type>Actor</type>
+    <tmdbid>4643906</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailey Gates</name>
+    <role>Helen (Patrick's Date)</role>
+    <type>Actor</type>
+    <tmdbid>1599899</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Rogers</name>
+    <role>Art's Teammate (Stanford)</role>
+    <type>Actor</type>
+    <tmdbid>4643914</tmdbid>
+  </actor>
+  <actor>
+    <name>Beverly Kristenson Helton</name>
+    <role>Umpire (Stanford Match)</role>
+    <type>Actor</type>
+    <tmdbid>4643916</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Gilbert</name>
+    <role>Art's Trainer (Ohio 2011)</role>
+    <type>Actor</type>
+    <tmdbid>4037957</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Xu</name>
+    <role>Art's Fan</role>
+    <type>Actor</type>
+    <tmdbid>3600256</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Schneider</name>
+    <role>Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>2156335</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Arnold</name>
+    <role>Tennis Professional (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3533052</tmdbid>
+  </actor>
+  <director tmdbid="78160" imdbid="nm0345174">Luca Guadagnino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2_ojxFOrAgQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y6ypuA4udLQ</trailer>
+  <rating>7.7</rating>
+  <year>2024</year>
+  <sorttitle>Rivales</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt16426418</imdbid>
+  <tmdbid>937287</tmdbid>
+  <premiered>2024-04-18</premiered>
+  <releasedate>2024-04-18</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>132</runtime>
+  <tagline>El arte de la seducción y otros juegos.</tagline>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Pascal Pictures</studio>
+  <studio>Why Are You Acting? Productions</studio>
+  <studio>Frenesy Film</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <uniqueid type="imdb">tt16426418</uniqueid>
+  <uniqueid type="tmdb">937287</uniqueid>
+  <id>tt16426418</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>956728</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>131</duration>
+        <durationinseconds>7898</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

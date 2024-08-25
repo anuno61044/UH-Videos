@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra la llegada de un invitado inesperado que desestabiliza las Jornadas Poéticas que cada año reúnen en un aislado convento del noroeste peninsular a distintas tendencias de la poesía española. Durante un acelerado fin de semana, mientras los poetas escriben, recitan y se vigilan, persiguiendo un premio dorado, una sospecha de plagio, la batalla por la presencia en una futura antología, la irreverencia de un rapero, el cumpleaños de un poeta centenario, unas setas venenosas, los imprevistos cruces sexuales y el despertar de amores tardíos, culminarán en una noche tormentosa. Adaptación de la novela “Ávidas pretensiones”, de Fernando Aramburu.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-02 09:38:50</dateadded>
+  <title>La manzana de oro</title>
+  <originaltitle>La manzana de oro</originaltitle>
+  <actor>
+    <name>Sergi López</name>
+    <role>Changa</role>
+    <type>Actor</type>
+    <tmdbid>16972</tmdbid>
+    <imdbid>nm0530365</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Nieto</name>
+    <role>La Nívea</role>
+    <type>Actor</type>
+    <tmdbid>588636</tmdbid>
+    <imdbid>nm1910857</imdbid>
+  </actor>
+  <actor>
+    <name>Adrián Lastra</name>
+    <role>Eugenio</role>
+    <type>Actor</type>
+    <tmdbid>224730</tmdbid>
+    <imdbid>nm2379685</imdbid>
+    <tvdbid>483340</tvdbid>
+  </actor>
+  <actor>
+    <name>Vicky Peña</name>
+    <role>Manolita</role>
+    <type>Actor</type>
+    <tmdbid>980594</tmdbid>
+    <imdbid>nm0679251</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Campra</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>1712994</tmdbid>
+    <imdbid>nm2907059</imdbid>
+    <tvdbid>612097</tvdbid>
+  </actor>
+  <actor>
+    <name>Roberto Enríquez</name>
+    <role>Mateo</role>
+    <type>Actor</type>
+    <tmdbid>34054</tmdbid>
+    <imdbid>nm0258090</imdbid>
+  </actor>
+  <actor>
+    <name>Ginés García Millán</name>
+    <role>Carlos Luis</role>
+    <type>Actor</type>
+    <tmdbid>24923</tmdbid>
+    <imdbid>nm0305753</imdbid>
+    <tvdbid>8084845</tvdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Subiés</name>
+    <role>Dámaso</role>
+    <type>Actor</type>
+    <tmdbid>3884364</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Soares</name>
+    <role>Gonçalito</role>
+    <type>Actor</type>
+    <tmdbid>2028883</tmdbid>
+  </actor>
+  <actor>
+    <name>Loreto Fajardo</name>
+    <role>Conchita</role>
+    <type>Actor</type>
+    <tmdbid>3575971</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Garrido</name>
+    <role>Susana</role>
+    <type>Actor</type>
+    <tmdbid>2892457</tmdbid>
+  </actor>
+  <actor>
+    <name>Abelo Valis</name>
+    <role>Álex</role>
+    <type>Actor</type>
+    <tmdbid>3884370</tmdbid>
+  </actor>
+  <actor>
+    <name>Paca Gabaldón</name>
+    <role>Amelia</role>
+    <type>Actor</type>
+    <tmdbid>31153</tmdbid>
+    <imdbid>nm0299929</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Climent</name>
+    <role>Carmelo</role>
+    <type>Actor</type>
+    <tmdbid>272018</tmdbid>
+    <imdbid>nm0166795</imdbid>
+    <tvdbid>300997</tvdbid>
+  </actor>
+  <actor>
+    <name>Elena Seijo</name>
+    <role>Sagrario</role>
+    <type>Actor</type>
+    <tmdbid>2484859</tmdbid>
+  </actor>
+  <actor>
+    <name>Mela Casal</name>
+    <role>Federica</role>
+    <type>Actor</type>
+    <tmdbid>1074519</tmdbid>
+  </actor>
+  <actor>
+    <name>Celso Bugallo</name>
+    <role>Don Guillermo</role>
+    <type>Actor</type>
+    <tmdbid>16870</tmdbid>
+    <imdbid>nm0119438</imdbid>
+  </actor>
+  <actor>
+    <name>Kenia Mestre</name>
+    <role>Leda</role>
+    <type>Actor</type>
+    <tmdbid>3884379</tmdbid>
+  </actor>
+  <actor>
+    <name>David Perdomo</name>
+    <role>Frutero</role>
+    <type>Actor</type>
+    <tmdbid>2424411</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucía Veiga</name>
+    <role>Ludmila</role>
+    <type>Actor</type>
+    <tmdbid>3577523</tmdbid>
+  </actor>
+  <director tmdbid="37613" imdbid="nm0161621">Jaime Chávarri</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QqZ3NAytl30</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>manzana de oro</sorttitle>
+  <imdbid>tt17497836</imdbid>
+  <tmdbid>1026467</tmdbid>
+  <premiered>2023-09-01</premiered>
+  <releasedate>2023-09-01</releasedate>
+  <runtime>107</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <uniqueid type="imdb">tt17497836</uniqueid>
+  <uniqueid type="tmdb">1026467</uniqueid>
+  <id>tt17497836</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1083431</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6441</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64624</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras una serie de extraños sucesos que la llevan a cuestionarse la vida aislada de su familia en un recinto fortificado en lo profundo de la selva inglesa, Willow, de 10 años, sigue a sus padres en una de sus excursiones secretas nocturnas al corazón del antiguo bosque. Pero al ver a su padre sufrir una terrible transformación, ella también se ve atrapada por el oscuro secreto ancestral que han intentado ocultar tan desesperadamente.]]></plot>
+  <outline><![CDATA[Protector. Provider. Predator.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-13 09:13:18</dateadded>
+  <title>The Beast Within</title>
+  <originaltitle>The Beast Within</originaltitle>
+  <actor>
+    <name>Kit Harington</name>
+    <role>Noah</role>
+    <type>Actor</type>
+    <tmdbid>239019</tmdbid>
+    <imdbid>nm3229685</imdbid>
+    <tvdbid>247909</tvdbid>
+  </actor>
+  <actor>
+    <name>Ashleigh Cummings</name>
+    <role>Imogene</role>
+    <type>Actor</type>
+    <tmdbid>1255846</tmdbid>
+    <imdbid>nm2913280</imdbid>
+    <tvdbid>500379</tvdbid>
+  </actor>
+  <actor>
+    <name>James Cosmo</name>
+    <role>Waylon</role>
+    <type>Actor</type>
+    <tmdbid>2467</tmdbid>
+    <imdbid>nm0181920</imdbid>
+    <tvdbid>247865</tvdbid>
+  </actor>
+  <actor>
+    <name>Caoilinn Springall</name>
+    <type>Actor</type>
+    <tmdbid>2424535</tmdbid>
+    <tvdbid>8182257</tvdbid>
+  </actor>
+  <actor>
+    <name>Ian Giles</name>
+    <role>William</role>
+    <type>Actor</type>
+    <tmdbid>2207296</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Basil</name>
+    <type>Actor</type>
+    <tmdbid>2437985</tmdbid>
+  </actor>
+  <actor>
+    <name>Martina McClements</name>
+    <role>Great Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>1697856</tmdbid>
+  </actor>
+  <director tmdbid="2954777">Alexander J. Farrell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ctcLCGbeVZA</trailer>
+  <rating>4.6</rating>
+  <year>2024</year>
+  <sorttitle>Beast Within</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14539318</imdbid>
+  <tmdbid>1300962</tmdbid>
+  <premiered>2024-07-22</premiered>
+  <releasedate>2024-07-22</releasedate>
+  <criticrating>41</criticrating>
+  <runtime>97</runtime>
+  <tagline>Protector. Provider. Predator.</tagline>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Filmology Features</studio>
+  <studio>Filmology Finance</studio>
+  <uniqueid type="tmdb">1300962</uniqueid>
+  <uniqueid type="imdb">tt14539318</uniqueid>
+  <id>tt14539318</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1144889</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5836</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

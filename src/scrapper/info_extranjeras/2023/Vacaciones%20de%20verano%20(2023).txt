@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos amigos, Oscar y Félix, pierden su trabajo y se ven obligados a aceptar un trabajo temporal como animadores infantiles en un hotel de lujo. Al ser ambos divorciados, les tocan sus hijos un mes de verano y les es imposible compaginarlo con el trabajo, con lo cual deciden llevarse a los niños y ocultarlos en el hotel, escondidos en la zona de empleados... pero el plan resulta ser un desastre.]]></plot>
+  <outline><![CDATA[Una Película de Santiago Segura]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-04 09:22:02</dateadded>
+  <title>Vacaciones de verano</title>
+  <originaltitle>Vacaciones de verano</originaltitle>
+  <actor>
+    <name>Santiago Segura</name>
+    <role>Félix</role>
+    <type>Actor</type>
+    <tmdbid>10847</tmdbid>
+    <imdbid>nm0782213</imdbid>
+    <tvdbid>293545</tvdbid>
+  </actor>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Óscar</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>Marta González de la Vega</name>
+    <role>Gerente</role>
+    <type>Actor</type>
+    <tmdbid>2005167</tmdbid>
+    <imdbid>nm2125297</imdbid>
+  </actor>
+  <actor>
+    <name>Sirena Segura</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>2377844</tmdbid>
+    <imdbid>nm10840211</imdbid>
+  </actor>
+  <actor>
+    <name>Javier García</name>
+    <role>Cristóbal</role>
+    <type>Actor</type>
+    <tmdbid>3153936</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Gallego</name>
+    <role>Patricia</role>
+    <type>Actor</type>
+    <tmdbid>1282293</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Conde</name>
+    <role>Cristina</role>
+    <type>Actor</type>
+    <tmdbid>1401555</tmdbid>
+    <tvdbid>508728</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniela Pintado</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>3831816</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Simon</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>3831818</tmdbid>
+  </actor>
+  <actor>
+    <name>Ainhoa Corrés</name>
+    <role>Azafata 2</role>
+    <type>Actor</type>
+    <tmdbid>4186614</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángela Sidonia</name>
+    <role>Chica Crema</role>
+    <type>Actor</type>
+    <tmdbid>4186615</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <role>Cuñado de Óscar</role>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Clemens Kueng</name>
+    <role>Chico Crema</role>
+    <type>Actor</type>
+    <tmdbid>4186616</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina de Lucas</name>
+    <role>Chica Lujo</role>
+    <type>Actor</type>
+    <tmdbid>4186617</tmdbid>
+  </actor>
+  <actor>
+    <name>David Guapo</name>
+    <role>Jefe</role>
+    <type>Actor</type>
+    <tmdbid>1490500</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Fernández "El Monaguillo"</name>
+    <role>Cómico</role>
+    <type>Actor</type>
+    <tmdbid>1643665</tmdbid>
+    <imdbid>nm6313283</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Gil</name>
+    <role>Luis</role>
+    <type>Actor</type>
+    <tmdbid>1048485</tmdbid>
+    <imdbid>nm0317762</imdbid>
+    <tvdbid>492413</tvdbid>
+  </actor>
+  <actor>
+    <name>Florentino Fernández</name>
+    <role>Mendigo</role>
+    <type>Actor</type>
+    <tmdbid>140856</tmdbid>
+    <tvdbid>7874525</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Lathouwer</name>
+    <role>Camarero Piscina</role>
+    <type>Actor</type>
+    <tmdbid>4186618</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Miguel Fernández</name>
+    <role>Camarero Lujo</role>
+    <type>Actor</type>
+    <tmdbid>2366642</tmdbid>
+    <imdbid>nm1404077</imdbid>
+  </actor>
+  <actor>
+    <name>Lucía Ramos</name>
+    <role>Azafata 1</role>
+    <type>Actor</type>
+    <tmdbid>1149827</tmdbid>
+    <tvdbid>513422</tvdbid>
+  </actor>
+  <actor>
+    <name>Manuel Antonio González</name>
+    <role>Capitán Barco Vikingo</role>
+    <type>Actor</type>
+    <tmdbid>4186619</tmdbid>
+  </actor>
+  <actor>
+    <name>Mar Abascal</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>1473440</tmdbid>
+    <imdbid>nm2531502</imdbid>
+  </actor>
+  <actor>
+    <name>Marcos Valbuena</name>
+    <role>Gemelo 1</role>
+    <type>Actor</type>
+    <tmdbid>4186620</tmdbid>
+  </actor>
+  <actor>
+    <name>María Suzanne Fariña</name>
+    <role>Recepcionista</role>
+    <type>Actor</type>
+    <tmdbid>4186621</tmdbid>
+  </actor>
+  <actor>
+    <name>Moli Qi</name>
+    <role>Niña Chang 1</role>
+    <type>Actor</type>
+    <tmdbid>4186622</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolás Rodicio</name>
+    <role>Gustavito</role>
+    <type>Actor</type>
+    <tmdbid>4186623</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Valbuena</name>
+    <role>Gemelo 2</role>
+    <type>Actor</type>
+    <tmdbid>4186624</tmdbid>
+  </actor>
+  <actor>
+    <name>Paco Collado</name>
+    <role>Chófer</role>
+    <type>Actor</type>
+    <tmdbid>2366664</tmdbid>
+    <tvdbid>8182090</tvdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Gibaja</name>
+    <role>Mauro</role>
+    <type>Actor</type>
+    <tmdbid>2365652</tmdbid>
+    <imdbid>nm8176205</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Teresa Dorta</name>
+    <role>Señora Piscina</role>
+    <type>Actor</type>
+    <tmdbid>4186625</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Urrialde</name>
+    <role>Cocinero Crepes</role>
+    <type>Actor</type>
+    <tmdbid>1093955</tmdbid>
+    <imdbid>nm0882089</imdbid>
+  </actor>
+  <actor>
+    <name>Soledad Mallol</name>
+    <role>Hermana de Óscar</role>
+    <type>Actor</type>
+    <tmdbid>131593</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Lam</name>
+    <role>Zhang</role>
+    <type>Actor</type>
+    <tmdbid>1954337</tmdbid>
+  </actor>
+  <actor>
+    <name>Yiqi Chen</name>
+    <role>Niña Chang 2</role>
+    <type>Actor</type>
+    <tmdbid>4186626</tmdbid>
+  </actor>
+  <director tmdbid="10847" imdbid="nm0782213" tvdbid="293545">Santiago Segura</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BazwUxmme04</trailer>
+  <rating>5.1</rating>
+  <year>2023</year>
+  <sorttitle>Vacaciones de verano</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt26756609</imdbid>
+  <tmdbid>1061634</tmdbid>
+  <premiered>2023-07-06</premiered>
+  <releasedate>2023-07-06</releasedate>
+  <runtime>100</runtime>
+  <tagline>Una Película de Santiago Segura</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <studio>Mogambo Films</studio>
+  <studio>Chapuzas Audiovisuales</studio>
+  <studio>Bowfinger</studio>
+  <uniqueid type="imdb">tt26756609</uniqueid>
+  <uniqueid type="tmdb">1061634</uniqueid>
+  <id>tt26756609</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>865247</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6020</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

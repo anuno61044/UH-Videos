@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mora y Roberta son dos chicas que viven en pareja y quieren tener un hijo. Conciben un plan que no admite escrúpulos ni vacilaciones: Roberta debe acostarse con Felipe, el hermano de Mora. Y Felipe ni siquiera sabe que su hermana vive con una señora. Él trabaja en un campo del sur, como un ermitaño. Viene a cerrar un negocio a la localidad y se queda una sola noche. Mora y Roberta tienen que aprovechar esta ocasión. La tentación resulta perturbadora. Además, de un momento a otro va a llegar Faustina, la novia de Felipe. En el último año sólo se vieron una vez, hace dos meses. Ella además tiene que darle a Felipe una noticia: está embarazada. Felipe quiere salir huyendo. Entonces las chicas se confabulan contra él. Y ahora la lucha es desigual: nada puede detener a ese huracán implacable que son tres mujeres decididas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-10 18:20:27</dateadded>
+  <title>El Favor</title>
+  <originaltitle>El favor</originaltitle>
+  <actor>
+    <name>Victoria Onetto</name>
+    <type>Actor</type>
+    <tmdbid>1246067</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Lombardo</name>
+    <type>Actor</type>
+    <tmdbid>945604</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariana Briski</name>
+    <type>Actor</type>
+    <tmdbid>589488</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernarda Pagés</name>
+    <type>Actor</type>
+    <tmdbid>429201</tmdbid>
+  </actor>
+  <director tmdbid="1177269">Pablo Sofovich</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CT65HrCUdoY</trailer>
+  <rating>5.5</rating>
+  <year>2004</year>
+  <sorttitle>Favor</sorttitle>
+  <imdbid>tt0397419</imdbid>
+  <tmdbid>163658</tmdbid>
+  <premiered>2004-05-26</premiered>
+  <releasedate>2004-05-26</releasedate>
+  <runtime>94</runtime>
+  <country>Argentina</country>
+  <genre>Comedia</genre>
+  <studio>Sofo Cine</studio>
+  <studio>INCAA</studio>
+  <uniqueid type="imdb">tt0397419</uniqueid>
+  <uniqueid type="tmdb">163658</uniqueid>
+  <id>tt0397419</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>301050</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5640</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63818</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

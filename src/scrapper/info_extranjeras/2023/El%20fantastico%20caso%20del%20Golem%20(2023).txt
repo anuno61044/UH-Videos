@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras una noche de fiesta, David se precipita borracho desde una terraza ante la impotente mirada de su amigo Juan. El cuerpo de David impacta contra el capó de un coche desintegrándose en mil pedazos. Como nadie parece escandalizarse, Juan se propone descubrir qué ha pasado. Y así, se ve inmerso en un laberinto de incongruencias y pianos que caen del cielo...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-24 08:42:31</dateadded>
+  <title>El fantástico caso del Golem</title>
+  <originaltitle>El fantástico caso del Golem</originaltitle>
+  <actor>
+    <name>Brays Efe</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>1334530</tmdbid>
+    <imdbid>nm5880529</imdbid>
+  </actor>
+  <actor>
+    <name>Bruna Cusí</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>1743949</tmdbid>
+    <imdbid>nm4264236</imdbid>
+    <tvdbid>467327</tvdbid>
+  </actor>
+  <actor>
+    <name>David Menéndez</name>
+    <role>Davíd</role>
+    <type>Actor</type>
+    <tmdbid>1410685</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Botet</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>111090</tmdbid>
+    <imdbid>nm2306701</imdbid>
+    <tvdbid>499252</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Tosar</name>
+    <role>Toni</role>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Nao Albet</name>
+    <role>Filtro / Miguel</role>
+    <type>Actor</type>
+    <tmdbid>589779</tmdbid>
+    <tvdbid>301063</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Castillo</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Roberto Álamo</name>
+    <type>Actor</type>
+    <tmdbid>225017</tmdbid>
+    <imdbid>nm0959304</imdbid>
+    <tvdbid>470113</tvdbid>
+  </actor>
+  <actor>
+    <name>Clara Sans</name>
+    <type>Actor</type>
+    <tmdbid>3299935</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Coma</name>
+    <type>Actor</type>
+    <tmdbid>588053</tmdbid>
+  </actor>
+  <actor>
+    <name>Tito Valverde</name>
+    <type>Actor</type>
+    <tmdbid>974519</tmdbid>
+    <imdbid>nm0885453</imdbid>
+    <tvdbid>292043</tvdbid>
+  </actor>
+  <actor>
+    <name>Mario Mayo</name>
+    <type>Actor</type>
+    <tmdbid>2013170</tmdbid>
+  </actor>
+  <director tmdbid="1340700">Juan González</director>
+  <director tmdbid="1395595">Burnin' Percebes</director>
+  <director tmdbid="2461316">Nando Martínez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=36HZpK2610s</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>fantastico caso del Golem</sorttitle>
+  <imdbid>tt20599230</imdbid>
+  <tmdbid>1053596</tmdbid>
+  <premiered>2023-06-16</premiered>
+  <releasedate>2023-06-16</releasedate>
+  <runtime>98</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Aquí y Allí Films</studio>
+  <studio>Sideral Cinema</studio>
+  <uniqueid type="imdb">tt20599230</uniqueid>
+  <uniqueid type="tmdb">1053596</uniqueid>
+  <id>tt20599230</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>218960</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5862</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

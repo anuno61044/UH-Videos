@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kara, devastada por la pérdida de Krypton, lucha por adaptarse a su nueva vida en la Tierra. Superman la asesora. Mientras tanto, debe enfrentarse a un grupo misterioso llamado Dark Circle que busca un arma poderosa guardada en la bóveda de la Academia.]]></plot>
+  <outline><![CDATA[Conozca a los héroes de una clase propia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:34:24</dateadded>
+  <title>Legión de superhéroes</title>
+  <originaltitle>Legion of Super-Heroes</originaltitle>
+  <actor>
+    <name>Meg Donnelly</name>
+    <role>Supergirl / Kara (voice)</role>
+    <type>Actor</type>
+    <tvdbid>666895</tvdbid>
+    <tmdbid>1692795</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Shum Jr.</name>
+    <role>Brainiac 5 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>232499</tmdbid>
+    <imdbid>nm1484270</imdbid>
+  </actor>
+  <actor>
+    <name>Jensen Ackles</name>
+    <role>Batman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49624</tmdbid>
+    <imdbid>nm0010075</imdbid>
+    <tvdbid>335538</tvdbid>
+  </actor>
+  <actor>
+    <name>Gideon Adlon</name>
+    <role>Phantom Girl (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1803286</tmdbid>
+    <imdbid>nm4594069</imdbid>
+    <tvdbid>485694</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Bomer</name>
+    <role>The Flash (voice)</role>
+    <type>Actor</type>
+    <tmdbid>66743</tmdbid>
+    <imdbid>nm0093589</imdbid>
+    <tvdbid>324393</tvdbid>
+  </actor>
+  <actor>
+    <name>Darren Criss</name>
+    <role>Superman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>228721</tmdbid>
+    <imdbid>nm2023050</imdbid>
+    <tvdbid>334820</tvdbid>
+  </actor>
+  <actor>
+    <name>Robbie Daymond</name>
+    <role>TimberWolf / Brainiac 4 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>229434</tmdbid>
+  </actor>
+  <actor>
+    <name>Darin De Paul</name>
+    <role>Brainiac / Solomon Grundy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1352628</tmdbid>
+    <imdbid>nm0210875</imdbid>
+    <tvdbid>495540</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Diskin</name>
+    <role>Arms Fall Off Boy / Brainiac 2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1178795</tmdbid>
+    <imdbid>nm0228356</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Grace</name>
+    <role>Shadow Lass (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1971010</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Hale</name>
+    <role>Alura (voice)</role>
+    <type>Actor</type>
+    <tmdbid>81667</tmdbid>
+    <imdbid>nm0354937</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Hamidi</name>
+    <role>Dawnstar (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2261079</tmdbid>
+  </actor>
+  <actor>
+    <name>Ely Henry</name>
+    <role>Bouncing Boy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1656032</tmdbid>
+    <imdbid>nm1596025</imdbid>
+  </actor>
+  <actor>
+    <name>Daisy Lightfoot</name>
+    <role>Triplicate Girl (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2229691</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Lopez</name>
+    <role>Cosmic Boy / Chemical King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>184082</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuri Lowenthal</name>
+    <role>Mon El (voice)</role>
+    <type>Actor</type>
+    <tmdbid>127387</tmdbid>
+    <imdbid>nm0523180</imdbid>
+  </actor>
+  <actor>
+    <name>Zeno Robinson</name>
+    <role>Invisible Kid / Brainiac 3 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2135035</tmdbid>
+  </actor>
+  <director tmdbid="2927725">Jeff Wamester</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DKNjOwuBDbo</trailer>
+  <rating>5.8</rating>
+  <year>2023</year>
+  <sorttitle>Legion de superheroes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt22769820</imdbid>
+  <tmdbid>1003580</tmdbid>
+  <premiered>2023-02-07</premiered>
+  <releasedate>2023-02-07</releasedate>
+  <runtime>83</runtime>
+  <tagline>Conozca a los héroes de una clase propia.</tagline>
+  <country>United States of America</country>
+  <genre>Animación</genre>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Warner Bros. Animation</studio>
+  <studio>DC Entertainment</studio>
+  <studio>Warner Bros. Home Entertainment Group</studio>
+  <uniqueid type="imdb">tt22769820</uniqueid>
+  <uniqueid type="tmdb">1003580</uniqueid>
+  <id>tt22769820</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150319</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>5003</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130417</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

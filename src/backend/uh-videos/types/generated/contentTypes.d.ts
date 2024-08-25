@@ -771,11 +771,6 @@ export interface PluginUsersPermissionsUser extends Schema.CollectionType {
       'plugin::users-permissions.role'
     >;
     born: Attribute.Date;
-    favorite_audiences: Attribute.Relation<
-      'plugin::users-permissions.user',
-      'oneToMany',
-      'api::audience.audience'
-    >;
     favorite_countries: Attribute.Relation<
       'plugin::users-permissions.user',
       'oneToMany',
@@ -813,70 +808,30 @@ export interface PluginUsersPermissionsUser extends Schema.CollectionType {
   };
 }
 
-export interface ApiAudienceAudience extends Schema.CollectionType {
-  collectionName: 'audiences';
+export interface ApiActorActor extends Schema.CollectionType {
+  collectionName: 'actors';
   info: {
-    singularName: 'audience';
-    pluralName: 'audiences';
-    displayName: 'audience';
+    singularName: 'actor';
+    pluralName: 'actors';
+    displayName: 'Actor';
     description: '';
   };
   options: {
     draftAndPublish: true;
   };
   attributes: {
-    videos: Attribute.Relation<
-      'api::audience.audience',
-      'manyToMany',
-      'api::video.video'
-    >;
-    clasification: Attribute.String;
+    name: Attribute.String & Attribute.Unique;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
     createdBy: Attribute.Relation<
-      'api::audience.audience',
+      'api::actor.actor',
       'oneToOne',
       'admin::user'
     > &
       Attribute.Private;
     updatedBy: Attribute.Relation<
-      'api::audience.audience',
-      'oneToOne',
-      'admin::user'
-    > &
-      Attribute.Private;
-  };
-}
-
-export interface ApiClasificationClasification extends Schema.CollectionType {
-  collectionName: 'clasifications';
-  info: {
-    singularName: 'clasification';
-    pluralName: 'clasifications';
-    displayName: 'Clasification';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    name: Attribute.String;
-    videos: Attribute.Relation<
-      'api::clasification.clasification',
-      'oneToMany',
-      'api::video.video'
-    >;
-    createdAt: Attribute.DateTime;
-    updatedAt: Attribute.DateTime;
-    publishedAt: Attribute.DateTime;
-    createdBy: Attribute.Relation<
-      'api::clasification.clasification',
-      'oneToOne',
-      'admin::user'
-    > &
-      Attribute.Private;
-    updatedBy: Attribute.Relation<
-      'api::clasification.clasification',
+      'api::actor.actor',
       'oneToOne',
       'admin::user'
     > &
@@ -901,7 +856,7 @@ export interface ApiCountryCountry extends Schema.CollectionType {
       'manyToMany',
       'api::video.video'
     >;
-    name: Attribute.String;
+    name: Attribute.String & Attribute.Unique;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -913,6 +868,37 @@ export interface ApiCountryCountry extends Schema.CollectionType {
       Attribute.Private;
     updatedBy: Attribute.Relation<
       'api::country.country',
+      'oneToOne',
+      'admin::user'
+    > &
+      Attribute.Private;
+  };
+}
+
+export interface ApiDirectorDirector extends Schema.CollectionType {
+  collectionName: 'directors';
+  info: {
+    singularName: 'director';
+    pluralName: 'directors';
+    displayName: 'Director';
+    description: '';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    name: Attribute.String & Attribute.Unique;
+    createdAt: Attribute.DateTime;
+    updatedAt: Attribute.DateTime;
+    publishedAt: Attribute.DateTime;
+    createdBy: Attribute.Relation<
+      'api::director.director',
+      'oneToOne',
+      'admin::user'
+    > &
+      Attribute.Private;
+    updatedBy: Attribute.Relation<
+      'api::director.director',
       'oneToOne',
       'admin::user'
     > &
@@ -932,7 +918,12 @@ export interface ApiGenderGender extends Schema.CollectionType {
     draftAndPublish: true;
   };
   attributes: {
-    clasification: Attribute.String;
+    name: Attribute.String & Attribute.Unique;
+    videos: Attribute.Relation<
+      'api::gender.gender',
+      'manyToMany',
+      'api::video.video'
+    >;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -968,7 +959,7 @@ export interface ApiLanguageLanguage extends Schema.CollectionType {
       'manyToMany',
       'api::video.video'
     >;
-    name: Attribute.String;
+    name: Attribute.String & Attribute.Unique;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -999,13 +990,7 @@ export interface ApiVideoVideo extends Schema.CollectionType {
     draftAndPublish: true;
   };
   attributes: {
-    name: Attribute.String;
-    year: Attribute.Integer;
-    audiences: Attribute.Relation<
-      'api::video.video',
-      'manyToMany',
-      'api::audience.audience'
-    >;
+    name: Attribute.String & Attribute.Required & Attribute.Unique;
     countries: Attribute.Relation<
       'api::video.video',
       'manyToMany',
@@ -1016,13 +1001,14 @@ export interface ApiVideoVideo extends Schema.CollectionType {
       'manyToMany',
       'api::language.language'
     >;
-    clasification: Attribute.Relation<
-      'api::video.video',
-      'manyToOne',
-      'api::clasification.clasification'
-    >;
     url: Attribute.String;
     photo: Attribute.String;
+    genders: Attribute.Relation<
+      'api::video.video',
+      'manyToMany',
+      'api::gender.gender'
+    >;
+    year: Attribute.Relation<'api::video.video', 'manyToOne', 'api::year.year'>;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -1037,6 +1023,34 @@ export interface ApiVideoVideo extends Schema.CollectionType {
       'oneToOne',
       'admin::user'
     > &
+      Attribute.Private;
+  };
+}
+
+export interface ApiYearYear extends Schema.CollectionType {
+  collectionName: 'years';
+  info: {
+    singularName: 'year';
+    pluralName: 'years';
+    displayName: 'Year';
+    description: '';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    number: Attribute.Integer & Attribute.Unique;
+    videos: Attribute.Relation<
+      'api::year.year',
+      'oneToMany',
+      'api::video.video'
+    >;
+    createdAt: Attribute.DateTime;
+    updatedAt: Attribute.DateTime;
+    publishedAt: Attribute.DateTime;
+    createdBy: Attribute.Relation<'api::year.year', 'oneToOne', 'admin::user'> &
+      Attribute.Private;
+    updatedBy: Attribute.Relation<'api::year.year', 'oneToOne', 'admin::user'> &
       Attribute.Private;
   };
 }
@@ -1059,12 +1073,13 @@ declare module '@strapi/types' {
       'plugin::users-permissions.permission': PluginUsersPermissionsPermission;
       'plugin::users-permissions.role': PluginUsersPermissionsRole;
       'plugin::users-permissions.user': PluginUsersPermissionsUser;
-      'api::audience.audience': ApiAudienceAudience;
-      'api::clasification.clasification': ApiClasificationClasification;
+      'api::actor.actor': ApiActorActor;
       'api::country.country': ApiCountryCountry;
+      'api::director.director': ApiDirectorDirector;
       'api::gender.gender': ApiGenderGender;
       'api::language.language': ApiLanguageLanguage;
       'api::video.video': ApiVideoVideo;
+      'api::year.year': ApiYearYear;
     }
   }
 }

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En una época oscura y violenta, una joven de 17 años es nombrada abadesa, y recibe el encargo de repoblar y cristianizar territorios fronterizos y en guerra con el islam.]]></plot>
+  <outline><![CDATA[Basada en una mujer real]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-15 08:24:16</dateadded>
+  <title>La abadesa</title>
+  <originaltitle>La abadesa</originaltitle>
+  <actor>
+    <name>Daniela Brown</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>3712365</tmdbid>
+  </actor>
+  <actor>
+    <name>Blanca Romero</name>
+    <role>Eloisa</role>
+    <type>Actor</type>
+    <tmdbid>591393</tmdbid>
+    <imdbid>nm2861706</imdbid>
+    <tvdbid>513435</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Cuevas</name>
+    <role>Borrell</role>
+    <type>Actor</type>
+    <tmdbid>1261476</tmdbid>
+    <imdbid>nm1507717</imdbid>
+    <tvdbid>295045</tvdbid>
+  </actor>
+  <actor>
+    <name>Ernest Villegas</name>
+    <role>Eduard</role>
+    <type>Actor</type>
+    <tmdbid>225134</tmdbid>
+    <imdbid>nm2259096</imdbid>
+  </actor>
+  <actor>
+    <name>Oriol Genís</name>
+    <role>Odón</role>
+    <type>Actor</type>
+    <tmdbid>2619799</tmdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Notario</name>
+    <role>Obispo Gotmar</role>
+    <type>Actor</type>
+    <tmdbid>1530910</tmdbid>
+  </actor>
+  <actor>
+    <name>Berta Sánchez</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>2551320</tmdbid>
+  </actor>
+  <actor>
+    <name>Anaël Snoek</name>
+    <role>Melisenda</role>
+    <type>Actor</type>
+    <tmdbid>1295194</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Godon</name>
+    <role>Demetrio</role>
+    <type>Actor</type>
+    <tmdbid>145299</tmdbid>
+    <imdbid>nm1101713</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrice Boutique</name>
+    <role>Pierre traductor</role>
+    <type>Actor</type>
+    <tmdbid>1130187</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Auclair</name>
+    <role>Elvira</role>
+    <type>Actor</type>
+    <tmdbid>2107720</tmdbid>
+  </actor>
+  <director tmdbid="79282">Antonio Chavarrías</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yQSZYyMagnU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wkFsZIAFNjk</trailer>
+  <rating>6</rating>
+  <year>2024</year>
+  <sorttitle>abadesa</sorttitle>
+  <imdbid>tt26739127</imdbid>
+  <tmdbid>1229991</tmdbid>
+  <premiered>2024-03-22</premiered>
+  <releasedate>2024-03-22</releasedate>
+  <runtime>118</runtime>
+  <tagline>Basada en una mujer real</tagline>
+  <country>Belgium</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Oberon Media</studio>
+  <studio>Wanda Visión</studio>
+  <studio>Saga Films</studio>
+  <studio>Icono 2020 AIE</studio>
+  <uniqueid type="tmdb">1229991</uniqueid>
+  <uniqueid type="imdb">tt26739127</uniqueid>
+  <id>tt26739127</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1509635</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7058</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

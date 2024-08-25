@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra la historia de Tim Ballard, un exagente de Seguridad Nacional de Estados Unidos que dejó su trabajo para dedicar su vida, sumergiéndose en el submundo del tráfico de personas a lo largo de hispanoamérica, a intentar salvar las vidas de cientos de niños.]]></plot>
+  <outline><![CDATA[Lucha por la luz. Silencia la oscuridad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-03 07:30:23</dateadded>
+  <title>Sound of Freedom</title>
+  <originaltitle>Sound of Freedom</originaltitle>
+  <actor>
+    <name>Jim Caviezel</name>
+    <role>Tim Ballard</role>
+    <type>Actor</type>
+    <tmdbid>8767</tmdbid>
+    <imdbid>nm0001029</imdbid>
+  </actor>
+  <actor>
+    <name>Mira Sorvino</name>
+    <role>Katherine Ballard</role>
+    <type>Actor</type>
+    <tmdbid>23931</tmdbid>
+    <imdbid>nm0000227</imdbid>
+    <tvdbid>324299</tvdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Vampiro</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+    <tvdbid>316986</tvdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Taracena</name>
+    <role>El Alacrán</role>
+    <type>Actor</type>
+    <tmdbid>17689</tmdbid>
+    <imdbid>nm0850162</imdbid>
+  </actor>
+  <actor>
+    <name>Kurt Fuller</name>
+    <role>John Bryant</role>
+    <type>Actor</type>
+    <tmdbid>29685</tmdbid>
+    <imdbid>nm0298281</imdbid>
+  </actor>
+  <actor>
+    <name>José Zúñiga</name>
+    <role>Roberto</role>
+    <type>Actor</type>
+    <tmdbid>10963</tmdbid>
+    <imdbid>nm0959242</imdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Verástegui</name>
+    <role>Pablo</role>
+    <type>Actor</type>
+    <tmdbid>72968</tmdbid>
+    <imdbid>nm0895150</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Haze</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>87954</tmdbid>
+    <imdbid>nm2020278</imdbid>
+  </actor>
+  <actor>
+    <name>Yessica Borroto Perryman</name>
+    <role>Giselle / Katy</role>
+    <type>Actor</type>
+    <tmdbid>3452313</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Basaraba</name>
+    <role>Earl Buchanan</role>
+    <type>Actor</type>
+    <tmdbid>96228</tmdbid>
+    <imdbid>nm0059630</imdbid>
+  </actor>
+  <actor>
+    <name>Manny Pérez</name>
+    <role>Fuego</role>
+    <type>Actor</type>
+    <tmdbid>72983</tmdbid>
+    <imdbid>nm0673563</imdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Sánchez Parra</name>
+    <role>El Calacas</role>
+    <type>Actor</type>
+    <tmdbid>18468</tmdbid>
+    <imdbid>nm0844761</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Godino</name>
+    <role>Jorge</role>
+    <type>Actor</type>
+    <tmdbid>93649</tmdbid>
+    <imdbid>nm1024390</imdbid>
+    <tvdbid>8375270</tvdbid>
+  </actor>
+  <actor>
+    <name>James Quattrochi</name>
+    <role>Border Patrol Captain</role>
+    <type>Actor</type>
+    <tmdbid>51656</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Gomez Monteverde</name>
+    <role>Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>3348914</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Angarita Jr.</name>
+    <role>Jail Guard</role>
+    <type>Actor</type>
+    <tmdbid>2261058</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariel Sierra</name>
+    <role>Checho</role>
+    <type>Actor</type>
+    <tmdbid>1532438</tmdbid>
+  </actor>
+  <actor>
+    <name>Kris Avedisian</name>
+    <role>Oshinsky</role>
+    <type>Actor</type>
+    <tmdbid>1572118</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Muela</name>
+    <role>CTI Agent</role>
+    <type>Actor</type>
+    <tmdbid>3230349</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime Newball</name>
+    <role>Bam Bam</role>
+    <type>Actor</type>
+    <tmdbid>1681399</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristal Aparicio</name>
+    <role>Rocio</role>
+    <type>Actor</type>
+    <tmdbid>4204656</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Ávila</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>2579300</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Livingston</name>
+    <role>Simba</role>
+    <type>Actor</type>
+    <tmdbid>4204668</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Domínguez</name>
+    <role>Tanya</role>
+    <type>Actor</type>
+    <tmdbid>1432386</tmdbid>
+    <imdbid>nm2584644</imdbid>
+  </actor>
+  <actor>
+    <name>Jairo Ordóñez</name>
+    <role>Pirana</role>
+    <type>Actor</type>
+    <tmdbid>2551480</tmdbid>
+  </actor>
+  <director tmdbid="72960">Alejandro Monteverde</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LTUNWTHKbKo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TKIyex_v7_s</trailer>
+  <rating>7.7</rating>
+  <year>2023</year>
+  <sorttitle>Sound of Freedom</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7599146</imdbid>
+  <tmdbid>678512</tmdbid>
+  <premiered>2023-07-03</premiered>
+  <releasedate>2023-07-03</releasedate>
+  <runtime>131</runtime>
+  <tagline>Lucha por la luz. Silencia la oscuridad.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <studio>Santa Fe Films</studio>
+  <uniqueid type="imdb">tt7599146</uniqueid>
+  <uniqueid type="tmdb">678512</uniqueid>
+  <id>tt7599146</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>957978</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7856</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

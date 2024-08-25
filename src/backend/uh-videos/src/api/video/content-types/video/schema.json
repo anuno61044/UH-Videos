@@ -13,16 +13,9 @@
   "pluginOptions": {},
   "attributes": {
     "name": {
-      "type": "string"
-    },
-    "year": {
-      "type": "integer"
-    },
-    "audiences": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::audience.audience",
-      "inversedBy": "videos"
+      "type": "string",
+      "unique": true,
+      "required": true
     },
     "countries": {
       "type": "relation",
@@ -36,17 +29,23 @@
       "target": "api::language.language",
       "inversedBy": "videos"
     },
-    "clasification": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::clasification.clasification",
-      "inversedBy": "videos"
-    },
     "url": {
       "type": "string"
     },
     "photo": {
       "type": "string"
+    },
+    "genders": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::gender.gender",
+      "mappedBy": "videos"
+    },
+    "year": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::year.year",
+      "inversedBy": "videos"
     }
   }
 }

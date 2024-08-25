@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero. Remake de la película española de 2015 "El Desconocido".]]></plot>
+  <outline><![CDATA[Todos los caminos conducen a la verdad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-15 08:26:38</dateadded>
+  <title>Contrarreloj</title>
+  <originaltitle>Retribution</originaltitle>
+  <actor>
+    <name>Liam Neeson</name>
+    <role>Matt Turner</role>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Noma Dumezweni</name>
+    <role>Angela Brickmann</role>
+    <type>Actor</type>
+    <tmdbid>517103</tmdbid>
+    <imdbid>nm1282920</imdbid>
+    <tvdbid>522651</tvdbid>
+  </actor>
+  <actor>
+    <name>Lilly Aspell</name>
+    <role>Emily Turner</role>
+    <type>Actor</type>
+    <tmdbid>1829985</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Champion</name>
+    <role>Zach Turner</role>
+    <type>Actor</type>
+    <tmdbid>1895760</tmdbid>
+  </actor>
+  <actor>
+    <name>Arian Moayed</name>
+    <role>Sylvain</role>
+    <type>Actor</type>
+    <tmdbid>457386</tmdbid>
+    <tvdbid>316718</tvdbid>
+  </actor>
+  <actor>
+    <name>Embeth Davidtz</name>
+    <role>Heather Turner</role>
+    <type>Actor</type>
+    <tmdbid>6368</tmdbid>
+    <imdbid>nm0001110</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Modine</name>
+    <role>Anders Muller</role>
+    <type>Actor</type>
+    <tmdbid>8654</tmdbid>
+    <imdbid>nm0000546</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Kusche</name>
+    <role>Mila</role>
+    <type>Actor</type>
+    <tmdbid>1270320</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Márkus</name>
+    <role>Kat</role>
+    <type>Actor</type>
+    <tmdbid>3499962</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernhard Piesk</name>
+    <role>Captain Dregger</role>
+    <type>Actor</type>
+    <tmdbid>234776</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael S. Ruscheinsky</name>
+    <role>Man in the Blue Suit</role>
+    <type>Actor</type>
+    <tmdbid>84071</tmdbid>
+    <imdbid>nm2937150</imdbid>
+  </actor>
+  <actor>
+    <name>Antonije Stankovic</name>
+    <role>Young Protestor</role>
+    <type>Actor</type>
+    <tmdbid>3482769</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Koerner</name>
+    <role>BPol Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>145469</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerhard Elfers</name>
+    <role>Male News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>4236664</tmdbid>
+  </actor>
+  <actor>
+    <name>Tine Gerhäeusser</name>
+    <role>Female News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>4236665</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Miklusz</name>
+    <role>Press Conference Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1998990</tmdbid>
+  </actor>
+  <actor>
+    <name>Luc Etienne</name>
+    <role>Pils Groger</role>
+    <type>Actor</type>
+    <tmdbid>19081</tmdbid>
+  </actor>
+  <actor>
+    <name>Nedy John Cross</name>
+    <role>Passerby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1104694</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Grave</name>
+    <role>Male Phone Voice (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3482768</tmdbid>
+  </actor>
+  <director tmdbid="41671">Nimród Antal</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c9km_qQfBiA</trailer>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Contrarreloj</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6906292</imdbid>
+  <tmdbid>762430</tmdbid>
+  <premiered>2023-08-23</premiered>
+  <releasedate>2023-08-23</releasedate>
+  <runtime>91</runtime>
+  <tagline>Todos los caminos conducen a la verdad.</tagline>
+  <country>France</country>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>The Picture Company</studio>
+  <studio>Ombra Films</studio>
+  <studio>StudioCanal</studio>
+  <studio>TF1 Films Production</studio>
+  <studio>Studio Babelsberg</studio>
+  <uniqueid type="imdb">tt6906292</uniqueid>
+  <uniqueid type="tmdb">762430</uniqueid>
+  <id>tt6906292</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1221882</bitrate>
+        <width>1280</width>
+        <height>558</height>
+        <aspect>917:401</aspect>
+        <aspectratio>917:401</aspectratio>
+        <framerate>23.976</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5468</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
