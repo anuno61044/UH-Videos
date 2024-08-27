@@ -23,8 +23,12 @@ class UserRatings(generics.ListCreateAPIView):
 
 class UserRecommendations(APIView):
     def get(self, request, user_id):
-        recommendations = get_recommendations(user_id)
-        return Response(recommendations)
+        recommendations, trace = get_recommendations(user_id)
+        serialized_recommendations = MovieSerializer(recommendations, many=True).data
+        return Response({
+            "recommendations": serialized_recommendations,
+            "trace": trace
+        })
 
 @api_view(['POST'])
 def rate_movie(request, movie_id):
