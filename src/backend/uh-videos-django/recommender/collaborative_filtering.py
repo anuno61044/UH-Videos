@@ -20,4 +20,9 @@ def collaborative_filtering(user_id):
     
     weighted_ratings = user_similarity[user_idx].dot(user_movie_matrix) / np.array([np.abs(user_similarity[user_idx]).sum()])
     
-    return weighted_ratings  # Estas son las características adicionales
+    trace = {
+        "user_similarity_scores": user_similarity[user_idx],
+        "weighted_ratings": weighted_ratings
+    }
+    
+    return weighted_ratings, trace

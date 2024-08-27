@@ -1,12 +1,12 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-from .models import User, Movie, Rating
+from .models import Movie, Rating
 from sklearn.metrics.pairwise import cosine_similarity
 from .collaborative_filtering import collaborative_filtering
 import numpy as np
 
 def content_based_filtering_with_collaborative(user_id):
     movies = Movie.objects.all()
-    collaborative_scores = collaborative_filtering(user_id)
+    collaborative_scores = collaborative_filtering(user_id)[0]
     
     tfidf = TfidfVectorizer(stop_words='english')
     movie_matrix = tfidf.fit_transform([f"{movie.genre} {movie.director}" for movie in movies])
@@ -24,4 +24,11 @@ def content_based_filtering_with_collaborative(user_id):
     
     content_scores = cosine_similarity(augmented_matrix, user_profile.reshape(1, -1)).flatten()
     
-    return content_scores
+    trace = {
+        "collaborative_scores": collaborative_scores,
+        "content_based_features": augmented_matrix,
+        "user_profile": user_profile,
+        "content_scores": content_scores
+    }
+    
+    return content_scores, trace
