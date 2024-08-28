@@ -17,10 +17,10 @@ def collaborative_filtering(user_id):
     ratings = Rating.objects.all()
     users = User.objects.all()
     movies = Movie.objects.all()
-    
+
     # Crear una matriz de usuarios contra películas, inicialmente llena de ceros
     user_movie_matrix = np.zeros((users.count(), movies.count()))
-    
+
     # Poblar la matriz con las calificaciones existentes
     for rating in ratings:
         user_idx = list(users).index(rating.user)  # Encontrar el índice del usuario
@@ -29,18 +29,17 @@ def collaborative_filtering(user_id):
 
     # Calcular la similitud entre usuarios utilizando la similitud coseno
     user_similarity = cosine_similarity(user_movie_matrix)
-    
+
     # Encontrar el índice del usuario para el cual se generarán las recomendaciones
     user_idx = list(users).index(User.objects.get(id=user_id))
-    
+
     # Calcular las calificaciones ponderadas utilizando la similitud de usuarios
     weighted_ratings = user_similarity[user_idx].dot(user_movie_matrix) / np.array([np.abs(user_similarity[user_idx]).sum()])
-    
-    print(user_similarity[user_idx])
+
     # Guardar las trazas para seguimiento y explicabilidad
     trace = {
         "user_similarity_scores": user_similarity[user_idx],  # Similitud del usuario con otros usuarios
         "weighted_ratings": weighted_ratings  # Calificaciones ponderadas para cada película
     }
-    
+
     return weighted_ratings, trace
