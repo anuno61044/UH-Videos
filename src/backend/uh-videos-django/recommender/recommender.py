@@ -20,7 +20,7 @@ def get_recommendations(user_id):
 
     # Filtrar y ordenar películas no vistas por la puntuación final
     recommended_movies = [movie for movie in Movie.objects.all() if movie.id in unseen_movie_ids]
-    recommended_movies = sorted(recommended_movies, key=lambda x: content_scores[list(Movie.objects.all()).index(x)], reverse=True)
+    recommended_movies = sorted(recommended_movies, key=lambda x: collaborative_scores[list(Movie.objects.all()).index(x)], reverse=True)
     recommended_movies = recommended_movies[:5]
 
     # Generar explicación en lenguaje natural

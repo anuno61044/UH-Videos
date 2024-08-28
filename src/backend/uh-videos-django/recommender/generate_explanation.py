@@ -18,7 +18,8 @@ def generate_explanation(trace, recommended_movie_idx, movies, user_id):
 
 
 def collaborative_explanation(trace, user_id):
-    similar_users = [i + 1 for i, score in enumerate(trace['collaborative_filtering']['user_similarity_scores']) if score > 0.3 and (i + 1) != user_id]
+    similar_users = [i + 1 for i, score in enumerate(trace['collaborative_filtering']['user_similarity_scores']) if score > 0.8 and (i + 1) != user_id]
+    similar_users = sorted(similar_users, reverse=True)
     if similar_users:
         return f"Te recomendamos esta película porque los usuarios con ids:{similar_users} vieron películas similares a las tuyas y las calificaron bien."
     return "Te recomendamos esta película basada en las preferencias de usuarios similares a ti."
