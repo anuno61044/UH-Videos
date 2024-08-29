@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue a Maxine, superviviente de los sangrientos incidentes de X, mientras continúa su viaje hacia la fama para ser actriz en Los Ángeles de la década de 1980.]]></plot>
+  <outline><![CDATA[Aquí llega Hollywood.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-09 08:36:09</dateadded>
+  <title>MaXXXine</title>
+  <originaltitle>MaXXXine</originaltitle>
+  <actor>
+    <name>Mia Goth</name>
+    <role>Maxine Minx</role>
+    <type>Actor</type>
+    <tmdbid>1137824</tmdbid>
+    <imdbid>nm5301405</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Debicki</name>
+    <role>Elizabeth Bender</role>
+    <type>Actor</type>
+    <tmdbid>1133349</tmdbid>
+    <imdbid>nm4456120</imdbid>
+    <tvdbid>523165</tvdbid>
+  </actor>
+  <actor>
+    <name>Moses Sumney</name>
+    <role>Leon</role>
+    <type>Actor</type>
+    <tmdbid>1746938</tmdbid>
+    <tvdbid>8812662</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Monaghan</name>
+    <role>Detective Williams</role>
+    <type>Actor</type>
+    <tmdbid>11705</tmdbid>
+    <imdbid>nm1157358</imdbid>
+    <tvdbid>269484</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <role>Detective Torres</role>
+    <type>Actor</type>
+    <tmdbid>21127</tmdbid>
+    <imdbid>nm0134072</imdbid>
+    <tvdbid>255793</tvdbid>
+  </actor>
+  <actor>
+    <name>Halsey</name>
+    <role>Tabby Martin</role>
+    <type>Actor</type>
+    <tmdbid>1997030</tmdbid>
+    <imdbid>nm7214498</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Collins</name>
+    <role>Molly Bennett</role>
+    <type>Actor</type>
+    <tmdbid>112561</tmdbid>
+    <imdbid>nm2934314</imdbid>
+    <tvdbid>473038</tvdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Teddy Knight, Esq.</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+    <tvdbid>272968</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Bacon</name>
+    <role>John Labat</role>
+    <type>Actor</type>
+    <tmdbid>4724</tmdbid>
+    <imdbid>nm0000102</imdbid>
+    <tvdbid>254182</tvdbid>
+  </actor>
+  <actor>
+    <name>Charley Rowan McCain</name>
+    <role>Maxine Miller</role>
+    <type>Actor</type>
+    <tmdbid>4012109</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Prast</name>
+    <role>Ernest Miller</role>
+    <type>Actor</type>
+    <tmdbid>1238425</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Geffner</name>
+    <role>Elaine Casting</role>
+    <type>Actor</type>
+    <tmdbid>106807</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Lench</name>
+    <role>Producer</role>
+    <type>Actor</type>
+    <tmdbid>1754055</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Farnworth</name>
+    <role>Amber James</role>
+    <type>Actor</type>
+    <tmdbid>1406755</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Swanick</name>
+    <role>Frankie Love</role>
+    <type>Actor</type>
+    <tmdbid>4863231</tmdbid>
+  </actor>
+  <actor>
+    <name>Uli Latukefu</name>
+    <role>Shepard Turei</role>
+    <type>Actor</type>
+    <tmdbid>1384511</tmdbid>
+    <imdbid>nm5937328</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Pingleton</name>
+    <role>Angel</role>
+    <type>Actor</type>
+    <tmdbid>2655429</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Mooren</name>
+    <role>Buster</role>
+    <type>Actor</type>
+    <tmdbid>2068213</tmdbid>
+  </actor>
+  <actor>
+    <name>Ned Vaughn</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>51582</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus LaVoi</name>
+    <role>Jonas Day</role>
+    <type>Actor</type>
+    <tmdbid>2511571</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Thatcher</name>
+    <role>FX Artist</role>
+    <type>Actor</type>
+    <tmdbid>1981044</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Kong</name>
+    <role>Rookie Cop</role>
+    <type>Actor</type>
+    <tmdbid>1449141</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Huss</name>
+    <role>Coroner</role>
+    <type>Actor</type>
+    <tmdbid>18271</tmdbid>
+    <imdbid>nm0403947</imdbid>
+    <tvdbid>260677</tvdbid>
+  </actor>
+  <actor>
+    <name>Taylor Kowalski</name>
+    <role>Taylor</role>
+    <type>Actor</type>
+    <tmdbid>928235</tmdbid>
+    <imdbid>nm1989804</imdbid>
+  </actor>
+  <actor>
+    <name>Pegah Rashti</name>
+    <role>Maître D'</role>
+    <type>Actor</type>
+    <tmdbid>2964122</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Fessenden</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>31268</tmdbid>
+    <imdbid>nm0275244</imdbid>
+  </actor>
+  <actor>
+    <name>Marlyn Ortiz</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2325507</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Wonderland</name>
+    <role>Club DJ</role>
+    <type>Actor</type>
+    <tmdbid>3153327</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristin Carey</name>
+    <role>Dianne Mattingly</role>
+    <type>Actor</type>
+    <tmdbid>173180</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Yesuil Kim</name>
+    <role>Red Carpet Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2307934</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayton Farris</name>
+    <role>Assistant Director</role>
+    <type>Actor</type>
+    <tmdbid>1601679</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Kaye Bontempt</name>
+    <role>Hot Dog Vendor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4648119</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Waiserman</name>
+    <role>Charlie Chaplin Impersonator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3163381</tmdbid>
+  </actor>
+  <director tmdbid="101542" imdbid="nm1488800">Ti West</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nNx62MC9yyg</trailer>
+  <rating>6.399</rating>
+  <year>2024</year>
+  <sorttitle>MaXXXine</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt22048412</imdbid>
+  <tmdbid>1023922</tmdbid>
+  <premiered>2024-07-04</premiered>
+  <releasedate>2024-07-04</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>104</runtime>
+  <tagline>Aquí llega Hollywood.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Crimen</genre>
+  <genre>Misterio</genre>
+  <studio>A24</studio>
+  <studio>Motel Mojave</studio>
+  <studio>Access Entertainment</studio>
+  <set tmdbcolid="950289">
+    <name>X - Colección</name>
+  </set>
+  <uniqueid type="tmdb">1023922</uniqueid>
+  <uniqueid type="imdb">tt22048412</uniqueid>
+  <id>tt22048412</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149561</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6213</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129764</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

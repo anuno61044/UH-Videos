@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como "Beekeeper".]]></plot>
+  <outline><![CDATA[Destapa la corrupcion, protege la colmena]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-30 11:08:58</dateadded>
+  <title>Beekeeper: El protector</title>
+  <originaltitle>The Beekeeper</originaltitle>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Adam Clay</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Raver-Lampman</name>
+    <role>Verona Parker</role>
+    <type>Actor</type>
+    <tmdbid>2026050</tmdbid>
+    <imdbid>nm8287501</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Hutcherson</name>
+    <role>Derek Danforth</role>
+    <type>Actor</type>
+    <tmdbid>27972</tmdbid>
+    <imdbid>nm1242688</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Naderi</name>
+    <role>Matt Wiley</role>
+    <type>Actor</type>
+    <tmdbid>1375501</tmdbid>
+    <imdbid>nm2373989</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Irons</name>
+    <role>Wallace Westwyld</role>
+    <type>Actor</type>
+    <tmdbid>16940</tmdbid>
+    <imdbid>nm0000460</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor James</name>
+    <role>Lazarus</role>
+    <type>Actor</type>
+    <tmdbid>1497913</tmdbid>
+    <imdbid>nm2837751</imdbid>
+  </actor>
+  <actor>
+    <name>Phylicia Rashād</name>
+    <role>Eloise Parker</role>
+    <type>Actor</type>
+    <tmdbid>119598</tmdbid>
+    <imdbid>nm0711118</imdbid>
+    <tvdbid>7936523</tvdbid>
+  </actor>
+  <actor>
+    <name>Jemma Redgrave</name>
+    <role>President Jessica Danforth</role>
+    <type>Actor</type>
+    <tmdbid>80145</tmdbid>
+    <imdbid>nm0714876</imdbid>
+    <tvdbid>283343</tvdbid>
+  </actor>
+  <actor>
+    <name>Minnie Driver</name>
+    <role>Janet Hayworth</role>
+    <type>Actor</type>
+    <tmdbid>6613</tmdbid>
+    <imdbid>nm0000378</imdbid>
+    <tvdbid>255408</tvdbid>
+  </actor>
+  <actor>
+    <name>Sophia Feliciano</name>
+    <role>Kelly Krane</role>
+    <type>Actor</type>
+    <tmdbid>3424753</tmdbid>
+  </actor>
+  <actor>
+    <name>Enzo Cilenti</name>
+    <role>Rico Anzalone</role>
+    <type>Actor</type>
+    <tmdbid>91494</tmdbid>
+    <imdbid>nm0162281</imdbid>
+    <tvdbid>329679</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Li</name>
+    <role>Agent Kim</role>
+    <type>Actor</type>
+    <tmdbid>1766052</tmdbid>
+    <imdbid>nm1161961</imdbid>
+  </actor>
+  <actor>
+    <name>Reza Diako</name>
+    <role>Barry</role>
+    <type>Actor</type>
+    <tmdbid>2681182</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Basil</name>
+    <role>Saffa</role>
+    <type>Actor</type>
+    <tmdbid>2437985</tmdbid>
+  </actor>
+  <actor>
+    <name>David Witts</name>
+    <role>Mickey Garnett</role>
+    <type>Actor</type>
+    <tmdbid>1227776</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Epp</name>
+    <role>Pettis</role>
+    <type>Actor</type>
+    <tmdbid>1338019</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Gilet</name>
+    <role>Deputy Director Prigg</role>
+    <type>Actor</type>
+    <tmdbid>1225318</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Le</name>
+    <role>Anisette</role>
+    <type>Actor</type>
+    <tmdbid>1511170</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Goodman</name>
+    <role>Detective Marquez</role>
+    <type>Actor</type>
+    <tmdbid>1561310</tmdbid>
+    <imdbid>nm0657794</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Siow</name>
+    <role>Detective Chen</role>
+    <type>Actor</type>
+    <tmdbid>1647129</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Rincon</name>
+    <role>AIC Bojorquez</role>
+    <type>Actor</type>
+    <tmdbid>2651811</tmdbid>
+  </actor>
+  <actor>
+    <name>Kojo Attah</name>
+    <role>Second-in-Charge Harris</role>
+    <type>Actor</type>
+    <tmdbid>3933515</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Urquhart</name>
+    <role>Breedlow</role>
+    <type>Actor</type>
+    <tmdbid>4417889</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Brooke</name>
+    <role>Lewis</role>
+    <type>Actor</type>
+    <tmdbid>1070855</tmdbid>
+    <imdbid>nm0111730</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Gordon</name>
+    <role>Peltz</role>
+    <type>Actor</type>
+    <tmdbid>1402913</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Hazlewood</name>
+    <role>Debbie</role>
+    <type>Actor</type>
+    <tmdbid>1237304</tmdbid>
+    <imdbid>nm0372041</imdbid>
+  </actor>
+  <actor>
+    <name>Arian Nik</name>
+    <role>Scammer #1 - Tommy</role>
+    <type>Actor</type>
+    <tmdbid>2309077</tmdbid>
+  </actor>
+  <actor>
+    <name>Millen Brown</name>
+    <role>Scammer #2 - Paulie</role>
+    <type>Actor</type>
+    <tmdbid>4475535</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cohen</name>
+    <role>Lazarus Mercenary #2</role>
+    <type>Actor</type>
+    <tmdbid>129765</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Fitzgerald</name>
+    <role>Sleazy Call Rep</role>
+    <type>Actor</type>
+    <tmdbid>4016361</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Minas</name>
+    <role>Call Rep</role>
+    <type>Actor</type>
+    <tmdbid>3812606</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunny Dhillon</name>
+    <role>FBI Swat</role>
+    <type>Actor</type>
+    <tmdbid>4077074</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocci Williams</name>
+    <role>Boston SWAT (as Rocci-Boy Williams)</role>
+    <type>Actor</type>
+    <tmdbid>1629429</tmdbid>
+    <imdbid>nm6875258</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Golding</name>
+    <role>Boston SAC (as Kevin N. Golding)</role>
+    <type>Actor</type>
+    <tmdbid>1762202</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Pérez</name>
+    <role>Police Diver</role>
+    <type>Actor</type>
+    <tmdbid>3410428</tmdbid>
+  </actor>
+  <actor>
+    <name>Baba Oyejide</name>
+    <role>Detective Lewis</role>
+    <type>Actor</type>
+    <tmdbid>2397665</tmdbid>
+  </actor>
+  <actor>
+    <name>Bharat Mistri</name>
+    <role>Elderly Man</role>
+    <type>Actor</type>
+    <tmdbid>1358599</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Mardon</name>
+    <role>Elegant Woman</role>
+    <type>Actor</type>
+    <tmdbid>4475541</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Novakovic</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1763623</tmdbid>
+  </actor>
+  <actor>
+    <name>Kojo Quainoo</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>4475542</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Maria Gilhooley</name>
+    <role>Rosalia</role>
+    <type>Actor</type>
+    <tmdbid>4475544</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hodges</name>
+    <role>Springfield Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1945370</tmdbid>
+    <imdbid>nm6838531</imdbid>
+  </actor>
+  <director tmdbid="19769" imdbid="nm0043742">David Ayer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oJm0t84q8c8</trailer>
+  <rating>6.4</rating>
+  <year>2024</year>
+  <sorttitle>Beekeeper: El protector</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15314262</imdbid>
+  <tmdbid>866398</tmdbid>
+  <premiered>2024-01-10</premiered>
+  <releasedate>2024-01-10</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>105</runtime>
+  <tagline>Destapa la corrupcion, protege la colmena</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Miramax</studio>
+  <studio>Cedar Park Entertainment</studio>
+  <studio>Punch Palace Productions</studio>
+  <uniqueid type="imdb">tt15314262</uniqueid>
+  <uniqueid type="tmdb">866398</uniqueid>
+  <id>tt15314262</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1059083</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6314</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

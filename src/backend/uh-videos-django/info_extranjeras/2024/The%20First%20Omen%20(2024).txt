@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando una joven estadounidense es enviada a Roma para iniciar una vida de servicio a la Iglesia, se topa con una oscuridad que pone en cuestión su propia fe y descubre una conspiración aterradora que espera provocar el nacimiento de la encarnación del mal. Una precuela de 'La profecía'.]]></plot>
+  <outline><![CDATA[Engendrar algo a lo que temer.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-27 13:03:45</dateadded>
+  <title>La primera profecía</title>
+  <originaltitle>The First Omen</originaltitle>
+  <actor>
+    <name>Nell Tiger Free</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>1472584</tmdbid>
+    <imdbid>nm4836100</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>Father Brennan</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Sônia Braga</name>
+    <role>Sister Silva</role>
+    <type>Actor</type>
+    <tmdbid>27396</tmdbid>
+    <imdbid>nm0000968</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Nighy</name>
+    <role>Cardinal Lawrence</role>
+    <type>Actor</type>
+    <tmdbid>2440</tmdbid>
+    <imdbid>nm0631490</imdbid>
+    <tvdbid>260656</tvdbid>
+  </actor>
+  <actor>
+    <name>María Caballero</name>
+    <role>Luz</role>
+    <type>Actor</type>
+    <tmdbid>2264673</tmdbid>
+    <tvdbid>8687295</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicole Sorace</name>
+    <role>Carlita</role>
+    <type>Actor</type>
+    <tmdbid>4481145</tmdbid>
+  </actor>
+  <actor>
+    <name>Tawfeek Barhom</name>
+    <role>Father Gabriel</role>
+    <type>Actor</type>
+    <tmdbid>1260004</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Dance</name>
+    <role>Father Harris</role>
+    <type>Actor</type>
+    <tmdbid>4391</tmdbid>
+    <imdbid>nm0001097</imdbid>
+    <tvdbid>247871</tvdbid>
+  </actor>
+  <actor>
+    <name>Ishtar Currie Wilson</name>
+    <role>Sister Anjelica</role>
+    <type>Actor</type>
+    <tmdbid>2733504</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Arcangeli</name>
+    <role>Paolo</role>
+    <type>Actor</type>
+    <tmdbid>1790754</tmdbid>
+  </actor>
+  <actor>
+    <name>Guido Quaglione</name>
+    <role>Alfonzo</role>
+    <type>Actor</type>
+    <tmdbid>3177854</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Sister Romano</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <actor>
+    <name>Michelangelo Dalisi</name>
+    <role>Luca</role>
+    <type>Actor</type>
+    <tmdbid>1871397</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Alexander</name>
+    <role>Father Spiletto</role>
+    <type>Actor</type>
+    <tmdbid>24624</tmdbid>
+    <imdbid>nm0018258</imdbid>
+  </actor>
+  <actor>
+    <name>Mia McGovern Zaini</name>
+    <role>Beatrice</role>
+    <type>Actor</type>
+    <tmdbid>2907095</tmdbid>
+    <tvdbid>9086754</tvdbid>
+  </actor>
+  <actor>
+    <name>Eugenia Delbue</name>
+    <role>Pregnant Woman</role>
+    <type>Actor</type>
+    <tmdbid>3230319</tmdbid>
+  </actor>
+  <actor>
+    <name>Charita Cecamore</name>
+    <role>Red Headed Girl</role>
+    <type>Actor</type>
+    <tmdbid>4616949</tmdbid>
+  </actor>
+  <actor>
+    <name>Federica Santoro</name>
+    <role>Smoking Nun</role>
+    <type>Actor</type>
+    <tmdbid>2024500</tmdbid>
+  </actor>
+  <actor>
+    <name>Donatella Bartoli</name>
+    <role>Nun #1</role>
+    <type>Actor</type>
+    <tmdbid>1882002</tmdbid>
+  </actor>
+  <actor>
+    <name>Marial Bajma-Riva</name>
+    <role>Nun #2</role>
+    <type>Actor</type>
+    <tmdbid>2746168</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Opinato</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1105263</tmdbid>
+    <imdbid>nm0649101</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Hurd-Wood</name>
+    <role>Katherine Thorn</role>
+    <type>Actor</type>
+    <tmdbid>129050</tmdbid>
+    <imdbid>nm1248393</imdbid>
+  </actor>
+  <actor>
+    <name>Nicola Garofalo</name>
+    <role>Obstetrician</role>
+    <type>Actor</type>
+    <tmdbid>1112383</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcello Paesano</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>4616950</tmdbid>
+  </actor>
+  <actor>
+    <name>Giacomo Henri Dossi</name>
+    <role>Museum Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>4616951</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Panacione</name>
+    <role>Nurse #1</role>
+    <type>Actor</type>
+    <tmdbid>1192145</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Barra</name>
+    <role>Nurse #2</role>
+    <type>Actor</type>
+    <tmdbid>4616952</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Fallucchi</name>
+    <role>Nurse #3</role>
+    <type>Actor</type>
+    <tmdbid>2506173</tmdbid>
+  </actor>
+  <actor>
+    <name>Milena Božić</name>
+    <role>Young Sister Silva</role>
+    <type>Actor</type>
+    <tmdbid>2925219</tmdbid>
+  </actor>
+  <actor>
+    <name>Dobrila Stojnic</name>
+    <role>Comforting Nun</role>
+    <type>Actor</type>
+    <tmdbid>1050838</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Tierrez</name>
+    <role>Shadowy Priest</role>
+    <type>Actor</type>
+    <tmdbid>3489903</tmdbid>
+  </actor>
+  <actor>
+    <name>Ljiljana Žunić</name>
+    <role>Sadistic Nun</role>
+    <type>Actor</type>
+    <tmdbid>4616953</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Ras</name>
+    <role>Angry Nun</role>
+    <type>Actor</type>
+    <tmdbid>110989</tmdbid>
+  </actor>
+  <actor>
+    <name>Miodrag Rakočević</name>
+    <role>Shadowy Figure</role>
+    <type>Actor</type>
+    <tmdbid>1868636</tmdbid>
+  </actor>
+  <actor>
+    <name>James Swanton</name>
+    <role>Jackal Performer</role>
+    <type>Actor</type>
+    <tmdbid>2215526</tmdbid>
+  </actor>
+  <actor>
+    <name>Andjelko Pavlović</name>
+    <role>Jackal Performer</role>
+    <type>Actor</type>
+    <tmdbid>4616955</tmdbid>
+  </actor>
+  <actor>
+    <name>Mina Knežević</name>
+    <role>Infant / Newborn (1 Month Old)</role>
+    <type>Actor</type>
+    <tmdbid>4616956</tmdbid>
+  </actor>
+  <actor>
+    <name>Ema Nastić</name>
+    <role>Infant / Newborn (1 Month Old)</role>
+    <type>Actor</type>
+    <tmdbid>4616957</tmdbid>
+  </actor>
+  <actor>
+    <name>Mateja Nešović</name>
+    <role>Baby Layla</role>
+    <type>Actor</type>
+    <tmdbid>4616959</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Stanojević</name>
+    <role>Baby Layla</role>
+    <type>Actor</type>
+    <tmdbid>4616960</tmdbid>
+  </actor>
+  <actor>
+    <name>Borislav Bogosavac</name>
+    <role>Scaffold Worker</role>
+    <type>Actor</type>
+    <tmdbid>2629949</tmdbid>
+  </actor>
+  <actor>
+    <name>Dejan Dragosavac</name>
+    <role>Scaffold Worker</role>
+    <type>Actor</type>
+    <tmdbid>2630002</tmdbid>
+  </actor>
+  <actor>
+    <name>Darko Ćorović</name>
+    <role>Scaffold Worker</role>
+    <type>Actor</type>
+    <tmdbid>3560266</tmdbid>
+  </actor>
+  <actor>
+    <name>Strahinja Despić</name>
+    <role>Scaffold Worker</role>
+    <type>Actor</type>
+    <tmdbid>4616963</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Clayton</name>
+    <role>Margaret Picture Double</role>
+    <type>Actor</type>
+    <tmdbid>4616964</tmdbid>
+  </actor>
+  <actor>
+    <name>Amalia Strand</name>
+    <role>Carlita Picture Double</role>
+    <type>Actor</type>
+    <tmdbid>4616965</tmdbid>
+  </actor>
+  <actor>
+    <name>Nigel Dyson</name>
+    <role>Cardinal Lawrence Picture Double</role>
+    <type>Actor</type>
+    <tmdbid>4616966</tmdbid>
+  </actor>
+  <director tmdbid="1706480">Arkasha Stevenson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vBrkqgRpNLQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RpgmVNiV0KA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H4pxr0q3nOg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmmkOJl15qc</trailer>
+  <rating>6.5</rating>
+  <year>2024</year>
+  <sorttitle>primera profecia</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5672290</imdbid>
+  <tmdbid>437342</tmdbid>
+  <premiered>2024-04-03</premiered>
+  <releasedate>2024-04-03</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>119</runtime>
+  <tagline>Engendrar algo a lo que temer.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Phantom Four</studio>
+  <studio>20th Century Studios</studio>
+  <set tmdbcolid="10919">
+    <name>La profecía - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt5672290</uniqueid>
+  <uniqueid type="tmdb">437342</uniqueid>
+  <id>tt5672290</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1124619</bitrate>
+        <width>1304</width>
+        <height>704</height>
+        <aspect>163:88</aspect>
+        <aspectratio>163:88</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7153</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

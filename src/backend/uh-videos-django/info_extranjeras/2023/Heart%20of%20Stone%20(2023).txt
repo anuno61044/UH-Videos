@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Rachel Stone es una agente de inteligencia, la única mujer que se interpone entre su poderosa organización mundial de mantenimiento de la paz y la pérdida de su activo más valioso y peligroso.]]></plot>
+  <outline><![CDATA[Desafía las probabilidades.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-11 09:30:43</dateadded>
+  <title>Agente Stone</title>
+  <originaltitle>Heart of Stone</originaltitle>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Rachel Stone</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Dornan</name>
+    <role>Parker</role>
+    <type>Actor</type>
+    <tmdbid>1254583</tmdbid>
+    <imdbid>nm1946193</imdbid>
+    <tvdbid>331181</tvdbid>
+  </actor>
+  <actor>
+    <name>Alia Bhatt</name>
+    <role>Keya Dhawan</role>
+    <type>Actor</type>
+    <tmdbid>1108120</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Okonedo</name>
+    <role>Nomad</role>
+    <type>Actor</type>
+    <tmdbid>2598</tmdbid>
+    <imdbid>nm0645683</imdbid>
+    <tvdbid>449518</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthias Schweighöfer</name>
+    <role>Jack of Hearts</role>
+    <type>Actor</type>
+    <tmdbid>16808</tmdbid>
+    <imdbid>nm0777788</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ready</name>
+    <role>Bailey</role>
+    <type>Actor</type>
+    <tmdbid>1534392</tmdbid>
+    <imdbid>nm0713961</imdbid>
+  </actor>
+  <actor>
+    <name>Jing Lusi</name>
+    <role>Yang</role>
+    <type>Actor</type>
+    <tmdbid>564035</tmdbid>
+    <tvdbid>496466</tvdbid>
+  </actor>
+  <actor>
+    <name>Enzo Cilenti</name>
+    <role>Mulvaney</role>
+    <type>Actor</type>
+    <tmdbid>91494</tmdbid>
+    <imdbid>nm0162281</imdbid>
+    <tvdbid>329679</tvdbid>
+  </actor>
+  <actor>
+    <name>Joe Reisig</name>
+    <role>Lars Monroe</role>
+    <type>Actor</type>
+    <tmdbid>2532090</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Fiamenghi</name>
+    <role>Casanova</role>
+    <type>Actor</type>
+    <tmdbid>2216848</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Arnold</name>
+    <role>Control</role>
+    <type>Actor</type>
+    <tmdbid>1132749</tmdbid>
+    <imdbid>nm1112861</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Keeling</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+    <tmdbid>2597705</tmdbid>
+  </actor>
+  <actor>
+    <name>Archie Madekwe</name>
+    <role>Ivo</role>
+    <type>Actor</type>
+    <tmdbid>2249745</tmdbid>
+  </actor>
+  <actor>
+    <name>Arya Dolatrai</name>
+    <role>Young Keya Dhawan</role>
+    <type>Actor</type>
+    <tmdbid>4208929</tmdbid>
+  </actor>
+  <actor>
+    <name>Neran Persaud</name>
+    <role>Niam Kharche</role>
+    <type>Actor</type>
+    <tmdbid>17261</tmdbid>
+    <imdbid>nm0675402</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Kortajarena</name>
+    <role>The Blond</role>
+    <type>Actor</type>
+    <tmdbid>1316023</tmdbid>
+    <imdbid>nm2392852</imdbid>
+    <tvdbid>592289</tvdbid>
+  </actor>
+  <actor>
+    <name>Giulia Innocenti</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2054433</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy Sampson</name>
+    <role>Usher</role>
+    <type>Actor</type>
+    <tmdbid>1451332</tmdbid>
+  </actor>
+  <actor>
+    <name>BD Wong</name>
+    <role>King of Clubs</role>
+    <type>Actor</type>
+    <tmdbid>14592</tmdbid>
+    <imdbid>nm0000703</imdbid>
+    <tvdbid>394868</tvdbid>
+  </actor>
+  <actor>
+    <name>Glenn Close</name>
+    <role>King of Diamonds</role>
+    <type>Actor</type>
+    <tmdbid>515</tmdbid>
+    <imdbid>nm0000335</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ivanir</name>
+    <role>King of Spades</role>
+    <type>Actor</type>
+    <tmdbid>6696</tmdbid>
+    <imdbid>nm0411980</imdbid>
+    <tvdbid>270480</tvdbid>
+  </actor>
+  <actor>
+    <name>Jónas Alfreð Birkisson</name>
+    <role>Leifur</role>
+    <type>Actor</type>
+    <tmdbid>3232551</tmdbid>
+  </actor>
+  <director tmdbid="212240" imdbid="nm2197777">Tom Harper</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XuDwndGaCFo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LOHrNvFH3F8</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Agente Stone</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13603966</imdbid>
+  <tmdbid>724209</tmdbid>
+  <premiered>2023-08-09</premiered>
+  <releasedate>2023-08-09</releasedate>
+  <runtime>126</runtime>
+  <tagline>Desafía las probabilidades.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Acción</genre>
+  <studio>Skydance</studio>
+  <studio>Pilot Wave Motion Pictures</studio>
+  <studio>Mockingbird Pictures</studio>
+  <uniqueid type="imdb">tt13603966</uniqueid>
+  <uniqueid type="tmdb">724209</uniqueid>
+  <id>tt13603966</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>785990</bitrate>
+        <width>1280</width>
+        <height>580</height>
+        <aspect>16256:7395</aspect>
+        <aspectratio>16256:7395</aspectratio>
+        <framerate>23.999863</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7539</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

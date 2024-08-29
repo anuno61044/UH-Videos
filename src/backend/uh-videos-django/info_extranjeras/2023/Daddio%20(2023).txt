@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer toma un taxi desde el aeropuerto JFK y entabla una conversación con el taxista sobre las relaciones importantes en sus vidas.]]></plot>
+  <outline><![CDATA[Never forget where you came from.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-01 10:06:03</dateadded>
+  <title>Daddio</title>
+  <originaltitle>Daddio</originaltitle>
+  <actor>
+    <name>Dakota Johnson</name>
+    <role>Girlie</role>
+    <type>Actor</type>
+    <tmdbid>118545</tmdbid>
+    <imdbid>nm0424848</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Penn</name>
+    <role>Clark</role>
+    <type>Actor</type>
+    <tmdbid>2228</tmdbid>
+    <imdbid>nm0000576</imdbid>
+  </actor>
+  <actor>
+    <name>Marcos A. Gonzalez</name>
+    <role>Taxi Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1790349</tmdbid>
+    <imdbid>nm4863188</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Gannon</name>
+    <role>Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2780707</tmdbid>
+  </actor>
+  <director tmdbid="2143761">Christy Hall</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZauGeKc_NRs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PJrr2amlFyc</trailer>
+  <rating>6.4</rating>
+  <year>2024</year>
+  <sorttitle>Daddio</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7461686</imdbid>
+  <tmdbid>843416</tmdbid>
+  <premiered>2024-06-27</premiered>
+  <releasedate>2024-06-27</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>100</runtime>
+  <tagline>Never forget where you came from.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>TeaTime Pictures</studio>
+  <studio>Rhea Films</studio>
+  <studio>Projected Picture Works</studio>
+  <studio>First Love Films</studio>
+  <studio>Raindrop Valley</studio>
+  <uniqueid type="tmdb">843416</uniqueid>
+  <uniqueid type="imdb">tt7461686</uniqueid>
+  <id>tt7461686</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149567</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5983</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128113</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

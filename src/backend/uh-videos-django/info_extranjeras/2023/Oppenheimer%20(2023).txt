@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.]]></plot>
+  <outline><![CDATA[El mundo cambia para siempre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-08 19:43:12</dateadded>
+  <title>Oppenheimer</title>
+  <originaltitle>Oppenheimer</originaltitle>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>J. Robert Oppenheimer</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Blunt</name>
+    <role>Kitty Oppenheimer</role>
+    <type>Actor</type>
+    <tmdbid>5081</tmdbid>
+    <imdbid>nm1289434</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Leslie Groves</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Downey Jr.</name>
+    <role>Lewis Strauss</role>
+    <type>Actor</type>
+    <tmdbid>3223</tmdbid>
+    <imdbid>nm0000375</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Pugh</name>
+    <role>Jean Tatlock</role>
+    <type>Actor</type>
+    <tmdbid>1373737</tmdbid>
+    <imdbid>nm6073955</imdbid>
+    <tvdbid>489050</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Hartnett</name>
+    <role>Ernest Lawrence</role>
+    <type>Actor</type>
+    <tmdbid>2299</tmdbid>
+    <imdbid>nm0001326</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Affleck</name>
+    <role>Boris Pash</role>
+    <type>Actor</type>
+    <tmdbid>1893</tmdbid>
+    <imdbid>nm0000729</imdbid>
+  </actor>
+  <actor>
+    <name>Rami Malek</name>
+    <role>David Hill</role>
+    <type>Actor</type>
+    <tmdbid>17838</tmdbid>
+    <imdbid>nm1785339</imdbid>
+    <tvdbid>328078</tvdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Branagh</name>
+    <role>Niels Bohr</role>
+    <type>Actor</type>
+    <tmdbid>11181</tmdbid>
+    <imdbid>nm0000110</imdbid>
+  </actor>
+  <actor>
+    <name>Benny Safdie</name>
+    <role>Edward Teller</role>
+    <type>Actor</type>
+    <tmdbid>227564</tmdbid>
+    <imdbid>nm1509478</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Clarke</name>
+    <role>Roger Robb</role>
+    <type>Actor</type>
+    <tmdbid>76512</tmdbid>
+    <imdbid>nm0164809</imdbid>
+    <tvdbid>262414</tvdbid>
+  </actor>
+  <actor>
+    <name>Dylan Arnold</name>
+    <role>Frank Oppenheimer</role>
+    <type>Actor</type>
+    <tmdbid>1039523</tmdbid>
+    <imdbid>nm4003553</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Conti</name>
+    <role>Albert Einstein</role>
+    <type>Actor</type>
+    <tmdbid>71010</tmdbid>
+    <imdbid>nm0002018</imdbid>
+  </actor>
+  <actor>
+    <name>James D'Arcy</name>
+    <role>Patrick Blackett</role>
+    <type>Actor</type>
+    <tmdbid>19655</tmdbid>
+    <imdbid>nm0195439</imdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>William Borden</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Dane DeHaan</name>
+    <role>Kenneth Nichols</role>
+    <type>Actor</type>
+    <tmdbid>122889</tmdbid>
+    <imdbid>nm2851530</imdbid>
+    <tvdbid>462667</tvdbid>
+  </actor>
+  <actor>
+    <name>Alden Ehrenreich</name>
+    <role>Senate Aide</role>
+    <type>Actor</type>
+    <tmdbid>71375</tmdbid>
+    <imdbid>nm2403277</imdbid>
+    <tvdbid>7902194</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Goldwyn</name>
+    <role>Gordon Gray</role>
+    <type>Actor</type>
+    <tmdbid>3417</tmdbid>
+    <imdbid>nm0001282</imdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Hall</name>
+    <role>Haakon Chevalier</role>
+    <type>Actor</type>
+    <tmdbid>109322</tmdbid>
+    <imdbid>nm2131630</imdbid>
+  </actor>
+  <actor>
+    <name>David Krumholtz</name>
+    <role>Isidor Rabi</role>
+    <type>Actor</type>
+    <tmdbid>38582</tmdbid>
+    <imdbid>nm0472710</imdbid>
+    <tvdbid>275299</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Modine</name>
+    <role>Vannevar Bush</role>
+    <type>Actor</type>
+    <tmdbid>8654</tmdbid>
+    <imdbid>nm0000546</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Grimes</name>
+    <role>Counsel</role>
+    <type>Actor</type>
+    <tmdbid>35091</tmdbid>
+    <imdbid>nm0342241</imdbid>
+  </actor>
+  <actor>
+    <name>Kurt Koehler</name>
+    <role>Thomas Morgan</role>
+    <type>Actor</type>
+    <tmdbid>1519972</tmdbid>
+  </actor>
+  <actor>
+    <name>John Gowans</name>
+    <role>Ward Evans</role>
+    <type>Actor</type>
+    <tmdbid>154583</tmdbid>
+  </actor>
+  <actor>
+    <name>Macon Blair</name>
+    <role>Lloyd Garrison</role>
+    <type>Actor</type>
+    <tmdbid>209513</tmdbid>
+    <imdbid>nm0086301</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Groener</name>
+    <role>Senator McGee</role>
+    <type>Actor</type>
+    <tmdbid>35518</tmdbid>
+    <imdbid>nm0342881</imdbid>
+    <tvdbid>252108</tvdbid>
+  </actor>
+  <actor>
+    <name>Gregory Jbara</name>
+    <role>Chairman Magnuson</role>
+    <type>Actor</type>
+    <tmdbid>24360</tmdbid>
+    <imdbid>nm0419813</imdbid>
+    <tvdbid>312953</tvdbid>
+  </actor>
+  <actor>
+    <name>Ted King</name>
+    <role>Senator Bartlett</role>
+    <type>Actor</type>
+    <tmdbid>1221560</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim DeKay</name>
+    <role>Senator Pastore</role>
+    <type>Actor</type>
+    <tmdbid>76001</tmdbid>
+    <imdbid>nm0215229</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Houska</name>
+    <role>Senator Scott</role>
+    <type>Actor</type>
+    <tmdbid>1215064</tmdbid>
+  </actor>
+  <actor>
+    <name>Petrie Willink</name>
+    <role>Dutch Student</role>
+    <type>Actor</type>
+    <tmdbid>2781676</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthias Schweighöfer</name>
+    <role>Werner Heisenberg</role>
+    <type>Actor</type>
+    <tmdbid>16808</tmdbid>
+    <imdbid>nm0777788</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Wolff</name>
+    <role>Luis Alvarez</role>
+    <type>Actor</type>
+    <tmdbid>934281</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Zuckerman</name>
+    <role>Rossi Lomanitz</role>
+    <type>Actor</type>
+    <tmdbid>62816</tmdbid>
+    <imdbid>nm0958430</imdbid>
+  </actor>
+  <actor>
+    <name>Rory Keane</name>
+    <role>Hartland Snyder</role>
+    <type>Actor</type>
+    <tmdbid>1675638</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Angarano</name>
+    <role>Robert Serber</role>
+    <type>Actor</type>
+    <tmdbid>11665</tmdbid>
+    <imdbid>nm0029400</imdbid>
+    <tvdbid>286913</tvdbid>
+  </actor>
+  <actor>
+    <name>Emma Dumont</name>
+    <role>Jackie Oppenheimer</role>
+    <type>Actor</type>
+    <tmdbid>968089</tmdbid>
+    <imdbid>nm2730808</imdbid>
+    <tvdbid>503879</tvdbid>
+  </actor>
+  <actor>
+    <name>Sadie Stratton</name>
+    <role>Mary Washburn</role>
+    <type>Actor</type>
+    <tmdbid>154615</tmdbid>
+  </actor>
+  <actor>
+    <name>Britt Kyle</name>
+    <role>Barbara Chevalier</role>
+    <type>Actor</type>
+    <tmdbid>3952653</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Burnet</name>
+    <role>George Eltenton</role>
+    <type>Actor</type>
+    <tmdbid>545195</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Jenkins</name>
+    <role>Richard Tolman</role>
+    <type>Actor</type>
+    <tmdbid>2692405</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Lombard</name>
+    <role>Ruth Tolman</role>
+    <type>Actor</type>
+    <tmdbid>20805</tmdbid>
+    <imdbid>nm0518321</imdbid>
+    <tvdbid>312797</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Andrew Baker</name>
+    <role>Joe Volpe</role>
+    <type>Actor</type>
+    <tmdbid>1720614</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Hephner</name>
+    <role>Congressman</role>
+    <type>Actor</type>
+    <tmdbid>212689</tmdbid>
+    <tvdbid>329848</tvdbid>
+  </actor>
+  <actor>
+    <name>Olli Haaskivi</name>
+    <role>Edward Condon</role>
+    <type>Actor</type>
+    <tmdbid>1493745</tmdbid>
+  </actor>
+  <actor>
+    <name>David Rysdahl</name>
+    <role>Donald Hornig</role>
+    <type>Actor</type>
+    <tmdbid>1541178</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Peck</name>
+    <role>Kenneth Bainbridge</role>
+    <type>Actor</type>
+    <tmdbid>15760</tmdbid>
+    <tvdbid>248213</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Quaid</name>
+    <role>Richard Feynman</role>
+    <type>Actor</type>
+    <tmdbid>1030513</tmdbid>
+    <imdbid>nm4425051</imdbid>
+    <tvdbid>503175</tvdbid>
+  </actor>
+  <actor>
+    <name>Brett DelBuono</name>
+    <role>Concerned Scientist</role>
+    <type>Actor</type>
+    <tmdbid>64213</tmdbid>
+    <imdbid>nm1498895</imdbid>
+  </actor>
+  <actor>
+    <name>Gustaf Skarsgård</name>
+    <role>Hans Bethe</role>
+    <type>Actor</type>
+    <tmdbid>63764</tmdbid>
+    <imdbid>nm0803890</imdbid>
+    <tvdbid>452642</tvdbid>
+  </actor>
+  <actor>
+    <name>James Urbaniak</name>
+    <role>Kurt Gödel</role>
+    <type>Actor</type>
+    <tmdbid>58528</tmdbid>
+    <imdbid>nm0881672</imdbid>
+  </actor>
+  <actor>
+    <name>Trond Fausa Aurvåg</name>
+    <role>George Kistiakowsky</role>
+    <type>Actor</type>
+    <tmdbid>85151</tmdbid>
+  </actor>
+  <actor>
+    <name>Devon Bostick</name>
+    <role>Seth Neddermeyer</role>
+    <type>Actor</type>
+    <tmdbid>90498</tmdbid>
+    <imdbid>nm1256602</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Deferrari</name>
+    <role>Enrico Fermi</role>
+    <type>Actor</type>
+    <tmdbid>1448819</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Denham</name>
+    <role>Klaus Fuchs</role>
+    <type>Actor</type>
+    <tmdbid>61510</tmdbid>
+    <imdbid>nm1706832</imdbid>
+    <tvdbid>342058</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica Erin Martin</name>
+    <role>Charlotte Serber</role>
+    <type>Actor</type>
+    <tmdbid>2113468</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronald Auguste</name>
+    <role>J. Ernest Wilkins</role>
+    <type>Actor</type>
+    <tmdbid>2705767</tmdbid>
+  </actor>
+  <actor>
+    <name>Máté Haumann</name>
+    <role>Leo Szilard</role>
+    <type>Actor</type>
+    <tmdbid>25446</tmdbid>
+    <imdbid>nm1204932</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Thirlby</name>
+    <role>Lilli Hornig</role>
+    <type>Actor</type>
+    <tmdbid>52442</tmdbid>
+    <imdbid>nm1880888</imdbid>
+    <tvdbid>471908</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Cutmore-Scott</name>
+    <role>Lyall Johnson</role>
+    <type>Actor</type>
+    <tmdbid>1499831</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Gilbertson</name>
+    <role>Philip Morrison</role>
+    <type>Actor</type>
+    <tmdbid>127281</tmdbid>
+    <imdbid>nm1549295</imdbid>
+  </actor>
+  <actor>
+    <name>James Remar</name>
+    <role>Henry Stimson</role>
+    <type>Actor</type>
+    <tmdbid>1736</tmdbid>
+    <imdbid>nm0001664</imdbid>
+    <tvdbid>300550</tvdbid>
+  </actor>
+  <actor>
+    <name>Will Roberts</name>
+    <role>George C. Marshall</role>
+    <type>Actor</type>
+    <tmdbid>30791</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Skipper</name>
+    <role>James Byrnes</role>
+    <type>Actor</type>
+    <tmdbid>6326</tmdbid>
+    <imdbid>nm0804361</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Coulter</name>
+    <role>James Conant</role>
+    <type>Actor</type>
+    <tmdbid>80619</tmdbid>
+    <imdbid>nm0183548</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy John Wells</name>
+    <role>AAF Officer</role>
+    <type>Actor</type>
+    <tmdbid>2075067</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Avery</name>
+    <role>Weatherman</role>
+    <type>Actor</type>
+    <tmdbid>543819</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Kroeger</name>
+    <role>Army Captain</role>
+    <type>Actor</type>
+    <tmdbid>2614684</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Kenney</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1679557</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryce Johnson</name>
+    <role>AAF Officer 2</role>
+    <type>Actor</type>
+    <tmdbid>65769</tmdbid>
+  </actor>
+  <actor>
+    <name>Flora Nolan</name>
+    <role>Burn Victim</role>
+    <type>Actor</type>
+    <tmdbid>1505363</tmdbid>
+    <imdbid>nm6898446</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Westcott</name>
+    <role>Laughing Woman</role>
+    <type>Actor</type>
+    <tmdbid>2245154</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Hogue</name>
+    <role>Kissing Woman</role>
+    <type>Actor</type>
+    <tmdbid>1616338</tmdbid>
+  </actor>
+  <actor>
+    <name>Clay Bunker</name>
+    <role>Kissing Man</role>
+    <type>Actor</type>
+    <tmdbid>2767277</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Beardsley</name>
+    <role>Weeping Man</role>
+    <type>Actor</type>
+    <tmdbid>3853422</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Teresa Zuppetta</name>
+    <role>Consoling Woman</role>
+    <type>Actor</type>
+    <tmdbid>4174034</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate French</name>
+    <role>Presidential Aide</role>
+    <type>Actor</type>
+    <tmdbid>1215055</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Oldman</name>
+    <role>Harry Truman</role>
+    <type>Actor</type>
+    <tmdbid>64</tmdbid>
+    <imdbid>nm0000198</imdbid>
+    <tvdbid>327268</tvdbid>
+  </actor>
+  <actor>
+    <name>Hap Lawrence</name>
+    <role>Lyndon Johnson</role>
+    <type>Actor</type>
+    <tmdbid>101661</tmdbid>
+  </actor>
+  <actor>
+    <name>Meg Schimelpfenig</name>
+    <role>Senator's Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3603785</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Snead</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3936714</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Bronson</name>
+    <role>Joseph W. Kennedy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3809152</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Russo</name>
+    <role>Grieving Man</role>
+    <type>Actor</type>
+    <tmdbid>19272</tmdbid>
+    <imdbid>nm0751648</imdbid>
+  </actor>
+  <director tmdbid="525" imdbid="nm0634240">Christopher Nolan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fSFoIyLKBSc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JpUd4BS7yI0</trailer>
+  <rating>8.5</rating>
+  <year>2023</year>
+  <sorttitle>Oppenheimer</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15398776</imdbid>
+  <tmdbid>872585</tmdbid>
+  <premiered>2023-07-19</premiered>
+  <releasedate>2023-07-19</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>180</runtime>
+  <tagline>El mundo cambia para siempre.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Syncopy</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Atlas Entertainment</studio>
+  <uniqueid type="imdb">tt15398776</uniqueid>
+  <uniqueid type="tmdb">872585</uniqueid>
+  <id>tt15398776</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>755326</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>180</duration>
+        <durationinseconds>10822</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In an effort to reunite with his daughter after a period of absence, a father takes her on a road trip to Santa Fe, New Mexico. Along the way they encounter some interesting characters and obstacles while sorting out their relationship.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-16 09:55:20</dateadded>
+  <title>Bleeding Love</title>
+  <originaltitle>Bleeding Love</originaltitle>
+  <actor>
+    <name>Clara McGregor</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2089967</tmdbid>
+    <imdbid>nm8406830</imdbid>
+  </actor>
+  <actor>
+    <name>Ewan McGregor</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>3061</tmdbid>
+    <imdbid>nm0000191</imdbid>
+    <tvdbid>274745</tvdbid>
+  </actor>
+  <actor>
+    <name>Kim Zimmer</name>
+    <role>Elsie</role>
+    <type>Actor</type>
+    <tmdbid>156237</tmdbid>
+  </actor>
+  <actor>
+    <name>Devyn McDowell</name>
+    <role>Young Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2551620</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Alexander</name>
+    <type>Actor</type>
+    <tmdbid>64154</tmdbid>
+    <imdbid>nm0018734</imdbid>
+    <tvdbid>306786</tvdbid>
+  </actor>
+  <actor>
+    <name>Jake Weary</name>
+    <role>Kip</role>
+    <type>Actor</type>
+    <tmdbid>133980</tmdbid>
+  </actor>
+  <actor>
+    <name>Vera Bulder</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>2214581</tmdbid>
+  </actor>
+  <actor>
+    <name>Travis Hammer</name>
+    <role>Eli</role>
+    <type>Actor</type>
+    <tmdbid>128560</tmdbid>
+    <imdbid>nm1763493</imdbid>
+  </actor>
+  <actor>
+    <name>Clint Obenchain</name>
+    <type>Actor</type>
+    <tmdbid>1527969</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristin K. Berg</name>
+    <role>Abigail</role>
+    <type>Actor</type>
+    <tmdbid>2579012</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Browne</name>
+    <role>Shiloh</role>
+    <type>Actor</type>
+    <tmdbid>43596</tmdbid>
+    <imdbid>nm2456350</imdbid>
+  </actor>
+  <actor>
+    <name>J. Nathan Simmons</name>
+    <type>Actor</type>
+    <tmdbid>1204226</tmdbid>
+    <imdbid>nm0799776</imdbid>
+  </actor>
+  <actor>
+    <name>Willard Runsabove</name>
+    <role>Amos</role>
+    <type>Actor</type>
+    <tmdbid>3520783</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Trencher</name>
+    <type>Actor</type>
+    <tmdbid>1494987</tmdbid>
+  </actor>
+  <actor>
+    <name>Eve Kozikowski</name>
+    <role>Kentucky</role>
+    <type>Actor</type>
+    <tmdbid>1204045</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Bitton</name>
+    <role>Valerie</role>
+    <type>Actor</type>
+    <tmdbid>2920417</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilasiea Gray</name>
+    <role>Pearl</role>
+    <type>Actor</type>
+    <tmdbid>3675851</tmdbid>
+  </actor>
+  <actor>
+    <name>Fischer Knapp</name>
+    <role>Cashier</role>
+    <type>Actor</type>
+    <tmdbid>3675852</tmdbid>
+  </actor>
+  <actor>
+    <name>Mat Mahboub</name>
+    <role>Employee</role>
+    <type>Actor</type>
+    <tmdbid>3675860</tmdbid>
+  </actor>
+  <actor>
+    <name>Sale Taylor</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2573529</tmdbid>
+  </actor>
+  <director tmdbid="1498538">Emma Westenberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U5piU4rmc0A</trailer>
+  <rating>7.5</rating>
+  <year>2024</year>
+  <sorttitle>Bleeding Love</sorttitle>
+  <imdbid>tt15678810</imdbid>
+  <tmdbid>1000780</tmdbid>
+  <premiered>2024-02-16</premiered>
+  <releasedate>2024-02-16</releasedate>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Deux Dames Entertainment</studio>
+  <studio>Killer Films</studio>
+  <studio>Sobini Films</studio>
+  <studio>Black Magic</studio>
+  <uniqueid type="imdb">tt15678810</uniqueid>
+  <uniqueid type="tmdb">1000780</uniqueid>
+  <id>tt15678810</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>900245</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6144</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

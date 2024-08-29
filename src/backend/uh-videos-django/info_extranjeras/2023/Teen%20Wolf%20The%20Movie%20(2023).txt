@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La luna llena se eleva en Beacon Hills, y con ella ha surgido un mal aterrador. Los lobos están aullando una vez más, pidiendo el regreso de Banshees, Werecoyotes, Hellhounds, Kitsunes y todos los demás cambiaformas en la noche. Pero solo un hombre lobo como Scott McCall, que ya no es un adolescente pero sigue siendo un Alfa, puede reunir nuevos aliados y reunir a amigos de confianza para luchar contra lo que podría ser el enemigo más poderoso y letal al que se han enfrentado jamás.]]></plot>
+  <outline><![CDATA[La manada ha vuelto.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-30 08:57:03</dateadded>
+  <title>Teen Wolf: La película</title>
+  <originaltitle>Teen Wolf: The Movie</originaltitle>
+  <actor>
+    <name>Tyler Posey</name>
+    <role>Scott McCall</role>
+    <type>Actor</type>
+    <tmdbid>53280</tmdbid>
+    <imdbid>nm0692677</imdbid>
+  </actor>
+  <actor>
+    <name>Crystal Reed</name>
+    <role>Allison Argent</role>
+    <type>Actor</type>
+    <tmdbid>128629</tmdbid>
+    <imdbid>nm3706952</imdbid>
+    <tvdbid>346774</tvdbid>
+  </actor>
+  <actor>
+    <name>Holland Roden</name>
+    <role>Lydia Martin</role>
+    <type>Actor</type>
+    <tmdbid>208782</tmdbid>
+    <imdbid>nm1555699</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Hoechlin</name>
+    <role>Derek Hale</role>
+    <type>Actor</type>
+    <tmdbid>78198</tmdbid>
+    <imdbid>nm0388382</imdbid>
+    <tvdbid>371047</tvdbid>
+  </actor>
+  <actor>
+    <name>Shelley Hennig</name>
+    <role>Malia Tate</role>
+    <type>Actor</type>
+    <tmdbid>444211</tmdbid>
+    <imdbid>nm2645189</imdbid>
+    <tvdbid>452370</tvdbid>
+  </actor>
+  <actor>
+    <name>JR Bourne</name>
+    <role>Chris Argent</role>
+    <type>Actor</type>
+    <tmdbid>62911</tmdbid>
+    <imdbid>nm0100068</imdbid>
+    <tvdbid>281354</tvdbid>
+  </actor>
+  <actor>
+    <name>Ian Bohen</name>
+    <role>Peter Hale</role>
+    <type>Actor</type>
+    <tmdbid>31362</tmdbid>
+    <imdbid>nm0092026</imdbid>
+  </actor>
+  <actor>
+    <name>Colton Haynes</name>
+    <role>Jackson Whittemore</role>
+    <type>Actor</type>
+    <tmdbid>211800</tmdbid>
+    <tvdbid>495304</tvdbid>
+  </actor>
+  <actor>
+    <name>Linden Ashby</name>
+    <role>Sheriff Stilinski</role>
+    <type>Actor</type>
+    <tmdbid>57251</tmdbid>
+    <imdbid>nm0000798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Ponzio</name>
+    <role>Melissa McCall</role>
+    <type>Actor</type>
+    <tmdbid>168658</tmdbid>
+    <imdbid>nm0690754</imdbid>
+    <tvdbid>329952</tvdbid>
+  </actor>
+  <actor>
+    <name>Ryan Kelley</name>
+    <role>Deputy Parrish</role>
+    <type>Actor</type>
+    <tmdbid>23891</tmdbid>
+    <imdbid>nm0445987</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Gilliam</name>
+    <role>Dr. Alan Deaton</role>
+    <type>Actor</type>
+    <tmdbid>41688</tmdbid>
+    <imdbid>nm0319121</imdbid>
+    <tvdbid>317377</tvdbid>
+  </actor>
+  <actor>
+    <name>Orny Adams</name>
+    <role>Coach Finstock</role>
+    <type>Actor</type>
+    <tmdbid>85363</tmdbid>
+    <imdbid>nm1229407</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Sprayberry</name>
+    <role>Liam Dunbar</role>
+    <type>Actor</type>
+    <tmdbid>236302</tmdbid>
+    <imdbid>nm2876098</imdbid>
+    <tvdbid>465718</tvdbid>
+  </actor>
+  <actor>
+    <name>Khylin Rhambo</name>
+    <role>Deputy Mason Hewitt</role>
+    <type>Actor</type>
+    <tmdbid>994016</tmdbid>
+    <imdbid>nm4240577</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Hendry</name>
+    <role>Nogitsune</role>
+    <type>Actor</type>
+    <tmdbid>61536</tmdbid>
+  </actor>
+  <actor>
+    <name>Vince Mattis</name>
+    <role>Eli Hale</role>
+    <type>Actor</type>
+    <tmdbid>2002137</tmdbid>
+    <imdbid>nm9572397</imdbid>
+  </actor>
+  <actor>
+    <name>Amy L. Workman</name>
+    <role>Hikari</role>
+    <type>Actor</type>
+    <tmdbid>3479809</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Fristoe</name>
+    <role>Harris</role>
+    <type>Actor</type>
+    <tmdbid>1287005</tmdbid>
+    <imdbid>nm3476561</imdbid>
+  </actor>
+  <actor>
+    <name>Eaddy Mays</name>
+    <role>Victoria Argent</role>
+    <type>Actor</type>
+    <tmdbid>1099429</tmdbid>
+    <imdbid>nm1712612</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Rafael Lozano</name>
+    <role>Lieutenant Ibarra</role>
+    <type>Actor</type>
+    <tmdbid>2907350</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Posey</name>
+    <role>Raymond Delgado</role>
+    <type>Actor</type>
+    <tmdbid>1863450</tmdbid>
+    <tvdbid>8176821</tvdbid>
+  </actor>
+  <actor>
+    <name>Nobi Nakanishi</name>
+    <role>Deputy Ishida</role>
+    <type>Actor</type>
+    <tmdbid>3241242</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Bremer</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>3891597</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Montenegro</name>
+    <role>Lydia's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3891599</tmdbid>
+  </actor>
+  <actor>
+    <name>L.B. Fisher</name>
+    <role>Coach Hogan</role>
+    <type>Actor</type>
+    <tmdbid>156013</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Flowers</name>
+    <role>Girl in Porsche</role>
+    <type>Actor</type>
+    <tmdbid>3891605</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Douglas</name>
+    <role>Beacon Hills Player #33</role>
+    <type>Actor</type>
+    <tmdbid>1600735</tmdbid>
+  </actor>
+  <director tmdbid="52968" imdbid="nm0611683">Russell Mulcahy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=okJGAJJI5vk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3NbHKvuvI5A</trailer>
+  <rating>5.6</rating>
+  <year>2023</year>
+  <sorttitle>Teen Wolf: La pelicula</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15486810</imdbid>
+  <tmdbid>877703</tmdbid>
+  <premiered>2023-01-18</premiered>
+  <releasedate>2023-01-18</releasedate>
+  <criticrating>32</criticrating>
+  <runtime>140</runtime>
+  <tagline>La manada ha vuelto.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Fantasía</genre>
+  <genre>Película de TV</genre>
+  <studio>MTV Entertainment Studios</studio>
+  <studio>MGM Television</studio>
+  <studio>First Cause</studio>
+  <studio>Capital Arts Entertainment</studio>
+  <uniqueid type="tmdb">877703</uniqueid>
+  <uniqueid type="imdb">tt15486810</uniqueid>
+  <id>tt15486810</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>896210</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>140</duration>
+        <durationinseconds>8402</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

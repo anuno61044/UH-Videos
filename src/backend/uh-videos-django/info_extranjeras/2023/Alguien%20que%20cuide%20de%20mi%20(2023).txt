@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nora es una joven actriz con un futuro prometedor, los dos pilares de su vida: su abuela Magüi y su madre Cecilia tuvieron grandes carreras en el mundo del espectáculo. Pero Nora descubre que su madre guarda un secreto que la ha marcado de por vida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-19 10:06:01</dateadded>
+  <title>Alguien que cuide de mí</title>
+  <originaltitle>Alguien que cuide de mí</originaltitle>
+  <actor>
+    <name>Aura Garrido</name>
+    <type>Actor</type>
+    <tmdbid>566544</tmdbid>
+    <imdbid>nm3467663</imdbid>
+    <tvdbid>508897</tvdbid>
+  </actor>
+  <actor>
+    <name>Emma Suárez</name>
+    <type>Actor</type>
+    <tmdbid>24974</tmdbid>
+    <imdbid>nm0840772</imdbid>
+  </actor>
+  <actor>
+    <name>Magüi Mira</name>
+    <type>Actor</type>
+    <tmdbid>1160748</tmdbid>
+    <imdbid>nm0591942</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Mari Sánchez</name>
+    <type>Actor</type>
+    <tmdbid>587098</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesc Garrido</name>
+    <type>Actor</type>
+    <tmdbid>1033064</tmdbid>
+    <imdbid>nm0308289</imdbid>
+    <tvdbid>513280</tvdbid>
+  </actor>
+  <actor>
+    <name>Víctor Clavijo</name>
+    <type>Actor</type>
+    <tmdbid>932050</tmdbid>
+    <imdbid>nm0165455</imdbid>
+  </actor>
+  <actor>
+    <name>María Isabel Díaz Lago</name>
+    <type>Actor</type>
+    <tmdbid>4364</tmdbid>
+    <imdbid>nm0246681</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Olalla</name>
+    <type>Actor</type>
+    <tmdbid>1065175</tmdbid>
+    <imdbid>nm2257077</imdbid>
+  </actor>
+  <director tmdbid="130987">Daniela Féjerman</director>
+  <director tmdbid="278087">Elvira Lindo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xleeCUwTstk</trailer>
+  <rating>7.5</rating>
+  <year>2023</year>
+  <sorttitle>Alguien que cuide de mi</sorttitle>
+  <imdbid>tt19382276</imdbid>
+  <tmdbid>1096512</tmdbid>
+  <premiered>2023-04-28</premiered>
+  <releasedate>2023-04-28</releasedate>
+  <runtime>98</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Tornasol Films</studio>
+  <uniqueid type="imdb">tt19382276</uniqueid>
+  <uniqueid type="tmdb">1096512</uniqueid>
+  <id>tt19382276</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>210502</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5860</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

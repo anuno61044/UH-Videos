@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mientras se hospedan en un resort aislado en una isla, James y Em disfrutan de unas vacaciones perfectas en playas vírgenes, un personal excepcional y tomando el sol. Pero guiados por la seductora y misteriosa Gabi, se aventuran fuera de los terrenos del resort y se encuentran en una cultura llena de violencia, hedonismo y horror indescriptible.]]></plot>
+  <outline><![CDATA[Averigua qué clase de criatura eres en realidad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-15 10:02:47</dateadded>
+  <title>Piscina infinita</title>
+  <originaltitle>Infinity Pool</originaltitle>
+  <actor>
+    <name>Alexander Skarsgård</name>
+    <role>James Foster</role>
+    <type>Actor</type>
+    <tmdbid>28846</tmdbid>
+    <imdbid>nm0002907</imdbid>
+    <tvdbid>331154</tvdbid>
+  </actor>
+  <actor>
+    <name>Mia Goth</name>
+    <role>Gabi Bauer</role>
+    <type>Actor</type>
+    <tmdbid>1137824</tmdbid>
+    <imdbid>nm5301405</imdbid>
+  </actor>
+  <actor>
+    <name>Cleopatra Coleman</name>
+    <role>Em Foster</role>
+    <type>Actor</type>
+    <tmdbid>217055</tmdbid>
+    <imdbid>nm1671147</imdbid>
+    <tvdbid>304494</tvdbid>
+  </actor>
+  <actor>
+    <name>Jalil Lespert</name>
+    <role>Alban Bauer</role>
+    <type>Actor</type>
+    <tmdbid>72327</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Jennifer</role>
+    <type>Actor</type>
+    <tmdbid>1232769</tmdbid>
+  </actor>
+  <actor>
+    <name>John Ralston</name>
+    <role>Dr. Modan</role>
+    <type>Actor</type>
+    <tmdbid>33343</tmdbid>
+    <imdbid>nm0707816</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Ricketts</name>
+    <role>Charles</role>
+    <type>Actor</type>
+    <tmdbid>149640</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Boulton</name>
+    <role>Bex</role>
+    <type>Actor</type>
+    <tmdbid>1358318</tmdbid>
+    <imdbid>nm1646092</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kretschmann</name>
+    <role>Thresh</role>
+    <type>Actor</type>
+    <tmdbid>3491</tmdbid>
+    <imdbid>nm0470981</imdbid>
+  </actor>
+  <actor>
+    <name>Roderick Hill</name>
+    <role>Angry Guest</role>
+    <type>Actor</type>
+    <tmdbid>2503031</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Boncz</name>
+    <role>Ketch</role>
+    <type>Actor</type>
+    <tmdbid>1116027</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Katić</name>
+    <role>State Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1383580</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Tóth</name>
+    <role>Woman in blue dress</role>
+    <type>Actor</type>
+    <tmdbid>3529502</tmdbid>
+  </actor>
+  <actor>
+    <name>Dunja Sepčić Bogner</name>
+    <role>Anna the Cleaning Woman</role>
+    <type>Actor</type>
+    <tmdbid>1391279</tmdbid>
+  </actor>
+  <actor>
+    <name>Zijad Gračić</name>
+    <role>Dro Thresh</role>
+    <type>Actor</type>
+    <tmdbid>1831011</tmdbid>
+  </actor>
+  <actor>
+    <name>Amar Bukvić</name>
+    <role>Resort Cop</role>
+    <type>Actor</type>
+    <tmdbid>569918</tmdbid>
+  </actor>
+  <actor>
+    <name>Katalin Lábán</name>
+    <role>Head Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1161081</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamilla Fátyol</name>
+    <role>Myro Myron's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1439028</tmdbid>
+  </actor>
+  <actor>
+    <name>Lena Juka Stambuk</name>
+    <role>Myro Myron's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>3925596</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristóf Kovács</name>
+    <role>Myro Myron's Son</role>
+    <type>Actor</type>
+    <tmdbid>2592677</tmdbid>
+  </actor>
+  <actor>
+    <name>Romina Tonković</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2139178</tmdbid>
+  </actor>
+  <actor>
+    <name>Hajnalka Zsigár</name>
+    <role>Maid</role>
+    <type>Actor</type>
+    <tmdbid>3485924</tmdbid>
+  </actor>
+  <actor>
+    <name>Anita Major</name>
+    <role>Mistress</role>
+    <type>Actor</type>
+    <tmdbid>3925598</tmdbid>
+  </actor>
+  <actor>
+    <name>Gergely Trócsányi</name>
+    <role>Owner</role>
+    <type>Actor</type>
+    <tmdbid>2294245</tmdbid>
+  </actor>
+  <actor>
+    <name>Géza Kovács</name>
+    <role>Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>1081827</tmdbid>
+  </actor>
+  <director tmdbid="1081445" imdbid="nm0188722">Brandon Cronenberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PVnIMvVEkrA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W5mfHz-5dx8</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Piscina infinita</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10365998</imdbid>
+  <tmdbid>667216</tmdbid>
+  <premiered>2023-01-27</premiered>
+  <releasedate>2023-01-27</releasedate>
+  <runtime>117</runtime>
+  <tagline>Averigua qué clase de criatura eres en realidad.</tagline>
+  <country>Canada</country>
+  <country>France</country>
+  <country>Hungary</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Topic Studios</studio>
+  <studio>Elevation Pictures</studio>
+  <studio>Film Forge Productions</studio>
+  <studio>Hero Squared</studio>
+  <studio>Celluloid Dreams</studio>
+  <studio>NEON</studio>
+  <studio>Téléfilm Canada</studio>
+  <studio>Eurimages</studio>
+  <uniqueid type="tmdb">667216</uniqueid>
+  <uniqueid type="imdb">tt10365998</uniqueid>
+  <id>tt10365998</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>949963</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7041</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

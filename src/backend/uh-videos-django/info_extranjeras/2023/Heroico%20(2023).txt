@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Luis, adolescente de origen nativo americano, se inscribe en un colegio militar en busca de un futuro mejor. Sus nuevos compañeros y él se ven sometidos a un sistema jerárquico brutal, en el que los alumnos veteranos humillan a los recién llegados.]]></plot>
+  <outline><![CDATA[Aquí no hay derechos, ni siquiera los humanos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-16 19:11:40</dateadded>
+  <title>Heroico</title>
+  <originaltitle>Heroico</originaltitle>
+  <actor>
+    <name>Santiago Sandoval</name>
+    <role>Luis Núñez Rosales</role>
+    <type>Actor</type>
+    <tmdbid>3491797</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cuautle</name>
+    <role>Eugenio Sierra</role>
+    <type>Actor</type>
+    <tmdbid>2732919</tmdbid>
+  </actor>
+  <actor>
+    <name>Mónica del Carmen</name>
+    <role>Yanin</role>
+    <type>Actor</type>
+    <tmdbid>1376187</tmdbid>
+    <imdbid>nm2415604</imdbid>
+  </actor>
+  <actor>
+    <name>Esteban Caicedo</name>
+    <role>Mario</role>
+    <type>Actor</type>
+    <tmdbid>2451959</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Yudice</name>
+    <role>Andrea</role>
+    <type>Actor</type>
+    <tmdbid>3886433</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Gerardo García</name>
+    <role>Ratón</role>
+    <type>Actor</type>
+    <tmdbid>3105709</tmdbid>
+  </actor>
+  <actor>
+    <name>Germán Carrizales</name>
+    <role>Herrera</role>
+    <type>Actor</type>
+    <tmdbid>4434310</tmdbid>
+  </actor>
+  <actor>
+    <name>Salvador Rico</name>
+    <role>Uribe</role>
+    <type>Actor</type>
+    <tmdbid>4434311</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Tadeo</name>
+    <role>Arturo</role>
+    <type>Actor</type>
+    <tmdbid>4434312</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Axel Hernández</name>
+    <role>Carrasco</role>
+    <type>Actor</type>
+    <tmdbid>4434313</tmdbid>
+  </actor>
+  <actor>
+    <name>Norma Pablo</name>
+    <role>Madre de Mario</role>
+    <type>Actor</type>
+    <tmdbid>1211042</tmdbid>
+    <imdbid>nm1580036</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Vidal</name>
+    <role>General Arriaga</role>
+    <type>Actor</type>
+    <tmdbid>4205132</tmdbid>
+  </actor>
+  <director tmdbid="1533424">David Zonana</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=afXiHNTAXdM</trailer>
+  <rating>7.2</rating>
+  <year>2023</year>
+  <sorttitle>Heroico</sorttitle>
+  <imdbid>tt24079846</imdbid>
+  <tmdbid>958182</tmdbid>
+  <premiered>2023-09-21</premiered>
+  <releasedate>2023-09-21</releasedate>
+  <runtime>88</runtime>
+  <tagline>Aquí no hay derechos, ni siquiera los humanos.</tagline>
+  <country>Mexico</country>
+  <country>Sweden</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Film i Väst</studio>
+  <studio>Common Ground Pictures</studio>
+  <studio>TEOREMA</studio>
+  <studio>Filmadora</studio>
+  <studio>CTT Exp &amp; Rentals</studio>
+  <uniqueid type="imdb">tt24079846</uniqueid>
+  <uniqueid type="tmdb">958182</uniqueid>
+  <id>tt24079846</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>254259</bitrate>
+        <width>640</width>
+        <height>344</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5308</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63823</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

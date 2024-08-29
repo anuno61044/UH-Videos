@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Seiya, un testarudo adolescente callejero, se pasa el tiempo luchando por dinero mientras busca a su hermana secuestrada. Cuando en una de sus peleas se le revelan poderes místicos que desconocía, Seiya se ve inmerso en un mundo de santos en guerra, antiguos entrenamientos mágicos y una diosa reencarnada que necesita su protección.]]></plot>
+  <outline><![CDATA[Ve más allá de tu destino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-30 09:42:35</dateadded>
+  <title>Los Caballeros del Zodíaco</title>
+  <originaltitle>Knights of the Zodiac</originaltitle>
+  <actor>
+    <name>Mackenyu</name>
+    <role>Seiya / The Pegasus Knight</role>
+    <type>Actor</type>
+    <tmdbid>1566805</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison Iseman</name>
+    <role>Sienna / Athena</role>
+    <type>Actor</type>
+    <tmdbid>1597855</tmdbid>
+    <imdbid>nm5589690</imdbid>
+    <tvdbid>555074</tvdbid>
+  </actor>
+  <actor>
+    <name>Diego Tinoco</name>
+    <role>Nero / The Pheonix Knight</role>
+    <type>Actor</type>
+    <tmdbid>1969510</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Dacascos</name>
+    <role>Mylock</role>
+    <type>Actor</type>
+    <tmdbid>18702</tmdbid>
+    <imdbid>nm0001092</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Stahl</name>
+    <role>Cassios</role>
+    <type>Actor</type>
+    <tmdbid>6408</tmdbid>
+    <imdbid>nm0001763</imdbid>
+    <tvdbid>279100</tvdbid>
+  </actor>
+  <actor>
+    <name>Famke Janssen</name>
+    <role>Guraad</role>
+    <type>Actor</type>
+    <tmdbid>10696</tmdbid>
+    <imdbid>nm0000463</imdbid>
+    <tvdbid>310435</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Bean</name>
+    <role>Alman Kido</role>
+    <type>Actor</type>
+    <tmdbid>48</tmdbid>
+    <imdbid>nm0000293</imdbid>
+    <tvdbid>247858</tvdbid>
+  </actor>
+  <actor>
+    <name>Caitlin M Hutson</name>
+    <role>Marin / The Eagle Knight</role>
+    <type>Actor</type>
+    <tmdbid>3310573</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Moy</name>
+    <role>Marin / The Eagle Knight (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>4147784</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaylan Teague</name>
+    <role>Patricia</role>
+    <type>Actor</type>
+    <tmdbid>3064611</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryusei Iwata</name>
+    <role>Young Seiya</role>
+    <type>Actor</type>
+    <tmdbid>4058270</tmdbid>
+  </actor>
+  <actor>
+    <name>T. J. Storm</name>
+    <role>Docrates</role>
+    <type>Actor</type>
+    <tmdbid>60656</tmdbid>
+    <imdbid>nm0832622</imdbid>
+  </actor>
+  <actor>
+    <name>David Torok</name>
+    <role>Jaki the Beast</role>
+    <type>Actor</type>
+    <tmdbid>1102425</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Williams</name>
+    <role>Ring Announcer</role>
+    <type>Actor</type>
+    <tmdbid>176762</tmdbid>
+    <imdbid>nm0931822</imdbid>
+  </actor>
+  <actor>
+    <name>Zoltán Durkó</name>
+    <role>Referee</role>
+    <type>Actor</type>
+    <tmdbid>2029106</tmdbid>
+  </actor>
+  <director tmdbid="80577">Tomek Baginski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M_SBjSWBAs4</trailer>
+  <rating>4.4</rating>
+  <year>2023</year>
+  <sorttitle>Los Caballeros del Zodiaco</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6528290</imdbid>
+  <tmdbid>455476</tmdbid>
+  <premiered>2023-04-27</premiered>
+  <releasedate>2023-04-27</releasedate>
+  <runtime>113</runtime>
+  <tagline>Ve más allá de tu destino.</tagline>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Stage 6 Films</studio>
+  <studio>Toei Animation</studio>
+  <studio>Convergence Entertainment</studio>
+  <uniqueid type="imdb">tt6528290</uniqueid>
+  <uniqueid type="tmdb">455476</uniqueid>
+  <id>tt6528290</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>988299</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6766</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Carla Nowak, una idealista profesora de matemáticas y deportes, comienza su primer trabajo en una escuela de secundaria. Cuando se producen una serie de robos en la escuela y se sospecha de uno de sus alumnos, decide llegar al fondo del asunto por su cuenta. Carla intenta mediar entre padres indignados, colegas obstinados y estudiantes agresivos, pero se enfrenta a las implacables estructuras del sistema escolar.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-25 17:10:36</dateadded>
+  <title>Sala de profesores</title>
+  <originaltitle>Das Lehrerzimmer</originaltitle>
+  <actor>
+    <name>Leonie Benesch</name>
+    <role>Carla Nowak</role>
+    <type>Actor</type>
+    <tmdbid>119065</tmdbid>
+    <imdbid>nm2914059</imdbid>
+    <tvdbid>492578</tvdbid>
+  </actor>
+  <actor>
+    <name>Leonard Stettnisch</name>
+    <role>Oskar</role>
+    <type>Actor</type>
+    <tmdbid>3928486</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Löbau</name>
+    <role>Friederike Kuhn</role>
+    <type>Actor</type>
+    <tmdbid>7161</tmdbid>
+    <imdbid>nm1031014</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Klammer</name>
+    <role>Thomas Liebenwerda</role>
+    <type>Actor</type>
+    <tmdbid>1366985</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafael Stachowiak</name>
+    <role>Milosz Dudek</role>
+    <type>Actor</type>
+    <tmdbid>1062762</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Bauerett</name>
+    <role>Vanessa König</role>
+    <type>Actor</type>
+    <tmdbid>1800858</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathrin Wehlisch</name>
+    <role>Lore Semnik</role>
+    <type>Actor</type>
+    <tmdbid>1317694</tmdbid>
+    <imdbid>nm3073812</imdbid>
+  </actor>
+  <actor>
+    <name>Anne-Kathrin Gummich</name>
+    <role>Dr. Bettina Böhm</role>
+    <type>Actor</type>
+    <tmdbid>1169516</tmdbid>
+    <imdbid>nm1178556</imdbid>
+  </actor>
+  <actor>
+    <name>Katharina M. Schubert</name>
+    <role>Mrs. Haubrichs</role>
+    <type>Actor</type>
+    <tmdbid>18947</tmdbid>
+  </actor>
+  <actor>
+    <name>Uygar Tamer</name>
+    <role>Mrs. Yılmaz</role>
+    <type>Actor</type>
+    <tmdbid>1829861</tmdbid>
+  </actor>
+  <actor>
+    <name>Özgur Karadeniz</name>
+    <role>Mr. Yılmaz</role>
+    <type>Actor</type>
+    <tvdbid>7892578</tvdbid>
+    <tmdbid>239280</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Porath</name>
+    <role>Mr. Nauhaus</role>
+    <type>Actor</type>
+    <tmdbid>1624054</tmdbid>
+  </actor>
+  <actor>
+    <name>Kersten Reimann</name>
+    <role>Mr. Stahlmann</role>
+    <type>Actor</type>
+    <tmdbid>3257941</tmdbid>
+  </actor>
+  <actor>
+    <name>Katinka Auberger</name>
+    <role>Maren Firouza</role>
+    <type>Actor</type>
+    <tmdbid>70461</tmdbid>
+  </actor>
+  <actor>
+    <name>Canan Samadi</name>
+    <role>Mariam Irfan</role>
+    <type>Actor</type>
+    <tmdbid>2826211</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Bishop</name>
+    <role>Tim Boyle</role>
+    <type>Actor</type>
+    <tmdbid>4428680</tmdbid>
+  </actor>
+  <actor>
+    <name>Henriette Sievers</name>
+    <role>Teacher with Coffee</role>
+    <type>Actor</type>
+    <tmdbid>4428677</tmdbid>
+  </actor>
+  <actor>
+    <name>Johanna Götting</name>
+    <role>Krissi</role>
+    <type>Actor</type>
+    <tmdbid>4428871</tmdbid>
+  </actor>
+  <actor>
+    <name>Jade Nadarajah</name>
+    <role>Mitra</role>
+    <type>Actor</type>
+    <tmdbid>4428872</tmdbid>
+  </actor>
+  <actor>
+    <name>Goya Rego</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>3116783</tmdbid>
+  </actor>
+  <actor>
+    <name>Yaw Boah-Amponsem</name>
+    <role>Yaw</role>
+    <type>Actor</type>
+    <tmdbid>2393145</tmdbid>
+  </actor>
+  <actor>
+    <name>Oskar Zickur</name>
+    <role>Lukas</role>
+    <type>Actor</type>
+    <tmdbid>4428720</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonia Luise Krämer</name>
+    <role>Jenny</role>
+    <type>Actor</type>
+    <tmdbid>2927912</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Krieger</name>
+    <role>Hatice</role>
+    <type>Actor</type>
+    <tmdbid>4428735</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Stachowiak</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>2813826</tmdbid>
+  </actor>
+  <actor>
+    <name>Can Rodenbostel</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>4428789</tmdbid>
+  </actor>
+  <actor>
+    <name>Padmé Hamdemir</name>
+    <role>Jieun</role>
+    <type>Actor</type>
+    <tmdbid>3116784</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Marie Trense</name>
+    <role>Luise</role>
+    <type>Actor</type>
+    <tmdbid>1916396</tmdbid>
+  </actor>
+  <actor>
+    <name>Lotta Wriedt</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>4314313</tmdbid>
+  </actor>
+  <actor>
+    <name>Nelson Pres</name>
+    <role>Nelson</role>
+    <type>Actor</type>
+    <tmdbid>4428451</tmdbid>
+  </actor>
+  <actor>
+    <name>Josefine Jahn</name>
+    <role>Josefine</role>
+    <type>Actor</type>
+    <tmdbid>4428818</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewe Wagner</name>
+    <role>Markus</role>
+    <type>Actor</type>
+    <tmdbid>3594826</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikail Osanmaz</name>
+    <role>Mikail</role>
+    <type>Actor</type>
+    <tmdbid>4428841</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruben Kupisch</name>
+    <role>Ruben</role>
+    <type>Actor</type>
+    <tmdbid>4428842</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Phu</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>4428844</tmdbid>
+  </actor>
+  <actor>
+    <name>Klara Lindner-Figura</name>
+    <role>Klara</role>
+    <type>Actor</type>
+    <tmdbid>4428846</tmdbid>
+  </actor>
+  <actor>
+    <name>Enno Hoppe</name>
+    <role>Enno</role>
+    <type>Actor</type>
+    <tmdbid>4428851</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby L. Kauka</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>4428853</tmdbid>
+  </actor>
+  <actor>
+    <name>Solomon Röthig</name>
+    <role>Solomon</role>
+    <type>Actor</type>
+    <tmdbid>4428856</tmdbid>
+  </actor>
+  <actor>
+    <name>Zayana Mielke</name>
+    <role>Zayana</role>
+    <type>Actor</type>
+    <tmdbid>4428859</tmdbid>
+  </actor>
+  <actor>
+    <name>Phileas Spallek</name>
+    <role>Phileas</role>
+    <type>Actor</type>
+    <tmdbid>4428863</tmdbid>
+  </actor>
+  <actor>
+    <name>Ela Eroğlu</name>
+    <role>Ela</role>
+    <type>Actor</type>
+    <tmdbid>4428868</tmdbid>
+  </actor>
+  <director tmdbid="1584382">İlker Çatak</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6YgQBGqhTcM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kbUaACY8wRQ</trailer>
+  <rating>7.5</rating>
+  <year>2023</year>
+  <sorttitle>Sala de profesores</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt26612950</imdbid>
+  <tmdbid>998022</tmdbid>
+  <premiered>2023-05-04</premiered>
+  <releasedate>2023-05-04</releasedate>
+  <runtime>99</runtime>
+  <country>Germany</country>
+  <genre>Drama</genre>
+  <studio>if... Productions</studio>
+  <studio>ZDF</studio>
+  <studio>ARTE</studio>
+  <studio>Deutscher Filmförderfonds</studio>
+  <studio>MOIN Filmförderung Hamburg Schleswig-Holstein</studio>
+  <studio>Die Beauftragte der Bundesregierung für Kultur und Medien</studio>
+  <uniqueid type="tmdb">998022</uniqueid>
+  <uniqueid type="imdb">tt26612950</uniqueid>
+  <id>tt26612950</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149715</bitrate>
+        <width>1280</width>
+        <height>960</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5913</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130085</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

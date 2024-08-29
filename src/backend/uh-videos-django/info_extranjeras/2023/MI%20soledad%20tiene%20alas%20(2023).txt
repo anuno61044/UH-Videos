@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un barrio humilde a las afueras de Barcelona, Dan y sus dos amigos, Vio y Reno, viven sin pensar en el mañana, entre fiestas y dando palos a joyerías. Detrás de su apariencia de pequeño delincuente, Dan esconde un artista con talento, y una sensibilidad distinta al mundo que le rodea. La reaparición de su padre, tras salir de la cárcel, despierta los viejos demonios de Dan, sumergiéndolo en una espiral de violencia que le obliga a huir y pone a prueba la amistad entre los tres amigos. Empieza un viaje de descubrimiento sin retorno para Dan y Vio, donde tienen que dejar atrás los niños que fueron, cambiando sus vidas para siempre. ¿Podrán escapar de su destino por amor?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-20 10:33:31</dateadded>
+  <title>Mi soledad tiene alas</title>
+  <originaltitle>Mi soledad tiene alas</originaltitle>
+  <actor>
+    <name>Óscar Casas</name>
+    <role>Dan</role>
+    <type>Actor</type>
+    <tmdbid>51943</tmdbid>
+    <imdbid>nm2027428</imdbid>
+    <tvdbid>301081</tvdbid>
+  </actor>
+  <actor>
+    <name>Candela González</name>
+    <role>Vio</role>
+    <type>Actor</type>
+    <tmdbid>4034051</tmdbid>
+  </actor>
+  <actor>
+    <name>Farid Bechara</name>
+    <role>Reno</role>
+    <type>Actor</type>
+    <tmdbid>4034053</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Boira</name>
+    <type>Actor</type>
+    <tmdbid>1606</tmdbid>
+    <imdbid>nm0092286</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Bayarri</name>
+    <type>Actor</type>
+    <tmdbid>229767</tmdbid>
+  </actor>
+  <director tmdbid="82700" imdbid="nm1832584">Mario Casas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xiDiiDCpB6s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qRSUUcxXRdE</trailer>
+  <rating>5.6</rating>
+  <year>2023</year>
+  <sorttitle>Mi soledad tiene alas</sorttitle>
+  <imdbid>tt21964260</imdbid>
+  <tmdbid>1119355</tmdbid>
+  <premiered>2023-08-25</premiered>
+  <releasedate>2023-08-25</releasedate>
+  <runtime>102</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Nostromo Pictures</studio>
+  <uniqueid type="imdb">tt21964260</uniqueid>
+  <uniqueid type="tmdb">1119355</uniqueid>
+  <id>tt21964260</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1081759</bitrate>
+        <width>1440</width>
+        <height>720</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6148</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64652</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

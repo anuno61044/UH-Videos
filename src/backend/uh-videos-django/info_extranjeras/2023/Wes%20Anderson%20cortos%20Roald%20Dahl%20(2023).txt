@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando una serpiente venenosa se desliza por el estómago de un inglés en la India, su socio y un médico corren para salvarle.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-01 16:14:31</dateadded>
+  <title>Veneno</title>
+  <originaltitle>Poison</originaltitle>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Harry Pope</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+    <tvdbid>292578</tvdbid>
+  </actor>
+  <actor>
+    <name>Dev Patel</name>
+    <role>Supervisor Woods</role>
+    <type>Actor</type>
+    <tmdbid>76788</tmdbid>
+    <imdbid>nm2353862</imdbid>
+    <tvdbid>303267</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Kingsley</name>
+    <role>Dr. Ganderbai</role>
+    <type>Actor</type>
+    <tmdbid>2282</tmdbid>
+    <imdbid>nm0001426</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Fiennes</name>
+    <role>Roald Dahl</role>
+    <type>Actor</type>
+    <tmdbid>5469</tmdbid>
+    <imdbid>nm0000146</imdbid>
+  </actor>
+  <actor>
+    <name>Eliel Ford</name>
+    <role>Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>1678901</tmdbid>
+  </actor>
+  <actor>
+    <name>Benoît Herlin</name>
+    <role>Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>1895733</tmdbid>
+  </actor>
+  <director tmdbid="5655" imdbid="nm0027572">Wes Anderson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FZVWaqKt81g</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Veneno</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt28912885</imdbid>
+  <tmdbid>1172676</tmdbid>
+  <premiered>2023-09-30</premiered>
+  <releasedate>2023-09-30</releasedate>
+  <runtime>18</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>American Empirical Pictures</studio>
+  <studio>Indian Paintbrush</studio>
+  <uniqueid type="imdb">tt28912885</uniqueid>
+  <uniqueid type="tmdb">1172676</uniqueid>
+  <id>tt28912885</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>653638</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>17</duration>
+        <durationinseconds>1071</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

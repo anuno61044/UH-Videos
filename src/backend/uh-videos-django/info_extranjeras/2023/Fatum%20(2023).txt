@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sergio tiene graves problemas con el juego. Tras jurar a su esposa que no volvería a caer, recibe un soplo sobre un supuesto amaño de un partido de futbol e, incapaz de cumplir su promesa, regresa a la casa de apuestas con la intención de recuperar todo el dinero perdido. El soplo resulta ser cierto y por fin su suerte va a cambiar… pero Alejo con un pasado salpicado también por el juego irrumpe armado en el local. Pablo francotirador del GEO, es presionado por la comisaria Costa para prestar servicio en el atraco. Pero la cabeza del GEO está en otro sitio, en el hospital, donde la vida de su hijo pende de un hilo. El destino hace que Sergio y Pablo se vean envueltos en un atraco a una casa de apuestas, donde un disparo cambiará sus vidas para siempre.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-24 20:23:38</dateadded>
+  <title>Fatum</title>
+  <originaltitle>Fatum</originaltitle>
+  <actor>
+    <name>Luis Tosar</name>
+    <role>Sergio</role>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Elena Anaya</name>
+    <role>Costa</role>
+    <type>Actor</type>
+    <tmdbid>3623</tmdbid>
+    <imdbid>nm0025745</imdbid>
+    <tvdbid>8151678</tvdbid>
+  </actor>
+  <actor>
+    <name>Álex García</name>
+    <role>Pablo</role>
+    <type>Actor</type>
+    <tmdbid>1063319</tmdbid>
+    <imdbid>nm1073929</imdbid>
+    <tvdbid>7876693</tvdbid>
+  </actor>
+  <actor>
+    <name>Arón Piper</name>
+    <role>Alejo</role>
+    <type>Actor</type>
+    <tmdbid>1162998</tmdbid>
+    <imdbid>nm1422693</imdbid>
+    <tvdbid>301002</tvdbid>
+  </actor>
+  <actor>
+    <name>María Luisa Mayol</name>
+    <role>Lidia</role>
+    <type>Actor</type>
+    <tmdbid>2214168</tmdbid>
+    <imdbid>nm4249162</imdbid>
+  </actor>
+  <actor>
+    <name>Pepa Gracia</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>1666681</tmdbid>
+    <imdbid>nm3698796</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Álvarez</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>4223230</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Quiza</name>
+    <role>Laurita</role>
+    <type>Actor</type>
+    <tmdbid>4223231</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek León</name>
+    <role>Roi</role>
+    <type>Actor</type>
+    <tmdbid>4223232</tmdbid>
+  </actor>
+  <actor>
+    <name>Xabier Deive</name>
+    <role>Novoa</role>
+    <type>Actor</type>
+    <tmdbid>1382608</tmdbid>
+    <imdbid>nm1845498</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Morado</name>
+    <role>Torres</role>
+    <type>Actor</type>
+    <tmdbid>1570028</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Naveira</name>
+    <role>Alejandra</role>
+    <type>Actor</type>
+    <tmdbid>2085436</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo de Barreiro</name>
+    <role>Juanjo</role>
+    <type>Actor</type>
+    <tmdbid>544718</tmdbid>
+    <imdbid>nm1239263</imdbid>
+  </actor>
+  <actor>
+    <name>Miquel Insúa</name>
+    <role>Jefe</role>
+    <type>Actor</type>
+    <tmdbid>1618331</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Estévez</name>
+    <role>Coordinador</role>
+    <type>Actor</type>
+    <tmdbid>138710</tmdbid>
+    <imdbid>nm1172031</imdbid>
+  </actor>
+  <director tmdbid="1430334">Juan Galiñanes</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6TZeSpR9YlQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HFvkmuuxSw8</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Fatum</sorttitle>
+  <imdbid>tt20215670</imdbid>
+  <tmdbid>1053587</tmdbid>
+  <premiered>2023-04-12</premiered>
+  <releasedate>2023-04-12</releasedate>
+  <runtime>87</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Vaca Films</studio>
+  <studio>Playtime</studio>
+  <uniqueid type="imdb">tt20215670</uniqueid>
+  <uniqueid type="tmdb">1053587</uniqueid>
+  <id>tt20215670</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1082368</bitrate>
+        <width>1612</width>
+        <height>720</height>
+        <aspect>320:143</aspect>
+        <aspectratio>320:143</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5246</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64554</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

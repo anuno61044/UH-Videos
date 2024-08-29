@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Manuela y Rosario son dos hermanas que, tras años sin hablarse a causa de un secreto familiar, se reencuentran inesperadamente en el cumpleaños de sus nietos. Los niños se han conocido gracias a sus cuidadoras, Trini y Milagros, amigas inseparables, vecinas de toda la vida y limpiadoras. Cuando descubren la situación familiar intentarán con mucho amor, torpeza y un poco de disparate, reconciliar a las dos familias.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-28 12:57:43</dateadded>
+  <title>Los buenos modales</title>
+  <originaltitle>Los buenos modales</originaltitle>
+  <actor>
+    <name>Gloria Muñoz</name>
+    <type>Actor</type>
+    <tmdbid>36282</tmdbid>
+    <imdbid>nm0616414</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Irureta</name>
+    <type>Actor</type>
+    <tmdbid>16980</tmdbid>
+    <imdbid>nm0410118</imdbid>
+    <tvdbid>596132</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmen Flores</name>
+    <type>Actor</type>
+    <tmdbid>1179690</tmdbid>
+    <imdbid>nm0282783</imdbid>
+  </actor>
+  <actor>
+    <name>Pepa Aniorte</name>
+    <type>Actor</type>
+    <tmdbid>4374</tmdbid>
+    <imdbid>nm1967584</imdbid>
+    <tvdbid>460986</tvdbid>
+  </actor>
+  <actor>
+    <name>Bárbara Santa-Cruz</name>
+    <type>Actor</type>
+    <tmdbid>1168829</tmdbid>
+    <imdbid>nm2088248</imdbid>
+  </actor>
+  <actor>
+    <name>Inma Cuesta</name>
+    <type>Actor</type>
+    <tmdbid>224728</tmdbid>
+    <imdbid>nm2285844</imdbid>
+    <tvdbid>7925499</tvdbid>
+  </actor>
+  <director tmdbid="2020209">Marta Díaz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EdEC2AUXRpY</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Los buenos modales</sorttitle>
+  <imdbid>tt13290130</imdbid>
+  <tmdbid>800104</tmdbid>
+  <premiered>2023-04-28</premiered>
+  <releasedate>2023-04-28</releasedate>
+  <runtime>91</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Escándalo Films</studio>
+  <studio>Atresmedia</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt13290130</uniqueid>
+  <uniqueid type="tmdb">800104</uniqueid>
+  <id>tt13290130</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1061003</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.94542</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5456</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64476</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

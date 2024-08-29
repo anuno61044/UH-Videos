@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Drama deportivo que cuenta la historia del entrenador holandés Thomas Rongen, artífice de realizar una tarea prácticamente imposible en el deporte: tomó las riendas del equipo de fútbol de la Samoa Americana y trató de hacer de un grupo de perdedores unos ganadores natos.]]></plot>
+  <outline><![CDATA[Sé feliz.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-17 09:01:46</dateadded>
+  <title>El peor equipo del mundo (Next Goal Wins)</title>
+  <originaltitle>Next Goal Wins</originaltitle>
+  <actor>
+    <name>Michael Fassbender</name>
+    <role>Thomas Rongen</role>
+    <type>Actor</type>
+    <tmdbid>17288</tmdbid>
+    <imdbid>nm1055413</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Kightley</name>
+    <role>Tavita</role>
+    <type>Actor</type>
+    <tmdbid>89843</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaimana</name>
+    <role>Jaiyah Saelua</role>
+    <type>Actor</type>
+    <tmdbid>2458277</tmdbid>
+  </actor>
+  <actor>
+    <name>David Fane</name>
+    <role>Ace</role>
+    <type>Actor</type>
+    <tmdbid>55937</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel House</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>15298</tmdbid>
+    <imdbid>nm1344302</imdbid>
+  </actor>
+  <actor>
+    <name>Beulah Koale</name>
+    <role>Daru</role>
+    <type>Actor</type>
+    <tmdbid>1397346</tmdbid>
+    <imdbid>nm3872230</imdbid>
+    <tvdbid>512660</tvdbid>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>American Samoan Priest</role>
+    <type>Actor</type>
+    <tmdbid>55934</tmdbid>
+    <imdbid>nm0169806</imdbid>
+    <tvdbid>490689</tvdbid>
+  </actor>
+  <actor>
+    <name>Will Arnett</name>
+    <role>Alex Magnussen</role>
+    <type>Actor</type>
+    <tmdbid>21200</tmdbid>
+    <imdbid>nm0004715</imdbid>
+    <tvdbid>255118</tvdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>Gail</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+    <imdbid>nm0005253</imdbid>
+    <tvdbid>311051</tvdbid>
+  </actor>
+  <actor>
+    <name>Uli Latukefu</name>
+    <role>Nicky Salapu</role>
+    <type>Actor</type>
+    <tmdbid>1384511</tmdbid>
+    <imdbid>nm5937328</imdbid>
+  </actor>
+  <actor>
+    <name>Sisa Grey</name>
+    <role>Convenient Store Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1939531</tmdbid>
+  </actor>
+  <actor>
+    <name>Semu Filipo</name>
+    <role>Rambo</role>
+    <type>Actor</type>
+    <tmdbid>2458276</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Alosio</name>
+    <role>Jonah</role>
+    <type>Actor</type>
+    <tmdbid>2467788</tmdbid>
+  </actor>
+  <actor>
+    <name>Lehi Makisi Falepapalangi</name>
+    <role>Pisa</role>
+    <type>Actor</type>
+    <tmdbid>2458275</tmdbid>
+  </actor>
+  <actor>
+    <name>Ioane Goodhue</name>
+    <role>Smiley</role>
+    <type>Actor</type>
+    <tmdbid>2914177</tmdbid>
+  </actor>
+  <actor>
+    <name>Hio Pelesasa</name>
+    <role>Samson</role>
+    <type>Actor</type>
+    <tmdbid>1827435</tmdbid>
+    <imdbid>nm5353364</imdbid>
+  </actor>
+  <actor>
+    <name>Wil Kahele</name>
+    <role>'Who's on the Plane' Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1593527</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhys Darby</name>
+    <role>Rhys Marlin</role>
+    <type>Actor</type>
+    <tmdbid>82666</tmdbid>
+    <imdbid>nm1055302</imdbid>
+    <tvdbid>299096</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Keith</role>
+    <type>Actor</type>
+    <tmdbid>216986</tmdbid>
+    <imdbid>nm1292661</imdbid>
+    <tvdbid>392109</tvdbid>
+  </actor>
+  <actor>
+    <name>Angus Sampson</name>
+    <role>Angus Bendleton</role>
+    <type>Actor</type>
+    <tmdbid>59117</tmdbid>
+    <imdbid>nm0760151</imdbid>
+    <tvdbid>393135</tvdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Nicole (voice)</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+    <tvdbid>452348</tvdbid>
+  </actor>
+  <actor>
+    <name>Levy Tuiala</name>
+    <role>Chief Sila</role>
+    <type>Actor</type>
+    <tmdbid>3798586</tmdbid>
+  </actor>
+  <actor>
+    <name>James Burghardt</name>
+    <role>Tongan Player #1</role>
+    <type>Actor</type>
+    <tmdbid>4397881</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Mullen</name>
+    <role>Tongan Player #2</role>
+    <type>Actor</type>
+    <tmdbid>3808508</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan J.I. Knox</name>
+    <role>Game Referee</role>
+    <type>Actor</type>
+    <tmdbid>4397882</tmdbid>
+  </actor>
+  <actor>
+    <name>Loretta Ables Sayre</name>
+    <role>Rambo's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1654197</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Nahaku</name>
+    <role>Tongan Coach</role>
+    <type>Actor</type>
+    <tmdbid>1609238</tmdbid>
+  </actor>
+  <actor>
+    <name>Lori Pelenise Tuisano</name>
+    <role>American Samoan Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>1922821</tmdbid>
+    <imdbid>nm5329331</imdbid>
+  </actor>
+  <actor>
+    <name>Tulalagalaga Tatalo Wily</name>
+    <role>American Samoan Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>4397883</tmdbid>
+  </actor>
+  <actor>
+    <name>Armani Makaiwa</name>
+    <role>Armani</role>
+    <type>Actor</type>
+    <tmdbid>4397885</tmdbid>
+  </actor>
+  <actor>
+    <name>William Chun</name>
+    <role>Store Local</role>
+    <type>Actor</type>
+    <tmdbid>4397889</tmdbid>
+  </actor>
+  <actor>
+    <name>Roland Tupola</name>
+    <role>Tongan Player #3</role>
+    <type>Actor</type>
+    <tmdbid>4397892</tmdbid>
+  </actor>
+  <actor>
+    <name>David Tu'itupou</name>
+    <role>Tall David</role>
+    <type>Actor</type>
+    <tmdbid>3798573</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Tyler</name>
+    <role>Commentator</role>
+    <type>Actor</type>
+    <tmdbid>4397897</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Satele</name>
+    <role>Russell Satele</role>
+    <type>Actor</type>
+    <tmdbid>2319971</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Adams</name>
+    <role>Frangipani (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1753341</tmdbid>
+    <imdbid>nm4213877</imdbid>
+  </actor>
+  <actor>
+    <name>Shereen Balles</name>
+    <role>Airport Patron  (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3371251</tmdbid>
+  </actor>
+  <actor>
+    <name>Karim Benz</name>
+    <role>Soccer Player  (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397901</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Cabanting</name>
+    <role>American Samoa Fan  (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688517</tmdbid>
+  </actor>
+  <actor>
+    <name>Svitlana Campbell</name>
+    <role>VIP  (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397904</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Chang</name>
+    <role>VIP (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397905</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Depicolzuane</name>
+    <role>VIP (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397908</tmdbid>
+  </actor>
+  <actor>
+    <name>Ely Garcia II</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397909</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaiah Kainoa</name>
+    <role>American Samoan Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4002585</tmdbid>
+  </actor>
+  <actor>
+    <name>Samson Kealoha</name>
+    <role>VIP (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3156775</tmdbid>
+  </actor>
+  <actor>
+    <name>Ceci Lugo</name>
+    <role>Girl on Plane (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1944676</tmdbid>
+  </actor>
+  <actor>
+    <name>Diandra Macadamia-Rivera</name>
+    <role>Soccer Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3798589</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonah Rouse</name>
+    <role>Samoan Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3346742</tmdbid>
+  </actor>
+  <actor>
+    <name>Arlo Sarinas</name>
+    <role>Referee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397917</tmdbid>
+  </actor>
+  <actor>
+    <name>Ati Ripley Scanlan</name>
+    <role>American Somoa Ceremonial (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397918</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Schultz</name>
+    <role>American Samoa Ceremonial (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397919</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Elizabeth Sikkink</name>
+    <role>Coaches Wife (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3798569</tmdbid>
+  </actor>
+  <actor>
+    <name>David James Sikkink</name>
+    <role>New Caledonia Coach (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1879913</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Vazzano</name>
+    <role>Security (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2309605</tmdbid>
+  </actor>
+  <actor>
+    <name>Tui Vincent</name>
+    <role>Young Nicole (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4397921</tmdbid>
+  </actor>
+  <director tmdbid="55934" imdbid="nm0169806" tvdbid="490689">Taika Waititi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V_44QrIXkhU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2h8ADeZ532M</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>peor equipo del mundo (Next Goal Wins)</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10767052</imdbid>
+  <tmdbid>621587</tmdbid>
+  <premiered>2023-11-16</premiered>
+  <releasedate>2023-11-16</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>104</runtime>
+  <tagline>Sé feliz.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>The Imaginarium</studio>
+  <studio>Searchlight Pictures</studio>
+  <studio>Film Rites</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Defender Production</studio>
+  <uniqueid type="imdb">tt10767052</uniqueid>
+  <uniqueid type="tmdb">621587</uniqueid>
+  <id>tt10767052</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1072604</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6233</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

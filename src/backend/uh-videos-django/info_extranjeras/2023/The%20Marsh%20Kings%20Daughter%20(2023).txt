@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous 'Marsh King', the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-27 10:26:55</dateadded>
+  <title>The Marsh King's Daughter</title>
+  <originaltitle>The Marsh King's Daughter</originaltitle>
+  <actor>
+    <name>Daisy Ridley</name>
+    <role>Helena Eriksson</role>
+    <type>Actor</type>
+    <tmdbid>1315036</tmdbid>
+    <imdbid>nm5397459</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Mendelsohn</name>
+    <role>Jacob Holbrook</role>
+    <type>Actor</type>
+    <tmdbid>77335</tmdbid>
+    <imdbid>nm0578853</imdbid>
+    <tvdbid>262333</tvdbid>
+  </actor>
+  <actor>
+    <name>Garrett Hedlund</name>
+    <role>Stephen Pelletier</role>
+    <type>Actor</type>
+    <tmdbid>9828</tmdbid>
+    <imdbid>nm1330560</imdbid>
+    <tvdbid>585017</tvdbid>
+  </actor>
+  <actor>
+    <name>Caren Pistorius</name>
+    <role>Beth Eriksson</role>
+    <type>Actor</type>
+    <tmdbid>1046903</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Abramovici</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>1128321</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooklynn Prince</name>
+    <role>Young Helena</role>
+    <type>Actor</type>
+    <tmdbid>1704640</tmdbid>
+  </actor>
+  <actor>
+    <name>Gil Birmingham</name>
+    <role>Clark</role>
+    <type>Actor</type>
+    <tmdbid>84225</tmdbid>
+    <imdbid>nm0083655</imdbid>
+    <tvdbid>252225</tvdbid>
+  </actor>
+  <actor>
+    <name>Joey Carson</name>
+    <role>Marigold Pelletier</role>
+    <type>Actor</type>
+    <tmdbid>3550494</tmdbid>
+  </actor>
+  <director tmdbid="17329" imdbid="nm1139726">Neil Burger</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FDnUVhLMqI0</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Marsh King's Daughter</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8002382</imdbid>
+  <tmdbid>798362</tmdbid>
+  <premiered>2023-09-28</premiered>
+  <releasedate>2023-09-28</releasedate>
+  <runtime>109</runtime>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Black Bear Pictures</studio>
+  <studio>Anonymous Content</studio>
+  <studio>STXfilms</studio>
+  <uniqueid type="imdb">tt8002382</uniqueid>
+  <uniqueid type="tmdb">798362</uniqueid>
+  <id>tt8002382</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1023596</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>137:57</aspect>
+        <aspectratio>137:57</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6527</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

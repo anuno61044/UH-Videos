@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras los últimos asesinatos de Ghostface, los cuatro supervivientes abandonan Woodsboro para dar comienzo a un nuevo capítulo.]]></plot>
+  <outline><![CDATA[Nueva York. Nuevas reglas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-26 08:21:09</dateadded>
+  <title>Scream VI</title>
+  <originaltitle>Scream VI</originaltitle>
+  <actor>
+    <name>Melissa Barrera</name>
+    <role>Sam Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>1373659</tmdbid>
+    <tvdbid>511876</tvdbid>
+  </actor>
+  <actor>
+    <name>Jenna Ortega</name>
+    <role>Tara Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>974169</tmdbid>
+    <imdbid>nm4911194</imdbid>
+    <tvdbid>474051</tvdbid>
+  </actor>
+  <actor>
+    <name>Jasmin Savoy Brown</name>
+    <role>Mindy Meeks-Martin</role>
+    <type>Actor</type>
+    <tmdbid>1508653</tmdbid>
+    <imdbid>nm5506401</imdbid>
+  </actor>
+  <actor>
+    <name>Mason Gooding</name>
+    <role>Chad Meeks-Martin</role>
+    <type>Actor</type>
+    <tmdbid>2174509</tmdbid>
+    <tvdbid>8055554</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Champion</name>
+    <role>Ethan Landry</role>
+    <type>Actor</type>
+    <tmdbid>1895760</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger L. Jackson</name>
+    <role>'The Voice' (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51957</tmdbid>
+    <imdbid>nm0413996</imdbid>
+  </actor>
+  <actor>
+    <name>Liana Liberato</name>
+    <role>Quinn Bailey</role>
+    <type>Actor</type>
+    <tmdbid>60458</tmdbid>
+    <imdbid>nm1882929</imdbid>
+    <tvdbid>358830</tvdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Detective Bailey</role>
+    <type>Actor</type>
+    <tmdbid>20212</tmdbid>
+    <imdbid>nm0000551</imdbid>
+    <tvdbid>308082</tvdbid>
+  </actor>
+  <actor>
+    <name>Devyn Nekoda</name>
+    <role>Anika Kayoko</role>
+    <type>Actor</type>
+    <tmdbid>1352921</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Segarra</name>
+    <role>Danny Brackett</role>
+    <type>Actor</type>
+    <tmdbid>426216</tmdbid>
+    <imdbid>nm2019219</imdbid>
+    <tvdbid>464036</tvdbid>
+  </actor>
+  <actor>
+    <name>Hayden Panettiere</name>
+    <role>Kirby Reed</role>
+    <type>Actor</type>
+    <tmdbid>17265</tmdbid>
+    <imdbid>nm0659363</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Czerny</name>
+    <role>Dr. Christopher Stone</role>
+    <type>Actor</type>
+    <tmdbid>15319</tmdbid>
+    <imdbid>nm0001089</imdbid>
+    <tvdbid>297872</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Revolori</name>
+    <role>Jason Carvey</role>
+    <type>Actor</type>
+    <tmdbid>1291350</tmdbid>
+    <imdbid>nm1727825</imdbid>
+    <tvdbid>395375</tvdbid>
+  </actor>
+  <actor>
+    <name>Skeet Ulrich</name>
+    <role>Billy Loomis</role>
+    <type>Actor</type>
+    <tmdbid>22108</tmdbid>
+  </actor>
+  <actor>
+    <name>Samara Weaving</name>
+    <role>Laura Crane</role>
+    <type>Actor</type>
+    <tmdbid>1372369</tmdbid>
+    <imdbid>nm3034977</imdbid>
+    <tvdbid>533955</tvdbid>
+  </actor>
+  <actor>
+    <name>Courteney Cox</name>
+    <role>Gale Weathers</role>
+    <type>Actor</type>
+    <tmdbid>14405</tmdbid>
+    <imdbid>nm0001073</imdbid>
+    <tvdbid>254682</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Giuffrida</name>
+    <role>Paul 2.0</role>
+    <type>Actor</type>
+    <tmdbid>2347604</tmdbid>
+  </actor>
+  <actor>
+    <name>Andre Anthony</name>
+    <role>Frankie</role>
+    <type>Actor</type>
+    <tmdbid>1622062</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Cadrot</name>
+    <role>Brooks</role>
+    <type>Actor</type>
+    <tmdbid>1858370</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Morgan</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3958214</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanel Mings</name>
+    <role>Restaurant Hostess</role>
+    <type>Actor</type>
+    <tmdbid>2410068</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Prevost</name>
+    <role>Frat Party Girl</role>
+    <type>Actor</type>
+    <tmdbid>1622782</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Camacho</name>
+    <role>Frat Dude</role>
+    <type>Actor</type>
+    <tmdbid>82755</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Wheeler-Hughes</name>
+    <role>Angry Woman</role>
+    <type>Actor</type>
+    <tmdbid>1067582</tmdbid>
+    <imdbid>nm2712661</imdbid>
+  </actor>
+  <actor>
+    <name>Mizinga Mwinga</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1148496</tmdbid>
+  </actor>
+  <actor>
+    <name>Céleste Dubé</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>3958197</tmdbid>
+  </actor>
+  <actor>
+    <name>André Bédard</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1548736</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Davis</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>3958203</tmdbid>
+  </actor>
+  <actor>
+    <name>Lydia Zadel</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>1511948</tmdbid>
+    <imdbid>nm1013513</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Neale</name>
+    <role>EMT</role>
+    <type>Actor</type>
+    <tmdbid>1883390</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Johnson</name>
+    <role>Gale's Cameraman</role>
+    <type>Actor</type>
+    <tmdbid>3958210</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephane Ishmael</name>
+    <role>MTA Worker</role>
+    <type>Actor</type>
+    <tmdbid>2846815</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Laferriere</name>
+    <role>Ghostface</role>
+    <type>Actor</type>
+    <tmdbid>1638250</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Quaid</name>
+    <role>Richie Kirsch (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1030513</tmdbid>
+    <imdbid>nm4425051</imdbid>
+    <tvdbid>503175</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Cavalier</name>
+    <role>Bodega Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>30617</tmdbid>
+    <imdbid>nm0146767</imdbid>
+  </actor>
+  <actor>
+    <name>Thom Newell</name>
+    <role>Greg Bruckner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1785855</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Robinson</name>
+    <role>Paul 2.0 (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1500059</tmdbid>
+  </actor>
+  <actor>
+    <name>Akiva Schaffer</name>
+    <role>Subway Ghostface (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>62854</tmdbid>
+    <imdbid>nm1676223</imdbid>
+  </actor>
+  <director tmdbid="66681" imdbid="nm2366012">Matt Bettinelli-Olpin</director>
+  <director tmdbid="1039527" imdbid="nm2419470">Tyler Gillett</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ECc_KdCZ8-I</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>Scream VI</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17663992</imdbid>
+  <tmdbid>934433</tmdbid>
+  <premiered>2023-03-08</premiered>
+  <releasedate>2023-03-08</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>125</runtime>
+  <tagline>Nueva York. Nuevas reglas.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Radio Silence</studio>
+  <studio>Project X Entertainment</studio>
+  <studio>Spyglass Media Group</studio>
+  <studio>Paramount</studio>
+  <set tmdbcolid="2602">
+    <name>Scream - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt17663992</uniqueid>
+  <uniqueid type="tmdb">934433</uniqueid>
+  <id>tt17663992</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>892664</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7510</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

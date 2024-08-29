@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Illa de Arousa, 1971. María es una mujer que se gana la vida mariscando. También es conocida en la isla por ayudar a otras mujeres en sus partos con especial dedicación y cuidado. Tras un inesperado suceso, se ve obligada a huir y comienza una peligrosa travesía que le hará luchar por su supervivencia. Buscando su libertad, María decide cruzar la frontera por una de las rutas de contrabando entre Galicia y Portugal.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-01 10:22:24</dateadded>
+  <title>O corno</title>
+  <originaltitle>O corno</originaltitle>
+  <actor>
+    <name>Janet Novás</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>4161919</tmdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Fernandes</name>
+    <role>Anabela</role>
+    <type>Actor</type>
+    <tmdbid>4161920</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Rivas</name>
+    <role>Luisa</role>
+    <type>Actor</type>
+    <tmdbid>4161921</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Hernán Marchán</name>
+    <role>Ángela</role>
+    <type>Actor</type>
+    <tmdbid>4161922</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Anido</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>2110628</tmdbid>
+  </actor>
+  <actor>
+    <name>María Lado</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>4161923</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Gómez</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>3188131</tmdbid>
+  </actor>
+  <actor>
+    <name>José Navarro</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>3109893</tmdbid>
+  </actor>
+  <actor>
+    <name>Nuria Lestegás</name>
+    <role>Mabel</role>
+    <type>Actor</type>
+    <tmdbid>2363787</tmdbid>
+  </actor>
+  <actor>
+    <name>Darío Fernández Raposo</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>4468685</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentín Estévez</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>3169339</tmdbid>
+  </actor>
+  <actor>
+    <name>Filomena Gigante</name>
+    <role>Belén</role>
+    <type>Actor</type>
+    <tmdbid>1870524</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Vidal</name>
+    <role>Isa</role>
+    <type>Actor</type>
+    <tmdbid>4468686</tmdbid>
+  </actor>
+  <actor>
+    <name>Belén Merino</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>4468687</tmdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Cardalda</name>
+    <role>Acordeonista</role>
+    <type>Actor</type>
+    <tmdbid>4468688</tmdbid>
+  </actor>
+  <actor>
+    <name>Martiño Carou</name>
+    <role>Rubén</role>
+    <type>Actor</type>
+    <tmdbid>4468689</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Rivas</name>
+    <role>Lino</role>
+    <type>Actor</type>
+    <tmdbid>4468690</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberte Carou</name>
+    <role>Julio</role>
+    <type>Actor</type>
+    <tmdbid>4468691</tmdbid>
+  </actor>
+  <director tmdbid="1836299">Jaione Camborda</director>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>O corno</sorttitle>
+  <imdbid>tt21920634</imdbid>
+  <tmdbid>816888</tmdbid>
+  <premiered>2023-10-11</premiered>
+  <releasedate>2023-10-11</releasedate>
+  <runtime>99</runtime>
+  <country>Belgium</country>
+  <country>Portugal</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Esnatu Zinema</studio>
+  <studio>Miramemira</studio>
+  <studio>Bando à Parte</studio>
+  <uniqueid type="tmdb">816888</uniqueid>
+  <uniqueid type="imdb">tt21920634</uniqueid>
+  <id>tt21920634</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1549886</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5919</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

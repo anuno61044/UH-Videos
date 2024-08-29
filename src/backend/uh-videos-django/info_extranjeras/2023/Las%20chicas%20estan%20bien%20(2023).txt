@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En pleno verano, cinco mujeres ensayan una obra de teatro en un antiguo molino, apartadas del mundo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-15 10:35:40</dateadded>
+  <title>Las chicas están bien</title>
+  <originaltitle>Las chicas están bien</originaltitle>
+  <actor>
+    <name>Bárbara Lennie</name>
+    <role>Bárbara</role>
+    <type>Actor</type>
+    <tmdbid>724188</tmdbid>
+    <imdbid>nm1036659</imdbid>
+  </actor>
+  <actor>
+    <name>Irene Escolar</name>
+    <role>Irene</role>
+    <type>Actor</type>
+    <tmdbid>962249</tmdbid>
+    <imdbid>nm1354955</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Manero</name>
+    <role>Itziar</role>
+    <type>Actor</type>
+    <tmdbid>3632927</tmdbid>
+  </actor>
+  <actor>
+    <name>Helena Ezquerro</name>
+    <role>Helena</role>
+    <type>Actor</type>
+    <tmdbid>2773695</tmdbid>
+  </actor>
+  <actor>
+    <name>Itsaso Arana</name>
+    <role>Itsaso</role>
+    <type>Actor</type>
+    <tmdbid>1382606</tmdbid>
+    <imdbid>nm3188127</imdbid>
+    <tvdbid>562630</tvdbid>
+  </actor>
+  <actor>
+    <name>Julia León</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>4184597</tmdbid>
+  </actor>
+  <actor>
+    <name>Mercedes Unzeta</name>
+    <role>Mercedes</role>
+    <type>Actor</type>
+    <tmdbid>4184598</tmdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo Herrero</name>
+    <role>Gonzalo</role>
+    <type>Actor</type>
+    <tmdbid>2788525</tmdbid>
+  </actor>
+  <director tmdbid="1382606" imdbid="nm3188127" tvdbid="562630">Itsaso Arana</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CYl5EiPRvYI</trailer>
+  <rating>7.2</rating>
+  <year>2023</year>
+  <sorttitle>Las chicas estan bien</sorttitle>
+  <imdbid>tt21342370</imdbid>
+  <tmdbid>1002711</tmdbid>
+  <premiered>2023-08-25</premiered>
+  <releasedate>2023-08-25</releasedate>
+  <runtime>87</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Los Ilusos Films</studio>
+  <studio>Elastica Films</studio>
+  <uniqueid type="tmdb">1002711</uniqueid>
+  <uniqueid type="imdb">tt21342370</uniqueid>
+  <id>tt21342370</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1457264</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5193</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

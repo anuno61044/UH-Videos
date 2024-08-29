@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Beau (Joaquin Phoenix) es un hombre que tendrá que enfrentarse a sus miedos y paranoias al aventurarse en una épica odisea para llegar a casa de su controladora madre.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-14 10:02:04</dateadded>
+  <title>Beau tiene miedo</title>
+  <originaltitle>Beau Is Afraid</originaltitle>
+  <actor>
+    <name>Joaquin Phoenix</name>
+    <role>Beau Wassermann</role>
+    <type>Actor</type>
+    <tmdbid>73421</tmdbid>
+    <imdbid>nm0001618</imdbid>
+  </actor>
+  <actor>
+    <name>Patti LuPone</name>
+    <role>Mona Wassermann</role>
+    <type>Actor</type>
+    <tmdbid>5699</tmdbid>
+    <imdbid>nm0526985</imdbid>
+    <tvdbid>728056</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Ryan</name>
+    <role>Grace</role>
+    <type>Actor</type>
+    <tmdbid>39388</tmdbid>
+    <imdbid>nm0752407</imdbid>
+    <tvdbid>269720</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathan Lane</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>78729</tmdbid>
+    <imdbid>nm0001447</imdbid>
+    <tvdbid>308903</tvdbid>
+  </actor>
+  <actor>
+    <name>Kylie Rogers</name>
+    <role>Toni</role>
+    <type>Actor</type>
+    <tmdbid>1164259</tmdbid>
+    <imdbid>nm4814017</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Ménochet</name>
+    <role>Jeeves</role>
+    <type>Actor</type>
+    <tmdbid>81125</tmdbid>
+    <imdbid>nm1616970</imdbid>
+  </actor>
+  <actor>
+    <name>Parker Posey</name>
+    <role>Elaine Bray</role>
+    <type>Actor</type>
+    <tmdbid>7489</tmdbid>
+    <imdbid>nm0000205</imdbid>
+    <tvdbid>308104</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Lister-Jones</name>
+    <role>Young Mona</role>
+    <type>Actor</type>
+    <tmdbid>82885</tmdbid>
+    <imdbid>nm1830380</imdbid>
+  </actor>
+  <actor>
+    <name>Armen Nahapetian</name>
+    <role>Teen Beau</role>
+    <type>Actor</type>
+    <tmdbid>2563367</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Antonelli</name>
+    <role>Teen Elaine</role>
+    <type>Actor</type>
+    <tmdbid>1529205</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Henderson</name>
+    <role>Beau's Therapist</role>
+    <type>Actor</type>
+    <tmdbid>196179</tmdbid>
+    <imdbid>nm0376610</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Kind</name>
+    <role>Dr. Cohen</role>
+    <type>Actor</type>
+    <tmdbid>21125</tmdbid>
+    <imdbid>nm0454236</imdbid>
+    <tvdbid>262048</tvdbid>
+  </actor>
+  <actor>
+    <name>Hayley Squires</name>
+    <role>Penelope</role>
+    <type>Actor</type>
+    <tmdbid>1182598</tmdbid>
+    <imdbid>nm4842197</imdbid>
+    <tvdbid>466641</tvdbid>
+  </actor>
+  <actor>
+    <name>Julian Richings</name>
+    <role>Strange Man</role>
+    <type>Actor</type>
+    <tmdbid>2320</tmdbid>
+    <imdbid>nm0724995</imdbid>
+    <tvdbid>309343</tvdbid>
+  </actor>
+  <actor>
+    <name>Bill Hader</name>
+    <role>UPS Guy</role>
+    <type>Actor</type>
+    <tmdbid>19278</tmdbid>
+    <imdbid>nm0352778</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Rosario</name>
+    <role>Liz</role>
+    <type>Actor</type>
+    <tmdbid>3847872</tmdbid>
+  </actor>
+  <actor>
+    <name>James Cvetkovski</name>
+    <role>Boy Beau</role>
+    <type>Actor</type>
+    <tmdbid>3990016</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Bérubé</name>
+    <role>Hero Beau's Wife</role>
+    <type>Actor</type>
+    <tmdbid>209815</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Herrera</name>
+    <role>Martha</role>
+    <type>Actor</type>
+    <tmdbid>2017232</tmdbid>
+  </actor>
+  <actor>
+    <name>Bradley Fisher</name>
+    <role>Birthday Boy Stab Man</role>
+    <type>Actor</type>
+    <tmdbid>2024806</tmdbid>
+    <imdbid>nm0278838</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Seaborne</name>
+    <role>Ceiling Man</role>
+    <type>Actor</type>
+    <tmdbid>3990017</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Esper</name>
+    <role>Officer Johnson</role>
+    <type>Actor</type>
+    <tmdbid>6183</tmdbid>
+    <imdbid>nm1092022</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Tadros</name>
+    <role>Cheapo Depot Cashier</role>
+    <type>Actor</type>
+    <tmdbid>96592</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Roy</name>
+    <role>Man with Face Tattoos</role>
+    <type>Actor</type>
+    <tmdbid>4154537</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc-André Brisebois</name>
+    <role>Comatose Junkie</role>
+    <type>Actor</type>
+    <tmdbid>1731643</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyrone Benskin</name>
+    <role>Rattled Businessman</role>
+    <type>Actor</type>
+    <tmdbid>181247</tmdbid>
+    <imdbid>nm0072419</imdbid>
+  </actor>
+  <actor>
+    <name>Ernest-James Chuipka</name>
+    <role>Crazy Man</role>
+    <type>Actor</type>
+    <tmdbid>3990020</tmdbid>
+  </actor>
+  <actor>
+    <name>Archie Madekwe</name>
+    <role>Laughing Man</role>
+    <type>Actor</type>
+    <tmdbid>2249745</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Halpin</name>
+    <role>Crust Punk (Eye Gouger)</role>
+    <type>Actor</type>
+    <tmdbid>3990022</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Olivia</name>
+    <role>Crust Punk (Eyes Gouged)</role>
+    <type>Actor</type>
+    <tmdbid>90465</tmdbid>
+    <imdbid>nm3520198</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Hardy</name>
+    <role>Boat Boy</role>
+    <type>Actor</type>
+    <tmdbid>3990023</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie-Michelle Garon</name>
+    <role>Fraught Mother Looking for Boat Boy</role>
+    <type>Actor</type>
+    <tmdbid>1908750</tmdbid>
+  </actor>
+  <actor>
+    <name>Maev Beaty</name>
+    <role>Angel / Play Narrator</role>
+    <type>Actor</type>
+    <tmdbid>1545244</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Kwok-Choon</name>
+    <role>Orphan Hero</role>
+    <type>Actor</type>
+    <tmdbid>1422887</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Gandolfini</name>
+    <role>Beau’s Son</role>
+    <type>Actor</type>
+    <tmdbid>1900369</tmdbid>
+    <imdbid>nm6408859</imdbid>
+    <tvdbid>388134</tvdbid>
+  </actor>
+  <actor>
+    <name>Théodore Pellerin</name>
+    <role>Beau’s Son</role>
+    <type>Actor</type>
+    <tmdbid>1505023</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Taylor</name>
+    <role>Beau’s Son</role>
+    <type>Actor</type>
+    <tmdbid>1927352</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Alexander James McPhail</name>
+    <role>Hero Beau's Young Son</role>
+    <type>Actor</type>
+    <tmdbid>3990025</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan S. Hill</name>
+    <role>Hero Beau's Young Son</role>
+    <type>Actor</type>
+    <tmdbid>2317194</tmdbid>
+  </actor>
+  <actor>
+    <name>Bentley Hughes</name>
+    <role>Hero Beau's Young Son</role>
+    <type>Actor</type>
+    <tmdbid>3628331</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwasi Songui</name>
+    <role>Orphan Ladybug Man</role>
+    <type>Actor</type>
+    <tmdbid>207881</tmdbid>
+    <imdbid>nm0814326</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvain Landry</name>
+    <role>Orphan Man w/Mandolin</role>
+    <type>Actor</type>
+    <tmdbid>43613</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan D. Lalla</name>
+    <role>Costume Designer Orphan</role>
+    <type>Actor</type>
+    <tmdbid>1015568</tmdbid>
+    <imdbid>nm1941571</imdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Schwartz</name>
+    <role>Orphan Chorus Member</role>
+    <type>Actor</type>
+    <tmdbid>1042447</tmdbid>
+  </actor>
+  <actor>
+    <name>Cat Lemieux</name>
+    <role>Orphan Chorus Member</role>
+    <type>Actor</type>
+    <tmdbid>1261373</tmdbid>
+    <imdbid>nm0501289</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Bird</name>
+    <role>Samanda</role>
+    <type>Actor</type>
+    <tmdbid>3487031</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Holden</name>
+    <role>Duncan / God on Cloud / Hero Beau’s Wife</role>
+    <type>Actor</type>
+    <tmdbid>115596</tmdbid>
+    <imdbid>nm0390161</imdbid>
+  </actor>
+  <actor>
+    <name>François Paquette</name>
+    <role>Yesekov's Body</role>
+    <type>Actor</type>
+    <tmdbid>1674956</tmdbid>
+    <imdbid>nm1123059</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Bisping</name>
+    <role>Orphan Production Designer</role>
+    <type>Actor</type>
+    <tmdbid>1050988</tmdbid>
+    <imdbid>nm0084281</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Gosselin</name>
+    <role>Orphan Papa Boy</role>
+    <type>Actor</type>
+    <tmdbid>3990026</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Cobden</name>
+    <role>News Correspondent (Brian Galloway)</role>
+    <type>Actor</type>
+    <tmdbid>51389</tmdbid>
+    <imdbid>nm0167859</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Strandjofski</name>
+    <role>Superintendent / Catering Manager</role>
+    <type>Actor</type>
+    <tmdbid>96600</tmdbid>
+  </actor>
+  <actor>
+    <name>Anana Rydvald</name>
+    <role>Teen Elaine's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1476892</tmdbid>
+    <imdbid>nm0753202</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Brabant</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3065855</tmdbid>
+  </actor>
+  <actor>
+    <name>Tarah Schwartz</name>
+    <role>News Anchor (BB Stab Man)</role>
+    <type>Actor</type>
+    <tmdbid>3600866</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Morgan</name>
+    <role>News Anchor (MW Obit)</role>
+    <type>Actor</type>
+    <tmdbid>2037924</tmdbid>
+  </actor>
+  <actor>
+    <name>David Mamet</name>
+    <role>Rabbi</role>
+    <type>Actor</type>
+    <tmdbid>1255</tmdbid>
+  </actor>
+  <actor>
+    <name>John Walsh</name>
+    <role>Hearse Driver</role>
+    <type>Actor</type>
+    <tmdbid>2199598</tmdbid>
+  </actor>
+  <actor>
+    <name>Karim Bourara</name>
+    <role>Caterer</role>
+    <type>Actor</type>
+    <tmdbid>3990039</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Villeneuve</name>
+    <role>Mona Henchman Who Throws Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>2226968</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Newburn</name>
+    <role>Monster Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1736662</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayla Dobilas</name>
+    <role>Monster Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>2307279</tmdbid>
+  </actor>
+  <actor>
+    <name>Gord Robertson</name>
+    <role>Monster Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1234258</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Iveta</name>
+    <role>Monster Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1592934</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Detheridge</name>
+    <role>Monster Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1102229</tmdbid>
+  </actor>
+  <actor>
+    <name>Luz Tercero</name>
+    <role>Mourning Woman</role>
+    <type>Actor</type>
+    <tmdbid>2829198</tmdbid>
+  </actor>
+  <actor>
+    <name>Geneviève Marin</name>
+    <role>Elaine Body Double</role>
+    <type>Actor</type>
+    <tmdbid>3990045</tmdbid>
+  </actor>
+  <actor>
+    <name>Julien Fortin</name>
+    <role>Beau's Twin in Attic</role>
+    <type>Actor</type>
+    <tmdbid>3990048</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc-André Casavant</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1825906</tmdbid>
+  </actor>
+  <director tmdbid="1145520" imdbid="nm4170048">Ari Aster</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FMBpGNy-500</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Beau tiene miedo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13521006</imdbid>
+  <tmdbid>798286</tmdbid>
+  <premiered>2023-04-14</premiered>
+  <releasedate>2023-04-14</releasedate>
+  <runtime>179</runtime>
+  <country>Finland</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <studio>A24</studio>
+  <studio>Square Peg</studio>
+  <studio>IPR.VC</studio>
+  <studio>Access Entertainment</studio>
+  <studio>MW Industries</studio>
+  <uniqueid type="imdb">tt13521006</uniqueid>
+  <uniqueid type="tmdb">798286</uniqueid>
+  <id>tt13521006</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>701371</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>179</duration>
+        <durationinseconds>10743</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

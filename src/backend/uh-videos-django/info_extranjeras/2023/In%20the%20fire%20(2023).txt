@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja tiene que enfrentarse tanto a los aldeanos como al sacerdote local, quienes temen que su hijo esté poseído por fuerzas demoníacas y sea la razón de todos los males del pueblo. Tras la muerte de su esposa, Don Márquez recurre a Grace Victoria Burnham, una psiquiatra estadounidense, para descubrir qué aqueja al niño.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-13 17:02:05</dateadded>
+  <title>In the Fire</title>
+  <originaltitle>In the Fire</originaltitle>
+  <actor>
+    <name>Amber Heard</name>
+    <role>Grace Burnham</role>
+    <type>Actor</type>
+    <tmdbid>55085</tmdbid>
+    <imdbid>nm1720028</imdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Noriega</name>
+    <role>Nicolas Marquez</role>
+    <type>Actor</type>
+    <tmdbid>17093</tmdbid>
+    <imdbid>nm0635330</imdbid>
+    <tvdbid>311623</tvdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo McGovern Zaini</name>
+    <role>Martin Marquez</role>
+    <type>Actor</type>
+    <tvdbid>8428992</tvdbid>
+    <tmdbid>2682027</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Calvani</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>90325</tmdbid>
+    <imdbid>nm1017719</imdbid>
+  </actor>
+  <actor>
+    <name>Herbert Ignacio</name>
+    <role>Temo</role>
+    <type>Actor</type>
+    <tmdbid>1419998</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Contini</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>25092</tmdbid>
+  </actor>
+  <actor>
+    <name>Yari Gugliucci</name>
+    <role>Father Gavira</role>
+    <type>Actor</type>
+    <tmdbid>553699</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Molina</name>
+    <role>Andreas</role>
+    <type>Actor</type>
+    <tmdbid>4104433</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Amber</name>
+    <role>Isabella</role>
+    <type>Actor</type>
+    <tmdbid>4172956</tmdbid>
+  </actor>
+  <actor>
+    <name>Romain Palacci</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>4319601</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Benetton</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>4319607</tmdbid>
+  </actor>
+  <actor>
+    <name>Mattia Losacco</name>
+    <role>Violin Boy</role>
+    <type>Actor</type>
+    <tmdbid>4319610</tmdbid>
+  </actor>
+  <director tmdbid="1157590" imdbid="nm3440937">Conor Allyn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aDrXKWafFdc</trailer>
+  <rating>2.8</rating>
+  <year>2023</year>
+  <sorttitle>In the Fire</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17595094</imdbid>
+  <tmdbid>946215</tmdbid>
+  <premiered>2023-09-14</premiered>
+  <releasedate>2023-09-14</releasedate>
+  <runtime>87</runtime>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>Angel Oak Films</studio>
+  <studio>Paradox Studios</studio>
+  <studio>Iervolino &amp; Lady Bacardi Entertainment</studio>
+  <studio>RS Productions</studio>
+  <studio>Saban Films</studio>
+  <studio>Margate House Films</studio>
+  <uniqueid type="imdb">tt17595094</uniqueid>
+  <uniqueid type="tmdb">946215</uniqueid>
+  <id>tt17595094</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>895098</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5217</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

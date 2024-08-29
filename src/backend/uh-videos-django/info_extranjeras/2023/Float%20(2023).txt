@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Waverly thought she had her future figured out, she’d start her medical residency in Toronto after a summer visit to her parents in Taipei. When her plans suddenly change, she makes an impulsive detour to a small Canadian town where she meets local lifeguard Blake. After he saves her from nearly drowning at a beach party, Blake offers to teach Waverly to swim, and as the lessons continue, the two unexpectedly find themselves falling in love.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-10 09:56:18</dateadded>
+  <title>Float</title>
+  <originaltitle>Float</originaltitle>
+  <actor>
+    <name>Andrea Bang</name>
+    <role>Waverly Liu</role>
+    <type>Actor</type>
+    <tmdbid>1689089</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie Amell</name>
+    <role>Blake Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>1223726</tmdbid>
+    <imdbid>nm2064412</imdbid>
+    <tvdbid>396863</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Krusiec</name>
+    <role>Rachel Liu</role>
+    <type>Actor</type>
+    <tmdbid>55253</tmdbid>
+    <imdbid>nm0472891</imdbid>
+    <tvdbid>275713</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Bachelor</name>
+    <role>Jesse</role>
+    <type>Actor</type>
+    <tmdbid>1350469</tmdbid>
+    <imdbid>nm4392718</imdbid>
+  </actor>
+  <actor>
+    <name>Rukiya Bernard</name>
+    <role>Lena Fletcher</role>
+    <type>Actor</type>
+    <tmdbid>83948</tmdbid>
+    <imdbid>nm1113471</imdbid>
+  </actor>
+  <actor>
+    <name>Ghazal Azarbad</name>
+    <role>Van</role>
+    <type>Actor</type>
+    <tmdbid>2588213</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Desjardins</name>
+    <role>Isabel Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>1066284</tmdbid>
+    <imdbid>nm4480988</imdbid>
+    <tvdbid>546022</tvdbid>
+  </actor>
+  <actor>
+    <name>Fiona Fu</name>
+    <role>Mrs. Liu</role>
+    <type>Actor</type>
+    <tmdbid>2577252</tmdbid>
+  </actor>
+  <actor>
+    <name>Keong Sim</name>
+    <role>Mr. Liu</role>
+    <type>Actor</type>
+    <tmdbid>164102</tmdbid>
+    <imdbid>nm1692978</imdbid>
+    <tvdbid>316341</tvdbid>
+  </actor>
+  <actor>
+    <name>Tristan Arthurs</name>
+    <role>Ethan</role>
+    <type>Actor</type>
+    <tmdbid>3302469</tmdbid>
+  </actor>
+  <actor>
+    <name>Remy Marthaller</name>
+    <role>Little Girl</role>
+    <type>Actor</type>
+    <tmdbid>3272175</tmdbid>
+  </actor>
+  <actor>
+    <name>Mirella Gibeau</name>
+    <role>Kirsten</role>
+    <type>Actor</type>
+    <tmdbid>3571859</tmdbid>
+  </actor>
+  <actor>
+    <name>Haven Vivero</name>
+    <role>Little Boy</role>
+    <type>Actor</type>
+    <tmdbid>3774981</tmdbid>
+  </actor>
+  <director tmdbid="1498661">Sherren Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eCWnEaz1Oeg</trailer>
+  <rating>5.1</rating>
+  <year>2024</year>
+  <sorttitle>Float</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13205458</imdbid>
+  <tmdbid>895959</tmdbid>
+  <premiered>2024-02-09</premiered>
+  <releasedate>2024-02-09</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>100</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>Collective Pictures</studio>
+  <studio>Brightlight Pictures</studio>
+  <studio>Wattpad WEBTOON Studios</studio>
+  <studio>Elevation Pictures</studio>
+  <uniqueid type="imdb">tt13205458</uniqueid>
+  <uniqueid type="tmdb">895959</uniqueid>
+  <id>tt13205458</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1112461</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6008</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-01 10:05:14</dateadded>
+  <title>Tuesday</title>
+  <originaltitle>Tuesday</originaltitle>
+  <actor>
+    <name>Julia Louis-Dreyfus</name>
+    <role>Zora</role>
+    <type>Actor</type>
+    <tmdbid>15886</tmdbid>
+    <imdbid>nm0000506</imdbid>
+  </actor>
+  <actor>
+    <name>Lola Petticrew</name>
+    <role>Tuesday</role>
+    <type>Actor</type>
+    <tmdbid>1969732</tmdbid>
+  </actor>
+  <actor>
+    <name>Arinzé Kene</name>
+    <role>Death</role>
+    <type>Actor</type>
+    <tmdbid>1346536</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Harvey</name>
+    <role>Nurse Billie</role>
+    <type>Actor</type>
+    <tvdbid>8158081</tvdbid>
+    <tmdbid>1765346</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Simpson</name>
+    <role>Spike</role>
+    <type>Actor</type>
+    <tmdbid>86467</tmdbid>
+    <imdbid>nm0801043</imdbid>
+  </actor>
+  <actor>
+    <name>Ellie James</name>
+    <role>Willow</role>
+    <type>Actor</type>
+    <tmdbid>2112442</tmdbid>
+  </actor>
+  <actor>
+    <name>Ewens Abid</name>
+    <role>Abel</role>
+    <type>Actor</type>
+    <tmdbid>2802762</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Amzi</name>
+    <role>Nathan</role>
+    <type>Actor</type>
+    <tmdbid>2189382</tmdbid>
+  </actor>
+  <actor>
+    <name>Taru Devani</name>
+    <role>Ira</role>
+    <type>Actor</type>
+    <tmdbid>1186986</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Ives-Moiba</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>2109688</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugh Futcher</name>
+    <role>Hans</role>
+    <type>Actor</type>
+    <tmdbid>1231171</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Shaw</name>
+    <role>Yuri</role>
+    <type>Actor</type>
+    <tmdbid>3851508</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Edwards</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>206724</tmdbid>
+    <imdbid>nm1517523</imdbid>
+  </actor>
+  <actor>
+    <name>Florencia Nunez</name>
+    <role>Young Tuesday</role>
+    <type>Actor</type>
+    <tmdbid>4246293</tmdbid>
+  </actor>
+  <director tmdbid="2432817">Daina Oniunas-Pusić</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qvqyBWCN39o</trailer>
+  <rating>6.9</rating>
+  <year>2023</year>
+  <sorttitle>Tuesday</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14682800</imdbid>
+  <tmdbid>831395</tmdbid>
+  <premiered>2023-09-01</premiered>
+  <releasedate>2023-09-01</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>110</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Fantasía</genre>
+  <studio>A24</studio>
+  <studio>BBC Film</studio>
+  <studio>Cinereach</studio>
+  <studio>Gingerbread Pictures</studio>
+  <studio>Record Player Films</studio>
+  <studio>BFI</studio>
+  <studio>Wild Swim Films</studio>
+  <uniqueid type="tmdb">831395</uniqueid>
+  <uniqueid type="imdb">tt14682800</uniqueid>
+  <id>tt14682800</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149911</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6613</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129329</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

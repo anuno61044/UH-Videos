@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sylvie lives with her two children whom she’s raising on her own. One evening, there’s an accident, and her youngest son is removed from her care. Sylvie must subsequently fight to get her son back and to keep herself afloat.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-08 11:36:01</dateadded>
+  <title>All to Play For</title>
+  <originaltitle>Rien à perdre</originaltitle>
+  <actor>
+    <name>Virginie Efira</name>
+    <role>Sylvie Paugam</role>
+    <type>Actor</type>
+    <tmdbid>118178</tmdbid>
+  </actor>
+  <actor>
+    <name>Arieh Worthalter</name>
+    <role>Hervé Paugam</role>
+    <type>Actor</type>
+    <tmdbid>1295193</tmdbid>
+  </actor>
+  <actor>
+    <name>Félix Lefebvre</name>
+    <role>Jean-Jacques Paugam</role>
+    <type>Actor</type>
+    <tmdbid>1859007</tmdbid>
+  </actor>
+  <actor>
+    <name>India Hair</name>
+    <role>Mademoiselle Henry</role>
+    <type>Actor</type>
+    <tmdbid>555967</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Demy</name>
+    <role>Alain Paugam</role>
+    <type>Actor</type>
+    <tmdbid>64751</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandrine Bodenes</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>1988210</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Morin</name>
+    <role>Patricia</role>
+    <type>Actor</type>
+    <tmdbid>2973679</tmdbid>
+  </actor>
+  <actor>
+    <name>Christophe Briand</name>
+    <role>Christophe</role>
+    <type>Actor</type>
+    <tmdbid>3073510</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnaud Stéphan</name>
+    <role>Policier</role>
+    <type>Actor</type>
+    <tmdbid>2225580</tmdbid>
+  </actor>
+  <actor>
+    <name>Arzouma Ismaël Gouba</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>3891684</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Tonetti</name>
+    <role>Sofiane Paugam</role>
+    <type>Actor</type>
+    <tmdbid>4151465</tmdbid>
+  </actor>
+  <actor>
+    <name>Andréa Brusque</name>
+    <role>Nathalie</role>
+    <type>Actor</type>
+    <tmdbid>1170603</tmdbid>
+  </actor>
+  <actor>
+    <name>Oussama Kheddam</name>
+    <role>Farid</role>
+    <type>Actor</type>
+    <tmdbid>1857656</tmdbid>
+  </actor>
+  <actor>
+    <name>Audrey Mikondo</name>
+    <role>Asma</role>
+    <type>Actor</type>
+    <tmdbid>3475424</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Gay</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>1898199</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadir Legrand</name>
+    <role>Directeur A.S.E.</role>
+    <type>Actor</type>
+    <tmdbid>545182</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Steffens</name>
+    <role>Marine</role>
+    <type>Actor</type>
+    <tmdbid>1568341</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Luc Vincent</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>1139100</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Gili-Pierre</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>1433000</tmdbid>
+  </actor>
+  <actor>
+    <name>Candice Bouchet</name>
+    <role>Carole</role>
+    <type>Actor</type>
+    <tmdbid>2287453</tmdbid>
+  </actor>
+  <actor>
+    <name>Holy Fatma</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>1957834</tmdbid>
+  </actor>
+  <actor>
+    <name>Léo Poulet</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>1957811</tmdbid>
+  </actor>
+  <actor>
+    <name>Coline Beal</name>
+    <role>Maëlle</role>
+    <type>Actor</type>
+    <tmdbid>1480741</tmdbid>
+    <imdbid>nm6891946</imdbid>
+    <tvdbid>8172921</tvdbid>
+  </actor>
+  <actor>
+    <name>Cédric Vieira</name>
+    <role>Yann</role>
+    <type>Actor</type>
+    <tmdbid>1115227</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Bouligand</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>4151468</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaëtan Peau</name>
+    <role>Claude</role>
+    <type>Actor</type>
+    <tmdbid>3524769</tmdbid>
+  </actor>
+  <actor>
+    <name>Hervé Lassïnce</name>
+    <role>Médecin foyer A.S.E.</role>
+    <type>Actor</type>
+    <tmdbid>544834</tmdbid>
+  </actor>
+  <director tmdbid="2247882">Delphine Deloget</director>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>All to Play For</sorttitle>
+  <imdbid>tt14748950</imdbid>
+  <tmdbid>966488</tmdbid>
+  <premiered>2023-11-21</premiered>
+  <releasedate>2023-11-21</releasedate>
+  <runtime>112</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Curiosa Films</studio>
+  <studio>France 3 Cinéma</studio>
+  <studio>uMedia</studio>
+  <studio>UNITÉ</studio>
+  <uniqueid type="tmdb">966488</uniqueid>
+  <uniqueid type="imdb">tt14748950</uniqueid>
+  <id>tt14748950</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>911853</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>524280:219037</aspect>
+        <aspectratio>524280:219037</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6722</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160582</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>137</bitrate>
+        <width>971</width>
+        <height>60</height>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

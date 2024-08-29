@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Desde 2014, en Francia, la justicia restauradora ofrece a las víctimas y perpetradores de delitos la oportunidad de diálogo a través de sistemas seguros, supervisados por profesionales y voluntarios como Judith, Fanny o Michel. Nassim, Issa y Thomas, sentenciados por robo con violencia, Gregoire, Nawelle y Sabine, víctimas de robo y bolso. También Chloe, víctima de una violación incestuosa, se involucra en medidas de justicia restauradora. En su viaje, hay ira y esperanza, silencio y palabras, alianzas y desamor, conciencia y confianza recuperada. Y al final del camino, a veces, reparación.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-24 09:24:21</dateadded>
+  <title>Las dos caras de la justicia</title>
+  <originaltitle>Je verrai toujours vos visages</originaltitle>
+  <actor>
+    <name>Birane Ba</name>
+    <role>Issa</role>
+    <type>Actor</type>
+    <tmdbid>2689723</tmdbid>
+  </actor>
+  <actor>
+    <name>Leïla Bekhti</name>
+    <role>Nawelle</role>
+    <type>Actor</type>
+    <tmdbid>23383</tmdbid>
+    <imdbid>nm1871951</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Benoît</name>
+    <role>Yvette</role>
+    <type>Actor</type>
+    <tmdbid>7282</tmdbid>
+  </actor>
+  <actor>
+    <name>Dali Benssalah</name>
+    <role>Nassim</role>
+    <type>Actor</type>
+    <tmdbid>1940747</tmdbid>
+  </actor>
+  <actor>
+    <name>Élodie Bouchez</name>
+    <role>Judith</role>
+    <type>Actor</type>
+    <tmdbid>59807</tmdbid>
+  </actor>
+  <actor>
+    <name>Suliane Brahim</name>
+    <role>Fanny</role>
+    <type>Actor</type>
+    <tmdbid>984598</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Darroussin</name>
+    <role>Michel</role>
+    <type>Actor</type>
+    <tmdbid>28463</tmdbid>
+    <imdbid>nm0201669</imdbid>
+    <tvdbid>530867</tvdbid>
+  </actor>
+  <actor>
+    <name>Adèle Exarchopoulos</name>
+    <role>Chloé Delarme</role>
+    <type>Actor</type>
+    <tmdbid>586757</tmdbid>
+    <imdbid>nm2650819</imdbid>
+  </actor>
+  <actor>
+    <name>Gilles Lellouche</name>
+    <role>Grégoire</role>
+    <type>Actor</type>
+    <tmdbid>54291</tmdbid>
+    <imdbid>nm0500976</imdbid>
+  </actor>
+  <actor>
+    <name>Miou-Miou</name>
+    <role>Sabine</role>
+    <type>Actor</type>
+    <tmdbid>4274</tmdbid>
+    <imdbid>nm0591877</imdbid>
+  </actor>
+  <actor>
+    <name>Pascal Sangla</name>
+    <role>Cyril</role>
+    <type>Actor</type>
+    <tmdbid>2651688</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Testot</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>84100</tmdbid>
+    <imdbid>nm0856493</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Podalydès</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>6020</tmdbid>
+    <imdbid>nm0687914</imdbid>
+  </actor>
+  <actor>
+    <name>Raphaël Quenard</name>
+    <role>Benjamin Delarme</role>
+    <type>Actor</type>
+    <tmdbid>2185414</tmdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Houbani</name>
+    <role>Mehdi</role>
+    <type>Actor</type>
+    <tmdbid>1186110</tmdbid>
+  </actor>
+  <actor>
+    <name>Roxane Barazzuol</name>
+    <role>Chloé Delarme as a Child</role>
+    <type>Actor</type>
+    <tmdbid>3092501</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Libert</name>
+    <role>Benjamin Delarme as Teenager</role>
+    <type>Actor</type>
+    <tmdbid>2403315</tmdbid>
+  </actor>
+  <actor>
+    <name>Néma Mercier</name>
+    <role>Gabrielle</role>
+    <type>Actor</type>
+    <tmdbid>3589686</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Jeudy</name>
+    <role>Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>3983096</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Arditi</name>
+    <role>Chloé's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>55927</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Couzinié</name>
+    <role>Physiotherapist</role>
+    <type>Actor</type>
+    <tmdbid>1852482</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Denarnaud</name>
+    <role>Chloé's Mother</role>
+    <type>Actor</type>
+    <tmdbid>55814</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzie Pilloux</name>
+    <role>Chloé's Neighbor as a Child</role>
+    <type>Actor</type>
+    <tmdbid>2968271</tmdbid>
+  </actor>
+  <actor>
+    <name>Kada Kader</name>
+    <role>Nassim's Father</role>
+    <type>Actor</type>
+    <tmdbid>1862558</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Bendhaou</name>
+    <role>Nour</role>
+    <type>Actor</type>
+    <tmdbid>2933247</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire de la Rüe du Can</name>
+    <role>Woman at SPIP</role>
+    <type>Actor</type>
+    <tmdbid>2092445</tmdbid>
+  </actor>
+  <actor>
+    <name>Roxan Bangalter</name>
+    <role>Gaspard</role>
+    <type>Actor</type>
+    <tmdbid>4394129</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Roesch</name>
+    <role>BU Student 1</role>
+    <type>Actor</type>
+    <tmdbid>3706631</tmdbid>
+  </actor>
+  <actor>
+    <name>Fanny Gaumont</name>
+    <role>BU Student 2</role>
+    <type>Actor</type>
+    <tmdbid>4394131</tmdbid>
+  </actor>
+  <actor>
+    <name>Cyril Broutin</name>
+    <role>Paris Waiter at Terrace 'Le Barlu'</role>
+    <type>Actor</type>
+    <tmdbid>4394138</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara-Jeanne Drillaud</name>
+    <role>AAV Secretary</role>
+    <type>Actor</type>
+    <tmdbid>2328319</tmdbid>
+  </actor>
+  <actor>
+    <name>Éric Carrasco</name>
+    <role>Waiter at Brewery 'Le Grillon'</role>
+    <type>Actor</type>
+    <tmdbid>1703171</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdel Talhaoui</name>
+    <role>Nawelle's Husband</role>
+    <type>Actor</type>
+    <tmdbid>4394428</tmdbid>
+  </actor>
+  <actor>
+    <name>Fanny Gaudey</name>
+    <role>Circus Teacher 1</role>
+    <type>Actor</type>
+    <tmdbid>4394429</tmdbid>
+  </actor>
+  <actor>
+    <name>Gilson Correia Santos</name>
+    <role>Circus Teacher 2</role>
+    <type>Actor</type>
+    <tmdbid>4394434</tmdbid>
+  </actor>
+  <actor>
+    <name>Hélène Deschaumes</name>
+    <role>Martine, Wife of Michel</role>
+    <type>Actor</type>
+    <tmdbid>4394438</tmdbid>
+  </actor>
+  <actor>
+    <name>Léna Martin</name>
+    <role>Héloïse, Friend of Chloé</role>
+    <type>Actor</type>
+    <tmdbid>4394441</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Martin</name>
+    <role>Chloé's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4394443</tmdbid>
+  </actor>
+  <actor>
+    <name>Valérie Enquin</name>
+    <role>Chloé's Psychologist</role>
+    <type>Actor</type>
+    <tmdbid>3599338</tmdbid>
+  </actor>
+  <actor>
+    <name>Hubert Delattre</name>
+    <role>Fanny's Guy</role>
+    <type>Actor</type>
+    <tmdbid>1048754</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Hassaim</name>
+    <role>France Trainee Victim 1</role>
+    <type>Actor</type>
+    <tmdbid>4394444</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Senane</name>
+    <role>France Trainee Victim 2</role>
+    <type>Actor</type>
+    <tmdbid>4394478</tmdbid>
+  </actor>
+  <actor>
+    <name>Véronique Frumy</name>
+    <role>France Trainee Victim 3</role>
+    <type>Actor</type>
+    <tmdbid>2532985</tmdbid>
+  </actor>
+  <actor>
+    <name>Estelle Desydol</name>
+    <role>Young Female Psychologist (City Hall)</role>
+    <type>Actor</type>
+    <tmdbid>3817902</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Yearwood</name>
+    <role>Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>4394487</tmdbid>
+  </actor>
+  <director tmdbid="19066">Jeanne Herry</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W8CoqmRGlOI</trailer>
+  <rating>7.6</rating>
+  <year>2023</year>
+  <sorttitle>Las dos caras de la justicia</sorttitle>
+  <imdbid>tt24070754</imdbid>
+  <tmdbid>1000492</tmdbid>
+  <premiered>2023-03-29</premiered>
+  <releasedate>2023-03-29</releasedate>
+  <runtime>118</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Chi-Fou-Mi Productions</studio>
+  <studio>Trésor Films</studio>
+  <studio>France 3 Cinéma</studio>
+  <uniqueid type="imdb">tt24070754</uniqueid>
+  <uniqueid type="tmdb">1000492</uniqueid>
+  <id>tt24070754</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>914946</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7060</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>159999</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

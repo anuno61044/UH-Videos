@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un equipo de baloncesto entrena y compite en las Olimpiadas Especiales bajo la guía de un entrenador imperfecto pero dedicado, Marcus. Remake de la exitosa película de Javier Fesser 'Campeones']]></plot>
+  <outline><![CDATA[Todo gran equipo empieza en algún lugar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-30 11:00:31</dateadded>
+  <title>Champions</title>
+  <originaltitle>Champions</originaltitle>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Kaitlin Olson</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <tmdbid>95102</tmdbid>
+    <imdbid>nm0647698</imdbid>
+  </actor>
+  <actor>
+    <name>Cheech Marin</name>
+    <role>Julio</role>
+    <type>Actor</type>
+    <tmdbid>11159</tmdbid>
+    <imdbid>nm0001507</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Cook</name>
+    <role>Sonny</role>
+    <type>Actor</type>
+    <tmdbid>949241</tmdbid>
+    <imdbid>nm3129512</imdbid>
+  </actor>
+  <actor>
+    <name>Ernie Hudson</name>
+    <role>Coach Phil Peretti</role>
+    <type>Actor</type>
+    <tmdbid>8874</tmdbid>
+    <imdbid>nm0001368</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Tevlin</name>
+    <role>Cosentino</role>
+    <type>Actor</type>
+    <tmdbid>3662935</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Felder</name>
+    <role>Darius</role>
+    <type>Actor</type>
+    <tmdbid>3677601</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Iannucci</name>
+    <role>Johnny</role>
+    <type>Actor</type>
+    <tmdbid>2821641</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashton Gunning</name>
+    <role>Cody</role>
+    <type>Actor</type>
+    <tmdbid>3834983</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Von Der Ahe</name>
+    <role>Craig</role>
+    <type>Actor</type>
+    <tmdbid>3834984</tmdbid>
+  </actor>
+  <actor>
+    <name>James Day Keith</name>
+    <role>Benny</role>
+    <type>Actor</type>
+    <tmdbid>3834986</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Hintz</name>
+    <role>Arthur</role>
+    <type>Actor</type>
+    <tmdbid>3834988</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Metcalfe</name>
+    <role>Marlon</role>
+    <type>Actor</type>
+    <tmdbid>3834990</tmdbid>
+  </actor>
+  <actor>
+    <name>Bradley Edens</name>
+    <role>Showtime</role>
+    <type>Actor</type>
+    <tmdbid>3834992</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Johnston</name>
+    <role>Coach Maya</role>
+    <type>Actor</type>
+    <tmdbid>1701243</tmdbid>
+    <imdbid>nm1770466</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Sinclair</name>
+    <role>Blair</role>
+    <type>Actor</type>
+    <tmdbid>3942535</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Smith</name>
+    <role>Attorney McGurk</role>
+    <type>Actor</type>
+    <tmdbid>1219130</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Pollard</name>
+    <role>Dot</role>
+    <type>Actor</type>
+    <tmdbid>1235536</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Castillo</name>
+    <role>Judge Mary Menendez</role>
+    <type>Actor</type>
+    <tmdbid>190944</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Jacques Javier</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1356237</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Van Pelt</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>2474447</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalen Rose</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>1234767</tmdbid>
+  </actor>
+  <actor>
+    <name>Seán Cullen</name>
+    <role>Frank O'Connolly</role>
+    <type>Actor</type>
+    <tmdbid>1216713</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Blair</name>
+    <role>Blake Lassiter</role>
+    <type>Actor</type>
+    <tmdbid>208069</tmdbid>
+    <imdbid>nm2811073</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan DeLong</name>
+    <role>Headband</role>
+    <type>Actor</type>
+    <tmdbid>3373363</tmdbid>
+  </actor>
+  <actor>
+    <name>Cory Wojcik</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>1747058</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Cochrane</name>
+    <role>Mother on Bus</role>
+    <type>Actor</type>
+    <tmdbid>1923452</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddy Norman</name>
+    <role>Child on Bus</role>
+    <type>Actor</type>
+    <tmdbid>3882817</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sy</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2154533</tmdbid>
+  </actor>
+  <actor>
+    <name>Clint Allen</name>
+    <role>Shakespeare Actor</role>
+    <type>Actor</type>
+    <tmdbid>1853167</tmdbid>
+  </actor>
+  <actor>
+    <name>Heath Vermette</name>
+    <role>Factory Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>2873696</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Hughes</name>
+    <role>Opposing Coach</role>
+    <type>Actor</type>
+    <tmdbid>75813</tmdbid>
+    <imdbid>nm2239011</imdbid>
+  </actor>
+  <actor>
+    <name>Champ Pederson</name>
+    <role>Peter the 'Ringer'</role>
+    <type>Actor</type>
+    <tmdbid>4309971</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanne Zahaiko</name>
+    <role>The Beasts Coach</role>
+    <type>Actor</type>
+    <tmdbid>4309978</tmdbid>
+  </actor>
+  <actor>
+    <name>Lois Brothers</name>
+    <role>Referee</role>
+    <type>Actor</type>
+    <tmdbid>2986115</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryder Dueck</name>
+    <role>Spectator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4309986</tmdbid>
+  </actor>
+  <actor>
+    <name>Vance Halldorson</name>
+    <role>Cheering Spectator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3789812</tmdbid>
+  </actor>
+  <director tmdbid="7395" imdbid="nm0268370">Bobby Farrelly</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9h3MrkxTSGk</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Champions</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15339570</imdbid>
+  <tmdbid>933419</tmdbid>
+  <premiered>2023-03-09</premiered>
+  <releasedate>2023-03-09</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>124</runtime>
+  <tagline>Todo gran equipo empieza en algún lugar.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Gold Circle Films</studio>
+  <studio>Focus Features</studio>
+  <uniqueid type="tmdb">933419</uniqueid>
+  <uniqueid type="imdb">tt15339570</uniqueid>
+  <id>tt15339570</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>896758</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7455</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

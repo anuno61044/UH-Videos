@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una historia de origen de la clarividente conocida como Madame Web, cuyas habilidades psíquicas le permiten ver dentro del mundo de las arañas.]]></plot>
+  <outline><![CDATA[Su red los conecta a todos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-15 11:32:29</dateadded>
+  <title>Madame Web</title>
+  <originaltitle>Madame Web</originaltitle>
+  <actor>
+    <name>Dakota Johnson</name>
+    <role>Cassandra 'Cassie' Webb / Madame Web</role>
+    <type>Actor</type>
+    <tmdbid>118545</tmdbid>
+    <imdbid>nm0424848</imdbid>
+  </actor>
+  <actor>
+    <name>Sydney Sweeney</name>
+    <role>Julia Cornwall</role>
+    <type>Actor</type>
+    <tmdbid>115440</tmdbid>
+    <imdbid>nm2858875</imdbid>
+    <tvdbid>304835</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabela Merced</name>
+    <role>Anya Corazon</role>
+    <type>Actor</type>
+    <tmdbid>1428070</tmdbid>
+  </actor>
+  <actor>
+    <name>Celeste O'Connor</name>
+    <role>Mattie Franklin</role>
+    <type>Actor</type>
+    <tmdbid>1972881</tmdbid>
+  </actor>
+  <actor>
+    <name>Tahar Rahim</name>
+    <role>Ezekiel Sims</role>
+    <type>Actor</type>
+    <tmdbid>81051</tmdbid>
+    <imdbid>nm2588665</imdbid>
+    <tvdbid>479751</tvdbid>
+  </actor>
+  <actor>
+    <name>Kerry Bishé</name>
+    <role>Constance Webb</role>
+    <type>Actor</type>
+    <tmdbid>58356</tmdbid>
+    <imdbid>nm2628935</imdbid>
+    <tvdbid>404083</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Scott</name>
+    <role>Ben Parker</role>
+    <type>Actor</type>
+    <tmdbid>36801</tmdbid>
+    <imdbid>nm0004395</imdbid>
+    <tvdbid>274370</tvdbid>
+  </actor>
+  <actor>
+    <name>Emma Roberts</name>
+    <role>Mary Parker</role>
+    <type>Actor</type>
+    <tmdbid>34847</tmdbid>
+    <imdbid>nm0731075</imdbid>
+    <tvdbid>334674</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Epps</name>
+    <role>O'Neil</role>
+    <type>Actor</type>
+    <tmdbid>51944</tmdbid>
+    <imdbid>nm0258402</imdbid>
+  </actor>
+  <actor>
+    <name>Zosia Mamet</name>
+    <role>Amaria</role>
+    <type>Actor</type>
+    <tmdbid>206966</tmdbid>
+    <imdbid>nm0541082</imdbid>
+    <tvdbid>384981</tvdbid>
+  </actor>
+  <actor>
+    <name>José María Yázpik</name>
+    <role>Santiago</role>
+    <type>Actor</type>
+    <tmdbid>72128</tmdbid>
+    <imdbid>nm0946962</imdbid>
+    <tvdbid>576183</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Drennen</name>
+    <role>Mr. Cornwall</role>
+    <type>Actor</type>
+    <tmdbid>1480514</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathy-Ann Hart</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>1913987</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuma Feldman</name>
+    <role>Julia’s Half Sibling</role>
+    <type>Actor</type>
+    <tmdbid>4535123</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Hennessy</name>
+    <role>Beautiful Woman / NSA Agent</role>
+    <type>Actor</type>
+    <tmdbid>50877</tmdbid>
+    <imdbid>nm0005007</imdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Crimp</name>
+    <role>Opera Singer</role>
+    <type>Actor</type>
+    <tmdbid>4535125</tmdbid>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Landlord</role>
+    <type>Actor</type>
+    <tmdbid>1745909</tmdbid>
+    <imdbid>nm3608877</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Ellis</name>
+    <role>Chloe</role>
+    <type>Actor</type>
+    <tmdbid>2396826</tmdbid>
+  </actor>
+  <actor>
+    <name>Kris Sidberry</name>
+    <role>Ann</role>
+    <type>Actor</type>
+    <tmdbid>1863673</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Souza</name>
+    <role>Loma</role>
+    <type>Actor</type>
+    <tmdbid>1891940</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Washington</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1754744</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawnna Thibodeau</name>
+    <role>MTA Cop</role>
+    <type>Actor</type>
+    <tmdbid>1554926</tmdbid>
+  </actor>
+  <actor>
+    <name>Gopal Lalwani</name>
+    <role>Midtown Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>2437766</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Malvesti</name>
+    <role>Trucker</role>
+    <type>Actor</type>
+    <tmdbid>2029531</tmdbid>
+    <imdbid>nm4024589</imdbid>
+  </actor>
+  <actor>
+    <name>Rena Maliszewski</name>
+    <role>Doctor (OBGYN)</role>
+    <type>Actor</type>
+    <tmdbid>1956550</tmdbid>
+    <imdbid>nm2728453</imdbid>
+  </actor>
+  <actor>
+    <name>Miranda Adekoje</name>
+    <role>Doctor (Optometry)</role>
+    <type>Actor</type>
+    <tmdbid>4535126</tmdbid>
+  </actor>
+  <actor>
+    <name>Deirdre McCourt</name>
+    <role>Fresh Faced Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3085281</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Faherty</name>
+    <role>Firefighter</role>
+    <type>Actor</type>
+    <tmdbid>1274540</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Bedgood</name>
+    <role>New York Dude</role>
+    <type>Actor</type>
+    <tmdbid>3583397</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Bash</name>
+    <role>Business Man</role>
+    <type>Actor</type>
+    <tmdbid>1535487</tmdbid>
+    <imdbid>nm1488998</imdbid>
+  </actor>
+  <actor>
+    <name>Cilda Shaur</name>
+    <role>Lady on Train</role>
+    <type>Actor</type>
+    <tmdbid>1956122</tmdbid>
+  </actor>
+  <director tmdbid="223551">S.J. Clarkson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=plv6ppDBGCk</trailer>
+  <rating>3.8</rating>
+  <year>2024</year>
+  <sorttitle>Madame Web</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11057302</imdbid>
+  <tmdbid>634492</tmdbid>
+  <premiered>2024-02-14</premiered>
+  <releasedate>2024-02-14</releasedate>
+  <criticrating>12</criticrating>
+  <runtime>118</runtime>
+  <tagline>Su red los conecta a todos.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Fantasía</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>di Bonaventura Pictures</studio>
+  <uniqueid type="imdb">tt11057302</uniqueid>
+  <uniqueid type="tmdb">634492</uniqueid>
+  <id>tt11057302</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>947060</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7069</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

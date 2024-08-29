@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Asha y una pequeña bola de energía ilimitada llamada Star demuestran que cuando la voluntad de un ser humano valiente se conecta con la magia de las estrellas, pueden suceder cosas maravillosas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-23 08:20:38</dateadded>
+  <title>Wish: El poder de los deseos</title>
+  <originaltitle>Wish</originaltitle>
+  <actor>
+    <name>Ariana DeBose</name>
+    <role>Asha (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1437491</tmdbid>
+    <tvdbid>8163444</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Pine</name>
+    <role>Magnifico (voice)</role>
+    <type>Actor</type>
+    <tmdbid>62064</tmdbid>
+    <imdbid>nm1517976</imdbid>
+    <tvdbid>255166</tvdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Valentino (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+    <tvdbid>295572</tvdbid>
+  </actor>
+  <actor>
+    <name>Angelique Cabral</name>
+    <role>Amaya (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1001536</tmdbid>
+    <imdbid>nm2512132</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Garber</name>
+    <role>Sarric (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8536</tmdbid>
+    <imdbid>nm0001255</imdbid>
+    <tvdbid>280196</tvdbid>
+  </actor>
+  <actor>
+    <name>Natasha Rothwell</name>
+    <role>Sakina (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1546282</tmdbid>
+    <imdbid>nm5625020</imdbid>
+    <tvdbid>654915</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Kumiyama</name>
+    <role>Dahlia (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1519596</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvey Guillén</name>
+    <role>Gabo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>210172</tmdbid>
+    <imdbid>nm2957490</imdbid>
+    <tvdbid>7884889</tvdbid>
+  </actor>
+  <actor>
+    <name>Niko Vargas</name>
+    <role>Hal (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3782649</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Peters</name>
+    <role>Simon (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55089</tmdbid>
+    <imdbid>nm1404239</imdbid>
+    <tvdbid>358570</tvdbid>
+  </actor>
+  <actor>
+    <name>Ramy Youssef</name>
+    <role>Safi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1382987</tmdbid>
+    <imdbid>nm3858973</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Rudnitsky</name>
+    <role>Dario (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1714925</tmdbid>
+    <imdbid>nm4339544</imdbid>
+    <tvdbid>404906</tvdbid>
+  </actor>
+  <actor>
+    <name>Della Saba</name>
+    <role>Bazeema (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1610446</tmdbid>
+  </actor>
+  <actor>
+    <name>Keone Young</name>
+    <role>Mountain Climber / Tall Man Tourist / Guard 1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>91387</tmdbid>
+    <imdbid>nm0949775</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Sigler</name>
+    <role>Bunny / Baby Mushroom (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4368170</tmdbid>
+  </actor>
+  <actor>
+    <name>Holland Watkins</name>
+    <role>Mouse / Mountain Climber Wife (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3804184</tmdbid>
+  </actor>
+  <actor>
+    <name>Woody Buck</name>
+    <role>The Stag / Guard 2 / Citizen 5 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340671</tmdbid>
+  </actor>
+  <actor>
+    <name>Efé</name>
+    <role>Ship Captain / Fan Tourist (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1181333</tmdbid>
+    <imdbid>nm3721359</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Lynn Evans</name>
+    <role>Mountain Climber's Wife / Mother Tourist (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1195144</tmdbid>
+  </actor>
+  <actor>
+    <name>Heather Matarazzo</name>
+    <role>Flying Woman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>33656</tmdbid>
+    <imdbid>nm0000525</imdbid>
+  </actor>
+  <actor>
+    <name>Nasim Pedrad</name>
+    <role>Sania (voice)</role>
+    <type>Actor</type>
+    <tmdbid>476163</tmdbid>
+    <imdbid>nm1840659</imdbid>
+  </actor>
+  <actor>
+    <name>Abraham Sigler</name>
+    <role>Tourist Boy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2568547</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvette Nicole Brown</name>
+    <role>"I'm A Star" Vocalist</role>
+    <type>Actor</type>
+    <tmdbid>111513</tmdbid>
+    <imdbid>nm1304328</imdbid>
+    <tvdbid>297473</tvdbid>
+  </actor>
+  <actor>
+    <name>James Monroe Iglehart</name>
+    <role>"I'm A Star" Vocalist</role>
+    <type>Actor</type>
+    <tmdbid>1473281</tmdbid>
+  </actor>
+  <director tmdbid="15774">Chris Buck</director>
+  <director tmdbid="2375591">Fawn Veerasunthorn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wksl-PoHC4w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7KC4Wob5FBA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CdDxYZkCj6c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WPVF02itjAU</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Wish: El poder de los deseos</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt11304740</imdbid>
+  <tmdbid>1022796</tmdbid>
+  <premiered>2023-11-13</premiered>
+  <releasedate>2023-11-13</releasedate>
+  <criticrating>48</criticrating>
+  <runtime>95</runtime>
+  <country>United States of America</country>
+  <genre>Animación</genre>
+  <genre>Familia</genre>
+  <genre>Fantasía</genre>
+  <genre>Aventura</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Walt Disney Animation Studios</studio>
+  <uniqueid type="tmdb">1022796</uniqueid>
+  <uniqueid type="imdb">tt11304740</uniqueid>
+  <id>tt11304740</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149861</bitrate>
+        <width>1280</width>
+        <height>500</height>
+        <aspect>959:375</aspect>
+        <aspectratio>959:375</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5696</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130478</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>bg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

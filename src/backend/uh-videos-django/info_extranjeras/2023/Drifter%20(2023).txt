@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Moritz follows a boyfriend to Berlin and is soon abandoned by him. Alone in the big city, he embarks on a journey through a wide range of queer experience. Only through a new circle of queer friends does he develop his own ideas of sexuality and masculinity, leading him to a clearer self-identity.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-10 10:04:15</dateadded>
+  <title>Drifter</title>
+  <originaltitle>Drifter</originaltitle>
+  <actor>
+    <name>Lorenz Hochhuth</name>
+    <role>Moritz</role>
+    <type>Actor</type>
+    <tmdbid>3163943</tmdbid>
+  </actor>
+  <actor>
+    <name>Cino Djavid</name>
+    <role>Noah</role>
+    <type>Actor</type>
+    <tmdbid>3130037</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustav Schmidt</name>
+    <role>Jonas</role>
+    <type>Actor</type>
+    <tmdbid>1947797</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Hoppe</name>
+    <role>Stefan</role>
+    <type>Actor</type>
+    <tmdbid>3189653</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Tragousti</name>
+    <role>Eleftheria</role>
+    <type>Actor</type>
+    <tmdbid>2512786</tmdbid>
+  </actor>
+  <actor>
+    <name>Aviran Edri</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>2850537</tmdbid>
+  </actor>
+  <actor>
+    <name>Cat Jugravu</name>
+    <role>Kasi</role>
+    <type>Actor</type>
+    <tmdbid>3705573</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Grubert</name>
+    <type>Actor</type>
+    <tmdbid>3703188</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Karim Howard</name>
+    <role>Ron</role>
+    <type>Actor</type>
+    <tmdbid>3881898</tmdbid>
+  </actor>
+  <actor>
+    <name>Rabea Egg</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1522135</tmdbid>
+  </actor>
+  <actor>
+    <name>Elaine Cameron</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>1899251</tmdbid>
+  </actor>
+  <director tmdbid="1209979">Hannes Hirsch</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0OgQhmJ2zFQ</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Drifter</sorttitle>
+  <imdbid>tt26389817</imdbid>
+  <tmdbid>1025802</tmdbid>
+  <premiered>2023-11-02</premiered>
+  <releasedate>2023-11-02</releasedate>
+  <runtime>79</runtime>
+  <country>Germany</country>
+  <genre>Drama</genre>
+  <studio>Jost Hering Filmproduktion</studio>
+  <studio>Salzgeber &amp; Co. Medien</studio>
+  <studio>Milieufilm</studio>
+  <uniqueid type="tmdb">1025802</uniqueid>
+  <uniqueid type="imdb">tt26389817</uniqueid>
+  <id>tt26389817</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149936</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>79</duration>
+        <durationinseconds>4759</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129821</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La vida y la carrera de Jules como drag queen quedan destruidas por un brutal ataque homófobo. Pero cuando se reencuentra en una sauna gay con su agresor, Preston, que mantiene oculta su orientación sexual, se le presenta la oportunidad de vengarse. Irreconocible sin su peluca y maquillaje, Jules se infiltra en la vida de Preston y, al hacerlo, inicia una peligrosa seducción.]]></plot>
+  <outline><![CDATA[La seducción es venganza.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-27 21:37:38</dateadded>
+  <title>Femme</title>
+  <originaltitle>Femme</originaltitle>
+  <actor>
+    <name>Nathan Stewart-Jarrett</name>
+    <role>Jules</role>
+    <type>Actor</type>
+    <tmdbid>221980</tmdbid>
+    <imdbid>nm2805533</imdbid>
+    <tvdbid>452024</tvdbid>
+  </actor>
+  <actor>
+    <name>George MacKay</name>
+    <role>Preston</role>
+    <type>Actor</type>
+    <tmdbid>146750</tmdbid>
+    <imdbid>nm1126657</imdbid>
+    <tvdbid>459093</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonia Clarke</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>1278555</tmdbid>
+    <imdbid>nm4390920</imdbid>
+    <tvdbid>614876</tvdbid>
+  </actor>
+  <actor>
+    <name>Moe Bar-El</name>
+    <role>Donovan</role>
+    <type>Actor</type>
+    <tmdbid>1935849</tmdbid>
+    <tvdbid>537265</tvdbid>
+  </actor>
+  <actor>
+    <name>Nima Taleghani</name>
+    <role>Bijan</role>
+    <type>Actor</type>
+    <tmdbid>2482620</tmdbid>
+  </actor>
+  <actor>
+    <name>John Leader</name>
+    <role>Calvin</role>
+    <type>Actor</type>
+    <tmdbid>3122050</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Heffernan</name>
+    <role>Oz</role>
+    <type>Actor</type>
+    <tmdbid>1624770</tmdbid>
+  </actor>
+  <actor>
+    <name>John McCrea</name>
+    <role>Toby</role>
+    <type>Actor</type>
+    <tmdbid>1819918</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter McPherson</name>
+    <role>Concerned Man</role>
+    <type>Actor</type>
+    <tmdbid>2244410</tmdbid>
+  </actor>
+  <actor>
+    <name>Asha Reid</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>1972796</tmdbid>
+  </actor>
+  <actor>
+    <name>Paris Tenana</name>
+    <role>Larry</role>
+    <type>Actor</type>
+    <tmdbid>4484663</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Walker-Edwards</name>
+    <role>Locker Room Guy</role>
+    <type>Actor</type>
+    <tmdbid>2219081</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Clements</name>
+    <role>Anton</role>
+    <type>Actor</type>
+    <tmdbid>3015388</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Milner</name>
+    <role>Lee</role>
+    <type>Actor</type>
+    <tmdbid>1958366</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Torrecilla</name>
+    <role>Sauna Man</role>
+    <type>Actor</type>
+    <tmdbid>2910222</tmdbid>
+  </actor>
+  <director tmdbid="2818891">Sam H. Freeman</director>
+  <director tmdbid="3004520">Ng Choon Ping</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xwUv4md9uXA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FaKJNULin-8</trailer>
+  <rating>7.7</rating>
+  <year>2023</year>
+  <sorttitle>Femme</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt20114686</imdbid>
+  <tmdbid>976581</tmdbid>
+  <premiered>2023-12-01</premiered>
+  <releasedate>2023-12-01</releasedate>
+  <runtime>99</runtime>
+  <tagline>La seducción es venganza.</tagline>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Agile Films</studio>
+  <studio>BBC Film</studio>
+  <studio>Anton</studio>
+  <uniqueid type="imdb">tt20114686</uniqueid>
+  <uniqueid type="tmdb">976581</uniqueid>
+  <id>tt20114686</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1989417</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>60</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5910</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

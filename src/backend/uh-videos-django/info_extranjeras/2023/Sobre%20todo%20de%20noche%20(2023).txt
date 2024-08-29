@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Esta es la historia del encuentro de dos mujeres de cincuenta años a orillas del río Duero. Una película de cine negro con tres muertes, dos robos y una huída. Cuando Vera (Lola Dueñas) era joven, no pudo hacerse cargo de su hijo y tuvo que darlo en adopción. Cuando Cora (Ana Torrent) era joven, su médico le dijo que no podría tener hijos y que sólo adoptando podría formar una familia. Ambas comparten esa experiencia de haber sido madres de un niño llamado Egoz (Manuel Egozkue). Ahora, nuestras dos protagonistas se reencuentran en Portugal para repasar la historia de sus vidas y reescribir sus destinos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-12 11:19:56</dateadded>
+  <title>Sobre todo de noche</title>
+  <originaltitle>Sobre todo de noche</originaltitle>
+  <actor>
+    <name>Lola Dueñas</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>2759</tmdbid>
+    <imdbid>nm0240318</imdbid>
+    <tvdbid>448261</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Torrent</name>
+    <role>Cora</role>
+    <type>Actor</type>
+    <tmdbid>24976</tmdbid>
+    <imdbid>nm0868479</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Egozkue</name>
+    <role>Egoz</role>
+    <type>Actor</type>
+    <tmdbid>2926923</tmdbid>
+  </actor>
+  <actor>
+    <name>María Vázquez</name>
+    <role>Bibliotecaria</role>
+    <type>Actor</type>
+    <tmdbid>592475</tmdbid>
+    <imdbid>nm0904808</imdbid>
+    <tvdbid>465795</tvdbid>
+  </actor>
+  <director tmdbid="1181192">Victor Iriarte</director>
+  <rating>8</rating>
+  <year>2023</year>
+  <sorttitle>Sobre todo de noche</sorttitle>
+  <imdbid>tt21882016</imdbid>
+  <tmdbid>1108329</tmdbid>
+  <premiered>2023-12-01</premiered>
+  <releasedate>2023-12-01</releasedate>
+  <runtime>109</runtime>
+  <country>Spain</country>
+  <country>France</country>
+  <country>Portugal</country>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Crimen</genre>
+  <studio>4 A 4 Productions</studio>
+  <studio>Atekaleun</studio>
+  <studio>La Termita Films</studio>
+  <studio>Ukbar Filmes</studio>
+  <studio>CSC Films</studio>
+  <studio>Film Factory</studio>
+  <uniqueid type="tmdb">1108329</uniqueid>
+  <uniqueid type="imdb">tt21882016</uniqueid>
+  <id>tt21882016</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1398940</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6558</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

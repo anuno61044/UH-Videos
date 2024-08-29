@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Baltimore, la noche de Año Nuevo. Un feroz ataque producido por un único hombre deja un saldo de 29 muertos y ni una sola pista. Eleanor Falco (Shailene Woodley), una retraída pero talentosa mujer policía de bajo rango, es reclutada por el agente especial del FBI Geoffrey Lammark (Ben Mendelsohn) para integrar el equipo a cargo de la identificación y captura del homicida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-17 08:44:36</dateadded>
+  <title>Misántropo</title>
+  <originaltitle>To Catch a Killer</originaltitle>
+  <actor>
+    <name>Shailene Woodley</name>
+    <role>Eleanor Falco</role>
+    <type>Actor</type>
+    <tmdbid>94185</tmdbid>
+    <imdbid>nm0940362</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Mendelsohn</name>
+    <role>Geoffrey Lammark</role>
+    <type>Actor</type>
+    <tmdbid>77335</tmdbid>
+    <imdbid>nm0578853</imdbid>
+    <tvdbid>262333</tvdbid>
+  </actor>
+  <actor>
+    <name>Jovan Adepo</name>
+    <role>MacKenzie</role>
+    <type>Actor</type>
+    <tmdbid>1607522</tmdbid>
+    <imdbid>nm5381254</imdbid>
+    <tvdbid>582438</tvdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>Dean Possey</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Dunsmore</name>
+    <role>Mrs. Possey</role>
+    <type>Actor</type>
+    <tmdbid>44275</tmdbid>
+    <imdbid>nm0243024</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Cavalier</name>
+    <role>Marquand</role>
+    <type>Actor</type>
+    <tmdbid>30617</tmdbid>
+    <imdbid>nm0146767</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Camacho</name>
+    <role>Chief Karl Jackson</role>
+    <type>Actor</type>
+    <tmdbid>7013</tmdbid>
+  </actor>
+  <actor>
+    <name>Darcy Laurie</name>
+    <role>Ramsey Lang</role>
+    <type>Actor</type>
+    <tmdbid>1216570</tmdbid>
+    <imdbid>nm0491394</imdbid>
+  </actor>
+  <actor>
+    <name>Karine Dion</name>
+    <role>Mrs. Miller</role>
+    <type>Actor</type>
+    <tmdbid>1686908</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Holden</name>
+    <role>Forensics Chief</role>
+    <type>Actor</type>
+    <tmdbid>115596</tmdbid>
+    <imdbid>nm0390161</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Zeman</name>
+    <role>Frank Graber</role>
+    <type>Actor</type>
+    <tmdbid>129419</tmdbid>
+    <imdbid>nm0954728</imdbid>
+  </actor>
+  <actor>
+    <name>Adam LeBlanc</name>
+    <role>Denny's Manager</role>
+    <type>Actor</type>
+    <tmdbid>2718351</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Tucker</name>
+    <role>Officer Coleman</role>
+    <type>Actor</type>
+    <tmdbid>937792</tmdbid>
+    <imdbid>nm0876003</imdbid>
+  </actor>
+  <actor>
+    <name>Erniel Baez Duenas</name>
+    <role>Surveillance Employee</role>
+    <type>Actor</type>
+    <tmdbid>1749659</tmdbid>
+  </actor>
+  <actor>
+    <name>Dusan Dukic</name>
+    <role>Krupp</role>
+    <type>Actor</type>
+    <tmdbid>84832</tmdbid>
+    <imdbid>nm1428452</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Brown</name>
+    <role>Fire Chief</role>
+    <type>Actor</type>
+    <tmdbid>1696131</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Antony Krupa</name>
+    <role>Dimitri Bovrov</role>
+    <type>Actor</type>
+    <tmdbid>131336</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Cram</name>
+    <role>Gavin</role>
+    <type>Actor</type>
+    <tmdbid>63857</tmdbid>
+  </actor>
+  <actor>
+    <name>Nabil Khatib</name>
+    <role>Buff Shopper</role>
+    <type>Actor</type>
+    <tmdbid>2753896</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Hart</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>3421413</tmdbid>
+  </actor>
+  <actor>
+    <name>Teneisha Collins</name>
+    <role>Reporter at Press Park</role>
+    <type>Actor</type>
+    <tmdbid>1908224</tmdbid>
+  </actor>
+  <actor>
+    <name>Luc Morissette</name>
+    <role>Old Timer</role>
+    <type>Actor</type>
+    <tmdbid>1056479</tmdbid>
+    <imdbid>nm0607367</imdbid>
+  </actor>
+  <actor>
+    <name>Chistian Jadah</name>
+    <role>Hank</role>
+    <type>Actor</type>
+    <tmdbid>1646452</tmdbid>
+  </actor>
+  <actor>
+    <name>Leyda Aleyli</name>
+    <role>Rodney Lang's Wife</role>
+    <type>Actor</type>
+    <tmdbid>109486</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Elston</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>4067938</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilou Roy-Lanouette</name>
+    <role>Haley</role>
+    <type>Actor</type>
+    <tmdbid>2407488</tmdbid>
+  </actor>
+  <actor>
+    <name>Edith Dandenault</name>
+    <role>Paramedic #1</role>
+    <type>Actor</type>
+    <tmdbid>3102571</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Pluviose</name>
+    <role>Mall Head of Security</role>
+    <type>Actor</type>
+    <tmdbid>1158762</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxime Afshar</name>
+    <role>Hasna Rahmani</role>
+    <type>Actor</type>
+    <tmdbid>4067940</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Labbé</name>
+    <role>Hicks</role>
+    <type>Actor</type>
+    <tmdbid>234117</tmdbid>
+    <imdbid>nm0479412</imdbid>
+  </actor>
+  <actor>
+    <name>Lesley Pahl</name>
+    <role>Katherine Radford</role>
+    <type>Actor</type>
+    <tmdbid>2551428</tmdbid>
+  </actor>
+  <actor>
+    <name>Alain Chanoine</name>
+    <role>Abraham Haynes</role>
+    <type>Actor</type>
+    <tmdbid>90725</tmdbid>
+    <imdbid>nm1736171</imdbid>
+  </actor>
+  <actor>
+    <name>Maurizio Terrazzano</name>
+    <role>Police Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>125686</tmdbid>
+    <imdbid>nm0855803</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Brochu</name>
+    <role>Interfering Man</role>
+    <type>Actor</type>
+    <tmdbid>1212859</tmdbid>
+    <imdbid>nm0110518</imdbid>
+  </actor>
+  <actor>
+    <name>Martyne Musau</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>3822216</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawn Lambing</name>
+    <role>Irene Michkin</role>
+    <type>Actor</type>
+    <tmdbid>990378</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Walker</name>
+    <role>Jesse Capleton</role>
+    <type>Actor</type>
+    <tmdbid>4199345</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Schorpion</name>
+    <role>Nathan Bowen</role>
+    <type>Actor</type>
+    <tmdbid>135993</tmdbid>
+    <imdbid>nm0774891</imdbid>
+  </actor>
+  <actor>
+    <name>Marcello Bezina</name>
+    <role>SWAT Commander</role>
+    <type>Actor</type>
+    <tmdbid>6064</tmdbid>
+    <imdbid>nm1445056</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Émmanuel Abellard</name>
+    <role>Landfill Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>2040069</tmdbid>
+  </actor>
+  <actor>
+    <name>Chip Chuipka</name>
+    <role>Jim Lassky</role>
+    <type>Actor</type>
+    <tmdbid>119481</tmdbid>
+  </actor>
+  <actor>
+    <name>Heidi Foss</name>
+    <role>Romona</role>
+    <type>Actor</type>
+    <tmdbid>1244428</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Dozier</name>
+    <role>Russ Adovich</role>
+    <type>Actor</type>
+    <tmdbid>1575472</tmdbid>
+  </actor>
+  <actor>
+    <name>Benz Antoine</name>
+    <role>Ballistic Examiner</role>
+    <type>Actor</type>
+    <tmdbid>80178</tmdbid>
+    <imdbid>nm0031162</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Day</name>
+    <role>Titch</role>
+    <type>Actor</type>
+    <tmdbid>1245839</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Gravenstein</name>
+    <role>Sneaky Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2325281</tmdbid>
+  </actor>
+  <director tmdbid="591600" imdbid="nm1167933">Damián Szifron</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9mCG5dHu9XQ</trailer>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>Misantropo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10275534</imdbid>
+  <tmdbid>605886</tmdbid>
+  <premiered>2023-04-06</premiered>
+  <releasedate>2023-04-06</releasedate>
+  <runtime>119</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>FilmNation Entertainment</studio>
+  <studio>RainMaker Films</studio>
+  <uniqueid type="imdb">tt10275534</uniqueid>
+  <uniqueid type="tmdb">605886</uniqueid>
+  <id>tt10275534</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>935046</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7153</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

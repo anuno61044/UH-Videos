@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un jugador adolescente de Gran Turismo gana una serie de campeonatos de Nissan y luego se convierte en un verdadero piloto de carreras profesional.]]></plot>
+  <outline><![CDATA[De jugador a corredor.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-26 08:11:17</dateadded>
+  <title>Gran Turismo</title>
+  <originaltitle>Gran Turismo</originaltitle>
+  <actor>
+    <name>Archie Madekwe</name>
+    <role>Jann Mardenborough</role>
+    <type>Actor</type>
+    <tmdbid>2249745</tmdbid>
+  </actor>
+  <actor>
+    <name>David Harbour</name>
+    <role>Jack Salter</role>
+    <type>Actor</type>
+    <tmdbid>35029</tmdbid>
+    <imdbid>nm1092086</imdbid>
+  </actor>
+  <actor>
+    <name>Orlando Bloom</name>
+    <role>Danny Moore</role>
+    <type>Actor</type>
+    <tmdbid>114</tmdbid>
+    <imdbid>nm0089217</imdbid>
+    <tvdbid>327467</tvdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>Steve Mardenborough</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Darren Barnet</name>
+    <role>Matty Davis</role>
+    <type>Actor</type>
+    <tmdbid>2000335</tmdbid>
+    <tvdbid>7919847</tvdbid>
+  </actor>
+  <actor>
+    <name>Maeve Courtier-Lilley</name>
+    <role>Audrey</role>
+    <type>Actor</type>
+    <tmdbid>3791173</tmdbid>
+  </actor>
+  <actor>
+    <name>Geri Horner</name>
+    <role>Lesley Mardenborough</role>
+    <type>Actor</type>
+    <tmdbid>47987</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Puig</name>
+    <role>Coby Mardenborough</role>
+    <type>Actor</type>
+    <tmdbid>3361723</tmdbid>
+  </actor>
+  <actor>
+    <name>Josha Stradowski</name>
+    <role>Nicholas Capa</role>
+    <type>Actor</type>
+    <tmdbid>1866384</tmdbid>
+    <tvdbid>7905986</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kretschmann</name>
+    <role>Patrice Capa</role>
+    <type>Actor</type>
+    <tmdbid>3491</tmdbid>
+    <imdbid>nm0470981</imdbid>
+  </actor>
+  <actor>
+    <name>Emelia Hartford</name>
+    <role>Leah Vega</role>
+    <type>Actor</type>
+    <tmdbid>3349398</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepe Barroso</name>
+    <role>Antonio Cruz</role>
+    <type>Actor</type>
+    <tmdbid>3791174</tmdbid>
+  </actor>
+  <actor>
+    <name>Sang Heon Lee</name>
+    <role>Joo-Hwan Lee</role>
+    <type>Actor</type>
+    <tmdbid>3495018</tmdbid>
+  </actor>
+  <actor>
+    <name>Maximilian Mundt</name>
+    <role>Klaus Hoffman</role>
+    <type>Actor</type>
+    <tmdbid>1722195</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariano González</name>
+    <role>Henry Evas</role>
+    <type>Actor</type>
+    <tmdbid>1697641</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Pattison</name>
+    <role>Chloe McCormick</role>
+    <type>Actor</type>
+    <tmdbid>3812324</tmdbid>
+  </actor>
+  <actor>
+    <name>Théo Christine</name>
+    <role>Marcel Durand</role>
+    <type>Actor</type>
+    <tmdbid>2004136</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikhil Parmar</name>
+    <role>Persol</role>
+    <type>Actor</type>
+    <tmdbid>3091776</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Cambridge</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>100738</tmdbid>
+  </actor>
+  <actor>
+    <name>Takehiro Hira</name>
+    <role>Kazunori Yamauchi</role>
+    <type>Actor</type>
+    <tmdbid>1082509</tmdbid>
+    <imdbid>nm3042346</imdbid>
+  </actor>
+  <actor>
+    <name>Niall McShea</name>
+    <role>Fredrick Schulin</role>
+    <type>Actor</type>
+    <tmdbid>3580266</tmdbid>
+  </actor>
+  <actor>
+    <name>Akie Kotabe</name>
+    <role>Akira Akiba</role>
+    <type>Actor</type>
+    <tmdbid>1322309</tmdbid>
+    <imdbid>nm2009056</imdbid>
+  </actor>
+  <actor>
+    <name>Sadao Ueda</name>
+    <role>Skeptical Nissan Board Member</role>
+    <type>Actor</type>
+    <tmdbid>1599258</tmdbid>
+  </actor>
+  <actor>
+    <name>Wai Wong</name>
+    <role>Senior Nissan Executive</role>
+    <type>Actor</type>
+    <tmdbid>4208600</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Kenna</name>
+    <role>Jack Man Jones</role>
+    <type>Actor</type>
+    <tmdbid>1035069</tmdbid>
+    <imdbid>nm1616822</imdbid>
+  </actor>
+  <actor>
+    <name>Royce Cronin</name>
+    <role>Capa Team Leader</role>
+    <type>Actor</type>
+    <tmdbid>1241872</tmdbid>
+    <imdbid>nm0188803</imdbid>
+  </actor>
+  <actor>
+    <name>Harki Bhambra</name>
+    <role>Avi Bhatt</role>
+    <type>Actor</type>
+    <tmdbid>1508552</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanne Heywood</name>
+    <role>Clothing Customer</role>
+    <type>Actor</type>
+    <tmdbid>1214790</tmdbid>
+  </actor>
+  <actor>
+    <name>Cavan Jones</name>
+    <role>Kid Playing at Gamer Cafe</role>
+    <type>Actor</type>
+    <tmdbid>4208603</tmdbid>
+  </actor>
+  <actor>
+    <name>Lloyd Meredith</name>
+    <role>Percy</role>
+    <type>Actor</type>
+    <tmdbid>3112212</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Hornsby</name>
+    <role>Audrey's Friend</role>
+    <type>Actor</type>
+    <tmdbid>4208604</tmdbid>
+  </actor>
+  <actor>
+    <name>Bence Bauer</name>
+    <role>Bonfire Guy</role>
+    <type>Actor</type>
+    <tmdbid>3495286</tmdbid>
+  </actor>
+  <actor>
+    <name>Ciaran Joyce</name>
+    <role>Ciaran Cochrane</role>
+    <type>Actor</type>
+    <tmdbid>92997</tmdbid>
+  </actor>
+  <actor>
+    <name>John Carter</name>
+    <role>James Wallace</role>
+    <type>Actor</type>
+    <tmdbid>4208605</tmdbid>
+  </actor>
+  <actor>
+    <name>Niki Faulkner</name>
+    <role>Instructor</role>
+    <type>Actor</type>
+    <tmdbid>2295550</tmdbid>
+  </actor>
+  <actor>
+    <name>Rina Saito</name>
+    <role>Kaz's Translator</role>
+    <type>Actor</type>
+    <tmdbid>1124205</tmdbid>
+    <imdbid>nm3304819</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Lundie</name>
+    <role>Race Coordinator GT Academy</role>
+    <type>Actor</type>
+    <tmdbid>4208606</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Vasiliou</name>
+    <role>Dubai Racing Fan</role>
+    <type>Actor</type>
+    <tmdbid>1830144</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoojin Lee</name>
+    <role>Dubai Racing Fan</role>
+    <type>Actor</type>
+    <tmdbid>4112781</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Hirsch</name>
+    <role>Race Marshall (Le Mans)</role>
+    <type>Actor</type>
+    <tmdbid>1399858</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacques Jouffret</name>
+    <role>Race Official (Le Mans)</role>
+    <type>Actor</type>
+    <tmdbid>1186279</tmdbid>
+  </actor>
+  <actor>
+    <name>Eszter Zavaros</name>
+    <role>Female Chef</role>
+    <type>Actor</type>
+    <tmdbid>4208607</tmdbid>
+  </actor>
+  <actor>
+    <name>Daijiro Yoshihara</name>
+    <role>Nissan Corporate Driver (Japan)</role>
+    <type>Actor</type>
+    <tmdbid>2478575</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Murofushi</name>
+    <role>Nissan Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1537400</tmdbid>
+  </actor>
+  <actor>
+    <name>Bianca Bardoe</name>
+    <role>Germany Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3294934</tmdbid>
+  </actor>
+  <actor>
+    <name>Selin Cuhadaroglu</name>
+    <role>Sarah Eaton</role>
+    <type>Actor</type>
+    <tmdbid>2918526</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadia Tarek Mohamed Elsayed Sadek Ghaleb</name>
+    <role>Dubai Reporter</role>
+    <type>Actor</type>
+    <tmdbid>4208608</tmdbid>
+  </actor>
+  <actor>
+    <name>Kal Sabir</name>
+    <role>Dubai Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1876725</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayano Yamamoto</name>
+    <role>Nissan Executive Translator</role>
+    <type>Actor</type>
+    <tmdbid>147896</tmdbid>
+    <imdbid>nm2306698</imdbid>
+  </actor>
+  <actor>
+    <name>Will Buxton</name>
+    <role>Race Commentator</role>
+    <type>Actor</type>
+    <tmdbid>3105181</tmdbid>
+  </actor>
+  <actor>
+    <name>Atsushi Kuwayama</name>
+    <role>Polyphony Employee, Japan</role>
+    <type>Actor</type>
+    <tmdbid>1896350</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazunori Yamauchi</name>
+    <role>Sushi Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1287254</tmdbid>
+  </actor>
+  <actor>
+    <name>Qiu Tonglan</name>
+    <type>Actor</type>
+    <tmdbid>4431064</tmdbid>
+  </actor>
+  <director tmdbid="82194" imdbid="nm0088955">Neill Blomkamp</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3JN0efm2nHg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f5IRCGKZgJY</trailer>
+  <rating>7.2</rating>
+  <year>2023</year>
+  <sorttitle>Gran Turismo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt4495098</imdbid>
+  <tmdbid>980489</tmdbid>
+  <premiered>2023-08-09</premiered>
+  <releasedate>2023-08-09</releasedate>
+  <runtime>134</runtime>
+  <tagline>De jugador a corredor.</tagline>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <studio>PlayStation Productions</studio>
+  <studio>2.0 Entertainment</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="imdb">tt4495098</uniqueid>
+  <uniqueid type="tmdb">980489</uniqueid>
+  <id>tt4495098</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>936842</bitrate>
+        <width>1280</width>
+        <height>674</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8055</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

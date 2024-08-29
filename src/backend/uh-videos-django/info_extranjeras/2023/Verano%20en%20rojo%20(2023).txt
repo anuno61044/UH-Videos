@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Verano de 2010. La comisaria María Ruiz (Marta Nieto) se enfrenta a un tenebroso crimen: un joven ha aparecido asesinado. Sin identidad visible. Sin pistas aparentes. Sin móvil. Mujer concienzuda y tenaz, María iniciará una investigación que se complicará aún más cuando se produce un segundo asesinato. Pero no está sola, el veterano periodista Luna (Jose Coronado), un maestro de la profesión acorralado por la crisis y la era digital, será clave para solucionar un caso que les llevará hasta las puertas de una importante orden religiosa.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-10 09:10:32</dateadded>
+  <title>Verano en rojo</title>
+  <originaltitle>Verano en rojo</originaltitle>
+  <actor>
+    <name>Marta Nieto</name>
+    <role>María Ruiz</role>
+    <type>Actor</type>
+    <tmdbid>588636</tmdbid>
+    <imdbid>nm1910857</imdbid>
+  </actor>
+  <actor>
+    <name>José Coronado</name>
+    <role>Luna</role>
+    <type>Actor</type>
+    <tmdbid>110129</tmdbid>
+    <imdbid>nm0180580</imdbid>
+    <tvdbid>487903</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Callejo</name>
+    <type>Actor</type>
+    <tmdbid>15598</tmdbid>
+    <imdbid>nm0130429</imdbid>
+    <tvdbid>473689</tvdbid>
+  </actor>
+  <actor>
+    <name>Francesco Carril</name>
+    <type>Actor</type>
+    <tmdbid>1442194</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomás del Estal</name>
+    <type>Actor</type>
+    <tmdbid>119972</tmdbid>
+    <imdbid>nm0215541</imdbid>
+    <tvdbid>520383</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Arnao</name>
+    <type>Actor</type>
+    <tmdbid>2417344</tmdbid>
+    <imdbid>nm10863257</imdbid>
+    <tvdbid>8215626</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard Sahagún</name>
+    <type>Actor</type>
+    <tmdbid>1322380</tmdbid>
+    <imdbid>nm4860458</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Martínez</name>
+    <type>Actor</type>
+    <tmdbid>1061976</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramon Agirre</name>
+    <type>Actor</type>
+    <tmdbid>122461</tmdbid>
+    <imdbid>nm0013741</imdbid>
+  </actor>
+  <director tmdbid="113406">Belén Macías</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_qnWmiHbuUM</trailer>
+  <rating>5.2</rating>
+  <year>2023</year>
+  <sorttitle>Verano en rojo</sorttitle>
+  <imdbid>tt21379326</imdbid>
+  <tmdbid>1143291</tmdbid>
+  <premiered>2023-09-08</premiered>
+  <releasedate>2023-09-08</releasedate>
+  <runtime>102</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <studio>Tornasol Films</studio>
+  <studio>TVE</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt21379326</uniqueid>
+  <uniqueid type="tmdb">1143291</uniqueid>
+  <id>tt21379326</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1085446</bitrate>
+        <width>1688</width>
+        <height>720</height>
+        <aspect>1048489:446700</aspect>
+        <aspectratio>1048489:446700</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6107</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64515</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Marguerite is a young and brilliant mathematician, the only girl in her class at the ENS, entirely devoted to her passion. The day she discovers an error in her thesis, she is devastated. In a dizzy spell, she leaves the school, wipes out the past. She then dives into the real world, discovers autonomy, befriends the young Léa, and makes love for the first time. Grown by her experiences, it is in this new momentum that she will find the solution to her theorem.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-01 07:48:32</dateadded>
+  <title>Le Théorème de Marguerite</title>
+  <originaltitle>Le Théorème de Marguerite</originaltitle>
+  <actor>
+    <name>Ella Rumpf</name>
+    <role>Marguerite</role>
+    <type>Actor</type>
+    <tmdbid>1438688</tmdbid>
+    <imdbid>nm5050688</imdbid>
+    <tvdbid>8010957</tvdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Darroussin</name>
+    <role>Laurent Werner</role>
+    <type>Actor</type>
+    <tmdbid>28463</tmdbid>
+    <imdbid>nm0201669</imdbid>
+    <tvdbid>530867</tvdbid>
+  </actor>
+  <actor>
+    <name>Clotilde Courau</name>
+    <role>Suzanne</role>
+    <type>Actor</type>
+    <tmdbid>16921</tmdbid>
+    <imdbid>nm0183660</imdbid>
+  </actor>
+  <actor>
+    <name>Julien Frison</name>
+    <role>Lucas Savelli</role>
+    <type>Actor</type>
+    <tmdbid>35894</tmdbid>
+    <imdbid>nm2486832</imdbid>
+    <tvdbid>641666</tvdbid>
+  </actor>
+  <actor>
+    <name>Sonia Bonny</name>
+    <role>Noa</role>
+    <type>Actor</type>
+    <tmdbid>3497348</tmdbid>
+  </actor>
+  <actor>
+    <name>Édouard Sulpice</name>
+    <role>A student</role>
+    <type>Actor</type>
+    <tmdbid>2496679</tmdbid>
+  </actor>
+  <actor>
+    <name>Idir Azougli</name>
+    <role>Yanis</role>
+    <type>Actor</type>
+    <tmdbid>2024090</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaoxing Cheng</name>
+    <role>M. Kong</role>
+    <type>Actor</type>
+    <tmdbid>1021656</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille de Sablet</name>
+    <role>La formatrice</role>
+    <type>Actor</type>
+    <tmdbid>1027793</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Ruben Noel</name>
+    <role>Le danseur</role>
+    <type>Actor</type>
+    <tmdbid>4361193</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Baya</name>
+    <role>La petite amie du danseur</role>
+    <type>Actor</type>
+    <tmdbid>2939756</tmdbid>
+  </actor>
+  <actor>
+    <name>Gautier Boxebeld</name>
+    <role>Le manager</role>
+    <type>Actor</type>
+    <tmdbid>3817811</tmdbid>
+  </actor>
+  <actor>
+    <name>Esdras Registe</name>
+    <role>Le collègue</role>
+    <type>Actor</type>
+    <tmdbid>2934408</tmdbid>
+  </actor>
+  <actor>
+    <name>Leïla Muse</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>3151311</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Ratonnat</name>
+    <role>Professor</role>
+    <type>Actor</type>
+    <tmdbid>581123</tmdbid>
+  </actor>
+  <director tmdbid="1145355">Anna Novion</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4JD-DLEKLfk</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Le Theoreme de Marguerite</sorttitle>
+  <imdbid>tt26699529</imdbid>
+  <tmdbid>960033</tmdbid>
+  <premiered>2023-11-01</premiered>
+  <releasedate>2023-11-01</releasedate>
+  <runtime>113</runtime>
+  <country>France</country>
+  <country>Switzerland</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>TS Productions</studio>
+  <studio>Beauvoir Films</studio>
+  <uniqueid type="imdb">tt26699529</uniqueid>
+  <uniqueid type="tmdb">960033</uniqueid>
+  <id>tt26699529</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>744208</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>524280:219037</aspect>
+        <aspectratio>524280:219037</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6790</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127593</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

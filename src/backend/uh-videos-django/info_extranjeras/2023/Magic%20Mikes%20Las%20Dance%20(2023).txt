@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras un largo paréntesis y después de un negocio fallido que le dejó arruinado, obligándole a trabajar como camarero en clubes de Florida, ha llegado el momento de que 'Magic' Mike Lane vuelva a los escenarios. Con la esperanza de participar en lo que considera el último espectáculo de su carrera, Mike se dirige a Londres con una mujer adinerada y de alto rango que le atrae con una oferta que no puede rechazar... y una agenda planeada de antemano.]]></plot>
+  <outline><![CDATA[La provocación final.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-07 08:15:52</dateadded>
+  <title>El último baile de Magic Mike</title>
+  <originaltitle>Magic Mike's Last Dance</originaltitle>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Mike Lane</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+  </actor>
+  <actor>
+    <name>Salma Hayek</name>
+    <role>Maxandra Mendoza</role>
+    <type>Actor</type>
+    <tmdbid>3136</tmdbid>
+    <imdbid>nm0000161</imdbid>
+  </actor>
+  <actor>
+    <name>Ayub Khan-Din</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>65866</tmdbid>
+  </actor>
+  <actor>
+    <name>Jemelia George</name>
+    <role>Zadie Rattigan</role>
+    <type>Actor</type>
+    <tmdbid>3788027</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Lawrence</name>
+    <role>Woody</role>
+    <type>Actor</type>
+    <tmdbid>1399749</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliette Motamed</name>
+    <role>Hannah</role>
+    <type>Actor</type>
+    <tmdbid>2738814</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Cox</name>
+    <role>Roger Rattigan</role>
+    <type>Actor</type>
+    <tmdbid>70881</tmdbid>
+    <imdbid>nm0184893</imdbid>
+  </actor>
+  <actor>
+    <name>Caitlin Gerard</name>
+    <role>Kim</role>
+    <type>Actor</type>
+    <tmdbid>1069630</tmdbid>
+    <imdbid>nm3312826</imdbid>
+  </actor>
+  <actor>
+    <name>Vicki Pepperdine</name>
+    <role>Edna Eaglebauer</role>
+    <type>Actor</type>
+    <tmdbid>1248292</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Bertish</name>
+    <role>Renata</role>
+    <type>Actor</type>
+    <tmdbid>162413</tmdbid>
+    <imdbid>nm0078136</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Bencomo</name>
+    <role>Kim's Husband</role>
+    <type>Actor</type>
+    <tmdbid>2441024</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Spokes</name>
+    <role>Matthew</role>
+    <type>Actor</type>
+    <tmdbid>2085743</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Carroll</name>
+    <role>Phoebe</role>
+    <type>Actor</type>
+    <tmdbid>983749</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Manganiello</name>
+    <role>Big Dick Richie</role>
+    <type>Actor</type>
+    <tmdbid>20580</tmdbid>
+    <imdbid>nm0542133</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Bomer</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>66743</tmdbid>
+    <imdbid>nm0093589</imdbid>
+    <tvdbid>324393</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Rodríguez</name>
+    <role>Tito</role>
+    <type>Actor</type>
+    <tmdbid>49706</tmdbid>
+    <imdbid>nm0735226</imdbid>
+    <tvdbid>7890478</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Nash</name>
+    <role>Tarzan</role>
+    <type>Actor</type>
+    <tmdbid>135352</tmdbid>
+    <imdbid>nm0621760</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Llaca</name>
+    <role>Event Planner</role>
+    <type>Actor</type>
+    <tmdbid>3914945</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Cline</name>
+    <role>Housewife 1</role>
+    <type>Actor</type>
+    <tmdbid>168675</tmdbid>
+  </actor>
+  <actor>
+    <name>Alea Figueroa</name>
+    <role>Housewife 2</role>
+    <type>Actor</type>
+    <tmdbid>1889427</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy LoCicero</name>
+    <role>Housewife 3</role>
+    <type>Actor</type>
+    <tmdbid>1522031</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Olivares</name>
+    <role>Housewife 4</role>
+    <type>Actor</type>
+    <tmdbid>1581484</tmdbid>
+  </actor>
+  <actor>
+    <name>Harj Dhillon</name>
+    <role>Harj</role>
+    <type>Actor</type>
+    <tmdbid>3914947</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Griffin</name>
+    <role>Isabel Ascendant Actor</role>
+    <type>Actor</type>
+    <tmdbid>3432048</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Milton</name>
+    <role>Isabel Ascendant Actor</role>
+    <type>Actor</type>
+    <tmdbid>2435479</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Brigstocke</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>112046</tmdbid>
+    <imdbid>nm0109274</imdbid>
+  </actor>
+  <actor>
+    <name>Henrietta Clemett</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1089427</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Villiers</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>34720</tmdbid>
+    <imdbid>nm0898369</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Philmar</name>
+    <role>Lead Bureaucrat</role>
+    <type>Actor</type>
+    <tmdbid>1518112</tmdbid>
+    <imdbid>nm0680920</imdbid>
+  </actor>
+  <actor>
+    <name>Clare Fraenkel</name>
+    <role>Roger's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>3914958</tmdbid>
+  </actor>
+  <actor>
+    <name>Theophilus O. Bailey</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948648</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Michael Carlson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4195713</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Carter</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2843841</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Ekperigin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948667</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Engel</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2003382</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Manley</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948680</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Molina</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2003384</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Packing</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948681</tmdbid>
+  </actor>
+  <actor>
+    <name>JD Rainey</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2003388</tmdbid>
+  </actor>
+  <actor>
+    <name>Kylie Shea</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2581276</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastián Melo Taveira</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948682</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Williams</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2003390</tmdbid>
+  </actor>
+  <actor>
+    <name>Rommel Arasa</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948683</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Cleverley</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948688</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Crabtree</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948689</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Hooper</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948690</tmdbid>
+  </actor>
+  <actor>
+    <name>Callum Constant</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948730</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Diaz</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948737</tmdbid>
+  </actor>
+  <actor>
+    <name>John Klapwijk</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948738</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Moore</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948739</tmdbid>
+  </actor>
+  <actor>
+    <name>Shak Alade</name>
+    <role>Auditioning Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3948741</tmdbid>
+  </actor>
+  <actor>
+    <name>Myles Harper</name>
+    <role>Breakdancer</role>
+    <type>Actor</type>
+    <tmdbid>3948742</tmdbid>
+  </actor>
+  <actor>
+    <name>Manny Tsakanika</name>
+    <role>Breakdancer</role>
+    <type>Actor</type>
+    <tmdbid>2728799</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Scarth</name>
+    <role>Breakdancer</role>
+    <type>Actor</type>
+    <tmdbid>3949428</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikkita Chadha</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>1535014</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Deverill</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>2056235</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Drisch</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3885518</tmdbid>
+  </actor>
+  <actor>
+    <name>Christie-Leigh Emby</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3950771</tmdbid>
+  </actor>
+  <actor>
+    <name>Saffron Fisher</name>
+    <role>Theatre Audience Member</role>
+    <type>Actor</type>
+    <tmdbid>3950772</tmdbid>
+  </actor>
+  <actor>
+    <name>Emi Ichikawa</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3950773</tmdbid>
+  </actor>
+  <actor>
+    <name>Blue Makwana</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3887530</tmdbid>
+  </actor>
+  <actor>
+    <name>Dionne Oxford</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3387215</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia Priecelová</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3950778</tmdbid>
+  </actor>
+  <actor>
+    <name>Preeti Sian</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3950779</tmdbid>
+  </actor>
+  <actor>
+    <name>Margarita San Luis</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>2466410</tmdbid>
+  </actor>
+  <actor>
+    <name>Carol Walton</name>
+    <role>Theatre Audience</role>
+    <type>Actor</type>
+    <tmdbid>3223635</tmdbid>
+  </actor>
+  <actor>
+    <name>Yves-Marc Cinevert</name>
+    <role>Charity Event Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3843254</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellen Marguerite Cullivan</name>
+    <role>Charity Event Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1737038</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Cooke</name>
+    <role>Audience Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3950783</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Edwards</name>
+    <role>Office Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2939069</tmdbid>
+  </actor>
+  <actor>
+    <name>Amedeo Fedeli</name>
+    <role>Theatre Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3950786</tmdbid>
+  </actor>
+  <actor>
+    <name>Nas Ganev</name>
+    <role>Theatre Usher (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3678118</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Howe</name>
+    <role>Park Passer-By (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1577709</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Ryan</name>
+    <role>Charity Event Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3950789</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Rian Sanson</name>
+    <role>Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3323741</tmdbid>
+  </actor>
+  <actor>
+    <name>Kasey Iliana Sfetsios</name>
+    <role>Theatre Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2125557</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcelle Taha</name>
+    <role>Waitress (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3950790</tmdbid>
+  </actor>
+  <director tmdbid="1884" imdbid="nm0001752">Steven Soderbergh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JVkQO5NLfwA</trailer>
+  <rating>5.2</rating>
+  <year>2023</year>
+  <sorttitle>ultimo baile de Magic Mike</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt16280138</imdbid>
+  <tmdbid>906221</tmdbid>
+  <premiered>2023-02-09</premiered>
+  <releasedate>2023-02-09</releasedate>
+  <criticrating>48</criticrating>
+  <runtime>112</runtime>
+  <tagline>La provocación final.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Música</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Nick Wechsler Productions</studio>
+  <studio>Free Association</studio>
+  <set tmdbcolid="328247">
+    <name>Magic Mike - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt16280138</uniqueid>
+  <uniqueid type="tmdb">906221</uniqueid>
+  <id>tt16280138</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>995388</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6719</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

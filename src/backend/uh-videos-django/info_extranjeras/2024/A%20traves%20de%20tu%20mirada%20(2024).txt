@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de lo que pasó en verano, Ares y Raquel no ven la forma de seguir con su relación y deciden separarse. Pero cuando se reencuentran en invierno en Barcelona, no pueden negar el amor y el deseo que sienten el uno por el otro. ¿Darán con la fórmula para volver a estar juntos?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-23 07:59:49</dateadded>
+  <title>A través de mi ventana 3: A través de tu mirada</title>
+  <originaltitle>A través de mi ventana 3: A través de tu mirada</originaltitle>
+  <actor>
+    <name>Clara Galle</name>
+    <role>Raquel</role>
+    <type>Actor</type>
+    <tmdbid>3247402</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Peña</name>
+    <role>Ares Hidalgo</role>
+    <type>Actor</type>
+    <tvdbid>8103965</tvdbid>
+    <tmdbid>2367724</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Azahara</name>
+    <role>Daniela</role>
+    <type>Actor</type>
+    <tmdbid>3247405</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Masip</name>
+    <role>Artemis Hidalgo</role>
+    <type>Actor</type>
+    <tmdbid>2587055</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Chaparro</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>3105254</tmdbid>
+    <tvdbid>8281161</tvdbid>
+  </actor>
+  <actor>
+    <name>Emilia Lazo</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>3247408</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Lapadula</name>
+    <role>Gregory</role>
+    <type>Actor</type>
+    <tmdbid>2949790</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Arbues</name>
+    <role>Apolo Hidalgo</role>
+    <type>Actor</type>
+    <tmdbid>119969</tmdbid>
+  </actor>
+  <actor>
+    <name>Pilar Castro</name>
+    <role>Tere</role>
+    <type>Actor</type>
+    <tmdbid>138701</tmdbid>
+    <imdbid>nm0145673</imdbid>
+    <tvdbid>550128</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel Lascar</name>
+    <role>Sofía Hidalgo</role>
+    <type>Actor</type>
+    <tmdbid>28513</tmdbid>
+    <imdbid>nm1968069</imdbid>
+  </actor>
+  <actor>
+    <name>Abel Folk</name>
+    <role>Juan Hidalgo</role>
+    <type>Actor</type>
+    <tmdbid>133525</tmdbid>
+    <imdbid>nm0284272</imdbid>
+    <tvdbid>314972</tvdbid>
+  </actor>
+  <actor>
+    <name>Omar Chaparro</name>
+    <role>Omar Chaparro</role>
+    <type>Actor</type>
+    <tmdbid>1134885</tmdbid>
+    <imdbid>nm1410318</imdbid>
+  </actor>
+  <director tmdbid="1111138" imdbid="nm2253409">Marçal Forés</director>
+  <rating>6.525</rating>
+  <year>2024</year>
+  <sorttitle>traves de mi ventana 3: A traves de tu mirada</sorttitle>
+  <imdbid>tt28105944</imdbid>
+  <tmdbid>1139566</tmdbid>
+  <premiered>2024-02-23</premiered>
+  <releasedate>2024-02-23</releasedate>
+  <runtime>105</runtime>
+  <country>Spain</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Nostromo Pictures</studio>
+  <set tmdbcolid="1130226">
+    <name>A través - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt28105944</uniqueid>
+  <uniqueid type="tmdb">1139566</uniqueid>
+  <id>tt28105944</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>196505</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6311</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63828</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

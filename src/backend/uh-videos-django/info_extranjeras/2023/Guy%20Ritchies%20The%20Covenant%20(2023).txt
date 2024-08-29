@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue al sargento John Kinley, uno de los únicos sobrevivientes en su último periodo de servicio en Afganistán, y como decide regresar a zona de guerra para recuperar a su amigo Ahmed y su familia.]]></plot>
+  <outline><![CDATA[Un vínculo. Una promesa. Un compromiso.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-11 08:39:09</dateadded>
+  <title>El pacto</title>
+  <originaltitle>Guy Ritchie's The Covenant</originaltitle>
+  <actor>
+    <name>Jake Gyllenhaal</name>
+    <role>Master Sergeant John Kinley</role>
+    <type>Actor</type>
+    <tmdbid>131</tmdbid>
+    <imdbid>nm0350453</imdbid>
+  </actor>
+  <actor>
+    <name>Dar Salim</name>
+    <role>Ahmed</role>
+    <type>Actor</type>
+    <tmdbid>234907</tmdbid>
+    <tvdbid>247917</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Sagar</name>
+    <role>Charlie 'Jizzy' Crow</role>
+    <type>Actor</type>
+    <tmdbid>2380399</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>Joshua 'JJ' Jung</role>
+    <type>Actor</type>
+    <tmdbid>1033691</tmdbid>
+    <imdbid>nm3438484</imdbid>
+  </actor>
+  <actor>
+    <name>Rhys Yates</name>
+    <role>Tom 'Tom Cat' Hancock</role>
+    <type>Actor</type>
+    <tmdbid>1896053</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Ochoa</name>
+    <role>Eduardo 'Chow Chow' Lopez</role>
+    <type>Actor</type>
+    <tmdbid>1583358</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Schofield</name>
+    <role>Steve Kersher</role>
+    <type>Actor</type>
+    <tmdbid>1523242</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Beecham</name>
+    <role>Caroline Kinley</role>
+    <type>Actor</type>
+    <tmdbid>130414</tmdbid>
+    <imdbid>nm2387806</imdbid>
+    <tvdbid>501727</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonny Lee Miller</name>
+    <role>Colonel Vokes</role>
+    <type>Actor</type>
+    <tmdbid>9012</tmdbid>
+    <imdbid>nm0001538</imdbid>
+    <tvdbid>327297</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Ludwig</name>
+    <role>Sergeant Declan O'Brady</role>
+    <type>Actor</type>
+    <tmdbid>23498</tmdbid>
+    <imdbid>nm1573253</imdbid>
+  </actor>
+  <actor>
+    <name>Reza Diako</name>
+    <role>Haadee</role>
+    <type>Actor</type>
+    <tmdbid>2681182</tmdbid>
+  </actor>
+  <actor>
+    <name>James Nelson-Joyce</name>
+    <role>Jack 'Jack Jack' Jackson</role>
+    <type>Actor</type>
+    <tmdbid>1803196</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Anthony Stennette</name>
+    <role>Desk Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>2014129</tmdbid>
+    <tvdbid>405469</tvdbid>
+  </actor>
+  <actor>
+    <name>Saboor Sahak</name>
+    <role>Afghan Man</role>
+    <type>Actor</type>
+    <tmdbid>4264155</tmdbid>
+  </actor>
+  <actor>
+    <name>Antony Starr</name>
+    <role>Eddie Parker</role>
+    <type>Actor</type>
+    <tmdbid>60373</tmdbid>
+    <imdbid>nm1102278</imdbid>
+    <tvdbid>388490</tvdbid>
+  </actor>
+  <actor>
+    <name>Abbas Fasaei</name>
+    <role>Pooya</role>
+    <type>Actor</type>
+    <tmdbid>3368503</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadi Khanjanpour</name>
+    <role>Edris</role>
+    <type>Actor</type>
+    <tmdbid>1662217</tmdbid>
+  </actor>
+  <actor>
+    <name>Ash Goldeh</name>
+    <role>Faraj</role>
+    <type>Actor</type>
+    <tmdbid>2461357</tmdbid>
+  </actor>
+  <actor>
+    <name>Walid Shahalami</name>
+    <role>Kalan</role>
+    <type>Actor</type>
+    <tmdbid>4264157</tmdbid>
+  </actor>
+  <actor>
+    <name>Babrak Akbari</name>
+    <role>Lashkar</role>
+    <type>Actor</type>
+    <tmdbid>3074837</tmdbid>
+  </actor>
+  <actor>
+    <name>Fariba Sheikhan</name>
+    <role>Basira</role>
+    <type>Actor</type>
+    <tmdbid>2486753</tmdbid>
+  </actor>
+  <actor>
+    <name>Savannah Fort</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>4024775</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieran Fort</name>
+    <role>Lil Chris</role>
+    <type>Actor</type>
+    <tmdbid>4264165</tmdbid>
+  </actor>
+  <actor>
+    <name>Javid Hakim</name>
+    <role>Ismail</role>
+    <type>Actor</type>
+    <tmdbid>3599286</tmdbid>
+  </actor>
+  <actor>
+    <name>Shoaib Lodin</name>
+    <role>Afghan Miner</role>
+    <type>Actor</type>
+    <tmdbid>3599293</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Glimne</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>4264168</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Ramos</name>
+    <role>Archangel</role>
+    <type>Actor</type>
+    <tmdbid>3599283</tmdbid>
+  </actor>
+  <actor>
+    <name>Altamasch Noor</name>
+    <role>Didar</role>
+    <type>Actor</type>
+    <tmdbid>2063016</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcel Zadé</name>
+    <role>Jabar</role>
+    <type>Actor</type>
+    <tmdbid>2818614</tmdbid>
+  </actor>
+  <actor>
+    <name>Paeman Arianfar</name>
+    <role>Fakhrudin</role>
+    <type>Actor</type>
+    <tmdbid>3599292</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Nazarian</name>
+    <role>Mountain Man</role>
+    <type>Actor</type>
+    <tmdbid>3514169</tmdbid>
+  </actor>
+  <actor>
+    <name>Damon Zolfaghari</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>3599282</tmdbid>
+  </actor>
+  <actor>
+    <name>Mo Ahmadi</name>
+    <role>Commander Satar</role>
+    <type>Actor</type>
+    <tmdbid>2393152</tmdbid>
+  </actor>
+  <actor>
+    <name>Swen Temmel</name>
+    <role>Team Member Joe</role>
+    <type>Actor</type>
+    <tmdbid>1075049</tmdbid>
+    <imdbid>nm2394568</imdbid>
+  </actor>
+  <actor>
+    <name>Cyrus Khodaveisi</name>
+    <role>Wahid</role>
+    <type>Actor</type>
+    <tmdbid>3599290</tmdbid>
+  </actor>
+  <actor>
+    <name>Sina Parvaneh</name>
+    <role>Zaman</role>
+    <type>Actor</type>
+    <tmdbid>3514167</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdullah Noori-Nooristani Sunara</name>
+    <role>Guv</role>
+    <type>Actor</type>
+    <tmdbid>4264179</tmdbid>
+  </actor>
+  <actor>
+    <name>Ahmad Zaki Watandost</name>
+    <role>Afghan Local</role>
+    <type>Actor</type>
+    <tmdbid>4264180</tmdbid>
+  </actor>
+  <actor>
+    <name>Kawa Mawlayee</name>
+    <role>Kawa</role>
+    <type>Actor</type>
+    <tmdbid>3599284</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Hawksley</name>
+    <role>US Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1826759</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Hunt</name>
+    <role>US Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3235393</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Martí</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>4264182</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Leiva</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3665885</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Siddall</name>
+    <role>First Officer Caro</role>
+    <type>Actor</type>
+    <tmdbid>1553897</tmdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=02PPMPArNEQ</trailer>
+  <rating>7.5</rating>
+  <year>2023</year>
+  <sorttitle>pacto</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4873118</imdbid>
+  <tmdbid>882569</tmdbid>
+  <premiered>2023-04-19</premiered>
+  <releasedate>2023-04-19</releasedate>
+  <runtime>123</runtime>
+  <tagline>Un vínculo. Una promesa. Un compromiso.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Bélica</genre>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>STXfilms</studio>
+  <studio>Toff Guy Films</studio>
+  <uniqueid type="imdb">tt4873118</uniqueid>
+  <uniqueid type="tmdb">882569</uniqueid>
+  <id>tt4873118</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>905806</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7383</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

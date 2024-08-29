@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mason Petit (John Cena) es un soldado retirado de las fuerzas especiales que, tras años de paz, tranquilidad y monotonía, decide abandonar su aburrido retiro en los suburbios para volver al trabajo y proteger a la periodista (Alison Brie) mientras entrevista a un cruel dictador (Juan Pablo Raba). En mitad de la entrevista, estallará un golpe militar que hará peligrar sus vidas y les llevará a esconderse en la selva donde deberán emplearse a fondo para sobrevivir.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-29 09:03:43</dateadded>
+  <title>Freelance</title>
+  <originaltitle>Freelance</originaltitle>
+  <actor>
+    <name>John Cena</name>
+    <role>Mason Pettits</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Alison Brie</name>
+    <role>Claire Wellington</role>
+    <type>Actor</type>
+    <tmdbid>88029</tmdbid>
+    <imdbid>nm1555340</imdbid>
+    <tvdbid>310946</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Raba</name>
+    <role>President Juan Venegas</role>
+    <type>Actor</type>
+    <tmdbid>937009</tmdbid>
+    <imdbid>nm0704696</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Eve</name>
+    <role>Jenny Pettits</role>
+    <type>Actor</type>
+    <tmdbid>59860</tmdbid>
+    <imdbid>nm1404408</imdbid>
+    <tvdbid>327428</tvdbid>
+  </actor>
+  <actor>
+    <name>Marton Csokas</name>
+    <role>Colonel Jan Koehorst</role>
+    <type>Actor</type>
+    <tmdbid>20982</tmdbid>
+    <imdbid>nm0190744</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Slater</name>
+    <role>Sebastian Earle</role>
+    <type>Actor</type>
+    <tmdbid>2224</tmdbid>
+    <imdbid>nm0000225</imdbid>
+    <tvdbid>254388</tvdbid>
+  </actor>
+  <actor>
+    <name>Julianne Alexander</name>
+    <role>Avery Alderson</role>
+    <type>Actor</type>
+    <tmdbid>1505303</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly McCann</name>
+    <role>Casey Pettits</role>
+    <type>Actor</type>
+    <tmdbid>2249889</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Toro</name>
+    <role>Rojas</role>
+    <type>Actor</type>
+    <tmdbid>3852572</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastián Eslava</name>
+    <role>Jorge</role>
+    <type>Actor</type>
+    <tmdbid>1471515</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Cano</name>
+    <role>Eduardo Lavato</role>
+    <type>Actor</type>
+    <tmdbid>1015274</tmdbid>
+  </actor>
+  <director tmdbid="35453" imdbid="nm0603628">Pierre Morel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6ura9bYCDJg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r_pUE7OcN8w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W0k2XerT8Nw</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Freelance</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15744298</imdbid>
+  <tmdbid>897087</tmdbid>
+  <premiered>2023-10-05</premiered>
+  <releasedate>2023-10-05</releasedate>
+  <runtime>109</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <studio>Endurance Media</studio>
+  <studio>AGC Studios</studio>
+  <studio>Sentient Entertainment</studio>
+  <studio>Signature Films</studio>
+  <studio>Wideangle Films</studio>
+  <studio>Lipsync Productions</studio>
+  <uniqueid type="imdb">tt15744298</uniqueid>
+  <uniqueid type="tmdb">897087</uniqueid>
+  <id>tt15744298</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1026601</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6510</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

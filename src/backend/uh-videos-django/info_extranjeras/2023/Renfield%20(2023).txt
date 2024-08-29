@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En este moderno y monstruoso relato sobre el fiel ayudante de Drácula, Renfield se ve obligado a procurarle víctimas a su amo y hacer todo aquello que este le ordene, por inmoral que sea. Pero ahora, tras siglos de servidumbre, Renfield está listo para descubrir si hay vida lejos de la alargada sombra del Príncipe de las Tinieblas. ¿El problema? Que no sabe cómo romper esa relación de dependencia.]]></plot>
+  <outline><![CDATA[Lo lleva en la sangre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-04 09:20:00</dateadded>
+  <title>Renfield</title>
+  <originaltitle>Renfield</originaltitle>
+  <actor>
+    <name>Nicholas Hoult</name>
+    <role>Renfield</role>
+    <type>Actor</type>
+    <tmdbid>3292</tmdbid>
+    <imdbid>nm0396558</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Dracula</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Rebecca Quincy</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Schwartz</name>
+    <role>Teddy Lobo</role>
+    <type>Actor</type>
+    <tmdbid>222121</tmdbid>
+    <imdbid>nm2355635</imdbid>
+    <tvdbid>285161</tvdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Ella</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Scott Jones</name>
+    <role>Mark</role>
+    <type>Actor</type>
+    <tmdbid>1561268</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Martinez</name>
+    <role>Chris Marcos</role>
+    <type>Actor</type>
+    <tmdbid>94432</tmdbid>
+    <imdbid>nm0553440</imdbid>
+    <tvdbid>257309</tvdbid>
+  </actor>
+  <actor>
+    <name>Camille Chen</name>
+    <role>Kate Quincy</role>
+    <type>Actor</type>
+    <tmdbid>1218266</tmdbid>
+    <imdbid>nm0155166</imdbid>
+  </actor>
+  <actor>
+    <name>Bess Rous</name>
+    <role>Caitlyn</role>
+    <type>Actor</type>
+    <tmdbid>1217650</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Kanell</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>1303873</tmdbid>
+  </actor>
+  <actor>
+    <name>Danya LaBelle</name>
+    <role>Karla</role>
+    <type>Actor</type>
+    <tmdbid>1437829</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhonda Johnson Dents</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>1529017</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Matthew Cook</name>
+    <role>Bob</role>
+    <type>Actor</type>
+    <tmdbid>1358061</tmdbid>
+    <imdbid>nm4232922</imdbid>
+  </actor>
+  <actor>
+    <name>Michael P. Sullivan</name>
+    <role>Weird Kevin</role>
+    <type>Actor</type>
+    <tmdbid>4034305</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosha Washington</name>
+    <role>Trevante</role>
+    <type>Actor</type>
+    <tmdbid>3722881</tmdbid>
+  </actor>
+  <actor>
+    <name>James Moses Black</name>
+    <role>Captain Browning</role>
+    <type>Actor</type>
+    <tmdbid>177403</tmdbid>
+  </actor>
+  <actor>
+    <name>T.C. Matherne</name>
+    <role>Kyle</role>
+    <type>Actor</type>
+    <tmdbid>2399824</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Williams</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>86923</tmdbid>
+    <imdbid>nm0930226</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Mikel</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>1046665</tmdbid>
+    <imdbid>nm2282254</imdbid>
+    <tvdbid>630199</tvdbid>
+  </actor>
+  <actor>
+    <name>Derek Russo</name>
+    <role>Brice</role>
+    <type>Actor</type>
+    <tmdbid>1628383</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Davis</name>
+    <role>Mitch</role>
+    <type>Actor</type>
+    <tmdbid>1367309</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Lewis</name>
+    <role>Joe l'Apache</role>
+    <type>Actor</type>
+    <tmdbid>2035636</tmdbid>
+  </actor>
+  <actor>
+    <name>William Ragsdale</name>
+    <role>Older Priest</role>
+    <type>Actor</type>
+    <tmdbid>31467</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Doleac</name>
+    <role>Vampire Hunter</role>
+    <type>Actor</type>
+    <tmdbid>1371878</tmdbid>
+  </actor>
+  <actor>
+    <name>Camden McKinnon</name>
+    <role>Ant Kid</role>
+    <type>Actor</type>
+    <tmdbid>4034300</tmdbid>
+  </actor>
+  <actor>
+    <name>Krystal Tomlin</name>
+    <role>Ant Kid's Mom</role>
+    <type>Actor</type>
+    <tmdbid>2483949</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Louis Grush</name>
+    <role>Cliff</role>
+    <type>Actor</type>
+    <tmdbid>1181328</tmdbid>
+    <tvdbid>510567</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucy Faust</name>
+    <role>Dracula Victim</role>
+    <type>Actor</type>
+    <tmdbid>555652</tmdbid>
+    <imdbid>nm2773295</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Borrego</name>
+    <role>Nervous Woman</role>
+    <type>Actor</type>
+    <tmdbid>1754445</tmdbid>
+  </actor>
+  <actor>
+    <name>Marvin Ross</name>
+    <role>Sal</role>
+    <type>Actor</type>
+    <tmdbid>1635219</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel 'G-Rod' Rodriguez</name>
+    <role>Ronnie</role>
+    <type>Actor</type>
+    <tmdbid>1757724</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Brooks</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>1156146</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Adona</name>
+    <role>Mandy</role>
+    <type>Actor</type>
+    <tmdbid>3566316</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Winchester</name>
+    <role>Jones</role>
+    <type>Actor</type>
+    <tmdbid>1515291</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cihangir</name>
+    <role>Jeffrey</role>
+    <type>Actor</type>
+    <tmdbid>2756179</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Egland</name>
+    <role>Hackeur</role>
+    <type>Actor</type>
+    <tmdbid>3168759</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianna Quinn Lewis</name>
+    <role>Rainn</role>
+    <type>Actor</type>
+    <tmdbid>4089996</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Harkins</name>
+    <role>Sad Man</role>
+    <type>Actor</type>
+    <tmdbid>3487963</tmdbid>
+  </actor>
+  <actor>
+    <name>Oren Michaeli</name>
+    <role>Voyou</role>
+    <type>Actor</type>
+    <tmdbid>1398472</tmdbid>
+    <imdbid>nm2491667</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Durn</name>
+    <role>Terrified Customer</role>
+    <type>Actor</type>
+    <tmdbid>3468505</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghan Manning</name>
+    <role>Workshop Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3322645</tmdbid>
+  </actor>
+  <director tmdbid="144816">Chris McKay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wafH1UjK85U</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8HnpIJ_KNi0</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>Renfield</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11358390</imdbid>
+  <tmdbid>649609</tmdbid>
+  <premiered>2023-04-07</premiered>
+  <releasedate>2023-04-07</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>94</runtime>
+  <tagline>Lo lleva en la sangre.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Terror</genre>
+  <genre>Fantasía</genre>
+  <studio>Skybound Entertainment</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Giant Wildcat</studio>
+  <uniqueid type="imdb">tt11358390</uniqueid>
+  <uniqueid type="tmdb">649609</uniqueid>
+  <id>tt11358390</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1191009</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5614</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

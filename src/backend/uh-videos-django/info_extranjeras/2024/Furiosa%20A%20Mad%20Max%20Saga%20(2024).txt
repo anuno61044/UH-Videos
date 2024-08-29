@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un mundo postapocalÃ­ptico donde todo ha perdido su valor, los pocos supervivientes se guÃ­an por la ley del mÃ¡s fuerte. Sin aprecio por la vida, lo Ãºnico que despierta un brutal interÃ©s es la gasolina, sinÃ³nimo de poder y objetivo de bandas armadas hasta los dientes y sin escrÃºpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reÃºne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-05 15:35:41</dateadded>
+  <title>Furiosa: De la saga Mad Max</title>
+  <originaltitle>Furiosa: A Mad Max Saga</originaltitle>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Furiosa</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <role>Dementus</role>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Burke</name>
+    <role>Praetorian Jack</role>
+    <type>Actor</type>
+    <tmdbid>52891</tmdbid>
+    <imdbid>nm0121895</imdbid>
+  </actor>
+  <actor>
+    <name>Alyla Browne</name>
+    <role>Young Furiosa</role>
+    <type>Actor</type>
+    <tmdbid>2431565</tmdbid>
+  </actor>
+  <actor>
+    <name>George Shevtsov</name>
+    <role>The History Man</role>
+    <type>Actor</type>
+    <tmdbid>148899</tmdbid>
+  </actor>
+  <actor>
+    <name>Lachy Hulme</name>
+    <role>Immortan Joe / Rizzdale Pell</role>
+    <type>Actor</type>
+    <tmdbid>75122</tmdbid>
+    <imdbid>nm0401522</imdbid>
+  </actor>
+  <actor>
+    <name>John Howard</name>
+    <role>The People Eater</role>
+    <type>Actor</type>
+    <tmdbid>102603</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlee Fraser</name>
+    <role>Mary Jabassa</role>
+    <type>Actor</type>
+    <tmdbid>4441956</tmdbid>
+  </actor>
+  <actor>
+    <name>Angus Sampson</name>
+    <role>Organic Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>59117</tmdbid>
+    <imdbid>nm0760151</imdbid>
+    <tvdbid>393135</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathan Jones</name>
+    <role>Rictus Erectus</role>
+    <type>Actor</type>
+    <tmdbid>24898</tmdbid>
+    <imdbid>nm0428923</imdbid>
+  </actor>
+  <actor>
+    <name>Elsa Pataky</name>
+    <role>Mr Norton / Vuvalini General</role>
+    <type>Actor</type>
+    <tmdbid>73269</tmdbid>
+    <imdbid>nm0665235</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Helman</name>
+    <role>Scrotus</role>
+    <type>Actor</type>
+    <tmdbid>1056053</tmdbid>
+    <imdbid>nm2890541</imdbid>
+  </actor>
+  <actor>
+    <name>David Field</name>
+    <role>Toe Jam</role>
+    <type>Actor</type>
+    <tmdbid>57795</tmdbid>
+    <imdbid>nm0275913</imdbid>
+  </actor>
+  <actor>
+    <name>Rahel Romahn</name>
+    <role>Vulture</role>
+    <type>Actor</type>
+    <tmdbid>1551044</tmdbid>
+    <tvdbid>608364</tvdbid>
+  </actor>
+  <actor>
+    <name>David Collins</name>
+    <role>Smeg</role>
+    <type>Actor</type>
+    <tmdbid>150030</tmdbid>
+  </actor>
+  <actor>
+    <name>Goran D. Kleut</name>
+    <role>The Octoboss</role>
+    <type>Actor</type>
+    <tmdbid>61784</tmdbid>
+    <imdbid>nm2377520</imdbid>
+  </actor>
+  <actor>
+    <name>CJ. Bloomfield</name>
+    <role>Big Jilly</role>
+    <type>Actor</type>
+    <tmdbid>4377186</tmdbid>
+  </actor>
+  <actor>
+    <name>Matuse Paz</name>
+    <role>Fang</role>
+    <type>Actor</type>
+    <tmdbid>3054747</tmdbid>
+    <imdbid>nm2158275</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Roberts</name>
+    <role>Mr Harley</role>
+    <type>Actor</type>
+    <tmdbid>1224391</tmdbid>
+    <imdbid>nm1345123</imdbid>
+  </actor>
+  <actor>
+    <name>Guy Spence</name>
+    <role>Mr Davidson</role>
+    <type>Actor</type>
+    <tmdbid>3055705</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Jones</name>
+    <role>Squint</role>
+    <type>Actor</type>
+    <tmdbid>1734182</tmdbid>
+  </actor>
+  <actor>
+    <name>Clarence John Ryan</name>
+    <role>Black Thumb</role>
+    <type>Actor</type>
+    <tmdbid>109437</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Burns</name>
+    <role>Hungry Eyes</role>
+    <type>Actor</type>
+    <tmdbid>1125220</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Rogers</name>
+    <role>Snapper</role>
+    <type>Actor</type>
+    <tmdbid>2627443</tmdbid>
+  </actor>
+  <actor>
+    <name>Florence Mezzara</name>
+    <role>Sad Eyes</role>
+    <type>Actor</type>
+    <tmdbid>1513568</tmdbid>
+  </actor>
+  <actor>
+    <name>Quaden Bayles</name>
+    <role>War Pup</role>
+    <type>Actor</type>
+    <tmdbid>3579580</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Stephens</name>
+    <role>Guardian of Gastown</role>
+    <type>Actor</type>
+    <tmdbid>4728208</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Millis</name>
+    <role>Lone War Boy</role>
+    <type>Actor</type>
+    <tmdbid>4728209</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Perry</name>
+    <role>The Bullet Farmer</role>
+    <type>Actor</type>
+    <tmdbid>1445417</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Adonis</name>
+    <role>Little Valkyrie</role>
+    <type>Actor</type>
+    <tmdbid>4728211</tmdbid>
+  </actor>
+  <actor>
+    <name>David Barnett</name>
+    <role>The Cycling Man</role>
+    <type>Actor</type>
+    <tmdbid>2259783</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Adams</name>
+    <role>Vuvalini</role>
+    <type>Actor</type>
+    <tmdbid>3549271</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sammak</name>
+    <role>Vuvalini</role>
+    <type>Actor</type>
+    <tmdbid>4274663</tmdbid>
+  </actor>
+  <actor>
+    <name>Shea Adams</name>
+    <role>Cannibal</role>
+    <type>Actor</type>
+    <tmdbid>208282</tmdbid>
+    <imdbid>nm0011354</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Randall</name>
+    <role>Savage</role>
+    <type>Actor</type>
+    <tmdbid>56162</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Van Moorsel</name>
+    <role>Hacker / Mortiflyer Bomb Setter</role>
+    <type>Actor</type>
+    <tmdbid>2047180</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawn Klingberg</name>
+    <role>Corpse Minder</role>
+    <type>Actor</type>
+    <tmdbid>112698</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Norton</name>
+    <role>The Prime Imperator</role>
+    <type>Actor</type>
+    <tmdbid>66055</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Amadasun</name>
+    <role>Shotgun Praetorian</role>
+    <type>Actor</type>
+    <tmdbid>4728215</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Annas</name>
+    <role>First Pick War Boy</role>
+    <type>Actor</type>
+    <tmdbid>3366121</tmdbid>
+  </actor>
+  <actor>
+    <name>Ripley Voeten</name>
+    <role>Chosen War Boy</role>
+    <type>Actor</type>
+    <tmdbid>1734188</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Van Leeve</name>
+    <role>Mortiflyer Matt</role>
+    <type>Actor</type>
+    <tmdbid>1509023</tmdbid>
+    <imdbid>nm6034757</imdbid>
+  </actor>
+  <actor>
+    <name>Shane Dundas</name>
+    <role>Gastown Gate Watchman</role>
+    <type>Actor</type>
+    <tmdbid>105124</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Cluff</name>
+    <role>Gastown Gate Opener</role>
+    <type>Actor</type>
+    <tmdbid>4728218</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Thompson</name>
+    <role>Gastown Gate Opener</role>
+    <type>Actor</type>
+    <tmdbid>4728219</tmdbid>
+  </actor>
+  <actor>
+    <name>Shyan Tonga</name>
+    <role>Gastown Rider</role>
+    <type>Actor</type>
+    <tmdbid>1734184</tmdbid>
+  </actor>
+  <actor>
+    <name>Nellie Collins</name>
+    <role>Winchman</role>
+    <type>Actor</type>
+    <tmdbid>4728221</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Washbourne</name>
+    <role>Watch Tower Praetorian Guard</role>
+    <type>Actor</type>
+    <tmdbid>4728222</tmdbid>
+  </actor>
+  <actor>
+    <name>James Corcoran</name>
+    <role>Watch Tower Praetorian Guard</role>
+    <type>Actor</type>
+    <tmdbid>4728224</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasa Vitanovic</name>
+    <role>Watch Tower Praetorian Guard</role>
+    <type>Actor</type>
+    <tmdbid>4728225</tmdbid>
+  </actor>
+  <actor>
+    <name>Tige Sixel Miller</name>
+    <role>Watch Tower Praetorian Guard</role>
+    <type>Actor</type>
+    <tmdbid>4728227</tmdbid>
+  </actor>
+  <actor>
+    <name>Justice Jones</name>
+    <role>Praetorian Pup</role>
+    <type>Actor</type>
+    <tmdbid>4728228</tmdbid>
+  </actor>
+  <actor>
+    <name>Maleeka Gasbarri</name>
+    <role>Pregnant Wife</role>
+    <type>Actor</type>
+    <tmdbid>3711093</tmdbid>
+  </actor>
+  <actor>
+    <name>Keza Ishimwe</name>
+    <role>Immortan's Harem</role>
+    <type>Actor</type>
+    <tmdbid>4728230</tmdbid>
+  </actor>
+  <actor>
+    <name>Nat Buchanan</name>
+    <role>Immortan's Harem</role>
+    <type>Actor</type>
+    <tmdbid>2728596</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Tomuri</name>
+    <role>The Dogman / Mad Max</role>
+    <type>Actor</type>
+    <tmdbid>215913</tmdbid>
+    <imdbid>nm0867063</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Wales</name>
+    <role>Brake Man</role>
+    <type>Actor</type>
+    <tmdbid>4728232</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Probets</name>
+    <role>Chumbucket</role>
+    <type>Actor</type>
+    <tmdbid>1014587</tmdbid>
+    <imdbid>nm2159255</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Lim</name>
+    <role>High Master Black Thumb</role>
+    <type>Actor</type>
+    <tmdbid>4201101</tmdbid>
+  </actor>
+  <actor>
+    <name>Darcy Bryce</name>
+    <role>Pissboy</role>
+    <type>Actor</type>
+    <tmdbid>3067900</tmdbid>
+  </actor>
+  <actor>
+    <name>Chudier Gatwech</name>
+    <role>Wretched Man Recruit</role>
+    <type>Actor</type>
+    <tmdbid>4728234</tmdbid>
+  </actor>
+  <actor>
+    <name>Shivantha Wijesinha</name>
+    <role>Welder Recruit</role>
+    <type>Actor</type>
+    <tmdbid>2259333</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Connelly</name>
+    <role>Rakka The Brackish</role>
+    <type>Actor</type>
+    <tmdbid>4589981</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Smith-Petersen</name>
+    <role>Ace Warboy</role>
+    <type>Actor</type>
+    <tmdbid>1734178</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Fuller</name>
+    <role>Lookout Warboy</role>
+    <type>Actor</type>
+    <tmdbid>1394442</tmdbid>
+    <imdbid>nm4852895</imdbid>
+  </actor>
+  <actor>
+    <name>Jayden Irving</name>
+    <role>Witness Warboy</role>
+    <type>Actor</type>
+    <tmdbid>2911018</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Turner</name>
+    <role>Bommyknocker Warboy</role>
+    <type>Actor</type>
+    <tmdbid>2220846</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Iles</name>
+    <role>Bullet Farm Senior War Boy</role>
+    <type>Actor</type>
+    <tmdbid>1734173</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Norris</name>
+    <role>Hazz The Valiant</role>
+    <type>Actor</type>
+    <tmdbid>4728239</tmdbid>
+  </actor>
+  <actor>
+    <name>Ash Hodgkinson</name>
+    <role>Valiant Lancer</role>
+    <type>Actor</type>
+    <tmdbid>3705641</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Renfrey</name>
+    <role>The Echo Man</role>
+    <type>Actor</type>
+    <tmdbid>4728241</tmdbid>
+  </actor>
+  <actor>
+    <name>Iota</name>
+    <role>The Doof Warrior</role>
+    <type>Actor</type>
+    <tmdbid>1272941</tmdbid>
+    <imdbid>nm5208473</imdbid>
+  </actor>
+  <actor>
+    <name>Xanthia Marinelli</name>
+    <role>Treadmill Rat / Vuvalini (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3038337</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Time</name>
+    <role>Dementus Biker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2993591</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Webber</name>
+    <role>War Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>234548</tmdbid>
+    <imdbid>nm3206486</imdbid>
+    <tvdbid>459092</tvdbid>
+  </actor>
+  <actor>
+    <name>Yeye Zhou</name>
+    <role>Treadmill Rat (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4589985</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikos Andronicos</name>
+    <role>Various (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1539586</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelli Bailey</name>
+    <role>The Wretched (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3100178</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcia Coronado</name>
+    <role>Vuvalini (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4287863</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt De Souza</name>
+    <role>Treadmill Rat (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3585651</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroshi Kasuga</name>
+    <role>Gas Towner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1394433</tmdbid>
+    <imdbid>nm5810594</imdbid>
+  </actor>
+  <actor>
+    <name>Shakriya Tarinyawat</name>
+    <role>Biker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3435712</tmdbid>
+  </actor>
+  <actor>
+    <name>Chong Wei Zhang</name>
+    <role>Corpse Minder (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4735305</tmdbid>
+  </actor>
+  <director tmdbid="20629">George Miller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S3Vx7TZ0yZw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=52dKmsFt6Ek</trailer>
+  <rating>7.9</rating>
+  <year>2024</year>
+  <sorttitle>Furiosa: De la saga Mad Max</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12037194</imdbid>
+  <tmdbid>786892</tmdbid>
+  <premiered>2024-05-22</premiered>
+  <releasedate>2024-05-22</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>148</runtime>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>AcciÃ³n</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficciÃ³n</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Kennedy Miller Mitchell</studio>
+  <studio>Domain Entertainment</studio>
+  <set tmdbcolid="8945">
+    <name>Mad Max - ColecciÃ³n</name>
+  </set>
+  <uniqueid type="tmdb">786892</uniqueid>
+  <uniqueid type="imdb">tt12037194</uniqueid>
+  <id>tt12037194</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149960</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>148</duration>
+        <durationinseconds>8891</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129616</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

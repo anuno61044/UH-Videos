@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una hilarante y emotiva comedia protagonizada por Awkwafina, Sandra Oh, Jason Schwartzman, Holland Taylor, Tony Hale y Will Ferrell acerca de una familia disfuncional y el concurso que podría ser la clave para su salvación. En la película, Anne, una joven brillante pero apática y obsesionada con los concursos de preguntas, y su desastrosa hermana Jenny deben trabajar juntas para cubrir las deudas de su madre. Cuando el querido perrito de Anne es secuestrado, las hermanas se embarcan en un alocado viaje a través del país para conseguir el dinero de la única forma que saben: convirtiendo a Anne en la campeona inigualable de un concurso de preguntas.]]></plot>
+  <outline><![CDATA[Dos Hermanas. Un destino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-03 07:58:14</dateadded>
+  <title>La reina de los concursos</title>
+  <originaltitle>Quiz Lady</originaltitle>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Anne Yum</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Jenny Yum</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+    <tvdbid>286297</tvdbid>
+  </actor>
+  <actor>
+    <name>Will Ferrell</name>
+    <role>Terry McTeer</role>
+    <type>Actor</type>
+    <tmdbid>23659</tmdbid>
+    <imdbid>nm0002071</imdbid>
+    <tvdbid>289998</tvdbid>
+  </actor>
+  <actor>
+    <name>Holland Taylor</name>
+    <role>Francine</role>
+    <type>Actor</type>
+    <tmdbid>11318</tmdbid>
+    <imdbid>nm0852466</imdbid>
+    <tvdbid>263590</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Schwartzman</name>
+    <role>Ron Heacock</role>
+    <type>Actor</type>
+    <tmdbid>17881</tmdbid>
+    <imdbid>nm0005403</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Hale</name>
+    <role>Ben Franklin</role>
+    <type>Actor</type>
+    <tmdbid>25147</tmdbid>
+    <imdbid>nm0355024</imdbid>
+    <tvdbid>303466</tvdbid>
+  </actor>
+  <actor>
+    <name>Tawny Newsome</name>
+    <role>Mercedes</role>
+    <type>Actor</type>
+    <tmdbid>1697336</tmdbid>
+    <imdbid>nm5634295</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Reubens</name>
+    <role>Francine's Crush</role>
+    <type>Actor</type>
+    <tmdbid>5129</tmdbid>
+    <imdbid>nm0000607</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Park</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>1074677</tmdbid>
+  </actor>
+  <actor>
+    <name>Camrus Johnson</name>
+    <role>Trav</role>
+    <type>Actor</type>
+    <tmdbid>1785142</tmdbid>
+    <imdbid>nm5531487</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Trimbur</name>
+    <role>Marge</role>
+    <type>Actor</type>
+    <tmdbid>183073</tmdbid>
+    <imdbid>nm1640326</imdbid>
+  </actor>
+  <actor>
+    <name>Justiin A. Davis</name>
+    <role>Darryl (Drunk Bro at Bar)</role>
+    <type>Actor</type>
+    <tmdbid>1732420</tmdbid>
+  </actor>
+  <actor>
+    <name>Davina Reid</name>
+    <role>Intense Woman (Janine at Bar)</role>
+    <type>Actor</type>
+    <tmdbid>1653357</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodi Hou</name>
+    <role>Young Anne (6-9 yrs old)</role>
+    <type>Actor</type>
+    <tmdbid>4352884</tmdbid>
+  </actor>
+  <actor>
+    <name>Shirley Chen</name>
+    <role>Young Jenny (16-22 yrs old)</role>
+    <type>Actor</type>
+    <tmdbid>1714809</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Lin</name>
+    <role>Crystal</role>
+    <type>Actor</type>
+    <tmdbid>1709787</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddy Lee</name>
+    <role>Anne &amp; Jenny's Dad</role>
+    <type>Actor</type>
+    <tmdbid>3333033</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Heitz</name>
+    <role>Glenn</role>
+    <type>Actor</type>
+    <tmdbid>149708</tmdbid>
+    <imdbid>nm1476559</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Holt</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>1597546</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Cordova</name>
+    <role>Bart</role>
+    <type>Actor</type>
+    <tmdbid>2452980</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Yubin Kim</name>
+    <role>So-Yung</role>
+    <type>Actor</type>
+    <tmdbid>3617066</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Kim</name>
+    <role>Cousin Jin</role>
+    <type>Actor</type>
+    <tmdbid>3132441</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Grace Welbourn</name>
+    <role>Shannon</role>
+    <type>Actor</type>
+    <tmdbid>2236990</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailey Perng</name>
+    <role>Young Anne (12 yrs old)</role>
+    <type>Actor</type>
+    <tmdbid>4352888</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel H. Chung</name>
+    <role>Tae, Ken's Associate</role>
+    <type>Actor</type>
+    <tmdbid>3964426</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Beaudrie</name>
+    <role>Marty the Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2471119</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Tolsky</name>
+    <role>Leah</role>
+    <type>Actor</type>
+    <tmdbid>1231079</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Green</name>
+    <role>Charles Von Kampf</role>
+    <type>Actor</type>
+    <tmdbid>1536821</tmdbid>
+  </actor>
+  <actor>
+    <name>Ammie Masterson</name>
+    <role>Angela Jackson</role>
+    <type>Actor</type>
+    <tmdbid>1514625</tmdbid>
+  </actor>
+  <actor>
+    <name>Randall D. Cunningham</name>
+    <role>Bellman</role>
+    <type>Actor</type>
+    <tmdbid>1395491</tmdbid>
+    <imdbid>nm4776586</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Roberts</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1445680</tmdbid>
+  </actor>
+  <actor>
+    <name>Ned Yousef</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1691470</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Chrest</name>
+    <role>Mr. Walters</role>
+    <type>Actor</type>
+    <tmdbid>141762</tmdbid>
+    <imdbid>nm0159609</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Bamford</name>
+    <role>Marybeth Windlemore</role>
+    <type>Actor</type>
+    <tmdbid>60278</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Boon Karstens</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>1137005</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Bayan</name>
+    <role>Danton</role>
+    <type>Actor</type>
+    <tmdbid>2536396</tmdbid>
+  </actor>
+  <actor>
+    <name>Atul Singh</name>
+    <role>AJ</role>
+    <type>Actor</type>
+    <tmdbid>2604792</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Marie Appleby</name>
+    <role>Denise</role>
+    <type>Actor</type>
+    <tmdbid>2535786</tmdbid>
+  </actor>
+  <actor>
+    <name>Esme Salzman</name>
+    <role>Tina</role>
+    <type>Actor</type>
+    <tmdbid>4352892</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Weissman</name>
+    <role>Chuck</role>
+    <type>Actor</type>
+    <tmdbid>124845</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Davies</name>
+    <role>Steven</role>
+    <type>Actor</type>
+    <tmdbid>4260663</tmdbid>
+  </actor>
+  <actor>
+    <name>Blake Rosier</name>
+    <role>Streaker</role>
+    <type>Actor</type>
+    <tmdbid>1942567</tmdbid>
+  </actor>
+  <actor>
+    <name>Jophielle Love</name>
+    <role>Young Daughter #1</role>
+    <type>Actor</type>
+    <tmdbid>3355473</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia G. James</name>
+    <role>Young Daughter #2</role>
+    <type>Actor</type>
+    <tmdbid>4260680</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosha Washington</name>
+    <role>Confused Manager</role>
+    <type>Actor</type>
+    <tmdbid>3722881</tmdbid>
+  </actor>
+  <actor>
+    <name>Choppy Guillotte</name>
+    <role>Jenny's Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1467418</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Claire Smythe</name>
+    <role>Cindy (Birthday Girl)</role>
+    <type>Actor</type>
+    <tmdbid>3913234</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane LeCocq</name>
+    <role>Nice Man - Tavern</role>
+    <type>Actor</type>
+    <tmdbid>2483970</tmdbid>
+    <imdbid>nm7674206</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Frederiksen</name>
+    <role>Nodding Female (Audition)</role>
+    <type>Actor</type>
+    <tmdbid>1744721</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Talbert</name>
+    <role>Businessman</role>
+    <type>Actor</type>
+    <tmdbid>175630</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Yu</name>
+    <role>Pickup Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1450792</tmdbid>
+  </actor>
+  <actor>
+    <name>Summer Selby</name>
+    <role>Woman at Heinz Museum</role>
+    <type>Actor</type>
+    <tmdbid>1543465</tmdbid>
+  </actor>
+  <actor>
+    <name>Sengphet Sengphachanh</name>
+    <role>Sam Dog Massage Therapist</role>
+    <type>Actor</type>
+    <tmdbid>4352902</tmdbid>
+  </actor>
+  <actor>
+    <name>Crosby Cookie</name>
+    <role>'Mr. Linguini'</role>
+    <type>Actor</type>
+    <tmdbid>4352904</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil LaMarr</name>
+    <role>The Brain (voice)</role>
+    <type>Actor</type>
+    <tmdbid>31549</tmdbid>
+    <imdbid>nm0482851</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick McDonald</name>
+    <role>Phone Guy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3342117</tmdbid>
+  </actor>
+  <director tmdbid="19509">Jessica Yu</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4OzaexEqDa8</trailer>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>reina de los concursos</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13405810</imdbid>
+  <tmdbid>787781</tmdbid>
+  <premiered>2023-09-09</premiered>
+  <releasedate>2023-09-09</releasedate>
+  <runtime>100</runtime>
+  <tagline>Dos Hermanas. Un destino.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Artists First</studio>
+  <studio>Gloria Sanchez Productions</studio>
+  <uniqueid type="imdb">tt13405810</uniqueid>
+  <uniqueid type="tmdb">787781</uniqueid>
+  <id>tt13405810</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1117455</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5985</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

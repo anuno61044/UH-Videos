@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Anne, a brilliant lawyer, lives in perfect harmony with her husband Pierre and their six and eight-year-old daughters, in a house on the heights of Paris. One day, Theo, 17, Pierre’s son from a previous marriage, moves in with them. Anne is troubled by Theo and gradually engages in a passionate relationship with him, putting her career and family life in danger.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-13 13:41:46</dateadded>
+  <title>L’été dernier</title>
+  <originaltitle>L’été dernier</originaltitle>
+  <actor>
+    <name>Léa Drucker</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>19360</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Kircher</name>
+    <role>Théo</role>
+    <type>Actor</type>
+    <tmdbid>3841400</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Rabourdin</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>49278</tmdbid>
+    <imdbid>nm0705005</imdbid>
+  </actor>
+  <actor>
+    <name>Clotilde Courau</name>
+    <role>Mina</role>
+    <type>Actor</type>
+    <tmdbid>16921</tmdbid>
+    <imdbid>nm0183660</imdbid>
+  </actor>
+  <actor>
+    <name>Serena Hu</name>
+    <role>Serena</role>
+    <type>Actor</type>
+    <tmdbid>4012753</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Chen</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>2457711</tmdbid>
+  </actor>
+  <actor>
+    <name>Karim Achoui</name>
+    <role>Avocat Théo</role>
+    <type>Actor</type>
+    <tmdbid>1292540</tmdbid>
+  </actor>
+  <actor>
+    <name>Lila-Rose Gilberti</name>
+    <role>Sara Evrard</role>
+    <type>Actor</type>
+    <tmdbid>1690386</tmdbid>
+  </actor>
+  <actor>
+    <name>Valérie Schlumberger</name>
+    <role>Invitée apéritif</role>
+    <type>Actor</type>
+    <tmdbid>2255253</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Kircher</name>
+    <role>Invité apéritif</role>
+    <type>Actor</type>
+    <tmdbid>28857</tmdbid>
+    <imdbid>nm0456268</imdbid>
+  </actor>
+  <actor>
+    <name>Romain Maricau</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>4478195</tmdbid>
+  </actor>
+  <actor>
+    <name>Nelia Da Costa</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+    <tmdbid>4090658</tmdbid>
+  </actor>
+  <director tmdbid="6295">Catherine Breillat</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z5cq-Nkf_e8</trailer>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>L’ete dernier</sorttitle>
+  <imdbid>tt14550346</imdbid>
+  <tmdbid>812037</tmdbid>
+  <premiered>2023-09-13</premiered>
+  <releasedate>2023-09-13</releasedate>
+  <runtime>104</runtime>
+  <country>France</country>
+  <country>Norway</country>
+  <genre>Drama</genre>
+  <studio>SBS Productions</studio>
+  <studio>Globalgate Entertainment</studio>
+  <studio>Nordisk Film Norway</studio>
+  <uniqueid type="imdb">tt14550346</uniqueid>
+  <uniqueid type="tmdb">812037</uniqueid>
+  <id>tt14550346</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1057963</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>81720:44051</aspect>
+        <aspectratio>81720:44051</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6223</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160062</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

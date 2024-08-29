@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un thriller sobre las periodistas pioneras que destaparon la historia de los asesinatos del famoso estrangulador de Boston: Loretta McLaughlin, reportera del periódico Record-American, y su compañera y confidente Jean Cole. Mientras el asesino va sumando víctimas, la pareja investiga, arriesgando su propia vida para descubrir la verdad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-20 09:17:04</dateadded>
+  <title>El estrangulador de Boston</title>
+  <originaltitle>Boston Strangler</originaltitle>
+  <actor>
+    <name>Keira Knightley</name>
+    <role>Loretta McLaughlin</role>
+    <type>Actor</type>
+    <tmdbid>116</tmdbid>
+    <imdbid>nm0461136</imdbid>
+  </actor>
+  <actor>
+    <name>Carrie Coon</name>
+    <role>Jean Cole</role>
+    <type>Actor</type>
+    <tmdbid>1308445</tmdbid>
+    <imdbid>nm4689420</imdbid>
+    <tvdbid>575253</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Cooper</name>
+    <role>Jack Maclaine</role>
+    <type>Actor</type>
+    <tmdbid>2955</tmdbid>
+    <imdbid>nm0177933</imdbid>
+    <tvdbid>333896</tvdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Detective Conley</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+    <tvdbid>388133</tvdbid>
+  </actor>
+  <actor>
+    <name>Rory Cochrane</name>
+    <role>Detective Deline</role>
+    <type>Actor</type>
+    <tmdbid>51792</tmdbid>
+    <imdbid>nm0168262</imdbid>
+    <tvdbid>346373</tvdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Albert DeSalvo</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Gerety</name>
+    <role>Eddie Corsetti</role>
+    <type>Actor</type>
+    <tmdbid>1986</tmdbid>
+    <imdbid>nm0314253</imdbid>
+  </actor>
+  <actor>
+    <name>Robert John Burke</name>
+    <role>Eddie Holland</role>
+    <type>Actor</type>
+    <tmdbid>31512</tmdbid>
+    <imdbid>nm0121559</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Winkles</name>
+    <role>Daniel Marsh</role>
+    <type>Actor</type>
+    <tmdbid>1318623</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Spector</name>
+    <role>James McLaughlin</role>
+    <type>Actor</type>
+    <tmdbid>937913</tmdbid>
+    <imdbid>nm1767528</imdbid>
+    <tvdbid>428612</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Malvesti</name>
+    <role>Detective Donovan</role>
+    <type>Actor</type>
+    <tmdbid>2029531</tmdbid>
+    <imdbid>nm4024589</imdbid>
+  </actor>
+  <actor>
+    <name>Aurora McLaughlin</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>2879847</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Anderson</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>3630200</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Volpicelli</name>
+    <role>Patrick</role>
+    <type>Actor</type>
+    <tmdbid>3910663</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy E. Carroll</name>
+    <role>Mary McDermott</role>
+    <type>Actor</type>
+    <tmdbid>1616716</tmdbid>
+  </actor>
+  <actor>
+    <name>Therese Plaehn</name>
+    <role>Kelly</role>
+    <type>Actor</type>
+    <tmdbid>118913</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Thorne</name>
+    <role>Frank Cole</role>
+    <type>Actor</type>
+    <tmdbid>3359764</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Vrotsos</name>
+    <role>George Nassar</role>
+    <type>Actor</type>
+    <tmdbid>1154271</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Lyons</name>
+    <role>Gordon Nielson</role>
+    <type>Actor</type>
+    <tmdbid>1040956</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian J. Mallen</name>
+    <role>Paul Dempsey</role>
+    <type>Actor</type>
+    <tmdbid>1730744</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Fitz</name>
+    <role>The Killer</role>
+    <type>Actor</type>
+    <tmdbid>2071721</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Jayne Morgan</name>
+    <role>Anne Samans</role>
+    <type>Actor</type>
+    <tmdbid>2035828</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert C. Kirk</name>
+    <role>Arthur</role>
+    <type>Actor</type>
+    <tmdbid>150932</tmdbid>
+    <imdbid>nm1478447</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Thurston</name>
+    <role>Fritz</role>
+    <type>Actor</type>
+    <tmdbid>1675319</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Middleton</name>
+    <role>Phyllis</role>
+    <type>Actor</type>
+    <tmdbid>1218192</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Martin</name>
+    <role>Stanley</role>
+    <type>Actor</type>
+    <tmdbid>58543</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Avallone</name>
+    <role>Lifestyle Editor</role>
+    <type>Actor</type>
+    <tmdbid>1456324</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamara Hickey</name>
+    <role>Ellie</role>
+    <type>Actor</type>
+    <tmdbid>1456292</tmdbid>
+    <imdbid>nm0382671</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Kirby</name>
+    <role>F. Lee Bailey</role>
+    <type>Actor</type>
+    <tmdbid>7002</tmdbid>
+    <imdbid>nm0456186</imdbid>
+    <tvdbid>395077</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kee</name>
+    <role>Richard DeSalvo</role>
+    <type>Actor</type>
+    <tmdbid>1765668</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyra Weeks</name>
+    <role>Emmie</role>
+    <type>Actor</type>
+    <tmdbid>2662835</tmdbid>
+  </actor>
+  <actor>
+    <name>John Lee Ames</name>
+    <role>Harrison</role>
+    <type>Actor</type>
+    <tmdbid>205345</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard O'Rourke</name>
+    <role>Old Addict</role>
+    <type>Actor</type>
+    <tmdbid>1616052</tmdbid>
+  </actor>
+  <actor>
+    <name>James Ciccone</name>
+    <role>Detective Linski</role>
+    <type>Actor</type>
+    <tmdbid>1456745</tmdbid>
+    <imdbid>nm3601503</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Commissioner McNamara</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+    <tvdbid>316986</tvdbid>
+  </actor>
+  <actor>
+    <name>Jimmy LeBlanc</name>
+    <role>Officer Dougan</role>
+    <type>Actor</type>
+    <tmdbid>1616714</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Galone</name>
+    <role>Belmont Detective</role>
+    <type>Actor</type>
+    <tmdbid>141448</tmdbid>
+    <imdbid>nm0303284</imdbid>
+  </actor>
+  <actor>
+    <name>David Conley</name>
+    <role>Old Desk Cop</role>
+    <type>Actor</type>
+    <tmdbid>187812</tmdbid>
+    <imdbid>nm1503640</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Drennen</name>
+    <role>Sergeant Burke</role>
+    <type>Actor</type>
+    <tmdbid>1480514</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Faherty</name>
+    <role>Officer Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>1274540</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Nesbit</name>
+    <role>Jane Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>3910668</tmdbid>
+  </actor>
+  <actor>
+    <name>Michele Proude</name>
+    <role>Anna Slesers</role>
+    <type>Actor</type>
+    <tmdbid>1616718</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Aiello Antczak</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>3910669</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheriden Thomas</name>
+    <role>Nina Nichols</role>
+    <type>Actor</type>
+    <tmdbid>3910670</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Howard</name>
+    <role>Helen Blake</role>
+    <type>Actor</type>
+    <tmdbid>130843</tmdbid>
+    <imdbid>nm2674188</imdbid>
+  </actor>
+  <actor>
+    <name>Kris Sidberry</name>
+    <role>Sophie Clark</role>
+    <type>Actor</type>
+    <tmdbid>1863673</tmdbid>
+  </actor>
+  <actor>
+    <name>Sissy O'Hara</name>
+    <role>Ida Irga</role>
+    <type>Actor</type>
+    <tmdbid>2023288</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Lynch</name>
+    <role>Beverly Samans</role>
+    <type>Actor</type>
+    <tmdbid>102760</tmdbid>
+  </actor>
+  <actor>
+    <name>Corinne Ognibene</name>
+    <role>Strangler Victim</role>
+    <type>Actor</type>
+    <tmdbid>3910672</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Rose</name>
+    <role>Assault Victim</role>
+    <type>Actor</type>
+    <tmdbid>1789186</tmdbid>
+  </actor>
+  <actor>
+    <name>Caitlin Zerra Rose</name>
+    <role>Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>3705238</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Darrell</name>
+    <role>Karen</role>
+    <type>Actor</type>
+    <tmdbid>1013019</tmdbid>
+  </actor>
+  <actor>
+    <name>Lydia Harrell</name>
+    <role>Ms. Thompson</role>
+    <type>Actor</type>
+    <tmdbid>3910674</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Plum</name>
+    <role>Mrs. Quinn</role>
+    <type>Actor</type>
+    <tmdbid>1456296</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Casper</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>2578465</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Connelly</name>
+    <role>Building Super</role>
+    <type>Actor</type>
+    <tmdbid>1750079</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Ridley</name>
+    <role>Ida's Super</role>
+    <type>Actor</type>
+    <tmdbid>50589</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Mootos</name>
+    <role>Dr. Grayson</role>
+    <type>Actor</type>
+    <tmdbid>1593005</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lafleur</name>
+    <role>Nurse Patty</role>
+    <type>Actor</type>
+    <tmdbid>1287658</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Perry</name>
+    <role>Nurse Deb McNulty</role>
+    <type>Actor</type>
+    <tmdbid>2919599</tmdbid>
+  </actor>
+  <actor>
+    <name>Moira Driscoll</name>
+    <role>Psych. Orderly</role>
+    <type>Actor</type>
+    <tmdbid>1616727</tmdbid>
+    <imdbid>nm1566435</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Thorpe</name>
+    <role>Brawny Detective</role>
+    <type>Actor</type>
+    <tmdbid>1774091</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Bash</name>
+    <role>Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1535487</tmdbid>
+    <imdbid>nm1488998</imdbid>
+  </actor>
+  <actor>
+    <name>Marissa Carpio</name>
+    <role>Production Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2148697</tmdbid>
+  </actor>
+  <actor>
+    <name>James Wilcox</name>
+    <role>Police Examiner</role>
+    <type>Actor</type>
+    <tmdbid>151278</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Tow</name>
+    <role>JC Kim</role>
+    <type>Actor</type>
+    <tmdbid>1593000</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Fielding</name>
+    <role>Herald Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1551124</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Burke</name>
+    <role>Officer Shanley</role>
+    <type>Actor</type>
+    <tmdbid>133068</tmdbid>
+    <imdbid>nm4024978</imdbid>
+  </actor>
+  <director tmdbid="1430904">Victor Warren</director>
+  <director tmdbid="962936">Matt Ruskin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XbaGCWIDAZU</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>estrangulador de Boston</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt2560078</imdbid>
+  <tmdbid>881164</tmdbid>
+  <premiered>2023-03-17</premiered>
+  <releasedate>2023-03-17</releasedate>
+  <runtime>112</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>20th Century Studios</studio>
+  <studio>LuckyChap Entertainment</studio>
+  <studio>Langley Park Productions</studio>
+  <studio>Scott Free Productions</studio>
+  <uniqueid type="tmdb">881164</uniqueid>
+  <uniqueid type="imdb">tt2560078</uniqueid>
+  <id>tt2560078</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>992073</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6738</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

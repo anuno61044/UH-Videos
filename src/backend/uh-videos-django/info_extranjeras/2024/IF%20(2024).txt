@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Película sobre el viaje de una niña para redescubrir su imaginación.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-20 09:28:52</dateadded>
+  <title>Amigos imaginarios</title>
+  <originaltitle>IF</originaltitle>
+  <actor>
+    <name>Cailey Fleming</name>
+    <role>Bea</role>
+    <type>Actor</type>
+    <tmdbid>1709047</tmdbid>
+    <tvdbid>8069126</tvdbid>
+  </actor>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Cal</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>John Krasinski</name>
+    <role>Dad / Marshmallow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17697</tmdbid>
+    <imdbid>nm1024677</imdbid>
+    <tvdbid>327265</tvdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+    <tvdbid>260511</tvdbid>
+  </actor>
+  <actor>
+    <name>Steve Carell</name>
+    <role>Blue (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4495</tmdbid>
+    <imdbid>nm0136797</imdbid>
+    <tvdbid>296970</tvdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Waller-Bridge</name>
+    <role>Blossom (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1023483</tmdbid>
+    <imdbid>nm3564817</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Gossett Jr.</name>
+    <role>Lewis (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20959</tmdbid>
+    <imdbid>nm0001283</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Kim</name>
+    <role>Benjamin</role>
+    <type>Actor</type>
+    <tmdbid>2476742</tmdbid>
+  </actor>
+  <actor>
+    <name>Liza Colón-Zayas</name>
+    <role>Janet</role>
+    <type>Actor</type>
+    <tmdbid>59693</tmdbid>
+    <imdbid>nm1154919</imdbid>
+    <tvdbid>7923836</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Moynihan</name>
+    <role>Jeremy</role>
+    <type>Actor</type>
+    <tmdbid>452205</tmdbid>
+    <imdbid>nm1293885</imdbid>
+  </actor>
+  <actor>
+    <name>Catharine Daddario</name>
+    <role>Bea’s Mom</role>
+    <type>Actor</type>
+    <tmdbid>2502877</tmdbid>
+  </actor>
+  <actor>
+    <name>Audrey Hoffman</name>
+    <role>Bea (Ages 3 &amp; 5)</role>
+    <type>Actor</type>
+    <tmdbid>4712399</tmdbid>
+  </actor>
+  <actor>
+    <name>Laquet Sharnell Pringle</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2575303</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Herbstman</name>
+    <role>Deli Guy</role>
+    <type>Actor</type>
+    <tmdbid>1667664</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Andres</name>
+    <role>Woman Upstairs</role>
+    <type>Actor</type>
+    <tmdbid>164258</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Rivero</name>
+    <role>Custodian</role>
+    <type>Actor</type>
+    <tmdbid>4727486</tmdbid>
+  </actor>
+  <actor>
+    <name>Shauna Pinkett</name>
+    <role>Hospital Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1196534</tmdbid>
+  </actor>
+  <actor>
+    <name>Sa'Raya Paris Johnson</name>
+    <role>7 Year-Old Girl</role>
+    <type>Actor</type>
+    <tmdbid>4123321</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Siteiya Moipei</name>
+    <role>Coffee Shop Barista</role>
+    <type>Actor</type>
+    <tmdbid>4727490</tmdbid>
+  </actor>
+  <actor>
+    <name>David Weissmann</name>
+    <role>Young Jeremy</role>
+    <type>Actor</type>
+    <tmdbid>4727493</tmdbid>
+  </actor>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Bubble (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Blunt</name>
+    <role>Unicorn (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5081</tmdbid>
+    <imdbid>nm1289434</imdbid>
+  </actor>
+  <actor>
+    <name>George Clooney</name>
+    <role>Spaceman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1461</tmdbid>
+    <imdbid>nm0000123</imdbid>
+    <tvdbid>274178</tvdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Ice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Flower (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Hader</name>
+    <role>Banana (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19278</tmdbid>
+    <imdbid>nm0352778</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Jenkins</name>
+    <role>Art Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>28633</tmdbid>
+    <imdbid>nm0420955</imdbid>
+    <tvdbid>319939</tvdbid>
+  </actor>
+  <actor>
+    <name>Keegan-Michael Key</name>
+    <role>Slime (voice)</role>
+    <type>Actor</type>
+    <tmdbid>298410</tmdbid>
+    <imdbid>nm1221047</imdbid>
+    <tvdbid>303443</tvdbid>
+  </actor>
+  <actor>
+    <name>Blake Lively</name>
+    <role>Octocat (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59175</tmdbid>
+    <imdbid>nm0515116</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Maniscalco</name>
+    <role>Magician Mouse (voice)</role>
+    <type>Actor</type>
+    <tmdbid>299743</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Meloni</name>
+    <role>Cosmo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>22227</tmdbid>
+    <imdbid>nm0005221</imdbid>
+    <tvdbid>258613</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Rhys</name>
+    <role>Ghost (voice)</role>
+    <type>Actor</type>
+    <tmdbid>29528</tmdbid>
+    <imdbid>nm0722629</imdbid>
+    <tvdbid>257222</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Rockwell</name>
+    <role>Guardian Dog (voice)</role>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+    <tvdbid>333915</tvdbid>
+  </actor>
+  <actor>
+    <name>Maya Rudolph</name>
+    <role>Ally (voice)</role>
+    <type>Actor</type>
+    <tmdbid>52792</tmdbid>
+    <imdbid>nm0748973</imdbid>
+    <tvdbid>294127</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Schumer</name>
+    <role>Gummy Bear (voice)</role>
+    <type>Actor</type>
+    <tmdbid>440414</tmdbid>
+    <tvdbid>311117</tvdbid>
+  </actor>
+  <actor>
+    <name>Allyson Seeger</name>
+    <role>Viola (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1449075</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Stewart</name>
+    <role>Robot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12219</tmdbid>
+    <imdbid>nm0829537</imdbid>
+  </actor>
+  <director tmdbid="17697" imdbid="nm1024677" tvdbid="327265">John Krasinski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TG8O16RYMUY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_uc_BFDBUII</trailer>
+  <rating>6.7</rating>
+  <year>2024</year>
+  <sorttitle>Amigos imaginarios</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt11152168</imdbid>
+  <tmdbid>639720</tmdbid>
+  <premiered>2024-05-08</premiered>
+  <releasedate>2024-05-08</releasedate>
+  <criticrating>49</criticrating>
+  <runtime>107</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Fantasía</genre>
+  <genre>Familia</genre>
+  <studio>Paramount Pictures</studio>
+  <studio>Sunday Night</studio>
+  <studio>Maximum Effort</studio>
+  <uniqueid type="imdb">tt11152168</uniqueid>
+  <uniqueid type="tmdb">639720</uniqueid>
+  <id>tt11152168</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1037379</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6445</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

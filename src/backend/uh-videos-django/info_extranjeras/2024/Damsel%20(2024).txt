@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una obediente damisela acepta casarse con un apuesto príncipe. Pronto descubre que lo que en realidad quiere de ella la familia del novio es sacrificarla y, de este modo, saldar una antigua deuda. Cuando es arrojada a una cueva con un dragón que escupe fuego, solo tiene su ingenio y voluntad para sobrevivir.]]></plot>
+  <outline><![CDATA[Este no es un cuento de hadas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-08 11:33:00</dateadded>
+  <title>Damsel</title>
+  <originaltitle>Damsel</originaltitle>
+  <actor>
+    <name>Millie Bobby Brown</name>
+    <role>Princess Elodie</role>
+    <type>Actor</type>
+    <tmdbid>1356210</tmdbid>
+    <imdbid>nm5611121</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Robinson</name>
+    <role>Prince Harry</role>
+    <type>Actor</type>
+    <tmdbid>1108907</tmdbid>
+    <imdbid>nm3538718</imdbid>
+    <tvdbid>293549</tvdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Queen Isabelle</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Dragon (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Bassett</name>
+    <role>Lady Bayford</role>
+    <type>Actor</type>
+    <tmdbid>9780</tmdbid>
+    <imdbid>nm0000291</imdbid>
+    <tvdbid>274193</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Winstone</name>
+    <role>The King</role>
+    <type>Actor</type>
+    <tmdbid>5538</tmdbid>
+    <imdbid>nm0935653</imdbid>
+    <tvdbid>258489</tvdbid>
+  </actor>
+  <actor>
+    <name>Brooke Carter</name>
+    <role>Floria</role>
+    <type>Actor</type>
+    <tmdbid>2750967</tmdbid>
+  </actor>
+  <actor>
+    <name>Rui M Tomas</name>
+    <type>Actor</type>
+    <tmdbid>3597710</tmdbid>
+  </actor>
+  <actor>
+    <name>Ulli Ackermann</name>
+    <type>Actor</type>
+    <tmdbid>1562095</tmdbid>
+  </actor>
+  <actor>
+    <name>Erickson Dos Santos Gomes</name>
+    <type>Actor</type>
+    <tmdbid>3597712</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricarda Clay</name>
+    <type>Actor</type>
+    <tmdbid>3597713</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Odumade</name>
+    <type>Actor</type>
+    <tmdbid>3812007</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonya Nisa</name>
+    <type>Actor</type>
+    <tmdbid>3857258</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Guillart</name>
+    <role>Sir Oded</role>
+    <type>Actor</type>
+    <tmdbid>3857259</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Joseph</name>
+    <role>Victoria</role>
+    <type>Actor</type>
+    <tmdbid>3857260</tmdbid>
+  </actor>
+  <actor>
+    <name>Brogan McFarlane</name>
+    <type>Actor</type>
+    <tmdbid>3857261</tmdbid>
+  </actor>
+  <actor>
+    <name>Elmano Sancho</name>
+    <type>Actor</type>
+    <tmdbid>1630832</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Sharma</name>
+    <type>Actor</type>
+    <tmdbid>3719858</tmdbid>
+  </actor>
+  <actor>
+    <name>Mens-Sana Tamakloe</name>
+    <type>Actor</type>
+    <tmdbid>1795844</tmdbid>
+  </actor>
+  <director tmdbid="17597">Juan Carlos Fresnadillo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VrdRyYPggfI</trailer>
+  <rating>7.5</rating>
+  <year>2024</year>
+  <sorttitle>Damsel</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13452446</imdbid>
+  <tmdbid>763215</tmdbid>
+  <premiered>2024-03-08</premiered>
+  <releasedate>2024-03-08</releasedate>
+  <runtime>110</runtime>
+  <tagline>Este no es un cuento de hadas.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>PCMA Productions</studio>
+  <studio>Roth-Kirschenbaum Films</studio>
+  <uniqueid type="imdb">tt13452446</uniqueid>
+  <uniqueid type="tmdb">763215</uniqueid>
+  <id>tt13452446</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1016747</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6573</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

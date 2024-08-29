@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers (Taron Egerton) y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.]]></plot>
+  <outline><![CDATA[El juego que no pudo dejar. La historia que no pudo inventar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-03 08:38:18</dateadded>
+  <title>Tetris</title>
+  <originaltitle>Tetris</originaltitle>
+  <actor>
+    <name>Taron Egerton</name>
+    <role>Henk Rogers</role>
+    <type>Actor</type>
+    <tmdbid>1303037</tmdbid>
+    <imdbid>nm5473782</imdbid>
+    <tvdbid>329484</tvdbid>
+  </actor>
+  <actor>
+    <name>Nikita Efremov</name>
+    <role>Alexey Pajitnov</role>
+    <type>Actor</type>
+    <tmdbid>931253</tmdbid>
+    <imdbid>nm3362705</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Lebedeva</name>
+    <role>Sasha</role>
+    <type>Actor</type>
+    <tmdbid>1466773</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Boyle</name>
+    <role>Kevin Maxwell</role>
+    <type>Actor</type>
+    <tmdbid>1727213</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Miles</name>
+    <role>Howard Lincoln</role>
+    <type>Actor</type>
+    <tmdbid>11280</tmdbid>
+    <imdbid>nm0587060</imdbid>
+    <tvdbid>296494</tvdbid>
+  </actor>
+  <actor>
+    <name>Ken Yamamura</name>
+    <role>Minoru Arakawa</role>
+    <type>Actor</type>
+    <tmdbid>1155715</tmdbid>
+    <imdbid>nm4576636</imdbid>
+  </actor>
+  <actor>
+    <name>Igor Grabuzov</name>
+    <role>Valentin Trifonov</role>
+    <type>Actor</type>
+    <tmdbid>1679513</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleg Shtefanko</name>
+    <role>Belikov</role>
+    <type>Actor</type>
+    <tmdbid>235858</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayane Nagabuchi</name>
+    <role>Akemi Rogers</role>
+    <type>Actor</type>
+    <tmdbid>1502347</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Yune</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>10883</tmdbid>
+    <imdbid>nm0950935</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Allam</name>
+    <role>Robert Maxwell</role>
+    <type>Actor</type>
+    <tmdbid>11279</tmdbid>
+    <imdbid>nm0019885</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Robert Stein</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Mara Huf</name>
+    <role>Tracy</role>
+    <type>Actor</type>
+    <tmdbid>3992498</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Barrow</name>
+    <role>Dennis Jackson</role>
+    <type>Actor</type>
+    <tmdbid>2855820</tmdbid>
+    <tvdbid>8185586</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexey Shedko</name>
+    <role>Alexey's Lab Chief</role>
+    <type>Actor</type>
+    <tmdbid>2402712</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Gonchar</name>
+    <role>MCSC Secretary</role>
+    <type>Actor</type>
+    <tmdbid>3775204</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayano Yamamoto</name>
+    <role>Nintendo Secretary Japan</role>
+    <type>Actor</type>
+    <tmdbid>147896</tmdbid>
+    <imdbid>nm2306698</imdbid>
+  </actor>
+  <actor>
+    <name>Niino Furuhata</name>
+    <role>Yamauchi's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1898017</tmdbid>
+  </actor>
+  <actor>
+    <name>Togo Igawa</name>
+    <role>Hiroshi Yamauchi</role>
+    <type>Actor</type>
+    <tmdbid>9192</tmdbid>
+    <imdbid>nm0407033</imdbid>
+  </actor>
+  <actor>
+    <name>Kanon Nurumi</name>
+    <role>Maya Rogers</role>
+    <type>Actor</type>
+    <tmdbid>3992508</tmdbid>
+  </actor>
+  <actor>
+    <name>Timur Kassimikulov</name>
+    <role>Dmitri Pajitnov</role>
+    <type>Actor</type>
+    <tmdbid>3992510</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Khismatullin</name>
+    <role>Peter Pajitnov</role>
+    <type>Actor</type>
+    <tmdbid>3992511</tmdbid>
+  </actor>
+  <actor>
+    <name>Karin Nurumi</name>
+    <role>Julie Rogers</role>
+    <type>Actor</type>
+    <tmdbid>3992513</tmdbid>
+  </actor>
+  <actor>
+    <name>Moyo Akandé</name>
+    <role>Lincoln's Executive Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1564581</tmdbid>
+  </actor>
+  <actor>
+    <name>Bhav Joshi</name>
+    <role>Nintendo Programmer</role>
+    <type>Actor</type>
+    <tmdbid>3260549</tmdbid>
+    <tvdbid>8332138</tvdbid>
+  </actor>
+  <actor>
+    <name>Jenni Keenan-Green</name>
+    <role>Jo (Robert Maxwell's Secretary)</role>
+    <type>Actor</type>
+    <tmdbid>1463959</tmdbid>
+  </actor>
+  <actor>
+    <name>Irina Kara</name>
+    <role>Immigration Agent</role>
+    <type>Actor</type>
+    <tmdbid>1646440</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Kolpakchi</name>
+    <role>Boris</role>
+    <type>Actor</type>
+    <tmdbid>1294465</tmdbid>
+    <imdbid>nm4185737</imdbid>
+  </actor>
+  <actor>
+    <name>Zane Mihailova</name>
+    <role>Intourist Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3992516</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergii Levchenko</name>
+    <role>Moscow Grocer</role>
+    <type>Actor</type>
+    <tmdbid>3992518</tmdbid>
+  </actor>
+  <actor>
+    <name>Katarzyna Sanak</name>
+    <role>Woman at Grocers</role>
+    <type>Actor</type>
+    <tmdbid>3992519</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Koudreiko</name>
+    <role>ELORG Secretary</role>
+    <type>Actor</type>
+    <tmdbid>3992520</tmdbid>
+  </actor>
+  <actor>
+    <name>Dmitriy Sharakois</name>
+    <role>Sergei</role>
+    <type>Actor</type>
+    <tmdbid>575113</tmdbid>
+  </actor>
+  <actor>
+    <name>Ieva Andrejevaitė</name>
+    <role>Nina Pajitnov</role>
+    <type>Actor</type>
+    <tmdbid>1766423</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Utkina</name>
+    <role>Alexey's Neighbour</role>
+    <type>Actor</type>
+    <tmdbid>3454122</tmdbid>
+  </actor>
+  <actor>
+    <name>Polina Sulim</name>
+    <role>Russian Activist</role>
+    <type>Actor</type>
+    <tmdbid>3134852</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Locke</name>
+    <role>Foreign Intelligence Officer</role>
+    <type>Actor</type>
+    <tmdbid>1241263</tmdbid>
+    <imdbid>nm2706290</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Marsh</name>
+    <role>Mikhail Gorbachev</role>
+    <type>Actor</type>
+    <tmdbid>17353</tmdbid>
+    <imdbid>nm0550624</imdbid>
+  </actor>
+  <actor>
+    <name>Len Blavatnik</name>
+    <role>Russian General</role>
+    <type>Actor</type>
+    <tmdbid>1507471</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Burlakov</name>
+    <role>Security Advisor</role>
+    <type>Actor</type>
+    <tmdbid>3992524</tmdbid>
+  </actor>
+  <actor>
+    <name>Daria Westbrook</name>
+    <role>Customs Agent</role>
+    <type>Actor</type>
+    <tmdbid>3992525</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Lavrentyeva</name>
+    <role>Flight Attendant on Plane</role>
+    <type>Actor</type>
+    <tmdbid>3905455</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Vodovoz</name>
+    <role>Niki (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1500879</tmdbid>
+  </actor>
+  <director tmdbid="76965" imdbid="nm1580671">Jon S. Baird</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P3XojOorLOo</trailer>
+  <rating>7.4</rating>
+  <year>2023</year>
+  <sorttitle>Tetris</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12758060</imdbid>
+  <tmdbid>726759</tmdbid>
+  <premiered>2023-03-15</premiered>
+  <releasedate>2023-03-15</releasedate>
+  <runtime>118</runtime>
+  <tagline>El juego que no pudo dejar. La historia que no pudo inventar.</tagline>
+  <country>United Kingdom</country>
+  <genre>Suspense</genre>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>Marv</studio>
+  <studio>AI Film</studio>
+  <studio>Unigram</studio>
+  <studio>Cloudy Productions</studio>
+  <uniqueid type="tmdb">726759</uniqueid>
+  <uniqueid type="imdb">tt12758060</uniqueid>
+  <id>tt12758060</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100102</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>1047680:438081</aspect>
+        <aspectratio>1047680:438081</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7066</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,14 +1,15 @@
 import os
 import django
 import random
+import xml.etree.ElementTree as ET
 from faker import Faker
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'uh_videos.settings')
 django.setup()
 
-from recommender.models import Movie, User, Rating
-
 fake = Faker()
+
+from recommender.models import Movie, User, Rating
 
 # Constantes
 GENRES = ['Action', 'Sci-Fi', 'Crime', 'Drama', 'Comedy', 'Horror']
@@ -56,18 +57,37 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
     print(f"{num_users} usuarios creados.")
 
     # Crear películas de prueba con diversidad en géneros y directores
-    print(f"Creando {num_movies} películas...")
     directors = [fake.name() for _ in range(NUM_DIRECTORS)]
     movies = []
-    for i in range(num_movies):
-        movie = Movie.objects.create(
-            title=fake.sentence(nb_words=3).replace('.', ''),
-            genre=random.choice(GENRES),
-            director=random.choice(directors),
-            description=fake.text(),
-            release_date=fake.date_between(start_date='-50y', end_date='today')
-        )
-        movies.append(movie)
+    # Cargar información de las películas
+    years = ['2024', '2023', '2022']
+    for year in years:
+        for archivo in os.listdir(f'./info_extranjeras/{year}'):
+            if archivo.endswith('.txt'):
+                print(archivo)
+                # Leer el archivo XML
+                tree = ET.parse(f'./info_extranjeras/{year}/{archivo}')
+                root = tree.getroot()
+                
+                movie_title = root.find('originaltitle').text
+                # movie_year = root.find('year').text
+                movie_director = root.find('director').text
+                # movie_language = root.find('fileinfo').find('streamdetails').find('audio').find('language').text
+                # movie_countries = [country.text for country in root.findall('country')]
+                movie_genres = [genre.text for genre in root.findall('genre')]
+                # movie_actors = [actor.find('name').text for actor in root.findall('actor')[:3]]
+                movie_description = root.find('plot')
+                
+                movie = Movie.objects.create(
+                    title=movie_title,
+                    genre=movie_genres[0],
+                    director=movie_director,
+                    description=movie_description,
+                    release_date=fake.date_between(start_date='-50y', end_date='today')
+                )
+                movies.append(movie)
+    
+    num_movies = len(movies)
     print(f"{num_movies} películas creadas.")
 
     # Crear grupos de usuarios similares (Filtrado Colaborativo)

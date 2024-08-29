@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuenta la historia de Javier, quien a los 16 años besó por primera vez a una chica y descubrió que tenía el don de la clarividencia, al menos de la clarividencia amorosa. Javier, con tan sólo un beso, es capaz de ver el futuro de esa relación. La historia se complica cuando en una noche de fiesta besa a Lucia, la novia de su mejor amigo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-03 10:53:20</dateadded>
+  <title>Eres tú</title>
+  <originaltitle>Eres tú</originaltitle>
+  <actor>
+    <name>Álvaro Cervantes</name>
+    <role>Javier</role>
+    <type>Actor</type>
+    <tmdbid>224874</tmdbid>
+    <imdbid>nm2024943</imdbid>
+  </actor>
+  <actor>
+    <name>Silvia Alonso</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>588183</tmdbid>
+    <imdbid>nm4001535</imdbid>
+    <tvdbid>561998</tvdbid>
+  </actor>
+  <actor>
+    <name>Gorka Otxoa</name>
+    <type>Actor</type>
+    <tmdbid>85557</tmdbid>
+    <imdbid>nm1347093</imdbid>
+    <tvdbid>564284</tvdbid>
+  </actor>
+  <actor>
+    <name>Susana Abaitua</name>
+    <type>Actor</type>
+    <tmdbid>544004</tmdbid>
+    <imdbid>nm2969728</imdbid>
+  </actor>
+  <actor>
+    <name>Pilar Castro</name>
+    <type>Actor</type>
+    <tmdbid>138701</tmdbid>
+    <imdbid>nm0145673</imdbid>
+    <tvdbid>550128</tvdbid>
+  </actor>
+  <director tmdbid="2229398">Alauda Ruiz de Azua</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=taHQep_16BQ</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Eres tu</sorttitle>
+  <imdbid>tt14463514</imdbid>
+  <tmdbid>818648</tmdbid>
+  <premiered>2023-03-03</premiered>
+  <releasedate>2023-03-03</releasedate>
+  <runtime>96</runtime>
+  <country>Spain</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <studio>Zeta Studios</studio>
+  <uniqueid type="tmdb">818648</uniqueid>
+  <uniqueid type="imdb">tt14463514</uniqueid>
+  <id>tt14463514</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>200493</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5772</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63816</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Hitomi, Rui y Ai son hermanas y ladronas de gatos. Roban una pintura de un museo casi al mismo tiempo que Lupin III parece robar otra pintura él mismo. Ambas pinturas son parte de la serie de Michael Heinz titulada La niña y las flores. Para las niñas, las pinturas son pistas sobre el paradero de su padre desaparecido. Cuando se enteran de que Lupin persigue el mismo objetivo, se enciende un fuego dentro de ellos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:45:42</dateadded>
+  <title>Lupin III vs. Ojos de gato</title>
+  <originaltitle>ルパン三世VSキャッツ・アイ</originaltitle>
+  <actor>
+    <name>Kanichi Kurita</name>
+    <role>Arsène Lupin III (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1046843</tmdbid>
+  </actor>
+  <actor>
+    <name>Akio Otsuka</name>
+    <role>Daisuke Jigen (voice)</role>
+    <type>Actor</type>
+    <tmdbid>40451</tmdbid>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Fujiko Mine (voice)</role>
+    <type>Actor</type>
+    <tmdbid>186341</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Goemon Ishikawa XIII (voice)</role>
+    <type>Actor</type>
+    <tmdbid>110665</tmdbid>
+  </actor>
+  <actor>
+    <name>Koichi Yamadera</name>
+    <role>Inspector Koichi Zenigata (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20664</tmdbid>
+  </actor>
+  <actor>
+    <name>Keiko Toda</name>
+    <role>Hitomi Kisugi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>57736</tmdbid>
+    <tvdbid>480590</tvdbid>
+  </actor>
+  <actor>
+    <name>Rica Fukami</name>
+    <role>Rui Kisugi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>111372</tmdbid>
+  </actor>
+  <actor>
+    <name>Chika Sakamoto</name>
+    <role>Ai Kisugi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55664</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoshito Yasuhara</name>
+    <role>Toshi Utsumi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>142701</tmdbid>
+  </actor>
+  <actor>
+    <name>Mugihito</name>
+    <role>Sadatsugu Nagaishi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>217144</tmdbid>
+  </actor>
+  <actor>
+    <name>Takayuki Sugō</name>
+    <role>Heinrich Berger (voice)</role>
+    <type>Actor</type>
+    <tmdbid>216453</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroki Touchi</name>
+    <role>Dennis Kirchmann (voice)</role>
+    <type>Actor</type>
+    <tmdbid>89832</tmdbid>
+  </actor>
+  <actor>
+    <name>Banjo Ginga</name>
+    <role>Additional Voices</role>
+    <type>Actor</type>
+    <tmdbid>122481</tmdbid>
+  </actor>
+  <director tmdbid="237072">Kobun Shizuno</director>
+  <director tmdbid="1503508">Hiroyuki Seshita</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kIqZBlVAXfA</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Lupin III vs. Ojos de gato</sorttitle>
+  <imdbid>tt22192398</imdbid>
+  <tmdbid>1027159</tmdbid>
+  <premiered>2023-01-23</premiered>
+  <releasedate>2023-01-23</releasedate>
+  <runtime>93</runtime>
+  <country>Japan</country>
+  <genre>Animación</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>TMS Entertainment</studio>
+  <set tmdbcolid="1185967">
+    <name>Lupin the 3rd</name>
+  </set>
+  <set tmdbcolid="1185967">
+    <name>Lupin the 3rd Collection</name>
+  </set>
+  <uniqueid type="tmdb">1027159</uniqueid>
+  <uniqueid type="imdb">tt22192398</uniqueid>
+  <id>tt22192398</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150401</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5573</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129806</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ta</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>te</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

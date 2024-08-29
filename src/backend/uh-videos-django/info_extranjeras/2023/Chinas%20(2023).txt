@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un colegio coinciden al comienzo de curso dos niñas chinas de 9 años. Todo el mundo da por hecho que se harán amigas, pero absolutamente nada las une. Lucía, es segunda generación de inmigrantes. Se siente absolutamente española y solo piensa en integrarse con el resto de sus amigas del colegio. Desearía tener unos padres “normales” como el resto de sus amigas, pero los suyos le avergüenzan constantemente porque no hablan español, trabajan más de 14 horas en el bazar y ni siquiera le permiten celebrar su cumpleaños en el Burger King.  La otra niña es Xiang. Es adoptada y con su rostro delata allá donde va que no es hija de sus padres. Xiang se pregunta por su familia biológica; ni se siente china ni se siente aceptada ante los demás niños en el colegio. Las dos niñas se cruzarán, separarán y acabarán siendo vitales la una para la otra en la búsqueda de su identidad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-01 12:40:05</dateadded>
+  <title>Chinas</title>
+  <originaltitle>Chinas</originaltitle>
+  <actor>
+    <name>Shiman Yang</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>3736475</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Qiu</name>
+    <role>Xiang</role>
+    <type>Actor</type>
+    <tmdbid>3736476</tmdbid>
+  </actor>
+  <actor>
+    <name>Xinyi Ye</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>3736477</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonor Watling</name>
+    <type>Actor</type>
+    <tmdbid>101</tmdbid>
+    <imdbid>nm0914455</imdbid>
+    <tvdbid>7885324</tvdbid>
+  </actor>
+  <actor>
+    <name>Pablo Molinero</name>
+    <type>Actor</type>
+    <tmdbid>1209572</tmdbid>
+    <imdbid>nm1944825</imdbid>
+    <tvdbid>7868369</tvdbid>
+  </actor>
+  <actor>
+    <name>Carolina Yuste</name>
+    <role>Amaya</role>
+    <type>Actor</type>
+    <tmdbid>2025663</tmdbid>
+    <imdbid>nm8188533</imdbid>
+    <tvdbid>8189878</tvdbid>
+  </actor>
+  <director tmdbid="1302077">Arantxa Echevarria</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wMsmTvr6X6o</trailer>
+  <rating>8</rating>
+  <year>2023</year>
+  <sorttitle>Chinas</sorttitle>
+  <imdbid>tt21282898</imdbid>
+  <tmdbid>1034387</tmdbid>
+  <premiered>2023-10-06</premiered>
+  <releasedate>2023-10-06</releasedate>
+  <runtime>113</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="tmdb">1034387</uniqueid>
+  <uniqueid type="imdb">tt21282898</uniqueid>
+  <id>tt21282898</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1600070</bitrate>
+        <width>1128</width>
+        <height>480</height>
+        <aspect>960:409</aspect>
+        <aspectratio>960:409</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6799</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cordillera del Himalaya, año 1999. Quique, Clara y el pequeño Lucas disfrutan de sus primeras vacaciones juntos en el norte de la India. Una noche, durmiendo al raso durante una tormenta, sufren un brutal ataque por unos bandidos. Horas después, Quique es rescatado por un nativo y trasladado a una remota aldea aislada en las montañas. Allí, incomunicado y sin posibilidad de regresar a la civilización, deberá permanecer hasta la llegada del invierno, que permite la formación de la única vía de salida de la aldea: el río helado. El camino de vuelta, lleno de peligros, en compañía de varios niños de la aldea, pondrá a prueba todo lo que Quique ha aprendido durante su estancia en el corazón del Himalaya.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-03 08:54:24</dateadded>
+  <title>Valle de sombras</title>
+  <originaltitle>Valle de sombras</originaltitle>
+  <actor>
+    <name>Miguel Herrán</name>
+    <role>Quique</role>
+    <type>Actor</type>
+    <tmdbid>1428896</tmdbid>
+    <imdbid>nm5969653</imdbid>
+    <tvdbid>493275</tvdbid>
+  </actor>
+  <actor>
+    <name>Susana Abaitua</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>544004</tmdbid>
+    <imdbid>nm2969728</imdbid>
+    <tvdbid>668906</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Masangkay</name>
+    <role>Prana</role>
+    <type>Actor</type>
+    <tmdbid>1640347</tmdbid>
+    <imdbid>nm4724329</imdbid>
+  </actor>
+  <actor>
+    <name>Iván Renedo</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>2619434</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanzin Gombo</name>
+    <role>Hari</role>
+    <type>Actor</type>
+    <tmdbid>4142300</tmdbid>
+  </actor>
+  <actor>
+    <name>Morup Namgyal</name>
+    <role>Thata</role>
+    <type>Actor</type>
+    <tmdbid>3995183</tmdbid>
+  </actor>
+  <actor>
+    <name>Pavel Anton</name>
+    <role>Ori</role>
+    <type>Actor</type>
+    <tmdbid>4093284</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonam Angchok</name>
+    <role>Lobzang</role>
+    <type>Actor</type>
+    <tmdbid>3995184</tmdbid>
+  </actor>
+  <director tmdbid="1473973" imdbid="nm0130991">Salvador Calvo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xhQKVq0O7Mc</trailer>
+  <rating>7.125</rating>
+  <year>2023</year>
+  <sorttitle>Valle de sombras</sorttitle>
+  <imdbid>tt21861446</imdbid>
+  <tmdbid>1145857</tmdbid>
+  <premiered>2023-12-29</premiered>
+  <releasedate>2023-12-29</releasedate>
+  <runtime>120</runtime>
+  <country>Spain</country>
+  <genre>Aventura</genre>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Atresmedia</studio>
+  <studio>La Terraza Films</studio>
+  <studio>Ikiru Films</studio>
+  <uniqueid type="imdb">tt21861446</uniqueid>
+  <uniqueid type="tmdb">1145857</uniqueid>
+  <id>tt21861446</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>220193</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7199</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63832</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Bilal Irving, a professional basketball player returns to his small, Northern Ontario town of Dumont. He re-connects with his former coach, and conflict ensues as they both struggle to put their egos and complicated pasts aside to mentor the town’s only basketball team.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-02 09:09:58</dateadded>
+  <title>Warrior Strong</title>
+  <originaltitle>Warrior Strong</originaltitle>
+  <actor>
+    <name>Andrew Dice Clay</name>
+    <role>Coach Schmidt</role>
+    <type>Actor</type>
+    <tmdbid>57906</tmdbid>
+    <imdbid>nm0001048</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Johnson-Hinds</name>
+    <role>Bilal Irving</role>
+    <type>Actor</type>
+    <tmdbid>1812409</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Podemski</name>
+    <role>Jules</role>
+    <type>Actor</type>
+    <tmdbid>1239460</tmdbid>
+    <imdbid>nm1007883</imdbid>
+  </actor>
+  <actor>
+    <name>Macaulee Cassaday</name>
+    <role>Bettina</role>
+    <type>Actor</type>
+    <tmdbid>3169587</tmdbid>
+  </actor>
+  <actor>
+    <name>Aidan Kalechstein</name>
+    <role>Shlomo</role>
+    <type>Actor</type>
+    <tmdbid>3210817</tmdbid>
+  </actor>
+  <actor>
+    <name>Rohan Mead</name>
+    <role>Mason</role>
+    <type>Actor</type>
+    <tmdbid>1448899</tmdbid>
+  </actor>
+  <actor>
+    <name>Harlan Blayne Kytwayhat</name>
+    <role>Russell</role>
+    <type>Actor</type>
+    <tmdbid>3578777</tmdbid>
+  </actor>
+  <actor>
+    <name>Raoul Bhaneja</name>
+    <role>Carter</role>
+    <type>Actor</type>
+    <tmdbid>43243</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosa Blasi</name>
+    <role>Rose</role>
+    <type>Actor</type>
+    <tmdbid>20389</tmdbid>
+    <imdbid>nm0087726</imdbid>
+  </actor>
+  <director tmdbid="2349581">Shane Belcourt</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=elDafzvghYs</trailer>
+  <rating>0</rating>
+  <year>2023</year>
+  <sorttitle>Warrior Strong</sorttitle>
+  <imdbid>tt21622842</imdbid>
+  <tmdbid>1175342</tmdbid>
+  <premiered>2023-09-29</premiered>
+  <releasedate>2023-09-29</releasedate>
+  <runtime>99</runtime>
+  <country>Canada</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Darius Films</studio>
+  <uniqueid type="tmdb">1175342</uniqueid>
+  <uniqueid type="imdb">tt21622842</uniqueid>
+  <id>tt21622842</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149665</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5968</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130135</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

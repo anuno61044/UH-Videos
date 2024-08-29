@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.]]></plot>
+  <outline><![CDATA[He is the world's only hope.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-12 08:57:05</dateadded>
+  <title>Angels Fallen: Warriors of Peace</title>
+  <originaltitle>Angels Fallen: Warriors of Peace</originaltitle>
+  <actor>
+    <name>Josh Burdett</name>
+    <role>Gabriel</role>
+    <type>Actor</type>
+    <tmdbid>1170997</tmdbid>
+  </actor>
+  <actor>
+    <name>Arifin Putra</name>
+    <role>Trigger</role>
+    <type>Actor</type>
+    <tmdbid>1290939</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Kholafai</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>928674</tmdbid>
+  </actor>
+  <actor>
+    <name>Korrina Rico</name>
+    <role>Leah</role>
+    <type>Actor</type>
+    <tmdbid>1169764</tmdbid>
+    <imdbid>nm2980893</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Teh</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>125130</tmdbid>
+  </actor>
+  <actor>
+    <name>Denise Richards</name>
+    <role>Deborah</role>
+    <type>Actor</type>
+    <tmdbid>9205</tmdbid>
+    <imdbid>nm0000612</imdbid>
+  </actor>
+  <actor>
+    <name>Silvio Simac</name>
+    <role>Lucius</role>
+    <type>Actor</type>
+    <tmdbid>134414</tmdbid>
+    <imdbid>nm0799272</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Canestrari</name>
+    <role>Padre</role>
+    <type>Actor</type>
+    <tmdbid>2004298</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Michelle Jeffus</name>
+    <role>Dinah</role>
+    <type>Actor</type>
+    <tmdbid>3820033</tmdbid>
+  </actor>
+  <director tmdbid="1520631">Ali Zamani</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gm6G4kenO0Q</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hj0CtX8YevI</trailer>
+  <rating>6.7</rating>
+  <year>2024</year>
+  <sorttitle>Angels Fallen: Warriors of Peace</sorttitle>
+  <imdbid>tt20258220</imdbid>
+  <tmdbid>1058537</tmdbid>
+  <premiered>2024-07-09</premiered>
+  <releasedate>2024-07-09</releasedate>
+  <runtime>104</runtime>
+  <tagline>He is the world's only hope.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Acción</genre>
+  <genre>Fantasía</genre>
+  <genre>Aventura</genre>
+  <studio>AZ Film Studios</studio>
+  <studio>Bossa Nova Productions</studio>
+  <studio>Eleven Seven Productions</studio>
+  <studio>Millman Productions</studio>
+  <studio>Ron Lee Productions</studio>
+  <studio>Silent D Pictures</studio>
+  <set tmdbcolid="1166174">
+    <name>Angels Fallen Collection (Fantasy Films)</name>
+  </set>
+  <uniqueid type="tmdb">1058537</uniqueid>
+  <uniqueid type="imdb">tt20258220</uniqueid>
+  <id>tt20258220</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149515</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6234</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129543</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

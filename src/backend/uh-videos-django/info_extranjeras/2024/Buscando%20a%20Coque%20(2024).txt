@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[César y Teresa son una pareja feliz hasta que una noche ella se acuesta con Coque Malla, el gran ídolo de César desde su adolescencia. Teresa se lo confiesa a César, arrepentida, pero él no sabe cómo reaccionar. ¿Ser infiel con tu mito erótico es algo excusable? Teresa no se ha acostado con su ídolo, sino con el de César. Y sobre eso no hay legislación vigente. César necesita hablar con Coque, aunque el cantante ya no viva en España. Así que la pareja viaja a Miami en su búsqueda, mientras se replantean su relación de 15 años y sus propias vidas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-17 09:27:10</dateadded>
+  <title>Buscando a Coque</title>
+  <originaltitle>Buscando a Coque</originaltitle>
+  <actor>
+    <name>Hugo Silva</name>
+    <role>César</role>
+    <type>Actor</type>
+    <tmdbid>112901</tmdbid>
+    <imdbid>nm1281229</imdbid>
+    <tvdbid>306708</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Jiménez</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>114460</tmdbid>
+    <imdbid>nm1411610</imdbid>
+    <tvdbid>7955410</tvdbid>
+  </actor>
+  <actor>
+    <name>Coque Malla</name>
+    <role>Coque</role>
+    <type>Actor</type>
+    <tmdbid>563825</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Fernández Muro</name>
+    <role>Madre de César</role>
+    <type>Actor</type>
+    <tmdbid>37520</tmdbid>
+    <imdbid>nm0273312</imdbid>
+  </actor>
+  <actor>
+    <name>Felice</name>
+    <role>Dependiente Tienda Ropa</role>
+    <type>Actor</type>
+    <tmdbid>2990284</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia García Méndez</name>
+    <role>Lola</role>
+    <type>Actor</type>
+    <tmdbid>1528381</tmdbid>
+  </actor>
+  <actor>
+    <name>José Troncoso</name>
+    <role>Tatuador</role>
+    <type>Actor</type>
+    <tmdbid>1073104</tmdbid>
+    <imdbid>nm3218146</imdbid>
+  </actor>
+  <actor>
+    <name>Alberto Mateo</name>
+    <role>David Batres</role>
+    <type>Actor</type>
+    <tmdbid>1378382</tmdbid>
+    <imdbid>nm1776156</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Medina</name>
+    <role>Monica</role>
+    <type>Actor</type>
+    <tmdbid>4635357</tmdbid>
+  </actor>
+  <actor>
+    <name>Marisol Correa Vega</name>
+    <role>Esmeralda</role>
+    <type>Actor</type>
+    <tmdbid>3141667</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Rallo</name>
+    <role>Novio Teresa</role>
+    <type>Actor</type>
+    <tmdbid>1436543</tmdbid>
+  </actor>
+  <actor>
+    <name>Úrsula Gutiérrez</name>
+    <role>Madre Niño</role>
+    <type>Actor</type>
+    <tmdbid>1838093</tmdbid>
+  </actor>
+  <actor>
+    <name>David Lorente</name>
+    <role>Taxista</role>
+    <type>Actor</type>
+    <tmdbid>1696114</tmdbid>
+    <tvdbid>8812458</tvdbid>
+  </actor>
+  <actor>
+    <name>Cristina Soria</name>
+    <role>Manuela</role>
+    <type>Actor</type>
+    <tmdbid>1670189</tmdbid>
+  </actor>
+  <director tmdbid="1957068">Teresa Bellón</director>
+  <director tmdbid="1957066">César F. Calvillo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pF_iyZ3kZk0</trailer>
+  <rating>4.45</rating>
+  <year>2024</year>
+  <sorttitle>Buscando a Coque</sorttitle>
+  <imdbid>tt27331098</imdbid>
+  <tmdbid>1196366</tmdbid>
+  <premiered>2024-02-14</premiered>
+  <releasedate>2024-02-14</releasedate>
+  <runtime>91</runtime>
+  <genre>Comedia</genre>
+  <uniqueid type="imdb">tt27331098</uniqueid>
+  <uniqueid type="tmdb">1196366</uniqueid>
+  <id>tt27331098</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1047596</bitrate>
+        <width>1720</width>
+        <height>720</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.999634</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5467</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64293</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

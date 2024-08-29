@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Monk sale de la jubilación cuando la boda de su hijastra se vuelve trágica cuando su prometido muere en un accidente de puenting.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-15 10:53:02</dateadded>
+  <title>Mr. Monk's Last Case: A Monk Movie</title>
+  <originaltitle>Mr. Monk's Last Case: A Monk Movie</originaltitle>
+  <actor>
+    <name>Tony Shalhoub</name>
+    <role>Adrian Monk</role>
+    <type>Actor</type>
+    <tmdbid>4252</tmdbid>
+    <imdbid>nm0001724</imdbid>
+    <tvdbid>326603</tvdbid>
+  </actor>
+  <actor>
+    <name>Traylor Howard</name>
+    <role>Natalie Teeger-Albright</role>
+    <type>Actor</type>
+    <tmdbid>54826</tmdbid>
+    <imdbid>nm0005025</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Gray-Stanford</name>
+    <role>Randall 'Randy' Disher</role>
+    <type>Actor</type>
+    <tmdbid>6166</tmdbid>
+    <imdbid>nm0337020</imdbid>
+  </actor>
+  <actor>
+    <name>Melora Hardin</name>
+    <role>Trudy Monk</role>
+    <type>Actor</type>
+    <tmdbid>404</tmdbid>
+    <imdbid>nm0002124</imdbid>
+    <tvdbid>255300</tvdbid>
+  </actor>
+  <actor>
+    <name>Héctor Elizondo</name>
+    <role>Dr. Neven Bell</role>
+    <type>Actor</type>
+    <tmdbid>1210</tmdbid>
+    <imdbid>nm0001185</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Levine</name>
+    <role>Leland Stottlemeyer</role>
+    <type>Actor</type>
+    <tmdbid>15854</tmdbid>
+    <imdbid>nm0505971</imdbid>
+  </actor>
+  <actor>
+    <name>James Purefoy</name>
+    <role>Rick Eden</role>
+    <type>Actor</type>
+    <tmdbid>17648</tmdbid>
+    <imdbid>nm0700856</imdbid>
+  </actor>
+  <actor>
+    <name>Caitlin McGee</name>
+    <role>Molly Evans</role>
+    <type>Actor</type>
+    <tmdbid>1939957</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Scott</name>
+    <role>Griffin</role>
+    <type>Actor</type>
+    <tmdbid>1149597</tmdbid>
+    <imdbid>nm2177523</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Ishta</name>
+    <role>Skyler</role>
+    <type>Actor</type>
+    <tmdbid>1442091</tmdbid>
+    <imdbid>nm6228730</imdbid>
+  </actor>
+  <actor>
+    <name>Paulino Nunes</name>
+    <role>Lucas Kubrick</role>
+    <type>Actor</type>
+    <tmdbid>1233146</tmdbid>
+    <imdbid>nm0637992</imdbid>
+    <tvdbid>295897</tvdbid>
+  </actor>
+  <actor>
+    <name>Raven Dauda</name>
+    <role>Captain Lisa Rudner</role>
+    <type>Actor</type>
+    <tmdbid>190897</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Adams</name>
+    <role>Beth</role>
+    <type>Actor</type>
+    <tmdbid>69054</tmdbid>
+    <imdbid>nm0000724</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Kind</name>
+    <role>Funeral Director #1 / #2</role>
+    <type>Actor</type>
+    <tmdbid>21125</tmdbid>
+    <imdbid>nm0454236</imdbid>
+    <tvdbid>262048</tvdbid>
+  </actor>
+  <actor>
+    <name>Gurdeep Ahluwalia</name>
+    <role>Anchorman</role>
+    <type>Actor</type>
+    <tmdbid>1756356</tmdbid>
+  </actor>
+  <actor>
+    <name>Bitty Schram</name>
+    <role>Sharona Fleming</role>
+    <type>Actor</type>
+    <tmdbid>138240</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Bernett</name>
+    <role>Jumper Friend</role>
+    <type>Actor</type>
+    <tmdbid>1548174</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel DeSanto</name>
+    <role>Engineer</role>
+    <type>Actor</type>
+    <tmdbid>242212</tmdbid>
+  </actor>
+  <actor>
+    <name>Pip Dwyer</name>
+    <role>Sgt. Platt</role>
+    <type>Actor</type>
+    <tmdbid>1774681</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Garner</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>4420594</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamaal Grant</name>
+    <role>Mission Director</role>
+    <type>Actor</type>
+    <tmdbid>190951</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Nunez</name>
+    <role>Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1850370</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison Seguin</name>
+    <role>Erica</role>
+    <type>Actor</type>
+    <tmdbid>2755458</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike 'Nug' Nahrgang</name>
+    <role>Man on Elevator</role>
+    <type>Actor</type>
+    <tmdbid>5923</tmdbid>
+    <imdbid>nm1081961</imdbid>
+  </actor>
+  <actor>
+    <name>David Webster</name>
+    <role>Quinlan</role>
+    <type>Actor</type>
+    <tmdbid>2358880</tmdbid>
+    <imdbid>nm6047005</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Passmore</name>
+    <role>Woman Passenger</role>
+    <type>Actor</type>
+    <tmdbid>3490851</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Sinasac</name>
+    <role>Male Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1104715</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriano Sobretodo Jr.</name>
+    <role>Family Friend</role>
+    <type>Actor</type>
+    <tmdbid>2215616</tmdbid>
+  </actor>
+  <actor>
+    <name>Chantria Tram</name>
+    <role>Bystander</role>
+    <type>Actor</type>
+    <tmdbid>1772665</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Marty</name>
+    <role>Eden Security Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>1445595</tmdbid>
+  </actor>
+  <actor>
+    <name>Quenton Rose</name>
+    <role>Eden Security Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>4229458</tmdbid>
+  </actor>
+  <actor>
+    <name>Melody Shang</name>
+    <role>Ghost Victim #1</role>
+    <type>Actor</type>
+    <tmdbid>4421729</tmdbid>
+  </actor>
+  <actor>
+    <name>MacKenzie Boyd-Garrison</name>
+    <role>Ghost Victim #2</role>
+    <type>Actor</type>
+    <tmdbid>1496241</tmdbid>
+  </actor>
+  <actor>
+    <name>John-Michael Scapin</name>
+    <role>Ghost Victim #3</role>
+    <type>Actor</type>
+    <tmdbid>4421568</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Barnes</name>
+    <role>Ghost Victim #4</role>
+    <type>Actor</type>
+    <tmdbid>2739069</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel MacMillan</name>
+    <role>Ghost Victim #5</role>
+    <type>Actor</type>
+    <tmdbid>1053903</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Chuckryk</name>
+    <role>Ghost Victim #6</role>
+    <type>Actor</type>
+    <tmdbid>2004236</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamaica Fraser</name>
+    <role>Young Female Ghost</role>
+    <type>Actor</type>
+    <tmdbid>4420593</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Perlmutar</name>
+    <role>Various Guest #1</role>
+    <type>Actor</type>
+    <tmdbid>1240870</tmdbid>
+    <imdbid>nm1242020</imdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Donohue</name>
+    <role>Impatient Guest</role>
+    <type>Actor</type>
+    <tmdbid>4263362</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuvaraja Bhide</name>
+    <role>Impatient Guest #2</role>
+    <type>Actor</type>
+    <tmdbid>4420469</tmdbid>
+  </actor>
+  <director tmdbid="1214368">Randall Zisk</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Krfd3OWb4hs</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Mr. Monk's Last Case: A Monk Movie</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt27145269</imdbid>
+  <tmdbid>1100795</tmdbid>
+  <premiered>2023-12-08</premiered>
+  <releasedate>2023-12-08</releasedate>
+  <runtime>97</runtime>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>UCP</studio>
+  <studio>Mandeville Films</studio>
+  <studio>Andy Breckman Productions</studio>
+  <uniqueid type="tmdb">1100795</uniqueid>
+  <uniqueid type="imdb">tt27145269</uniqueid>
+  <id>tt27145269</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150457</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5845</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129203</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

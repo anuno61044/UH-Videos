@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer y su hijo reclutan a un variopinto grupo de expertos espirituales para que les ayuden a liberar su hogar de unos ocupantes sobrenaturales.]]></plot>
+  <outline><![CDATA[Una casa con mucho encanto.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-03 12:25:57</dateadded>
+  <title>Mansión encantada (Haunted Mansion)</title>
+  <originaltitle>Haunted Mansion</originaltitle>
+  <actor>
+    <name>Rosario Dawson</name>
+    <role>Gabbie</role>
+    <type>Actor</type>
+    <tmdbid>5916</tmdbid>
+    <imdbid>nm0206257</imdbid>
+    <tvdbid>310628</tvdbid>
+  </actor>
+  <actor>
+    <name>Chase W. Dillon</name>
+    <role>Travis</role>
+    <type>Actor</type>
+    <tmdbid>2461073</tmdbid>
+    <imdbid>nm10229945</imdbid>
+    <tvdbid>8181868</tvdbid>
+  </actor>
+  <actor>
+    <name>Lakeith Stanfield</name>
+    <role>Ben Matthias</role>
+    <type>Actor</type>
+    <tmdbid>1200864</tmdbid>
+    <imdbid>nm3147751</imdbid>
+    <tvdbid>292503</tvdbid>
+  </actor>
+  <actor>
+    <name>Owen Wilson</name>
+    <role>Father Kent</role>
+    <type>Actor</type>
+    <tmdbid>887</tmdbid>
+    <imdbid>nm0005562</imdbid>
+    <tvdbid>310578</tvdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Haddish</name>
+    <role>Harriet</role>
+    <type>Actor</type>
+    <tmdbid>1230868</tmdbid>
+    <imdbid>nm1840504</imdbid>
+    <tvdbid>311354</tvdbid>
+  </actor>
+  <actor>
+    <name>Danny DeVito</name>
+    <role>Bruce Davis</role>
+    <type>Actor</type>
+    <tmdbid>518</tmdbid>
+    <imdbid>nm0000362</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Leto</name>
+    <role>The Hatbox Ghost</role>
+    <type>Actor</type>
+    <tmdbid>7499</tmdbid>
+    <imdbid>nm0001467</imdbid>
+    <tvdbid>310997</tvdbid>
+  </actor>
+  <actor>
+    <name>Jamie Lee Curtis</name>
+    <role>Madame Leota</role>
+    <type>Actor</type>
+    <tmdbid>8944</tmdbid>
+    <imdbid>nm0000130</imdbid>
+  </actor>
+  <actor>
+    <name>J.R. Adduci</name>
+    <role>William Gracey</role>
+    <type>Actor</type>
+    <tmdbid>1763912</tmdbid>
+  </actor>
+  <actor>
+    <name>Creek Wilson</name>
+    <role>Mariner Ghost</role>
+    <type>Actor</type>
+    <tmdbid>2043169</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Bladon</name>
+    <role>Hatchet Ghost</role>
+    <type>Actor</type>
+    <tmdbid>1945262</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Lamb</name>
+    <role>The Bride</role>
+    <type>Actor</type>
+    <tmdbid>1199824</tmdbid>
+  </actor>
+  <actor>
+    <name>Charity Jordan</name>
+    <role>Alyssa</role>
+    <type>Actor</type>
+    <tmdbid>1411598</tmdbid>
+    <imdbid>nm5393724</imdbid>
+  </actor>
+  <actor>
+    <name>Fedor Steer</name>
+    <role>Ezra</role>
+    <type>Actor</type>
+    <tmdbid>1939684</tmdbid>
+  </actor>
+  <actor>
+    <name>Terence Rosemore</name>
+    <role>Phineas</role>
+    <type>Actor</type>
+    <tmdbid>1411625</tmdbid>
+    <imdbid>nm0741893</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Benitez</name>
+    <role>Gus</role>
+    <type>Actor</type>
+    <tmdbid>171896</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Coleman</name>
+    <role>Eleanor Gracey</role>
+    <type>Actor</type>
+    <tmdbid>1745109</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Winchester</name>
+    <role>New Year's Eve Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1515291</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Koy</name>
+    <role>Daytime Bartender</role>
+    <type>Actor</type>
+    <tmdbid>114394</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Paone</name>
+    <role>Drunk Man</role>
+    <type>Actor</type>
+    <tmdbid>4166405</tmdbid>
+  </actor>
+  <actor>
+    <name>Gralen Bryant Banks</name>
+    <role>Drunk Man</role>
+    <type>Actor</type>
+    <tmdbid>557804</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Nalibov</name>
+    <role>60 Year Old Woman</role>
+    <type>Actor</type>
+    <tmdbid>4166407</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathi Callahan</name>
+    <role>Carol Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3881736</tmdbid>
+  </actor>
+  <actor>
+    <name>Marilu Henner</name>
+    <role>Carol Tourist</role>
+    <type>Actor</type>
+    <tmdbid>21619</tmdbid>
+    <imdbid>nm0000447</imdbid>
+  </actor>
+  <actor>
+    <name>Hector Machado</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>1507449</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Zissis</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>45398</tmdbid>
+    <imdbid>nm1587813</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Morgado</name>
+    <role>TV Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>80823</tmdbid>
+    <imdbid>nm1157771</imdbid>
+  </actor>
+  <actor>
+    <name>William Calvert</name>
+    <role>TV Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1091875</tmdbid>
+    <imdbid>nm0130843</imdbid>
+  </actor>
+  <actor>
+    <name>Glendon Ray Hobgood</name>
+    <role>Ben's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>4166414</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico Gomez</name>
+    <role>Male Student</role>
+    <type>Actor</type>
+    <tmdbid>1649129</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Beronilla</name>
+    <role>Hibachi Chef</role>
+    <type>Actor</type>
+    <tmdbid>1521804</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Parrish</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>155965</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Yue</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2068598</tmdbid>
+    <imdbid>nm4746345</imdbid>
+  </actor>
+  <actor>
+    <name>Hasan Minhaj</name>
+    <role>Sketch Artist</role>
+    <type>Actor</type>
+    <tmdbid>552252</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Levy</name>
+    <role>Vic</role>
+    <type>Actor</type>
+    <tmdbid>1392152</tmdbid>
+    <imdbid>nm2391794</imdbid>
+    <tvdbid>375407</tvdbid>
+  </actor>
+  <actor>
+    <name>Rowan Joseph</name>
+    <role>Male Tour Guest</role>
+    <type>Actor</type>
+    <tmdbid>1451161</tmdbid>
+    <imdbid>nm0430695</imdbid>
+  </actor>
+  <actor>
+    <name>Alisa Harris</name>
+    <role>Female Tour Guest</role>
+    <type>Actor</type>
+    <tmdbid>1407899</tmdbid>
+    <imdbid>nm2221470</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Black</name>
+    <role>Victor Guest</role>
+    <type>Actor</type>
+    <tmdbid>1615196</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Crumley</name>
+    <role>Duelist</role>
+    <type>Actor</type>
+    <tmdbid>3636371</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastien Soudais</name>
+    <role>Duelist</role>
+    <type>Actor</type>
+    <tmdbid>2242073</tmdbid>
+  </actor>
+  <actor>
+    <name>John Curran</name>
+    <role>Pickwick</role>
+    <type>Actor</type>
+    <tmdbid>1587358</tmdbid>
+    <imdbid>nm1491348</imdbid>
+  </actor>
+  <actor>
+    <name>Tracy Goode</name>
+    <role>Executioner</role>
+    <type>Actor</type>
+    <tmdbid>135800</tmdbid>
+    <imdbid>nm1727310</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan McClure</name>
+    <role>Headless Knight</role>
+    <type>Actor</type>
+    <tmdbid>223923</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Stallings</name>
+    <role>Venetian Ghost</role>
+    <type>Actor</type>
+    <tmdbid>2277855</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley John</name>
+    <role>Lady Blue</role>
+    <type>Actor</type>
+    <tmdbid>3170777</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Andosca</name>
+    <role>Caretaker Ghost</role>
+    <type>Actor</type>
+    <tmdbid>1932628</tmdbid>
+  </actor>
+  <actor>
+    <name>Kat Montes</name>
+    <role>Diner Waitress</role>
+    <type>Actor</type>
+    <tmdbid>4166427</tmdbid>
+  </actor>
+  <actor>
+    <name>Cruz Abelita</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>2860234</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Zhu</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>4166428</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamran Shaikh</name>
+    <role>Suited Man on Dynamite</role>
+    <type>Actor</type>
+    <tmdbid>2132442</tmdbid>
+  </actor>
+  <actor>
+    <name>Helene Henry</name>
+    <role>Ballerina</role>
+    <type>Actor</type>
+    <tmdbid>4166429</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Simon</name>
+    <role>Hatted Man in Quicksand</role>
+    <type>Actor</type>
+    <tmdbid>2231953</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Miller</name>
+    <role>Quicksand Man</role>
+    <type>Actor</type>
+    <tmdbid>4166431</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Covell</name>
+    <role>Quicksand Man</role>
+    <type>Actor</type>
+    <tmdbid>2692559</tmdbid>
+  </actor>
+  <actor>
+    <name>Kay Galvin</name>
+    <role>Elderly Woman w/Rose</role>
+    <type>Actor</type>
+    <tmdbid>1836105</tmdbid>
+  </actor>
+  <actor>
+    <name>Terence Mathews</name>
+    <role>Travis' Dad (voice)</role>
+    <type>Actor</type>
+    <tmdbid>170862</tmdbid>
+    <imdbid>nm0558723</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Omari Gosin</name>
+    <role>Singer at Funeral &amp; Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166432</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Donovan Peyton</name>
+    <role>Singer at Funeral &amp; Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166434</tmdbid>
+  </actor>
+  <actor>
+    <name>Erion Brandon WIlliams</name>
+    <role>Funeral Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166435</tmdbid>
+  </actor>
+  <actor>
+    <name>Lumar Christopher Leblanc III</name>
+    <role>Funeral Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166438</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Otis Hubbard</name>
+    <role>Funeral Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166439</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Perkins</name>
+    <role>Funeral Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166440</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick James Moss</name>
+    <role>Funeral Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166441</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Michael Robertson</name>
+    <role>Funeral Brass Band</role>
+    <type>Actor</type>
+    <tmdbid>4166442</tmdbid>
+  </actor>
+  <actor>
+    <name>Raianna Brown</name>
+    <role>Female Waltzer</role>
+    <type>Actor</type>
+    <tmdbid>4166443</tmdbid>
+  </actor>
+  <actor>
+    <name>Kailie Sanders</name>
+    <role>Female Waltzer</role>
+    <type>Actor</type>
+    <tmdbid>4166444</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Pitner</name>
+    <role>Female Lindy Hopper</role>
+    <type>Actor</type>
+    <tmdbid>4166445</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayane Azevedo</name>
+    <role>Female Lindy Hopper</role>
+    <type>Actor</type>
+    <tmdbid>4166446</tmdbid>
+  </actor>
+  <actor>
+    <name>Clarence White III</name>
+    <role>Male Lindy Hopper</role>
+    <type>Actor</type>
+    <tmdbid>4166447</tmdbid>
+  </actor>
+  <actor>
+    <name>D. Jerome Wells</name>
+    <role>Male Lindy Hopper</role>
+    <type>Actor</type>
+    <tmdbid>4166448</tmdbid>
+  </actor>
+  <actor>
+    <name>Arielle Prepetit</name>
+    <role>Can-Can Girl</role>
+    <type>Actor</type>
+    <tmdbid>3469887</tmdbid>
+  </actor>
+  <actor>
+    <name>Chenise Johnson</name>
+    <role>Can-Can Girl</role>
+    <type>Actor</type>
+    <tmdbid>4166449</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Lagrande</name>
+    <role>Can-Can Girl</role>
+    <type>Actor</type>
+    <tmdbid>4166450</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Burrell</name>
+    <role>African Warrior</role>
+    <type>Actor</type>
+    <tmdbid>2085189</tmdbid>
+  </actor>
+  <actor>
+    <name>Winona Ryder</name>
+    <role>Pat (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1920</tmdbid>
+    <imdbid>nm0000213</imdbid>
+  </actor>
+  <director tmdbid="1059571" imdbid="nm2798574">Justin Simien</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yPhdm4Fvnj4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WEQ1yhShMts</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_VIj0rf6TBc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jKpQS-zq03c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PfzQ8ZHijbE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-kg-HqEjLDA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EMTG2dn0yhs</trailer>
+  <rating>6.1</rating>
+  <year>2023</year>
+  <sorttitle>Mansion encantada (Haunted Mansion)</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1695843</imdbid>
+  <tmdbid>616747</tmdbid>
+  <premiered>2023-07-26</premiered>
+  <releasedate>2023-07-26</releasedate>
+  <criticrating>37</criticrating>
+  <runtime>123</runtime>
+  <tagline>Una casa con mucho encanto.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Comedia</genre>
+  <genre>Terror</genre>
+  <genre>Familia</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Rideback</studio>
+  <uniqueid type="imdb">tt1695843</uniqueid>
+  <uniqueid type="tmdb">616747</uniqueid>
+  <id>tt1695843</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1314305</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7378</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

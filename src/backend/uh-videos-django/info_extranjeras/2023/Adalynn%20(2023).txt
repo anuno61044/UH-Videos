@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In order to keep herself and her newborn baby alive, a mother must fight to overcome postpartum depression, grief, inner demons, sinister impulses, and an unseen tormentor until her husband can return home from his business trip to help her.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-31 11:43:54</dateadded>
+  <title>Adalynn</title>
+  <originaltitle>Adalynn</originaltitle>
+  <actor>
+    <name>Sydney Carvill</name>
+    <role>Adalynn</role>
+    <type>Actor</type>
+    <tmdbid>3252034</tmdbid>
+  </actor>
+  <actor>
+    <name>Wade Baker</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>2330812</tmdbid>
+  </actor>
+  <actor>
+    <name>Janet Carter</name>
+    <role>Cici</role>
+    <type>Actor</type>
+    <tmdbid>2752416</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Shuster</name>
+    <role>Dr. Van Doren</role>
+    <type>Actor</type>
+    <tmdbid>3592740</tmdbid>
+  </actor>
+  <director tmdbid="3968334">Jacob Byrd</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BcL9KZWEeOw</trailer>
+  <rating>5.1</rating>
+  <year>2023</year>
+  <sorttitle>Adalynn</sorttitle>
+  <imdbid>tt15353442</imdbid>
+  <tmdbid>1101819</tmdbid>
+  <premiered>2023-03-28</premiered>
+  <releasedate>2023-03-28</releasedate>
+  <runtime>89</runtime>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Drama</genre>
+  <studio>Jacala Productions</studio>
+  <uniqueid type="tmdb">1101819</uniqueid>
+  <uniqueid type="imdb">tt15353442</uniqueid>
+  <id>tt15353442</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149649</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>959:408</aspect>
+        <aspectratio>959:408</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5316</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130106</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

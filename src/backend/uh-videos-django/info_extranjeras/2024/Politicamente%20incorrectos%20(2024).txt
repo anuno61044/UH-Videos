@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[España hierve de crispación, el país está totalmente polarizado y las redes sociales arden a diario... Los partidos NUEVA IZQUIERDA y ESPAÑA LIBERAL se enfrentan en las próximas elecciones generales. Laura, una progre perroflauta y Pablo, un pijo con fachaleco, están dispuestos a revolcarse en el fango político para conseguir la victoria de sus respectivos líderes. Pero como ocurre siempre en política, cuando los rivales se lanzan a la arena, nada sale como se espera. Viejos rencores, programas sin cumplir y amores prohibidos viajarán en una maquinaria electoral a todo gas y sin frenos... ¿Qué puede salir mal?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-03 07:56:36</dateadded>
+  <title>Políticamente incorrectos</title>
+  <originaltitle>Políticamente incorrectos</originaltitle>
+  <actor>
+    <name>Adriana Torrebejano</name>
+    <role>Laura Vázquez</role>
+    <type>Actor</type>
+    <tmdbid>1446798</tmdbid>
+    <imdbid>nm2028131</imdbid>
+    <tvdbid>510365</tvdbid>
+  </actor>
+  <actor>
+    <name>Juanlu González</name>
+    <role>Pablo Merino</role>
+    <type>Actor</type>
+    <tmdbid>3142196</tmdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo de Castro</name>
+    <role>Alfonso Bravo</role>
+    <type>Actor</type>
+    <tmdbid>566330</tmdbid>
+    <imdbid>nm0207891</imdbid>
+    <tvdbid>450136</tvdbid>
+  </actor>
+  <actor>
+    <name>María Hervás</name>
+    <role>Lourdes</role>
+    <type>Actor</type>
+    <tmdbid>1334527</tmdbid>
+    <imdbid>nm2525166</imdbid>
+    <tvdbid>469629</tvdbid>
+  </actor>
+  <actor>
+    <name>Elena Irureta</name>
+    <role>Victoria Silvela</role>
+    <type>Actor</type>
+    <tmdbid>16980</tmdbid>
+    <imdbid>nm0410118</imdbid>
+    <tvdbid>596132</tvdbid>
+  </actor>
+  <actor>
+    <name>Pepa Aniorte</name>
+    <role>Cristina</role>
+    <type>Actor</type>
+    <tmdbid>4374</tmdbid>
+    <imdbid>nm1967584</imdbid>
+    <tvdbid>460986</tvdbid>
+  </actor>
+  <actor>
+    <name>Raúl Cimas</name>
+    <role>Hernando</role>
+    <type>Actor</type>
+    <tmdbid>578368</tmdbid>
+    <imdbid>nm1832683</imdbid>
+    <tvdbid>294454</tvdbid>
+  </actor>
+  <director tmdbid="1302077">Arantxa Echevarria</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7YX8CASq9_8</trailer>
+  <rating>5.5</rating>
+  <year>2024</year>
+  <sorttitle>Politicamente incorrectos</sorttitle>
+  <imdbid>tt28272350</imdbid>
+  <tmdbid>1151591</tmdbid>
+  <premiered>2024-02-23</premiered>
+  <releasedate>2024-02-23</releasedate>
+  <runtime>92</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Atresmedia</studio>
+  <studio>LAZONA</studio>
+  <uniqueid type="imdb">tt28272350</uniqueid>
+  <uniqueid type="tmdb">1151591</uniqueid>
+  <id>tt28272350</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>974410</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5504</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63820</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>
