@@ -124,6 +124,7 @@ function App() {
                   director={movie.director}
                   date={movie.release_date}
                   description={movie.description}
+                  explanation={"Esto si es un peliculon, no dejes de verlo. Todo el mundo lo recomienda!!"}
                   key={index}
                 />
               ))
