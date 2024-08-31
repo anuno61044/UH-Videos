@@ -5,6 +5,7 @@ import Movie from './components/MovieInfo/Movie';
 import { MovieType } from './types/Movie';
 import LoginModal from './components/LoginModal/LoginModal';
 import RegisterModal from './components/RegisterModal/RegisterModal';
+import Button from 'react-bootstrap/esm/Button';
 
 function App() {
   const [movies, setMovies] = useState<MovieType[]>([]);
@@ -66,6 +67,14 @@ function App() {
     });
   }, []);
 
+  const handleLogout = () => {
+    // Eliminar los tokens del almacenamiento local
+    localStorage.removeItem('access');
+    localStorage.removeItem('refresh');
+    window.location.replace("/")
+
+  };
+
 
   return (
     <div className="relative">
@@ -74,17 +83,25 @@ function App() {
       ) : (
         <div>
           {
-            // user &&
+            user &&
             <div>Hola {user?.username}</div>
           }
           <div className="d-flex justify-content-center">
             <img className="w-50" src="../public/UH-Videos.jpg" alt="" />
           </div>
           <div className="user-admin">
-            <div className='me-2'>
-              <LoginModal />
-            </div>
-            <RegisterModal />
+            {user ?
+              <Button variant="primary" onClick={handleLogout}>
+                Log out
+              </Button>
+              :
+              <>
+                <div className='me-2'>
+                  <LoginModal />
+                </div>
+                <RegisterModal />
+              </>
+            }
           </div>
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">

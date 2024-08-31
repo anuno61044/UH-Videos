@@ -35,7 +35,7 @@ function LoginModal() {
             localStorage.setItem('access', data.access);
             localStorage.setItem('refresh', data.refresh);
             handleClose();
-            // window.location.replace("/")
+            window.location.replace("/")
         } catch (error) {
             setError('Login failed: ' + error.message);
         }
