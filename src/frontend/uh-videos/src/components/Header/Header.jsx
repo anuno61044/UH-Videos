@@ -5,7 +5,7 @@ function Header() {
     return (
       <>
         <div>
-            <img src="../../../public/VisualesTube.jpg" alt="" srcset="" />
+            <img src="../../../public/VisualesTube.jpg" alt=""/>
         </div>
         <Navbar/>
       </>

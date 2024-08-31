@@ -28,21 +28,20 @@ function App() {
   }, []); // El arreglo vacío significa que solo se ejecutará una vez al montaje del componente
 
   return (
-    <>
-      <div class="relative">
-        <div class="d-flex justify-content-center">
-          <img class="w-50" src="../../../public/VisualesTube.jpg" alt="" srcset="" />
+      <div className="relative">
+        <div className="d-flex justify-content-center">
+          <img className="w-50" src="../../../public/VisualesTube.jpg" alt=""/>
         </div>
-        <div class="user-admin">
-          <button class="btn">Login</button>
-          <button class="btn btn-primary">Registrarse</button>
+        <div className="user-admin">
+          <button className="btn">Login</button>
+          <button className="btn btn-primary">Registrarse</button>
         </div>
-        <nav class="navbar navbar-expand-lg">            
-              <div class="container-fluid">
-                  <a class="navbar-brand text-light" href="#">Movies</a>
-                  <form class="d-flex w-100" role="search">
-                      <input class="form-control me-5 ms-5" type="search" placeholder="Search" aria-label="Search"/>
-                      <button class="btn btn-outline-light text-light" type="submit">Search</button>
+        <nav className="navbar navbar-expand-lg">            
+              <div className="container-fluid">
+                  <a className="navbar-brand text-light" href="/">Movies</a>
+                  <form className="d-flex w-100" role="search">
+                      <input className="form-control me-5 ms-5" type="search" placeholder="Search" aria-label="Search"/>
+                      <button className="btn btn-outline-light text-light" type="submit">Search</button>
                   </form>
               </div>
         </nav>
@@ -58,12 +57,12 @@ function App() {
                 director={movie.director}
                 date={movie.release_date}
                 description={movie.description}
+                key={index}
               />
             ))
         )}
         </div>
       </div>
-    </>
   );
 }
 
