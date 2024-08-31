@@ -134,7 +134,7 @@ def register_user(request):
 @api_view(['GET'])
 def get_user(request):
     auth_header = request.headers.get('Authorization')
-    print("Authorization header:", auth_header)  # Verifica que el token está siendo enviado
+    # print("Authorization header:", auth_header)  # Verifica que el token está siendo enviado
 
     jwt_authenticator = JWTAuthentication()
     try:
@@ -142,8 +142,9 @@ def get_user(request):
         if user is None:
             raise Exception("User not found")
 
-        print(f"Authenticated user: {user.username}")
+        # print(f"Authenticated user: {user.username}")
         return Response({
+            'id': user.id,
             'username': user.username,
             'email': user.email,
         })

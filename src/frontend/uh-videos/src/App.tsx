@@ -8,6 +8,7 @@ import RegisterModal from './components/RegisterModal/RegisterModal';
 import Button from 'react-bootstrap/esm/Button';
 
 function App() {
+  const [user, setUser] = useState<any>()
   const [movies, setMovies] = useState<MovieType[]>([]);
   const [error, setError] = useState(null);
 
@@ -16,7 +17,7 @@ function App() {
   useEffect(() => {
     const fetchMovies = async () => {
       try {
-        const response = await fetch('http://localhost:8000/api/movies/');
+        const response = await fetch(`http://localhost:8000/api/users/${user.id}/recommendations/`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -31,7 +32,7 @@ function App() {
     };
 
     fetchMovies();
-  }, []); // El arreglo vacío significa que solo se ejecutará una vez al montaje del componente
+  }, [user]); // El arreglo vacío significa que solo se ejecutará una vez al montaje del componente
 
   const getUserDetails = async () => {
     const token = localStorage.getItem('access');
@@ -49,7 +50,7 @@ function App() {
       }
 
       const userData = await response.json();
-      console.log('User details:', userData);
+      // console.log('User details:', userData);
       return userData;
     } catch (error) {
       console.error('Error fetching user details:', error);
@@ -58,7 +59,6 @@ function App() {
   };
 
 
-  const [user, setUser] = useState<any>()
   useEffect(() => {
     getUserDetails().then(userC => {
       if (userC) {
