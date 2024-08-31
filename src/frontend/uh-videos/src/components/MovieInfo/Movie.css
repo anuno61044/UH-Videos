@@ -1,0 +1,16 @@
+.movie {
+    padding: 15px;
+}
+
+.movie .info{
+    margin: 0;
+    padding-left: 10px;
+    color: rgb(147, 146, 146);
+}
+
+.movie .tag {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    color: rgb(96, 94, 94);
+}
