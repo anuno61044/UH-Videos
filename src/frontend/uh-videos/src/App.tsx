@@ -3,6 +3,8 @@ import './App.css';
 import React, { useState, useEffect } from 'react';
 import Movie from './components/MovieInfo/Movie';
 import { MovieType } from './types/Movie';
+import LoginModal from './components/LoginModal/LoginModal';
+import RegisterModal from './components/RegisterModal/RegisterModal';
 
 function App() {
   const [movies, setMovies] = useState<MovieType[]>([]);
@@ -37,11 +39,13 @@ function App() {
       ) : (
         <div>
           <div className="d-flex justify-content-center">
-            <img className="w-50" src="../../../public/VisualesTube.jpg" alt="" />
+            <img className="w-50" src="../public/UH-Videos.jpg" alt="" />
           </div>
           <div className="user-admin">
-            <button className="btn">Login</button>
-            <button className="btn btn-primary">Registrarse</button>
+            <div className='me-2'>
+              <LoginModal/>
+            </div>
+            <RegisterModal/>
           </div>
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
