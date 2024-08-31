@@ -10,7 +10,7 @@ def collaborative_filtering(user_id):
     - user_id (int): El ID del usuario para el cual se generarán las recomendaciones.
 
     Retorna:
-    - weighted_ratings (np.ndarray): Un array con las calificaciones ponderadas de películas para el usuario especificado.
+    - normalized_ratings (np.ndarray): Un array con las calificaciones ponderadas normalizadas de películas para el usuario especificado.
     - trace (dict): Un diccionario que contiene las puntuaciones de similitud del usuario y las calificaciones ponderadas.
     """
     # Obtener todas las calificaciones, usuarios y películas desde la base de datos
@@ -36,10 +36,15 @@ def collaborative_filtering(user_id):
     # Calcular las calificaciones ponderadas utilizando la similitud de usuarios
     weighted_ratings = user_similarity[user_idx].dot(user_movie_matrix) / np.array([np.abs(user_similarity[user_idx]).sum()])
 
+    # Normalizar las calificaciones ponderadas para que estén entre 0 y 1
+    min_rating = weighted_ratings.min()
+    max_rating = weighted_ratings.max()
+    normalized_ratings = (weighted_ratings - min_rating) / (max_rating - min_rating)
+
     # Guardar las trazas para seguimiento y explicabilidad
     trace = {
         "user_similarity_scores": user_similarity[user_idx],  # Similitud del usuario con otros usuarios
-        "weighted_ratings": weighted_ratings  # Calificaciones ponderadas para cada película
+        "weighted_ratings": normalized_ratings  # Calificaciones ponderadas normalizadas
     }
 
-    return weighted_ratings, trace
+    return normalized_ratings, trace
