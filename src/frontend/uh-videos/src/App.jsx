@@ -2,10 +2,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import Movie from './components/MovieInfo/Movie';
+import LoginModal from './components/LoginModal/LoginModal';
+import RegisterMOdal from './components/RegisterModal/RegisterModal';
 
 function App() {
   const [movies, setMovies] = useState([]);
   const [error, setError] = useState(null);
+
 
   useEffect(() => {
     const fetchMovies = async () => {
@@ -34,8 +37,10 @@ function App() {
           <img class="w-50" src="../../../public/VisualesTube.jpg" alt="" srcset="" />
         </div>
         <div class="user-admin">
-          <button class="btn">Login</button>
-          <button class="btn btn-primary">Registrarse</button>
+          <div className='me-3'>
+            <LoginModal/>
+          </div>
+          <RegisterMOdal/>
         </div>
         <nav class="navbar navbar-expand-lg">            
               <div class="container-fluid">
