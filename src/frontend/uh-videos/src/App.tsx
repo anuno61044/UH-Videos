@@ -32,20 +32,59 @@ function App() {
     fetchMovies();
   }, []); // El arreglo vacío significa que solo se ejecutará una vez al montaje del componente
 
+  const getUserDetails = async () => {
+    const token = localStorage.getItem('access');
+
+    try {
+      const response = await fetch('http://localhost:8000/api/user/', {
+        method: 'GET',
+        headers: {
+          'Authorization': `Bearer ${token}`,
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to fetch user details');
+      }
+
+      const userData = await response.json();
+      console.log('User details:', userData);
+      return userData;
+    } catch (error) {
+      console.error('Error fetching user details:', error);
+      return null;
+    }
+  };
+
+
+  const [user, setUser] = useState<any>()
+  useEffect(() => {
+    getUserDetails().then(userC => {
+      if (userC) {
+        setUser(userC);
+      }
+    });
+  }, []);
+
+
   return (
     <div className="relative">
       {loading ? (
         <div>Cargando...</div>
       ) : (
         <div>
+          {
+            // user &&
+            <div>Hola {user?.username}</div>
+          }
           <div className="d-flex justify-content-center">
             <img className="w-50" src="../public/UH-Videos.jpg" alt="" />
           </div>
           <div className="user-admin">
             <div className='me-2'>
-              <LoginModal/>
+              <LoginModal />
             </div>
-            <RegisterModal/>
+            <RegisterModal />
           </div>
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">

@@ -1,10 +1,17 @@
+from rest_framework.permissions import IsAuthenticated
+from rest_framework_simplejwt.views import TokenViewBase
+from rest_framework_simplejwt.tokens import RefreshToken
+from rest_framework import status
+from django.contrib.auth.models import User
+from rest_framework.permissions import AllowAny
 from rest_framework import generics
 from .models import Movie, Rating, User
 from .serializers import MovieSerializer, RatingSerializer, UserSerializer
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, permission_classes
 from .recommender import get_recommendations  # función que debes crear
+from rest_framework_simplejwt.authentication import JWTAuthentication
 
 class MovieList(generics.ListCreateAPIView):
     queryset = Movie.objects.all()
@@ -91,3 +98,55 @@ class UsersRatingsView(APIView):
             result.append(movie_ratings)
 
         return Response(result)
+class MyTokenObtainPairView(TokenViewBase):
+    permission_classes = (AllowAny,)
+
+    def post(self, request, *args, **kwargs):
+        email = request.data.get('email')
+
+        try:
+            user = User.objects.get(email=email)
+            refresh = RefreshToken.for_user(user)
+
+            return Response({
+                'refresh': str(refresh),
+                'access': str(refresh.access_token),
+            }, status=status.HTTP_200_OK)
+
+        except User.DoesNotExist:
+            return Response({"detail": "User with this email does not exist."}, status=status.HTTP_404_NOT_FOUND)
+
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def register_user(request):
+    data = request.data
+    try:
+        user = User.objects.create(
+            username=data.get('username', ''),  # Campo opcional
+            email=data['email'],  # Campo obligatorio
+        )
+        return Response({"detail": "User created successfully"}, status=status.HTTP_201_CREATED)
+    except Exception as e:
+        return Response({"detail": str(e)}, status=status.HTTP_400_BAD_REQUEST)
+
+
+
+@api_view(['GET'])
+def get_user(request):
+    auth_header = request.headers.get('Authorization')
+    print("Authorization header:", auth_header)  # Verifica que el token está siendo enviado
+
+    jwt_authenticator = JWTAuthentication()
+    try:
+        user, token = jwt_authenticator.authenticate(request)
+        if user is None:
+            raise Exception("User not found")
+
+        print(f"Authenticated user: {user.username}")
+        return Response({
+            'username': user.username,
+            'email': user.email,
+        })
+    except Exception as e:
+        print(f"Authentication failed: {str(e)}")
+        return Response({"detail": "Authentication failed", "code": "user_not_found"}, status=401)
