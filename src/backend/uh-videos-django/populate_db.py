@@ -50,7 +50,6 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
         user = User.objects.create(
             username=fake.user_name(),
             email=fake.email(),
-            password='password123'  # Puedes usar una función hash aquí si es necesario
         )
         users.append(user)
     print(f"{num_users} usuarios creados.")
