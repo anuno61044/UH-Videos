@@ -1,15 +1,9 @@
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Movie.css'
 
-function Movie({ title, director, genres, date, description }) {
+export const Movie = ({ title, director, genres, date, description }) => {
 
-    // let genre_str = '';
-    // for (const genre of genres) {
-    // genre_str += `${genre}, `;
-    // }
-
-    // genre_str = genre_str.trimEnd();
-    
     return (
         <div className='movie card shadow mb-4'>
             <h3>{title}</h3>
