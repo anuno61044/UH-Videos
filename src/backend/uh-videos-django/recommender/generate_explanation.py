@@ -21,10 +21,19 @@ def generate_explanation(trace, recommended_movie_idx, movies, user_id, collabor
     content_score = content_scores[recommended_movie_idx]
 
     if collaborative_score > content_score * 1.2:  # Si el enfoque colaborativo tiene significativamente más peso
-        return collaborative_explanation(trace, user_id)
+        similar_users = collaborative_explanation(trace, user_id)
+        if similar_users:
+            return f"Te recomendamos esta película porque {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien."
+        return "Te recomendamos esta película basada en las preferencias de usuarios similares a ti."
     elif content_score > collaborative_score * 1.2:  # Si el enfoque basado en contenido tiene significativamente más peso
-        return content_based_explanation(trace, recommended_movie_idx, movies, user_id)
+        similar_movies, characteristics = content_based_explanation(trace, recommended_movie_idx, movies, user_id)
+        if similar_movies and characteristics:
+            return f"Esta película es similar a otras que te han gustado como {similar_movies} en cuanto al {', '.join(characteristics)}."
+        return "Esta película se basa en tus preferencias pasadas."
     else:  # Si ambos enfoques tienen peso similar, usar una explicación combinada
+        similar_users = collaborative_explanation(trace, user_id)
+        similar_movies, characteristics = content_based_explanation(trace, recommended_movie_idx, movies, user_id)
+        return f"Te recomendamos esta película porque es similar a otras que has visto como {similar_movies} en cuanto a {characteristics}. Además {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien."
         return combined_explanation(trace, user_id)
 
 def collaborative_explanation(trace, user_id):
@@ -53,9 +62,7 @@ def collaborative_explanation(trace, user_id):
     similar_user_ids = [user_id for user_id, _ in similar_users]
 
     # Generar la explicación en lenguaje natural
-    if similar_user_ids:
-        return f"Te recomendamos esta película porque los usuarios con ids:{similar_user_ids} vieron películas similares a las tuyas y la calificaron bien."
-    return "Te recomendamos esta película basada en las preferencias de usuarios similares a ti."
+    return len(similar_user_ids)
 
 def content_based_explanation(trace, recommended_movie_idx, movies, user_id):
     """
@@ -86,23 +93,4 @@ def content_based_explanation(trace, recommended_movie_idx, movies, user_id):
                 for i in pos: 
                     characteristics.add(trace['content_based_filtering']['names'][i])
 
-    if similar_movies and characteristics:
-        return f"Esta película es similar a otras que te han gustado como {similar_movies} en cuanto al {', '.join(characteristics)}."
-    return "Esta película se basa en tus preferencias pasadas."
-
-def combined_explanation(trace, user_id):
-    """
-    Genera una explicación combinada cuando los enfoques colaborativo y basado en contenido tienen pesos similares
-    en la recomendación de una película.
-
-    Parámetros:
-    - trace (dict): Un diccionario que contiene las trazas de ambos enfoques.
-    - user_id (int): El ID del usuario para el cual se genera la explicación.
-
-    Retorna:
-    - str: Una explicación en lenguaje natural sobre por qué se recomienda una película.
-    """
-    similar_users = [user.id for user in User.objects.all() if trace['collaborative_filtering']['user_similarity_scores'][list(User.objects.all()).index(user)] > 0.3 and user.id != user_id]
-    if similar_users:
-        return f"Esta recomendación se basa en tus calificaciones anteriores y en la similitud con los gustos de otros usuarios similares como {similar_users}."
-    return "Esta recomendación se basa en tus calificaciones anteriores."
+    return similar_movies, characteristics
