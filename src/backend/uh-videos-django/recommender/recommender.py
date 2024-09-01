@@ -35,8 +35,6 @@ def get_recommendations(user_id):
     trace['content_based_filtering'] = content_trace
 
     # Combinación de ambos enfoques (Feature Combination)
-    print(collaborative_scores)
-    print(content_scores)
     final_scores = 0.5 * collaborative_scores + 0.5 * content_scores
 
     # Filtrar y ordenar películas no vistas por la puntuación final
