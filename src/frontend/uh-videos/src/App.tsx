@@ -17,7 +17,7 @@ function App() {
   useEffect(() => {
     const fetchMovies = async () => {
       try {
-        const response = await fetch(`http://localhost:8000/api/users/${user.id}/recommendations/`);
+        const response = await fetch(`http://localhost:8000/api/movies`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -84,14 +84,15 @@ function App() {
         <div>
           {
             user &&
-            <div>Hola {user?.username}</div>
+            <div className='user-name'>Hola {user?.username}</div>
           }
-          <div className="d-flex justify-content-center">
-            <img className="w-50" src="../public/UH-Videos.jpg" alt="" />
+          <div className="d-flex align-items-center justify-content-center">
+            <img className="main-icon" src="../public/R (1).jpg" alt="" />
+            <h1>UH-VIDEOS</h1>
           </div>
           <div className="user-admin">
             {user ?
-              <Button variant="primary" onClick={handleLogout}>
+              <Button variant="danger" onClick={handleLogout}>
                 Log out
               </Button>
               :
@@ -105,9 +106,9 @@ function App() {
           </div>
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
-              <a className="navbar-brand text-light" href="/">Movies</a>
+              <img src="../public/almamaterw.png" className='alma-mater-icon' alt='uh'/>
               <form className="d-flex w-100" role="search">
-                <input className="form-control me-5 ms-5" type="search" placeholder="Search" aria-label="Search" />
+                <input className="form-control me-3 ms-3" type="search" placeholder="Search" aria-label="Search" />
                 <button className="btn btn-outline-light text-light" type="submit">Search</button>
               </form>
             </div>
