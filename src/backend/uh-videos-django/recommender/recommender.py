@@ -1,3 +1,4 @@
+import random
 from .content_based_filtering import content_based_filtering
 from .generate_explanation import generate_explanation
 from .collaborative_filtering import collaborative_filtering
@@ -18,7 +19,11 @@ def get_recommendations(user_id):
     trace = {}
 
     # Obtener las películas que el usuario no ha visto
-    unseen_movies = get_unseen_movies(user_id)
+    unseen_movies, seen_movies = get_labeled_movies(user_id)
+
+    if len(seen_movies) == 0:
+        return [random.choice(unseen_movies) for _ in range(5)], ["Esta película fue recomendada aleatoriamente" for _ in range(5)]
+
     unseen_movie_ids = [movie.id for movie in unseen_movies]
 
     # Filtrado Colaborativo con trazas, filtrando solo películas no vistas
@@ -47,16 +52,17 @@ def get_recommendations(user_id):
 
     return recommended_movies, explanations
 
-def get_unseen_movies(user_id):
+def get_labeled_movies(user_id):
     """
-    Obtiene una lista de películas que un usuario específico no ha visto.
+    Obtiene una lista de películas que un usuario específico no ha visto y otra con las que sí.
 
     Parámetros:
     - user_id (int): El ID del usuario.
 
     Retorna:
     - unseen_movies (QuerySet): Un QuerySet de películas que el usuario no ha visto.
+    - seen_movies (QuerySet): Un QuerySet de películas que el usuario ya ha visto.
     """
     seen_movies = Rating.objects.filter(user_id=user_id).values_list('movie_id', flat=True)
     unseen_movies = Movie.objects.exclude(id__in=seen_movies)
-    return unseen_movies
+    return unseen_movies, seen_movies
