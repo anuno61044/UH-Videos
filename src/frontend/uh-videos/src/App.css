@@ -3,7 +3,7 @@
 }
 
 .main-icon {
-    width: 200px;
+    width: 100px;
     margin: 20px;
 }
 
@@ -17,6 +17,10 @@ h1 {
     margin: 0 10px;
 }
 
+.bg-color{
+    background-color: #fff;
+}
+
 .user-admin {
     position: absolute;
     top: 20px;
@@ -28,6 +32,7 @@ h1 {
     position: absolute;
     top: 20px;
     left: 20px;
+    /* color: rgb(44, 147, 244); */
 }
 
 .navbar {

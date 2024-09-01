@@ -126,18 +126,18 @@ function App() {
   };
 
   return (
-    <div className="relative">
+    <div className="relative bg-color">
       {loading ? (
         <div>Cargando...</div>
       ) : (
         <div>
           {
             user &&
-            <div className='user-name'>Hola {user?.username}</div>
+            <div className='user-name'>Hola, {user?.username}</div>
           }
           <div className="d-flex align-items-center justify-content-center">
             <img className="main-icon" src="../public/R (1).jpg" alt="" />
-            <h1>UH-VIDEOS</h1>
+            <h2>UH-videos</h2>
           </div>
           <div className="user-admin">
             {user ?

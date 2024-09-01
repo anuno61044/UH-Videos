@@ -20,7 +20,7 @@ export const Movie = ({ id, title, director, genre, date, url, description, expl
                 </Tooltip>
             }
         >
-            <a href={url} className='card-movie'>
+            <div>
                 <div className='movie card shadow mb-4 position-relative'>
                     <div className="star-rating position-absolute top-0 end-0 m-2">
                         <ReactStars
@@ -30,25 +30,27 @@ export const Movie = ({ id, title, director, genre, date, url, description, expl
                             activeColor="#ffd700"
                         />
                     </div>
-                    <h3>{title}</h3>
-                    <div className='d-flex'>
-                        <p className='tag'>Director:</p>
-                        <p className='info'>{director}</p>
-                    </div>
-                    <div className='d-flex'>
-                        <p className='tag'>Género:</p>
-                        <p className='info'>{genre}</p>
-                    </div>
-                    <div className='d-flex'>
-                        <p className='tag'>Fecha de lanzamiento:</p>
-                        <p className='info'>{date}</p>
-                    </div>
-                    <div className='d-flex'>
-                        <p className='tag'>Descripción:</p>
-                        <p className='info'>{description}</p>
-                    </div>
+                    <a href={url} className='card-movie'>
+                        <h3>{title}</h3>
+                        <div className='d-flex'>
+                            <p className='tag'>Director:</p>
+                            <p className='info'>{director}</p>
+                        </div>
+                        <div className='d-flex'>
+                            <p className='tag'>Género:</p>
+                            <p className='info'>{genre}</p>
+                        </div>
+                        <div className='d-flex'>
+                            <p className='tag'>Fecha de lanzamiento:</p>
+                            <p className='info'>{date}</p>
+                        </div>
+                        <div className='d-flex'>
+                            <p className='tag'>Descripción:</p>
+                            <p className='info'>{description}</p>
+                        </div>
+                    </a>
                 </div>
-            </a>
+            </div>
         </OverlayTrigger>
     );
 };
