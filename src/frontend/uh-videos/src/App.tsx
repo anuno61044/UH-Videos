@@ -185,6 +185,7 @@ function App() {
                     director={movie.director}
                     genre={movie.genre}
                     date={movie.release_date}
+                    url={movie.url}
                     description={movie.description}
                     explanation={trace[index]}
                     onRate={handleRateMovie}

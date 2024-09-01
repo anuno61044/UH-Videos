@@ -56,8 +56,6 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
         users.append(user)
     print(f"{num_users} usuarios creados.")
 
-    # Crear películas de prueba con diversidad en géneros y directores
-    directors = [fake.name() for _ in range(NUM_DIRECTORS)]
     movies = []
     # Cargar información de las películas
     years = ['2024', '2023', '2022']
@@ -84,6 +82,7 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
                     title=movie_title,
                     genre=movie_genres[0],
                     director=movie_director,
+                    url=f'https://visuales.uclv.cu/Peliculas/Extranjeras/{year}/{archivo[:-4]}/',
                     description=movie_description,
                     release_date=root.find('releasedate').text
                 )
