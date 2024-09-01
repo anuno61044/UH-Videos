@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Isaías Idoate nunca se imaginó que su vida iba a ser así una vez cumplidos los cuarenta. Atrás quedan los premios que obtuvo como uno de los jóvenes arquitectos más prometedores. Ahora los días van pasando entre su modesto estudio de arquitectura, donde se lamenta ante su socio Mikel, y el parque infantil a la salida del colegio de sus hijos. Y es que cuando está con sus hijos, Isaías se angustia porque debería estar trabajando para que alguno de sus proyectos salga adelante, y cuando está trabajando, se tortura porque se está perdiendo la infancia de sus hijos. Esté donde esté, Isaías vive agobiado.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-13 09:34:40</dateadded>
+  <title>Una vida no tan simple</title>
+  <originaltitle>Una vida no tan simple</originaltitle>
+  <actor>
+    <name>Miki Esparbé</name>
+    <role>Isaías Idoate</role>
+    <type>Actor</type>
+    <tmdbid>1354964</tmdbid>
+    <imdbid>nm3639136</imdbid>
+    <tvdbid>469103</tvdbid>
+  </actor>
+  <actor>
+    <name>Álex García</name>
+    <role>Mikel</role>
+    <type>Actor</type>
+    <tmdbid>1063319</tmdbid>
+    <imdbid>nm1073929</imdbid>
+    <tvdbid>7876693</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Polvorosa</name>
+    <type>Actor</type>
+    <tmdbid>138716</tmdbid>
+    <imdbid>nm1308063</imdbid>
+    <tvdbid>448240</tvdbid>
+  </actor>
+  <actor>
+    <name>Olaya Caldera</name>
+    <type>Actor</type>
+    <tmdbid>2786966</tmdbid>
+  </actor>
+  <actor>
+    <name>Julián Villagrán</name>
+    <type>Actor</type>
+    <tmdbid>34057</tmdbid>
+    <imdbid>nm1253636</imdbid>
+    <tvdbid>469614</tvdbid>
+  </actor>
+  <actor>
+    <name>Ramón Barea</name>
+    <type>Actor</type>
+    <tmdbid>24987</tmdbid>
+    <imdbid>nm0054381</imdbid>
+    <tvdbid>493593</tvdbid>
+  </actor>
+  <actor>
+    <name>Xabi Valcarcel</name>
+    <type>Actor</type>
+    <tmdbid>1639641</tmdbid>
+  </actor>
+  <director tmdbid="937151">Félix Viscarret</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NIAg5TS2l3U</trailer>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>Una vida no tan simple</sorttitle>
+  <imdbid>tt16411452</imdbid>
+  <tmdbid>814309</tmdbid>
+  <premiered>2023-06-23</premiered>
+  <releasedate>2023-06-23</releasedate>
+  <runtime>107</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Lamia Producciones</studio>
+  <studio>A Contracorriente Films</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="tmdb">814309</uniqueid>
+  <uniqueid type="imdb">tt16411452</uniqueid>
+  <id>tt16411452</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1441236</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6416</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

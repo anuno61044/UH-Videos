@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Paloma, profesora y activista, protesta contra la industria minera local. Poco después, desaparece sin dejar rastro. Cinco años después, su hijo Emiliano busca al culpable. El joven de 20 años tiene un gran sentido de la justicia. Debido a la incompetencia del sistema judicial, él se toma la justicia por su mano. Una nota lo lleva a la casa de verano de la rica y excéntrica familia Aldama. El clan está encabezado por la destacada matriarca Carmen Aldama. En busca de la verdad, Emiliano se sumerge en un mundo oscuro lleno de secretos, mentiras y venganzas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-10 09:57:23</dateadded>
+  <title>Perdidos en la noche</title>
+  <originaltitle>Perdidos en la noche</originaltitle>
+  <actor>
+    <name>Juan Daniel Garcia Treviño</name>
+    <role>Emiliano</role>
+    <type>Actor</type>
+    <tmdbid>2614141</tmdbid>
+  </actor>
+  <actor>
+    <name>Ester Expósito</name>
+    <role>Mônica Aldama</role>
+    <type>Actor</type>
+    <tmdbid>2025252</tmdbid>
+    <imdbid>nm7527792</imdbid>
+    <tvdbid>488432</tvdbid>
+  </actor>
+  <actor>
+    <name>Bárbara Mori</name>
+    <role>Carmen Aldama</role>
+    <type>Actor</type>
+    <tmdbid>119817</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Bonilla</name>
+    <role>Rigoberto Duplas</role>
+    <type>Actor</type>
+    <tmdbid>2868239</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Fernanda Osio</name>
+    <role>Jazmín</role>
+    <type>Actor</type>
+    <tmdbid>4033508</tmdbid>
+  </actor>
+  <actor>
+    <name>Jero Medina</name>
+    <role>Ruben</role>
+    <type>Actor</type>
+    <tmdbid>2558356</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayra Hermosillo</name>
+    <role>Violeta</role>
+    <type>Actor</type>
+    <tmdbid>1526350</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicky Araico</name>
+    <role>Paloma</role>
+    <type>Actor</type>
+    <tmdbid>530393</tmdbid>
+    <imdbid>nm4190535</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Becerril</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>4528135</tmdbid>
+  </actor>
+  <director tmdbid="56375">Amat Escalante</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WqrFLiSd15o</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Perdidos en la noche</sorttitle>
+  <imdbid>tt27307501</imdbid>
+  <tmdbid>605542</tmdbid>
+  <premiered>2023-10-04</premiered>
+  <releasedate>2023-10-04</releasedate>
+  <runtime>123</runtime>
+  <country>Denmark</country>
+  <country>Germany</country>
+  <country>Mexico</country>
+  <country>Netherlands</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>Pimienta Films</studio>
+  <studio>Tres Tunas</studio>
+  <studio>Cárcava Cine</studio>
+  <studio>The Match Factory</studio>
+  <studio>Snowglobe</studio>
+  <studio>Sula Films</studio>
+  <studio>Bord Cadre Films</studio>
+  <studio>Sovereign Films</studio>
+  <uniqueid type="imdb">tt27307501</uniqueid>
+  <uniqueid type="tmdb">605542</uniqueid>
+  <id>tt27307501</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>164869</bitrate>
+        <width>640</width>
+        <height>272</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7360</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63830</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-27 12:50:07</dateadded>
+  <title>Back to Black</title>
+  <originaltitle>Back to Black</originaltitle>
+  <actor>
+    <name>Marisa Abela</name>
+    <role>Amy Winehouse</role>
+    <type>Actor</type>
+    <tmdbid>2673762</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack O'Connell</name>
+    <role>Blake Fielder-Civil</role>
+    <type>Actor</type>
+    <tmdbid>85065</tmdbid>
+    <imdbid>nm1925239</imdbid>
+    <tvdbid>303268</tvdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Mitch Winehouse</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+    <tvdbid>259360</tvdbid>
+  </actor>
+  <actor>
+    <name>Lesley Manville</name>
+    <role>Cynthia Winehouse</role>
+    <type>Actor</type>
+    <tmdbid>72305</tmdbid>
+    <imdbid>nm0544334</imdbid>
+    <tvdbid>284224</tvdbid>
+  </actor>
+  <actor>
+    <name>Juliet Cowan</name>
+    <role>Janis Winehouse-Collins</role>
+    <type>Actor</type>
+    <tmdbid>1213838</tmdbid>
+  </actor>
+  <actor>
+    <name>Bronson Webb</name>
+    <role>Joey</role>
+    <type>Actor</type>
+    <tmdbid>75076</tmdbid>
+    <imdbid>nm0916037</imdbid>
+  </actor>
+  <actor>
+    <name>Ansu Kabia</name>
+    <role>Raye Cosbert</role>
+    <type>Actor</type>
+    <tmdbid>1264601</tmdbid>
+    <imdbid>nm1988025</imdbid>
+  </actor>
+  <actor>
+    <name>Harley Bird</name>
+    <role>Juliette</role>
+    <type>Actor</type>
+    <tmdbid>1198488</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael S. Siegel</name>
+    <role>Uncle Harold</role>
+    <type>Actor</type>
+    <tmdbid>1706337</tmdbid>
+  </actor>
+  <actor>
+    <name>Matilda Thorpe</name>
+    <role>Aunt Melody</role>
+    <type>Actor</type>
+    <tmdbid>2184685</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan O'Doherty</name>
+    <role>Chris Taylor</role>
+    <type>Actor</type>
+    <tmdbid>3432441</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Tunke</name>
+    <role>Mark Ronson</role>
+    <type>Actor</type>
+    <tmdbid>4414294</tmdbid>
+  </actor>
+  <actor>
+    <name>Izaak Cainer</name>
+    <role>Alex Winehouse</role>
+    <type>Actor</type>
+    <tmdbid>1963432</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracey Lushington</name>
+    <role>Jane Winehouse</role>
+    <type>Actor</type>
+    <tmdbid>4414295</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Buchanan</name>
+    <role>Nick Shymansky</role>
+    <type>Actor</type>
+    <tmdbid>2812431</tmdbid>
+  </actor>
+  <actor>
+    <name>Miley Cyrus</name>
+    <role>Herself (Archive Footage)</role>
+    <type>Actor</type>
+    <tmdbid>76594</tmdbid>
+    <imdbid>nm1415323</imdbid>
+    <tvdbid>278133</tvdbid>
+  </actor>
+  <director tmdbid="1137903" imdbid="nm0853374">Sam Taylor-Johnson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g1mI1os0ua4</trailer>
+  <rating>6.4</rating>
+  <year>2024</year>
+  <sorttitle>Back to Black</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21261712</imdbid>
+  <tmdbid>998846</tmdbid>
+  <premiered>2024-04-11</premiered>
+  <releasedate>2024-04-11</releasedate>
+  <criticrating>34</criticrating>
+  <runtime>122</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Música</genre>
+  <genre>Drama</genre>
+  <studio>Monumental Pictures</studio>
+  <studio>StudioCanal</studio>
+  <uniqueid type="imdb">tt21261712</uniqueid>
+  <uniqueid type="tmdb">998846</uniqueid>
+  <id>tt21261712</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1816313</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7328</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

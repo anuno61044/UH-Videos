@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia de un agente que es reclutado por una alianza de inteligencia global para rastrear y detener la venta de nuevas tecnologías de armas mortales.]]></plot>
+  <outline><![CDATA[En esta operación, todos tienen un papel que desempeñar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-08 22:43:39</dateadded>
+  <title>Operación Fortune: El gran engaño</title>
+  <originaltitle>Operation Fortune: Ruse de Guerre</originaltitle>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Orson Fortune</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Plaza</name>
+    <role>Sarah Fidel</role>
+    <type>Actor</type>
+    <tmdbid>119592</tmdbid>
+    <imdbid>nm2201555</imdbid>
+    <tvdbid>289995</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Hartnett</name>
+    <role>Danny Franscesco</role>
+    <type>Actor</type>
+    <tmdbid>2299</tmdbid>
+    <imdbid>nm0001326</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Grant</name>
+    <role>Greg Simmonds</role>
+    <type>Actor</type>
+    <tmdbid>3291</tmdbid>
+    <imdbid>nm0000424</imdbid>
+  </actor>
+  <actor>
+    <name>Cary Elwes</name>
+    <role>Nathan Jasmine</role>
+    <type>Actor</type>
+    <tmdbid>2130</tmdbid>
+    <imdbid>nm0000144</imdbid>
+  </actor>
+  <actor>
+    <name>Bugzy Malone</name>
+    <role>JJ Davies</role>
+    <type>Actor</type>
+    <tmdbid>2934629</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Ferdinando</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>109833</tmdbid>
+    <imdbid>nm0272252</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Norman</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+    <tvdbid>259360</tvdbid>
+  </actor>
+  <actor>
+    <name>Lourdes Faberes</name>
+    <role>Emilia</role>
+    <type>Actor</type>
+    <tmdbid>1297438</tmdbid>
+    <tvdbid>481177</tvdbid>
+  </actor>
+  <actor>
+    <name>Max Beesley</name>
+    <role>Ben Harris</role>
+    <type>Actor</type>
+    <tmdbid>66587</tmdbid>
+    <tvdbid>346780</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Douglas</name>
+    <role>Saul Goldstein</role>
+    <type>Actor</type>
+    <tmdbid>17072</tmdbid>
+    <imdbid>nm0002243</imdbid>
+  </actor>
+  <actor>
+    <name>Aksel Üstün</name>
+    <role>Yatom</role>
+    <type>Actor</type>
+    <tmdbid>1338488</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Maltman</name>
+    <role>Arnold</role>
+    <type>Actor</type>
+    <tmdbid>65451</tmdbid>
+    <imdbid>nm1169217</imdbid>
+  </actor>
+  <actor>
+    <name>Ergun Kuyucu</name>
+    <role>Qasim</role>
+    <type>Actor</type>
+    <tmdbid>1439926</tmdbid>
+    <imdbid>nm3372702</imdbid>
+  </actor>
+  <actor>
+    <name>Eugenia Kuzmina</name>
+    <role>Marcia</role>
+    <type>Actor</type>
+    <tmdbid>1333845</tmdbid>
+    <imdbid>nm4294308</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Wang</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>1699694</tmdbid>
+    <imdbid>nm0911058</imdbid>
+  </actor>
+  <actor>
+    <name>Kaan Urgancıoğlu</name>
+    <role>Casa</role>
+    <type>Actor</type>
+    <tmdbid>145408</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Seyfi</name>
+    <role>Alexander</role>
+    <type>Actor</type>
+    <tmdbid>18734</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Facey</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>2640820</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Bartholomew</name>
+    <role>Bakker</role>
+    <type>Actor</type>
+    <tmdbid>1220370</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Rosenthal</name>
+    <role>Trent</role>
+    <type>Actor</type>
+    <tmdbid>1340931</tmdbid>
+  </actor>
+  <actor>
+    <name>Parker Sawyers</name>
+    <role>Connors</role>
+    <type>Actor</type>
+    <tmdbid>1349720</tmdbid>
+    <imdbid>nm4554036</imdbid>
+  </actor>
+  <actor>
+    <name>Ayhan Eroğlu</name>
+    <role>Dimitry</role>
+    <type>Actor</type>
+    <tmdbid>1259295</tmdbid>
+  </actor>
+  <actor>
+    <name>Savaş Ak</name>
+    <role>Yiv</role>
+    <type>Actor</type>
+    <tmdbid>3982289</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Hawksley</name>
+    <role>BBJ Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1826759</tmdbid>
+  </actor>
+  <actor>
+    <name>Zehra Karadağ</name>
+    <role>Shop Employee</role>
+    <type>Actor</type>
+    <tmdbid>3982290</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleksandra Zharikova</name>
+    <role>Natalya</role>
+    <type>Actor</type>
+    <tmdbid>3982292</tmdbid>
+  </actor>
+  <actor>
+    <name>Mishel Lazarenko</name>
+    <role>Katya</role>
+    <type>Actor</type>
+    <tmdbid>3982293</tmdbid>
+  </actor>
+  <actor>
+    <name>Bensu Uğur</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>3982301</tmdbid>
+  </actor>
+  <actor>
+    <name>Merve Akman</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>3982303</tmdbid>
+  </actor>
+  <actor>
+    <name>Ozan Ayhan</name>
+    <role>Sergi</role>
+    <type>Actor</type>
+    <tmdbid>2640583</tmdbid>
+  </actor>
+  <actor>
+    <name>Doğan Barış Yaşar</name>
+    <role>Villa Guard</role>
+    <type>Actor</type>
+    <tmdbid>3982304</tmdbid>
+  </actor>
+  <actor>
+    <name>Bestemsu Özdemir</name>
+    <role>Vivienne</role>
+    <type>Actor</type>
+    <tmdbid>1789115</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerim Pehlivan</name>
+    <role>Petro</role>
+    <type>Actor</type>
+    <tmdbid>3982305</tmdbid>
+  </actor>
+  <actor>
+    <name>Conor MacNeill</name>
+    <role>Bodhi - IT Specialist</role>
+    <type>Actor</type>
+    <tmdbid>82149</tmdbid>
+    <imdbid>nm2736817</imdbid>
+  </actor>
+  <actor>
+    <name>Begzat Ergeshov</name>
+    <role>Ben's Guard</role>
+    <type>Actor</type>
+    <tmdbid>3982313</tmdbid>
+  </actor>
+  <actor>
+    <name>Çağdaş Agun</name>
+    <role>Guard 1</role>
+    <type>Actor</type>
+    <tmdbid>2986525</tmdbid>
+  </actor>
+  <actor>
+    <name>Gökhan Demirbaş</name>
+    <role>Guard 2</role>
+    <type>Actor</type>
+    <tmdbid>3982321</tmdbid>
+  </actor>
+  <actor>
+    <name>Md Numan Ahmed</name>
+    <role>Artist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3982324</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Bustorff</name>
+    <role>Victor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1355274</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Flickema</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3982327</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Jackson</name>
+    <role>LouLou (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>130110</tmdbid>
+  </actor>
+  <actor>
+    <name>Sinan Yildiz</name>
+    <role>Yacht Waiter 2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3106086</tmdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdrxOsdakwo</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Operacion Fortune: El gran engano</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7985704</imdbid>
+  <tmdbid>739405</tmdbid>
+  <premiered>2023-01-04</premiered>
+  <releasedate>2023-01-04</releasedate>
+  <criticrating>51</criticrating>
+  <runtime>114</runtime>
+  <tagline>En esta operación, todos tienen un papel que desempeñar.</tagline>
+  <country>Czech Republic</country>
+  <country>Turkey</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Comedia</genre>
+  <studio>Miramax</studio>
+  <studio>STXfilms</studio>
+  <studio>Toff Guy Films</studio>
+  <studio>AZ Celtic Films</studio>
+  <uniqueid type="imdb">tt7985704</uniqueid>
+  <uniqueid type="tmdb">739405</uniqueid>
+  <id>tt7985704</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100083</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6814</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Francia, 1870. Rosalie no es una joven como las demás. Ella esconde un gran secreto. Desde que nació, su cuerpo y cara están cubiertos de pelo y se ve obligada a disimularlo para evitar ser rechazada. Es lo que se llama una mujer barbuda. Pero nunca quiso convertirse en una atracción de feria. Un día, el dueño de un café con demasiadas deudas decide casarse con ella por su dote, sin conocer su secreto. Pero Rosalie está cansada de esconderse y quiere empezar a ser vista como una mujer a pesar de ser diferente. ¿Qué pensará su marido cuando descubra la verdad?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-12 11:23:12</dateadded>
+  <title>Rosalie</title>
+  <originaltitle>Rosalie</originaltitle>
+  <actor>
+    <name>Nadia Tereszkiewicz</name>
+    <role>Rosalie</role>
+    <type>Actor</type>
+    <tmdbid>2019443</tmdbid>
+  </actor>
+  <actor>
+    <name>Benoît Magimel</name>
+    <role>Abel</role>
+    <type>Actor</type>
+    <tmdbid>5442</tmdbid>
+    <imdbid>nm0536095</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Biolay</name>
+    <role>Barcelin</role>
+    <type>Actor</type>
+    <tmdbid>145871</tmdbid>
+    <imdbid>nm1483904</imdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Gouix</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>239118</tmdbid>
+    <imdbid>nm0332267</imdbid>
+  </actor>
+  <actor>
+    <name>Gustave Kervern</name>
+    <role>Paul, le père</role>
+    <type>Actor</type>
+    <tmdbid>71930</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Biolay</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>3412071</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugène Marcuse</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>1882178</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliette Armanet</name>
+    <role>Clotilde</role>
+    <type>Actor</type>
+    <tmdbid>2887131</tmdbid>
+  </actor>
+  <actor>
+    <name>Serge Bozon</name>
+    <role>Le photographe</role>
+    <type>Actor</type>
+    <tmdbid>149880</tmdbid>
+  </actor>
+  <actor>
+    <name>Peri Bourgogne</name>
+    <role>Augustine</role>
+    <type>Actor</type>
+    <tmdbid>4027710</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Englander</name>
+    <role>Camilius</role>
+    <type>Actor</type>
+    <tmdbid>1824101</tmdbid>
+    <tvdbid>594284</tvdbid>
+  </actor>
+  <actor>
+    <name>Aurélia Petit</name>
+    <role>La soeur couvent</role>
+    <type>Actor</type>
+    <tmdbid>4287</tmdbid>
+  </actor>
+  <actor>
+    <name>Julien Drion</name>
+    <role>Le pasteur</role>
+    <type>Actor</type>
+    <tmdbid>1590399</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Dassault</name>
+    <role>Le contremaître</role>
+    <type>Actor</type>
+    <tmdbid>2244674</tmdbid>
+  </actor>
+  <director tmdbid="1605612">Stéphanie Di Giusto</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QbVNY5unhhM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pEnmdYZQrtA</trailer>
+  <rating>6.8</rating>
+  <year>2024</year>
+  <sorttitle>Rosalie</sorttitle>
+  <imdbid>tt26342863</imdbid>
+  <tmdbid>995746</tmdbid>
+  <premiered>2024-04-10</premiered>
+  <releasedate>2024-04-10</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>115</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Trésor Films</studio>
+  <studio>Gaumont</studio>
+  <studio>Artémis Productions</studio>
+  <studio>LDRP</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>La Banque Postale Image 16</studio>
+  <studio>Cinécap 6</studio>
+  <studio>Arte Cofinova 19</studio>
+  <studio>Région Bretagne</studio>
+  <studio>CNC</studio>
+  <studio>Départment des Vosges</studio>
+  <studio>Cofinova Développemont 15</studio>
+  <studio>Shelter Prod</studio>
+  <studio>Taxshelter. be</studio>
+  <studio>Tax Shelter du Gouvernement Fédéral Belge</studio>
+  <studio>Région Grand Est</studio>
+  <studio>ING</studio>
+  <studio>Palatine Étoile 20</studio>
+  <studio>France 3 Cinéma</studio>
+  <uniqueid type="tmdb">995746</uniqueid>
+  <uniqueid type="imdb">tt26342863</uniqueid>
+  <id>tt26342863</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>739865</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6906</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128369</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

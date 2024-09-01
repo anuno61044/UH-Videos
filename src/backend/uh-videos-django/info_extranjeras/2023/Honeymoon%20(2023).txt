@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Unos jóvenes recién casados, Paul y Bea, viajan en su luna de miel a un lago remoto. Al poco tiempo de llegar, Paul encuentra a Bea desorientada y errante en mitad de la noche. Ella se va mostrando cada vez más distante y su comportamiento más peculiar. Paul comienza a sospechar que lo que le sucede a su esposa es algo más que sonambulismo.]]></plot>
+  <outline><![CDATA[Después de la ceremonia viene el ritual.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-07 10:35:03</dateadded>
+  <title>Honeymoon</title>
+  <originaltitle>Honeymoon</originaltitle>
+  <actor>
+    <name>Rose Leslie</name>
+    <role>Bea</role>
+    <type>Actor</type>
+    <tmdbid>1223793</tmdbid>
+    <tvdbid>247852</tvdbid>
+  </actor>
+  <actor>
+    <name>Harry Treadaway</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>45051</tmdbid>
+    <imdbid>nm2016685</imdbid>
+    <tvdbid>486763</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Huber</name>
+    <role>Will</role>
+    <type>Actor</type>
+    <tmdbid>1106240</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanna Brown</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>1290264</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Harrison</name>
+    <role>Dark Figures</role>
+    <type>Actor</type>
+    <tmdbid>2746132</tmdbid>
+  </actor>
+  <actor>
+    <name>John Lauterbach</name>
+    <role>Dark Figures</role>
+    <type>Actor</type>
+    <tmdbid>1701354</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Leo</name>
+    <role>Dark Figures</role>
+    <type>Actor</type>
+    <tmdbid>2746134</tmdbid>
+  </actor>
+  <director tmdbid="1290265">Leigh Janiak</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bZE9TBKKGD4</trailer>
+  <rating>5.7</rating>
+  <year>2014</year>
+  <sorttitle>Honeymoon</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt3177316</imdbid>
+  <tmdbid>254191</tmdbid>
+  <premiered>2014-09-12</premiered>
+  <releasedate>2014-09-12</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>90</runtime>
+  <tagline>Después de la ceremonia viene el ritual.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Fewlas Entertainment</studio>
+  <uniqueid type="imdb">tt3177316</uniqueid>
+  <uniqueid type="tmdb">254191</uniqueid>
+  <id>tt3177316</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070534</bitrate>
+        <width>1720</width>
+        <height>720</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.99963</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5394</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64175</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

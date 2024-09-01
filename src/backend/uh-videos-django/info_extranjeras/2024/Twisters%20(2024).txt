@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kate Carter, una ex cazadora de tormentas perseguida por un devastador encuentro con un tornado, es llamada por su amigo Javi de regreso a las llanuras para probar un nuevo e innovador sistema de seguimiento. Allí, se cruza con el encantador e imprudente ídolo de las redes sociales Tyler Owens y su estridente equipo. A medida que la temporada de tormentas se intensifica, se desatan fenómenos terroríficos nunca vistos, y Kate, Tyler y sus equipos competidores se encuentran directamente en el camino de múltiples sistemas de tormentas que convergen sobre Oklahoma en lo que será una lucha por sobrevivir.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-12 09:01:35</dateadded>
+  <title>Twisters</title>
+  <originaltitle>Twisters</originaltitle>
+  <actor>
+    <name>Daisy Edgar-Jones</name>
+    <role>Kate</role>
+    <type>Actor</type>
+    <tmdbid>2230991</tmdbid>
+    <tvdbid>7937685</tvdbid>
+  </actor>
+  <actor>
+    <name>Glen Powell</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>83271</tmdbid>
+    <imdbid>nm1412974</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Ramos</name>
+    <role>Javi</role>
+    <type>Actor</type>
+    <tmdbid>1560244</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Perea</name>
+    <role>Boone</role>
+    <type>Actor</type>
+    <tmdbid>1602972</tmdbid>
+    <imdbid>nm5155952</imdbid>
+    <tvdbid>520933</tvdbid>
+  </actor>
+  <actor>
+    <name>Maura Tierney</name>
+    <role>Cathy</role>
+    <type>Actor</type>
+    <tmdbid>16307</tmdbid>
+    <imdbid>nm0005491</imdbid>
+    <tvdbid>274188</tvdbid>
+  </actor>
+  <actor>
+    <name>Harry Hadden-Paton</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>145133</tmdbid>
+    <imdbid>nm2227000</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Lane</name>
+    <role>Lily</role>
+    <type>Actor</type>
+    <tmdbid>1535218</tmdbid>
+    <tvdbid>530331</tvdbid>
+  </actor>
+  <actor>
+    <name>Daryl McCormack</name>
+    <role>Jeb</role>
+    <type>Actor</type>
+    <tmdbid>1829245</tmdbid>
+    <tvdbid>7983480</tvdbid>
+  </actor>
+  <actor>
+    <name>Kiernan Shipka</name>
+    <role>Addy</role>
+    <type>Actor</type>
+    <tmdbid>934289</tmdbid>
+    <imdbid>nm2215143</imdbid>
+    <tvdbid>459110</tvdbid>
+  </actor>
+  <actor>
+    <name>Nik Dodani</name>
+    <role>Praveen</role>
+    <type>Actor</type>
+    <tmdbid>1466581</tmdbid>
+    <imdbid>nm6516135</imdbid>
+  </actor>
+  <actor>
+    <name>David Corenswet</name>
+    <role>Scott</role>
+    <type>Actor</type>
+    <tmdbid>1785590</tmdbid>
+    <imdbid>nm4825178</imdbid>
+    <tvdbid>524352</tvdbid>
+  </actor>
+  <actor>
+    <name>Tunde Adebimpe</name>
+    <role>Dexter</role>
+    <type>Actor</type>
+    <tmdbid>94476</tmdbid>
+    <imdbid>nm0011758</imdbid>
+    <tvdbid>519605</tvdbid>
+  </actor>
+  <actor>
+    <name>Katy O'Brian</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>2252989</tmdbid>
+    <imdbid>nm6884042</imdbid>
+  </actor>
+  <actor>
+    <name>David Born</name>
+    <role>Riggs</role>
+    <type>Actor</type>
+    <tmdbid>110993</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Scheer</name>
+    <role>Airport Traffic Police</role>
+    <type>Actor</type>
+    <tmdbid>59843</tmdbid>
+    <imdbid>nm1179677</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Poe</name>
+    <role>Debra</role>
+    <type>Actor</type>
+    <tmdbid>1381496</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Bullock</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>2899698</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Oyoung</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>1451123</tmdbid>
+    <imdbid>nm2432430</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Kingi</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>2899656</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Adrien</name>
+    <role>Andy</role>
+    <type>Actor</type>
+    <tmdbid>4830556</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Ireland</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>1335252</tmdbid>
+  </actor>
+  <actor>
+    <name>Aila Grey</name>
+    <role>Toddler Girl</role>
+    <type>Actor</type>
+    <tmdbid>4830561</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Swearingen</name>
+    <role>Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1587908</tmdbid>
+  </actor>
+  <actor>
+    <name>James Paxton</name>
+    <role>Cody</role>
+    <type>Actor</type>
+    <tmdbid>1231768</tmdbid>
+    <imdbid>nm1412815</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Smith</name>
+    <role>Kayleigh</role>
+    <type>Actor</type>
+    <tmdbid>4842980</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Ballard</name>
+    <role>Rodeo Security</role>
+    <type>Actor</type>
+    <tmdbid>4830578</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Moss</name>
+    <role>Crystal Springs Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1445422</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Morgan</name>
+    <role>OKC Meteorologist</role>
+    <type>Actor</type>
+    <tmdbid>4830581</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Sutton</name>
+    <role>OKC Meteorologist</role>
+    <type>Actor</type>
+    <tmdbid>4830584</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Oliver-Touchstone</name>
+    <role>Local Crystal Springs Woman</role>
+    <type>Actor</type>
+    <tmdbid>1405895</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Brooks</name>
+    <role>El Reno Cop</role>
+    <type>Actor</type>
+    <tmdbid>2956118</tmdbid>
+  </actor>
+  <actor>
+    <name>Darryl Cox</name>
+    <role>Trailer Salesperson</role>
+    <type>Actor</type>
+    <tmdbid>97391</tmdbid>
+    <imdbid>nm0184981</imdbid>
+  </actor>
+  <actor>
+    <name>Douglas Seok</name>
+    <role>Daebak Chaser</role>
+    <type>Actor</type>
+    <tmdbid>1519405</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Snow</name>
+    <role>Australian Tourist</role>
+    <type>Actor</type>
+    <tmdbid>1715666</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Jay Sandberg</name>
+    <role>OKC Airport PA (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4031864</tmdbid>
+  </actor>
+  <actor>
+    <name>Clay Edward Jones</name>
+    <role>Storm Survivor</role>
+    <type>Actor</type>
+    <tmdbid>4830600</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Angelina Cruz</name>
+    <role>Storm Survivor</role>
+    <type>Actor</type>
+    <tmdbid>3354655</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Scott</name>
+    <role>NYC Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>4830602</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Ann Townsend</name>
+    <role>NWS Weather Guide</role>
+    <type>Actor</type>
+    <tmdbid>1509281</tmdbid>
+  </actor>
+  <actor>
+    <name>Capri O'Neill</name>
+    <role>Tessa Elaine</role>
+    <type>Actor</type>
+    <tmdbid>4830647</tmdbid>
+  </actor>
+  <actor>
+    <name>Livia Chung</name>
+    <role>The 'Whoa' Kid</role>
+    <type>Actor</type>
+    <tmdbid>4830648</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Zurcher</name>
+    <role>Derek</role>
+    <type>Actor</type>
+    <tmdbid>4680223</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxim Helmerich</name>
+    <role>Medford Motel Musician</role>
+    <type>Actor</type>
+    <tmdbid>4830651</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Pomeroy</name>
+    <role>Medford Motel Musician</role>
+    <type>Actor</type>
+    <tmdbid>4830652</tmdbid>
+  </actor>
+  <actor>
+    <name>James McAlister</name>
+    <role>Medford Motel Musician</role>
+    <type>Actor</type>
+    <tmdbid>3263877</tmdbid>
+  </actor>
+  <actor>
+    <name>Damien Lodes</name>
+    <role>Tulsa Meteorologist</role>
+    <type>Actor</type>
+    <tmdbid>4830654</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Rader</name>
+    <role>Crystal Springs Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>3735356</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Maher</name>
+    <role>Rodeo Announcer</role>
+    <type>Actor</type>
+    <tmdbid>4830655</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Kijac</name>
+    <role>Arena Announcer</role>
+    <type>Actor</type>
+    <tmdbid>4830656</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Fortman</name>
+    <role>Cowboy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4830657</tmdbid>
+  </actor>
+  <director tmdbid="931952">Lee Isaac Chung</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gUBCmS1H8O4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AuadPzIv-Yo</trailer>
+  <rating>7.1</rating>
+  <year>2024</year>
+  <sorttitle>Twisters</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12584954</imdbid>
+  <tmdbid>718821</tmdbid>
+  <premiered>2024-07-10</premiered>
+  <releasedate>2024-07-10</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>122</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Drama</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Amblin Entertainment</studio>
+  <studio>Domain Entertainment</studio>
+  <set tmdbcolid="1062948">
+    <name>Twister Collection</name>
+  </set>
+  <uniqueid type="tmdb">718821</uniqueid>
+  <uniqueid type="imdb">tt12584954</uniqueid>
+  <id>tt12584954</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149980</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7341</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129611</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>lv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>bg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>lt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>et</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

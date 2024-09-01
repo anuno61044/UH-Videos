@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.]]></plot>
+  <outline><![CDATA[Jaime Reyes es un superhéroe, le guste o no.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-22 09:37:25</dateadded>
+  <title>Blue Beetle</title>
+  <originaltitle>Blue Beetle</originaltitle>
+  <actor>
+    <name>Xolo Mariduena</name>
+    <role>Jaime Reyes / Blue Beetle</role>
+    <type>Actor</type>
+    <tmdbid>1185997</tmdbid>
+    <imdbid>nm4927704</imdbid>
+    <tvdbid>7990742</tvdbid>
+  </actor>
+  <actor>
+    <name>Bruna Marquezine</name>
+    <role>Jenny Kord</role>
+    <type>Actor</type>
+    <tmdbid>1622590</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan Sarandon</name>
+    <role>Victoria Kord</role>
+    <type>Actor</type>
+    <tmdbid>4038</tmdbid>
+    <imdbid>nm0000215</imdbid>
+  </actor>
+  <actor>
+    <name>Raoul Max Trujillo</name>
+    <role>Carapax</role>
+    <type>Actor</type>
+    <tmdbid>17688</tmdbid>
+    <imdbid>nm0874232</imdbid>
+    <tvdbid>395638</tvdbid>
+  </actor>
+  <actor>
+    <name>Belissa Escobedo</name>
+    <role>Milagros Reyes</role>
+    <type>Actor</type>
+    <tmdbid>2381442</tmdbid>
+  </actor>
+  <actor>
+    <name>Damián Alcázar</name>
+    <role>Alberto Reyes</role>
+    <type>Actor</type>
+    <tmdbid>7370</tmdbid>
+    <imdbid>nm0017343</imdbid>
+  </actor>
+  <actor>
+    <name>Elpidia Carrillo</name>
+    <role>Rocío Reyes</role>
+    <type>Actor</type>
+    <tmdbid>1102</tmdbid>
+    <imdbid>nm0001990</imdbid>
+    <tvdbid>275327</tvdbid>
+  </actor>
+  <actor>
+    <name>George Lopez</name>
+    <role>Rudy Reyes</role>
+    <type>Actor</type>
+    <tmdbid>41798</tmdbid>
+    <imdbid>nm0520064</imdbid>
+  </actor>
+  <actor>
+    <name>Adriana Barraza</name>
+    <role>Nana Reyes</role>
+    <type>Actor</type>
+    <tmdbid>270</tmdbid>
+    <imdbid>nm0056770</imdbid>
+    <tvdbid>503860</tvdbid>
+  </actor>
+  <actor>
+    <name>Becky G</name>
+    <role>Khaji-Da (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1529446</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvey Guillén</name>
+    <role>Dr. Sanchez</role>
+    <type>Actor</type>
+    <tmdbid>210172</tmdbid>
+    <imdbid>nm2957490</imdbid>
+    <tvdbid>7884889</tvdbid>
+  </actor>
+  <actor>
+    <name>Jorge Jimenez</name>
+    <role>Tío Chema</role>
+    <type>Actor</type>
+    <tmdbid>1333199</tmdbid>
+  </actor>
+  <actor>
+    <name>Eyra Agüero Joubert</name>
+    <role>Tía Maru</role>
+    <type>Actor</type>
+    <tmdbid>1326614</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Ortiz</name>
+    <role>Tía Letty</role>
+    <type>Actor</type>
+    <tmdbid>2557495</tmdbid>
+  </actor>
+  <actor>
+    <name>Chente Ydrach</name>
+    <role>Old Man in Airport</role>
+    <type>Actor</type>
+    <tmdbid>1618538</tmdbid>
+  </actor>
+  <actor>
+    <name>Modesto Lacen</name>
+    <role>General Crane</role>
+    <type>Actor</type>
+    <tmdbid>64326</tmdbid>
+  </actor>
+  <actor>
+    <name>Oshún Ramirez</name>
+    <role>Nayeli</role>
+    <type>Actor</type>
+    <tmdbid>4220133</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianna Quinn Lewis</name>
+    <role>Kord Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>4089996</tmdbid>
+  </actor>
+  <actor>
+    <name>Tahj Vaughans</name>
+    <role>Dude #1</role>
+    <type>Actor</type>
+    <tmdbid>1861836</tmdbid>
+  </actor>
+  <actor>
+    <name>Dante Gonzalez-Abreu</name>
+    <role>Dude #2</role>
+    <type>Actor</type>
+    <tmdbid>4220124</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Z</name>
+    <role>Dude #3</role>
+    <type>Actor</type>
+    <tmdbid>4220125</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Ponce</name>
+    <role>Bentley Owner</role>
+    <type>Actor</type>
+    <tmdbid>62067</tmdbid>
+    <imdbid>nm0005317</imdbid>
+    <tvdbid>327762</tvdbid>
+  </actor>
+  <actor>
+    <name>Franco Castan</name>
+    <role>Security Tech #1</role>
+    <type>Actor</type>
+    <tmdbid>1416333</tmdbid>
+  </actor>
+  <actor>
+    <name>Perris Drew</name>
+    <role>Security Tech #2</role>
+    <type>Actor</type>
+    <tmdbid>3045119</tmdbid>
+  </actor>
+  <actor>
+    <name>Felipe Esparza</name>
+    <role>Security Tech #3</role>
+    <type>Actor</type>
+    <tmdbid>131787</tmdbid>
+  </actor>
+  <actor>
+    <name>Walter J. Buck</name>
+    <role>Security Tech #4</role>
+    <type>Actor</type>
+    <tmdbid>4223963</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Spidell</name>
+    <role>Black Ops Leader</role>
+    <type>Actor</type>
+    <tmdbid>1779512</tmdbid>
+    <imdbid>nm2144533</imdbid>
+  </actor>
+  <actor>
+    <name>Esteban Ruiz</name>
+    <role>Sebastian - Wall Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>1614324</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Nelson</name>
+    <role>Giovanni - Wall Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>3160209</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Aparicio</name>
+    <role>Young Jenny Kord</role>
+    <type>Actor</type>
+    <tmdbid>4220128</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayden Rivera</name>
+    <role>Kid Carapax</role>
+    <type>Actor</type>
+    <tmdbid>4220130</tmdbid>
+  </actor>
+  <actor>
+    <name>Xol Gonzalez</name>
+    <role>Teen Carapax</role>
+    <type>Actor</type>
+    <tmdbid>4220131</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuli Zorrilla</name>
+    <role>Carapax's Mom</role>
+    <type>Actor</type>
+    <tmdbid>2723382</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Valente</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1089007</tmdbid>
+  </actor>
+  <director tmdbid="1500758">Ángel Manuel Soto</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eKKg7BIoctU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B8QJ7zZ-aBk</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Blue Beetle</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9362930</imdbid>
+  <tmdbid>565770</tmdbid>
+  <premiered>2023-08-16</premiered>
+  <releasedate>2023-08-16</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>127</runtime>
+  <tagline>Jaime Reyes es un superhéroe, le guste o no.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>The Safran Company</studio>
+  <studio>DC Films</studio>
+  <uniqueid type="imdb">tt9362930</uniqueid>
+  <uniqueid type="tmdb">565770</uniqueid>
+  <id>tt9362930</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>875626</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7645</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

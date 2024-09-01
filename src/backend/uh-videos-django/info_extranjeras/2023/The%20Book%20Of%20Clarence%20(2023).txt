@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un ciudadano de Jerusalén con mala suerte se embarca en un fallido intento de aprovechar la popularidad del Mesías para su propio beneficio. El viaje le lleva a explorar la fe y a recorrer un camino inesperado.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-15 11:43:56</dateadded>
+  <title>The Book of Clarence</title>
+  <originaltitle>The Book of Clarence</originaltitle>
+  <actor>
+    <name>Lakeith Stanfield</name>
+    <role>Clarence / Thomas</role>
+    <type>Actor</type>
+    <tmdbid>1200864</tmdbid>
+    <imdbid>nm3147751</imdbid>
+    <tvdbid>292503</tvdbid>
+  </actor>
+  <actor>
+    <name>Omar Sy</name>
+    <role>Barabbas</role>
+    <type>Actor</type>
+    <tmdbid>78423</tmdbid>
+    <imdbid>nm1082477</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Cyler</name>
+    <role>Elijah</role>
+    <type>Actor</type>
+    <tmdbid>1394670</tmdbid>
+    <imdbid>nm5518972</imdbid>
+  </actor>
+  <actor>
+    <name>David Oyelowo</name>
+    <role>John the Baptist</role>
+    <type>Actor</type>
+    <tmdbid>35013</tmdbid>
+    <imdbid>nm0654648</imdbid>
+    <tvdbid>396447</tvdbid>
+  </actor>
+  <actor>
+    <name>Alfre Woodard</name>
+    <role>Mother Mary</role>
+    <type>Actor</type>
+    <tmdbid>1981</tmdbid>
+    <imdbid>nm0005569</imdbid>
+    <tvdbid>273563</tvdbid>
+  </actor>
+  <actor>
+    <name>Teyana Taylor</name>
+    <role>Mary Magdalene</role>
+    <type>Actor</type>
+    <tmdbid>964679</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb McLaughlin</name>
+    <role>Zeke</role>
+    <type>Actor</type>
+    <tmdbid>1474123</tmdbid>
+    <imdbid>nm5160895</imdbid>
+  </actor>
+  <actor>
+    <name>James McAvoy</name>
+    <role>Pontius Pilate</role>
+    <type>Actor</type>
+    <tmdbid>5530</tmdbid>
+    <imdbid>nm0564215</imdbid>
+    <tvdbid>311034</tvdbid>
+  </actor>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Benjamin</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+    <tvdbid>292578</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Diop</name>
+    <role>Varinia</role>
+    <type>Actor</type>
+    <tmdbid>1425924</tmdbid>
+    <imdbid>nm2993012</imdbid>
+    <tvdbid>455938</tvdbid>
+  </actor>
+  <actor>
+    <name>Marianne Jean-Baptiste</name>
+    <role>Clarence's Mother</role>
+    <type>Actor</type>
+    <tmdbid>17352</tmdbid>
+    <imdbid>nm0001399</imdbid>
+    <tvdbid>443958</tvdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Asher the Torturer</role>
+    <type>Actor</type>
+    <tmdbid>205923</tmdbid>
+    <imdbid>nm2129802</imdbid>
+    <tvdbid>317266</tvdbid>
+  </actor>
+  <actor>
+    <name>Eric Kofi Abrefa</name>
+    <role>Jedediah the Terrible</role>
+    <type>Actor</type>
+    <tmdbid>1184960</tmdbid>
+    <imdbid>nm2256122</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Pinnock</name>
+    <role>Jesus of Nazareth</role>
+    <type>Actor</type>
+    <tmdbid>1356645</tmdbid>
+    <imdbid>nm0991979</imdbid>
+    <tvdbid>434273</tvdbid>
+  </actor>
+  <actor>
+    <name>Micheal Ward</name>
+    <role>Judas</role>
+    <type>Actor</type>
+    <tmdbid>2380397</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase W. Dillon</name>
+    <role>Cabbage</role>
+    <type>Actor</type>
+    <tmdbid>2461073</tmdbid>
+    <imdbid>nm10229945</imdbid>
+    <tvdbid>8181868</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Glynn-Carney</name>
+    <role>Decimus</role>
+    <type>Actor</type>
+    <tmdbid>1765227</tmdbid>
+    <imdbid>nm6077951</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Vaughan-Lawlor</name>
+    <role>Antoninus</role>
+    <type>Actor</type>
+    <tmdbid>29240</tmdbid>
+    <imdbid>nm2534167</imdbid>
+  </actor>
+  <actor>
+    <name>Chidi Ajufo</name>
+    <role>Goliath</role>
+    <type>Actor</type>
+    <tmdbid>1285754</tmdbid>
+    <imdbid>nm5056213</imdbid>
+  </actor>
+  <director tmdbid="1059578">Jeymes Samuel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aTMqRPOqkGs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ntNS-ANoMyM</trailer>
+  <rating>5.7</rating>
+  <year>2024</year>
+  <sorttitle>Book of Clarence</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt22866358</imdbid>
+  <tmdbid>976584</tmdbid>
+  <premiered>2024-01-11</premiered>
+  <releasedate>2024-01-11</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>129</runtime>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>Kilburn Lane</studio>
+  <uniqueid type="imdb">tt22866358</uniqueid>
+  <uniqueid type="tmdb">976584</uniqueid>
+  <id>tt22866358</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>861946</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7763</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

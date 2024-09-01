@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue a un compositor de ópera que sufre el bloqueo del escritor y redescubre su pasión después de una aventura de una noche.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-07 07:35:01</dateadded>
+  <title>Llegó a mí</title>
+  <originaltitle>She Came to Me</originaltitle>
+  <actor>
+    <name>Peter Dinklage</name>
+    <role>Steven Lauddem</role>
+    <type>Actor</type>
+    <tmdbid>22970</tmdbid>
+    <imdbid>nm0227759</imdbid>
+    <tvdbid>247907</tvdbid>
+  </actor>
+  <actor>
+    <name>Anne Hathaway</name>
+    <role>Patricia Jessup-Lauddem</role>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+    <tvdbid>255156</tvdbid>
+  </actor>
+  <actor>
+    <name>Marisa Tomei</name>
+    <role>Katrina Trento</role>
+    <type>Actor</type>
+    <tmdbid>3141</tmdbid>
+    <imdbid>nm0000673</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Ellison</name>
+    <role>Julian Jessup</role>
+    <type>Actor</type>
+    <tmdbid>3663205</tmdbid>
+  </actor>
+  <actor>
+    <name>Harlow Jane</name>
+    <role>Tereza Szyskowski</role>
+    <type>Actor</type>
+    <tmdbid>3046401</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Kulig</name>
+    <role>Magdalena Szyskowski</role>
+    <type>Actor</type>
+    <tmdbid>908548</tmdbid>
+    <imdbid>nm2251846</imdbid>
+  </actor>
+  <actor>
+    <name>Brian d'Arcy James</name>
+    <role>Trey Ruffa</role>
+    <type>Actor</type>
+    <tmdbid>175829</tmdbid>
+  </actor>
+  <actor>
+    <name>Judy Gold</name>
+    <role>Susan Shaw</role>
+    <type>Actor</type>
+    <tmdbid>28024</tmdbid>
+    <imdbid>nm0325018</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Roth Costanzo</name>
+    <role>Countertenor at Fundraiser</role>
+    <type>Actor</type>
+    <tmdbid>1019876</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel H. Levine</name>
+    <role>Raef Gundel</role>
+    <type>Actor</type>
+    <tmdbid>1305959</tmdbid>
+  </actor>
+  <actor>
+    <name>Sue Jean Kim</name>
+    <role>Sister Henrietta</role>
+    <type>Actor</type>
+    <tmdbid>1455770</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregg Edelman</name>
+    <role>Duftin Haverford</role>
+    <type>Actor</type>
+    <tmdbid>17179</tmdbid>
+    <imdbid>nm0248981</imdbid>
+  </actor>
+  <actor>
+    <name>Aalok Mehta</name>
+    <role>Anton Gatner</role>
+    <type>Actor</type>
+    <tmdbid>109038</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Gethard</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>169265</tmdbid>
+    <imdbid>nm1589811</imdbid>
+  </actor>
+  <actor>
+    <name>Dale Soules</name>
+    <role>Aunt Moxie</role>
+    <type>Actor</type>
+    <tmdbid>1102500</tmdbid>
+    <imdbid>nm0815831</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Buck</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1662558</tmdbid>
+  </actor>
+  <actor>
+    <name>George Sheanshang</name>
+    <role>Harry Schuster</role>
+    <type>Actor</type>
+    <tmdbid>986403</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Faridany</name>
+    <role>Maxine Haverford</role>
+    <type>Actor</type>
+    <tmdbid>171733</tmdbid>
+    <imdbid>nm0267432</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Terrell Clark</name>
+    <role>Frank Hall</role>
+    <type>Actor</type>
+    <tmdbid>1765966</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamya Taylor</name>
+    <role>Tanya</role>
+    <type>Actor</type>
+    <tmdbid>2730807</tmdbid>
+  </actor>
+  <actor>
+    <name>Jen Ponton</name>
+    <role>Elodie</role>
+    <type>Actor</type>
+    <tmdbid>1416580</tmdbid>
+  </actor>
+  <actor>
+    <name>Greer Grimsley</name>
+    <role>Generalissimo</role>
+    <type>Actor</type>
+    <tmdbid>2418306</tmdbid>
+  </actor>
+  <director tmdbid="41670" imdbid="nm0589182">Rebecca Miller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rd4m_F5LhUs</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Llego a mi</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6689014</imdbid>
+  <tmdbid>503417</tmdbid>
+  <premiered>2023-10-06</premiered>
+  <releasedate>2023-10-06</releasedate>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Round Films</studio>
+  <studio>Killer Films</studio>
+  <studio>Protagonist Pictures</studio>
+  <studio>Somewhere Pictures</studio>
+  <uniqueid type="tmdb">503417</uniqueid>
+  <uniqueid type="imdb">tt6689014</uniqueid>
+  <id>tt6689014</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2248711</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6117</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>384000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

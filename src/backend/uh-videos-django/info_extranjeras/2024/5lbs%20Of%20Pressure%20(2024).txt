@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Al intentar empezar de nuevo, Adam (Evans) busca la redención mientras regresa a su antiguo vecindario para calmar sus demonios, mientras que el hermano del hombre que mató busca venganza.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-27 10:36:06</dateadded>
+  <title>5 Lb de Presion</title>
+  <originaltitle>5lbs of Pressure</originaltitle>
+  <actor>
+    <name>Luke Evans</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>114019</tmdbid>
+    <imdbid>nm1812656</imdbid>
+    <tvdbid>469914</tvdbid>
+  </actor>
+  <actor>
+    <name>Rory Culkin</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>28042</tmdbid>
+    <imdbid>nm0191412</imdbid>
+    <tvdbid>394235</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Pettyfer</name>
+    <role>Leff</role>
+    <type>Actor</type>
+    <tmdbid>61363</tmdbid>
+    <imdbid>nm1641117</imdbid>
+  </actor>
+  <actor>
+    <name>Rudy Pankow</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1974046</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Rawes</name>
+    <role>Al</role>
+    <type>Actor</type>
+    <tmdbid>1083177</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Hopper</name>
+    <role>Aliyah</role>
+    <type>Actor</type>
+    <tmdbid>2425036</tmdbid>
+  </actor>
+  <actor>
+    <name>Fahim Fazli</name>
+    <role>Jabar</role>
+    <type>Actor</type>
+    <tmdbid>109669</tmdbid>
+    <imdbid>nm2390252</imdbid>
+  </actor>
+  <actor>
+    <name>James Oliver Wheatley</name>
+    <role>Sicky</role>
+    <type>Actor</type>
+    <tmdbid>1420278</tmdbid>
+  </actor>
+  <actor>
+    <name>Julee Cerda</name>
+    <role>Patricia Earl</role>
+    <type>Actor</type>
+    <tmdbid>1455769</tmdbid>
+  </actor>
+  <actor>
+    <name>Alana de Freitas</name>
+    <role>Madam</role>
+    <type>Actor</type>
+    <tmdbid>1707957</tmdbid>
+  </actor>
+  <actor>
+    <name>Grahame Fox</name>
+    <role>Lenny</role>
+    <type>Actor</type>
+    <tmdbid>662006</tmdbid>
+    <imdbid>nm0289018</imdbid>
+  </actor>
+  <actor>
+    <name>Andy M Milligan</name>
+    <role>New Yorker</role>
+    <type>Actor</type>
+    <tmdbid>3812408</tmdbid>
+  </actor>
+  <actor>
+    <name>Manoj Anand</name>
+    <role>Mirror Bar Customer</role>
+    <type>Actor</type>
+    <tmdbid>1945750</tmdbid>
+    <imdbid>nm5592776</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Griffin</name>
+    <role>Johnny</role>
+    <type>Actor</type>
+    <tmdbid>60603</tmdbid>
+  </actor>
+  <actor>
+    <name>Haroon Rafiq</name>
+    <role>New York Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>3802439</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Fielding</name>
+    <role>Lewis</role>
+    <type>Actor</type>
+    <tmdbid>1844843</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Leonidas</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>23587</tmdbid>
+    <imdbid>nm0503060</imdbid>
+    <tvdbid>403801</tvdbid>
+  </actor>
+  <director tmdbid="1680772">Phil Allocco</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aeTnUONb5IU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9fRayMl19CE</trailer>
+  <rating>6.182</rating>
+  <year>2024</year>
+  <sorttitle>5 Lb de Presion</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1524515</imdbid>
+  <tmdbid>1079346</tmdbid>
+  <premiered>2024-03-08</premiered>
+  <releasedate>2024-03-08</releasedate>
+  <runtime>110</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <genre>Romance</genre>
+  <studio>Filmology Finance</studio>
+  <studio>Tetrad Productions</studio>
+  <studio>Make Things Work</studio>
+  <studio>Dark Dreams Entertainment</studio>
+  <studio>Paint Night Productions</studio>
+  <studio>Studio507</studio>
+  <uniqueid type="tmdb">1079346</uniqueid>
+  <uniqueid type="imdb">tt1524515</uniqueid>
+  <id>tt1524515</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149597</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6610</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129652</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

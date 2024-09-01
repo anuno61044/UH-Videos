@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Los policías más famosos del mundo regresan con su icónica mezcla de acción al límite y comedia escandalosa, pero esta vez con un giro inesperado: ¡Los mejores de Miami se dan a la fuga! Cuarta entrega de la saga 'Dos policías rebeldes'.]]></plot>
+  <outline><![CDATA[Los mejores de Miami son ahora los más buscados.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-25 19:27:36</dateadded>
+  <title>Bad Boys: Ride or Die</title>
+  <originaltitle>Bad Boys: Ride or Die</originaltitle>
+  <actor>
+    <name>Will Smith</name>
+    <role>Mike Lowrey</role>
+    <type>Actor</type>
+    <tmdbid>2888</tmdbid>
+    <imdbid>nm0000226</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Lawrence</name>
+    <role>Marcus Burnett</role>
+    <type>Actor</type>
+    <tmdbid>78029</tmdbid>
+    <imdbid>nm0001454</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Hudgens</name>
+    <role>Kelly</role>
+    <type>Actor</type>
+    <tmdbid>67599</tmdbid>
+    <imdbid>nm1227814</imdbid>
+    <tvdbid>327407</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Ludwig</name>
+    <role>Dorn</role>
+    <type>Actor</type>
+    <tmdbid>23498</tmdbid>
+    <imdbid>nm1573253</imdbid>
+  </actor>
+  <actor>
+    <name>Paola Nuñez</name>
+    <role>Rita</role>
+    <type>Actor</type>
+    <tmdbid>544442</tmdbid>
+    <imdbid>nm1214769</imdbid>
+    <tvdbid>8035817</tvdbid>
+  </actor>
+  <actor>
+    <name>Eric Dane</name>
+    <role>McGrath</role>
+    <type>Actor</type>
+    <tmdbid>58115</tmdbid>
+    <imdbid>nm0199312</imdbid>
+    <tvdbid>268163</tvdbid>
+  </actor>
+  <actor>
+    <name>Ioan Gruffudd</name>
+    <role>Lockwood</role>
+    <type>Actor</type>
+    <tmdbid>65524</tmdbid>
+    <imdbid>nm0344435</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Scipio</name>
+    <role>Armando</role>
+    <type>Actor</type>
+    <tmdbid>2256312</tmdbid>
+    <imdbid>nm0778501</imdbid>
+    <tvdbid>7967175</tvdbid>
+  </actor>
+  <actor>
+    <name>Melanie Liburd</name>
+    <role>Christine</role>
+    <type>Actor</type>
+    <tmdbid>1399166</tmdbid>
+    <imdbid>nm4927489</imdbid>
+    <tvdbid>346971</tvdbid>
+  </actor>
+  <actor>
+    <name>Tasha Smith</name>
+    <role>Theresa</role>
+    <type>Actor</type>
+    <tmdbid>74610</tmdbid>
+    <imdbid>nm0810103</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Judy</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+    <tvdbid>273507</tvdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Haddish</name>
+    <role>Tabitha</role>
+    <type>Actor</type>
+    <tmdbid>1230868</tmdbid>
+    <imdbid>nm1840504</imdbid>
+    <tvdbid>311354</tvdbid>
+  </actor>
+  <actor>
+    <name>Joe Pantoliano</name>
+    <role>Captain Howard</role>
+    <type>Actor</type>
+    <tmdbid>532</tmdbid>
+    <imdbid>nm0001592</imdbid>
+  </actor>
+  <actor>
+    <name>DJ Khaled</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>224235</tmdbid>
+  </actor>
+  <actor>
+    <name>John Salley</name>
+    <role>Fletcher</role>
+    <type>Actor</type>
+    <tmdbid>119869</tmdbid>
+    <imdbid>nm0758582</imdbid>
+  </actor>
+  <actor>
+    <name>Bianca Bethune</name>
+    <role>Megan</role>
+    <type>Actor</type>
+    <tmdbid>1516729</tmdbid>
+    <imdbid>nm1410005</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Greene</name>
+    <role>Reggie</role>
+    <type>Actor</type>
+    <tmdbid>2522236</tmdbid>
+    <imdbid>nm1511652</imdbid>
+  </actor>
+  <actor>
+    <name>Quinn Hemphill</name>
+    <role>Callie</role>
+    <type>Actor</type>
+    <tmdbid>2576032</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Russo</name>
+    <role>Lintz</role>
+    <type>Actor</type>
+    <tmdbid>1628383</tmdbid>
+  </actor>
+  <actor>
+    <name>Karter Reese Newsome</name>
+    <role>Little Marcus</role>
+    <type>Actor</type>
+    <tmdbid>4758268</tmdbid>
+  </actor>
+  <actor>
+    <name>Levy Tran</name>
+    <role>Wolf</role>
+    <type>Actor</type>
+    <tmdbid>1578220</tmdbid>
+    <imdbid>nm6136319</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Devon Johnson</name>
+    <role>Russ Brown</role>
+    <type>Actor</type>
+    <tmdbid>1763910</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff J.J. Authors</name>
+    <role>Felix the Drunk Pilot</role>
+    <type>Actor</type>
+    <tmdbid>64900</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Verdi</name>
+    <role>Hijacked Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1768009</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Sean Garland</name>
+    <role>The Banker</role>
+    <type>Actor</type>
+    <tmdbid>2089936</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerri Tubbs</name>
+    <role>Banker's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1502198</tmdbid>
+  </actor>
+  <actor>
+    <name>Jewelianna Ramos-Ortiz</name>
+    <role>Banker's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>4199450</tmdbid>
+  </actor>
+  <actor>
+    <name>Enoch King</name>
+    <role>Convenience Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>80779</tmdbid>
+  </actor>
+  <actor>
+    <name>James Lee Thomas</name>
+    <role>Thief</role>
+    <type>Actor</type>
+    <tmdbid>4758270</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Shetty</name>
+    <role>Police Chaplain</role>
+    <type>Actor</type>
+    <tmdbid>3081264</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Davis</name>
+    <role>Grice</role>
+    <type>Actor</type>
+    <tmdbid>58733</tmdbid>
+    <imdbid>nm1151921</imdbid>
+  </actor>
+  <actor>
+    <name>Ahmed Lucan</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1615594</tmdbid>
+  </actor>
+  <actor>
+    <name>Bria Brimmer</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2721623</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Pires</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>2729674</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Hesse</name>
+    <role>Trailer Park Redneck</role>
+    <type>Actor</type>
+    <tmdbid>3568034</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Malinowski</name>
+    <role>Trailer Park Redneck</role>
+    <type>Actor</type>
+    <tmdbid>1684351</tmdbid>
+    <imdbid>nm3336891</imdbid>
+  </actor>
+  <actor>
+    <name>Blanca Goodfriend</name>
+    <role>Woman in Car</role>
+    <type>Actor</type>
+    <tmdbid>4646847</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmin Lawrence</name>
+    <role>Reporter Johnson</role>
+    <type>Actor</type>
+    <tmdbid>2122049</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriana Sheri</name>
+    <role>Reporter Cobb</role>
+    <type>Actor</type>
+    <tmdbid>4758277</tmdbid>
+  </actor>
+  <actor>
+    <name>Joyner Lucas</name>
+    <role>Gang A Leader</role>
+    <type>Actor</type>
+    <tmdbid>4433125</tmdbid>
+  </actor>
+  <actor>
+    <name>Marybel Rodriguez</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>4758280</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Carter</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>4758281</tmdbid>
+  </actor>
+  <actor>
+    <name>Dwight Turner</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>1300075</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Kanell</name>
+    <role>Nicole</role>
+    <type>Actor</type>
+    <tmdbid>1303873</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Mars</name>
+    <role>Analyst</role>
+    <type>Actor</type>
+    <tmdbid>109422</tmdbid>
+    <imdbid>nm1038783</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Hernandez</name>
+    <role>Sniper</role>
+    <type>Actor</type>
+    <tmdbid>1813752</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bay</name>
+    <role>Porsche Driver</role>
+    <type>Actor</type>
+    <tmdbid>865</tmdbid>
+    <imdbid>nm0000881</imdbid>
+  </actor>
+  <actor>
+    <name>Khaby Lame</name>
+    <role>Man on the Street (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4512499</tmdbid>
+  </actor>
+  <actor>
+    <name>Adil El Arbi</name>
+    <role>Manny's Goon #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1399841</tmdbid>
+    <imdbid>nm4816401</imdbid>
+  </actor>
+  <actor>
+    <name>Bilall Fallah</name>
+    <role>Many's Goon #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1399842</tmdbid>
+    <imdbid>nm4263190</imdbid>
+  </actor>
+  <director tmdbid="1399841" imdbid="nm4816401">Adil El Arbi</director>
+  <director tmdbid="1399842" imdbid="nm4263190">Bilall Fallah</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LOZqqEXURzg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ULlFzofpV6w</trailer>
+  <rating>7</rating>
+  <year>2024</year>
+  <sorttitle>Bad Boys: Ride or Die</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4919268</imdbid>
+  <tmdbid>573435</tmdbid>
+  <premiered>2024-06-05</premiered>
+  <releasedate>2024-06-05</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>116</runtime>
+  <tagline>Los mejores de Miami son ahora los más buscados.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <genre>Comedia</genre>
+  <studio>Westbrook</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Don Simpson/Jerry Bruckheimer Films</studio>
+  <studio>2.0 Entertainment</studio>
+  <set tmdbcolid="14890">
+    <name>Dos policías rebeldes - Colección</name>
+  </set>
+  <uniqueid type="tmdb">573435</uniqueid>
+  <uniqueid type="imdb">tt4919268</uniqueid>
+  <id>tt4919268</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149739</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6958</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129808</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>lv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>bg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>et</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>lt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras pelearse con unos productores que no entienden nada de su trabajo, Marc, un excéntrico director de cine, huye con su película para terminarla. Acompañado de su fiel equipo, se esconde en un pequeño pueblo rural de Francia con su tía Denise, su mejor consejera. Allí, su creatividad se manifiesta en un millón de ideas que lo sumergen en un extraño caos. Consumido por su neurosis, Marc comienza a escribir “El libro de las soluciones”, una guía de consejos prácticos que bien podría tener la respuesta a todos sus problemas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-29 11:38:59</dateadded>
+  <title>El libro de las soluciones</title>
+  <originaltitle>Le Livre des solutions</originaltitle>
+  <actor>
+    <name>Pierre Niney</name>
+    <role>Marc</role>
+    <type>Actor</type>
+    <tmdbid>145121</tmdbid>
+    <imdbid>nm2582755</imdbid>
+  </actor>
+  <actor>
+    <name>Blanche Gardin</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>588159</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Rutherford</name>
+    <role>Gabrielle</role>
+    <type>Actor</type>
+    <tmdbid>1033745</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Wallach</name>
+    <role>Sylvia</role>
+    <type>Actor</type>
+    <tmdbid>931296</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Elbaz</name>
+    <role>Mathias</role>
+    <type>Actor</type>
+    <tmdbid>54918</tmdbid>
+    <imdbid>nm0252979</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Valadié</name>
+    <type>Actor</type>
+    <tmdbid>274746</tmdbid>
+  </actor>
+  <actor>
+    <name>Françoise Lebrun</name>
+    <role>Denise</role>
+    <type>Actor</type>
+    <tmdbid>236639</tmdbid>
+    <imdbid>nm0495950</imdbid>
+  </actor>
+  <actor>
+    <name>Mourad Boudaoud</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>1178446</tmdbid>
+  </actor>
+  <actor>
+    <name>Sting</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>982</tmdbid>
+  </actor>
+  <director tmdbid="201" imdbid="nm0327273">Michel Gondry</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yZFK2UhRZNs</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>libro de las soluciones</sorttitle>
+  <imdbid>tt15732890</imdbid>
+  <tmdbid>888003</tmdbid>
+  <premiered>2023-09-13</premiered>
+  <releasedate>2023-09-13</releasedate>
+  <runtime>103</runtime>
+  <country>France</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Partizan</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <uniqueid type="imdb">tt15732890</uniqueid>
+  <uniqueid type="tmdb">888003</uniqueid>
+  <id>tt15732890</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1099651</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6176</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128061</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Se centra en las responsabilidades y decisiones intensamente dramáticas y de alto riesgo que enfrentó Golda Meir, también conocida como la 'Dama de Hierro de Israel' durante la Guerra de Yom Kippur.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-22 09:37:57</dateadded>
+  <title>Golda</title>
+  <originaltitle>Golda</originaltitle>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Golda Meir</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+    <imdbid>nm0000545</imdbid>
+    <tvdbid>296967</tvdbid>
+  </actor>
+  <actor>
+    <name>Camille Cottin</name>
+    <role>Lou Kaddar</role>
+    <type>Actor</type>
+    <tmdbid>1348474</tmdbid>
+    <tvdbid>562031</tvdbid>
+  </actor>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>Henry Kissinger</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Lior Ashkenazi</name>
+    <role>David 'Dado' Elazar</role>
+    <type>Actor</type>
+    <tmdbid>164</tmdbid>
+    <imdbid>nm0038988</imdbid>
+  </actor>
+  <actor>
+    <name>Rami Heuberger</name>
+    <role>Moshe Dayan</role>
+    <type>Actor</type>
+    <tmdbid>86359</tmdbid>
+  </actor>
+  <actor>
+    <name>Rotem Keinan</name>
+    <role>Zvi Zamir</role>
+    <type>Actor</type>
+    <tmdbid>1158500</tmdbid>
+    <imdbid>nm4440460</imdbid>
+    <tvdbid>502024</tvdbid>
+  </actor>
+  <actor>
+    <name>Dvir Benedek</name>
+    <role>Eli Zeira</role>
+    <type>Actor</type>
+    <tmdbid>235132</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellie Piercy</name>
+    <role>Shir Shapiro</role>
+    <type>Actor</type>
+    <tmdbid>2633456</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Goodman</name>
+    <role>Chairman Agranat</role>
+    <type>Actor</type>
+    <tmdbid>7030</tmdbid>
+    <imdbid>nm0329094</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Stoppard</name>
+    <role>Benny Peled</role>
+    <type>Actor</type>
+    <tmdbid>6640</tmdbid>
+    <imdbid>nm0832380</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Mafham</name>
+    <role>Haim Bar-Lev</role>
+    <type>Actor</type>
+    <tmdbid>109874</tmdbid>
+  </actor>
+  <actor>
+    <name>Ohad Knoller</name>
+    <role>Ariel Sharon</role>
+    <type>Actor</type>
+    <tmdbid>82097</tmdbid>
+    <imdbid>nm0461324</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Davies</name>
+    <role>Miss Epstein</role>
+    <type>Actor</type>
+    <tmdbid>1232063</tmdbid>
+    <imdbid>nm0203696</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Fleischmann</name>
+    <role>Minister Uri</role>
+    <type>Actor</type>
+    <tmdbid>1470134</tmdbid>
+    <imdbid>nm2855554</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Ben Zenou</name>
+    <role>Avner Shalev</role>
+    <type>Actor</type>
+    <tmdbid>1379267</tmdbid>
+    <imdbid>nm2020356</imdbid>
+  </actor>
+  <actor>
+    <name>Muneesh Sharma</name>
+    <role>Israeli Army Officer</role>
+    <type>Actor</type>
+    <tmdbid>3652872</tmdbid>
+  </actor>
+  <actor>
+    <name>Kit Rakusen</name>
+    <role>Gideon Meir</role>
+    <type>Actor</type>
+    <tmdbid>3313929</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Matin</name>
+    <role>Yael</role>
+    <type>Actor</type>
+    <tmdbid>3652876</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Brody</name>
+    <role>Girl Playing Piano</role>
+    <type>Actor</type>
+    <tmdbid>2952051</tmdbid>
+  </actor>
+  <actor>
+    <name>Sumit Chakravarti</name>
+    <role>Isreali Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1768967</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Franks</name>
+    <role>Israeli Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3652881</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Shoubber</name>
+    <role>Member of Israel Agranat Commission</role>
+    <type>Actor</type>
+    <tmdbid>2766053</tmdbid>
+  </actor>
+  <actor>
+    <name>Zed Josef</name>
+    <role>Adam Snir</role>
+    <type>Actor</type>
+    <tmdbid>2274954</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime Ray Newman</name>
+    <role>Henry Kissinger's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>109151</tmdbid>
+    <imdbid>nm0628120</imdbid>
+    <tvdbid>278862</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Caplan</name>
+    <type>Actor</type>
+    <tmdbid>203581</tmdbid>
+    <imdbid>nm0135196</imdbid>
+    <tvdbid>373732</tvdbid>
+  </actor>
+  <director tmdbid="1119247">Guy Nattiv</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wK_dcNyaRsQ</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Golda</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt14454876</imdbid>
+  <tmdbid>899524</tmdbid>
+  <premiered>2023-03-30</premiered>
+  <releasedate>2023-03-30</releasedate>
+  <criticrating>52</criticrating>
+  <runtime>100</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>ShivHans Pictures</studio>
+  <studio>Qwerty Films</studio>
+  <studio>Maven Screen Media</studio>
+  <studio>Bleecker Street</studio>
+  <studio>New Native Pictures</studio>
+  <studio>Embankment Films</studio>
+  <studio>Big Hat Stories</studio>
+  <studio>Big Entrance</studio>
+  <studio>Hianlo Films</studio>
+  <uniqueid type="imdb">tt14454876</uniqueid>
+  <uniqueid type="tmdb">899524</uniqueid>
+  <id>tt14454876</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1109369</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>13:7</aspect>
+        <aspectratio>13:7</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6024</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

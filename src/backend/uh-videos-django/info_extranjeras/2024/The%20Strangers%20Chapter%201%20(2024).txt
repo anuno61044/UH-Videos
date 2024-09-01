@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja joven tiene un viaje para tener un nuevo comienzo, desafortunadamente no tienen otra oportunidad que detenerse en un AirBnb aislado en Oregón. Una noche de terror contra 3 desconocidos enmascarados se avecina.]]></plot>
+  <outline><![CDATA[They don't need a reason.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-11 10:43:23</dateadded>
+  <title>The Strangers: Chapter 1</title>
+  <originaltitle>The Strangers: Chapter 1</originaltitle>
+  <actor>
+    <name>Madelaine Petsch</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>1592855</tmdbid>
+    <imdbid>nm6663708</imdbid>
+  </actor>
+  <actor>
+    <name>Froy Gutierrez</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tmdbid>1798797</tmdbid>
+    <tvdbid>583802</tvdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Basso</name>
+    <role>Gregory</role>
+    <type>Actor</type>
+    <tmdbid>222122</tmdbid>
+    <imdbid>nm2773059</imdbid>
+    <tvdbid>454530</tvdbid>
+  </actor>
+  <actor>
+    <name>Ema Horvath</name>
+    <role>Shelly</role>
+    <type>Actor</type>
+    <tvdbid>8814151</tvdbid>
+    <tmdbid>1921268</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Brake</name>
+    <role>Sheriff Rotter</role>
+    <type>Actor</type>
+    <tmdbid>3901</tmdbid>
+    <imdbid>nm0104114</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Shenton</name>
+    <role>Debbie</role>
+    <type>Actor</type>
+    <tmdbid>1076119</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Bruccoleri</name>
+    <role>Jasmine</role>
+    <type>Actor</type>
+    <tvdbid>7998486</tvdbid>
+    <tmdbid>3250136</tmdbid>
+  </actor>
+  <actor>
+    <name>George Young</name>
+    <role>Howard</role>
+    <type>Actor</type>
+    <tmdbid>1622199</tmdbid>
+  </actor>
+  <actor>
+    <name>Janis Ahern</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>1405269</tmdbid>
+    <imdbid>nm4273260</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Leandro</name>
+    <role>Deputy Walters</role>
+    <type>Actor</type>
+    <tmdbid>3188261</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Brown</name>
+    <role>Jeff Morell</role>
+    <type>Actor</type>
+    <tmdbid>1228864</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Cartwright</name>
+    <role>Rudy</role>
+    <type>Actor</type>
+    <tmdbid>1058080</tmdbid>
+    <imdbid>nm1408455</imdbid>
+  </actor>
+  <actor>
+    <name>Florian Clare</name>
+    <role>Chris Sampson</role>
+    <type>Actor</type>
+    <tmdbid>4067293</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Yekinni</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>1627085</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecka Johnston</name>
+    <role>Lucy</role>
+    <type>Actor</type>
+    <tmdbid>2180302</tmdbid>
+  </actor>
+  <actor>
+    <name>Stevee Davies</name>
+    <role>Dougie</role>
+    <type>Actor</type>
+    <tmdbid>1278601</tmdbid>
+    <imdbid>nm3482517</imdbid>
+  </actor>
+  <actor>
+    <name>Brooke Lena Johnson</name>
+    <role>Danica</role>
+    <type>Actor</type>
+    <tmdbid>4067297</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Law</name>
+    <role>EMT Driver</role>
+    <type>Actor</type>
+    <tmdbid>2140794</tmdbid>
+    <imdbid>nm7395686</imdbid>
+  </actor>
+  <actor>
+    <name>Rafaella Biscayn</name>
+    <role>Eden</role>
+    <type>Actor</type>
+    <tmdbid>4067298</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Sandstorm</name>
+    <role>Neil</role>
+    <type>Actor</type>
+    <tmdbid>4067300</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Freedland</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>2615696</tmdbid>
+  </actor>
+  <actor>
+    <name>J.R. Esposito</name>
+    <role>Dr. Tate</role>
+    <type>Actor</type>
+    <tmdbid>1453290</tmdbid>
+  </actor>
+  <actor>
+    <name>Milo Callaghan</name>
+    <role>Wayne</role>
+    <type>Actor</type>
+    <tmdbid>2871317</tmdbid>
+  </actor>
+  <actor>
+    <name>Matus Lajcak</name>
+    <role>Scarecrow</role>
+    <type>Actor</type>
+    <tmdbid>4718330</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Kreutzota</name>
+    <role>Dollface</role>
+    <type>Actor</type>
+    <tmdbid>4718331</tmdbid>
+  </actor>
+  <actor>
+    <name>Letizia Fabbri</name>
+    <role>Pin-Up Girl</role>
+    <type>Actor</type>
+    <tmdbid>4718333</tmdbid>
+  </actor>
+  <director tmdbid="16938" imdbid="nm0001317">Renny Harlin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3pZUQmZdOi4</trailer>
+  <rating>4.7</rating>
+  <year>2024</year>
+  <sorttitle>Strangers: Chapter 1</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt22050754</imdbid>
+  <tmdbid>1010600</tmdbid>
+  <premiered>2024-05-15</premiered>
+  <releasedate>2024-05-15</releasedate>
+  <criticrating>22</criticrating>
+  <runtime>91</runtime>
+  <tagline>They don't need a reason.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Fifth Element Productions</studio>
+  <studio>Sherbone Media</studio>
+  <studio>Lipsync Productions</studio>
+  <studio>Stream Media</studio>
+  <set tmdbcolid="1172926">
+    <name>The Strangers (Remake) Collection</name>
+  </set>
+  <uniqueid type="imdb">tt22050754</uniqueid>
+  <uniqueid type="tmdb">1010600</uniqueid>
+  <id>tt22050754</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1221047</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5470</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ethan Hunt (Tom Cruise) y la IMF emprenden la misión más peligrosa a la que nunca se han enfrentado: rastrear una nueva y aterradora arma que amenaza a toda la humanidad antes de que caiga en las manos de un enemigo todopoderoso y misterioso.]]></plot>
+  <outline><![CDATA[Todos compartimos el mismo destino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 12:24:08</dateadded>
+  <title>Misión: Imposible - Sentencia mortal parte uno</title>
+  <originaltitle>Mission: Impossible - Dead Reckoning Part One</originaltitle>
+  <actor>
+    <name>Tom Cruise</name>
+    <role>Ethan Hunt</role>
+    <type>Actor</type>
+    <tmdbid>500</tmdbid>
+    <imdbid>nm0000129</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley Atwell</name>
+    <role>Grace</role>
+    <type>Actor</type>
+    <tmdbid>39459</tmdbid>
+    <imdbid>nm2017943</imdbid>
+    <tvdbid>327500</tvdbid>
+  </actor>
+  <actor>
+    <name>Ving Rhames</name>
+    <role>Luther Stickell</role>
+    <type>Actor</type>
+    <tmdbid>10182</tmdbid>
+    <imdbid>nm0000609</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Pegg</name>
+    <role>Benji Dunn</role>
+    <type>Actor</type>
+    <tmdbid>11108</tmdbid>
+    <imdbid>nm0670408</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ferguson</name>
+    <role>Ilsa Faust</role>
+    <type>Actor</type>
+    <tmdbid>933238</tmdbid>
+    <imdbid>nm0272581</imdbid>
+    <tvdbid>295149</tvdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Kirby</name>
+    <role>The White Widow</role>
+    <type>Actor</type>
+    <tmdbid>556356</tmdbid>
+    <imdbid>nm3948952</imdbid>
+    <tvdbid>403805</tvdbid>
+  </actor>
+  <actor>
+    <name>Esai Morales</name>
+    <role>Gabriel</role>
+    <type>Actor</type>
+    <tmdbid>65344</tmdbid>
+    <imdbid>nm0005246</imdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <role>Paris</role>
+    <type>Actor</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Czerny</name>
+    <role>Kittridge</role>
+    <type>Actor</type>
+    <tmdbid>15319</tmdbid>
+    <imdbid>nm0001089</imdbid>
+    <tvdbid>297872</tvdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Briggs</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+    <tvdbid>275852</tvdbid>
+  </actor>
+  <actor>
+    <name>Greg Tarzan Davis</name>
+    <role>Degas</role>
+    <type>Actor</type>
+    <tmdbid>2080646</tmdbid>
+  </actor>
+  <actor>
+    <name>Frederick Schmidt</name>
+    <role>Zola</role>
+    <type>Actor</type>
+    <tmdbid>1312122</tmdbid>
+    <imdbid>nm5520750</imdbid>
+  </actor>
+  <actor>
+    <name>Mariela Garriga</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>1729881</tmdbid>
+  </actor>
+  <actor>
+    <name>Cary Elwes</name>
+    <role>Denlinger</role>
+    <type>Actor</type>
+    <tmdbid>2130</tmdbid>
+    <imdbid>nm0000144</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Parnell</name>
+    <role>NRO</role>
+    <type>Actor</type>
+    <tmdbid>124112</tmdbid>
+    <imdbid>nm0663174</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>NSA</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Indira Varma</name>
+    <role>DIA</role>
+    <type>Actor</type>
+    <tmdbid>30430</tmdbid>
+    <imdbid>nm0890055</imdbid>
+    <tvdbid>247877</tvdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>JSOC</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+    <imdbid>nm3008739</imdbid>
+    <tvdbid>300914</tvdbid>
+  </actor>
+  <actor>
+    <name>Marcello Walton</name>
+    <role>Masked Adjutant</role>
+    <type>Actor</type>
+    <tmdbid>1513012</tmdbid>
+    <imdbid>nm0544903</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Law</name>
+    <role>Adjutant</role>
+    <type>Actor</type>
+    <tmdbid>2140794</tmdbid>
+    <imdbid>nm7395686</imdbid>
+  </actor>
+  <actor>
+    <name>Lincoln Conway</name>
+    <role>Adjutant</role>
+    <type>Actor</type>
+    <tmdbid>4003131</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex James-Phelps</name>
+    <role>India Zulu 254</role>
+    <type>Actor</type>
+    <tmdbid>1817398</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcin Dorociński</name>
+    <role>Captain</role>
+    <type>Actor</type>
+    <tmdbid>591295</tmdbid>
+    <imdbid>nm0233949</imdbid>
+  </actor>
+  <actor>
+    <name>Ivan Ivashkin</name>
+    <role>Executive Officer</role>
+    <type>Actor</type>
+    <tmdbid>1983019</tmdbid>
+  </actor>
+  <actor>
+    <name>Zahary Baharov</name>
+    <role>Deck Officer</role>
+    <type>Actor</type>
+    <tmdbid>84197</tmdbid>
+    <imdbid>nm1707712</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Bouchet</name>
+    <role>Weapons Officer</role>
+    <type>Actor</type>
+    <tmdbid>101923</tmdbid>
+    <imdbid>nm1345685</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Barrett</name>
+    <role>Helmsman</role>
+    <type>Actor</type>
+    <tmdbid>2464714</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Vaughan</name>
+    <role>Chief Sonarman</role>
+    <type>Actor</type>
+    <tmdbid>4154753</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Kartal</name>
+    <role>Sonarman</role>
+    <type>Actor</type>
+    <tmdbid>2510263</tmdbid>
+  </actor>
+  <actor>
+    <name>Os Leanse</name>
+    <role>Sonarman</role>
+    <type>Actor</type>
+    <tmdbid>2342066</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Smith</name>
+    <role>Chief</role>
+    <type>Actor</type>
+    <tmdbid>2469472</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikolaos Brahimllari</name>
+    <role>Diving Officer</role>
+    <type>Actor</type>
+    <tmdbid>1565121</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Malecki</name>
+    <role>Stern Plane Officer</role>
+    <type>Actor</type>
+    <tmdbid>2235375</tmdbid>
+  </actor>
+  <actor>
+    <name>Damian Rozanek</name>
+    <role>Galley Seaman</role>
+    <type>Actor</type>
+    <tmdbid>4154755</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Bustorff</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>1355274</tmdbid>
+  </actor>
+  <actor>
+    <name>Ioachim Ciobanu</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>1554307</tmdbid>
+    <imdbid>nm2097479</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kosterin</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>4154757</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergej Lopouchanski</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>2958186</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Luckay</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>1562097</tmdbid>
+  </actor>
+  <actor>
+    <name>Jadran Malkovich</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>1349735</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikhail Safronov</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>240324</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Sciueref</name>
+    <role>The Buyer</role>
+    <type>Actor</type>
+    <tmdbid>1440871</tmdbid>
+    <imdbid>nm2544665</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Scarduzio</name>
+    <role>The Wrong Man</role>
+    <type>Actor</type>
+    <tmdbid>1917499</tmdbid>
+  </actor>
+  <actor>
+    <name>Barnaby Kay</name>
+    <role>Put-Pocket Passenger</role>
+    <type>Actor</type>
+    <tmdbid>73947</tmdbid>
+    <imdbid>nm0442997</imdbid>
+  </actor>
+  <actor>
+    <name>Gloria Obianyo</name>
+    <role>Osprey Agent</role>
+    <type>Actor</type>
+    <tmdbid>1982903</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Brock</name>
+    <role>Osprey Agent</role>
+    <type>Actor</type>
+    <tmdbid>2303015</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaye Dinauto</name>
+    <role>Ticket Agent</role>
+    <type>Actor</type>
+    <tmdbid>4154761</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Blacklake</name>
+    <role>Foreign Agent</role>
+    <type>Actor</type>
+    <tmdbid>2755628</tmdbid>
+  </actor>
+  <actor>
+    <name>Arevinth V Sarma</name>
+    <role>Foreign Agent</role>
+    <type>Actor</type>
+    <tmdbid>2215752</tmdbid>
+  </actor>
+  <actor>
+    <name>Doroteya Toleva</name>
+    <role>Foreign Agent</role>
+    <type>Actor</type>
+    <tmdbid>2025258</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia Tong</name>
+    <role>Foreign Agent</role>
+    <type>Actor</type>
+    <tmdbid>4154765</tmdbid>
+  </actor>
+  <actor>
+    <name>Hersha Verity</name>
+    <role>Foreign Agent</role>
+    <type>Actor</type>
+    <tmdbid>3371372</tmdbid>
+  </actor>
+  <actor>
+    <name>Yennis Cheung</name>
+    <role>Airport Retail Employee</role>
+    <type>Actor</type>
+    <tmdbid>1574323</tmdbid>
+    <imdbid>nm2799182</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Vortler</name>
+    <role>Bounty Hunter</role>
+    <type>Actor</type>
+    <tmdbid>2332953</tmdbid>
+  </actor>
+  <actor>
+    <name>Faycal Attougui</name>
+    <role>Bounty Hunter</role>
+    <type>Actor</type>
+    <tmdbid>122279</tmdbid>
+    <imdbid>nm1424285</imdbid>
+  </actor>
+  <actor>
+    <name>Gaetano Bruno</name>
+    <role>Magistrate</role>
+    <type>Actor</type>
+    <tmdbid>35103</tmdbid>
+    <imdbid>nm1614523</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Sincini</name>
+    <role>Asst. Magistrate</role>
+    <type>Actor</type>
+    <tmdbid>2877901</tmdbid>
+  </actor>
+  <actor>
+    <name>Evita Ciri</name>
+    <role>Tourist</role>
+    <type>Actor</type>
+    <tmdbid>114474</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Anna Bartolini</name>
+    <role>Tourist</role>
+    <type>Actor</type>
+    <tmdbid>1377807</tmdbid>
+  </actor>
+  <actor>
+    <name>John Akanmu</name>
+    <role>Widow's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>2786176</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Lascari</name>
+    <role>Gala Security</role>
+    <type>Actor</type>
+    <tmdbid>1827847</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Rizzoni</name>
+    <role>Gala Security</role>
+    <type>Actor</type>
+    <tmdbid>2943182</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Wang</name>
+    <role>Gala Security</role>
+    <type>Actor</type>
+    <tmdbid>2160748</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Bridgman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2535099</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniella Carraturo</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4154768</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Collins</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4154769</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Dyce</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1867877</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Goodridge</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4154770</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Holland</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3520234</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Hulford</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4154771</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Jabbari</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2112276</tmdbid>
+  </actor>
+  <actor>
+    <name>Ira Mandela Siobhan</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1488474</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Tredrea</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3404764</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Westpfel</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4002392</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Wesley DeHaney</name>
+    <role>Luther Picture Double</role>
+    <type>Actor</type>
+    <tmdbid>2799140</tmdbid>
+    <imdbid>nm6973663</imdbid>
+  </actor>
+  <actor>
+    <name>Rocky Taylor</name>
+    <role>Orient Express Train Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>40740</tmdbid>
+  </actor>
+  <director tmdbid="9033" imdbid="nm0003160">Christopher McQuarrie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kYOw02V976s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XoDmKCZBeeI</trailer>
+  <rating>7.8</rating>
+  <year>2023</year>
+  <sorttitle>Mision: Imposible - Sentencia mortal parte uno</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9603212</imdbid>
+  <tmdbid>575264</tmdbid>
+  <premiered>2023-07-08</premiered>
+  <releasedate>2023-07-08</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>167</runtime>
+  <tagline>Todos compartimos el mismo destino.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Paramount</studio>
+  <studio>Skydance</studio>
+  <studio>TC Productions</studio>
+  <set tmdbcolid="87359">
+    <name>Misión imposible - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt9603212</uniqueid>
+  <uniqueid type="tmdb">575264</uniqueid>
+  <id>tt9603212</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>754374</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>166</duration>
+        <durationinseconds>10003</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando Sebastián le dice a su padre Salvo, un inmigrante italiano conservador, que va a casarse con su novia americana, Salvo insiste en pasar un fin de semana con los padres de ella.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-16 08:44:45</dateadded>
+  <title>Todo sobre mi padre</title>
+  <originaltitle>About My Father</originaltitle>
+  <actor>
+    <name>Sebastian Maniscalco</name>
+    <role>Sebastian</role>
+    <type>Actor</type>
+    <tmdbid>299743</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Salvo</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+    <tvdbid>311037</tvdbid>
+  </actor>
+  <actor>
+    <name>Leslie Bibb</name>
+    <role>Ellie</role>
+    <type>Actor</type>
+    <tmdbid>57451</tmdbid>
+    <imdbid>nm0004753</imdbid>
+    <tvdbid>306869</tvdbid>
+  </actor>
+  <actor>
+    <name>Anders Holm</name>
+    <role>Lucky Collins</role>
+    <type>Actor</type>
+    <tmdbid>521563</tmdbid>
+    <imdbid>nm2981082</imdbid>
+    <tvdbid>334111</tvdbid>
+  </actor>
+  <actor>
+    <name>David Rasche</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>33533</tmdbid>
+    <imdbid>nm0711058</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Dier</name>
+    <role>Doug Collins</role>
+    <type>Actor</type>
+    <tmdbid>110475</tmdbid>
+    <imdbid>nm2322192</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Cattrall</name>
+    <role>Tigger</role>
+    <type>Actor</type>
+    <tmdbid>2109</tmdbid>
+    <imdbid>nm0000326</imdbid>
+    <tvdbid>256880</tvdbid>
+  </actor>
+  <actor>
+    <name>Arielle Prepetit</name>
+    <role>Michelle</role>
+    <type>Actor</type>
+    <tmdbid>3469887</tmdbid>
+  </actor>
+  <actor>
+    <name>Adan Carrillo</name>
+    <role>Young Sebastian</role>
+    <type>Actor</type>
+    <tmdbid>3553524</tmdbid>
+  </actor>
+  <actor>
+    <name>Colby Shinn</name>
+    <role>Brett</role>
+    <type>Actor</type>
+    <tmdbid>4089929</tmdbid>
+  </actor>
+  <director tmdbid="1405645">Laura Terruso</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WFZk3K9iZmQ</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Todo sobre mi padre</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8373206</imdbid>
+  <tmdbid>829051</tmdbid>
+  <premiered>2023-05-25</premiered>
+  <releasedate>2023-05-25</releasedate>
+  <criticrating>36</criticrating>
+  <runtime>90</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Lionsgate</studio>
+  <studio>Depth of Field</studio>
+  <uniqueid type="imdb">tt8373206</uniqueid>
+  <uniqueid type="tmdb">829051</uniqueid>
+  <id>tt8373206</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1140618</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>16256:6783</aspect>
+        <aspectratio>16256:6783</aspectratio>
+        <framerate>23.975834</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5385</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

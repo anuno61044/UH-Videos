@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Henrietta y Junior cultivan un terreno apartado que ha pertenecido a la familia de Junior durante generaciones, pero su vida tranquila se ve alterada cuando un extraño no invitado aparece en su puerta con una propuesta sorprendente. ¿Arriesgarán su relación e identidad personal por tener la oportunidad de sobrevivir en un mundo nuevo?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-08 08:30:13</dateadded>
+  <title>Foe</title>
+  <originaltitle>Foe</originaltitle>
+  <actor>
+    <name>Saoirse Ronan</name>
+    <role>Hen</role>
+    <type>Actor</type>
+    <tmdbid>36592</tmdbid>
+    <imdbid>nm1519680</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Mescal</name>
+    <role>Junior</role>
+    <type>Actor</type>
+    <tmdbid>2326151</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Pierre</name>
+    <role>Terrence</role>
+    <type>Actor</type>
+    <tmdbid>1763709</tmdbid>
+    <imdbid>nm7543974</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Chodziesner</name>
+    <role>Formal Escort 1</role>
+    <type>Actor</type>
+    <tmdbid>3289239</tmdbid>
+  </actor>
+  <actor>
+    <name>William Freeman</name>
+    <role>Formal Escort 2</role>
+    <type>Actor</type>
+    <tmdbid>4304137</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalen Ong</name>
+    <role>Computer Technician 1</role>
+    <type>Actor</type>
+    <tmdbid>4365387</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Williams</name>
+    <role>Computer Technician 2</role>
+    <type>Actor</type>
+    <tmdbid>3814734</tmdbid>
+  </actor>
+  <actor>
+    <name>David Woods</name>
+    <role>VIP 1</role>
+    <type>Actor</type>
+    <tmdbid>2627234</tmdbid>
+  </actor>
+  <actor>
+    <name>Yesse Spence</name>
+    <role>VIP 2</role>
+    <type>Actor</type>
+    <tmdbid>1325837</tmdbid>
+    <imdbid>nm1452579</imdbid>
+  </actor>
+  <actor>
+    <name>Shamita Sivabalan</name>
+    <role>VIP 3</role>
+    <type>Actor</type>
+    <tmdbid>3088222</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Coleman</name>
+    <role>Runner</role>
+    <type>Actor</type>
+    <tmdbid>4304136</tmdbid>
+  </actor>
+  <director tmdbid="1173102">Garth Davis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dPt-4jQELIw</trailer>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Foe</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8258502</imdbid>
+  <tmdbid>760245</tmdbid>
+  <premiered>2023-10-06</premiered>
+  <releasedate>2023-10-06</releasedate>
+  <runtime>110</runtime>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Romance</genre>
+  <studio>I Am That</studio>
+  <studio>See-Saw Films</studio>
+  <studio>Anonymous Content</studio>
+  <uniqueid type="imdb">tt8258502</uniqueid>
+  <uniqueid type="tmdb">760245</uniqueid>
+  <id>tt8258502</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>910922</bitrate>
+        <width>1280</width>
+        <height>604</height>
+        <aspect>16256:7701</aspect>
+        <aspectratio>16256:7701</aspectratio>
+        <framerate>23.97587</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6614</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

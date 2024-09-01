@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lola, la moderna y caótica abuela de Edgar y Robert, se hizo cargo de ellos tras la muerte de su hija unos años atrás. Los tres viven en una modesta casa del extrarradio de Barcelona, y nada les hace sospechar que su tranquila vida está a punto de cambiar drásticamente. Lola ha entrado en un proceso avanzado de Alzheimer y los niños, que no están dispuestos a que les separen y acabar en un lugar de acogida, se harán cargo de ella con gran ingenio y desbordante fantasía, ocultando su enfermedad. Para ello tendrán que enfrentarse, al igual que Robert en sus competiciones de atletismo, a más de 3.000 obstáculos.]]></plot>
+  <outline><![CDATA[Una Película de Agustí Villaronga]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-21 17:37:40</dateadded>
+  <title>Loli Tormenta</title>
+  <originaltitle>Loli Tormenta</originaltitle>
+  <actor>
+    <name>Susi Sánchez</name>
+    <type>Actor</type>
+    <tmdbid>101401</tmdbid>
+    <imdbid>nm0844845</imdbid>
+    <tvdbid>493591</tvdbid>
+  </actor>
+  <actor>
+    <name>Celso Bugallo</name>
+    <type>Actor</type>
+    <tmdbid>16870</tmdbid>
+    <imdbid>nm0119438</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Esteso</name>
+    <type>Actor</type>
+    <tmdbid>99812</tmdbid>
+    <imdbid>nm0261681</imdbid>
+  </actor>
+  <actor>
+    <name>Meteora Fontana</name>
+    <type>Actor</type>
+    <tmdbid>2883140</tmdbid>
+  </actor>
+  <actor>
+    <name>Blanca Star Olivera</name>
+    <type>Actor</type>
+    <tmdbid>3886170</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Anglada Sellarès</name>
+    <type>Actor</type>
+    <tmdbid>3886171</tmdbid>
+  </actor>
+  <actor>
+    <name>Karmen López Franco</name>
+    <type>Actor</type>
+    <tmdbid>3886172</tmdbid>
+  </actor>
+  <actor>
+    <name>Mor Ngom</name>
+    <type>Actor</type>
+    <tmdbid>3886174</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Gálvez</name>
+    <type>Actor</type>
+    <tmdbid>3886176</tmdbid>
+  </actor>
+  <director tmdbid="151162" imdbid="nm0898063">Agustí Villaronga</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jqjRk_4wY-M</trailer>
+  <rating>5.2</rating>
+  <year>2023</year>
+  <sorttitle>Loli Tormenta</sorttitle>
+  <imdbid>tt10602234</imdbid>
+  <tmdbid>1077399</tmdbid>
+  <premiered>2023-03-31</premiered>
+  <releasedate>2023-03-31</releasedate>
+  <runtime>94</runtime>
+  <tagline>Una Película de Agustí Villaronga</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>3000 obstáculos A.I.E.</studio>
+  <studio>Irusoin</studio>
+  <studio>Vilaüt Films</studio>
+  <uniqueid type="imdb">tt10602234</uniqueid>
+  <uniqueid type="tmdb">1077399</uniqueid>
+  <id>tt10602234</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1074236</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5669</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64702</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

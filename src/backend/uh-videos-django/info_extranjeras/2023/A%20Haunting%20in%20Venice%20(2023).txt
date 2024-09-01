@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la Venecia posterior a la Segunda Guerra Mundial, Poirot, ahora retirado y viviendo en su propio exilio, asiste a regañadientes a una sesión de espiritismo, cuando uno de los invitados es asesinado, por lo que depende del ex detective descubrir una vez más al asesino.]]></plot>
+  <outline><![CDATA[La muerte es solo el principio.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-30 15:13:33</dateadded>
+  <title>Misterio en Venecia</title>
+  <originaltitle>A Haunting in Venice</originaltitle>
+  <actor>
+    <name>Kenneth Branagh</name>
+    <role>Hercule Poirot</role>
+    <type>Actor</type>
+    <tmdbid>11181</tmdbid>
+    <imdbid>nm0000110</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Allen</name>
+    <role>Maxime Gerard</role>
+    <type>Actor</type>
+    <tmdbid>1562074</tmdbid>
+    <imdbid>nm6563873</imdbid>
+    <tvdbid>640604</tvdbid>
+  </actor>
+  <actor>
+    <name>Camille Cottin</name>
+    <role>Olga Seminoff</role>
+    <type>Actor</type>
+    <tmdbid>1348474</tmdbid>
+    <tvdbid>562031</tvdbid>
+  </actor>
+  <actor>
+    <name>Jamie Dornan</name>
+    <role>Dr Leslie Ferrier</role>
+    <type>Actor</type>
+    <tmdbid>1254583</tmdbid>
+    <imdbid>nm1946193</imdbid>
+    <tvdbid>331181</tvdbid>
+  </actor>
+  <actor>
+    <name>Tina Fey</name>
+    <role>Ariadne Oliver</role>
+    <type>Actor</type>
+    <tmdbid>56323</tmdbid>
+    <imdbid>nm0275486</imdbid>
+    <tvdbid>310596</tvdbid>
+  </actor>
+  <actor>
+    <name>Jude Hill</name>
+    <role>Leopold Ferrier</role>
+    <type>Actor</type>
+    <tmdbid>3232669</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Khan</name>
+    <role>Nicholas Holland</role>
+    <type>Actor</type>
+    <tmdbid>2104805</tmdbid>
+    <imdbid>nm9890433</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Laird</name>
+    <role>Desdemona Holland</role>
+    <type>Actor</type>
+    <tmdbid>2290611</tmdbid>
+    <tvdbid>8303140</tvdbid>
+  </actor>
+  <actor>
+    <name>Kelly Reilly</name>
+    <role>Rowena Drake</role>
+    <type>Actor</type>
+    <tmdbid>17521</tmdbid>
+    <imdbid>nm0717709</imdbid>
+  </actor>
+  <actor>
+    <name>Riccardo Scamarcio</name>
+    <role>Vitale Portfoglio</role>
+    <type>Actor</type>
+    <tmdbid>59270</tmdbid>
+    <imdbid>nm1249052</imdbid>
+    <tvdbid>614027</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Yeoh</name>
+    <role>Joyce Reynolds</role>
+    <type>Actor</type>
+    <tmdbid>1620</tmdbid>
+    <imdbid>nm0000706</imdbid>
+    <tvdbid>310641</tvdbid>
+  </actor>
+  <actor>
+    <name>Dylan Corbett-Bader</name>
+    <role>Baker</role>
+    <type>Actor</type>
+    <tmdbid>4213838</tmdbid>
+  </actor>
+  <actor>
+    <name>Amir El-Masry</name>
+    <role>Alessandro Longo</role>
+    <type>Actor</type>
+    <tmdbid>1739403</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Piloni</name>
+    <role>Vincenzo Di Stefano</role>
+    <type>Actor</type>
+    <tmdbid>4213839</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Acquaviva</name>
+    <role>Grocer</role>
+    <type>Actor</type>
+    <tmdbid>571427</tmdbid>
+  </actor>
+  <actor>
+    <name>David Menkin</name>
+    <role>Puppet Show MC</role>
+    <type>Actor</type>
+    <tmdbid>1242987</tmdbid>
+    <imdbid>nm0579696</imdbid>
+  </actor>
+  <actor>
+    <name>Yaw Nimako-Asameah</name>
+    <role>Child (Cookie Gobbler)</role>
+    <type>Actor</type>
+    <tmdbid>4213840</tmdbid>
+  </actor>
+  <actor>
+    <name>Clara Duczmal</name>
+    <role>Child (Crying Girl)</role>
+    <type>Actor</type>
+    <tmdbid>2408763</tmdbid>
+  </actor>
+  <actor>
+    <name>Rowan Robinson</name>
+    <role>Alicia Drake</role>
+    <type>Actor</type>
+    <tmdbid>4213841</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Harris</name>
+    <role>Child (Staircase 1)</role>
+    <type>Actor</type>
+    <tmdbid>4213842</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Villa-Muhammad</name>
+    <role>Child (Staircase 2)</role>
+    <type>Actor</type>
+    <tmdbid>3568065</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Ifediora</name>
+    <role>Sister Maria Felicitas</role>
+    <type>Actor</type>
+    <tmdbid>2946871</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Rae Tillotson</name>
+    <role>Alicia Drake (Young)</role>
+    <type>Actor</type>
+    <tmdbid>4213843</tmdbid>
+  </actor>
+  <actor>
+    <name>Winnie Soldi</name>
+    <role>Police Captain</role>
+    <type>Actor</type>
+    <tmdbid>3208072</tmdbid>
+  </actor>
+  <director tmdbid="11181" imdbid="nm0000110">Kenneth Branagh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kDGpcy91RQs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XJZEq8NMyaI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DNkbSr9Kir4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RgClnZlegjo</trailer>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>Misterio en Venecia</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt22687790</imdbid>
+  <tmdbid>945729</tmdbid>
+  <premiered>2023-09-13</premiered>
+  <releasedate>2023-09-13</releasedate>
+  <runtime>105</runtime>
+  <tagline>La muerte es solo el principio.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Scott Free Productions</studio>
+  <studio>The Mark Gordon Company</studio>
+  <studio>Genre Films</studio>
+  <studio>Agatha Christie Limited</studio>
+  <set tmdbcolid="735384">
+    <name>Hércules Poirot - Colección</name>
+  </set>
+  <set tmdbcolid="735384">
+    <name>Hércules Poirot (Kenneth Branagh) - Colección</name>
+  </set>
+  <set tmdbcolid="735384">
+    <name>Hercule Poirot (Kenneth Branagh) - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt22687790</uniqueid>
+  <uniqueid type="tmdb">945729</uniqueid>
+  <id>tt22687790</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1060482</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6308</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

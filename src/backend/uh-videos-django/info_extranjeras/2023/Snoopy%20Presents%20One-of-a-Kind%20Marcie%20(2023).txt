@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Marcia, introvertida, tranquila y de buen corazón, tiene un montón de ideas geniales para ayudar a sus amigos a alcanzar sus metas y resolver sus problemas. Pero cuando el mundo se da cuenta y la atención se centra en ella, compartir esas ideas se convierte en todo un reto.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:32:18</dateadded>
+  <title>Snoopy presenta: La única e inigualable Marcie</title>
+  <originaltitle>Snoopy Presents: One-of-a-Kind Marcie</originaltitle>
+  <actor>
+    <name>Arianna McDonald</name>
+    <role>Marcie (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4193704</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexi Perri</name>
+    <role>Peppermint Patty (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3329438</tmdbid>
+  </actor>
+  <actor>
+    <name>Etienne Kellici</name>
+    <role>Charlie Brown (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2375821</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonina Battrick</name>
+    <role>Carlin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3347394</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Leo</name>
+    <role>Lucy / Cry Baby Boobie / Tapiocca Pudding (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2327409</tmdbid>
+  </actor>
+  <actor>
+    <name>Wyatt White</name>
+    <role>Linus (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2327414</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Bellavance</name>
+    <role>Franklin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3329440</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucien Duncan-Reid</name>
+    <role>Pigpen (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3716163</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Nathan</name>
+    <role>Patty (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3114101</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Boyle</name>
+    <role>Violet (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1853439</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Misaljevic</name>
+    <role>Frieda (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2863703</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry McGurrin</name>
+    <role>Snoopy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1232771</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Tinkler</name>
+    <role>Woodstock (voice)</role>
+    <type>Actor</type>
+    <tmdbid>118814</tmdbid>
+    <imdbid>nm0863999</imdbid>
+  </actor>
+  <actor>
+    <name>Will Bhaneja</name>
+    <role>Shermy / Floyd (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3329442</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Reid</name>
+    <role>Harold Angel / Joe Richkid / Thibault / Larry (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2005750</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Mazeral</name>
+    <role>Jose Peterson (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2941470</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Mitchell</name>
+    <role>Ruby (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3543561</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Obasi</name>
+    <role>Milo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4193642</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Ross</name>
+    <role>Leland (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4193707</tmdbid>
+  </actor>
+  <director tmdbid="1223658">Raymond S. Persi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tjFP74OvxHc</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Snoopy presenta: La unica e inigualable Marcie</sorttitle>
+  <mpaa>G</mpaa>
+  <imdbid>tt27865284</imdbid>
+  <tmdbid>1128604</tmdbid>
+  <premiered>2023-08-17</premiered>
+  <releasedate>2023-08-17</releasedate>
+  <runtime>39</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Animación</genre>
+  <genre>Familia</genre>
+  <studio>WildBrain Studios</studio>
+  <studio>Charles M. Schulz Creative Associates</studio>
+  <uniqueid type="imdb">tt27865284</uniqueid>
+  <uniqueid type="tmdb">1128604</uniqueid>
+  <id>tt27865284</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150825</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>39</duration>
+        <durationinseconds>2343</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130410</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>te</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>et</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ta</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>bg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>lv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>lt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

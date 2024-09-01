@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un ladrón encantador y una banda de aventureros increíbles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen rematadamente mal cuando se topan con las personas equivocadas. Adaptación cinematográfica del primer juego de rol de la historia, publicado por primera vez en 1974.]]></plot>
+  <outline><![CDATA[¿Quién necesita héroes cuando tienes ladrones?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-04 09:19:30</dateadded>
+  <title>Dungeons &amp; Dragons: Honor entre ladrones</title>
+  <originaltitle>Dungeons &amp; Dragons: Honor Among Thieves</originaltitle>
+  <actor>
+    <name>Chris Pine</name>
+    <role>Edgin</role>
+    <type>Actor</type>
+    <tmdbid>62064</tmdbid>
+    <imdbid>nm1517976</imdbid>
+    <tvdbid>255166</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Holga</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Justice Smith</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>1029934</tmdbid>
+    <imdbid>nm6819854</imdbid>
+  </actor>
+  <actor>
+    <name>Sophia Lillis</name>
+    <role>Doric</role>
+    <type>Actor</type>
+    <tmdbid>1481238</tmdbid>
+    <imdbid>nm6096118</imdbid>
+    <tvdbid>624805</tvdbid>
+  </actor>
+  <actor>
+    <name>Hugh Grant</name>
+    <role>Forge</role>
+    <type>Actor</type>
+    <tmdbid>3291</tmdbid>
+    <imdbid>nm0000424</imdbid>
+  </actor>
+  <actor>
+    <name>Regé-Jean Page</name>
+    <role>Xenk</role>
+    <type>Actor</type>
+    <tmdbid>1628687</tmdbid>
+    <imdbid>nm2074546</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Coleman</name>
+    <role>Kira</role>
+    <type>Actor</type>
+    <tmdbid>1696016</tmdbid>
+    <imdbid>nm5668548</imdbid>
+  </actor>
+  <actor>
+    <name>Daisy Head</name>
+    <role>Sofina</role>
+    <type>Actor</type>
+    <tmdbid>1070886</tmdbid>
+    <tvdbid>523260</tvdbid>
+    <imdbid>nm1724742</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Hixon</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3655420</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Wilding</name>
+    <role>Gorg</role>
+    <type>Actor</type>
+    <tmdbid>25451</tmdbid>
+    <imdbid>nm1872855</imdbid>
+  </actor>
+  <actor>
+    <name>Will Irvine</name>
+    <role>Tobias</role>
+    <type>Actor</type>
+    <tmdbid>1945374</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Blane</name>
+    <role>Chancellor Anderton</role>
+    <type>Actor</type>
+    <tmdbid>133031</tmdbid>
+    <imdbid>nm0087432</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Larkin</name>
+    <role>Chancellor Norixius / Dragonborn Vagrant</role>
+    <type>Actor</type>
+    <tmdbid>567086</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Amankwah</name>
+    <role>Baroness Torbo</role>
+    <type>Actor</type>
+    <tmdbid>1776226</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Carnegie</name>
+    <role>Elvin High Harper</role>
+    <type>Actor</type>
+    <tmdbid>1665357</tmdbid>
+    <imdbid>nm1794801</imdbid>
+  </actor>
+  <actor>
+    <name>Georgia Landers</name>
+    <role>Zia</role>
+    <type>Actor</type>
+    <tmdbid>2631971</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Nell Huntley</name>
+    <role>Young Kira</role>
+    <type>Actor</type>
+    <tmdbid>4045442</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayton Grover</name>
+    <role>Chancellor Jarnathan</role>
+    <type>Actor</type>
+    <tmdbid>3155192</tmdbid>
+  </actor>
+  <actor>
+    <name>San Shella</name>
+    <role>Barkeep</role>
+    <type>Actor</type>
+    <tmdbid>203541</tmdbid>
+    <imdbid>nm1258483</imdbid>
+  </actor>
+  <actor>
+    <name>Barry O'Connor</name>
+    <role>Blackwood</role>
+    <type>Actor</type>
+    <tmdbid>1829857</tmdbid>
+  </actor>
+  <actor>
+    <name>Avril Murphy</name>
+    <role>Triboar Heckler</role>
+    <type>Actor</type>
+    <tmdbid>3596344</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Stoddart</name>
+    <role>Triboar Heckler</role>
+    <type>Actor</type>
+    <tmdbid>2293018</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Behan</name>
+    <role>Triboar Heckler</role>
+    <type>Actor</type>
+    <tmdbid>2193150</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Poole</name>
+    <role>Executioner</role>
+    <type>Actor</type>
+    <tmdbid>1210410</tmdbid>
+  </actor>
+  <actor>
+    <name>Natali Servat</name>
+    <role>Wood Elf Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>3037231</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Hanmore</name>
+    <role>Szass Tam</role>
+    <type>Actor</type>
+    <tmdbid>3076</tmdbid>
+    <imdbid>nm0360171</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Bazely</name>
+    <role>Porb Piradost</role>
+    <type>Actor</type>
+    <tmdbid>110075</tmdbid>
+    <imdbid>nm0063311</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Collard</name>
+    <role>Din Caldwell</role>
+    <type>Actor</type>
+    <tmdbid>997569</tmdbid>
+    <imdbid>nm0171674</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>Dralas</role>
+    <type>Actor</type>
+    <tmdbid>1033691</tmdbid>
+    <imdbid>nm3438484</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Marlamin</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley-Marie Axe</name>
+    <role>Gwinn</role>
+    <type>Actor</type>
+    <tmdbid>1137972</tmdbid>
+  </actor>
+  <actor>
+    <name>Darren Kent</name>
+    <role>'Yes' Corpse</role>
+    <type>Actor</type>
+    <tmdbid>1035907</tmdbid>
+    <imdbid>nm2662620</imdbid>
+  </actor>
+  <actor>
+    <name>Claude Starling</name>
+    <role>Toke Horgath Corpse / Sven Salafin Corpse</role>
+    <type>Actor</type>
+    <tmdbid>2363516</tmdbid>
+  </actor>
+  <actor>
+    <name>Richie Wilson</name>
+    <role>Toke Horgath</role>
+    <type>Actor</type>
+    <tmdbid>2272527</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Brodie</name>
+    <role>Stanhard Grimwulf</role>
+    <type>Actor</type>
+    <tmdbid>208470</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Lancaster</name>
+    <role>Stanhard Grimwulf Corpse / Ven Salafin Corpse</role>
+    <type>Actor</type>
+    <tmdbid>1786454</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Redmond</name>
+    <role>Sven Salafin</role>
+    <type>Actor</type>
+    <tmdbid>4185751</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Campbell</name>
+    <role>Ven Salafin</role>
+    <type>Actor</type>
+    <tmdbid>2143410</tmdbid>
+  </actor>
+  <actor>
+    <name>Bridie Mayfield</name>
+    <role>Tabaxi Mom</role>
+    <type>Actor</type>
+    <tmdbid>4172486</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Blynn</name>
+    <role>Dimitra Flass</role>
+    <type>Actor</type>
+    <tmdbid>2292713</tmdbid>
+    <imdbid>nm3242834</imdbid>
+  </actor>
+  <actor>
+    <name>Rylan Jackson</name>
+    <role>Young Xenk</role>
+    <type>Actor</type>
+    <tmdbid>3969912</tmdbid>
+  </actor>
+  <actor>
+    <name>Appy Pratt</name>
+    <role>Ishira</role>
+    <type>Actor</type>
+    <tmdbid>3419216</tmdbid>
+  </actor>
+  <actor>
+    <name>David Durham</name>
+    <role>Ethereal Plane Sorcerer</role>
+    <type>Actor</type>
+    <tmdbid>1052628</tmdbid>
+    <imdbid>nm3153187</imdbid>
+  </actor>
+  <actor>
+    <name>Harriet Barrow</name>
+    <role>Castle Guard</role>
+    <type>Actor</type>
+    <tmdbid>4045458</tmdbid>
+  </actor>
+  <actor>
+    <name>Justice Ritchie</name>
+    <role>Castle Guard</role>
+    <type>Actor</type>
+    <tmdbid>4045460</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Christopher</name>
+    <role>Driftwood Tavern Guard</role>
+    <type>Actor</type>
+    <tmdbid>2244163</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Hall</name>
+    <role>Dragonborn Contestant</role>
+    <type>Actor</type>
+    <tmdbid>3154786</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Nicole Ní Áinle</name>
+    <role>Wizard Contestant</role>
+    <type>Actor</type>
+    <tmdbid>3323800</tmdbid>
+  </actor>
+  <actor>
+    <name>Fionnlagh Allan</name>
+    <role>Barbarian Contestant</role>
+    <type>Actor</type>
+    <tmdbid>3969919</tmdbid>
+  </actor>
+  <actor>
+    <name>Edd Osmond</name>
+    <role>Cleric Contestant</role>
+    <type>Actor</type>
+    <tmdbid>3969918</tmdbid>
+  </actor>
+  <actor>
+    <name>Niamh McCormack</name>
+    <role>Rogue Contestant</role>
+    <type>Actor</type>
+    <tmdbid>2959201</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Simpson-Tidy</name>
+    <role>Ranger Contestant</role>
+    <type>Actor</type>
+    <tmdbid>2487721</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Bennett</name>
+    <role>Bobby</role>
+    <type>Actor</type>
+    <tmdbid>4045462</tmdbid>
+  </actor>
+  <actor>
+    <name>Moe Sasegbon</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>2752036</tmdbid>
+  </actor>
+  <actor>
+    <name>Trevor Kaneswaran</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>2669672</tmdbid>
+  </actor>
+  <actor>
+    <name>Emer McDaid</name>
+    <role>Sheila</role>
+    <type>Actor</type>
+    <tmdbid>4005380</tmdbid>
+  </actor>
+  <actor>
+    <name>Seamus O'Hara</name>
+    <role>Presto</role>
+    <type>Actor</type>
+    <tmdbid>1722119</tmdbid>
+  </actor>
+  <actor>
+    <name>Edgar Abram</name>
+    <role>Hank</role>
+    <type>Actor</type>
+    <tmdbid>2748019</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Morello</name>
+    <role>Kimathi Stormhollow</role>
+    <type>Actor</type>
+    <tmdbid>78299</tmdbid>
+    <imdbid>nm0603780</imdbid>
+  </actor>
+  <actor>
+    <name>R.F. Daley</name>
+    <role>Harbourmaster Jimn</role>
+    <type>Actor</type>
+    <tmdbid>1503929</tmdbid>
+  </actor>
+  <actor>
+    <name>Jude Hill</name>
+    <role>Boy in Stands</role>
+    <type>Actor</type>
+    <tmdbid>3232669</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Croxford</name>
+    <role>Lord Neverember</role>
+    <type>Actor</type>
+    <tmdbid>1665358</tmdbid>
+    <imdbid>nm0189858</imdbid>
+  </actor>
+  <actor>
+    <name>Rylee Neilly-Large</name>
+    <role>Young Forge</role>
+    <type>Actor</type>
+    <tmdbid>3969924</tmdbid>
+  </actor>
+  <actor>
+    <name>David Sobolov</name>
+    <role>Special Creature Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>164614</tmdbid>
+    <imdbid>nm0811875</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bottoms</name>
+    <role>Special Creature Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2242318</tmdbid>
+  </actor>
+  <actor>
+    <name>David Stanbra</name>
+    <role>Special Creature Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>83354</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Waterson</name>
+    <role>Special Creature Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1662744</tmdbid>
+  </actor>
+  <actor>
+    <name>John Francis Daley</name>
+    <role>Special Creature Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>52935</tmdbid>
+    <imdbid>nm0197855</imdbid>
+    <tvdbid>356850</tvdbid>
+  </actor>
+  <actor>
+    <name>KIm Chapman</name>
+    <role>Forge's Mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2206518</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Mason Duffy</name>
+    <role>Ramsay Windfall (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4045466</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Epstein</name>
+    <role>Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2061531</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Ramshaw</name>
+    <role>Labourer #5 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1374632</tmdbid>
+  </actor>
+  <director tmdbid="52935" imdbid="nm0197855" tvdbid="356850">John Francis Daley</director>
+  <director tmdbid="1236679" imdbid="nm0326246">Jonathan M. Goldstein</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zv-4ijjYv14</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q6nCZDpvA9k</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1PoK2WXQ-Wg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YgB324ne4Ek</trailer>
+  <rating>7.3</rating>
+  <year>2023</year>
+  <sorttitle>Dungeons &amp; Dragons: Honor entre ladrones</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2906216</imdbid>
+  <tmdbid>493529</tmdbid>
+  <premiered>2023-03-23</premiered>
+  <releasedate>2023-03-23</releasedate>
+  <runtime>136</runtime>
+  <tagline>¿Quién necesita héroes cuando tienes ladrones?</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <genre>Comedia</genre>
+  <studio>Entertainment One</studio>
+  <studio>Paramount</studio>
+  <set tmdbcolid="106498">
+    <name>Dragones y Mazmorras - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt2906216</uniqueid>
+  <uniqueid type="tmdb">493529</uniqueid>
+  <id>tt2906216</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>924310</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8157</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

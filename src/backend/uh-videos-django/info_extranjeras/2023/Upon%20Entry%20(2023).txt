@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Diego, urbanista venezolano, y Elena, bailarina de Barcelona, se mudan a Estados Unidos con sus visados aprobados para empezar una nueva vida. Su intención es impulsar sus carreras profesionales y formar una familia en "la tierra de las oportunidades". Pero al entrar en la zona de inmigración del aeropuerto de Nueva York son conducidos a la sala de inspección secundaria, donde serán sometidos a un desagradable proceso de inspección por los agentes de aduanas y a un interrogatorio psicológicamente extenuante, en un intento de descubrir si la pareja puede tener algo que ocultar.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-10 22:45:37</dateadded>
+  <title>Upon Entry</title>
+  <originaltitle>Upon Entry</originaltitle>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Diego</role>
+    <type>Actor</type>
+    <tmdbid>110424</tmdbid>
+    <imdbid>nm2975962</imdbid>
+    <tvdbid>514387</tvdbid>
+  </actor>
+  <actor>
+    <name>Bruna Cusí</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>1743949</tmdbid>
+    <imdbid>nm4264236</imdbid>
+    <tvdbid>467327</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Temple</name>
+    <type>Actor</type>
+    <tmdbid>567333</tmdbid>
+    <imdbid>nm0854676</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez</name>
+    <type>Actor</type>
+    <tmdbid>1443612</tmdbid>
+  </actor>
+  <actor>
+    <name>David Comrie</name>
+    <role>Policia sala</role>
+    <type>Actor</type>
+    <tmdbid>4328571</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Morgan</name>
+    <role>Policia finestreta</role>
+    <type>Actor</type>
+    <tmdbid>1559387</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerard Oms</name>
+    <role>Passatger</role>
+    <type>Actor</type>
+    <tmdbid>2628141</tmdbid>
+  </actor>
+  <actor>
+    <name>Nuris Blu</name>
+    <role>Policia cua</role>
+    <type>Actor</type>
+    <tmdbid>4328573</tmdbid>
+  </actor>
+  <director tmdbid="1950950">Juan Sebastián Vásquez</director>
+  <director tmdbid="3796828">Alejandro Rojas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hu1-Hxh-P9k</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Upon Entry</sorttitle>
+  <imdbid>tt22964884</imdbid>
+  <tmdbid>1051547</tmdbid>
+  <premiered>2023-06-16</premiered>
+  <releasedate>2023-06-16</releasedate>
+  <runtime>74</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Zabriskie Films</studio>
+  <studio>Basque Films</studio>
+  <studio>Sygnatia</studio>
+  <studio>ICEC</studio>
+  <studio>TV3</studio>
+  <uniqueid type="imdb">tt22964884</uniqueid>
+  <uniqueid type="tmdb">1051547</uniqueid>
+  <id>tt22964884</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>151793</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>73</duration>
+        <durationinseconds>4419</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63840</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

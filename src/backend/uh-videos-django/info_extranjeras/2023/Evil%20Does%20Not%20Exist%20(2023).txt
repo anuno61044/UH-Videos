@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Takumi y su hija, Hana, viven en un pueblo cercano a Tokyo. Su vida se verá profundamente afectada cuando descubren que cerca de su casa se va a construir un glamouroso camping para que los habitantes de la ciudad hagan escapadas cómodas a la naturaleza. Cuando dos representantes de una empresa de Tokio llegan al pueblo para celebrar una reunión, queda claro que el proyecto tendrá un impacto negativo en el suministro de agua local y provocará disturbios. Las intenciones desiguales de la agencia ponen en peligro tanto el equilibrio ecológico de la meseta como su forma de vida, con consecuencias que afectan profundamente la vida de Takumi.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-15 15:20:25</dateadded>
+  <title>El mal no existe (Evil Does Not Exist)</title>
+  <originaltitle>悪は存在しない</originaltitle>
+  <actor>
+    <name>Hitoshi Omika</name>
+    <role>Takumi</role>
+    <type>Actor</type>
+    <tmdbid>2975332</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryo Nishikawa</name>
+    <role>Hana</role>
+    <type>Actor</type>
+    <tmdbid>3389630</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryuji Kosaka</name>
+    <role>Takahashi</role>
+    <type>Actor</type>
+    <tmdbid>4353564</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayaka Shibutani</name>
+    <role>Mayuzumi</role>
+    <type>Actor</type>
+    <tmdbid>1669900</tmdbid>
+  </actor>
+  <actor>
+    <name>Hazuki Kikuchi</name>
+    <role>Sachi</role>
+    <type>Actor</type>
+    <tmdbid>1618434</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Miura</name>
+    <role>Kazuo</role>
+    <type>Actor</type>
+    <tmdbid>1669897</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoshinori Miyata</name>
+    <role>Horiguchi</role>
+    <type>Actor</type>
+    <tmdbid>2026946</tmdbid>
+  </actor>
+  <actor>
+    <name>Yûto Torii</name>
+    <role>Tatsuki</role>
+    <type>Actor</type>
+    <tmdbid>4693035</tmdbid>
+  </actor>
+  <actor>
+    <name>Takako Yamamura</name>
+    <role>Yoshiko</role>
+    <type>Actor</type>
+    <tmdbid>2519419</tmdbid>
+  </actor>
+  <actor>
+    <name>Takuma Nagao</name>
+    <role>Hasegawa</role>
+    <type>Actor</type>
+    <tmdbid>2345829</tmdbid>
+  </actor>
+  <actor>
+    <name>Taijiro Tamura</name>
+    <role>Mr. Suruga</role>
+    <type>Actor</type>
+    <tmdbid>2258204</tmdbid>
+  </actor>
+  <director tmdbid="1487492">Ryusuke Hamaguchi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PN3bBtwuqC4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zVY4lWfrbME</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>mal no existe (Evil Does Not Exist)</sorttitle>
+  <imdbid>tt28490044</imdbid>
+  <tmdbid>1156125</tmdbid>
+  <premiered>2023-12-06</premiered>
+  <releasedate>2023-12-06</releasedate>
+  <runtime>107</runtime>
+  <country>Japan</country>
+  <genre>Drama</genre>
+  <studio>Neopa</studio>
+  <studio>Fictive</studio>
+  <uniqueid type="imdb">tt28490044</uniqueid>
+  <uniqueid type="tmdb">1156125</uniqueid>
+  <id>tt28490044</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>865456</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6396</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

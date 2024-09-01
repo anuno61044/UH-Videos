@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Biopic sobre la leyenda del reggae.]]></plot>
+  <outline><![CDATA[Primero cambió la música, luego cambió el mundo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-20 09:26:51</dateadded>
+  <title>Bob Marley: One Love</title>
+  <originaltitle>Bob Marley: One Love</originaltitle>
+  <actor>
+    <name>Kingsley Ben-Adir</name>
+    <role>Bob Marley</role>
+    <type>Actor</type>
+    <tmdbid>1417352</tmdbid>
+    <imdbid>nm4667984</imdbid>
+    <tvdbid>464748</tvdbid>
+  </actor>
+  <actor>
+    <name>Lashana Lynch</name>
+    <role>Rita Marley</role>
+    <type>Actor</type>
+    <tmdbid>1360281</tmdbid>
+    <imdbid>nm2736476</imdbid>
+  </actor>
+  <actor>
+    <name>James Norton</name>
+    <role>Chris Blackwell</role>
+    <type>Actor</type>
+    <tmdbid>1205278</tmdbid>
+    <imdbid>nm3584268</imdbid>
+  </actor>
+  <actor>
+    <name>Tosin Cole</name>
+    <role>Tyrone Downie</role>
+    <type>Actor</type>
+    <tmdbid>1360152</tmdbid>
+    <imdbid>nm4108791</imdbid>
+    <tvdbid>497818</tvdbid>
+  </actor>
+  <actor>
+    <name>Micheal Ward</name>
+    <type>Actor</type>
+    <tmdbid>2380397</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Cilio</name>
+    <role>Norval Marley</role>
+    <type>Actor</type>
+    <tmdbid>1727194</tmdbid>
+  </actor>
+  <actor>
+    <name>Umi Myers</name>
+    <role>Cindy Breakspeare</role>
+    <type>Actor</type>
+    <tmdbid>4072446</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Welsh</name>
+    <role>Don Taylor</role>
+    <type>Actor</type>
+    <tmdbid>1108724</tmdbid>
+    <imdbid>nm3455151</imdbid>
+  </actor>
+  <actor>
+    <name>Nia Ashi</name>
+    <role>Teen Rita Marley</role>
+    <type>Actor</type>
+    <tmdbid>4550694</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Gandolfini</name>
+    <role>Howard Bloom</role>
+    <type>Actor</type>
+    <tmdbid>1900369</tmdbid>
+    <imdbid>nm6408859</imdbid>
+    <tvdbid>388134</tvdbid>
+  </actor>
+  <actor>
+    <name>Nadine Marshall</name>
+    <role>Cedella Malcolm</role>
+    <type>Actor</type>
+    <tmdbid>1064289</tmdbid>
+  </actor>
+  <actor>
+    <name>Sundra Oakley</name>
+    <role>Diane Jobson</role>
+    <type>Actor</type>
+    <tmdbid>1225886</tmdbid>
+    <imdbid>nm0643041</imdbid>
+  </actor>
+  <actor>
+    <name>Cornelius Grant</name>
+    <role>Bucky Marshall</role>
+    <type>Actor</type>
+    <tmdbid>4072447</tmdbid>
+  </actor>
+  <actor>
+    <name>Hector Donald Lewis</name>
+    <role>Carlton 'Carly' Barrett</role>
+    <type>Actor</type>
+    <tmdbid>4072448</tmdbid>
+  </actor>
+  <actor>
+    <name>Naomi Cowan</name>
+    <role>Marcia Griffiths</role>
+    <type>Actor</type>
+    <tmdbid>3776933</tmdbid>
+  </actor>
+  <actor>
+    <name>Nestor Aaron Absera</name>
+    <role>Australian Reporter</role>
+    <type>Actor</type>
+    <tmdbid>85208</tmdbid>
+  </actor>
+  <director tmdbid="1415665">Reinaldo Marcus Green</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JbCIechMaaw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3SsrBpIMOHg</trailer>
+  <rating>6.3</rating>
+  <year>2024</year>
+  <sorttitle>Bob Marley: One Love</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8521778</imdbid>
+  <tmdbid>802219</tmdbid>
+  <premiered>2024-02-14</premiered>
+  <releasedate>2024-02-14</releasedate>
+  <criticrating>43</criticrating>
+  <runtime>110</runtime>
+  <tagline>Primero cambió la música, luego cambió el mundo.</tagline>
+  <country>United States of America</country>
+  <genre>Música</genre>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>Paramount</studio>
+  <studio>Tuff Gong Pictures</studio>
+  <studio>Plan B Entertainment</studio>
+  <uniqueid type="imdb">tt8521778</uniqueid>
+  <uniqueid type="tmdb">802219</uniqueid>
+  <id>tt8521778</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1012669</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6590</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Estelle, una experimentada piloto de línea aérea, lleva una vida perfecta entre vuelos de larga distancia con su amado y protector esposo Guillaume. Un día, por casualidad, en el pasillo de un aeropuerto, se cruza con Ana, una fotógrafa con la que tuvo un apasionado romance veinte años antes. Estelle no sabe que este reencuentro la enviará a una espiral de pesadilla, volviendo su vida patas arriba y tornándola irracional.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-28 11:44:17</dateadded>
+  <title>Visions</title>
+  <originaltitle>Visions</originaltitle>
+  <actor>
+    <name>Diane Kruger</name>
+    <role>Estelle Vasseur</role>
+    <type>Actor</type>
+    <tmdbid>9824</tmdbid>
+    <imdbid>nm1208167</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Nieto</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>588636</tmdbid>
+    <imdbid>nm1910857</imdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Kassovitz</name>
+    <role>Guillaume</role>
+    <type>Actor</type>
+    <tmdbid>2406</tmdbid>
+    <imdbid>nm0440913</imdbid>
+    <tvdbid>508677</tvdbid>
+  </actor>
+  <actor>
+    <name>Amira Casar</name>
+    <role>Johana Van Damaker</role>
+    <type>Actor</type>
+    <tmdbid>20577</tmdbid>
+    <imdbid>nm0142972</imdbid>
+  </actor>
+  <actor>
+    <name>Aleksandra Yermak</name>
+    <role>Isa</role>
+    <type>Actor</type>
+    <tmdbid>582614</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrien Malvoisin</name>
+    <role>Le co-pilote</role>
+    <type>Actor</type>
+    <tmdbid>3858890</tmdbid>
+  </actor>
+  <actor>
+    <name>Yun Lai</name>
+    <role>Hiroshi</role>
+    <type>Actor</type>
+    <tmdbid>1651578</tmdbid>
+  </actor>
+  <actor>
+    <name>Grégory Fitoussi</name>
+    <role>Marco</role>
+    <type>Actor</type>
+    <tmdbid>1040850</tmdbid>
+    <imdbid>nm0280081</imdbid>
+  </actor>
+  <actor>
+    <name>Élodie Navarre</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>142443</tmdbid>
+    <imdbid>nm0622769</imdbid>
+    <tvdbid>7891397</tvdbid>
+  </actor>
+  <actor>
+    <name>Romain Fleury</name>
+    <role>Co-pilot</role>
+    <type>Actor</type>
+    <tmdbid>2883590</tmdbid>
+  </actor>
+  <actor>
+    <name>Paco Perez</name>
+    <role>Co-pilote 4</role>
+    <type>Actor</type>
+    <tmdbid>1649523</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Richard</name>
+    <role>Psychologue des Armées</role>
+    <type>Actor</type>
+    <tmdbid>6019</tmdbid>
+    <imdbid>nm0723865</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe Maymat</name>
+    <role>Médecin-chef des Armées</role>
+    <type>Actor</type>
+    <tmdbid>1683645</tmdbid>
+    <imdbid>nm0562721</imdbid>
+  </actor>
+  <director tmdbid="225407">Yann Gozlan</director>
+  <rating>5.716</rating>
+  <year>2023</year>
+  <sorttitle>Visions</sorttitle>
+  <imdbid>tt21950462</imdbid>
+  <tmdbid>818721</tmdbid>
+  <premiered>2023-09-06</premiered>
+  <releasedate>2023-09-06</releasedate>
+  <runtime>124</runtime>
+  <country>France</country>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>24 25 Films</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>SND</studio>
+  <studio>Orange Studio</studio>
+  <studio>Canal+</studio>
+  <uniqueid type="imdb">tt21950462</uniqueid>
+  <uniqueid type="tmdb">818721</uniqueid>
+  <id>tt21950462</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1099995</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7420</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

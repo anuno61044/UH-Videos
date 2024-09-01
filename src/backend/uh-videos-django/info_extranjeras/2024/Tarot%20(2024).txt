@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un grupo de amigos de la universidad comienzan a morir de maneras relacionadas con su fortuna después de que les lean los horóscopos.]]></plot>
+  <outline><![CDATA[Tu destino está en las cartas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-29 08:18:36</dateadded>
+  <title>Tarot</title>
+  <originaltitle>Tarot</originaltitle>
+  <actor>
+    <name>Harriet Slater</name>
+    <role>Haley</role>
+    <type>Actor</type>
+    <tmdbid>2480853</tmdbid>
+  </actor>
+  <actor>
+    <name>Adain Bradley</name>
+    <role>Grant</role>
+    <type>Actor</type>
+    <tmdbid>2120814</tmdbid>
+  </actor>
+  <actor>
+    <name>Avantika Vandanapu</name>
+    <role>Paige</role>
+    <type>Actor</type>
+    <tmdbid>2749024</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Batalon</name>
+    <role>Paxton</role>
+    <type>Actor</type>
+    <tmdbid>1649152</tmdbid>
+    <imdbid>nm8188622</imdbid>
+  </actor>
+  <actor>
+    <name>Humberly Gonzalez</name>
+    <role>Madeline</role>
+    <type>Actor</type>
+    <tmdbid>1847915</tmdbid>
+  </actor>
+  <actor>
+    <name>Wolfgang Novogratz</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>1849954</tmdbid>
+  </actor>
+  <actor>
+    <name>Larsen Thompson</name>
+    <role>Elise</role>
+    <type>Actor</type>
+    <tvdbid>8279046</tvdbid>
+    <tmdbid>2388831</tmdbid>
+  </actor>
+  <actor>
+    <name>Olwen Fouéré</name>
+    <role>Alma Astryn</role>
+    <type>Actor</type>
+    <tmdbid>933272</tmdbid>
+    <imdbid>nm0288260</imdbid>
+  </actor>
+  <actor>
+    <name>Sunčica Milanović</name>
+    <role>Astrologer</role>
+    <type>Actor</type>
+    <tmdbid>1541593</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Wells</name>
+    <role>Hanson</role>
+    <type>Actor</type>
+    <tmdbid>121204</tmdbid>
+  </actor>
+  <actor>
+    <name>Joss Carter</name>
+    <role>The Devil</role>
+    <type>Actor</type>
+    <tmdbid>2719906</tmdbid>
+  </actor>
+  <actor>
+    <name>James Swanton</name>
+    <role>The Hermit / The Magician</role>
+    <type>Actor</type>
+    <tmdbid>2215526</tmdbid>
+  </actor>
+  <actor>
+    <name>Staša Nikolić</name>
+    <role>The Countess</role>
+    <type>Actor</type>
+    <tmdbid>3382280</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Halberg</name>
+    <role>Wells</role>
+    <type>Actor</type>
+    <tmdbid>2093324</tmdbid>
+  </actor>
+  <director tmdbid="1651531">Spenser Cohen</director>
+  <director tmdbid="2093324">Anna Halberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=16TplZqkpSc</trailer>
+  <rating>5</rating>
+  <year>2024</year>
+  <sorttitle>Tarot</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt14088510</imdbid>
+  <tmdbid>719221</tmdbid>
+  <premiered>2024-05-01</premiered>
+  <releasedate>2024-05-01</releasedate>
+  <runtime>92</runtime>
+  <tagline>Tu destino está en las cartas.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Screen Gems</studio>
+  <studio>Alloy Entertainment</studio>
+  <studio>Ground Control Entertainment</studio>
+  <studio>Capstone Pictures</studio>
+  <uniqueid type="imdb">tt14088510</uniqueid>
+  <uniqueid type="tmdb">719221</uniqueid>
+  <id>tt14088510</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1209149</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5531</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

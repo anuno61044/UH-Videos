@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuenta la historia de Sonia, una mujer responsable, ordenada y con el sentido de la norma muy integrada. Sin embargo en una sola noche esta controladora de manual se verá obligada a hacer todo aquello que no se ha atrevido a hacer en treinta y seis años.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-15 14:07:41</dateadded>
+  <title>Un mal día lo tiene cualquiera</title>
+  <originaltitle>Un mal día lo tiene cualquiera</originaltitle>
+  <actor>
+    <name>Ana Polvorosa</name>
+    <role>Sonia</role>
+    <type>Actor</type>
+    <tmdbid>138716</tmdbid>
+    <imdbid>nm1308063</imdbid>
+    <tvdbid>448240</tvdbid>
+  </actor>
+  <actor>
+    <name>Agustín Jiménez</name>
+    <type>Actor</type>
+    <tmdbid>1574934</tmdbid>
+  </actor>
+  <actor>
+    <name>Bàrbara Mestanza</name>
+    <type>Actor</type>
+    <tmdbid>1436711</tmdbid>
+    <imdbid>nm5256678</imdbid>
+  </actor>
+  <actor>
+    <name>Juriji Der Klee</name>
+    <type>Actor</type>
+    <tmdbid>3602374</tmdbid>
+  </actor>
+  <actor>
+    <name>Aníbal Gómez</name>
+    <type>Actor</type>
+    <tmdbid>1423102</tmdbid>
+    <imdbid>nm2823012</imdbid>
+  </actor>
+  <actor>
+    <name>Goize Blanco</name>
+    <type>Actor</type>
+    <tmdbid>2695935</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariana Martínez</name>
+    <type>Actor</type>
+    <tmdbid>1718865</tmdbid>
+  </actor>
+  <director tvdbid="7905265" tmdbid="1490496">Eva Hache</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=06y_cbOfIUs</trailer>
+  <rating>5.5</rating>
+  <year>2024</year>
+  <sorttitle>Un mal dia lo tiene cualquiera</sorttitle>
+  <imdbid>tt24969464</imdbid>
+  <tmdbid>1137724</tmdbid>
+  <premiered>2024-01-26</premiered>
+  <releasedate>2024-01-26</releasedate>
+  <runtime>77</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Pokeepsie Films</studio>
+  <studio>Atresmedia</studio>
+  <uniqueid type="imdb">tt24969464</uniqueid>
+  <uniqueid type="tmdb">1137724</uniqueid>
+  <id>tt24969464</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>264001</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>77</duration>
+        <durationinseconds>4643</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63835</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El pescador Chen Yue es contratado para llevar a un grupo de personas, incluido el fotógrafo Zhong Ming, a una fiesta en una isla oceánica. A su llegada, la isla es atacada por una enorme pitón de aguas profundas, que mata a cualquiera que encuentra. Chen Yue y Zhong Ming deben trabajar juntos para sacar a los supervivientes del peligro en una lucha por la supervivencia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:36:27</dateadded>
+  <title>Pitón De Aguas Profundas</title>
+  <originaltitle>深海巨蟒</originaltitle>
+  <actor>
+    <name>Zhao Wang</name>
+    <role>Chen Yue</role>
+    <type>Actor</type>
+    <tmdbid>2777287</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Yabin</name>
+    <role>Fatty Li</role>
+    <type>Actor</type>
+    <tmdbid>1258714</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Qianqian</name>
+    <role>Zhong Ming</role>
+    <type>Actor</type>
+    <tmdbid>4215822</tmdbid>
+  </actor>
+  <actor>
+    <name>Ziyi Fang</name>
+    <role>Xia He</role>
+    <type>Actor</type>
+    <tmdbid>3905391</tmdbid>
+  </actor>
+  <director tmdbid="3902720">Wang Qing</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bhPbFICmisA</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Piton De Aguas Profundas</sorttitle>
+  <imdbid>tt27626782</imdbid>
+  <tmdbid>1081713</tmdbid>
+  <premiered>2023-02-02</premiered>
+  <releasedate>2023-02-02</releasedate>
+  <runtime>112</runtime>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <uniqueid type="imdb">tt27626782</uniqueid>
+  <uniqueid type="tmdb">1081713</uniqueid>
+  <id>tt27626782</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149384</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6724</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

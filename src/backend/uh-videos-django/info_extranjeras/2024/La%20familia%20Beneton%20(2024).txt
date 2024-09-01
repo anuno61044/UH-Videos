@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Toni, un hombre cascarrabias, soltero y sin hijos, huye de los niños a toda costa. Su vida da un giro inesperado cuando su hermana fallece y de la noche a la mañana se convierte en tutor temporal de sus cinco hijos adoptados: cada uno de un país y procedencia diferente. Toni tendrá que enfrentarse a las diferencias culturales y a los retos de paternidad en el mundo moderno y descubrirá que la verdadera familia, es la que uno elige.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-24 09:42:52</dateadded>
+  <title>La familia Benetón</title>
+  <originaltitle>La familia Benetón</originaltitle>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Toni</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>El Langui</name>
+    <role>Lolo</role>
+    <type>Actor</type>
+    <tmdbid>1119394</tmdbid>
+    <imdbid>nm2482976</imdbid>
+  </actor>
+  <actor>
+    <name>Damián Alcázar</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>7370</tmdbid>
+    <imdbid>nm0017343</imdbid>
+  </actor>
+  <actor>
+    <name>Alí Dia</name>
+    <role>Hassan</role>
+    <type>Actor</type>
+    <tmdbid>4305032</tmdbid>
+  </actor>
+  <actor>
+    <name>Gala Bichir</name>
+    <role>Ximena</role>
+    <type>Actor</type>
+    <tmdbid>3298826</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Montejo</name>
+    <role>Walter</role>
+    <type>Actor</type>
+    <tmdbid>4305033</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepe Viyuela</name>
+    <role>Emiliano</role>
+    <type>Actor</type>
+    <tmdbid>25220</tmdbid>
+    <imdbid>nm0900402</imdbid>
+    <tvdbid>292042</tvdbid>
+  </actor>
+  <actor>
+    <name>Diana Bovio</name>
+    <role>Tessi</role>
+    <type>Actor</type>
+    <tmdbid>1869530</tmdbid>
+  </actor>
+  <actor>
+    <name>Llum Barrera</name>
+    <role>Pilina</role>
+    <type>Actor</type>
+    <tmdbid>15592</tmdbid>
+    <imdbid>nm1414974</imdbid>
+    <tvdbid>467309</tvdbid>
+  </actor>
+  <actor>
+    <name>Iñaki Miramón</name>
+    <role>Gonzalo</role>
+    <type>Actor</type>
+    <tmdbid>1021682</tmdbid>
+    <imdbid>nm0592027</imdbid>
+  </actor>
+  <actor>
+    <name>Lydia Ramírez</name>
+    <role>Tutora</role>
+    <type>Actor</type>
+    <tmdbid>2591273</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Aerenlund</name>
+    <role>Marilin</role>
+    <type>Actor</type>
+    <tmdbid>1114250</tmdbid>
+    <imdbid>nm3015790</imdbid>
+  </actor>
+  <actor>
+    <name>Kamsiyochi Ngene</name>
+    <role>Kanene</role>
+    <type>Actor</type>
+    <tmdbid>4305035</tmdbid>
+  </actor>
+  <actor>
+    <name>Meilin Zahn</name>
+    <role>Meilin Chen</role>
+    <type>Actor</type>
+    <tmdbid>4849419</tmdbid>
+  </actor>
+  <director tmdbid="1701864">Joaquín Mazón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F0k6T_fuZcw</trailer>
+  <rating>5.6</rating>
+  <year>2024</year>
+  <sorttitle>familia Beneton</sorttitle>
+  <imdbid>tt29138109</imdbid>
+  <tmdbid>1181511</tmdbid>
+  <premiered>2024-03-22</premiered>
+  <releasedate>2024-03-22</releasedate>
+  <runtime>94</runtime>
+  <country>Mexico</country>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <studio>Atresmedia</studio>
+  <studio>Mama se fue de viaje la pelicula</studio>
+  <studio>Bowfinger</studio>
+  <studio>Esto También Pasará</studio>
+  <studio>Glow</studio>
+  <studio>BTF Media</studio>
+  <studio>Mogambo Films</studio>
+  <studio>AF Films</studio>
+  <uniqueid type="imdb">tt29138109</uniqueid>
+  <uniqueid type="tmdb">1181511</uniqueid>
+  <id>tt29138109</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>979315</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5629</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63818</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

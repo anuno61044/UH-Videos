@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Versión animada de la leyenda mitológica asiática "Viaje al Oeste", sigue las aventuras del Rey Mono.]]></plot>
+  <outline><![CDATA[La leyenda ha llegado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:31:26</dateadded>
+  <title>El rey mono</title>
+  <originaltitle>The Monkey King</originaltitle>
+  <actor>
+    <name>Jimmy O. Yang</name>
+    <role>Monkey King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1468779</tmdbid>
+    <imdbid>nm4497202</imdbid>
+  </actor>
+  <actor>
+    <name>Bowen Yang</name>
+    <role>Dragon King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1564920</tmdbid>
+  </actor>
+  <actor>
+    <name>Jolie Hoang-Rappaport</name>
+    <role>Lin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2444659</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Koy</name>
+    <role>Benbo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>114394</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Yuan</name>
+    <role>Babbo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>61703</tmdbid>
+    <imdbid>nm0950620</imdbid>
+  </actor>
+  <actor>
+    <name>Nan Li</name>
+    <role>Stick (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238468</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Pang</name>
+    <role>The Mayor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>163801</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hsu</name>
+    <role>Mayor's Wife (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1381186</tmdbid>
+    <tvdbid>468835</tvdbid>
+  </actor>
+  <actor>
+    <name>Sophie Wu</name>
+    <role>Red Girl / Child Monkey (voice)</role>
+    <type>Actor</type>
+    <tmdbid>116883</tmdbid>
+    <imdbid>nm2348343</imdbid>
+    <tvdbid>459089</tvdbid>
+  </actor>
+  <actor>
+    <name>Hoon Lee</name>
+    <role>Jade Emperor / Monk (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1255311</tmdbid>
+    <imdbid>nm1229640</imdbid>
+    <tvdbid>515837</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Kishino</name>
+    <role>King Yama / Demon of Havoc (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1373048</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodi Long</name>
+    <role>Wangmu (voice)</role>
+    <type>Actor</type>
+    <tmdbid>44059</tmdbid>
+    <imdbid>nm0519023</imdbid>
+  </actor>
+  <actor>
+    <name>BD Wong</name>
+    <role>Buddha (voice)</role>
+    <type>Actor</type>
+    <tmdbid>14592</tmdbid>
+    <imdbid>nm0000703</imdbid>
+    <tvdbid>394868</tvdbid>
+  </actor>
+  <actor>
+    <name>Dee Bradley Baker</name>
+    <role>Baby Monkey King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23680</tmdbid>
+    <imdbid>nm0048389</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Wu</name>
+    <role>Palace Minister / Pigsy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17041</tmdbid>
+    <imdbid>nm0943160</imdbid>
+  </actor>
+  <actor>
+    <name>David Chen</name>
+    <role>Palace Minister / Sandy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3243214</tmdbid>
+  </actor>
+  <actor>
+    <name>James Sie</name>
+    <role>Elder Monkey (voice)</role>
+    <type>Actor</type>
+    <tmdbid>154657</tmdbid>
+    <imdbid>nm0796732</imdbid>
+  </actor>
+  <actor>
+    <name>Kieran Regan</name>
+    <role>Cage Baby Monkey (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3307539</tmdbid>
+  </actor>
+  <actor>
+    <name>Kuno Inghram</name>
+    <role>Child Monkey / Mayor's Son (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238476</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Benninghoffen</name>
+    <role>Cuttlefish (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1329387</tmdbid>
+  </actor>
+  <actor>
+    <name>Vic Chao</name>
+    <role>Hat Villager (voice)</role>
+    <type>Actor</type>
+    <tmdbid>109423</tmdbid>
+    <imdbid>nm0152059</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Aguirre</name>
+    <role>Village Children's Choir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238478</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayden Almeraz</name>
+    <role>Village Children's Choir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238479</tmdbid>
+  </actor>
+  <actor>
+    <name>Bailey Almeraz</name>
+    <role>Village Children's Choir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238480</tmdbid>
+  </actor>
+  <actor>
+    <name>Elijah Kim</name>
+    <role>Village Children's Choir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238481</tmdbid>
+  </actor>
+  <actor>
+    <name>Mila Tambaoan</name>
+    <role>Village Children's Choir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238482</tmdbid>
+  </actor>
+  <actor>
+    <name>Nara Thompson</name>
+    <role>Village Children's Choir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4238483</tmdbid>
+  </actor>
+  <actor>
+    <name>Artemis Snow</name>
+    <role>Lost Baby Villager (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2531057</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaiji Tang</name>
+    <role>Old Man Villager (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1294183</tmdbid>
+  </actor>
+  <director tmdbid="52691">Anthony Stacchi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wI2yVWBstfs</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>rey mono</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt8637498</imdbid>
+  <tmdbid>832502</tmdbid>
+  <premiered>2023-08-11</premiered>
+  <releasedate>2023-08-11</releasedate>
+  <runtime>97</runtime>
+  <tagline>La leyenda ha llegado.</tagline>
+  <country>United States of America</country>
+  <genre>Animación</genre>
+  <genre>Fantasía</genre>
+  <genre>Aventura</genre>
+  <genre>Familia</genre>
+  <genre>Comedia</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="imdb">tt8637498</uniqueid>
+  <uniqueid type="tmdb">832502</uniqueid>
+  <id>tt8637498</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150114</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5790</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130699</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

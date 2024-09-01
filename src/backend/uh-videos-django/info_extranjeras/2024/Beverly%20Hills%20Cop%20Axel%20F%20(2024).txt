@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuatro décadas después de su inolvidable primer caso en Beverly Hills, el detective de Detroit Axel Foley vuelve a lo que mejor se le da: resolver crímenes y sembrar el caos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-04 15:37:17</dateadded>
+  <title>Superdetective en Hollywood: Axel F.</title>
+  <originaltitle>Beverly Hills Cop: Axel F</originaltitle>
+  <actor>
+    <name>Eddie Murphy</name>
+    <role>Axel Foley</role>
+    <type>Actor</type>
+    <tmdbid>776</tmdbid>
+    <imdbid>nm0000552</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Gordon-Levitt</name>
+    <role>Detective Bobby Abbott</role>
+    <type>Actor</type>
+    <tmdbid>24045</tmdbid>
+    <imdbid>nm0330687</imdbid>
+    <tvdbid>291500</tvdbid>
+  </actor>
+  <actor>
+    <name>Taylour Paige</name>
+    <role>Jane Saunders</role>
+    <type>Actor</type>
+    <tmdbid>1335818</tmdbid>
+  </actor>
+  <actor>
+    <name>Judge Reinhold</name>
+    <role>Billy Rosewood</role>
+    <type>Actor</type>
+    <tmdbid>777</tmdbid>
+    <imdbid>nm0001662</imdbid>
+  </actor>
+  <actor>
+    <name>John Ashton</name>
+    <role>Chief John Taggart</role>
+    <type>Actor</type>
+    <tmdbid>778</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Reiser</name>
+    <role>Jeffrey</role>
+    <type>Actor</type>
+    <tmdbid>781</tmdbid>
+    <imdbid>nm0001663</imdbid>
+    <tvdbid>253805</tvdbid>
+  </actor>
+  <actor>
+    <name>Bronson Pinchot</name>
+    <role>Serge</role>
+    <type>Actor</type>
+    <tmdbid>4689</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Bacon</name>
+    <role>Captain Cade Grant</role>
+    <type>Actor</type>
+    <tmdbid>4724</tmdbid>
+    <imdbid>nm0000102</imdbid>
+    <tvdbid>254182</tvdbid>
+  </actor>
+  <actor>
+    <name>Jameison Walker II</name>
+    <role>Traffic Cop</role>
+    <type>Actor</type>
+    <tmdbid>4809376</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Jones</name>
+    <role>Fireworks Kid</role>
+    <type>Actor</type>
+    <tmdbid>4809377</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Cali</name>
+    <role>Young Guard</role>
+    <type>Actor</type>
+    <tmdbid>3893463</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Edward Butler</name>
+    <role>Lang</role>
+    <type>Actor</type>
+    <tmdbid>4809379</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle S. More</name>
+    <role>Mike Woody</role>
+    <type>Actor</type>
+    <tmdbid>228304</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Nance Jr.</name>
+    <role>Junior Bollinger</role>
+    <type>Actor</type>
+    <tmdbid>3024895</tmdbid>
+  </actor>
+  <actor>
+    <name>Chuck McCollum</name>
+    <role>Athletic Trainer</role>
+    <type>Actor</type>
+    <tmdbid>1783270</tmdbid>
+  </actor>
+  <actor>
+    <name>Dickson Obahor</name>
+    <role>Plow Driver</role>
+    <type>Actor</type>
+    <tmdbid>2014405</tmdbid>
+    <imdbid>nm3423035</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Lee Richardson</name>
+    <role>Tyler - Dispatcher Trainee</role>
+    <type>Actor</type>
+    <tmdbid>3327172</tmdbid>
+  </actor>
+  <actor>
+    <name>Bee-Be Smith</name>
+    <role>Older Dispatcher</role>
+    <type>Actor</type>
+    <tmdbid>1655675</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Pillow</name>
+    <role>Captain Radtke</role>
+    <type>Actor</type>
+    <tmdbid>1519576</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Matthew Cook</name>
+    <role>Officer Reid (aka Corrections Officer #2)</role>
+    <type>Actor</type>
+    <tmdbid>1358061</tmdbid>
+    <imdbid>nm4232922</imdbid>
+  </actor>
+  <actor>
+    <name>Princess Elmore</name>
+    <role>Corrections Officer</role>
+    <type>Actor</type>
+    <tmdbid>2714815</tmdbid>
+  </actor>
+  <actor>
+    <name>Damien Diaz</name>
+    <role>Sam Enriquez</role>
+    <type>Actor</type>
+    <tmdbid>1690489</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Belcher</name>
+    <role>Judge Angelic</role>
+    <type>Actor</type>
+    <tmdbid>56358</tmdbid>
+    <imdbid>nm0006970</imdbid>
+    <tvdbid>266792</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaemon</name>
+    <role>Deputy DA Cronin</role>
+    <type>Actor</type>
+    <tmdbid>1866449</tmdbid>
+  </actor>
+  <actor>
+    <name>Walter Belenky</name>
+    <role>LAPD Officer</role>
+    <type>Actor</type>
+    <tmdbid>3881469</tmdbid>
+  </actor>
+  <actor>
+    <name>Raquel Bell</name>
+    <role>EMT</role>
+    <type>Actor</type>
+    <tmdbid>1815847</tmdbid>
+  </actor>
+  <actor>
+    <name>David Rowden</name>
+    <role>Copeland</role>
+    <type>Actor</type>
+    <tmdbid>1512040</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Clark</name>
+    <role>Airport P.D.</role>
+    <type>Actor</type>
+    <tmdbid>4809395</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Aviel</name>
+    <role>Silva</role>
+    <type>Actor</type>
+    <tmdbid>1268072</tmdbid>
+    <imdbid>nm4978849</imdbid>
+  </actor>
+  <actor>
+    <name>James Preston Rogers</name>
+    <role>Kurtz</role>
+    <type>Actor</type>
+    <tmdbid>1084758</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Pellegrino</name>
+    <role>Beck</role>
+    <type>Actor</type>
+    <tmdbid>1236</tmdbid>
+    <imdbid>nm0671032</imdbid>
+    <tvdbid>274545</tvdbid>
+  </actor>
+  <actor>
+    <name>Chantal Nchako</name>
+    <role>Meter Maid</role>
+    <type>Actor</type>
+    <tmdbid>2738268</tmdbid>
+  </actor>
+  <actor>
+    <name>Bria L. Murphy</name>
+    <role>Officer Renee Minnick</role>
+    <type>Actor</type>
+    <tmdbid>1591489</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovannie Cruz</name>
+    <role>Officer Paula Chavez</role>
+    <type>Actor</type>
+    <tmdbid>3125907</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Liang</name>
+    <role>Boghos</role>
+    <type>Actor</type>
+    <tmdbid>1481139</tmdbid>
+  </actor>
+  <actor>
+    <name>Roshan Maloney</name>
+    <role>Eastern Club Host</role>
+    <type>Actor</type>
+    <tmdbid>1590289</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Ford</name>
+    <role>Beverly Palms Hotel Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>4809408</tmdbid>
+  </actor>
+  <actor>
+    <name>Deon Griffin</name>
+    <role>Jane’s Assistant Brad</role>
+    <type>Actor</type>
+    <tmdbid>4809410</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Moreno</name>
+    <role>Sicario in Pickup Truck #3</role>
+    <type>Actor</type>
+    <tmdbid>201389</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Ford</name>
+    <role>Felicity (Woman with Dog)</role>
+    <type>Actor</type>
+    <tmdbid>19280</tmdbid>
+  </actor>
+  <actor>
+    <name>Nasim Pedrad</name>
+    <role>Ashley De La Rosa</role>
+    <type>Actor</type>
+    <tmdbid>476163</tmdbid>
+    <imdbid>nm1840659</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Guzmán</name>
+    <role>Chalino Valdemoro</role>
+    <type>Actor</type>
+    <tmdbid>40481</tmdbid>
+    <imdbid>nm0350079</imdbid>
+    <tvdbid>7988851</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Abrell</name>
+    <role>Maureen</role>
+    <type>Actor</type>
+    <tmdbid>133835</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Marques</name>
+    <role>Leviathan Officer</role>
+    <type>Actor</type>
+    <tmdbid>4809412</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Tessier</name>
+    <role>Leviathan Officer</role>
+    <type>Actor</type>
+    <tmdbid>1665179</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher McDonald</name>
+    <role>Golfer</role>
+    <type>Actor</type>
+    <tmdbid>4443</tmdbid>
+    <imdbid>nm0001520</imdbid>
+    <tvdbid>296566</tvdbid>
+  </actor>
+  <actor>
+    <name>Affion Crockett</name>
+    <role>Country Club Valet</role>
+    <type>Actor</type>
+    <tmdbid>98394</tmdbid>
+    <imdbid>nm1649714</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Graham</name>
+    <role>Cartel Hombre</role>
+    <type>Actor</type>
+    <tmdbid>4809413</tmdbid>
+  </actor>
+  <actor>
+    <name>Mari Worden</name>
+    <role>Cartel Mamacita</role>
+    <type>Actor</type>
+    <tmdbid>4809414</tmdbid>
+  </actor>
+  <actor>
+    <name>Francyne Wong</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>4809415</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Castle</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>4809416</tmdbid>
+  </actor>
+  <actor>
+    <name>Atticus Batacan</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1732965</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugene Kim</name>
+    <role>Surgeon</role>
+    <type>Actor</type>
+    <tmdbid>1158414</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Patricia Estrada</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>4809417</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Dunnings</name>
+    <role>Voice of DJ</role>
+    <type>Actor</type>
+    <tmdbid>4809419</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Bata</name>
+    <role>Woman At Cafe (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1463131</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Fields</name>
+    <role>Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1734674</tmdbid>
+  </actor>
+  <actor>
+    <name>Ambur Marie</name>
+    <role>Detroit Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3686620</tmdbid>
+  </actor>
+  <actor>
+    <name>Royce Mealin Jr.</name>
+    <role>Beverly Hills Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4752519</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Stark</name>
+    <role>Red Wings Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4717945</tmdbid>
+  </actor>
+  <director tmdbid="3498713">Mark Molloy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qBG3iyr5N70</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KoxhkE_U3Ww</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4T4YPfCbPto</trailer>
+  <rating>7.137</rating>
+  <year>2024</year>
+  <sorttitle>Superdetective en Hollywood: Axel F.</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt3083016</imdbid>
+  <tmdbid>280180</tmdbid>
+  <premiered>2024-06-20</premiered>
+  <releasedate>2024-06-20</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>118</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>Don Simpson/Jerry Bruckheimer Films</studio>
+  <studio>Eddie Murphy Productions</studio>
+  <set tmdbcolid="85861">
+    <name>Superdetective en Hollywood - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt3083016</uniqueid>
+  <uniqueid type="tmdb">280180</uniqueid>
+  <id>tt3083016</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149982</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7076</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127927</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>gl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ca</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

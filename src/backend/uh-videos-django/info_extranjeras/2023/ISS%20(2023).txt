@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When a world war event occurs on Earth, America and Russia, both nations secretly contact their astronauts aboard the I.S.S. and give them instructions to take control of the station by any means necessary.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-07 10:48:40</dateadded>
+  <title>I.S.S.</title>
+  <originaltitle>I.S.S.</originaltitle>
+  <actor>
+    <name>Ariana DeBose</name>
+    <role>Dr. Kira Foster</role>
+    <type>Actor</type>
+    <tmdbid>1437491</tmdbid>
+    <tvdbid>8163444</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Messina</name>
+    <role>Gordon Barrett</role>
+    <type>Actor</type>
+    <tmdbid>61659</tmdbid>
+    <imdbid>nm0582149</imdbid>
+    <tvdbid>325134</tvdbid>
+  </actor>
+  <actor>
+    <name>Pilou Asbæk</name>
+    <role>Alexey Pulov</role>
+    <type>Actor</type>
+    <tmdbid>90060</tmdbid>
+    <imdbid>nm1561982</imdbid>
+    <tvdbid>247897</tvdbid>
+  </actor>
+  <actor>
+    <name>John Gallagher Jr.</name>
+    <role>Christian</role>
+    <type>Actor</type>
+    <tmdbid>17487</tmdbid>
+    <imdbid>nm0302330</imdbid>
+    <tvdbid>588308</tvdbid>
+  </actor>
+  <actor>
+    <name>Costa Ronin</name>
+    <role>Nicholai</role>
+    <type>Actor</type>
+    <tmdbid>130323</tmdbid>
+    <imdbid>nm2687923</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Mashkova</name>
+    <role>Weronika</role>
+    <type>Actor</type>
+    <tmdbid>568728</tmdbid>
+  </actor>
+  <director tmdbid="1045176">Gabriela Cowperthwaite</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BywoLxuBgT0</trailer>
+  <rating>5.6</rating>
+  <year>2023</year>
+  <sorttitle>I.S.S.</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13655120</imdbid>
+  <tmdbid>790462</tmdbid>
+  <premiered>2023-06-12</premiered>
+  <releasedate>2023-06-12</releasedate>
+  <runtime>96</runtime>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <studio>LD Entertainment</studio>
+  <uniqueid type="imdb">tt13655120</uniqueid>
+  <uniqueid type="tmdb">790462</uniqueid>
+  <id>tt13655120</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1163936</bitrate>
+        <width>1280</width>
+        <height>540</height>
+        <aspect>137:58</aspect>
+        <aspectratio>137:58</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5742</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

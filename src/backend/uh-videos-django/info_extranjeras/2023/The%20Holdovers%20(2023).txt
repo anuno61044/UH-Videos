@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A nadie le gusta el profesor Paul Hunham (Giamatti), ni a sus alumnos, ni a sus compañeros, ni al director de la escuela secundaria donde trabaja, a todos les resulta exasperante su pomposidad y rigidez. Sin familia y sin ningún lugar a donde ir durante las vacaciones de Navidad de 1970, Paul se queda en la escuela para supervisar a los estudiantes que no han podido viajar a casa. Después de unos días, solo queda allí un estudiante: un problemático chico de 15 años llamado Angus, un buen estudiante cuyo mal comportamiento siempre amenaza con expulsarlo. Junto a Paul y Angus está la cocinera Mary (Randolph), una mujer afroamericana que atiende a hijos privilegiados y cuyo propio hijo perdió la vida recientemente en Vietnam. Estos tres náufragos tan diferentes formarán una improbable familia durante dos semanas muy nevadas en Nueva Inglaterra.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-03 14:17:44</dateadded>
+  <title>Los que se quedan</title>
+  <originaltitle>The Holdovers</originaltitle>
+  <actor>
+    <name>Paul Giamatti</name>
+    <role>Paul Hunham</role>
+    <type>Actor</type>
+    <tmdbid>13242</tmdbid>
+    <imdbid>nm0316079</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Sessa</name>
+    <role>Angus Tully</role>
+    <type>Actor</type>
+    <tmdbid>3918497</tmdbid>
+  </actor>
+  <actor>
+    <name>Da'Vine Joy Randolph</name>
+    <role>Mary Lamb</role>
+    <type>Actor</type>
+    <tmdbid>1180099</tmdbid>
+    <tvdbid>501587</tvdbid>
+  </actor>
+  <actor>
+    <name>Carrie Preston</name>
+    <role>Miss Lydia Crane</role>
+    <type>Actor</type>
+    <tmdbid>7465</tmdbid>
+    <imdbid>nm0696387</imdbid>
+  </actor>
+  <actor>
+    <name>Brady Hepner</name>
+    <role>Teddy Kountze</role>
+    <type>Actor</type>
+    <tmdbid>3013234</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Dolley</name>
+    <role>Alex Ollerman</role>
+    <type>Actor</type>
+    <tmdbid>3797133</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Kaplan</name>
+    <role>Ye-Joon Park</role>
+    <type>Actor</type>
+    <tmdbid>3650522</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Provost</name>
+    <role>Jason Smith</role>
+    <type>Actor</type>
+    <tmdbid>1517841</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Garman</name>
+    <role>Dr. Hardy Woodrup</role>
+    <type>Actor</type>
+    <tmdbid>206902</tmdbid>
+    <imdbid>nm1542442</imdbid>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Danny</role>
+    <type>Actor</type>
+    <tmdbid>1745909</tmdbid>
+    <imdbid>nm3608877</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Thorne</name>
+    <role>Thomas Tully</role>
+    <type>Actor</type>
+    <tmdbid>3359764</tmdbid>
+  </actor>
+  <actor>
+    <name>Gillian Vigman</name>
+    <role>Judy Clotfelter</role>
+    <type>Actor</type>
+    <tmdbid>61182</tmdbid>
+    <imdbid>nm0897005</imdbid>
+    <tvdbid>308046</tvdbid>
+  </actor>
+  <actor>
+    <name>Tate Donovan</name>
+    <role>Stanley Clotfelter</role>
+    <type>Actor</type>
+    <tmdbid>15455</tmdbid>
+    <imdbid>nm0004883</imdbid>
+  </actor>
+  <actor>
+    <name>Darby Lee-Stack</name>
+    <role>Elise</role>
+    <type>Actor</type>
+    <tmdbid>3450037</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Mootos</name>
+    <role>Mr. Endicott</role>
+    <type>Actor</type>
+    <tmdbid>1593005</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Tucker</name>
+    <role>Mr. Rosensweig</role>
+    <type>Actor</type>
+    <tmdbid>1732327</tmdbid>
+  </actor>
+  <actor>
+    <name>Juanita Pearl</name>
+    <role>Mary's Sister Peggy</role>
+    <type>Actor</type>
+    <tmdbid>4272730</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Cook</name>
+    <role>Priest/Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1168858</tmdbid>
+    <imdbid>nm4782621</imdbid>
+  </actor>
+  <actor>
+    <name>Liz Bishop</name>
+    <role>Office Lady</role>
+    <type>Actor</type>
+    <tmdbid>3225232</tmdbid>
+  </actor>
+  <actor>
+    <name>Cole Tristan Murphy</name>
+    <role>Toothbrushing Student</role>
+    <type>Actor</type>
+    <tmdbid>2734294</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Sussbauer</name>
+    <role>Cobb Salad Student</role>
+    <type>Actor</type>
+    <tmdbid>4156467</tmdbid>
+  </actor>
+  <actor>
+    <name>Carter Shimp</name>
+    <role>Weed Buyer Harriman</role>
+    <type>Actor</type>
+    <tmdbid>2794891</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Malvesti</name>
+    <role>Christmas Tree Guy</role>
+    <type>Actor</type>
+    <tmdbid>2029531</tmdbid>
+    <imdbid>nm4024589</imdbid>
+  </actor>
+  <actor>
+    <name>Dakota Lustick</name>
+    <role>Christmas Tree Helper</role>
+    <type>Actor</type>
+    <tmdbid>1964636</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa McMeekin</name>
+    <role>Hooker</role>
+    <type>Actor</type>
+    <tmdbid>1371551</tmdbid>
+    <imdbid>nm3578998</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan von Mering</name>
+    <role>ER Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3297957</tmdbid>
+  </actor>
+  <actor>
+    <name>Rena Maliszewski</name>
+    <role>ER Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1956550</tmdbid>
+    <imdbid>nm2728453</imdbid>
+  </actor>
+  <actor>
+    <name>Osmani Rodriguez</name>
+    <role>Pharmacist</role>
+    <type>Actor</type>
+    <tmdbid>205231</tmdbid>
+    <imdbid>nm2228499</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Wahlberg</name>
+    <role>Pinball Player</role>
+    <type>Actor</type>
+    <tmdbid>1730745</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Aid</name>
+    <role>Vietnam Vet Kenneth</role>
+    <type>Actor</type>
+    <tmdbid>2259640</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Kaz</name>
+    <role>Hip Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>4272735</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly AuCoin</name>
+    <role>Hugh Cavanaugh</role>
+    <type>Actor</type>
+    <tmdbid>171727</tmdbid>
+    <imdbid>nm1372572</imdbid>
+    <tvdbid>341194</tvdbid>
+  </actor>
+  <actor>
+    <name>Colleen Clinton</name>
+    <role>Mrs. Cavanaugh</role>
+    <type>Actor</type>
+    <tmdbid>1355164</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Robbins</name>
+    <role>Santa Claus</role>
+    <type>Actor</type>
+    <tmdbid>4272740</tmdbid>
+  </actor>
+  <actor>
+    <name>David J. Curtis</name>
+    <role>Psychiatric Orderly</role>
+    <type>Actor</type>
+    <tmdbid>1452764</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Jayne Morgan</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2035828</tmdbid>
+  </actor>
+  <actor>
+    <name>Davis Robinson</name>
+    <role>Maître d'hôtel</role>
+    <type>Actor</type>
+    <tmdbid>2769471</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Howell</name>
+    <role>Liquor Store Cashier</role>
+    <type>Actor</type>
+    <tmdbid>4272741</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Krasinski</name>
+    <role>Choir Leader</role>
+    <type>Actor</type>
+    <tmdbid>2304670</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Chopoorian</name>
+    <role>Jason Smith's Father</role>
+    <type>Actor</type>
+    <tmdbid>4272744</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Lyons</name>
+    <role>Miss Crane's Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>1040956</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Fennessy</name>
+    <role>Irritated Movie Patron</role>
+    <type>Actor</type>
+    <tmdbid>592897</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Daigneault</name>
+    <role>Barton Parent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4329587</tmdbid>
+  </actor>
+  <actor>
+    <name>Bhanu Gopal</name>
+    <role>Boston Streeter / Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4107721</tmdbid>
+  </actor>
+  <director tmdbid="13235" imdbid="nm0668247">Alexander Payne</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8TNBCpiFTRI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zIy3ixhneCU</trailer>
+  <rating>8</rating>
+  <year>2023</year>
+  <sorttitle>Los que se quedan</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14849194</imdbid>
+  <tmdbid>840430</tmdbid>
+  <premiered>2023-10-27</premiered>
+  <releasedate>2023-10-27</releasedate>
+  <runtime>133</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Miramax</studio>
+  <studio>Gran Via Productions</studio>
+  <uniqueid type="imdb">tt14849194</uniqueid>
+  <uniqueid type="tmdb">840430</uniqueid>
+  <id>tt14849194</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149794</bitrate>
+        <width>1196</width>
+        <height>720</height>
+        <aspect>299:180</aspect>
+        <aspectratio>299:180</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8005</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127510</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

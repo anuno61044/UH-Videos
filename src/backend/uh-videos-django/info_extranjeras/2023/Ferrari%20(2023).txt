@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empresa que él y su esposa, Laura, construyeron de la nada diez años antes. Su tormentoso matrimonio se encuentra en medio de una gran crisis, mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomará decisiones arriesgadas, apostándolo todo en una única carrera que atraviesa 1.000 millas a lo largo de toda Italia, la Mille Miglia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-24 09:06:40</dateadded>
+  <title>Ferrari</title>
+  <originaltitle>Ferrari</originaltitle>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Enzo Ferrari</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Penélope Cruz</name>
+    <role>Laura Ferrari</role>
+    <type>Actor</type>
+    <tmdbid>955</tmdbid>
+    <imdbid>nm0004851</imdbid>
+  </actor>
+  <actor>
+    <name>Shailene Woodley</name>
+    <role>Lina Lardi</role>
+    <type>Actor</type>
+    <tmdbid>94185</tmdbid>
+    <imdbid>nm0940362</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Dempsey</name>
+    <role>Piero Taruffi</role>
+    <type>Actor</type>
+    <tmdbid>18352</tmdbid>
+    <imdbid>nm0001131</imdbid>
+  </actor>
+  <actor>
+    <name>Jack O'Connell</name>
+    <role>Peter Collins</role>
+    <type>Actor</type>
+    <tmdbid>85065</tmdbid>
+    <imdbid>nm1925239</imdbid>
+    <tvdbid>303268</tvdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Leone</name>
+    <role>Alfonso De  Portago</role>
+    <type>Actor</type>
+    <tmdbid>1475555</tmdbid>
+    <tvdbid>306804</tvdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Festinese</name>
+    <role>Piero Lardi</role>
+    <type>Actor</type>
+    <tmdbid>3641727</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Gadon</name>
+    <role>Linda Christian</role>
+    <type>Actor</type>
+    <tmdbid>190895</tmdbid>
+    <imdbid>nm0300589</imdbid>
+    <tvdbid>295734</tvdbid>
+  </actor>
+  <actor>
+    <name>Michele Savoia</name>
+    <role>Carlo Chiti</role>
+    <type>Actor</type>
+    <tmdbid>2508882</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Bellè</name>
+    <role>Cecilia Manzini</role>
+    <type>Actor</type>
+    <tvdbid>462520</tvdbid>
+    <tmdbid>1435167</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommaso Basili</name>
+    <role>Gianni Agnelli</role>
+    <type>Actor</type>
+    <tmdbid>2078350</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Dolente</name>
+    <role>Gino Rancati</role>
+    <type>Actor</type>
+    <tmdbid>1423769</tmdbid>
+    <tvdbid>526912</tvdbid>
+  </actor>
+  <actor>
+    <name>Lino Musella</name>
+    <role>Sergio Scaglietti</role>
+    <type>Actor</type>
+    <tmdbid>1871368</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Smrz</name>
+    <role>Olivier Gendebien</role>
+    <type>Actor</type>
+    <tmdbid>2157087</tmdbid>
+  </actor>
+  <actor>
+    <name>Massi Furlan</name>
+    <role>Italian journalist (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1010873</tmdbid>
+    <imdbid>nm2939724</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Arpesella</name>
+    <role>TV Sportscaster (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1585749</tmdbid>
+    <imdbid>nm1188508</imdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Russo</name>
+    <role>Carabiniere / TV Sportcaster (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2097462</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Della Valle</name>
+    <role>Italian Journalist (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1529450</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Bruschi</name>
+    <role>Bishop</role>
+    <type>Actor</type>
+    <tmdbid>25102</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Bonifati</name>
+    <role>Giacomo Cuoghi</role>
+    <type>Actor</type>
+    <tmdbid>1947024</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnese Brighittini</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>4232712</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Hubinette</name>
+    <role>Mike Hawthorn</role>
+    <type>Actor</type>
+    <tmdbid>1826457</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Caimi</name>
+    <role>Brusoni</role>
+    <type>Actor</type>
+    <tmdbid>4011610</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianfilippo Grasso</name>
+    <role>Matteo</role>
+    <type>Actor</type>
+    <tmdbid>2741782</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Tonti</name>
+    <type>Actor</type>
+    <tmdbid>4232714</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Piperno</name>
+    <role>Adalgisa Ferrari</role>
+    <type>Actor</type>
+    <tmdbid>7547</tmdbid>
+    <imdbid>nm0684951</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Cremona</name>
+    <role>Porter</role>
+    <type>Actor</type>
+    <tmdbid>1381616</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Hill</name>
+    <role>Jean Behra</role>
+    <type>Actor</type>
+    <tmdbid>4450300</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacopo Bruno</name>
+    <role>Omer Orsi</role>
+    <type>Actor</type>
+    <tmdbid>4450301</tmdbid>
+  </actor>
+  <actor>
+    <name>Domenico Fortunato</name>
+    <role>Adolfo Orsi</role>
+    <type>Actor</type>
+    <tmdbid>1051045</tmdbid>
+  </actor>
+  <actor>
+    <name>Damiano Neviani</name>
+    <role>Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>4450302</tmdbid>
+  </actor>
+  <actor>
+    <name>Franca Abategiovanni</name>
+    <role>Alda</role>
+    <type>Actor</type>
+    <tmdbid>1907316</tmdbid>
+  </actor>
+  <actor>
+    <name>Marino Franchitti</name>
+    <role>Eugenio Castellotti</role>
+    <type>Actor</type>
+    <tmdbid>2923046</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciano Miele</name>
+    <role>Peppino</role>
+    <type>Actor</type>
+    <tmdbid>1361236</tmdbid>
+    <imdbid>nm0585736</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandra D'Elia</name>
+    <role>Barber</role>
+    <type>Actor</type>
+    <tmdbid>129648</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Attanasio</name>
+    <role>Romolo Tavoni</role>
+    <type>Actor</type>
+    <tmdbid>3247329</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Maccieri</name>
+    <role>Onlooker at Church</role>
+    <type>Actor</type>
+    <tmdbid>2459815</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Fiorillo</name>
+    <role>Carlo the Accountant</role>
+    <type>Actor</type>
+    <tmdbid>1726874</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Gené</name>
+    <role>Taxi Driver in Yellow Car</role>
+    <type>Actor</type>
+    <tmdbid>2591886</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Burteaux</name>
+    <role>King Hussain</role>
+    <type>Actor</type>
+    <tmdbid>1068302</tmdbid>
+  </actor>
+  <actor>
+    <name>Massimo Scola</name>
+    <role>Tommaso</role>
+    <type>Actor</type>
+    <tmdbid>4450303</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Cornelio Merida</name>
+    <role>Louis Klemantaski</role>
+    <type>Actor</type>
+    <tmdbid>4450304</tmdbid>
+  </actor>
+  <actor>
+    <name>Wyatt Carnel</name>
+    <role>Graf Berghe Von Trips</role>
+    <type>Actor</type>
+    <tmdbid>1650458</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommaso Paolucci</name>
+    <role>Cosetti</role>
+    <type>Actor</type>
+    <tmdbid>3218734</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessio Cioni</name>
+    <role>Di Massimo</role>
+    <type>Actor</type>
+    <tmdbid>3583661</tmdbid>
+  </actor>
+  <actor>
+    <name>Biagio Caruso</name>
+    <role>Fusaro</role>
+    <type>Actor</type>
+    <tmdbid>4450306</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurizio Cardillo</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>4450307</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Zanini</name>
+    <role>Louise Collins</role>
+    <type>Actor</type>
+    <tmdbid>2773115</tmdbid>
+  </actor>
+  <actor>
+    <name>Lulu Najafi</name>
+    <role>Lina's Friend at the Opera</role>
+    <type>Actor</type>
+    <tmdbid>4450308</tmdbid>
+  </actor>
+  <actor>
+    <name>Uladzislava Keizereva</name>
+    <role>Soprano</role>
+    <type>Actor</type>
+    <tmdbid>4450309</tmdbid>
+  </actor>
+  <actor>
+    <name>Edoardo Beraldi</name>
+    <role>Dino Ferrari (Three Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>4450310</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Noto</name>
+    <role>Dino Ferrari (Seven Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>4450311</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Benedettini</name>
+    <role>Alfredo Ferrari</role>
+    <type>Actor</type>
+    <tmdbid>4450312</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlo Fei</name>
+    <role>Hotel Owner Marzotto</role>
+    <type>Actor</type>
+    <tmdbid>4450313</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Steiner</name>
+    <role>Commentator (Millie Miglia)</role>
+    <type>Actor</type>
+    <tmdbid>1408840</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Haugen</name>
+    <role>Edmund Nelson</role>
+    <type>Actor</type>
+    <tmdbid>4148804</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Collins</name>
+    <role>Stirling Moss</role>
+    <type>Actor</type>
+    <tmdbid>1236941</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniele Carbone</name>
+    <role>Denis 'Jenks'Jenkinson</role>
+    <type>Actor</type>
+    <tmdbid>4450317</tmdbid>
+  </actor>
+  <actor>
+    <name>Modesto Menabue</name>
+    <role>Chief Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>4450319</tmdbid>
+  </actor>
+  <actor>
+    <name>Massimo Bottura</name>
+    <role>Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1670193</tmdbid>
+  </actor>
+  <actor>
+    <name>Pietro Corradini</name>
+    <role>Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>4450320</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Volpetti</name>
+    <role>TV Commentator</role>
+    <type>Actor</type>
+    <tmdbid>4450321</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Gorga</name>
+    <role>Father at Guidizzolo</role>
+    <type>Actor</type>
+    <tmdbid>4450322</tmdbid>
+  </actor>
+  <actor>
+    <name>Pietro Piccinini</name>
+    <role>Three Year Old Son</role>
+    <type>Actor</type>
+    <tmdbid>4450323</tmdbid>
+  </actor>
+  <actor>
+    <name>Edoardo Golemi</name>
+    <role>Eight Year Old Son</role>
+    <type>Actor</type>
+    <tmdbid>4450324</tmdbid>
+  </actor>
+  <actor>
+    <name>Filippo Marchi</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2814222</tmdbid>
+  </actor>
+  <director tmdbid="638" imdbid="nm0000520">Michael Mann</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KZHxT2yb2cE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8oOVNMjM1Jk</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>Ferrari</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt3758542</imdbid>
+  <tmdbid>365620</tmdbid>
+  <premiered>2023-12-14</premiered>
+  <releasedate>2023-12-14</releasedate>
+  <criticrating>73</criticrating>
+  <runtime>131</runtime>
+  <country>China</country>
+  <country>Italy</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>STXfilms</studio>
+  <studio>Forward Pass</studio>
+  <studio>Storyteller Productions</studio>
+  <studio>Ketchup Entertainment</studio>
+  <studio>Esme Grace Media/COIL</studio>
+  <studio>Cecchi Gori USA</studio>
+  <studio>Iervolino &amp; Lady Bacardi Entertainment</studio>
+  <studio>Red Sea Fund</studio>
+  <uniqueid type="imdb">tt3758542</uniqueid>
+  <uniqueid type="tmdb">365620</uniqueid>
+  <id>tt3758542</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>960182</bitrate>
+        <width>1280</width>
+        <height>538</height>
+        <aspect>959:404</aspect>
+        <aspectratio>959:404</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7839</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

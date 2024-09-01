@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.]]></plot>
+  <outline><![CDATA[Una leyenda se enfrentará a su destino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-29 08:26:45</dateadded>
+  <title>Indiana Jones y el dial del destino</title>
+  <originaltitle>Indiana Jones and the Dial of Destiny</originaltitle>
+  <actor>
+    <name>Harrison Ford</name>
+    <role>Indiana Jones</role>
+    <type>Actor</type>
+    <tmdbid>3</tmdbid>
+    <imdbid>nm0000148</imdbid>
+    <tvdbid>255133</tvdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Waller-Bridge</name>
+    <role>Helena</role>
+    <type>Actor</type>
+    <tmdbid>1023483</tmdbid>
+    <imdbid>nm3564817</imdbid>
+  </actor>
+  <actor>
+    <name>Mads Mikkelsen</name>
+    <role>Dr. Voller</role>
+    <type>Actor</type>
+    <tmdbid>1019</tmdbid>
+    <imdbid>nm0586568</imdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Klaber</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+    <imdbid>nm2933542</imdbid>
+    <tvdbid>466734</tvdbid>
+  </actor>
+  <actor>
+    <name>Olivier Richters</name>
+    <role>Hauke</role>
+    <type>Actor</type>
+    <tmdbid>2074238</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethann Isidore</name>
+    <role>Teddy</role>
+    <type>Actor</type>
+    <tmdbid>3810691</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Basil Shaw</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Banderas</name>
+    <role>Renaldo</role>
+    <type>Actor</type>
+    <tmdbid>3131</tmdbid>
+    <imdbid>nm0000104</imdbid>
+    <tvdbid>264545</tvdbid>
+  </actor>
+  <actor>
+    <name>Karen Allen</name>
+    <role>Marion</role>
+    <type>Actor</type>
+    <tmdbid>650</tmdbid>
+    <imdbid>nm0000261</imdbid>
+  </actor>
+  <actor>
+    <name>John Rhys-Davies</name>
+    <role>Sallah</role>
+    <type>Actor</type>
+    <tmdbid>655</tmdbid>
+    <imdbid>nm0722636</imdbid>
+  </actor>
+  <actor>
+    <name>Shaunette Renée Wilson</name>
+    <role>Mason</role>
+    <type>Actor</type>
+    <tmdbid>1787399</tmdbid>
+    <imdbid>nm8189246</imdbid>
+    <tvdbid>542848</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kretschmann</name>
+    <role>Colonel Weber</role>
+    <type>Actor</type>
+    <tmdbid>3491</tmdbid>
+    <imdbid>nm0470981</imdbid>
+  </actor>
+  <actor>
+    <name>Martin McDougall</name>
+    <role>Durkin</role>
+    <type>Actor</type>
+    <tmdbid>36901</tmdbid>
+    <imdbid>nm0568246</imdbid>
+  </actor>
+  <actor>
+    <name>Alaa Safi</name>
+    <role>Rahim</role>
+    <type>Actor</type>
+    <tmdbid>126802</tmdbid>
+    <imdbid>nm2349733</imdbid>
+  </actor>
+  <actor>
+    <name>Francis Chapman</name>
+    <role>Young SS Officer</role>
+    <type>Actor</type>
+    <tmdbid>1867299</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Rosario Mandia</name>
+    <role>Italian Ticket Seller</role>
+    <type>Actor</type>
+    <tmdbid>4102339</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Brown</name>
+    <role>Larry - Beat Poet Guy</role>
+    <type>Actor</type>
+    <tmdbid>4102340</tmdbid>
+  </actor>
+  <actor>
+    <name>Nasser Memarzia</name>
+    <role>Archimedes</role>
+    <type>Actor</type>
+    <tmdbid>946350</tmdbid>
+    <imdbid>nm0578596</imdbid>
+  </actor>
+  <actor>
+    <name>Amedeo Bianchimano</name>
+    <role>Milanese Suit Man</role>
+    <type>Actor</type>
+    <tmdbid>4102341</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Francolini</name>
+    <role>Mandy</role>
+    <type>Actor</type>
+    <tmdbid>1320746</tmdbid>
+    <imdbid>nm0290693</imdbid>
+  </actor>
+  <actor>
+    <name>Gabby Wong</name>
+    <role>Chinese Hat Bidder</role>
+    <type>Actor</type>
+    <tmdbid>2654393</tmdbid>
+    <tvdbid>8345993</tvdbid>
+  </actor>
+  <actor>
+    <name>Adolfo Margiotta</name>
+    <role>Hector - Salty Diver</role>
+    <type>Actor</type>
+    <tmdbid>225705</tmdbid>
+  </actor>
+  <actor>
+    <name>Niccolo Cancellieri</name>
+    <role>Sirene Deck Hand</role>
+    <type>Actor</type>
+    <tmdbid>1746388</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Iorio</name>
+    <role>Popeye - Lead Scuba Diver</role>
+    <type>Actor</type>
+    <tmdbid>2136480</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Klein</name>
+    <role>SS Stormtrooper</role>
+    <type>Actor</type>
+    <tmdbid>53166</tmdbid>
+  </actor>
+  <actor>
+    <name>Holly Lawton</name>
+    <role>Young Helena</role>
+    <type>Actor</type>
+    <tmdbid>2675526</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Paul</name>
+    <role>Prof. Plimpton</role>
+    <type>Actor</type>
+    <tmdbid>1809454</tmdbid>
+  </actor>
+  <actor>
+    <name>Harriet Slater</name>
+    <role>Fran</role>
+    <type>Actor</type>
+    <tmdbid>2480853</tmdbid>
+  </actor>
+  <actor>
+    <name>Alton Fitzgerald White</name>
+    <role>Hotel Porter</role>
+    <type>Actor</type>
+    <tmdbid>1990962</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Porter</name>
+    <role>Bob - Bartender</role>
+    <type>Actor</type>
+    <tmdbid>59085</tmdbid>
+    <imdbid>nm0692139</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Anderson</name>
+    <role>Kommando Commander</role>
+    <type>Actor</type>
+    <tmdbid>987009</tmdbid>
+  </actor>
+  <actor>
+    <name>Cory Peterson</name>
+    <role>Gov PR Man</role>
+    <type>Actor</type>
+    <tmdbid>232979</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Hagerty</name>
+    <role>Reporter - St Regis</role>
+    <type>Actor</type>
+    <tmdbid>4102344</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Saleh</name>
+    <role>Jabari - Sallah's Grandson</role>
+    <type>Actor</type>
+    <tmdbid>2947788</tmdbid>
+  </actor>
+  <actor>
+    <name>Amara Khan</name>
+    <role>Alia - Sallah's Granddaughter</role>
+    <type>Actor</type>
+    <tmdbid>4102345</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Winternitz</name>
+    <role>Pan Am Stewardess</role>
+    <type>Actor</type>
+    <tmdbid>1474690</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Postlethwaite</name>
+    <role>Prof. Donner</role>
+    <type>Actor</type>
+    <tmdbid>1642036</tmdbid>
+    <tvdbid>248027</tvdbid>
+  </actor>
+  <actor>
+    <name>Clara Greco</name>
+    <role>Italian Tour Guide</role>
+    <type>Actor</type>
+    <tmdbid>3855450</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Gallina</name>
+    <role>Mounted Cop</role>
+    <type>Actor</type>
+    <tmdbid>2669776</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Bendall</name>
+    <role>Filthy Guitar Guy</role>
+    <type>Actor</type>
+    <tmdbid>4102346</tmdbid>
+  </actor>
+  <actor>
+    <name>Thulani Storm</name>
+    <role>Filthy Guitar Guy</role>
+    <type>Actor</type>
+    <tmdbid>4102348</tmdbid>
+  </actor>
+  <actor>
+    <name>Edoardo Strano</name>
+    <role>Archimedes Servant</role>
+    <type>Actor</type>
+    <tmdbid>2410286</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Spagnoletti</name>
+    <role>Archimedes Servant</role>
+    <type>Actor</type>
+    <tmdbid>3102373</tmdbid>
+  </actor>
+  <actor>
+    <name>Hicham Ouaraqa</name>
+    <role>Moroccan Policeman</role>
+    <type>Actor</type>
+    <tmdbid>4102350</tmdbid>
+  </actor>
+  <actor>
+    <name>Adil Louchgui</name>
+    <role>Moroccan Policeman</role>
+    <type>Actor</type>
+    <tmdbid>4102351</tmdbid>
+  </actor>
+  <actor>
+    <name>David Mills</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1679369</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhyanna Alexander-Davis</name>
+    <role>Hippie Girl</role>
+    <type>Actor</type>
+    <tmdbid>3020800</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Fannin</name>
+    <role>Armed Intelligence Officer</role>
+    <type>Actor</type>
+    <tmdbid>1599257</tmdbid>
+  </actor>
+  <actor>
+    <name>Gunnar Cauthery</name>
+    <role>Pilot - Heinkel 111</role>
+    <type>Actor</type>
+    <tmdbid>1953482</tmdbid>
+  </actor>
+  <actor>
+    <name>Aron von Andrian</name>
+    <role>Navigator - Heinkel 111</role>
+    <type>Actor</type>
+    <tmdbid>3091617</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikola Trifunovic</name>
+    <role>SS Kommando</role>
+    <type>Actor</type>
+    <tmdbid>3335477</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Garrett</name>
+    <role>Louis - Drunk Airline Pilot</role>
+    <type>Actor</type>
+    <tmdbid>125719</tmdbid>
+    <imdbid>nm2694680</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Saurel</name>
+    <role>Drunk Airline Stewardess</role>
+    <type>Actor</type>
+    <tmdbid>2218975</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Massa</name>
+    <role>1944 Indiana Jones Double</role>
+    <type>Actor</type>
+    <tmdbid>1530091</tmdbid>
+    <imdbid>nm0557086</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Ingruber</name>
+    <role>1944 Indiana Jones Double / Dutch Prince - Bidder</role>
+    <type>Actor</type>
+    <tmdbid>1207282</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Sacha Mehja-Stokes</name>
+    <role>Rich Kid</role>
+    <type>Actor</type>
+    <tmdbid>4102352</tmdbid>
+  </actor>
+  <actor>
+    <name>Angus Yellowlees</name>
+    <role>Hippie Student</role>
+    <type>Actor</type>
+    <tmdbid>3115612</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Staite</name>
+    <role>SS Guard/Comms Officer</role>
+    <type>Actor</type>
+    <tmdbid>3578285</tmdbid>
+  </actor>
+  <actor>
+    <name>Corrado Invernizzi</name>
+    <role>Luigi - Italian Engineer</role>
+    <type>Actor</type>
+    <tmdbid>105869</tmdbid>
+    <imdbid>nm0969364</imdbid>
+  </actor>
+  <actor>
+    <name>Joerg Stadler</name>
+    <role>Gestapo Officer</role>
+    <type>Actor</type>
+    <tmdbid>12838</tmdbid>
+    <imdbid>nm0821152</imdbid>
+  </actor>
+  <actor>
+    <name>Thorston Manderlay</name>
+    <role>Staff Car Officer</role>
+    <type>Actor</type>
+    <tmdbid>1434488</tmdbid>
+    <imdbid>nm1420961</imdbid>
+  </actor>
+  <actor>
+    <name>Basil Eidenbenz</name>
+    <role>Sentry</role>
+    <type>Actor</type>
+    <tmdbid>1858594</tmdbid>
+  </actor>
+  <actor>
+    <name>Johann Heske</name>
+    <role>Sentry</role>
+    <type>Actor</type>
+    <tmdbid>4102353</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Broadstone</name>
+    <role>Overalls</role>
+    <type>Actor</type>
+    <tmdbid>4102354</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruce Lester-Johnson</name>
+    <role>Screaming Cabbie</role>
+    <type>Actor</type>
+    <tmdbid>2622652</tmdbid>
+    <imdbid>nm0424669</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Sherman</name>
+    <role>Drunk - Appliance Store</role>
+    <type>Actor</type>
+    <tmdbid>1094667</tmdbid>
+    <imdbid>nm1453396</imdbid>
+  </actor>
+  <actor>
+    <name>Allon Sylvain</name>
+    <role>L'Atlantique Maître D</role>
+    <type>Actor</type>
+    <tmdbid>1865779</tmdbid>
+  </actor>
+  <actor>
+    <name>William Meredith</name>
+    <role>Con Ed Van Driver</role>
+    <type>Actor</type>
+    <tmdbid>122344</tmdbid>
+    <imdbid>nm2223793</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Doherty</name>
+    <role>Basil's Housekeeper</role>
+    <type>Actor</type>
+    <tmdbid>3053187</tmdbid>
+  </actor>
+  <actor>
+    <name>Duran Fulton Brown</name>
+    <role>Barricade Cop</role>
+    <type>Actor</type>
+    <tmdbid>1623272</tmdbid>
+  </actor>
+  <actor>
+    <name>Eliza Mae Kyffin</name>
+    <role>Screaming Beauty Queen</role>
+    <type>Actor</type>
+    <tmdbid>4102355</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauro Cardinali</name>
+    <role>Maximus</role>
+    <type>Actor</type>
+    <tmdbid>3665696</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Killeen</name>
+    <role>Pontimus</role>
+    <type>Actor</type>
+    <tmdbid>142290</tmdbid>
+    <imdbid>nm2075330</imdbid>
+  </actor>
+  <actor>
+    <name>Bharat Doshi</name>
+    <role>Miss Jaffrey</role>
+    <type>Actor</type>
+    <tmdbid>2707907</tmdbid>
+  </actor>
+  <actor>
+    <name>Aïssam Bouali</name>
+    <role>Henchman</role>
+    <type>Actor</type>
+    <tmdbid>1094218</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Robson</name>
+    <role>Gunther</role>
+    <type>Actor</type>
+    <tmdbid>1405566</tmdbid>
+    <imdbid>nm4385308</imdbid>
+  </actor>
+  <actor>
+    <name>Mohammed R. Kamel</name>
+    <role>Hotel Security</role>
+    <type>Actor</type>
+    <tmdbid>3988344</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryony Miller</name>
+    <role>Confused Student</role>
+    <type>Actor</type>
+    <tmdbid>2001428</tmdbid>
+    <imdbid>nm9105075</imdbid>
+  </actor>
+  <actor>
+    <name>Tiwa Lade</name>
+    <role>Bubblegum Student</role>
+    <type>Actor</type>
+    <tmdbid>4102357</tmdbid>
+  </actor>
+  <actor>
+    <name>Brodie Husband</name>
+    <role>Sketching Student</role>
+    <type>Actor</type>
+    <tmdbid>4102358</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Onslow</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>3260026</tmdbid>
+  </actor>
+  <director tmdbid="366" imdbid="nm0003506">James Mangold</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9ShSKNr-PR0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3Ms-DRDhdV4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EVjvIL2joxQ</trailer>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>Indiana Jones y el dial del destino</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1462764</imdbid>
+  <tmdbid>335977</tmdbid>
+  <premiered>2023-06-28</premiered>
+  <releasedate>2023-06-28</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>155</runtime>
+  <tagline>Una leyenda se enfrentará a su destino.</tagline>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <studio>Lucasfilm Ltd.</studio>
+  <set tmdbcolid="84">
+    <name>Indiana Jones - Colección</name>
+  </set>
+  <set tmdbcolid="84">
+    <name>Colección: Indiana Jones</name>
+  </set>
+  <uniqueid type="imdb">tt1462764</uniqueid>
+  <uniqueid type="tmdb">335977</uniqueid>
+  <id>tt1462764</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>810790</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>154</duration>
+        <durationinseconds>9287</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

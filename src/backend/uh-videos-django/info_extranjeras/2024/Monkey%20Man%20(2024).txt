@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.]]></plot>
+  <outline><![CDATA[One small ember can burn down everything.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-24 08:00:22</dateadded>
+  <title>Monkey Man</title>
+  <originaltitle>Monkey Man</originaltitle>
+  <actor>
+    <name>Dev Patel</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>76788</tmdbid>
+    <imdbid>nm2353862</imdbid>
+    <tvdbid>303267</tvdbid>
+  </actor>
+  <actor>
+    <name>Pitobash Tripathy</name>
+    <role>Alphonso</role>
+    <type>Actor</type>
+    <tmdbid>225163</tmdbid>
+    <imdbid>nm3329873</imdbid>
+  </actor>
+  <actor>
+    <name>Sikandar Kher</name>
+    <role>Rana Singh</role>
+    <type>Actor</type>
+    <tmdbid>229123</tmdbid>
+  </actor>
+  <actor>
+    <name>Makrand Deshpande</name>
+    <role>Baba Shakti</role>
+    <type>Actor</type>
+    <tmdbid>130990</tmdbid>
+  </actor>
+  <actor>
+    <name>Adithi Kalkunte</name>
+    <role>Neela</role>
+    <type>Actor</type>
+    <tmdbid>2125273</tmdbid>
+  </actor>
+  <actor>
+    <name>Jatin Malik</name>
+    <role>Young Kid</role>
+    <type>Actor</type>
+    <tmdbid>4606857</tmdbid>
+  </actor>
+  <actor>
+    <name>Sobhita Dhulipala</name>
+    <role>Sita</role>
+    <type>Actor</type>
+    <tmdbid>1643582</tmdbid>
+  </actor>
+  <actor>
+    <name>Vipin Sharma</name>
+    <role>Alpha</role>
+    <type>Actor</type>
+    <tmdbid>52768</tmdbid>
+    <imdbid>nm1479650</imdbid>
+  </actor>
+  <actor>
+    <name>Ashwini Kalsekar</name>
+    <role>Queenie</role>
+    <type>Actor</type>
+    <tmdbid>85657</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharlto Copley</name>
+    <role>Tiger</role>
+    <type>Actor</type>
+    <tmdbid>82191</tmdbid>
+    <imdbid>nm1663205</imdbid>
+  </actor>
+  <actor>
+    <name>Brahim Achabbakhe</name>
+    <role>King Kobra</role>
+    <type>Actor</type>
+    <tmdbid>234990</tmdbid>
+    <imdbid>nm3100183</imdbid>
+  </actor>
+  <actor>
+    <name>Zakir Hussain</name>
+    <role>Tabla Maestro</role>
+    <type>Actor</type>
+    <tmdbid>1172042</tmdbid>
+  </actor>
+  <actor>
+    <name>Reva Marchellin</name>
+    <role>Yummy</role>
+    <type>Actor</type>
+    <tmdbid>3142563</tmdbid>
+  </actor>
+  <actor>
+    <name>Dayangku Zyana</name>
+    <role>Priya</role>
+    <type>Actor</type>
+    <tmdbid>4660482</tmdbid>
+  </actor>
+  <actor>
+    <name>Pehan Abdul</name>
+    <role>Lakshmi</role>
+    <type>Actor</type>
+    <tmdbid>4660485</tmdbid>
+  </actor>
+  <actor>
+    <name>Agus Mulana</name>
+    <role>Hijra</role>
+    <type>Actor</type>
+    <tmdbid>4389541</tmdbid>
+  </actor>
+  <actor>
+    <name>Fahad Scale</name>
+    <role>Pooja</role>
+    <type>Actor</type>
+    <tmdbid>4660492</tmdbid>
+  </actor>
+  <actor>
+    <name>Quraish Aattamimi</name>
+    <role>Hijra</role>
+    <type>Actor</type>
+    <tmdbid>4660505</tmdbid>
+  </actor>
+  <actor>
+    <name>Teddy Khannayan</name>
+    <role>Hijra</role>
+    <type>Actor</type>
+    <tmdbid>4664676</tmdbid>
+  </actor>
+  <actor>
+    <name>Keren Subramany</name>
+    <role>Hijra</role>
+    <type>Actor</type>
+    <tmdbid>4664680</tmdbid>
+  </actor>
+  <director tmdbid="76788" imdbid="nm2353862" tvdbid="303267">Dev Patel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g8zxiB5Qhsc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sLSlmb3B9J4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aqa3YTtwvaU</trailer>
+  <rating>7.3</rating>
+  <year>2024</year>
+  <sorttitle>Monkey Man</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9214772</imdbid>
+  <tmdbid>560016</tmdbid>
+  <premiered>2024-04-03</premiered>
+  <releasedate>2024-04-03</releasedate>
+  <runtime>122</runtime>
+  <tagline>One small ember can burn down everything.</tagline>
+  <country>Canada</country>
+  <country>Singapore</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>Thunder Road</studio>
+  <studio>Bron Studios</studio>
+  <studio>Monkeypaw Productions</studio>
+  <studio>Minor Realm</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>WME Independent</studio>
+  <studio>S'YA Concept</studio>
+  <uniqueid type="imdb">tt9214772</uniqueid>
+  <uniqueid type="tmdb">560016</uniqueid>
+  <id>tt9214772</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>915623</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7305</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

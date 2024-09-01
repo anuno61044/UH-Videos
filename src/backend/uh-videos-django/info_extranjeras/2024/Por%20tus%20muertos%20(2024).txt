@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Metralla fue un grupo de rock de finales de los 80 que alcanzó un gran éxito con su primer y único LP titulado “Por tus muertos”, pero que se disolvió misteriosamente justo antes de dar su primer concierto. Treinta años después, Miguel, uno de los componentes de la banda, todavía sigue soñando con ser una estrella del rock, aunque a sus conciertos ya no vaya nadie y su tienda de música esté a punto de ser embargada por el banco. Ordúñez, un famoso comunicador radiofónico del rock, le ofrece dar un concierto en el Palacio de Madrid con la condición de que reúna a los componentes originales de la banda.]]></plot>
+  <outline><![CDATA[Sin épica no hay gloria]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-27 09:57:42</dateadded>
+  <title>Por tus muertos</title>
+  <originaltitle>Por tus muertos</originaltitle>
+  <actor>
+    <name>José Mota</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>19854</tmdbid>
+    <imdbid>nm1239566</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Sanz</name>
+    <role>Valen</role>
+    <type>Actor</type>
+    <tmdbid>145414</tmdbid>
+    <imdbid>nm0764450</imdbid>
+    <tvdbid>300998</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta Belenguer</name>
+    <role>Janis</role>
+    <type>Actor</type>
+    <tmdbid>1023515</tmdbid>
+    <imdbid>nm0067724</imdbid>
+  </actor>
+  <actor>
+    <name>Carles Francino</name>
+    <role>El Repollo</role>
+    <type>Actor</type>
+    <tmdbid>1294750</tmdbid>
+    <imdbid>nm2504425</imdbid>
+    <tvdbid>306711</tvdbid>
+  </actor>
+  <actor>
+    <name>Emilio Linder</name>
+    <role>Ordúñez</role>
+    <type>Actor</type>
+    <tmdbid>100820</tmdbid>
+    <imdbid>nm0511703</imdbid>
+  </actor>
+  <director tmdbid="1379702" imdbid="nm0768400">Sayago Ayuso</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=damoV0fIWgI</trailer>
+  <rating>4.333</rating>
+  <year>2024</year>
+  <sorttitle>Por tus muertos</sorttitle>
+  <imdbid>tt29451310</imdbid>
+  <tmdbid>1209304</tmdbid>
+  <premiered>2024-03-08</premiered>
+  <releasedate>2024-03-08</releasedate>
+  <runtime>93</runtime>
+  <tagline>Sin épica no hay gloria</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Música</genre>
+  <studio>Super 8 Producción</studio>
+  <studio>Doc Land Films</studio>
+  <studio>La Charito Films</studio>
+  <uniqueid type="imdb">tt29451310</uniqueid>
+  <uniqueid type="tmdb">1209304</uniqueid>
+  <id>tt29451310</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>813903</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5580</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63819</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

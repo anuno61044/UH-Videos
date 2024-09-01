@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un padre se propone recuperar el amor de su hijo, a quien abandonó cuando este tenía un año de vida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-12 10:31:44</dateadded>
+  <title>Últimas voluntades</title>
+  <originaltitle>Últimas voluntades</originaltitle>
+  <actor>
+    <name>Fernando Tejero</name>
+    <type>Actor</type>
+    <tmdbid>43321</tmdbid>
+    <imdbid>nm1234572</imdbid>
+    <tvdbid>534146</tvdbid>
+  </actor>
+  <actor>
+    <name>Óscar Casas</name>
+    <type>Actor</type>
+    <tmdbid>51943</tmdbid>
+    <imdbid>nm2027428</imdbid>
+    <tvdbid>301081</tvdbid>
+  </actor>
+  <director tmdbid="4081519">Joaquín Carmona Hidalgo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I_9Sg-vGn9k</trailer>
+  <rating>5.5</rating>
+  <year>2023</year>
+  <sorttitle>Ultimas voluntades</sorttitle>
+  <imdbid>tt15617648</imdbid>
+  <tmdbid>1131727</tmdbid>
+  <premiered>2023-06-30</premiered>
+  <releasedate>2023-06-30</releasedate>
+  <runtime>101</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Crimen</genre>
+  <studio>Biopic Films</studio>
+  <studio>La Charito Films</studio>
+  <studio>Maskeline</studio>
+  <uniqueid type="tmdb">1131727</uniqueid>
+  <uniqueid type="imdb">tt15617648</uniqueid>
+  <id>tt15617648</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1598881</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6031</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

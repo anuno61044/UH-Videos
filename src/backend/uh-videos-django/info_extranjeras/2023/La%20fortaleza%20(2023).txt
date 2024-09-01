@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Los herederos de una mansión tendrán que enfrentarse a un gran juego orquestado por su difunto patriarca que expondrá algo más brutal que su ambición, el secreto mejor guardado de la familia]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-23 15:37:53</dateadded>
+  <title>La Fortaleza</title>
+  <originaltitle>La Fortaleza</originaltitle>
+  <actor>
+    <name>Fernando Cayo</name>
+    <type>Actor</type>
+    <tmdbid>51902</tmdbid>
+    <imdbid>nm0147308</imdbid>
+    <tvdbid>456310</tvdbid>
+  </actor>
+  <actor>
+    <name>Vito Sanz</name>
+    <type>Actor</type>
+    <tmdbid>1442192</tmdbid>
+    <imdbid>nm5229490</imdbid>
+    <tvdbid>565256</tvdbid>
+  </actor>
+  <actor>
+    <name>José Manuel Poga</name>
+    <type>Actor</type>
+    <tmdbid>1071638</tmdbid>
+    <imdbid>nm2423567</imdbid>
+    <tvdbid>470114</tvdbid>
+  </actor>
+  <actor>
+    <name>Goya Toledo</name>
+    <type>Actor</type>
+    <tmdbid>261</tmdbid>
+    <imdbid>nm0865949</imdbid>
+    <tvdbid>540013</tvdbid>
+  </actor>
+  <director tmdbid="1110423">Chiqui Carabante</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e5DdpR9UQBg</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Fortaleza</sorttitle>
+  <imdbid>tt13733404</imdbid>
+  <tmdbid>995081</tmdbid>
+  <premiered>2023-06-23</premiered>
+  <releasedate>2023-06-23</releasedate>
+  <runtime>89</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>P. C. Saint Denis</studio>
+  <uniqueid type="imdb">tt13733404</uniqueid>
+  <uniqueid type="tmdb">995081</uniqueid>
+  <id>tt13733404</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1370236</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5316</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63823</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

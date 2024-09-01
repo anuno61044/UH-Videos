@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Set in the 1980s, troubled youth Chan Lok-kwun accidentally enters the Walled City, discovers the order amidst its chaos, and learns important life lessons along the way. In the Walled City, he becomes close friends with Shin, Twelfth Master and AV. Under the leadership of Cyclone, they resist against the invasion of villain Mr. Big in a series of fierce battles. Together, they vow to protect the safe haven that is Kowloon Walled City.]]></plot>
+  <outline><![CDATA[Don't cause trouble in the walled city]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-13 10:23:46</dateadded>
+  <title>九龍城寨之圍城</title>
+  <originaltitle>九龍城寨之圍城</originaltitle>
+  <actor>
+    <name>Louis Koo</name>
+    <role>Cyclone</role>
+    <type>Actor</type>
+    <tmdbid>78875</tmdbid>
+  </actor>
+  <actor>
+    <name>Sammo Hung</name>
+    <role>Mr. Big</role>
+    <type>Actor</type>
+    <tmdbid>62410</tmdbid>
+    <imdbid>nm0005033</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Lam</name>
+    <role>Chan Lok-kwun (Lok)</role>
+    <type>Actor</type>
+    <tmdbid>89409</tmdbid>
+  </actor>
+  <actor>
+    <name>Terrance Lau</name>
+    <role>Shin</role>
+    <type>Actor</type>
+    <tmdbid>2217481</tmdbid>
+  </actor>
+  <actor>
+    <name>任賢齊</name>
+    <role>Chau</role>
+    <type>Actor</type>
+    <tmdbid>64496</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Ng Wan-Lung</name>
+    <role>King</role>
+    <type>Actor</type>
+    <tmdbid>100585</tmdbid>
+    <imdbid>nm1264535</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Wu</name>
+    <role>Twelfth Master</role>
+    <type>Actor</type>
+    <tmdbid>1674432</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheung Man-Kit</name>
+    <role>AV</role>
+    <type>Actor</type>
+    <tmdbid>1455929</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Wong Tak-Ban</name>
+    <role>Tiger</role>
+    <type>Actor</type>
+    <tmdbid>70108</tmdbid>
+  </actor>
+  <actor>
+    <name>Fish Liew</name>
+    <role>Fanny</role>
+    <type>Actor</type>
+    <tmdbid>1638505</tmdbid>
+  </actor>
+  <actor>
+    <name>Chu Pak-Hong</name>
+    <role>Woman Beater</role>
+    <type>Actor</type>
+    <tmdbid>2684219</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Kwok</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>21908</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Wong Tsz-lok</name>
+    <role>Kite Kid</role>
+    <type>Actor</type>
+    <tmdbid>3270592</tmdbid>
+  </actor>
+  <actor>
+    <name>Jozev Lau</name>
+    <role>Double Blade</role>
+    <type>Actor</type>
+    <tmdbid>4684605</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Choi</name>
+    <role>Jim's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1529401</tmdbid>
+  </actor>
+  <actor>
+    <name>鍾雪瑩</name>
+    <type>Actor</type>
+    <tmdbid>3102289</tmdbid>
+  </actor>
+  <actor>
+    <name>張松枝</name>
+    <role>Chief</role>
+    <type>Actor</type>
+    <tmdbid>1334855</tmdbid>
+  </actor>
+  <director tmdbid="93991">鄭保瑞</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C2-XQtD5nwI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4kBU6Rff26A</trailer>
+  <rating>7.4</rating>
+  <year>2024</year>
+  <sorttitle>九龍城寨之圍城</sorttitle>
+  <imdbid>tt20316748</imdbid>
+  <tmdbid>923667</tmdbid>
+  <premiered>2024-04-23</premiered>
+  <releasedate>2024-04-23</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>125</runtime>
+  <tagline>Don't cause trouble in the walled city</tagline>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Entertaining Power</studio>
+  <studio>One Cool Pictures</studio>
+  <studio>Sil-Metropole Organisation</studio>
+  <studio>Lian Ray Pictures</studio>
+  <studio>HG Entertainment</studio>
+  <studio>Zhejiang Hengdian Film Production</studio>
+  <studio>Tao Piao Piao</studio>
+  <studio>Media Asia</studio>
+  <uniqueid type="tmdb">923667</uniqueid>
+  <uniqueid type="imdb">tt20316748</uniqueid>
+  <id>tt20316748</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149889</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7503</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130119</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

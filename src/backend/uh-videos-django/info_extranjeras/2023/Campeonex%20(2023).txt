@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El equipo de "vencedores" deja el baloncesto para adentrarse por error en el fascinante mundo del atletismo bajo la dirección de una entrenadora recién llegada.]]></plot>
+  <outline><![CDATA[Campeones no, la siguiente]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-18 11:31:20</dateadded>
+  <title>Campeonex</title>
+  <originaltitle>Campeonex</originaltitle>
+  <actor>
+    <name>Elisa Hipólito</name>
+    <role>Cecilia</role>
+    <type>Actor</type>
+    <tmdbid>2736910</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Olmo</name>
+    <role>Sergio</role>
+    <type>Actor</type>
+    <tmdbid>2138504</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianeitor</name>
+    <role>Brian</role>
+    <type>Actor</type>
+    <tmdbid>4183532</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús Vidal</name>
+    <role>Marin</role>
+    <type>Actor</type>
+    <tmdbid>2138505</tmdbid>
+  </actor>
+  <actor>
+    <name>José de Luna</name>
+    <role>Juanma</role>
+    <type>Actor</type>
+    <tmdbid>2138503</tmdbid>
+    <imdbid>nm9069768</imdbid>
+  </actor>
+  <actor>
+    <name>Gloria Ramos</name>
+    <role>Collantes</role>
+    <type>Actor</type>
+    <tmdbid>2138506</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús Lago</name>
+    <role>Jesús</role>
+    <type>Actor</type>
+    <tmdbid>2138508</tmdbid>
+  </actor>
+  <actor>
+    <name>Fran Fuentes</name>
+    <role>Paquito</role>
+    <type>Actor</type>
+    <tmdbid>2138509</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Nieto Fernández</name>
+    <role>Benito</role>
+    <type>Actor</type>
+    <tmdbid>2138507</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Chinchilla</name>
+    <role>Román</role>
+    <type>Actor</type>
+    <tmdbid>2138510</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan López</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>2138511</tmdbid>
+  </actor>
+  <actor>
+    <name>Jelen García</name>
+    <role>Andy</role>
+    <type>Actor</type>
+    <tmdbid>3746283</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pino Rodil</name>
+    <role>Pasajero (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3873321</tmdbid>
+  </actor>
+  <director tmdbid="56470" imdbid="nm0275250">Javier Fesser</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lKKXnsfqedk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kBhjIruQ5SM</trailer>
+  <rating>6.667</rating>
+  <year>2023</year>
+  <sorttitle>Campeonex</sorttitle>
+  <imdbid>tt21881982</imdbid>
+  <tmdbid>1074080</tmdbid>
+  <premiered>2023-12-18</premiered>
+  <releasedate>2023-12-18</releasedate>
+  <runtime>120</runtime>
+  <tagline>Campeones no, la siguiente</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Morena Films</studio>
+  <set tmdbcolid="1167005">
+    <name>Campeones - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt21881982</uniqueid>
+  <uniqueid type="tmdb">1074080</uniqueid>
+  <id>tt21881982</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>457254</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7220</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63832</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

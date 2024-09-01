@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de salvarle la vida a un gánster sin querer, una aprendiz de peluquería consigue atraer nuevos clientes al negocio... pero su vida acaba sumida en el caos más absoluto.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-30 18:24:03</dateadded>
+  <title>Miss Shampoo</title>
+  <originaltitle>請問，還有哪裡需要加強</originaltitle>
+  <actor>
+    <name>Hong Yu Hong</name>
+    <role>Tai</role>
+    <type>Actor</type>
+    <tmdbid>3675217</tmdbid>
+  </actor>
+  <actor>
+    <name>Vivian Sung</name>
+    <role>Fen</role>
+    <type>Actor</type>
+    <tmdbid>1354895</tmdbid>
+  </actor>
+  <actor>
+    <name>Kai Ko</name>
+    <role>Long Legs</role>
+    <type>Actor</type>
+    <tmdbid>1012320</tmdbid>
+  </actor>
+  <actor>
+    <name>Tsai Chang-Hsien</name>
+    <role>Fishy</role>
+    <type>Actor</type>
+    <tmdbid>1260978</tmdbid>
+  </actor>
+  <actor>
+    <name>Wei-min Ying</name>
+    <role>Bryan</role>
+    <type>Actor</type>
+    <tmdbid>127684</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Jing Yi</name>
+    <role>Guan</role>
+    <type>Actor</type>
+    <tmdbid>2215920</tmdbid>
+  </actor>
+  <actor>
+    <name>Mei-Man Jin</name>
+    <role>Mei-Man</role>
+    <type>Actor</type>
+    <tmdbid>1623027</tmdbid>
+  </actor>
+  <actor>
+    <name>Ke-Li Miao</name>
+    <role>Auntie Gold</role>
+    <type>Actor</type>
+    <tmdbid>1630063</tmdbid>
+  </actor>
+  <actor>
+    <name>Tzu-Chien Kuo</name>
+    <role>Boss Chuan</role>
+    <type>Actor</type>
+    <tmdbid>581938</tmdbid>
+  </actor>
+  <actor>
+    <name>Honduras</name>
+    <role>Boss North</role>
+    <type>Actor</type>
+    <tmdbid>581375</tmdbid>
+  </actor>
+  <actor>
+    <name>Hsin-Ling Chung</name>
+    <role>Feng Mom</role>
+    <type>Actor</type>
+    <tmdbid>2238411</tmdbid>
+  </actor>
+  <actor>
+    <name>Chu Chung-heng</name>
+    <role>Feng Dad</role>
+    <type>Actor</type>
+    <tmdbid>581374</tmdbid>
+  </actor>
+  <actor>
+    <name>Kongkiat Limpongsatorn</name>
+    <role>Gym Owner</role>
+    <type>Actor</type>
+    <tmdbid>4452050</tmdbid>
+  </actor>
+  <actor>
+    <name>Duncan Lai</name>
+    <role>Boss Tung</role>
+    <type>Actor</type>
+    <tmdbid>96959</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Ro</name>
+    <role>Hao</role>
+    <type>Actor</type>
+    <tmdbid>3695394</tmdbid>
+  </actor>
+  <actor>
+    <name>Teng-Hung Hsia</name>
+    <role>Four-Eye</role>
+    <type>Actor</type>
+    <tmdbid>2351942</tmdbid>
+  </actor>
+  <actor>
+    <name>Kent Tsai</name>
+    <role>Guo</role>
+    <type>Actor</type>
+    <tmdbid>1794453</tmdbid>
+  </actor>
+  <actor>
+    <name>Jhih-Ciang Hu</name>
+    <role>Young Tai</role>
+    <type>Actor</type>
+    <tmdbid>3373856</tmdbid>
+  </actor>
+  <actor>
+    <name>Chih-ju Lin</name>
+    <role>Chief</role>
+    <type>Actor</type>
+    <tmdbid>1970145</tmdbid>
+  </actor>
+  <actor>
+    <name>Duan Chun-hao</name>
+    <role>Boss Hsing</role>
+    <type>Actor</type>
+    <tmdbid>69827</tmdbid>
+  </actor>
+  <actor>
+    <name>McFly Wu</name>
+    <role>Gambler</role>
+    <type>Actor</type>
+    <tmdbid>2133529</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruce Ho</name>
+    <role>Zheng  Xu-xiang</role>
+    <type>Actor</type>
+    <tmdbid>1568286</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu-Cheng Yang</name>
+    <role>Thai Assassin</role>
+    <type>Actor</type>
+    <tmdbid>4452056</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Wei Wu</name>
+    <role>Thai Assassin</role>
+    <type>Actor</type>
+    <tmdbid>2894531</tmdbid>
+  </actor>
+  <actor>
+    <name>Chun-Yung Wang</name>
+    <role>Auntie Gold's Gang</role>
+    <type>Actor</type>
+    <tmdbid>4452058</tmdbid>
+  </actor>
+  <actor>
+    <name>Alvin Lin</name>
+    <role>Auntie Gold's Gang</role>
+    <type>Actor</type>
+    <tmdbid>4452059</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shaochen</name>
+    <role>The Gong-Shin Gang</role>
+    <type>Actor</type>
+    <tmdbid>3228260</tmdbid>
+  </actor>
+  <actor>
+    <name>Peng-Lin Wang</name>
+    <role>The Gong-Shin Gang</role>
+    <type>Actor</type>
+    <tmdbid>3491281</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu-Chi Shen</name>
+    <role>The Gong-Shin Gang</role>
+    <type>Actor</type>
+    <tmdbid>4452950</tmdbid>
+  </actor>
+  <actor>
+    <name>Shan-Chien Tan</name>
+    <role>The Gong-Shin Gang</role>
+    <type>Actor</type>
+    <tmdbid>4434252</tmdbid>
+  </actor>
+  <actor>
+    <name>Shang-ting Chung</name>
+    <role>Boss North's Gang</role>
+    <type>Actor</type>
+    <tmdbid>3749473</tmdbid>
+  </actor>
+  <actor>
+    <name>Trig Yu</name>
+    <role>Boss North's Gang</role>
+    <type>Actor</type>
+    <tmdbid>4040695</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang-Ying Hsieh</name>
+    <role>Messed-Up Hair</role>
+    <type>Actor</type>
+    <tmdbid>2877243</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu-Yan Chen</name>
+    <role>Messed-Up Hair</role>
+    <type>Actor</type>
+    <tmdbid>4021872</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaizhe Chang</name>
+    <role>Messed-Up Hair</role>
+    <type>Actor</type>
+    <tmdbid>3771097</tmdbid>
+  </actor>
+  <actor>
+    <name>Tai-He Chen</name>
+    <role>Underage</role>
+    <type>Actor</type>
+    <tmdbid>4021874</tmdbid>
+  </actor>
+  <actor>
+    <name>Yong-Yu Xiao</name>
+    <role>Gambler</role>
+    <type>Actor</type>
+    <tmdbid>2253503</tmdbid>
+  </actor>
+  <actor>
+    <name>Crystal Chiang</name>
+    <role>Badger Game Girl</role>
+    <type>Actor</type>
+    <tmdbid>4452975</tmdbid>
+  </actor>
+  <actor>
+    <name>Lan-Shen Wang</name>
+    <role>Chinese Guy</role>
+    <type>Actor</type>
+    <tmdbid>3445854</tmdbid>
+  </actor>
+  <actor>
+    <name>Feng-Yi Zheng</name>
+    <role>Bike Guy</role>
+    <type>Actor</type>
+    <tmdbid>4121011</tmdbid>
+  </actor>
+  <director tmdbid="1012319">Giddens Ko</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wkyW2f3KH40</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Miss Shampoo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt27671269</imdbid>
+  <tmdbid>1016392</tmdbid>
+  <premiered>2023-07-28</premiered>
+  <releasedate>2023-07-28</releasedate>
+  <runtime>121</runtime>
+  <country>Taiwan</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>Machi Xcelsior Studios</studio>
+  <uniqueid type="tmdb">1016392</uniqueid>
+  <uniqueid type="imdb">tt27671269</uniqueid>
+  <id>tt27671269</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1148484</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7236</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129538</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

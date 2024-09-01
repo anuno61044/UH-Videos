@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Es el año 50 A.C., la Emperatriz de China acaba de ser encarcelada tras un golpe de Estado incitado por Dang Sin Kuing, un príncipe traidor. Ayudada por Granodemaíz, el comerciante fenicio, y su fiel guardaespaldas Wang Tah, la única hija de la Emperatriz, la Princesa Fo Yong, huye a la Galia para pedir ayuda a dos valientes guerreros, Astérix y Obélix, quienes están dotados de una fuerza sobrehumana gracias a su poción mágica. Nuestros dos inseparables galos aceptan por supuesto ayudar a la Princesa a salvar a su madre y liberar a su país. Y así comienza un gran viaje y aventura rumbo a China. Pero César y su poderoso ejército, sedientos de una nueva conquista, también se dirigen hacia el Reino Medio...]]></plot>
+  <outline><![CDATA[Una Película de Guillaume Canet]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-02 09:31:51</dateadded>
+  <title>Astérix y Obélix y el reino medio</title>
+  <originaltitle>Astérix &amp; Obélix : L'Empire du Milieu</originaltitle>
+  <actor>
+    <name>Guillaume Canet</name>
+    <role>Astérix</role>
+    <type>Actor</type>
+    <tmdbid>19866</tmdbid>
+    <imdbid>nm0133899</imdbid>
+  </actor>
+  <actor>
+    <name>Gilles Lellouche</name>
+    <role>Obélix</role>
+    <type>Actor</type>
+    <tmdbid>54291</tmdbid>
+    <imdbid>nm0500976</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Jules César</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+    <tvdbid>307583</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cohen</name>
+    <role>Graindemaïs</role>
+    <type>Actor</type>
+    <tmdbid>129765</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Chen</name>
+    <role>Princesse Fu Yi</role>
+    <type>Actor</type>
+    <tmdbid>3899517</tmdbid>
+  </actor>
+  <actor>
+    <name>Leanna Chea</name>
+    <role>Tat Han</role>
+    <type>Actor</type>
+    <tmdbid>2316851</tmdbid>
+  </actor>
+  <actor>
+    <name>Marion Cotillard</name>
+    <role>Cléopâtre / Bibine</role>
+    <type>Actor</type>
+    <tmdbid>8293</tmdbid>
+    <imdbid>nm0182839</imdbid>
+    <tvdbid>310834</tvdbid>
+  </actor>
+  <actor>
+    <name>José Garcia</name>
+    <role>Biopix</role>
+    <type>Actor</type>
+    <tmdbid>24895</tmdbid>
+    <imdbid>nm0305296</imdbid>
+  </actor>
+  <actor>
+    <name>Manu Payet</name>
+    <role>Ri Qi Qi</role>
+    <type>Actor</type>
+    <tmdbid>83967</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramzy Bedia</name>
+    <role>Epidemaïs</role>
+    <type>Actor</type>
+    <tmdbid>67714</tmdbid>
+    <imdbid>nm0066080</imdbid>
+  </actor>
+  <actor>
+    <name>Bun-hay Mean</name>
+    <role>Deng Tsin Qin</role>
+    <type>Actor</type>
+    <tmdbid>1657648</tmdbid>
+  </actor>
+  <actor>
+    <name>Linh Đan Phạm</name>
+    <role>L'Impératrice</role>
+    <type>Actor</type>
+    <tmdbid>19115</tmdbid>
+    <imdbid>nm0199006</imdbid>
+  </actor>
+  <actor>
+    <name>Pierre Richard</name>
+    <role>Panoramix</role>
+    <type>Actor</type>
+    <tmdbid>24501</tmdbid>
+  </actor>
+  <actor>
+    <name>Gérard Darmon</name>
+    <role>Le narrateur (voice)</role>
+    <type>Actor</type>
+    <tmdbid>47337</tmdbid>
+    <imdbid>nm0201462</imdbid>
+  </actor>
+  <actor>
+    <name>Tran Vu Tran</name>
+    <role>Prince du Deng</role>
+    <type>Actor</type>
+    <tmdbid>3459525</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Katerine</name>
+    <role>Assurancetourix</role>
+    <type>Actor</type>
+    <tmdbid>119501</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Commandeur</name>
+    <role>Abraracourcix</role>
+    <type>Actor</type>
+    <tmdbid>54170</tmdbid>
+  </actor>
+  <actor>
+    <name>Audrey Lamy</name>
+    <role>Bonnemine</role>
+    <type>Actor</type>
+    <tmdbid>130664</tmdbid>
+    <imdbid>nm2188804</imdbid>
+  </actor>
+  <actor>
+    <name>Franck Gastambide</name>
+    <role>Barbe-Rouge</role>
+    <type>Actor</type>
+    <tmdbid>1077537</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Desagnat</name>
+    <role>Perfidus</role>
+    <type>Actor</type>
+    <tmdbid>76825</tmdbid>
+  </actor>
+  <actor>
+    <name>Orelsan</name>
+    <role>Titanix</role>
+    <type>Actor</type>
+    <tmdbid>1265647</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Felpin</name>
+    <role>Carioca</role>
+    <type>Actor</type>
+    <tmdbid>2832358</tmdbid>
+  </actor>
+  <actor>
+    <name>Issa Doumbia</name>
+    <role>Baba, la vigie des pirates</role>
+    <type>Actor</type>
+    <tmdbid>582045</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Vandenberghe</name>
+    <role>Sinus</role>
+    <type>Actor</type>
+    <tmdbid>1336030</tmdbid>
+  </actor>
+  <actor>
+    <name>Monsieur Fraize</name>
+    <role>Plexus</role>
+    <type>Actor</type>
+    <tmdbid>1852487</tmdbid>
+  </actor>
+  <actor>
+    <name>Florian Ordonez</name>
+    <role>Abdelmalix</role>
+    <type>Actor</type>
+    <tmdbid>2681115</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivio Ordonez</name>
+    <role>Toufix</role>
+    <type>Actor</type>
+    <tmdbid>2487362</tmdbid>
+  </actor>
+  <actor>
+    <name>David Coscas</name>
+    <role>Radius</role>
+    <type>Actor</type>
+    <tmdbid>2354059</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphaël Carlier</name>
+    <role>Cubitus</role>
+    <type>Actor</type>
+    <tmdbid>2354058</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana Gousseff</name>
+    <role>Iélosubmarine</role>
+    <type>Actor</type>
+    <tmdbid>146493</tmdbid>
+  </actor>
+  <actor>
+    <name>Yann Papin</name>
+    <role>Abribus</role>
+    <type>Actor</type>
+    <tmdbid>1554711</tmdbid>
+  </actor>
+  <actor>
+    <name>Angèle</name>
+    <role>Falbala</role>
+    <type>Actor</type>
+    <tmdbid>2358340</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthieu Chedid</name>
+    <role>Remix</role>
+    <type>Actor</type>
+    <tmdbid>66841</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Chicandier</name>
+    <role>Ordralfabétix</role>
+    <type>Actor</type>
+    <tmdbid>3443770</tmdbid>
+  </actor>
+  <actor>
+    <name>Zlatan Ibrahimović</name>
+    <role>Antivirus</role>
+    <type>Actor</type>
+    <tmdbid>1066986</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Hibon</name>
+    <role>Lapsus</role>
+    <type>Actor</type>
+    <tmdbid>3459524</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Hoang Nghi</name>
+    <role>Ramoli</role>
+    <type>Actor</type>
+    <tmdbid>985030</tmdbid>
+    <imdbid>nm0387473</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe Canet</name>
+    <role>Agecanonix</role>
+    <type>Actor</type>
+    <tmdbid>2624006</tmdbid>
+  </actor>
+  <actor>
+    <name>Florent Manaudou</name>
+    <role>Tabascos</role>
+    <type>Actor</type>
+    <tmdbid>1596174</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Etienne</name>
+    <type>Actor</type>
+    <tmdbid>2856753</tmdbid>
+  </actor>
+  <actor>
+    <name>Ragnar Le Breton</name>
+    <type>Actor</type>
+    <tmdbid>2619602</tmdbid>
+  </actor>
+  <actor>
+    <name>Wesley Weigel</name>
+    <role>Pirate</role>
+    <type>Actor</type>
+    <tmdbid>2271615</tmdbid>
+  </actor>
+  <actor>
+    <name>Sakhone Holaphong</name>
+    <role>Chinese villager</role>
+    <type>Actor</type>
+    <tmdbid>2671152</tmdbid>
+  </actor>
+  <actor>
+    <name>André Kalmes</name>
+    <role>Cétautomatix</role>
+    <type>Actor</type>
+    <tmdbid>2593173</tmdbid>
+  </actor>
+  <director tmdbid="19866" imdbid="nm0133899">Guillaume Canet</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3kQ2__AsiBA</trailer>
+  <rating>5.1</rating>
+  <year>2023</year>
+  <sorttitle>Asterix y Obelix y el reino medio</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt11210390</imdbid>
+  <tmdbid>643215</tmdbid>
+  <premiered>2023-02-01</premiered>
+  <releasedate>2023-02-01</releasedate>
+  <runtime>110</runtime>
+  <tagline>Una Película de Guillaume Canet</tagline>
+  <country>France</country>
+  <genre>Familia</genre>
+  <genre>Comedia</genre>
+  <genre>Aventura</genre>
+  <studio>Les Éditions Albert René</studio>
+  <studio>Les Enfants Terribles</studio>
+  <studio>Pathé</studio>
+  <studio>Trésor Films</studio>
+  <set tmdbcolid="2396">
+    <name>Asterix y Obelix - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt11210390</uniqueid>
+  <uniqueid type="tmdb">643215</uniqueid>
+  <id>tt11210390</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2503332</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6627</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

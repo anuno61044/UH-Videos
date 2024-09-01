@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Adoptados juntos tras pasar una infancia difícil en un orfanato, Nica y Rigel se dan cuenta de que están unidos por unos sentimientos inesperados... e irrefrenables.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-07 09:43:18</dateadded>
+  <title>Fabricante de lágrimas</title>
+  <originaltitle>Fabbricante di lacrime</originaltitle>
+  <actor>
+    <name>Caterina Ferioli</name>
+    <role>Nica</role>
+    <type>Actor</type>
+    <tmdbid>4063206</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Baldasseroni</name>
+    <role>Rigel Wilde</role>
+    <type>Actor</type>
+    <tmdbid>2752768</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Paravicini</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>232110</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Bedetti</name>
+    <role>Lionel</role>
+    <type>Actor</type>
+    <tmdbid>3935136</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberta Rovelli</name>
+    <role>Anna Milligan</role>
+    <type>Actor</type>
+    <tmdbid>1940113</tmdbid>
+  </actor>
+  <actor>
+    <name>Orlando Cinque</name>
+    <role>Norman Milligan</role>
+    <type>Actor</type>
+    <tmdbid>1277390</tmdbid>
+  </actor>
+  <actor>
+    <name>Eco Andriolo Ranzi</name>
+    <role>Adeline</role>
+    <type>Actor</type>
+    <tmdbid>2189033</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicky Passarella</name>
+    <role>Billie</role>
+    <type>Actor</type>
+    <tmdbid>4549912</tmdbid>
+  </actor>
+  <actor>
+    <name>Sveva Romano Candelletta</name>
+    <role>Miki</role>
+    <type>Actor</type>
+    <tmdbid>4626594</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Baldi</name>
+    <type>Actor</type>
+    <tmdbid>1340058</tmdbid>
+  </actor>
+  <actor>
+    <name>Matteo Capraro</name>
+    <type>Actor</type>
+    <tmdbid>4635493</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Cianca</name>
+    <type>Actor</type>
+    <tmdbid>3076177</tmdbid>
+  </actor>
+  <actor>
+    <name>Juju Di Domenico</name>
+    <type>Actor</type>
+    <tmdbid>2649927</tmdbid>
+  </actor>
+  <actor>
+    <name>Filippo Giacomelli</name>
+    <type>Actor</type>
+    <tmdbid>4635494</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugenio Krauss</name>
+    <type>Actor</type>
+    <tmdbid>1044768</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulia Martinelli</name>
+    <type>Actor</type>
+    <tmdbid>2867623</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Pala Griesche</name>
+    <type>Actor</type>
+    <tmdbid>4635495</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Tanzi</name>
+    <role>Giudice</role>
+    <type>Actor</type>
+    <tmdbid>1902059</tmdbid>
+  </actor>
+  <actor>
+    <name>Aron Tewelde</name>
+    <type>Actor</type>
+    <tmdbid>4635497</tmdbid>
+  </actor>
+  <director tmdbid="129106">Alessandro Genovesi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qEh_90RnlD8</trailer>
+  <rating>5.2</rating>
+  <year>2024</year>
+  <sorttitle>Fabricante de lagrimas</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt29114029</imdbid>
+  <tmdbid>1127166</tmdbid>
+  <premiered>2024-04-03</premiered>
+  <releasedate>2024-04-03</releasedate>
+  <runtime>105</runtime>
+  <country>Italy</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>Colorado Film</studio>
+  <uniqueid type="imdb">tt29114029</uniqueid>
+  <uniqueid type="tmdb">1127166</uniqueid>
+  <id>tt29114029</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1521465</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6318</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

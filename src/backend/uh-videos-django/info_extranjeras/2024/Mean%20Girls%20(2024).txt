@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de chicas populares llamado "Las Plásticas", gobernado por la intrigante abeja reina Regina George y sus secuaces Gretchen y Karen. Sin embargo, cuando Cady comete el grave error de enamorarse del ex novio de Regina, Aaron Samuels, se encuentra en el punto de mira de Regina. Con la ayuda de sus amigos marginados Janis y Damian, Cady se propone acabar con la depredadora del grupo y aprender a ser fiel a sí misma en la jungla más despiadada de todas: el instituto.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-22 08:33:39</dateadded>
+  <title>Chicas malas</title>
+  <originaltitle>Mean Girls</originaltitle>
+  <actor>
+    <name>Angourie Rice</name>
+    <role>Cady Heron</role>
+    <type>Actor</type>
+    <tmdbid>1265629</tmdbid>
+    <imdbid>nm3886028</imdbid>
+    <tvdbid>685631</tvdbid>
+  </actor>
+  <actor>
+    <name>Reneé Rapp</name>
+    <role>Regina George</role>
+    <type>Actor</type>
+    <tmdbid>2872773</tmdbid>
+  </actor>
+  <actor>
+    <name>Auli'i Cravalho</name>
+    <role>Janis 'Imi'ike</role>
+    <type>Actor</type>
+    <tmdbid>1564846</tmdbid>
+    <imdbid>nm7635388</imdbid>
+    <tvdbid>612902</tvdbid>
+  </actor>
+  <actor>
+    <name>Jaquel Spivey</name>
+    <role>Damian Hubbard</role>
+    <type>Actor</type>
+    <tmdbid>3823459</tmdbid>
+  </actor>
+  <actor>
+    <name>Avantika Vandanapu</name>
+    <role>Karen Shetty</role>
+    <type>Actor</type>
+    <tmdbid>2749024</tmdbid>
+  </actor>
+  <actor>
+    <name>Bebe Wood</name>
+    <role>Gretchen Wieners</role>
+    <type>Actor</type>
+    <tmdbid>1256118</tmdbid>
+    <tvdbid>460039</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher Briney</name>
+    <role>Aaron Samuels</role>
+    <type>Actor</type>
+    <tmdbid>3031442</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Fischer</name>
+    <role>Mrs. Heron</role>
+    <type>Actor</type>
+    <tmdbid>51856</tmdbid>
+    <imdbid>nm0278979</imdbid>
+    <tvdbid>255067</tvdbid>
+  </actor>
+  <actor>
+    <name>Busy Philipps</name>
+    <role>Mrs. George</role>
+    <type>Actor</type>
+    <tmdbid>60928</tmdbid>
+    <imdbid>nm0005311</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Fey</name>
+    <role>Ms. Norbury</role>
+    <type>Actor</type>
+    <tmdbid>56323</tmdbid>
+    <imdbid>nm0275486</imdbid>
+    <tvdbid>310596</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Meadows</name>
+    <role>Mr. Duvall</role>
+    <type>Actor</type>
+    <tmdbid>51857</tmdbid>
+    <imdbid>nm0005218</imdbid>
+    <tvdbid>318647</tvdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Lohan</name>
+    <role>Mathletes Quizmaster</role>
+    <type>Actor</type>
+    <tmdbid>49265</tmdbid>
+    <imdbid>nm0517820</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Hamm</name>
+    <role>Coach Carr</role>
+    <type>Actor</type>
+    <tmdbid>65717</tmdbid>
+    <imdbid>nm0358316</imdbid>
+    <tvdbid>269026</tvdbid>
+  </actor>
+  <actor>
+    <name>Ashley Park</name>
+    <role>Madame Park</role>
+    <type>Actor</type>
+    <tmdbid>1285023</tmdbid>
+    <imdbid>nm3844430</imdbid>
+    <tvdbid>610588</tvdbid>
+  </actor>
+  <actor>
+    <name>Connor Ratliff</name>
+    <role>Mr. Rapp</role>
+    <type>Actor</type>
+    <tmdbid>1733801</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahi Alam</name>
+    <role>Kevin Ganatra</role>
+    <type>Actor</type>
+    <tmdbid>3978974</tmdbid>
+  </actor>
+  <actor>
+    <name>John El-Jor</name>
+    <role>Jason Weems</role>
+    <type>Actor</type>
+    <tmdbid>4478718</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Altemus</name>
+    <role>Shane Oman</role>
+    <type>Actor</type>
+    <tmdbid>2666822</tmdbid>
+    <tvdbid>8181937</tvdbid>
+  </actor>
+  <actor>
+    <name>Megan Thee Stallion</name>
+    <role>Megan Thee Stallion</role>
+    <type>Actor</type>
+    <tmdbid>2396830</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Wang</name>
+    <role>Jacob Zheng</role>
+    <type>Actor</type>
+    <tvdbid>9111993</tvdbid>
+    <tmdbid>3033265</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Frias</name>
+    <role>Matthew Richmond</role>
+    <type>Actor</type>
+    <tmdbid>4478720</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Bria Lopez</name>
+    <role>Sonja Aquino</role>
+    <type>Actor</type>
+    <tmdbid>4478721</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgen McKynzie</name>
+    <role>Grace Porter</role>
+    <type>Actor</type>
+    <tmdbid>4078088</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Mincone</name>
+    <role>Taylor Wedell</role>
+    <type>Actor</type>
+    <tmdbid>2995889</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Cila</name>
+    <role>Caitlyn Caussin</role>
+    <type>Actor</type>
+    <tmdbid>1945694</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Gallimore</name>
+    <role>Christian Wiggins</role>
+    <type>Actor</type>
+    <tmdbid>3873401</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Notartomaso</name>
+    <role>Lizzie Thurman</role>
+    <type>Actor</type>
+    <tvdbid>9088705</tvdbid>
+    <tmdbid>3290628</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Umoff</name>
+    <role>Dawn Schweitzer</role>
+    <type>Actor</type>
+    <tmdbid>4435973</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaylee Kaleinani</name>
+    <role>Sophie Kawachi</role>
+    <type>Actor</type>
+    <tmdbid>4478722</tmdbid>
+  </actor>
+  <actor>
+    <name>Allison Winn</name>
+    <role>Caroline Krafft</role>
+    <type>Actor</type>
+    <tmdbid>1872609</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Heineman</name>
+    <role>M. Obo</role>
+    <type>Actor</type>
+    <tmdbid>4478723</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernell Hogan</name>
+    <role>V. Bowling</role>
+    <type>Actor</type>
+    <tmdbid>4044991</tmdbid>
+  </actor>
+  <actor>
+    <name>Calidore Robinson</name>
+    <role>S. Martin</role>
+    <type>Actor</type>
+    <tmdbid>1852511</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Dobrushin</name>
+    <role>Teary Girl</role>
+    <type>Actor</type>
+    <tmdbid>2556285</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Harrison Mateo</name>
+    <role>Tiny Boy</role>
+    <type>Actor</type>
+    <tmdbid>4206178</tmdbid>
+  </actor>
+  <actor>
+    <name>Amann Iqbal</name>
+    <role>Rude Girl</role>
+    <type>Actor</type>
+    <tmdbid>4478747</tmdbid>
+  </actor>
+  <actor>
+    <name>Nahscha</name>
+    <role>Burnout Friend</role>
+    <type>Actor</type>
+    <tmdbid>4478749</tmdbid>
+  </actor>
+  <actor>
+    <name>Gage Roark</name>
+    <role>Theater Boy</role>
+    <type>Actor</type>
+    <tmdbid>4478751</tmdbid>
+  </actor>
+  <actor>
+    <name>Soona Lee-Tolley</name>
+    <role>Band Freak</role>
+    <type>Actor</type>
+    <tmdbid>4478752</tmdbid>
+  </actor>
+  <actor>
+    <name>Janna Graham</name>
+    <role>Band Freak</role>
+    <type>Actor</type>
+    <tmdbid>4478753</tmdbid>
+  </actor>
+  <actor>
+    <name>Matilde Heckler</name>
+    <role>Band Freak</role>
+    <type>Actor</type>
+    <tmdbid>4478755</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Castro</name>
+    <role>Band Freak</role>
+    <type>Actor</type>
+    <tmdbid>4478757</tmdbid>
+  </actor>
+  <actor>
+    <name>Nuri Park</name>
+    <role>Choir Girl</role>
+    <type>Actor</type>
+    <tmdbid>4478759</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Slear</name>
+    <role>Choir Girl</role>
+    <type>Actor</type>
+    <tmdbid>4478761</tmdbid>
+  </actor>
+  <actor>
+    <name>Izzy Bank</name>
+    <role>Choir Girl</role>
+    <type>Actor</type>
+    <tmdbid>4478762</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayla LaVine</name>
+    <role>Choir Girl</role>
+    <type>Actor</type>
+    <tmdbid>4478763</tmdbid>
+  </actor>
+  <actor>
+    <name>James Henri Jones</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>4478765</tmdbid>
+  </actor>
+  <actor>
+    <name>Garid Garcia</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>4478766</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Schwencke</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>2004434</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellena Eshraghi</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>4478773</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelsie Daniels</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>2082443</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Witek</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>4478775</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Witek</name>
+    <role>North Shore Student</role>
+    <type>Actor</type>
+    <tmdbid>4478777</tmdbid>
+  </actor>
+  <actor>
+    <name>Meredith Dunbar</name>
+    <role>Longboarder</role>
+    <type>Actor</type>
+    <tmdbid>4478778</tmdbid>
+  </actor>
+  <actor>
+    <name>Hank Pekarsky</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>4478779</tmdbid>
+  </actor>
+  <actor>
+    <name>Sri</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tvdbid>7975385</tvdbid>
+    <tmdbid>4478782</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Merrell-Burriss</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>1450395</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Merrell</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>1450394</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordi</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>4478784</tmdbid>
+  </actor>
+  <actor>
+    <name>Énola Bédard</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>2334857</tmdbid>
+  </actor>
+  <actor>
+    <name>Nia Sioux</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>1642840</tmdbid>
+  </actor>
+  <actor>
+    <name>Emely Moreno</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>4478788</tmdbid>
+  </actor>
+  <actor>
+    <name>Jazz Jennings</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>1561112</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierson Wodzynski</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>3512354</tmdbid>
+  </actor>
+  <actor>
+    <name>Mars Avila</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>3044715</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Chow</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>1647207</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Olsen</name>
+    <role>Social Media Friend</role>
+    <type>Actor</type>
+    <tmdbid>3557181</tmdbid>
+  </actor>
+  <actor>
+    <name>Bailey B. Angelski</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478792</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua M. Baer</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478793</tmdbid>
+  </actor>
+  <actor>
+    <name>Caitlin M. Beecham</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478794</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha R. Borsari</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478795</tmdbid>
+  </actor>
+  <actor>
+    <name>Briannon E. Bowman</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478796</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian A. Boyce</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478797</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Cassano</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478798</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle K. Catalano</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478799</tmdbid>
+  </actor>
+  <actor>
+    <name>Ismael Chino</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478800</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianna M. Cologna</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478802</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason L. DeGroff</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478804</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaylin E. DeGroff</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478805</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua P. Doody</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478807</tmdbid>
+  </actor>
+  <actor>
+    <name>Christiana J. Doyle</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478809</tmdbid>
+  </actor>
+  <actor>
+    <name>Calysta R. Eachus</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478811</tmdbid>
+  </actor>
+  <actor>
+    <name>Kasey L. Ericson</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478812</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy S. Fletcher</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478813</tmdbid>
+  </actor>
+  <actor>
+    <name>Orlando Galarza</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478814</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron T. Garde</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478815</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean G. Haight</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478816</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan J. Horgan</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478818</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Kissel</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478819</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher J. Lucey</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478820</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan A. Macneil</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478821</tmdbid>
+  </actor>
+  <actor>
+    <name>Malachi I. McLean</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478822</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin J. McTernan</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478825</tmdbid>
+  </actor>
+  <actor>
+    <name>Julien F. Miller</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478826</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren M. Molfetta</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478827</tmdbid>
+  </actor>
+  <actor>
+    <name>Meryem Oldro</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478828</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor D. Paul</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478829</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria G. Russo</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478830</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia C. Tona</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478833</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony M. Varbaro</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478834</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico A. Varone</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478835</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas R. Wilson</name>
+    <role>Marching Band</role>
+    <type>Actor</type>
+    <tmdbid>4478837</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Patrick Cameron</name>
+    <role>North Shore Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2832722</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica S. Taylor</name>
+    <role>Rachel Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>3411162</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Johnson</name>
+    <role>Longboarder</role>
+    <type>Actor</type>
+    <tmdbid>4542051</tmdbid>
+  </actor>
+  <director tmdbid="1438990">Samantha Jayne</director>
+  <director tmdbid="1438991">Arturo Perez Jr.</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=291Y-Y7Kcr8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vm19EUw_gj8</trailer>
+  <rating>5.9</rating>
+  <year>2024</year>
+  <sorttitle>Chicas malas</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11762114</imdbid>
+  <tmdbid>673593</tmdbid>
+  <premiered>2024-01-10</premiered>
+  <releasedate>2024-01-10</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>112</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Little Stranger</studio>
+  <studio>Broadway Video</studio>
+  <studio>Paramount</studio>
+  <uniqueid type="imdb">tt11762114</uniqueid>
+  <uniqueid type="tmdb">673593</uniqueid>
+  <id>tt11762114</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>991972</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6744</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

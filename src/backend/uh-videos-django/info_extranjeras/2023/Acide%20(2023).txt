@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[During a heat wave, strange clouds start pouring down acid rain, wreaking devastation and panic throughout France. In a world teetering on the edge, a girl and her divorced parents must join forces to confront and try to escape this climate catastrophe.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-18 08:22:32</dateadded>
+  <title>Acide</title>
+  <originaltitle>Acide</originaltitle>
+  <actor>
+    <name>Guillaume Canet</name>
+    <role>Michal</role>
+    <type>Actor</type>
+    <tmdbid>19866</tmdbid>
+    <imdbid>nm0133899</imdbid>
+  </actor>
+  <actor>
+    <name>Laetitia Dosch</name>
+    <role>Elise</role>
+    <type>Actor</type>
+    <tmdbid>1164460</tmdbid>
+  </actor>
+  <actor>
+    <name>Patience Munchenbach</name>
+    <role>Selma</role>
+    <type>Actor</type>
+    <tmdbid>2302731</tmdbid>
+  </actor>
+  <actor>
+    <name>Felicia Talluto</name>
+    <role>Rescapée</role>
+    <type>Actor</type>
+    <tmdbid>3848861</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Jung</name>
+    <role>Deborah</role>
+    <type>Actor</type>
+    <tmdbid>1041249</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Verset</name>
+    <role>William</role>
+    <type>Actor</type>
+    <tmdbid>3030075</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentijn Dhaenens</name>
+    <role>Volontaire secours</role>
+    <type>Actor</type>
+    <tmdbid>115740</tmdbid>
+  </actor>
+  <actor>
+    <name>Céline Groussard</name>
+    <role>Infirmière belge</role>
+    <type>Actor</type>
+    <tmdbid>1834724</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Stuckens</name>
+    <role>Jeune volontaire</role>
+    <type>Actor</type>
+    <tmdbid>3864437</tmdbid>
+  </actor>
+  <actor>
+    <name>Adèle Sierra</name>
+    <role>Infirmière</role>
+    <type>Actor</type>
+    <tmdbid>3864438</tmdbid>
+  </actor>
+  <director tmdbid="1636365">Just Philippot</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XeRo7qpNFxo</trailer>
+  <rating>5.6</rating>
+  <year>2023</year>
+  <sorttitle>Acide</sorttitle>
+  <imdbid>tt17569526</imdbid>
+  <tmdbid>852445</tmdbid>
+  <premiered>2023-09-20</premiered>
+  <releasedate>2023-09-20</releasedate>
+  <runtime>100</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Fantasía</genre>
+  <studio>Pathé</studio>
+  <studio>Bonne Pioche</studio>
+  <studio>uMedia</studio>
+  <uniqueid type="imdb">tt17569526</uniqueid>
+  <uniqueid type="tmdb">852445</uniqueid>
+  <id>tt17569526</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>719134</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5986</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128200</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

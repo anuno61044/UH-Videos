@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en la campiña toscana, se centra en el tema del saqueo arqueológico y la venta ilegal de obras arqueológicas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-08 11:36:37</dateadded>
+  <title>La quimera</title>
+  <originaltitle>La chimera</originaltitle>
+  <actor>
+    <name>Josh O'Connor</name>
+    <role>Arthur</role>
+    <type>Actor</type>
+    <tmdbid>1206334</tmdbid>
+    <imdbid>nm4853066</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Duarte</name>
+    <role>Italia</role>
+    <type>Actor</type>
+    <tmdbid>2128873</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Rohrwacher</name>
+    <role>Frida</role>
+    <type>Actor</type>
+    <tmdbid>128748</tmdbid>
+    <imdbid>nm2130040</imdbid>
+  </actor>
+  <actor>
+    <name>Isabella Rossellini</name>
+    <role>Flora</role>
+    <type>Actor</type>
+    <tmdbid>6588</tmdbid>
+    <imdbid>nm0000618</imdbid>
+  </actor>
+  <actor>
+    <name>Vincenzo Nemolato</name>
+    <role>Pirro</role>
+    <type>Actor</type>
+    <tmdbid>1341582</tmdbid>
+    <tvdbid>8251656</tvdbid>
+  </actor>
+  <actor>
+    <name>Lou Roy-Lecollinet</name>
+    <role>Melodie</role>
+    <type>Actor</type>
+    <tmdbid>1451519</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliano Mantovani</name>
+    <role>Jerry</role>
+    <type>Actor</type>
+    <tmdbid>4072273</tmdbid>
+  </actor>
+  <actor>
+    <name>Gian Piero Capretto</name>
+    <role>Mario</role>
+    <type>Actor</type>
+    <tmdbid>4072271</tmdbid>
+  </actor>
+  <actor>
+    <name>Melchiorre Pala</name>
+    <role>Melchiorre</role>
+    <type>Actor</type>
+    <tmdbid>4072274</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramona Fiorini</name>
+    <role>Fabiana</role>
+    <type>Actor</type>
+    <tmdbid>1880576</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Gargiullo</name>
+    <role>Il portuale</role>
+    <type>Actor</type>
+    <tmdbid>4072272</tmdbid>
+  </actor>
+  <actor>
+    <name>Yle Vianello</name>
+    <role>Beniamina</role>
+    <type>Actor</type>
+    <tmdbid>239920</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Chiesa</name>
+    <role>Nella</role>
+    <type>Actor</type>
+    <tmdbid>2185956</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisabetta Perotto</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>1925159</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiara Pazzaglia</name>
+    <role>Rossa</role>
+    <type>Actor</type>
+    <tmdbid>2652385</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Carrain</name>
+    <role>Sista</role>
+    <type>Actor</type>
+    <tmdbid>4306338</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciano Vergaro</name>
+    <role>Katir</role>
+    <type>Actor</type>
+    <tmdbid>3103929</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlo Tarmati</name>
+    <role>Carabiniere</role>
+    <type>Actor</type>
+    <tmdbid>1524909</tmdbid>
+  </actor>
+  <director tmdbid="931211">Alice Rohrwacher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iv5JQpxKle0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TkIC8YI9-eU</trailer>
+  <rating>7.3</rating>
+  <year>2023</year>
+  <sorttitle>quimera</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt14561712</imdbid>
+  <tmdbid>837335</tmdbid>
+  <premiered>2023-10-12</premiered>
+  <releasedate>2023-10-12</releasedate>
+  <runtime>131</runtime>
+  <country>France</country>
+  <country>Italy</country>
+  <country>Switzerland</country>
+  <country>Turkey</country>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Tempesta</studio>
+  <studio>Ad Vitam Production</studio>
+  <studio>ARTE</studio>
+  <studio>RAI Cinema</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>MiC</studio>
+  <studio>CNC</studio>
+  <studio>Turkish Radio &amp; Television</studio>
+  <studio>Amka Films</studio>
+  <studio>RSI</studio>
+  <studio>ARTE France Cinéma</studio>
+  <uniqueid type="imdb">tt14561712</uniqueid>
+  <uniqueid type="tmdb">837335</uniqueid>
+  <id>tt14561712</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1873446</bitrate>
+        <width>720</width>
+        <height>404</height>
+        <aspect>180:101</aspect>
+        <aspectratio>180:101</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>131</duration>
+        <durationinseconds>7878</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

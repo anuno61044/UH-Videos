@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de un catastrófico accidente en un planeta desconocido, el piloto Mills descubre rápidamente que realmente está varado en la Tierra… hace 65 millones de años. Ahora, con solo una oportunidad de rescate, Mills y la otra única superviviente, Koa, deberán abrirse camino a través del desconocido territorio plagado con peligrosas criaturas prehistóricas en una épica lucha por sobrevivir.]]></plot>
+  <outline><![CDATA[65 millones de años atrás, la Tierra prehistórica tuvo un visitante.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-07 08:46:22</dateadded>
+  <title>65</title>
+  <originaltitle>65</originaltitle>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Mills</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Ariana Greenblatt</name>
+    <role>Koa</role>
+    <type>Actor</type>
+    <tmdbid>1767250</tmdbid>
+    <imdbid>nm7567556</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Coleman</name>
+    <role>Nevine</role>
+    <type>Actor</type>
+    <tmdbid>1696016</tmdbid>
+    <imdbid>nm5668548</imdbid>
+  </actor>
+  <actor>
+    <name>Nika King</name>
+    <role>Alya</role>
+    <type>Actor</type>
+    <tmdbid>98415</tmdbid>
+    <imdbid>nm1519739</imdbid>
+    <tvdbid>7902730</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Dare</name>
+    <role>Zoic Ship (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1450385</tmdbid>
+  </actor>
+  <director tmdbid="1317685" imdbid="nm1399714">Scott Beck</director>
+  <director tmdbid="1317686" imdbid="nm1456816">Bryan Woods</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TtHS8-2w-cA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YeKgkbYSUhA</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>65</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12261776</imdbid>
+  <tmdbid>700391</tmdbid>
+  <premiered>2023-03-02</premiered>
+  <releasedate>2023-03-02</releasedate>
+  <criticrating>34</criticrating>
+  <runtime>93</runtime>
+  <tagline>65 millones de años atrás, la Tierra prehistórica tuvo un visitante.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Acción</genre>
+  <studio>Raimi Productions</studio>
+  <studio>Beck/Woods</studio>
+  <studio>Bron Studios</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="tmdb">700391</uniqueid>
+  <uniqueid type="imdb">tt12261776</uniqueid>
+  <id>tt12261776</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1199996</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5569</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

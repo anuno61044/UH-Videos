@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven desempleada es contratada por una pareja adinerada para socializar con su hijo introvertido.]]></plot>
+  <outline><![CDATA[Ella necesita un coche. Él necesita una novia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-09 15:14:12</dateadded>
+  <title>Sin malos rollos</title>
+  <originaltitle>No Hard Feelings</originaltitle>
+  <actor>
+    <name>Jennifer Lawrence</name>
+    <role>Maddie Barker</role>
+    <type>Actor</type>
+    <tmdbid>72129</tmdbid>
+    <imdbid>nm2225369</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Barth Feldman</name>
+    <role>Percy Becker</role>
+    <type>Actor</type>
+    <tmdbid>2914688</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Benanti</name>
+    <role>Allison Becker</role>
+    <type>Actor</type>
+    <tmdbid>60034</tmdbid>
+    <tvdbid>394870</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Broderick</name>
+    <role>Laird Becker</role>
+    <type>Actor</type>
+    <tmdbid>4756</tmdbid>
+    <imdbid>nm0000111</imdbid>
+    <tvdbid>310446</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalie Morales</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>118752</tmdbid>
+    <imdbid>nm2295540</imdbid>
+    <tvdbid>454237</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott MacArthur</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>209087</tmdbid>
+    <imdbid>nm2509902</imdbid>
+  </actor>
+  <actor>
+    <name>Ebon Moss-Bachrach</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>21042</tmdbid>
+    <imdbid>nm0609114</imdbid>
+    <tvdbid>315725</tvdbid>
+  </actor>
+  <actor>
+    <name>Kyle Mooney</name>
+    <role>Jody</role>
+    <type>Actor</type>
+    <tmdbid>1180698</tmdbid>
+    <imdbid>nm3324982</imdbid>
+  </actor>
+  <actor>
+    <name>Hasan Minhaj</name>
+    <role>Doug Khan</role>
+    <type>Actor</type>
+    <tmdbid>552252</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Mendoza</name>
+    <role>Crispin</role>
+    <type>Actor</type>
+    <tmdbid>3075124</tmdbid>
+  </actor>
+  <actor>
+    <name>Amalia Yoo</name>
+    <role>Natalie</role>
+    <type>Actor</type>
+    <tmdbid>2779827</tmdbid>
+  </actor>
+  <actor>
+    <name>Alysia Joy Powell</name>
+    <role>Fern</role>
+    <type>Actor</type>
+    <tmdbid>1822023</tmdbid>
+  </actor>
+  <actor>
+    <name>Quincy Dunn-Baker</name>
+    <role>Travis</role>
+    <type>Actor</type>
+    <tmdbid>1220768</tmdbid>
+    <imdbid>nm2354102</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Noszka</name>
+    <role>Hot Guy from Bar</role>
+    <type>Actor</type>
+    <tmdbid>2129566</tmdbid>
+  </actor>
+  <actor>
+    <name>Zahn McClarnon</name>
+    <role>Gabe Sawyer, Surfing Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>42376</tmdbid>
+    <imdbid>nm0565647</imdbid>
+    <tvdbid>279566</tvdbid>
+  </actor>
+  <actor>
+    <name>Madison Odenborg</name>
+    <role>Melanie</role>
+    <type>Actor</type>
+    <tmdbid>4125806</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Galvis</name>
+    <role>Gorgeous Italian Guy</role>
+    <type>Actor</type>
+    <tmdbid>4125809</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Walton</name>
+    <role>Irate Bar Customer</role>
+    <type>Actor</type>
+    <tmdbid>144211</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Catechis</name>
+    <role>Waitress (Townie Bar)</role>
+    <type>Actor</type>
+    <tmdbid>2316212</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Bailey</name>
+    <role>Beach Bully</role>
+    <type>Actor</type>
+    <tmdbid>4189110</tmdbid>
+  </actor>
+  <actor>
+    <name>Eason Rytter</name>
+    <role>Beach Bully</role>
+    <type>Actor</type>
+    <tmdbid>4000154</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Hupp</name>
+    <role>Beach Bully</role>
+    <type>Actor</type>
+    <tmdbid>4189111</tmdbid>
+  </actor>
+  <actor>
+    <name>Achi Miller</name>
+    <role>Teen</role>
+    <type>Actor</type>
+    <tmdbid>4189112</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Augustin</name>
+    <role>Teen</role>
+    <type>Actor</type>
+    <tmdbid>4206162</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Kispert</name>
+    <role>Athlete</role>
+    <type>Actor</type>
+    <tmdbid>4206166</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Metz</name>
+    <role>Athlete</role>
+    <type>Actor</type>
+    <tmdbid>2659202</tmdbid>
+  </actor>
+  <actor>
+    <name>Alaina Surgener</name>
+    <role>Teen Girl</role>
+    <type>Actor</type>
+    <tmdbid>3963321</tmdbid>
+  </actor>
+  <actor>
+    <name>Sejal Joshi</name>
+    <role>Teen Girl</role>
+    <type>Actor</type>
+    <tmdbid>3328351</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Verhaeghe</name>
+    <role>Party Dad</role>
+    <type>Actor</type>
+    <tmdbid>171701</tmdbid>
+    <imdbid>nm0894141</imdbid>
+  </actor>
+  <actor>
+    <name>Kelley Rae O'Donnell</name>
+    <role>Party Mother</role>
+    <type>Actor</type>
+    <tmdbid>2469468</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Johantgen</name>
+    <role>Barista</role>
+    <type>Actor</type>
+    <tmdbid>4206168</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Frenkel</name>
+    <role>Recent Alumnus</role>
+    <type>Actor</type>
+    <tmdbid>3162608</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Frail Boy at House Party</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>John DeMari</name>
+    <role>House Party Teen Who Text in Bed</role>
+    <type>Actor</type>
+    <tmdbid>4206169</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Harrison Mateo</name>
+    <role>House Party Teen Who Text in Bed</role>
+    <type>Actor</type>
+    <tmdbid>4206178</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison McBride</name>
+    <role>House Party Teen Who Text in Bed</role>
+    <type>Actor</type>
+    <tmdbid>4160156</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Heideman</name>
+    <role>House Party Teen Who Text in Bed</role>
+    <type>Actor</type>
+    <tmdbid>2517616</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia DeMoura Braine</name>
+    <role>House Party Teen Who Text in Bed</role>
+    <type>Actor</type>
+    <tmdbid>4206179</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Tananbaum</name>
+    <role>House Party Teen Who Text in Bed</role>
+    <type>Actor</type>
+    <tmdbid>3853978</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Lehman</name>
+    <role>Kelly</role>
+    <type>Actor</type>
+    <tmdbid>3739930</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Fisher</name>
+    <role>Kelly's Friend</role>
+    <type>Actor</type>
+    <tmdbid>3058357</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Caposino</name>
+    <role>Tall Uber Man</role>
+    <type>Actor</type>
+    <tmdbid>4206172</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Cali</name>
+    <role>Mechanic Buick</role>
+    <type>Actor</type>
+    <tmdbid>2806832</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Easton Kelly</name>
+    <role>Laser Tag Kid</role>
+    <type>Actor</type>
+    <tmdbid>4206175</tmdbid>
+  </actor>
+  <actor>
+    <name>Darren Valinotti</name>
+    <role>Arcade Kid</role>
+    <type>Actor</type>
+    <tmdbid>2376228</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Tomais</name>
+    <role>Inez</role>
+    <type>Actor</type>
+    <tmdbid>4206176</tmdbid>
+  </actor>
+  <actor>
+    <name>Earl Rose</name>
+    <role>Restaurant Pianist</role>
+    <type>Actor</type>
+    <tmdbid>1375562</tmdbid>
+  </actor>
+  <director tmdbid="84416" imdbid="nm1969144">Gene Stupnitsky</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UnXG2572u5U</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WzR55awCD2c</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>Sin malos rollos</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15671028</imdbid>
+  <tmdbid>884605</tmdbid>
+  <premiered>2023-06-15</premiered>
+  <releasedate>2023-06-15</releasedate>
+  <runtime>103</runtime>
+  <tagline>Ella necesita un coche. Él necesita una novia.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Excellent Cadaver</studio>
+  <studio>Odenkirk Provissiero Entertainment</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Saks Picture Company</studio>
+  <uniqueid type="imdb">tt15671028</uniqueid>
+  <uniqueid type="tmdb">884605</uniqueid>
+  <id>tt15671028</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1081066</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>137:74</aspect>
+        <aspectratio>137:74</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6202</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

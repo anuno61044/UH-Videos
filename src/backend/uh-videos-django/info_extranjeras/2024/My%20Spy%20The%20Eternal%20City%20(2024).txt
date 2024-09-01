@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sophie, ahora adolescente, convence a JJ para que acompañe el viaje del coro de su escuela a Italia, donde ambos, sin saberlo, terminan siendo peones en un complot terrorista internacional que tiene como objetivo al jefe de la CIA, David Kim, y su hijo, Collin, quien también resulta ser el mejor amigo de Sophie.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-22 08:51:57</dateadded>
+  <title>Juego de espías: La ciudad eterna</title>
+  <originaltitle>My Spy the Eternal City</originaltitle>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>J.J.</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Coleman</name>
+    <role>Sophie Newton</role>
+    <type>Actor</type>
+    <tmdbid>1696016</tmdbid>
+    <imdbid>nm5668548</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Schaal</name>
+    <role>Bobbi</role>
+    <type>Actor</type>
+    <tmdbid>109869</tmdbid>
+    <imdbid>nm1102891</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Jeong</name>
+    <role>David Kim</role>
+    <type>Actor</type>
+    <tmdbid>83586</tmdbid>
+    <imdbid>nm0421822</imdbid>
+    <tvdbid>311177</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Faris</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>1772</tmdbid>
+    <imdbid>nm0267506</imdbid>
+  </actor>
+  <actor>
+    <name>Flula Borg</name>
+    <role>Crane</role>
+    <type>Actor</type>
+    <tmdbid>1471841</tmdbid>
+  </actor>
+  <actor>
+    <name>Taeho K</name>
+    <role>Collin</role>
+    <type>Actor</type>
+    <tmdbid>2889447</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Barratt</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tmdbid>1840063</tmdbid>
+    <imdbid>nm7811397</imdbid>
+    <tvdbid>7885810</tvdbid>
+  </actor>
+  <actor>
+    <name>Craig Robinson</name>
+    <role>Connelly</role>
+    <type>Actor</type>
+    <tmdbid>64342</tmdbid>
+    <imdbid>nm0732497</imdbid>
+    <tvdbid>280092</tvdbid>
+  </actor>
+  <actor>
+    <name>Tamer Burjaq</name>
+    <role>Boris</role>
+    <type>Actor</type>
+    <tmdbid>1838215</tmdbid>
+    <imdbid>nm3116102</imdbid>
+  </actor>
+  <actor>
+    <name>Paul du Toit</name>
+    <role>Hargear</role>
+    <type>Actor</type>
+    <tmdbid>230808</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyra Janse van Rensburg</name>
+    <role>Fiona</role>
+    <type>Actor</type>
+    <tmdbid>4836261</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Butler</name>
+    <role>Dr. Brookey</role>
+    <type>Actor</type>
+    <tmdbid>152244</tmdbid>
+    <imdbid>nm0125089</imdbid>
+  </actor>
+  <actor>
+    <name>Arin Gonçalves</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>4836273</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Correia-Damude</name>
+    <role>Christina</role>
+    <type>Actor</type>
+    <tmdbid>1182525</tmdbid>
+    <tvdbid>7928368</tvdbid>
+  </actor>
+  <actor>
+    <name>Noah Danby</name>
+    <role>Todd</role>
+    <type>Actor</type>
+    <tmdbid>172915</tmdbid>
+    <imdbid>nm0199139</imdbid>
+  </actor>
+  <actor>
+    <name>Devere Rogers</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>1025464</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Wright-Firth</name>
+    <role>Col. Minelli</role>
+    <type>Actor</type>
+    <tmdbid>2092570</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Viljoen</name>
+    <role>Heavy</role>
+    <type>Actor</type>
+    <tmdbid>4617526</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Babalola</name>
+    <role>Kate</role>
+    <type>Actor</type>
+    <tmdbid>90727</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Roux</name>
+    <role>Italian Police Commander</role>
+    <type>Actor</type>
+    <tmdbid>1360630</tmdbid>
+  </actor>
+  <actor>
+    <name>Nkosinathi Mazwai</name>
+    <role>Security MP</role>
+    <type>Actor</type>
+    <tmdbid>4150491</tmdbid>
+  </actor>
+  <actor>
+    <name>Michał Kostrzewski</name>
+    <role>Luca</role>
+    <type>Actor</type>
+    <tmdbid>3762659</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Everson</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>2055667</tmdbid>
+  </actor>
+  <actor>
+    <name>Mo Mjamba</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>4150492</tmdbid>
+  </actor>
+  <actor>
+    <name>Agel Aurélia</name>
+    <role>Air Hostess</role>
+    <type>Actor</type>
+    <tmdbid>2881848</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabe Gabriel</name>
+    <role>Sgt. Valenziano</role>
+    <type>Actor</type>
+    <tmdbid>3091751</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Neill</name>
+    <role>Vatican Official</role>
+    <type>Actor</type>
+    <tmdbid>1459373</tmdbid>
+    <imdbid>nm3088787</imdbid>
+  </actor>
+  <actor>
+    <name>Duane Behrens</name>
+    <role>Team Leader</role>
+    <type>Actor</type>
+    <tmdbid>1883297</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Abbondanza</name>
+    <role>Italian Mother</role>
+    <type>Actor</type>
+    <tmdbid>1922609</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Tonelli</name>
+    <role>Officer (Tiber)</role>
+    <type>Actor</type>
+    <tmdbid>3064517</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Stephens</name>
+    <role>CIA Tech</role>
+    <type>Actor</type>
+    <tmdbid>4046635</tmdbid>
+  </actor>
+  <actor>
+    <name>Beniamino Marcone</name>
+    <role>Lead Officer</role>
+    <type>Actor</type>
+    <tmdbid>1892881</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Morgan</name>
+    <role>Radio DJ</role>
+    <type>Actor</type>
+    <tmdbid>2698433</tmdbid>
+  </actor>
+  <actor>
+    <name>Bilbo</name>
+    <role>Ozzie the Dog</role>
+    <type>Actor</type>
+    <tmdbid>4836290</tmdbid>
+  </actor>
+  <actor>
+    <name>Baldassare Galuppi</name>
+    <role>Blueberry</role>
+    <type>Actor</type>
+    <tmdbid>4836293</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Segal</name>
+    <role>Angry Baker (as Pete Segal)</role>
+    <type>Actor</type>
+    <tmdbid>13426</tmdbid>
+    <imdbid>nm0781842</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Larter</name>
+    <role>French Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2822761</tmdbid>
+  </actor>
+  <director tmdbid="13426" imdbid="nm0781842">Peter Segal</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z-pt4fZ0eDo</trailer>
+  <rating>5.7</rating>
+  <year>2024</year>
+  <sorttitle>Juego de espias: La ciudad eterna</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12930350</imdbid>
+  <tmdbid>1048241</tmdbid>
+  <premiered>2024-07-18</premiered>
+  <releasedate>2024-07-18</releasedate>
+  <criticrating>16</criticrating>
+  <runtime>113</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <studio>STXfilms</studio>
+  <studio>MWM Studios</studio>
+  <studio>Good Fear</studio>
+  <studio>Dogbone Entertainment</studio>
+  <studio>Amazon MGM Studios</studio>
+  <set tmdbcolid="1090373">
+    <name>My Spy Collection</name>
+  </set>
+  <uniqueid type="tmdb">1048241</uniqueid>
+  <uniqueid type="imdb">tt12930350</uniqueid>
+  <id>tt12930350</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149771</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6779</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128467</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>gl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ml</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>te</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>kn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ca</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ta</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

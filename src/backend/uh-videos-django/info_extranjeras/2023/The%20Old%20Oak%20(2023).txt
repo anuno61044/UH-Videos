@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El futuro del último pub que queda, The Old Oak, en un pueblo del noreste de Inglaterra, donde la gente está abandonando la tierra a medida que se cierran las minas. Las casas son baratas y están disponibles, por lo que es un lugar ideal para los refugiados sirios.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-04 09:15:01</dateadded>
+  <title>El viejo roble</title>
+  <originaltitle>The Old Oak</originaltitle>
+  <actor>
+    <name>Dave Turner</name>
+    <role>TJ Ballantyne</role>
+    <type>Actor</type>
+    <tmdbid>2447256</tmdbid>
+  </actor>
+  <actor>
+    <name>Ebla Mari</name>
+    <role>Yara</role>
+    <type>Actor</type>
+    <tmdbid>3533521</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire Rodgerson</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>4081571</tmdbid>
+  </actor>
+  <actor>
+    <name>Trevor Fox</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>938824</tmdbid>
+    <imdbid>nm0289291</imdbid>
+  </actor>
+  <actor>
+    <name>Chris McGlade</name>
+    <role>Vic</role>
+    <type>Actor</type>
+    <tmdbid>4081577</tmdbid>
+  </actor>
+  <actor>
+    <name>Col Tait</name>
+    <role>Eddy</role>
+    <type>Actor</type>
+    <tmdbid>4081575</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Louis</name>
+    <role>Garry</role>
+    <type>Actor</type>
+    <tmdbid>2342085</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Armstrong</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>4302097</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Gotts</name>
+    <role>Jaffa Cake</role>
+    <type>Actor</type>
+    <tmdbid>3892106</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Dawson</name>
+    <role>Micky</role>
+    <type>Actor</type>
+    <tmdbid>2579575</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxie Peters</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>2447248</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Leiper</name>
+    <role>Rocco</role>
+    <type>Actor</type>
+    <tmdbid>875846</tmdbid>
+  </actor>
+  <actor>
+    <name>Debbie Honeywood</name>
+    <role>Tania the Hairdresser</role>
+    <type>Actor</type>
+    <tmdbid>2188561</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Kirtley</name>
+    <role>Older Neighbour</role>
+    <type>Actor</type>
+    <tmdbid>1650257</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Braxton</name>
+    <role>Sadie</role>
+    <type>Actor</type>
+    <tmdbid>3892108</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Johnson</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>3923289</tmdbid>
+  </actor>
+  <actor>
+    <name>Lloyd Mullings</name>
+    <role>Gary's Pal</role>
+    <type>Actor</type>
+    <tmdbid>3892109</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex White</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>3892111</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhys Mcgowan</name>
+    <role>Boy with Dog</role>
+    <type>Actor</type>
+    <tmdbid>2260370</tmdbid>
+  </actor>
+  <actor>
+    <name>Reuben Bainbridge</name>
+    <role>Boy with Dog</role>
+    <type>Actor</type>
+    <tmdbid>2056513</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Lee Daly</name>
+    <role>Rosie</role>
+    <type>Actor</type>
+    <tmdbid>4302445</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo McGovern Zaini</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tvdbid>8428992</tvdbid>
+    <tmdbid>2682027</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Lawson</name>
+    <role>Michelle</role>
+    <type>Actor</type>
+    <tmdbid>2439268</tmdbid>
+  </actor>
+  <actor>
+    <name>Jen Patterson</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>4302449</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Jarratt</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>4302451</tmdbid>
+  </actor>
+  <director tmdbid="15488" imdbid="nm0516360">Ken Loach</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qyyWtgUiMfI</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>viejo roble</sorttitle>
+  <imdbid>tt19883634</imdbid>
+  <tmdbid>970348</tmdbid>
+  <premiered>2023-09-29</premiered>
+  <releasedate>2023-09-29</releasedate>
+  <runtime>113</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <studio>Sixteen Films</studio>
+  <studio>Why Not Productions</studio>
+  <studio>StudioCanal</studio>
+  <studio>BBC Film</studio>
+  <studio>Les Films du Fleuve</studio>
+  <studio>Goodfellas</studio>
+  <uniqueid type="imdb">tt19883634</uniqueid>
+  <uniqueid type="tmdb">970348</uniqueid>
+  <id>tt19883634</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>925972</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>83:45</aspect>
+        <aspectratio>83:45</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6781</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

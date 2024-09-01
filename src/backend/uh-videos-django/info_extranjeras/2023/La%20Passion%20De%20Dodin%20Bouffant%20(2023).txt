@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Francia, 1885. Narra la relación entre Eugenie, una reputada cocinera, y Dodin, el gourmet para el que ha estado trabajando durante los últimos 20 años.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-05 08:38:39</dateadded>
+  <title>A fuego lento</title>
+  <originaltitle>La passion de Dodin Bouffant</originaltitle>
+  <actor>
+    <name>Benoît Magimel</name>
+    <role>Dodin Bouffant</role>
+    <type>Actor</type>
+    <tmdbid>5442</tmdbid>
+    <imdbid>nm0536095</imdbid>
+  </actor>
+  <actor>
+    <name>Juliette Binoche</name>
+    <role>Eugénie</role>
+    <type>Actor</type>
+    <tmdbid>1137</tmdbid>
+    <imdbid>nm0000300</imdbid>
+    <tvdbid>531840</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick d'Assumçao</name>
+    <role>Grimaud</role>
+    <type>Actor</type>
+    <tmdbid>1174338</tmdbid>
+    <imdbid>nm1253936</imdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Salinger</name>
+    <role>Rabaz</role>
+    <type>Actor</type>
+    <tmdbid>38882</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Hammenecker</name>
+    <role>Magot</role>
+    <type>Actor</type>
+    <tmdbid>76294</tmdbid>
+    <imdbid>nm0358418</imdbid>
+  </actor>
+  <actor>
+    <name>Frédéric Fisbach</name>
+    <role>Beaubois</role>
+    <type>Actor</type>
+    <tmdbid>50021</tmdbid>
+  </actor>
+  <actor>
+    <name>Galatéa Bellugi</name>
+    <role>Violette</role>
+    <type>Actor</type>
+    <tmdbid>1350986</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre Gagnaire</name>
+    <role>Küchenchef des Prinzen</role>
+    <type>Actor</type>
+    <tmdbid>3514675</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Chagneau-Ravoire</name>
+    <role>Pauline</role>
+    <type>Actor</type>
+    <tmdbid>4104106</tmdbid>
+  </actor>
+  <actor>
+    <name>Yannik Landrein</name>
+    <role>Père de Pauline</role>
+    <type>Actor</type>
+    <tmdbid>1105716</tmdbid>
+    <imdbid>nm4127167</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Adler</name>
+    <role>Mère de Pauline</role>
+    <type>Actor</type>
+    <tmdbid>55047</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Marc Roulot</name>
+    <role>Augustin</role>
+    <type>Actor</type>
+    <tmdbid>931399</tmdbid>
+    <imdbid>nm0745728</imdbid>
+  </actor>
+  <actor>
+    <name>Mhamed Arezki</name>
+    <role>Le Prince</role>
+    <type>Actor</type>
+    <tmdbid>500339</tmdbid>
+    <imdbid>nm1449195</imdbid>
+  </actor>
+  <director tmdbid="107730">Tran Anh Hung</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2BtQjrT1Qks</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cKKCGtoIOVY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LeI-4eWvqwU</trailer>
+  <rating>7.5</rating>
+  <year>2023</year>
+  <sorttitle>fuego lento</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt19760052</imdbid>
+  <tmdbid>964960</tmdbid>
+  <premiered>2023-11-08</premiered>
+  <releasedate>2023-11-08</releasedate>
+  <runtime>135</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Curiosa Films</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>uMedia</studio>
+  <studio>Gaumont</studio>
+  <studio>France Télévisions</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>Région des Pays-de-la-Loire</studio>
+  <studio>CNC</studio>
+  <studio>uFund</studio>
+  <studio>PROCIREP</studio>
+  <uniqueid type="imdb">tt19760052</uniqueid>
+  <uniqueid type="tmdb">964960</uniqueid>
+  <id>tt19760052</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>966763</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8103</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127826</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

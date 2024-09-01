@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Isa lo tiene todo. Es inteligente, guapa y segura de sí misma. Feminista y poliamorosa, defiende su vida con pasión. Cuando Guillem le propone ser una pareja monógama, Isa no está segura de querer cambiar su vida y, ante su falta de decisión, Guillem decide romper la relación. Viviendo en un mundo de apariencias y comodidades, sus contradicciones salen a la luz y su universo se va desmoronando a golpe de likes y juicios morales en esta telaraña en la que se han convertido las redes sociales.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-12 07:44:26</dateadded>
+  <title>Unicornios</title>
+  <originaltitle>Unicorns</originaltitle>
+  <actor>
+    <name>Greta Fernández</name>
+    <role>Isa</role>
+    <type>Actor</type>
+    <tmdbid>1061583</tmdbid>
+    <imdbid>nm3036925</imdbid>
+    <tvdbid>645571</tvdbid>
+  </actor>
+  <actor>
+    <name>Pablo Molinero</name>
+    <type>Actor</type>
+    <tmdbid>1209572</tmdbid>
+    <imdbid>nm1944825</imdbid>
+    <tvdbid>7868369</tvdbid>
+  </actor>
+  <actor>
+    <name>Nora Navas</name>
+    <type>Actor</type>
+    <tmdbid>226431</tmdbid>
+    <imdbid>nm1155977</imdbid>
+    <tvdbid>489855</tvdbid>
+  </actor>
+  <actor>
+    <name>Elena Martín Gimeno</name>
+    <type>Actor</type>
+    <tmdbid>1788850</tmdbid>
+  </actor>
+  <actor>
+    <name>Eudald Font</name>
+    <type>Actor</type>
+    <tmdbid>1635854</tmdbid>
+  </actor>
+  <actor>
+    <name>Lídia Casanova</name>
+    <type>Actor</type>
+    <tmdbid>2122427</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Arquillué</name>
+    <type>Actor</type>
+    <tmdbid>2710792</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian López Lamelas</name>
+    <type>Actor</type>
+    <tmdbid>2927691</tmdbid>
+  </actor>
+  <actor>
+    <name>Mel Salvatierra</name>
+    <type>Actor</type>
+    <tmdbid>3891632</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Pau</name>
+    <type>Actor</type>
+    <tmdbid>1953962</tmdbid>
+  </actor>
+  <actor>
+    <name>La Zowi</name>
+    <type>Actor</type>
+    <tmdbid>2612071</tmdbid>
+  </actor>
+  <director tmdbid="1485998">Àlex Lora</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1NY2mePAuHg</trailer>
+  <rating>5</rating>
+  <year>2023</year>
+  <sorttitle>Unicornios</sorttitle>
+  <imdbid>tt15850538</imdbid>
+  <tmdbid>1078920</tmdbid>
+  <premiered>2023-05-19</premiered>
+  <releasedate>2023-05-19</releasedate>
+  <runtime>94</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Inicia Films</studio>
+  <studio>Jaibo Films</studio>
+  <uniqueid type="tmdb">1078920</uniqueid>
+  <uniqueid type="imdb">tt15850538</uniqueid>
+  <id>tt15850538</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1457819</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5629</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

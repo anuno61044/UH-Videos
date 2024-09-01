@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras la llegada de una misteriosa presencia que está destruyendo la población mundial, Sebastián comienza un viaje de supervivencia a través de las desiertas calles de Barcelona. Por el camino se encontrará con otros supervivientes con los que formará alianzas inciertas para intentar escapar de la ciudad. Pronto se darán cuenta de que hay una nueva e inesperada amenaza aún más peligrosa.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-30 18:31:37</dateadded>
+  <title>Bird Box Barcelona</title>
+  <originaltitle>Bird Box Barcelona</originaltitle>
+  <actor>
+    <name>Mario Casas</name>
+    <role>Sebastián</role>
+    <type>Actor</type>
+    <tmdbid>82700</tmdbid>
+    <imdbid>nm1832584</imdbid>
+  </actor>
+  <actor>
+    <name>Georgina Campbell</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1335315</tmdbid>
+    <imdbid>nm3569284</imdbid>
+    <tvdbid>540352</tvdbid>
+  </actor>
+  <actor>
+    <name>Diego Calva</name>
+    <role>Octavio</role>
+    <type>Actor</type>
+    <tmdbid>1413390</tmdbid>
+  </actor>
+  <actor>
+    <name>Naila Schuberth</name>
+    <role>Sofia</role>
+    <type>Actor</type>
+    <tmdbid>3287900</tmdbid>
+    <tvdbid>9112086</tvdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Howard</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>2755881</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Criado</name>
+    <role>Rafa</role>
+    <type>Actor</type>
+    <tmdbid>578014</tmdbid>
+    <imdbid>nm2212688</imdbid>
+    <tvdbid>472107</tvdbid>
+  </actor>
+  <actor>
+    <name>Celia Freijeiro</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1062026</tmdbid>
+    <imdbid>nm2033210</imdbid>
+  </actor>
+  <actor>
+    <name>Lola Dueñas</name>
+    <role>Isabel</role>
+    <type>Actor</type>
+    <tmdbid>2759</tmdbid>
+    <imdbid>nm0240318</imdbid>
+    <tvdbid>448261</tvdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo de Castro</name>
+    <role>Roberto</role>
+    <type>Actor</type>
+    <tmdbid>566330</tmdbid>
+    <imdbid>nm0207891</imdbid>
+    <tvdbid>450136</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Jenner</name>
+    <role>Liliana</role>
+    <type>Actor</type>
+    <tmdbid>114463</tmdbid>
+    <imdbid>nm1043338</imdbid>
+    <tvdbid>380629</tvdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Sbaraglia</name>
+    <role>Father Esteban</role>
+    <type>Actor</type>
+    <tmdbid>19803</tmdbid>
+    <imdbid>nm0768614</imdbid>
+    <tvdbid>465792</tvdbid>
+  </actor>
+  <actor>
+    <name>Manel Llunell</name>
+    <role>Pere</role>
+    <type>Actor</type>
+    <tmdbid>2354333</tmdbid>
+  </actor>
+  <actor>
+    <name>Milo Taboada</name>
+    <role>Pockmark</role>
+    <type>Actor</type>
+    <tmdbid>1077953</tmdbid>
+  </actor>
+  <director tmdbid="94220" imdbid="nm1883612">Àlex Pastor</director>
+  <director tmdbid="94222" imdbid="nm0665041">David Pastor</director>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Bird Box Barcelona</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14400246</imdbid>
+  <tmdbid>805320</tmdbid>
+  <premiered>2023-07-14</premiered>
+  <releasedate>2023-07-14</releasedate>
+  <runtime>112</runtime>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Terror</genre>
+  <studio>Nostromo Pictures</studio>
+  <studio>Chris Morgan Productions</studio>
+  <studio>Dylan Clark Productions</studio>
+  <studio>Bluegrass Films</studio>
+  <set tmdbcolid="731067">
+    <name>Bird Box - Colección</name>
+  </set>
+  <uniqueid type="tmdb">805320</uniqueid>
+  <uniqueid type="imdb">tt14400246</uniqueid>
+  <id>tt14400246</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149662</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6711</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129797</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

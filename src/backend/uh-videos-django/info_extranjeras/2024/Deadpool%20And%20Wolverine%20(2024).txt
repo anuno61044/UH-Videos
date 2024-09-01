@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.]]></plot>
+  <outline><![CDATA[Juntos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-30 16:50:26</dateadded>
+  <title>Deadpool y Lobezno</title>
+  <originaltitle>Deadpool &amp; Wolverine</originaltitle>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Wade Wilson / Deadpool / Nicepool</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Jackman</name>
+    <role>Logan / Wolverine</role>
+    <type>Actor</type>
+    <tmdbid>6968</tmdbid>
+    <imdbid>nm0413168</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Corrin</name>
+    <role>Cassandra Nova</role>
+    <type>Actor</type>
+    <tmdbid>2324569</tmdbid>
+    <imdbid>nm10128408</imdbid>
+    <tvdbid>7976953</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Macfadyen</name>
+    <role>Mr. Paradox</role>
+    <type>Actor</type>
+    <tmdbid>15576</tmdbid>
+    <imdbid>nm0532193</imdbid>
+  </actor>
+  <actor>
+    <name>Dafne Keen</name>
+    <role>Laura / X-23</role>
+    <type>Actor</type>
+    <tmdbid>1464650</tmdbid>
+    <imdbid>nm6748436</imdbid>
+    <tvdbid>466733</tvdbid>
+  </actor>
+  <actor>
+    <name>Jon Favreau</name>
+    <role>Happy Hogan</role>
+    <type>Actor</type>
+    <tmdbid>15277</tmdbid>
+    <imdbid>nm0269463</imdbid>
+  </actor>
+  <actor>
+    <name>Morena Baccarin</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>54882</tmdbid>
+    <imdbid>nm1072555</imdbid>
+    <tvdbid>327452</tvdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+    <imdbid>nm3008739</imdbid>
+    <tvdbid>300914</tvdbid>
+  </actor>
+  <actor>
+    <name>Leslie Uggams</name>
+    <role>Blind Al</role>
+    <type>Actor</type>
+    <tmdbid>122750</tmdbid>
+    <imdbid>nm0880081</imdbid>
+    <tvdbid>287253</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Garner</name>
+    <role>Elektra</role>
+    <type>Actor</type>
+    <tmdbid>9278</tmdbid>
+    <imdbid>nm0004950</imdbid>
+    <tvdbid>294268</tvdbid>
+  </actor>
+  <actor>
+    <name>Wesley Snipes</name>
+    <role>Blade</role>
+    <type>Actor</type>
+    <tmdbid>10814</tmdbid>
+    <imdbid>nm0000648</imdbid>
+  </actor>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Gambit</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Johnny Storm</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Cavill</name>
+    <role>The Cavillrine</role>
+    <type>Actor</type>
+    <tmdbid>73968</tmdbid>
+    <imdbid>nm0147147</imdbid>
+  </actor>
+  <actor>
+    <name>Wunmi Mosaku</name>
+    <role>B-15</role>
+    <type>Actor</type>
+    <tmdbid>134774</tmdbid>
+    <imdbid>nm2148911</imdbid>
+    <tvdbid>490014</tvdbid>
+  </actor>
+  <actor>
+    <name>Aaron Stanford</name>
+    <role>Pyro</role>
+    <type>Actor</type>
+    <tmdbid>11022</tmdbid>
+    <imdbid>nm0822155</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Mane</name>
+    <role>Sabretooth</role>
+    <type>Actor</type>
+    <tmdbid>9832</tmdbid>
+    <imdbid>nm0541932</imdbid>
+  </actor>
+  <actor>
+    <name>Karan Soni</name>
+    <role>Dopinder</role>
+    <type>Actor</type>
+    <tmdbid>1109702</tmdbid>
+    <imdbid>nm4175221</imdbid>
+    <tvdbid>300202</tvdbid>
+  </actor>
+  <actor>
+    <name>Brianna Hildebrand</name>
+    <role>Negasonic Teenage Warhead</role>
+    <type>Actor</type>
+    <tmdbid>1492326</tmdbid>
+    <imdbid>nm6552202</imdbid>
+    <tvdbid>612834</tvdbid>
+  </actor>
+  <actor>
+    <name>Shiori Kutsuna</name>
+    <role>Yukio</role>
+    <type>Actor</type>
+    <tmdbid>230660</tmdbid>
+    <imdbid>nm3101617</imdbid>
+    <tvdbid>653334</tvdbid>
+  </actor>
+  <actor>
+    <name>Stefan Kapičić</name>
+    <role>Colossus (voice)</role>
+    <type>Actor</type>
+    <tmdbid>80507</tmdbid>
+    <imdbid>nm1292973</imdbid>
+  </actor>
+  <actor>
+    <name>Randal Reeder</name>
+    <role>Buck</role>
+    <type>Actor</type>
+    <tmdbid>215887</tmdbid>
+    <imdbid>nm0715788</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis Tan</name>
+    <role>Shatterstar</role>
+    <type>Actor</type>
+    <tmdbid>1610940</tmdbid>
+    <imdbid>nm1167985</imdbid>
+    <tvdbid>518633</tvdbid>
+  </actor>
+  <actor>
+    <name>Nick Pauley</name>
+    <role>Dancepool</role>
+    <type>Actor</type>
+    <tmdbid>4848495</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonita Henry</name>
+    <role>Mrs. Chipman</role>
+    <type>Actor</type>
+    <tmdbid>963257</tmdbid>
+    <imdbid>nm0378002</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan McKen</name>
+    <role>Mr. Chipman</role>
+    <type>Actor</type>
+    <tmdbid>1850835</tmdbid>
+  </actor>
+  <actor>
+    <name>Nanak Phlora</name>
+    <role>Elliot Chipman</role>
+    <type>Actor</type>
+    <tmdbid>4848497</tmdbid>
+  </actor>
+  <actor>
+    <name>Aydin Ahmed</name>
+    <role>Kevin Chipman</role>
+    <type>Actor</type>
+    <tmdbid>4848499</tmdbid>
+  </actor>
+  <actor>
+    <name>Leemore Marrett Jr.</name>
+    <role>Minuteman Leader</role>
+    <type>Actor</type>
+    <tmdbid>1649401</tmdbid>
+  </actor>
+  <actor>
+    <name>James Dryden</name>
+    <role>TVA Tech</role>
+    <type>Actor</type>
+    <tmdbid>1587576</tmdbid>
+    <imdbid>nm5770115</imdbid>
+  </actor>
+  <actor>
+    <name>Ollie Palmer</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>4698632</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Hemphill</name>
+    <role>Seedy Bartender</role>
+    <type>Actor</type>
+    <tmdbid>167008</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron W Reed</name>
+    <role>Juggernaut</role>
+    <type>Actor</type>
+    <tmdbid>3158217</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Waters</name>
+    <role>Blob</role>
+    <type>Actor</type>
+    <tmdbid>4854075</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob McElhenney</name>
+    <role>TVA Soldier</role>
+    <type>Actor</type>
+    <tmdbid>78597</tmdbid>
+    <imdbid>nm0568390</imdbid>
+  </actor>
+  <actor>
+    <name>James Reynolds</name>
+    <role>Screaming Mutant (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4854086</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Kear</name>
+    <role>Outpost Tech</role>
+    <type>Actor</type>
+    <tmdbid>1364950</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul G. Raymond</name>
+    <role>TVA Office Agent</role>
+    <type>Actor</type>
+    <tmdbid>1951011</tmdbid>
+  </actor>
+  <actor>
+    <name>Blake Lively</name>
+    <role>Ladypool (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59175</tmdbid>
+    <imdbid>nm0515116</imdbid>
+  </actor>
+  <actor>
+    <name>Inez Reynolds</name>
+    <role>Kidpool (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4846410</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fillion</name>
+    <role>Headpool (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51797</tmdbid>
+    <imdbid>nm0277213</imdbid>
+    <tvdbid>248237</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew McConaughey</name>
+    <role>Cowboypool (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10297</tmdbid>
+    <imdbid>nm0000190</imdbid>
+    <tvdbid>310297</tvdbid>
+  </actor>
+  <actor>
+    <name>OIin Reynolds</name>
+    <role>Babypool (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4850040</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Mullin</name>
+    <role>Welshpool</role>
+    <type>Actor</type>
+    <tmdbid>4338091</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Kyshkovych</name>
+    <role>Canadapool</role>
+    <type>Actor</type>
+    <tmdbid>2280082</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <role>Thor Odinson (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Clements</name>
+    <role>Russian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2423284</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Medina Ramos</name>
+    <role>Toad (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4857614</tmdbid>
+  </actor>
+  <actor>
+    <name>Jade Lye</name>
+    <role>Lady Deathstrike (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4115448</tmdbid>
+  </actor>
+  <actor>
+    <name>Nilly Cetin</name>
+    <role>Quill (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4858600</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Gago Muñoz</name>
+    <role>Azazel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2423287</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Kibble</name>
+    <role>Callisto (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4858628</tmdbid>
+  </actor>
+  <actor>
+    <name>Curtis Rowland Small</name>
+    <role>Bullseye (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2151833</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayesha Hussain</name>
+    <role>Psylocke (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4733517</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Walker</name>
+    <role>Arclight (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4858668</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Holland</name>
+    <role>Haroldpool (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1674196</tmdbid>
+    <imdbid>nm5220941</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Fortin</name>
+    <role>Zenpool (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3411282</tmdbid>
+  </actor>
+  <director tmdbid="17825" imdbid="nm0506613" tvdbid="313488">Shawn Levy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H3yTwnO5C2g</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B0LjOb8dXpw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tTM5weeCFvQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mUuIPKO57i8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rrgsj6S0_4A</trailer>
+  <rating>8.1</rating>
+  <year>2024</year>
+  <sorttitle>Deadpool y Lobezno</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6263850</imdbid>
+  <tmdbid>533535</tmdbid>
+  <premiered>2024-07-24</premiered>
+  <releasedate>2024-07-24</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>129</runtime>
+  <tagline>Juntos.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Maximum Effort</studio>
+  <studio>21 Laps Entertainment</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>20th Century Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <set tmdbcolid="448150">
+    <name>Deadpool - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt6263850</uniqueid>
+  <uniqueid type="tmdb">533535</uniqueid>
+  <id>tt6263850</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1516074</bitrate>
+        <width>1920</width>
+        <height>780</height>
+        <aspect>229:93</aspect>
+        <aspectratio>229:93</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7717</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

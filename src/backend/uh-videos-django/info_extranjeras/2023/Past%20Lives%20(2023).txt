@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-22 09:52:24</dateadded>
+  <title>Vidas pasadas</title>
+  <originaltitle>Past Lives</originaltitle>
+  <actor>
+    <name>Greta Lee</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>1260481</tmdbid>
+    <imdbid>nm2336966</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Teo</name>
+    <role>Hae Sung</role>
+    <type>Actor</type>
+    <tmdbid>1387126</tmdbid>
+    <imdbid>nm1654982</imdbid>
+  </actor>
+  <actor>
+    <name>John Magaro</name>
+    <role>Arthur</role>
+    <type>Actor</type>
+    <tmdbid>37154</tmdbid>
+    <imdbid>nm1910274</imdbid>
+    <tvdbid>342036</tvdbid>
+  </actor>
+  <actor>
+    <name>Moon Seung-a</name>
+    <role>Young Nora</role>
+    <type>Actor</type>
+    <tmdbid>2309873</tmdbid>
+  </actor>
+  <actor>
+    <name>Yim Seung-min</name>
+    <role>Young Hae Sung</role>
+    <type>Actor</type>
+    <tmdbid>3888559</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonica T. Gibbs</name>
+    <role>Janice</role>
+    <type>Actor</type>
+    <tmdbid>2135069</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Cass McDonnell</name>
+    <role>Rachel</role>
+    <type>Actor</type>
+    <tmdbid>1412150</tmdbid>
+    <imdbid>nm2632125</imdbid>
+  </actor>
+  <actor>
+    <name>Federico Rodriguez</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1146865</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristen Sieh</name>
+    <role>Heather</role>
+    <type>Actor</type>
+    <tmdbid>2296776</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon Ji-hye</name>
+    <role>Nora's Mom</role>
+    <type>Actor</type>
+    <tmdbid>109646</tmdbid>
+  </actor>
+  <actor>
+    <name>Conrad Schott</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>3888568</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Won-young</name>
+    <role>Nora's Dad</role>
+    <type>Actor</type>
+    <tmdbid>1258630</tmdbid>
+  </actor>
+  <actor>
+    <name>An Min-yeong</name>
+    <role>Hae Sung's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1696022</tmdbid>
+  </actor>
+  <actor>
+    <name>Seo Yeon-woo</name>
+    <role>Young Si Young</role>
+    <type>Actor</type>
+    <tmdbid>3888566</tmdbid>
+  </actor>
+  <actor>
+    <name>Hwang Seung-eon</name>
+    <role>Hae Sung's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1106149</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Ki-ha</name>
+    <role>Hae Sung's Friend #1</role>
+    <type>Actor</type>
+    <tmdbid>2519070</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin Hee-chul</name>
+    <role>Hae Sung's Friend #2</role>
+    <type>Actor</type>
+    <tmdbid>4039664</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Sui Wonders</name>
+    <role>Girl (voice)</role>
+    <type>Actor</type>
+    <tvdbid>8255917</tvdbid>
+    <tmdbid>2420169</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Powell</name>
+    <role>Guy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2564137</tmdbid>
+  </actor>
+  <director tmdbid="2518227">Celine Song</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kA244xewjcI</trailer>
+  <rating>8</rating>
+  <year>2023</year>
+  <sorttitle>Vidas pasadas</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13238346</imdbid>
+  <tmdbid>666277</tmdbid>
+  <premiered>2023-06-02</premiered>
+  <releasedate>2023-06-02</releasedate>
+  <runtime>106</runtime>
+  <country>South Korea</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>A24</studio>
+  <studio>Killer Films</studio>
+  <studio>2AM</studio>
+  <studio>CJ ENM</studio>
+  <uniqueid type="imdb">tt13238346</uniqueid>
+  <uniqueid type="tmdb">666277</uniqueid>
+  <id>tt13238346</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1054396</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6343</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

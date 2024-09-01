@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.]]></plot>
+  <outline><![CDATA[¡Viva los luchadores!]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-05 18:37:14</dateadded>
+  <title>Dune: Parte dos</title>
+  <originaltitle>Dune: Part Two</originaltitle>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Paul Atreides</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Zendaya</name>
+    <role>Chani</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+    <tvdbid>327412</tvdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ferguson</name>
+    <role>Jessica</role>
+    <type>Actor</type>
+    <tmdbid>933238</tmdbid>
+    <imdbid>nm0272581</imdbid>
+    <tvdbid>295149</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>Stilgar</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Brolin</name>
+    <role>Gurney Halleck</role>
+    <type>Actor</type>
+    <tmdbid>16851</tmdbid>
+    <imdbid>nm0000982</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Butler</name>
+    <role>Feyd-Rautha</role>
+    <type>Actor</type>
+    <tmdbid>86654</tmdbid>
+    <imdbid>nm2581521</imdbid>
+    <tvdbid>379481</tvdbid>
+  </actor>
+  <actor>
+    <name>Florence Pugh</name>
+    <role>Princess Irulan</role>
+    <type>Actor</type>
+    <tmdbid>1373737</tmdbid>
+    <imdbid>nm6073955</imdbid>
+    <tvdbid>489050</tvdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Beast Rabban</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Walken</name>
+    <role>Emperor</role>
+    <type>Actor</type>
+    <tmdbid>4690</tmdbid>
+    <imdbid>nm0000686</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>Lady Margot Fenring</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Baron Harkonnen</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+    <tvdbid>378106</tvdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Rampling</name>
+    <role>Reverend Mother Mohiam</role>
+    <type>Actor</type>
+    <tmdbid>44079</tmdbid>
+    <imdbid>nm0001648</imdbid>
+    <tvdbid>283328</tvdbid>
+  </actor>
+  <actor>
+    <name>Souheila Yacoub</name>
+    <role>Shishakli</role>
+    <type>Actor</type>
+    <tmdbid>2037046</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Yuan</name>
+    <role>Lanville</role>
+    <type>Actor</type>
+    <tmdbid>2974</tmdbid>
+    <imdbid>nm0950619</imdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Jamis</role>
+    <type>Actor</type>
+    <tmdbid>205923</tmdbid>
+    <imdbid>nm2129802</imdbid>
+    <tvdbid>317266</tvdbid>
+  </actor>
+  <actor>
+    <name>Alison Halstead</name>
+    <role>Maker Keeper</role>
+    <type>Actor</type>
+    <tmdbid>4033288</tmdbid>
+  </actor>
+  <actor>
+    <name>Giusi Merli</name>
+    <role>Reverend Mother Ramallo</role>
+    <type>Actor</type>
+    <tmdbid>1934576</tmdbid>
+  </actor>
+  <actor>
+    <name>Kait Tenison</name>
+    <role>Bene Gesserit Sister</role>
+    <type>Actor</type>
+    <tmdbid>1780346</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Breathnach</name>
+    <role>Bene Gesserit Sister</role>
+    <type>Actor</type>
+    <tmdbid>1239728</tmdbid>
+  </actor>
+  <actor>
+    <name>Akiko Hitomi</name>
+    <role>Bene Gesserit Sister</role>
+    <type>Actor</type>
+    <tmdbid>2855994</tmdbid>
+  </actor>
+  <actor>
+    <name>Imola Gáspár</name>
+    <role>Watermaster</role>
+    <type>Actor</type>
+    <tmdbid>997684</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Adnet</name>
+    <role>Young Fremen Patrol</role>
+    <type>Actor</type>
+    <tmdbid>4554406</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamza Baissa</name>
+    <role>Young Fremen Patrol</role>
+    <type>Actor</type>
+    <tmdbid>4554407</tmdbid>
+  </actor>
+  <actor>
+    <name>Hassan Najib</name>
+    <role>Young Fremen Patrol</role>
+    <type>Actor</type>
+    <tmdbid>4072164</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasper Ryan-Carter</name>
+    <role>Young Fremen Patrol</role>
+    <type>Actor</type>
+    <tmdbid>4554408</tmdbid>
+  </actor>
+  <actor>
+    <name>Elbooz Omar Ahmed Fathie</name>
+    <role>Young Fremen Patrol</role>
+    <type>Actor</type>
+    <tmdbid>4072167</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelkarim Hussein Seli Mohamed Hassanin</name>
+    <role>Young Fremen Patrol</role>
+    <type>Actor</type>
+    <tmdbid>4554411</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Beddelem</name>
+    <role>Fedaykin Leader</role>
+    <type>Actor</type>
+    <tmdbid>59298</tmdbid>
+    <imdbid>nm1231528</imdbid>
+  </actor>
+  <actor>
+    <name>Xavier Alba Royo</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>3734838</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachid Abbad</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>1627984</tmdbid>
+  </actor>
+  <actor>
+    <name>Affif Ben Badra</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>54807</tmdbid>
+    <imdbid>nm1462341</imdbid>
+  </actor>
+  <actor>
+    <name>Botond Bóta</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>3495288</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelaziz Boumane</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>4554420</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdellah Echahbi</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>4554421</tmdbid>
+  </actor>
+  <actor>
+    <name>Zouhair Elakkari</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>4554422</tmdbid>
+  </actor>
+  <actor>
+    <name>Noureddine Hajoujou</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>2990052</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Mouraoui</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>4554423</tmdbid>
+  </actor>
+  <actor>
+    <name>Adil Achraf Sayd</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>4554424</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamza Sayd</name>
+    <role>Fedaykin</role>
+    <type>Actor</type>
+    <tmdbid>4554426</tmdbid>
+  </actor>
+  <actor>
+    <name>Hopi Grace</name>
+    <role>Fremen Nun</role>
+    <type>Actor</type>
+    <tmdbid>3669713</tmdbid>
+  </actor>
+  <actor>
+    <name>Havin Fathi</name>
+    <role>Fremen Nun</role>
+    <type>Actor</type>
+    <tmdbid>4554427</tmdbid>
+  </actor>
+  <actor>
+    <name>Kincsõ Pethõ</name>
+    <role>Fremen Nun</role>
+    <type>Actor</type>
+    <tmdbid>63007</tmdbid>
+  </actor>
+  <actor>
+    <name>Cat Simmons</name>
+    <role>Young Nun</role>
+    <type>Actor</type>
+    <tmdbid>1767276</tmdbid>
+  </actor>
+  <actor>
+    <name>Burt Caesar</name>
+    <role>Devotee</role>
+    <type>Actor</type>
+    <tmdbid>1373526</tmdbid>
+    <imdbid>nm0128362</imdbid>
+  </actor>
+  <actor>
+    <name>Remi Fadare</name>
+    <role>Devotee</role>
+    <type>Actor</type>
+    <tmdbid>4554430</tmdbid>
+  </actor>
+  <actor>
+    <name>Amer El-Erwadi</name>
+    <role>Huge Fighter</role>
+    <type>Actor</type>
+    <tmdbid>3012028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tedroy Newell</name>
+    <role>Fremen Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>3624711</tmdbid>
+  </actor>
+  <actor>
+    <name>Oxa Hazel</name>
+    <role>Fremen Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>4554432</tmdbid>
+  </actor>
+  <actor>
+    <name>Hajiyeva Pakiza</name>
+    <role>Fremen Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>4554433</tmdbid>
+  </actor>
+  <actor>
+    <name>Leon Herbert</name>
+    <role>Oldest Elder</role>
+    <type>Actor</type>
+    <tmdbid>145536</tmdbid>
+  </actor>
+  <actor>
+    <name>Sima Rostami</name>
+    <role>Female Elder</role>
+    <type>Actor</type>
+    <tmdbid>4554435</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Campbell</name>
+    <role>Elder</role>
+    <type>Actor</type>
+    <tmdbid>2798670</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Charles</name>
+    <role>Elder</role>
+    <type>Actor</type>
+    <tmdbid>2054077</tmdbid>
+  </actor>
+  <actor>
+    <name>Vic Zander</name>
+    <role>Elder</role>
+    <type>Actor</type>
+    <tmdbid>4020310</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Baldwin</name>
+    <role>Harkonnen Translator</role>
+    <type>Actor</type>
+    <tmdbid>3237601</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcia Tucker</name>
+    <role>Old Wounded Woman</role>
+    <type>Actor</type>
+    <tmdbid>1749388</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Brome</name>
+    <role>Wounded Fremen</role>
+    <type>Actor</type>
+    <tmdbid>2342156</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathy Owen</name>
+    <role>Wounded Fremen</role>
+    <type>Actor</type>
+    <tmdbid>4554439</tmdbid>
+  </actor>
+  <actor>
+    <name>Huw Novelli</name>
+    <role>Fundamentalist Fighter</role>
+    <type>Actor</type>
+    <tmdbid>1901394</tmdbid>
+    <tvdbid>9106280</tvdbid>
+  </actor>
+  <actor>
+    <name>Moe Bar-El</name>
+    <role>Fundamentalist Fighter</role>
+    <type>Actor</type>
+    <tmdbid>1935849</tmdbid>
+    <tvdbid>537265</tvdbid>
+  </actor>
+  <actor>
+    <name>Serhat Metin</name>
+    <role>Fundamentalist Fighter</role>
+    <type>Actor</type>
+    <tmdbid>2938342</tmdbid>
+  </actor>
+  <actor>
+    <name>Amra Mallassi</name>
+    <role>Fundamentalist Fighter</role>
+    <type>Actor</type>
+    <tmdbid>1363060</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Bloom</name>
+    <role>Fundamentalist Fighter</role>
+    <type>Actor</type>
+    <tmdbid>1790182</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Alkmim</name>
+    <role>Sentinel Leader</role>
+    <type>Actor</type>
+    <tmdbid>3899921</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Long</name>
+    <role>Smuggler Driver</role>
+    <type>Actor</type>
+    <tmdbid>199529</tmdbid>
+    <imdbid>nm1316651</imdbid>
+  </actor>
+  <actor>
+    <name>Omar A.K.</name>
+    <role>Wounded Smuggler</role>
+    <type>Actor</type>
+    <tmdbid>4558342</tmdbid>
+  </actor>
+  <actor>
+    <name>Zdeněk Dvořáček</name>
+    <role>Arena Gladiator</role>
+    <type>Actor</type>
+    <tmdbid>1425059</tmdbid>
+    <imdbid>nm0245301</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Clements</name>
+    <role>Arena Gladiator</role>
+    <type>Actor</type>
+    <tmdbid>2423284</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Saunders</name>
+    <role>Harkonnen Commander</role>
+    <type>Actor</type>
+    <tmdbid>208460</tmdbid>
+    <imdbid>nm0766736</imdbid>
+  </actor>
+  <actor>
+    <name>Lex Daniel</name>
+    <role>Harkonnen Commander</role>
+    <type>Actor</type>
+    <tmdbid>1364324</tmdbid>
+    <imdbid>nm0199575</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic McHale</name>
+    <role>Harkonnen Commander</role>
+    <type>Actor</type>
+    <tmdbid>1117371</tmdbid>
+    <imdbid>nm0570357</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Boyle</name>
+    <role>Harkonnen Commander</role>
+    <type>Actor</type>
+    <tmdbid>4558343</tmdbid>
+  </actor>
+  <actor>
+    <name>Niall White</name>
+    <role>Ornithopter Military Pilot</role>
+    <type>Actor</type>
+    <tmdbid>4233589</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Cook</name>
+    <role>Harkonnen Scanner Operator</role>
+    <type>Actor</type>
+    <tmdbid>109167</tmdbid>
+    <imdbid>nm3082245</imdbid>
+  </actor>
+  <actor>
+    <name>Gabor Szeman</name>
+    <role>Harkonnen Officer</role>
+    <type>Actor</type>
+    <tmdbid>2069517</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Gunning</name>
+    <role>Game Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>2863913</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Irvine</name>
+    <role>Slave Master</role>
+    <type>Actor</type>
+    <tmdbid>4558348</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Mehdizadeh</name>
+    <role>Weapon Master</role>
+    <type>Actor</type>
+    <tmdbid>3313934</tmdbid>
+  </actor>
+  <actor>
+    <name>Rex Adams</name>
+    <role>Harpy</role>
+    <type>Actor</type>
+    <tmdbid>4072158</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Mcowan</name>
+    <role>Harpy</role>
+    <type>Actor</type>
+    <tmdbid>4072157</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Cilas</name>
+    <role>Harpy</role>
+    <type>Actor</type>
+    <tmdbid>3857644</tmdbid>
+  </actor>
+  <actor>
+    <name>Kajsa Mohammar</name>
+    <role>Feyd-Rautha's Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2212128</tmdbid>
+  </actor>
+  <actor>
+    <name>Sára Bácsfalvi</name>
+    <role>Feyd-Rautha's Attendant</role>
+    <type>Actor</type>
+    <tmdbid>4558354</tmdbid>
+  </actor>
+  <actor>
+    <name>Kocsis Zsofia</name>
+    <role>Feyd-Rautha's Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2758109</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Sim</name>
+    <role>Spice Steward</role>
+    <type>Actor</type>
+    <tmdbid>1434017</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Wall</name>
+    <role>Bashar</role>
+    <type>Actor</type>
+    <tmdbid>1398632</tmdbid>
+  </actor>
+  <actor>
+    <name>Italo Amerighi</name>
+    <role>Imperial Council</role>
+    <type>Actor</type>
+    <tmdbid>1882774</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Hilborne</name>
+    <role>Imperial Council</role>
+    <type>Actor</type>
+    <tmdbid>4072170</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecile Sinclair</name>
+    <role>Imperial Council</role>
+    <type>Actor</type>
+    <tmdbid>1238612</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Coogan</name>
+    <role>Imperial Servant</role>
+    <type>Actor</type>
+    <tmdbid>93089</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Kata Kaska</name>
+    <role>Baby Jessica</role>
+    <type>Actor</type>
+    <tmdbid>4558357</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Walker</name>
+    <role>Baron Proxy</role>
+    <type>Actor</type>
+    <tmdbid>2158768</tmdbid>
+  </actor>
+  <actor>
+    <name>Rand Faris</name>
+    <role>Female Fremen Fighter</role>
+    <type>Actor</type>
+    <tmdbid>3269719</tmdbid>
+  </actor>
+  <actor>
+    <name>Fouad Humaidan</name>
+    <role>Male Fremen Fighter</role>
+    <type>Actor</type>
+    <tmdbid>4072163</tmdbid>
+  </actor>
+  <actor>
+    <name>Manaf Irani</name>
+    <role>Male Fremen Fighter</role>
+    <type>Actor</type>
+    <tmdbid>2757115</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Kápolnai-Schvab</name>
+    <role>Baron Servant</role>
+    <type>Actor</type>
+    <tmdbid>3314410</tmdbid>
+  </actor>
+  <actor>
+    <name>Joelle</name>
+    <role>Baron Servant</role>
+    <type>Actor</type>
+    <tmdbid>3314411</tmdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Alia Atreides (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Sztojanov Jr.</name>
+    <role>Emperor's Elite Sardaukar (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2372075</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Tóth</name>
+    <role>Imperial Servant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3529502</tmdbid>
+  </actor>
+  <director tmdbid="137427" imdbid="nm0898288">Denis Villeneuve</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qv7I3wDfFzI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6OmJF6VjKMA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nWzes49-2DA</trailer>
+  <rating>8.7</rating>
+  <year>2024</year>
+  <sorttitle>Dune: Parte dos</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15239678</imdbid>
+  <tmdbid>693134</tmdbid>
+  <premiered>2024-02-27</premiered>
+  <releasedate>2024-02-27</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>166</runtime>
+  <tagline>¡Viva los luchadores!</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <studio>Legendary Pictures</studio>
+  <set tmdbcolid="726871">
+    <name>Dune - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt15239678</uniqueid>
+  <uniqueid type="tmdb">693134</uniqueid>
+  <id>tt15239678</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>636843</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>165</duration>
+        <durationinseconds>9947</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

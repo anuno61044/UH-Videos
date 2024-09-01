@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Julien, a young teacher, is wrongfully accused of sexual misconduct by a teenage girl from his class. As he faces mounting pressures from the girl’s older brother and her classmates, the situation spirals out of control. Allegations spread, the entire school is thrown into turmoil, and the teacher has to fight to clear his name.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-05 07:46:03</dateadded>
+  <title>Pas de vagues</title>
+  <originaltitle>Pas de vagues</originaltitle>
+  <actor>
+    <name>François Civil</name>
+    <role>Julien</role>
+    <type>Actor</type>
+    <tmdbid>78124</tmdbid>
+    <imdbid>nm2476624</imdbid>
+  </actor>
+  <actor>
+    <name>Shaïn Boumedine</name>
+    <role>Walid</role>
+    <type>Actor</type>
+    <tmdbid>1880940</tmdbid>
+  </actor>
+  <actor>
+    <name>Toscane Duquesne</name>
+    <role>Leslie</role>
+    <type>Actor</type>
+    <tmdbid>3891330</tmdbid>
+  </actor>
+  <actor>
+    <name>Mallory Wanecque</name>
+    <role>Océane</role>
+    <type>Actor</type>
+    <tmdbid>3508929</tmdbid>
+  </actor>
+  <actor>
+    <name>Bakary Kebe</name>
+    <role>Modibo</role>
+    <type>Actor</type>
+    <tmdbid>3120498</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Boumali</name>
+    <role>Sihem</role>
+    <type>Actor</type>
+    <tmdbid>3891332</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne Ehouman</name>
+    <role>Roxana</role>
+    <type>Actor</type>
+    <tmdbid>3891333</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Ho Poumey</name>
+    <role>Erica</role>
+    <type>Actor</type>
+    <tmdbid>3891334</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Fadiga</name>
+    <role>Yassine</role>
+    <type>Actor</type>
+    <tmdbid>3891335</tmdbid>
+  </actor>
+  <actor>
+    <name>Atik Jawed</name>
+    <role>Mohamed-Amine</role>
+    <type>Actor</type>
+    <tmdbid>3891336</tmdbid>
+  </actor>
+  <actor>
+    <name>Estevan Marchenoir</name>
+    <role>Theo</role>
+    <type>Actor</type>
+    <tmdbid>3891337</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnès Hurstel</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1826078</tmdbid>
+  </actor>
+  <actor>
+    <name>Myriam Djeljeli</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>1844825</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilie Incerti-Formentini</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1912114</tmdbid>
+  </actor>
+  <actor>
+    <name>Mustapha Abourachid</name>
+    <role>Nasser</role>
+    <type>Actor</type>
+    <tmdbid>1457858</tmdbid>
+  </actor>
+  <actor>
+    <name>Armindo Alves de Sa</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>3891338</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Leplay</name>
+    <role>Musil</role>
+    <type>Actor</type>
+    <tmdbid>149870</tmdbid>
+  </actor>
+  <actor>
+    <name>Fadily Camara</name>
+    <role>Fatou</role>
+    <type>Actor</type>
+    <tmdbid>2054701</tmdbid>
+  </actor>
+  <actor>
+    <name>Walid Afkir</name>
+    <role>Omar</role>
+    <type>Actor</type>
+    <tmdbid>6016</tmdbid>
+    <imdbid>nm0012715</imdbid>
+  </actor>
+  <actor>
+    <name>Djilali Redjal</name>
+    <role>Gaspard</role>
+    <type>Actor</type>
+    <tmdbid>3891339</tmdbid>
+  </actor>
+  <actor>
+    <name>Malo Chanson-Demange</name>
+    <role>Kylian</role>
+    <type>Actor</type>
+    <tmdbid>3275240</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Yapo</name>
+    <role>Glendy</role>
+    <type>Actor</type>
+    <tmdbid>3891340</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Yapo</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>3891341</tmdbid>
+  </actor>
+  <actor>
+    <name>Gigi Ledron</name>
+    <role>Mère Roxana</role>
+    <type>Actor</type>
+    <tmdbid>1606858</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucie Desclozeaux</name>
+    <role>Enquêtrice</role>
+    <type>Actor</type>
+    <tmdbid>230939</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Grauwels</name>
+    <role>Philippe</role>
+    <type>Actor</type>
+    <tmdbid>2987084</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Lévy</name>
+    <role>Avocat</role>
+    <type>Actor</type>
+    <tmdbid>19061</tmdbid>
+  </actor>
+  <actor>
+    <name>Dounia Sichov</name>
+    <role>Policière</role>
+    <type>Actor</type>
+    <tmdbid>1028241</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahdi Gely</name>
+    <role>Nassim</role>
+    <type>Actor</type>
+    <tmdbid>3891345</tmdbid>
+  </actor>
+  <actor>
+    <name>Remi Plot</name>
+    <role>Patron Kebab</role>
+    <type>Actor</type>
+    <tmdbid>3891346</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Huault</name>
+    <role>Soeur battue</role>
+    <type>Actor</type>
+    <tmdbid>3265607</tmdbid>
+  </actor>
+  <actor>
+    <name>Mpaly Traoré</name>
+    <role>Idriss</role>
+    <type>Actor</type>
+    <tmdbid>4612471</tmdbid>
+  </actor>
+  <actor>
+    <name>Frédéric Wang</name>
+    <role>Maxime</role>
+    <type>Actor</type>
+    <tmdbid>4612472</tmdbid>
+  </actor>
+  <actor>
+    <name>Samir Hamiche</name>
+    <role>Samir</role>
+    <type>Actor</type>
+    <tmdbid>4612473</tmdbid>
+  </actor>
+  <actor>
+    <name>Diaba Kanouté</name>
+    <role>Aminata</role>
+    <type>Actor</type>
+    <tmdbid>4612474</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Ayissi</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>4612475</tmdbid>
+  </actor>
+  <actor>
+    <name>Shahinez Maucolin</name>
+    <role>Tesnil</role>
+    <type>Actor</type>
+    <tmdbid>4612476</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita Bayad</name>
+    <role>Rita</role>
+    <type>Actor</type>
+    <tmdbid>4612477</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelkader Allik</name>
+    <role>Youssef</role>
+    <type>Actor</type>
+    <tmdbid>4612478</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheikh Oumar Sow</name>
+    <role>Adama</role>
+    <type>Actor</type>
+    <tmdbid>4612479</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Dakhlaoui</name>
+    <role>Seif</role>
+    <type>Actor</type>
+    <tmdbid>4612480</tmdbid>
+  </actor>
+  <actor>
+    <name>Areski Allache</name>
+    <role>MAssinissa</role>
+    <type>Actor</type>
+    <tmdbid>4612481</tmdbid>
+  </actor>
+  <director tmdbid="228186">Teddy Lussi-Modeste</director>
+  <rating>6.6</rating>
+  <year>2024</year>
+  <sorttitle>Pas de vagues</sorttitle>
+  <imdbid>tt26060006</imdbid>
+  <tmdbid>1000862</tmdbid>
+  <premiered>2024-03-27</premiered>
+  <releasedate>2024-03-27</releasedate>
+  <runtime>91</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Kazak Productions</studio>
+  <studio>Frakas Productions</studio>
+  <studio>France 3 Cinéma</studio>
+  <uniqueid type="tmdb">1000862</uniqueid>
+  <uniqueid type="imdb">tt26060006</uniqueid>
+  <id>tt26060006</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>795881</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>651:352</aspect>
+        <aspectratio>651:352</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5459</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127862</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada varias generaciones en el futuro tras el reinado de César, en la que los simios son la especie dominante que vive en armonía y los humanos se han visto reducidos a vivir en la sombra. Mientras un nuevo y tiránico líder simio construye su imperio, un joven simio emprende un angustioso viaje que le llevará a cuestionarse todo lo que sabe sobre el pasado y a tomar decisiones que definirán el futuro de simios y humanos por igual.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-08 12:28:29</dateadded>
+  <title>El reino del planeta de los simios</title>
+  <originaltitle>Kingdom of the Planet of the Apes</originaltitle>
+  <actor>
+    <name>Owen Teague</name>
+    <role>Noa</role>
+    <type>Actor</type>
+    <tmdbid>1586047</tmdbid>
+    <imdbid>nm4977122</imdbid>
+    <tvdbid>582353</tvdbid>
+  </actor>
+  <actor>
+    <name>Freya Allan</name>
+    <role>Nova / Mae</role>
+    <type>Actor</type>
+    <tmdbid>2146942</tmdbid>
+    <imdbid>nm8463347</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Durand</name>
+    <role>Proximus Caesar</role>
+    <type>Actor</type>
+    <tmdbid>79072</tmdbid>
+    <imdbid>nm0243806</imdbid>
+    <tvdbid>275406</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Macon</name>
+    <role>Raka</role>
+    <type>Actor</type>
+    <tmdbid>1444816</tmdbid>
+    <imdbid>nm0534167</imdbid>
+  </actor>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Trevathan</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+    <tvdbid>274199</tvdbid>
+  </actor>
+  <actor>
+    <name>Eka Darville</name>
+    <role>Sylva</role>
+    <type>Actor</type>
+    <tmdbid>966554</tmdbid>
+    <imdbid>nm2794212</imdbid>
+  </actor>
+  <actor>
+    <name>Travis Jeffery</name>
+    <role>Anaya</role>
+    <type>Actor</type>
+    <tmdbid>1394427</tmdbid>
+    <imdbid>nm4255507</imdbid>
+  </actor>
+  <actor>
+    <name>Lydia Peckham</name>
+    <role>Soona</role>
+    <type>Actor</type>
+    <tmdbid>2435321</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Sandilands</name>
+    <role>Koro</role>
+    <type>Actor</type>
+    <tmdbid>136295</tmdbid>
+  </actor>
+  <actor>
+    <name>Ras-Samuel Welda'abzgi</name>
+    <role>Lightning</role>
+    <type>Actor</type>
+    <tmdbid>3757983</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Wiseman</name>
+    <role>Dar</role>
+    <type>Actor</type>
+    <tmdbid>103406</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaden Hartcher</name>
+    <role>Oda / Rust</role>
+    <type>Actor</type>
+    <tmdbid>2646671</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy McPhee</name>
+    <role>Honored Elder</role>
+    <type>Actor</type>
+    <tmdbid>78962</tmdbid>
+    <imdbid>nm0574173</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Gallas</name>
+    <role>Youngster #1</role>
+    <type>Actor</type>
+    <tmdbid>4472548</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Falé</name>
+    <role>Youngster #2</role>
+    <type>Actor</type>
+    <tmdbid>2632353</tmdbid>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Korina</role>
+    <type>Actor</type>
+    <tmdbid>94797</tmdbid>
+    <imdbid>nm1901842</imdbid>
+  </actor>
+  <actor>
+    <name>Virginie Laverdure</name>
+    <role>Lead Tech</role>
+    <type>Actor</type>
+    <tmdbid>2637893</tmdbid>
+  </actor>
+  <actor>
+    <name>Markus Hamilton</name>
+    <role>Tech #1</role>
+    <type>Actor</type>
+    <tmdbid>166703</tmdbid>
+    <imdbid>nm0358046</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Scott</name>
+    <role>Tech #2</role>
+    <type>Actor</type>
+    <tmdbid>2128650</tmdbid>
+  </actor>
+  <actor>
+    <name>Nirish Bhat Surambadka</name>
+    <role>Youngster #3</role>
+    <type>Actor</type>
+    <tmdbid>3085693</tmdbid>
+  </actor>
+  <actor>
+    <name>Frances Berry</name>
+    <role>Laika</role>
+    <type>Actor</type>
+    <tmdbid>2309880</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Hayes</name>
+    <role>Feral Human #1</role>
+    <type>Actor</type>
+    <tmdbid>4732041</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheree da Costa</name>
+    <role>Feral Human #2</role>
+    <type>Actor</type>
+    <tmdbid>1745137</tmdbid>
+  </actor>
+  <actor>
+    <name>Souleymane Diasse</name>
+    <role>Feral Human #3</role>
+    <type>Actor</type>
+    <tmdbid>4732042</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Miller</name>
+    <role>Feral Human #4</role>
+    <type>Actor</type>
+    <tmdbid>1445877</tmdbid>
+  </actor>
+  <actor>
+    <name>Дмитрий Миллер</name>
+    <role>Feral Human #5</role>
+    <type>Actor</type>
+    <tmdbid>581170</tmdbid>
+  </actor>
+  <actor>
+    <name>Anastasia Miller</name>
+    <role>Feral Human #6</role>
+    <type>Actor</type>
+    <tmdbid>4732043</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Spudic</name>
+    <role>Tech #3</role>
+    <type>Actor</type>
+    <tmdbid>4732044</tmdbid>
+  </actor>
+  <actor>
+    <name>Karin Konoval</name>
+    <role>Maurice (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>58395</tmdbid>
+    <imdbid>nm0465269</imdbid>
+  </actor>
+  <director tmdbid="1179066" imdbid="nm1226871">Wes Ball</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=15mp4yZTHF0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fWWrW_VLjws</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bzNCk93A3GM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fHFK4G0NPqk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bDc3fchg-vE</trailer>
+  <rating>7.1</rating>
+  <year>2024</year>
+  <sorttitle>reino del planeta de los simios</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11389872</imdbid>
+  <tmdbid>653346</tmdbid>
+  <premiered>2024-05-08</premiered>
+  <releasedate>2024-05-08</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>145</runtime>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Oddball Entertainment</studio>
+  <studio>Jason T. Reed Productions</studio>
+  <set tmdbcolid="173710">
+    <name>El planeta de los simios (El origen) - Colección</name>
+  </set>
+  <uniqueid type="tmdb">653346</uniqueid>
+  <uniqueid type="imdb">tt11389872</uniqueid>
+  <id>tt11389872</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149765</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>144</duration>
+        <durationinseconds>8680</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129568</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
