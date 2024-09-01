@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un hombre de familia, acorralado por las deudas, decide aprovechar una circunstancia casual e imprevisible para desaparecer.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-27 09:50:01</dateadded>
+  <title>Descansar en paz</title>
+  <originaltitle>Descansar en paz</originaltitle>
+  <actor>
+    <name>Joaquín Furriel</name>
+    <role>Sergio Dayan</role>
+    <type>Actor</type>
+    <tmdbid>1077146</tmdbid>
+    <imdbid>nm0299078</imdbid>
+    <tvdbid>491735</tvdbid>
+  </actor>
+  <actor>
+    <name>Griselda Siciliani</name>
+    <role>Estela Dayan</role>
+    <type>Actor</type>
+    <tmdbid>1020042</tmdbid>
+    <imdbid>nm2155527</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Goity</name>
+    <role>Hugo Brenner</role>
+    <type>Actor</type>
+    <tvdbid>491732</tvdbid>
+    <tmdbid>81011</tmdbid>
+  </actor>
+  <actor>
+    <name>Lali González</name>
+    <role>Ilu</role>
+    <type>Actor</type>
+    <tmdbid>1111721</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciano Borges</name>
+    <role>Raúl</role>
+    <type>Actor</type>
+    <tmdbid>1751186</tmdbid>
+  </actor>
+  <director tmdbid="81157" imdbid="nm0096375">Sebastián Borensztein</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q2FNgz4n7ec</trailer>
+  <rating>7.071</rating>
+  <year>2024</year>
+  <sorttitle>Descansar en paz</sorttitle>
+  <imdbid>tt28769440</imdbid>
+  <tmdbid>1106049</tmdbid>
+  <premiered>2024-03-21</premiered>
+  <releasedate>2024-03-21</releasedate>
+  <runtime>107</runtime>
+  <country>Argentina</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Kenya Films</studio>
+  <studio>Benteveo</studio>
+  <uniqueid type="imdb">tt28769440</uniqueid>
+  <uniqueid type="tmdb">1106049</uniqueid>
+  <id>tt28769440</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149754</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6429</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128443</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

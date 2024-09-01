@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Teresa se queda viuda muy joven. Su marido debía muchísimo dinero a Nabucco, un poderoso hombre de negocios, que le propone que se case con él, como única forma de saldar la deuda. Pero ella le rechaza y decide sacarle partido a los camiones que ha heredado de su marido, con el fin de obtener el dinero necesario.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-25 08:15:12</dateadded>
+  <title>Teresa</title>
+  <originaltitle>Teresa</originaltitle>
+  <actor>
+    <name>Serena Grandi</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>41163</tmdbid>
+    <imdbid>nm0000423</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Barbareschi</name>
+    <role>Gino</role>
+    <type>Actor</type>
+    <tmdbid>55650</tmdbid>
+    <imdbid>nm0053230</imdbid>
+  </actor>
+  <actor>
+    <name>Eros Pagni</name>
+    <role>Nabucco</role>
+    <type>Actor</type>
+    <tmdbid>85648</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Montuschi</name>
+    <role>Stallino</role>
+    <type>Actor</type>
+    <tmdbid>1853102</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Spafford</name>
+    <role>conte tedesco</role>
+    <type>Actor</type>
+    <tmdbid>934933</tmdbid>
+  </actor>
+  <actor>
+    <name>Flora Carosello</name>
+    <role>madre di Teresa</role>
+    <type>Actor</type>
+    <tmdbid>1203321</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Pannullo</name>
+    <role>autista di Nabucco</role>
+    <type>Actor</type>
+    <tmdbid>1203322</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Rhodes</name>
+    <role>autista del conte tedesco</role>
+    <type>Actor</type>
+    <tmdbid>95457</tmdbid>
+  </actor>
+  <actor>
+    <name>Pupo De Luca</name>
+    <role>priore del convento</role>
+    <type>Actor</type>
+    <tmdbid>1042797</tmdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Costa</name>
+    <role>camionista omossessuale</role>
+    <type>Actor</type>
+    <tmdbid>228152</tmdbid>
+  </actor>
+  <actor>
+    <name>Nino Vingelli</name>
+    <role>vecchio camionista</role>
+    <type>Actor</type>
+    <tmdbid>45983</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Cumani Quasimodo</name>
+    <role>contessa madre</role>
+    <type>Actor</type>
+    <tmdbid>99792</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliano Ghiselli</name>
+    <role>cliente del ristorante</role>
+    <type>Actor</type>
+    <tmdbid>131662</tmdbid>
+  </actor>
+  <actor>
+    <name>Franco Marino</name>
+    <role>padre dello sposo</role>
+    <type>Actor</type>
+    <tmdbid>1356152</tmdbid>
+  </actor>
+  <actor>
+    <name>Franca Scagnetti</name>
+    <role>madre della sposa</role>
+    <type>Actor</type>
+    <tmdbid>120114</tmdbid>
+  </actor>
+  <actor>
+    <name>Massimo Pittarello</name>
+    <role>Camionista</role>
+    <type>Actor</type>
+    <tmdbid>1203323</tmdbid>
+  </actor>
+  <director tmdbid="57641">Dino Risi</director>
+  <rating>4.1</rating>
+  <year>1987</year>
+  <sorttitle>Teresa</sorttitle>
+  <imdbid>tt0094121</imdbid>
+  <tmdbid>218572</tmdbid>
+  <premiered>1987-11-27</premiered>
+  <releasedate>1987-11-27</releasedate>
+  <runtime>102</runtime>
+  <country>Italy</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <studio>Reteitalia</studio>
+  <studio>Dean Film</studio>
+  <uniqueid type="imdb">tt0094121</uniqueid>
+  <uniqueid type="tmdb">218572</uniqueid>
+  <id>tt0094121</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>140568</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6107</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63819</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

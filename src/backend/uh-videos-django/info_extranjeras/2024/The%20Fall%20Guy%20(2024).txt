@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo. ¿Qué podría salir bien?]]></plot>
+  <outline><![CDATA[El especialista se convierte en héroe.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-22 08:52:28</dateadded>
+  <title>El especialista</title>
+  <originaltitle>The Fall Guy</originaltitle>
+  <actor>
+    <name>Ryan Gosling</name>
+    <role>Colt Seavers</role>
+    <type>Actor</type>
+    <tmdbid>30614</tmdbid>
+    <imdbid>nm0331516</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Blunt</name>
+    <role>Jody Moreno</role>
+    <type>Actor</type>
+    <tmdbid>5081</tmdbid>
+    <imdbid>nm1289434</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Taylor-Johnson</name>
+    <role>Tom Ryder</role>
+    <type>Actor</type>
+    <tmdbid>27428</tmdbid>
+    <imdbid>nm1093951</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Waddingham</name>
+    <role>Gail Meyer</role>
+    <type>Actor</type>
+    <tmdbid>1278487</tmdbid>
+    <imdbid>nm1821446</imdbid>
+    <tvdbid>283520</tvdbid>
+  </actor>
+  <actor>
+    <name>Teresa Palmer</name>
+    <role>Iggy Starr</role>
+    <type>Actor</type>
+    <tmdbid>20374</tmdbid>
+    <imdbid>nm1954240</imdbid>
+    <tvdbid>360711</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hsu</name>
+    <role>Alma Milan</role>
+    <type>Actor</type>
+    <tmdbid>1381186</tmdbid>
+    <tvdbid>468835</tvdbid>
+  </actor>
+  <actor>
+    <name>Winston Duke</name>
+    <role>Dan Tucker</role>
+    <type>Actor</type>
+    <tmdbid>1447932</tmdbid>
+    <imdbid>nm6328300</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Knight</name>
+    <role>Dressler</role>
+    <type>Actor</type>
+    <tmdbid>2295806</tmdbid>
+  </actor>
+  <actor>
+    <name>Matuse Paz</name>
+    <role>Doone</role>
+    <type>Actor</type>
+    <tmdbid>3054747</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Dunn</name>
+    <role>Nigel</role>
+    <type>Actor</type>
+    <tmdbid>3430988</tmdbid>
+  </actor>
+  <actor>
+    <name>Zara Michales</name>
+    <role>Venti Kushner</role>
+    <type>Actor</type>
+    <tmdbid>1673717</tmdbid>
+  </actor>
+  <actor>
+    <name>Ioane Sa'ula</name>
+    <role>Birdie the PA</role>
+    <type>Actor</type>
+    <tmdbid>2917826</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory J. Fryer</name>
+    <role>Rush McCabe</role>
+    <type>Actor</type>
+    <tmdbid>2283795</tmdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Wilson</name>
+    <role>Metalstorm AD</role>
+    <type>Actor</type>
+    <tmdbid>2380037</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalkidan China</name>
+    <role>Metalstorm Writer (Darla)</role>
+    <type>Actor</type>
+    <tmdbid>4698603</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Nica Sullen</name>
+    <role>Metalstorm Editor</role>
+    <type>Actor</type>
+    <tmdbid>3081917</tmdbid>
+  </actor>
+  <actor>
+    <name>Di Smith</name>
+    <role>Metalstorm Script</role>
+    <type>Actor</type>
+    <tmdbid>4698604</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan O'Connell</name>
+    <role>Metalstorm Props</role>
+    <type>Actor</type>
+    <tmdbid>2632032</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Doherty</name>
+    <role>Metalstorm Transport Captain</role>
+    <type>Actor</type>
+    <tmdbid>4202900</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Lynch</name>
+    <role>Helicoptor Pilot</role>
+    <type>Actor</type>
+    <tmdbid>4698605</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Nottage</name>
+    <role>Arm Car Operator</role>
+    <type>Actor</type>
+    <tmdbid>4698607</tmdbid>
+  </actor>
+  <actor>
+    <name>David Collins</name>
+    <role>Metalstorm Sound Mixer (Ray)</role>
+    <type>Actor</type>
+    <tmdbid>150030</tmdbid>
+  </actor>
+  <actor>
+    <name>Semu Filipo</name>
+    <role>Mike Mike</role>
+    <type>Actor</type>
+    <tmdbid>2458276</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Owen</name>
+    <role>Armstrong</role>
+    <type>Actor</type>
+    <tmdbid>4698608</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Reardon</name>
+    <role>Fry</role>
+    <type>Actor</type>
+    <tmdbid>3868920</tmdbid>
+  </actor>
+  <actor>
+    <name>Marky Lee Campbell</name>
+    <role>Hymes</role>
+    <type>Actor</type>
+    <tmdbid>1416897</tmdbid>
+    <imdbid>nm1148079</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Matheson</name>
+    <role>Rondell</role>
+    <type>Actor</type>
+    <tmdbid>4522725</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Langworthy</name>
+    <role>Sydney Cop</role>
+    <type>Actor</type>
+    <tmdbid>4473605</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Franklin</name>
+    <role>LA Bro</role>
+    <type>Actor</type>
+    <tmdbid>2551325</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Johnson</name>
+    <role>Director - NYC Film</role>
+    <type>Actor</type>
+    <tmdbid>2116647</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Champion</name>
+    <role>NY AD</role>
+    <type>Actor</type>
+    <tmdbid>942259</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Havea</name>
+    <role>NYC Medic</role>
+    <type>Actor</type>
+    <tmdbid>2634981</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Ola</name>
+    <role>NYC Medic</role>
+    <type>Actor</type>
+    <tmdbid>2829072</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Sorrell</name>
+    <role>Front Desk Lady</role>
+    <type>Actor</type>
+    <tmdbid>3115933</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Gerrard</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>4095282</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Retamales</name>
+    <role>Valet Captain</role>
+    <type>Actor</type>
+    <tmdbid>3770091</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon McLachlan</name>
+    <role>News Desk Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2138905</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Lee</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>4698619</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Ryan</name>
+    <role>Karaoke MC</role>
+    <type>Actor</type>
+    <tmdbid>4698620</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Majors</name>
+    <role>The Fall Guy</role>
+    <type>Actor</type>
+    <tmdbid>18589</tmdbid>
+  </actor>
+  <actor>
+    <name>Heather Thomas</name>
+    <role>Jody Banks</role>
+    <type>Actor</type>
+    <tmdbid>167393</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Jason Momoa (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+    <tvdbid>247856</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Nelson</name>
+    <role>Doone Goon (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2881089</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Wood</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4504885</tmdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Jones</name>
+    <role>Reader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2618018</tmdbid>
+  </actor>
+  <actor>
+    <name>Theodore Avery</name>
+    <role>Metalstorm Film Crew (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4590935</tmdbid>
+  </actor>
+  <actor>
+    <name>Nova Onas</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4590942</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Bates</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4590963</tmdbid>
+  </actor>
+  <actor>
+    <name>Shakriya Tarinyawat</name>
+    <role>Pedestrian / Tram Passenger / Comic Con Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3435712</tmdbid>
+  </actor>
+  <actor>
+    <name>Luisa Mariano</name>
+    <role>Club Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4590970</tmdbid>
+  </actor>
+  <actor>
+    <name>Tahlia Crinis</name>
+    <role>Sergeant Eloise Park (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4590971</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Cohen</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4504876</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Willett</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4590972</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert McFarlane</name>
+    <role>Rag Tag Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tvdbid>8481171</tvdbid>
+    <tmdbid>3411327</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoji Tatsuta</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1394451</tmdbid>
+    <imdbid>nm5810592</imdbid>
+  </actor>
+  <director tmdbid="40684" imdbid="nm0500610">David Leitch</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4k8I5TtURG8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W10iEY1nLhI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9slZAY2fyaM</trailer>
+  <rating>7.3</rating>
+  <year>2024</year>
+  <sorttitle>especialista</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1684562</imdbid>
+  <tmdbid>746036</tmdbid>
+  <premiered>2024-04-24</premiered>
+  <releasedate>2024-04-24</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>127</runtime>
+  <tagline>El especialista se convierte en héroe.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <studio>87North Productions</studio>
+  <studio>Entertainment 360</studio>
+  <studio>Universal Pictures</studio>
+  <uniqueid type="imdb">tt1684562</uniqueid>
+  <uniqueid type="tmdb">746036</uniqueid>
+  <id>tt1684562</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>877826</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7622</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

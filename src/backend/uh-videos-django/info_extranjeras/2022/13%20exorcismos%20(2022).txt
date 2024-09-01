@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras participar en una sesión de espiritismo, la joven Laura comienza a comportarse de manera extraña. Alarmados, sus padres piden ayuda al padre Olmedo, uno de los pocos exorcistas autorizados por el Vaticano para intervenir en casos de posesiones demoníacas.]]></plot>
+  <outline><![CDATA[El diablo sabe cómo corrompernos]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-03 10:53:15</dateadded>
+  <title>13 exorcismos</title>
+  <originaltitle>13 exorcismos</originaltitle>
+  <actor>
+    <name>María Romanillos</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>2545932</tmdbid>
+    <tvdbid>8424634</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruth Díaz</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>79288</tmdbid>
+    <imdbid>nm1699333</imdbid>
+  </actor>
+  <actor>
+    <name>Urko Olazabal</name>
+    <role>Tomás</role>
+    <type>Actor</type>
+    <tmdbid>1760905</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Revuelta</name>
+    <role>Jesús</role>
+    <type>Actor</type>
+    <tmdbid>3781491</tmdbid>
+  </actor>
+  <actor>
+    <name>José Sacristán</name>
+    <role>Padre Olmedo</role>
+    <type>Actor</type>
+    <tmdbid>105217</tmdbid>
+    <imdbid>nm0755366</imdbid>
+  </actor>
+  <actor>
+    <name>Daniela Bini</name>
+    <role>Niña Demonio</role>
+    <type>Actor</type>
+    <tmdbid>3798606</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Castaño</name>
+    <role>Asunción</role>
+    <type>Actor</type>
+    <tmdbid>1405734</tmdbid>
+    <imdbid>nm0144519</imdbid>
+    <tvdbid>7921724</tvdbid>
+  </actor>
+  <actor>
+    <name>Silma López</name>
+    <role>Lola</role>
+    <type>Actor</type>
+    <tmdbid>1151479</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Arias</name>
+    <role>Enrique</role>
+    <type>Actor</type>
+    <tmdbid>2543169</tmdbid>
+    <imdbid>nm3749785</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Falcó</name>
+    <role>Mireia</role>
+    <type>Actor</type>
+    <tmdbid>1210310</tmdbid>
+  </actor>
+  <actor>
+    <name>Uri Guitart</name>
+    <role>Arturo</role>
+    <type>Actor</type>
+    <tmdbid>3245005</tmdbid>
+  </actor>
+  <actor>
+    <name>José Torija</name>
+    <role>Demonio</role>
+    <type>Actor</type>
+    <tmdbid>1378381</tmdbid>
+    <imdbid>nm1047004</imdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Delgado</name>
+    <role>Profesor Arte</role>
+    <type>Actor</type>
+    <tmdbid>1170151</tmdbid>
+    <imdbid>nm0216901</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Oyagüez</name>
+    <role>Profesor Luis</role>
+    <type>Actor</type>
+    <tmdbid>2646383</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Cereixo</name>
+    <role>Técnica de Resonancia</role>
+    <type>Actor</type>
+    <tmdbid>4049991</tmdbid>
+  </actor>
+  <actor>
+    <name>Lupe Cartié Roda</name>
+    <role>Doctora Oliva</role>
+    <type>Actor</type>
+    <tmdbid>1923584</tmdbid>
+  </actor>
+  <actor>
+    <name>Nerea Brey</name>
+    <role>Enfermera Pool</role>
+    <type>Actor</type>
+    <tmdbid>1278431</tmdbid>
+  </actor>
+  <actor>
+    <name>Adela Leiro</name>
+    <role>Jueza</role>
+    <type>Actor</type>
+    <tmdbid>2859901</tmdbid>
+  </actor>
+  <director tmdbid="2562314">Jacobo Martínez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3cYa4lkvx9s</trailer>
+  <rating>4.4</rating>
+  <year>2022</year>
+  <sorttitle>13 exorcismos</sorttitle>
+  <imdbid>tt21199996</imdbid>
+  <tmdbid>1026563</tmdbid>
+  <premiered>2022-11-04</premiered>
+  <releasedate>2022-11-04</releasedate>
+  <runtime>103</runtime>
+  <tagline>El diablo sabe cómo corrompernos</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>Mr. Fields and Friends</studio>
+  <studio>Atresmedia</studio>
+  <studio>Bambú Producciones</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="tmdb">1026563</uniqueid>
+  <uniqueid type="imdb">tt21199996</uniqueid>
+  <id>tt21199996</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>134860</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6207</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63823</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

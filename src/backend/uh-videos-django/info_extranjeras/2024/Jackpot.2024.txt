@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un futuro próximo, se ha creado el sorteo de la Gran Lotería. El truco es matar al ganador antes del anochecer y reclamar legalmente el bote multimillonario. Cuando Katie Kim se hace con el boleto ganador por error, se une a regañadientes al agente novato de protección de la lotería Noel Cassidy, que deberá mantenerla con vida a cambio de una parte del premio.]]></plot>
+  <outline><![CDATA[Coge el dinero y corre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-15 08:32:23</dateadded>
+  <title>Jackpot!</title>
+  <originaltitle>Jackpot!</originaltitle>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Katie Kim</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Noel Cassidy</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Simu Liu</name>
+    <role>Louis Lewis</role>
+    <type>Actor</type>
+    <tmdbid>1489211</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayden Mayeri</name>
+    <role>Shadi</role>
+    <type>Actor</type>
+    <tmdbid>1607789</tmdbid>
+  </actor>
+  <actor>
+    <name>Donald Watkins</name>
+    <role>DJ Donald</role>
+    <type>Actor</type>
+    <tmdbid>1347294</tmdbid>
+    <imdbid>nm5060159</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Asghari</name>
+    <role>Senior Agent Ash</role>
+    <type>Actor</type>
+    <tmdbid>3103358</tmdbid>
+  </actor>
+  <actor>
+    <name>Machine Gun Kelly</name>
+    <role>Machine Gun Kelly</role>
+    <type>Actor</type>
+    <tmdbid>1276759</tmdbid>
+    <imdbid>nm0446622</imdbid>
+  </actor>
+  <actor>
+    <name>Seann William Scott</name>
+    <role>Rugged Man</role>
+    <type>Actor</type>
+    <tmdbid>57599</tmdbid>
+    <imdbid>nm0005405</imdbid>
+    <tvdbid>327286</tvdbid>
+  </actor>
+  <actor>
+    <name>Dolly de Leon</name>
+    <role>Grandma Tala</role>
+    <type>Actor</type>
+    <tmdbid>1513304</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Hitchcock</name>
+    <role>Sleazy Ron Wexler</role>
+    <type>Actor</type>
+    <tmdbid>75463</tmdbid>
+    <imdbid>nm0386871</imdbid>
+  </actor>
+  <actor>
+    <name>Becky Ann Baker</name>
+    <role>Sweet Irene</role>
+    <type>Actor</type>
+    <tmdbid>59206</tmdbid>
+    <imdbid>nm0048250</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie David Baker</name>
+    <role>Earl the Fameland Guard</role>
+    <type>Actor</type>
+    <tmdbid>1230842</tmdbid>
+    <tvdbid>314598</tvdbid>
+  </actor>
+  <actor>
+    <name>Murray Hill</name>
+    <role>Johnny Grand</role>
+    <type>Actor</type>
+    <tmdbid>1788931</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Ray</name>
+    <role>Asshole Dad</role>
+    <type>Actor</type>
+    <tmdbid>1637555</tmdbid>
+    <imdbid>nm3066532</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor Ortega</name>
+    <role>Sleazy Ron’s Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2050577</tmdbid>
+  </actor>
+  <actor>
+    <name>Holmes</name>
+    <role>Constance the Ride Share Driver</role>
+    <type>Actor</type>
+    <tmdbid>1775228</tmdbid>
+  </actor>
+  <actor>
+    <name>Krystal Smith</name>
+    <role>Hot Spots Tour Guide</role>
+    <type>Actor</type>
+    <tmdbid>3381596</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Lee</name>
+    <role>Bobby Lee</role>
+    <type>Actor</type>
+    <tmdbid>198149</tmdbid>
+    <imdbid>nm0496899</imdbid>
+  </actor>
+  <actor>
+    <name>Monique Ganderton</name>
+    <role>Agent Hoyt</role>
+    <type>Actor</type>
+    <tmdbid>102744</tmdbid>
+    <imdbid>nm1244650</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Shelby</name>
+    <role>Agent Ford</role>
+    <type>Actor</type>
+    <tmdbid>3745297</tmdbid>
+  </actor>
+  <actor>
+    <name>John Santiago</name>
+    <role>Agent Bell</role>
+    <type>Actor</type>
+    <tmdbid>3126444</tmdbid>
+  </actor>
+  <actor>
+    <name>Imani Love</name>
+    <role>Isabella</role>
+    <type>Actor</type>
+    <tmdbid>3759989</tmdbid>
+  </actor>
+  <actor>
+    <name>Marian Green</name>
+    <role>Lunch Lady</role>
+    <type>Actor</type>
+    <tmdbid>1456721</tmdbid>
+    <imdbid>nm0338123</imdbid>
+  </actor>
+  <actor>
+    <name>Rosanna Scotto</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1686558</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Reed</name>
+    <role>GLN Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1223034</tmdbid>
+  </actor>
+  <director tmdbid="116805" imdbid="nm0270552">Paul Feig</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IW7pIYtpp50</trailer>
+  <rating>6.475</rating>
+  <year>2024</year>
+  <sorttitle>Jackpot!</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt26940324</imdbid>
+  <tmdbid>1094138</tmdbid>
+  <premiered>2024-08-13</premiered>
+  <releasedate>2024-08-13</releasedate>
+  <criticrating>38</criticrating>
+  <runtime>106</runtime>
+  <tagline>Coge el dinero y corre.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Roth-Kirschenbaum Films</studio>
+  <studio>Feigco Entertainment</studio>
+  <studio>Amazon MGM Studios</studio>
+  <uniqueid type="tmdb">1094138</uniqueid>
+  <uniqueid type="imdb">tt26940324</uniqueid>
+  <id>tt26940324</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1056898</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6361</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>mal</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

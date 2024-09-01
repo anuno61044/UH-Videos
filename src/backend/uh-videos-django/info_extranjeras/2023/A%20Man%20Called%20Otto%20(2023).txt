@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Otto Anderson (Tom Hanks) es un viudo cascarrabias y muy obstinado. Cuando una alegre joven familia se muda a la casa de al lado, Otto encuentra la horma de su zapato en la espabilada, y muy embarazada, Marisol, lo que conlleva a una muy improbable amistad que pondrá su mundo patas arriba. Remake de la película sueca 'A Man Called Ove' de 2015.]]></plot>
+  <outline><![CDATA[Nunca es tarde para darle a la vida una segunda oportunidad]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-28 09:13:01</dateadded>
+  <title>El peor vecino del mundo</title>
+  <originaltitle>A Man Called Otto</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Otto Anderson</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Mariana Treviño</name>
+    <role>Marisol</role>
+    <type>Actor</type>
+    <tmdbid>1309844</tmdbid>
+    <imdbid>nm3901455</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Keller</name>
+    <role>Sonya</role>
+    <type>Actor</type>
+    <tmdbid>1365769</tmdbid>
+    <imdbid>nm5043859</imdbid>
+    <tvdbid>463646</tvdbid>
+  </actor>
+  <actor>
+    <name>Manuel Garcia-Rulfo</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>1168097</tmdbid>
+    <imdbid>nm2636310</imdbid>
+    <tvdbid>486550</tvdbid>
+  </actor>
+  <actor>
+    <name>Cameron Britton</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1286537</tmdbid>
+    <imdbid>nm5866359</imdbid>
+    <tvdbid>295005</tvdbid>
+  </actor>
+  <actor>
+    <name>Kailey Hyman</name>
+    <role>Barb</role>
+    <type>Actor</type>
+    <tmdbid>3790695</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Birbiglia</name>
+    <role>Real Estate Agent</role>
+    <type>Actor</type>
+    <tmdbid>113373</tmdbid>
+    <imdbid>nm1898126</imdbid>
+  </actor>
+  <actor>
+    <name>Elle Chapman</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>3756947</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Fishel</name>
+    <role>Army Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1543874</tmdbid>
+    <imdbid>nm5203487</imdbid>
+  </actor>
+  <actor>
+    <name>Truman Hanks</name>
+    <role>Young Otto Anderson</role>
+    <type>Actor</type>
+    <tmdbid>3455931</tmdbid>
+  </actor>
+  <actor>
+    <name>Juanita Jennings</name>
+    <role>Anita</role>
+    <type>Actor</type>
+    <tmdbid>80615</tmdbid>
+    <imdbid>nm0421188</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Lamor Wilson</name>
+    <role>Shari Kenzie</role>
+    <type>Actor</type>
+    <tmdbid>1663960</tmdbid>
+  </actor>
+  <actor>
+    <name>John Higgins</name>
+    <role>Hardware Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3631835</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Bingham</name>
+    <role>Hardware Store Customer</role>
+    <type>Actor</type>
+    <tmdbid>1711069</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Kozub</name>
+    <role>Hardware Store Assistant Manager</role>
+    <type>Actor</type>
+    <tmdbid>2335914</tmdbid>
+  </actor>
+  <actor>
+    <name>Mack Bayda</name>
+    <role>Malcolm</role>
+    <type>Actor</type>
+    <tmdbid>2797317</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Lawson Jones</name>
+    <role>Reuben</role>
+    <type>Actor</type>
+    <tmdbid>1836034</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Pavel</name>
+    <role>Andy</role>
+    <type>Actor</type>
+    <tmdbid>3880588</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sipla</name>
+    <role>Stimco Steel Boss</role>
+    <type>Actor</type>
+    <tmdbid>3386791</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Stanny</name>
+    <role>Stimco Steel Worker</role>
+    <type>Actor</type>
+    <tmdbid>3880589</tmdbid>
+  </actor>
+  <actor>
+    <name>Allyson R. Hood</name>
+    <role>Stimco Steel Worker</role>
+    <type>Actor</type>
+    <tmdbid>3880590</tmdbid>
+  </actor>
+  <actor>
+    <name>Carl Clemons</name>
+    <role>Stimco Steel Worker</role>
+    <type>Actor</type>
+    <tmdbid>1673014</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor McCanlus</name>
+    <role>Stimco Steel Worker</role>
+    <type>Actor</type>
+    <tmdbid>3880591</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristy Nolen</name>
+    <role>Stimco Steel Worker</role>
+    <type>Actor</type>
+    <tmdbid>2799110</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominick Marrone</name>
+    <role>Stimco Steel Worker</role>
+    <type>Actor</type>
+    <tmdbid>1512763</tmdbid>
+  </actor>
+  <actor>
+    <name>Cindy Jackson</name>
+    <role>Delivery Person</role>
+    <type>Actor</type>
+    <tmdbid>1354413</tmdbid>
+    <imdbid>nm4372600</imdbid>
+  </actor>
+  <actor>
+    <name>Christiana Montoya</name>
+    <role>Luna</role>
+    <type>Actor</type>
+    <tmdbid>3232652</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Perez</name>
+    <role>Abbie</role>
+    <type>Actor</type>
+    <tmdbid>3068593</tmdbid>
+  </actor>
+  <actor>
+    <name>Bodhi Wilson</name>
+    <role>Child Otto</role>
+    <type>Actor</type>
+    <tmdbid>3880594</tmdbid>
+  </actor>
+  <actor>
+    <name>Ira Amyx</name>
+    <role>Otto's Father</role>
+    <type>Actor</type>
+    <tmdbid>2218449</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Allan Martin</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>36157</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryant Carroll</name>
+    <role>Train Conductor</role>
+    <type>Actor</type>
+    <tmdbid>1998577</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Manjerico</name>
+    <role>Beppo The Clown</role>
+    <type>Actor</type>
+    <tmdbid>3704463</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Donahue</name>
+    <role>Officer Dudley</role>
+    <type>Actor</type>
+    <tmdbid>1465283</tmdbid>
+    <imdbid>nm1022782</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Aponte</name>
+    <role>Train Rider (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2002674</tmdbid>
+  </actor>
+  <director tmdbid="12995" imdbid="nm0286975">Marc Forster</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EHmJhylIOmw</trailer>
+  <rating>7.5</rating>
+  <year>2022</year>
+  <sorttitle>peor vecino del mundo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7405458</imdbid>
+  <tmdbid>937278</tmdbid>
+  <premiered>2022-12-28</premiered>
+  <releasedate>2022-12-28</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>126</runtime>
+  <tagline>Nunca es tarde para darle a la vida una segunda oportunidad</tagline>
+  <country>Sweden</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Playtone</studio>
+  <studio>SF Studios</studio>
+  <studio>Artistic Films</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>2DUX²</studio>
+  <uniqueid type="tmdb">937278</uniqueid>
+  <uniqueid type="imdb">tt7405458</uniqueid>
+  <id>tt7405458</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>885968</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7568</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

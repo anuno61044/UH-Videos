@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Elisa, una niña de doce años que se cree una superheroína, vive con su padre tras la muerte de su madre.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-27 16:20:09</dateadded>
+  <title>Asombrosa Elisa</title>
+  <originaltitle>Asombrosa Elisa</originaltitle>
+  <actor>
+    <name>Jana San Antonio</name>
+    <role>Elisa</role>
+    <type>Actor</type>
+    <tmdbid>3677988</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvia Abascal</name>
+    <role>Úrsula</role>
+    <type>Actor</type>
+    <tmdbid>100667</tmdbid>
+    <imdbid>nm0007711</imdbid>
+    <tvdbid>301820</tvdbid>
+  </actor>
+  <actor>
+    <name>Asier Etxeandia</name>
+    <role>Héctor</role>
+    <type>Actor</type>
+    <tmdbid>102228</tmdbid>
+    <imdbid>nm1292111</imdbid>
+    <tvdbid>7916241</tvdbid>
+  </actor>
+  <actor>
+    <name>Ivan Massagué</name>
+    <role>Esteban</role>
+    <type>Actor</type>
+    <tmdbid>31422</tmdbid>
+    <imdbid>nm1293644</imdbid>
+    <tvdbid>7925919</tvdbid>
+  </actor>
+  <actor>
+    <name>Milo Taboada</name>
+    <role>Vecino</role>
+    <type>Actor</type>
+    <tmdbid>1077953</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Bouza</name>
+    <role>Galerista</role>
+    <type>Actor</type>
+    <tmdbid>3208192</tmdbid>
+  </actor>
+  <director tmdbid="1712702">Sadrac González-Perellón</director>
+  <rating>0</rating>
+  <year>2022</year>
+  <sorttitle>Asombrosa Elisa</sorttitle>
+  <imdbid>tt9336032</imdbid>
+  <tmdbid>1002482</tmdbid>
+  <premiered>2022-10-14</premiered>
+  <releasedate>2022-10-14</releasedate>
+  <runtime>103</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="tmdb">1002482</uniqueid>
+  <uniqueid type="imdb">tt9336032</uniqueid>
+  <id>tt9336032</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>102910</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6188</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63822</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

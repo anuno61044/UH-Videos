@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando Lola pierde los bebés que estaba esperando, también pierde su fe en Dios. Con la esperanza de recuperarla, acude junto a su marido Adolfo a un convento de monjas donde conocen a Tin y Tina, dos angelicales hermanos de siete años por los que Lola se siente extrañamente atraída. Aunque Adolfo no siente lo mismo, deciden adoptarlos. Con el paso del tiempo Lola empieza a caer en una espiral de sospecha y obsesión con los niños y sus macabros juegos religiosos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-26 09:04:12</dateadded>
+  <title>Tin &amp; Tina</title>
+  <originaltitle>Tin &amp; Tina</originaltitle>
+  <actor>
+    <name>Milena Smit</name>
+    <role>Lola</role>
+    <type>Actor</type>
+    <tmdbid>2560224</tmdbid>
+    <tvdbid>8813222</tvdbid>
+  </actor>
+  <actor>
+    <name>Jaime Lorente</name>
+    <role>Adolfo</role>
+    <type>Actor</type>
+    <tmdbid>1972706</tmdbid>
+    <imdbid>nm7931969</imdbid>
+    <tvdbid>493280</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos G. Morollón</name>
+    <role>Tin</role>
+    <type>Actor</type>
+    <tmdbid>2526906</tmdbid>
+    <imdbid>nm10469223</imdbid>
+  </actor>
+  <actor>
+    <name>Anastasia Russo</name>
+    <role>Tina</role>
+    <type>Actor</type>
+    <tmdbid>3690350</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Rabal</name>
+    <role>Sor Asunción</role>
+    <type>Actor</type>
+    <tmdbid>37507</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Gabriel</name>
+    <role>Madre Pedrito</role>
+    <type>Actor</type>
+    <tmdbid>929758</tmdbid>
+    <imdbid>nm0300282</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Pérezagua</name>
+    <role>Don Julián</role>
+    <type>Actor</type>
+    <tmdbid>555517</tmdbid>
+  </actor>
+  <actor>
+    <name>Enara Prieto</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>3552456</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Blanco de Córdova</name>
+    <role>Communion Priest</role>
+    <type>Actor</type>
+    <tmdbid>2194968</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Ramos</name>
+    <role>Pedrito</role>
+    <type>Actor</type>
+    <tmdbid>3994557</tmdbid>
+  </actor>
+  <actor>
+    <name>Joserra Leza</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1072597</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelo Vivares</name>
+    <role>Gynecologist</role>
+    <type>Actor</type>
+    <tmdbid>1417592</tmdbid>
+  </actor>
+  <actor>
+    <name>Marichu Sanz</name>
+    <role>Nun</role>
+    <type>Actor</type>
+    <tmdbid>2230103</tmdbid>
+  </actor>
+  <director tmdbid="2194967">Rubin Stein</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bOgmpzG6RKQ</trailer>
+  <rating>4.7</rating>
+  <year>2023</year>
+  <sorttitle>Tin &amp; Tina</sorttitle>
+  <imdbid>tt7354440</imdbid>
+  <tmdbid>943930</tmdbid>
+  <premiered>2023-03-24</premiered>
+  <releasedate>2023-03-24</releasedate>
+  <runtime>120</runtime>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>La Claqueta</studio>
+  <studio>Tin&amp;Tina La Película AIE</studio>
+  <studio>Miami Film Gate</studio>
+  <studio>Filmax</studio>
+  <studio>Albinos La Película</studio>
+  <uniqueid type="imdb">tt7354440</uniqueid>
+  <uniqueid type="tmdb">943930</uniqueid>
+  <id>tt7354440</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>149875</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7194</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63832</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

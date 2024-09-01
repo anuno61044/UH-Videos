@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.]]></plot>
+  <outline><![CDATA[Van a darlo todo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-06 15:13:29</dateadded>
+  <title>Guardianes de la Galaxia: Volumen 3</title>
+  <originaltitle>Guardians of the Galaxy Vol. 3</originaltitle>
+  <actor>
+    <name>Chris Pratt</name>
+    <role>Peter Quill / Star-Lord</role>
+    <type>Actor</type>
+    <tmdbid>73457</tmdbid>
+    <imdbid>nm0695435</imdbid>
+    <tvdbid>312388</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Saldana</name>
+    <role>Gamora</role>
+    <type>Actor</type>
+    <tmdbid>8691</tmdbid>
+    <imdbid>nm0757855</imdbid>
+    <tvdbid>327422</tvdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Drax the Destroyer</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Gillan</name>
+    <role>Nebula</role>
+    <type>Actor</type>
+    <tmdbid>543261</tmdbid>
+    <imdbid>nm2394794</imdbid>
+    <tvdbid>360589</tvdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <role>Mantis</role>
+    <type>Actor</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Groot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+    <tvdbid>310526</tvdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Rocket (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Gunn</name>
+    <role>Kraglin / Young Rocket (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51663</tmdbid>
+    <imdbid>nm0348231</imdbid>
+  </actor>
+  <actor>
+    <name>Chukwudi Iwuji</name>
+    <role>The High Evolutionary</role>
+    <type>Actor</type>
+    <tmdbid>105238</tmdbid>
+    <tvdbid>590331</tvdbid>
+  </actor>
+  <actor>
+    <name>Will Poulter</name>
+    <role>Adam Warlock</role>
+    <type>Actor</type>
+    <tmdbid>93491</tmdbid>
+    <imdbid>nm2401020</imdbid>
+    <tvdbid>472218</tvdbid>
+  </actor>
+  <actor>
+    <name>Maria Bakalova</name>
+    <role>Cosmo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2408703</tmdbid>
+    <imdbid>nm7210025</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Debicki</name>
+    <role>Ayesha</role>
+    <type>Actor</type>
+    <tmdbid>1133349</tmdbid>
+    <imdbid>nm4456120</imdbid>
+    <tvdbid>523165</tvdbid>
+  </actor>
+  <actor>
+    <name>Sylvester Stallone</name>
+    <role>Stakar Ogord</role>
+    <type>Actor</type>
+    <tmdbid>16483</tmdbid>
+    <imdbid>nm0000230</imdbid>
+    <tvdbid>254226</tvdbid>
+  </actor>
+  <actor>
+    <name>Austin Freeman</name>
+    <role>On-Set Groot / Phlektik Guard</role>
+    <type>Actor</type>
+    <tmdbid>1696434</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Blackehart</name>
+    <role>Steemie Blueliver</role>
+    <type>Actor</type>
+    <tmdbid>85096</tmdbid>
+    <imdbid>nm0002888</imdbid>
+  </actor>
+  <actor>
+    <name>Terence Rosemore</name>
+    <role>Xlomo Smeth</role>
+    <type>Actor</type>
+    <tmdbid>1411625</tmdbid>
+    <imdbid>nm0741893</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Alami</name>
+    <role>Ssssaralami</role>
+    <type>Actor</type>
+    <tmdbid>1591198</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Munoz</name>
+    <role>Hoobtoe</role>
+    <type>Actor</type>
+    <tmdbid>4175616</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovannie Cruz</name>
+    <role>Orloni Peddler</role>
+    <type>Actor</type>
+    <tmdbid>3125907</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico Santos</name>
+    <role>Recorder Theel</role>
+    <type>Actor</type>
+    <tmdbid>1465297</tmdbid>
+  </actor>
+  <actor>
+    <name>Miriam Shor</name>
+    <role>Recorder Vim</role>
+    <type>Actor</type>
+    <tmdbid>18273</tmdbid>
+    <imdbid>nm0794896</imdbid>
+  </actor>
+  <actor>
+    <name>Noa Raskin</name>
+    <role>Baby Rocket (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4028624</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>Lylla</role>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+    <tvdbid>266557</tvdbid>
+  </actor>
+  <actor>
+    <name>Asim Chaudhry</name>
+    <role>Teefs</role>
+    <type>Actor</type>
+    <tmdbid>1502438</tmdbid>
+    <imdbid>nm5219130</imdbid>
+    <tvdbid>460655</tvdbid>
+  </actor>
+  <actor>
+    <name>Mikaela Hoover</name>
+    <role>Floor</role>
+    <type>Actor</type>
+    <tmdbid>1363394</tmdbid>
+  </actor>
+  <actor>
+    <name>Judy Greer</name>
+    <role>War Pig (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20750</tmdbid>
+    <imdbid>nm0339460</imdbid>
+    <tvdbid>248132</tvdbid>
+  </actor>
+  <actor>
+    <name>Reinaldo Faberlle</name>
+    <role>Behemoth (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1937912</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Strong</name>
+    <role>Mainframe (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15762</tmdbid>
+    <imdbid>nm0152839</imdbid>
+    <tvdbid>276645</tvdbid>
+  </actor>
+  <actor>
+    <name>Jared Leland Gore</name>
+    <role>Krugarr</role>
+    <type>Actor</type>
+    <tmdbid>3192808</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rosenbaum</name>
+    <role>Martinex</role>
+    <type>Actor</type>
+    <tmdbid>19975</tmdbid>
+    <imdbid>nm0742146</imdbid>
+  </actor>
+  <actor>
+    <name>Elan Gale</name>
+    <role>Beardy Ravager</role>
+    <type>Actor</type>
+    <tmdbid>939406</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly C. Quinn</name>
+    <role>Molly Ravager</role>
+    <type>Actor</type>
+    <tmdbid>96349</tmdbid>
+    <imdbid>nm2829369</imdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Davila</name>
+    <role>Fitz-Gibbonok</role>
+    <type>Actor</type>
+    <tmdbid>968692</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Bradley Baker</name>
+    <role>Blurp (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23680</tmdbid>
+    <imdbid>nm0048389</imdbid>
+  </actor>
+  <actor>
+    <name>Hanna Pak</name>
+    <role>Humanimal Turtle Experiment</role>
+    <type>Actor</type>
+    <tmdbid>4040040</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Holland</name>
+    <role>Administrator Kwol</role>
+    <type>Actor</type>
+    <tmdbid>87165</tmdbid>
+    <imdbid>nm1684744</imdbid>
+    <tvdbid>393463</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fillion</name>
+    <role>Master Karja</role>
+    <type>Actor</type>
+    <tmdbid>51797</tmdbid>
+    <imdbid>nm0277213</imdbid>
+    <tvdbid>248237</tvdbid>
+  </actor>
+  <actor>
+    <name>Kyle Mclean</name>
+    <role>The Boss's Nephew</role>
+    <type>Actor</type>
+    <tmdbid>1827845</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Byron Davis</name>
+    <role>Bletelsnort</role>
+    <type>Actor</type>
+    <tmdbid>1356013</tmdbid>
+    <imdbid>nm1177880</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Smith</name>
+    <role>Orgocorp Host Friniki</role>
+    <type>Actor</type>
+    <tmdbid>1404452</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Daru</name>
+    <role>Security Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3061301</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Melchior</name>
+    <role>Ura</role>
+    <type>Actor</type>
+    <tmdbid>1784612</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Mercedes</name>
+    <role>Gamora Shoots This Guy!</role>
+    <type>Actor</type>
+    <tmdbid>2422999</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Fritschi</name>
+    <role>Carrot Head Guard</role>
+    <type>Actor</type>
+    <tmdbid>1290604</tmdbid>
+    <imdbid>nm4973032</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Ward</name>
+    <role>Carrot Head's Friend</role>
+    <type>Actor</type>
+    <tmdbid>1635223</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Bickelhaup</name>
+    <role>Kitty Orgosentry</role>
+    <type>Actor</type>
+    <tmdbid>2486881</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Morales</name>
+    <role>Dancing Guard</role>
+    <type>Actor</type>
+    <tmdbid>1388183</tmdbid>
+    <imdbid>nm3863881</imdbid>
+  </actor>
+  <actor>
+    <name>Renae Moneymaker</name>
+    <role>Violent Orgosentry</role>
+    <type>Actor</type>
+    <tmdbid>1768007</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Hadesty</name>
+    <role>Humanimal Rabbit</role>
+    <type>Actor</type>
+    <tmdbid>4040048</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Warren</name>
+    <role>Humanimal Kangaroo</role>
+    <type>Actor</type>
+    <tmdbid>2776852</tmdbid>
+  </actor>
+  <actor>
+    <name>Candi VandiZandi</name>
+    <role>Humanimal Monkey</role>
+    <type>Actor</type>
+    <tmdbid>2510475</tmdbid>
+  </actor>
+  <actor>
+    <name>Grecia Balboa</name>
+    <role>Warthog Mother</role>
+    <type>Actor</type>
+    <tmdbid>3359669</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Spillyards</name>
+    <role>Humanimal Panda Bear</role>
+    <type>Actor</type>
+    <tmdbid>1717376</tmdbid>
+  </actor>
+  <actor>
+    <name>Darla Delgado</name>
+    <role>Neelie</role>
+    <type>Actor</type>
+    <tmdbid>967944</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Civile</name>
+    <role>Blue Jay Postal Worker</role>
+    <type>Actor</type>
+    <tmdbid>3245755</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Lyle</name>
+    <role>Rabbit Businessman</role>
+    <type>Actor</type>
+    <tmdbid>73620</tmdbid>
+  </actor>
+  <actor>
+    <name>Elodie Clarke</name>
+    <role>Humanimal Bush Baby Toddler</role>
+    <type>Actor</type>
+    <tmdbid>4040051</tmdbid>
+  </actor>
+  <actor>
+    <name>John William Wright</name>
+    <role>Humanimal Hyena</role>
+    <type>Actor</type>
+    <tmdbid>2532648</tmdbid>
+  </actor>
+  <actor>
+    <name>Autumn Griffin</name>
+    <role>Humanimal Bat Child</role>
+    <type>Actor</type>
+    <tmdbid>4040052</tmdbid>
+  </actor>
+  <actor>
+    <name>Skylar Huntley</name>
+    <role>Humanimal Bat Child</role>
+    <type>Actor</type>
+    <tmdbid>4040053</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Havens</name>
+    <role>Till</role>
+    <type>Actor</type>
+    <tmdbid>1381393</tmdbid>
+  </actor>
+  <actor>
+    <name>Dane DiLiegro</name>
+    <role>Unsavory Octopus</role>
+    <type>Actor</type>
+    <tmdbid>3158773</tmdbid>
+  </actor>
+  <actor>
+    <name>Kai Zen</name>
+    <role>Phyla</role>
+    <type>Actor</type>
+    <tmdbid>2651186</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Anne</name>
+    <role>Latti</role>
+    <type>Actor</type>
+    <tmdbid>4040056</tmdbid>
+  </actor>
+  <actor>
+    <name>Yael Ocasio</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>4040059</tmdbid>
+  </actor>
+  <actor>
+    <name>Adelynn Spoon</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>2437734</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Heffernan</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>4038968</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooklyn Skye Oliver</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>3325844</tmdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Blum</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>1907258</tmdbid>
+  </actor>
+  <actor>
+    <name>Baby Dro</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>4040061</tmdbid>
+  </actor>
+  <actor>
+    <name>Emery Grilliot</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>4040062</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia Waters</name>
+    <role>Star Child</role>
+    <type>Actor</type>
+    <tmdbid>4040063</tmdbid>
+  </actor>
+  <actor>
+    <name>Lloyd Kaufman</name>
+    <role>Gridlemop (voice)</role>
+    <type>Actor</type>
+    <tmdbid>78021</tmdbid>
+    <imdbid>nm0442207</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Green</name>
+    <role>Howard the Duck (voice)</role>
+    <type>Actor</type>
+    <tmdbid>13922</tmdbid>
+    <imdbid>nm0001293</imdbid>
+    <tvdbid>252099</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher Fairbank</name>
+    <role>Broker</role>
+    <type>Actor</type>
+    <tmdbid>8399</tmdbid>
+    <imdbid>nm0265457</imdbid>
+  </actor>
+  <actor>
+    <name>Rhett Miller</name>
+    <role>Bzermikitokolok</role>
+    <type>Actor</type>
+    <tmdbid>1528191</tmdbid>
+    <imdbid>nm1534561</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Controller</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>Murphy Weed</name>
+    <role>Murf</role>
+    <type>Actor</type>
+    <tmdbid>4040064</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rooker</name>
+    <role>Yondu Udonta</role>
+    <type>Actor</type>
+    <tmdbid>12132</tmdbid>
+    <imdbid>nm0740264</imdbid>
+    <tvdbid>294173</tvdbid>
+  </actor>
+  <actor>
+    <name>James Gunn</name>
+    <role>Lamb-Shank (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15218</tmdbid>
+    <imdbid>nm0348181</imdbid>
+  </actor>
+  <actor>
+    <name>Pete Davidson</name>
+    <role>Phlektik</role>
+    <type>Actor</type>
+    <tmdbid>1427948</tmdbid>
+    <imdbid>nm0203457</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Fontaine</name>
+    <role>Phlektik Guard</role>
+    <type>Actor</type>
+    <tmdbid>1543993</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Abercrombie</name>
+    <role>Grandma Quill</role>
+    <type>Actor</type>
+    <tmdbid>167132</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregg Henry</name>
+    <role>Grandpa Quill</role>
+    <type>Actor</type>
+    <tmdbid>2518</tmdbid>
+    <imdbid>nm0001344</imdbid>
+  </actor>
+  <actor>
+    <name>Adriana Leonard</name>
+    <role>Crying Krylorian Citizen</role>
+    <type>Actor</type>
+    <tmdbid>1391876</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Discepolo</name>
+    <role>Crying Krylorian Citizen</role>
+    <type>Actor</type>
+    <tmdbid>1504236</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Grant</name>
+    <role>Crying Krylorian Citizen</role>
+    <type>Actor</type>
+    <tmdbid>53266</tmdbid>
+    <imdbid>nm1740127</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Gunn</name>
+    <role>Crying Krylorian Citizen</role>
+    <type>Actor</type>
+    <tmdbid>4040065</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Gunn</name>
+    <role>Crying Krylorian Citizen</role>
+    <type>Actor</type>
+    <tmdbid>4040066</tmdbid>
+  </actor>
+  <director tmdbid="15218" imdbid="nm0348181">James Gunn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=56TaHRa5Ow0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jKhjgtIePXM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9SfnkovRye8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FTGm7EexNmw</trailer>
+  <rating>7.9</rating>
+  <year>2023</year>
+  <sorttitle>Guardianes de la Galaxia: Volumen 3</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6791350</imdbid>
+  <tmdbid>447365</tmdbid>
+  <premiered>2023-05-03</premiered>
+  <releasedate>2023-05-03</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>150</runtime>
+  <tagline>Van a darlo todo.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <set tmdbcolid="284433">
+    <name>Guardianes de la galaxia - Colección</name>
+  </set>
+  <set tmdbcolid="284433">
+    <name>Colección: Guardianes de la galaxia</name>
+  </set>
+  <uniqueid type="tmdb">447365</uniqueid>
+  <uniqueid type="imdb">tt6791350</uniqueid>
+  <id>tt6791350</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150032</bitrate>
+        <width>1280</width>
+        <height>674</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>150</duration>
+        <durationinseconds>9002</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130586</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

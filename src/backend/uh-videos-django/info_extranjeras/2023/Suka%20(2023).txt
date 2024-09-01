@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In Western Sydney, where crime gangs rule, the Yang clan’s thirst for power continues to threaten the lives of many. The Dawood family is their only line of defence against them.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-01 07:52:55</dateadded>
+  <title>Suka</title>
+  <originaltitle>Suka</originaltitle>
+  <actor>
+    <name>Paul W. He</name>
+    <role>Yun Bo Yang</role>
+    <type>Actor</type>
+    <tmdbid>1980010</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Wu</name>
+    <role>Hui Dawood</role>
+    <type>Actor</type>
+    <tmdbid>1527560</tmdbid>
+    <imdbid>nm7066434</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Huang</name>
+    <role>Fandi Yang</role>
+    <type>Actor</type>
+    <tmdbid>931264</tmdbid>
+    <imdbid>nm3876431</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Browne</name>
+    <role>Jay</role>
+    <type>Actor</type>
+    <tmdbid>2551335</tmdbid>
+  </actor>
+  <actor>
+    <name>Tsu Shan Chambers</name>
+    <role>Wasiya Dawood</role>
+    <type>Actor</type>
+    <tmdbid>2011509</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Goh</name>
+    <role>Jun Yang</role>
+    <type>Actor</type>
+    <tmdbid>3641293</tmdbid>
+  </actor>
+  <actor>
+    <name>Loretta Kung</name>
+    <role>Rini</role>
+    <type>Actor</type>
+    <tmdbid>1536252</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rodrigues</name>
+    <role>Yasin</role>
+    <type>Actor</type>
+    <tmdbid>1531182</tmdbid>
+  </actor>
+  <actor>
+    <name>Ting Lim</name>
+    <role>Bing</role>
+    <type>Actor</type>
+    <tmdbid>3433345</tmdbid>
+  </actor>
+  <actor>
+    <name>Kabir Duhan Singh</name>
+    <role>Arlo</role>
+    <type>Actor</type>
+    <tmdbid>1543640</tmdbid>
+  </actor>
+  <director tmdbid="1742056">Heidi Lee Douglas</director>
+  <rating>1</rating>
+  <year>2023</year>
+  <sorttitle>Suka</sorttitle>
+  <imdbid>tt13381622</imdbid>
+  <tmdbid>1189056</tmdbid>
+  <premiered>2023-10-06</premiered>
+  <releasedate>2023-10-06</releasedate>
+  <runtime>84</runtime>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <uniqueid type="tmdb">1189056</uniqueid>
+  <uniqueid type="imdb">tt13381622</uniqueid>
+  <id>tt13381622</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149404</bitrate>
+        <width>1280</width>
+        <height>488</height>
+        <aspect>481:183</aspect>
+        <aspectratio>481:183</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>5030</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129798</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

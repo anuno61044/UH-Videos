@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue a Mina, una artista de 28 años que queda varada en un bosque en el oeste de Irlanda. Cuando Mina encuentra refugio, sin saberlo, queda atrapada junto a tres extraños que son observados y acechados por misteriosas criaturas cada noche.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-01 09:46:39</dateadded>
+  <title>Los vigilantes</title>
+  <originaltitle>The Watchers</originaltitle>
+  <actor>
+    <name>Dakota Fanning</name>
+    <role>Mina / Lucy</role>
+    <type>Actor</type>
+    <tmdbid>501</tmdbid>
+    <imdbid>nm0266824</imdbid>
+    <tvdbid>273900</tvdbid>
+  </actor>
+  <actor>
+    <name>Georgina Campbell</name>
+    <role>Ciara</role>
+    <type>Actor</type>
+    <tmdbid>1335315</tmdbid>
+    <imdbid>nm3569284</imdbid>
+    <tvdbid>540352</tvdbid>
+  </actor>
+  <actor>
+    <name>Olwen Fouéré</name>
+    <role>Madeline</role>
+    <type>Actor</type>
+    <tmdbid>933272</tmdbid>
+    <imdbid>nm0288260</imdbid>
+  </actor>
+  <actor>
+    <name>Oliver Finnegan</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>2710312</tmdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Hewlett</name>
+    <role>Mina's Mother</role>
+    <type>Actor</type>
+    <tmdbid>19997</tmdbid>
+  </actor>
+  <actor>
+    <name>Alistair Brammer</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>231666</tmdbid>
+    <imdbid>nm4337810</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Howland</name>
+    <role>Chloe</role>
+    <type>Actor</type>
+    <tmdbid>4329965</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Camrose</name>
+    <role>Conor</role>
+    <type>Actor</type>
+    <tmdbid>4207481</tmdbid>
+  </actor>
+  <actor>
+    <name>Kya Brame</name>
+    <role>Georgia</role>
+    <type>Actor</type>
+    <tmdbid>3863344</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane O'Regan</name>
+    <role>Collin</role>
+    <type>Actor</type>
+    <tmdbid>3291912</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Steele</name>
+    <role>Millie</role>
+    <type>Actor</type>
+    <tmdbid>4329966</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Antonia</name>
+    <role>Tanya</role>
+    <type>Actor</type>
+    <tmdbid>3761948</tmdbid>
+  </actor>
+  <actor>
+    <name>Kofi De Graft Jordan</name>
+    <role>Bobby</role>
+    <type>Actor</type>
+    <tmdbid>4329967</tmdbid>
+  </actor>
+  <actor>
+    <name>Diarmuid de Faoite</name>
+    <role>Watcher 1</role>
+    <type>Actor</type>
+    <tmdbid>1836699</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Marie Horan</name>
+    <role>Watcher 2</role>
+    <type>Actor</type>
+    <tmdbid>1239710</tmdbid>
+    <imdbid>nm0394519</imdbid>
+  </actor>
+  <actor>
+    <name>Sean T. O'Meallaigh</name>
+    <role>Watcher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>140007</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Greenway</name>
+    <role>Jordan</role>
+    <type>Actor</type>
+    <tmdbid>4551440</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Tighe</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>587778</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Bechis</name>
+    <role>Dom</role>
+    <type>Actor</type>
+    <tmdbid>3791324</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Dargan</name>
+    <role>Young Mina</role>
+    <type>Actor</type>
+    <tmdbid>4753648</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Dargan</name>
+    <role>Young Lucy</role>
+    <type>Actor</type>
+    <tmdbid>4753649</tmdbid>
+  </actor>
+  <actor>
+    <name>John Lynch</name>
+    <role>Kilmartin</role>
+    <type>Actor</type>
+    <tmdbid>28743</tmdbid>
+    <imdbid>nm0001487</imdbid>
+    <tvdbid>304750</tvdbid>
+  </actor>
+  <actor>
+    <name>Joel Figueroa</name>
+    <role>Darwin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4272046</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Morris</name>
+    <role>Burke</role>
+    <type>Actor</type>
+    <tmdbid>1865000</tmdbid>
+  </actor>
+  <actor>
+    <name>Zarima McDermott</name>
+    <role>University Student</role>
+    <type>Actor</type>
+    <tmdbid>4799823</tmdbid>
+  </actor>
+  <actor>
+    <name>Éabha Connolly</name>
+    <role>Little Girl</role>
+    <type>Actor</type>
+    <tmdbid>4799824</tmdbid>
+  </actor>
+  <actor>
+    <name>Ffion Haf</name>
+    <role>Daria</role>
+    <type>Actor</type>
+    <tmdbid>4799826</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Mann</name>
+    <role>Romeo</role>
+    <type>Actor</type>
+    <tmdbid>4799831</tmdbid>
+  </actor>
+  <director tmdbid="2957803">Ishana Night Shyamalan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ay_EjuitOVc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ILv6fcNeSWE</trailer>
+  <rating>5.7</rating>
+  <year>2024</year>
+  <sorttitle>Los vigilantes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt26736843</imdbid>
+  <tmdbid>1086747</tmdbid>
+  <premiered>2024-06-06</premiered>
+  <releasedate>2024-06-06</releasedate>
+  <criticrating>30</criticrating>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Fantasía</genre>
+  <studio>Blinding Edge Pictures</studio>
+  <studio>Inimitable Pictures</studio>
+  <uniqueid type="imdb">tt26736843</uniqueid>
+  <uniqueid type="tmdb">1086747</uniqueid>
+  <id>tt26736843</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1096643</bitrate>
+        <width>1280</width>
+        <height>638</height>
+        <aspect>904:451</aspect>
+        <aspectratio>904:451</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6102</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

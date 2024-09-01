@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alex, un asesino a sueldo, descubre que se ha convertido en un objetivo después de que se niega a completar un trabajo para una peligrosa organización criminal. Con el sindicato del crimen y el FBI persiguiéndolo, Alex tiene las habilidades para mantenerse a la vanguardia, excepto por una cosa: está luchando con una pérdida de memoria severa que afecta todos sus movimientos. Alex debe cuestionar cada una de sus acciones y en quién puede confiar en última instancia.]]></plot>
+  <outline><![CDATA[Su mente se está desvaneciendo. Su conciencia está tranquila.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-27 11:44:52</dateadded>
+  <title>La memoria de un asesino</title>
+  <originaltitle>Memory</originaltitle>
+  <actor>
+    <name>Liam Neeson</name>
+    <role>Alex Lewis</role>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Guy Pearce</name>
+    <role>Vincent Serra</role>
+    <type>Actor</type>
+    <tmdbid>529</tmdbid>
+    <imdbid>nm0001602</imdbid>
+    <tvdbid>360384</tvdbid>
+  </actor>
+  <actor>
+    <name>Taj Atwal</name>
+    <role>Linda Amistead</role>
+    <type>Actor</type>
+    <tmdbid>1371819</tmdbid>
+  </actor>
+  <actor>
+    <name>Harold Torres</name>
+    <role>Hugo Marquez</role>
+    <type>Actor</type>
+    <tmdbid>234070</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Bellucci</name>
+    <role>Davana Sealman</role>
+    <type>Actor</type>
+    <tmdbid>28782</tmdbid>
+    <imdbid>nm0000899</imdbid>
+    <tvdbid>455029</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Stevenson</name>
+    <role>Detective Danny Mora</role>
+    <type>Actor</type>
+    <tmdbid>56614</tmdbid>
+    <imdbid>nm0829032</imdbid>
+    <tvdbid>361293</tvdbid>
+  </actor>
+  <actor>
+    <name>Stella Stocker</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>1562086</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Jaramillo</name>
+    <role>Papa Leon</role>
+    <type>Actor</type>
+    <tmdbid>180306</tmdbid>
+    <imdbid>nm0418544</imdbid>
+    <tvdbid>269142</tvdbid>
+  </actor>
+  <actor>
+    <name>Louis Mandylor</name>
+    <role>Drunk Broker</role>
+    <type>Actor</type>
+    <tmdbid>54649</tmdbid>
+    <imdbid>nm0541909</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Fearon</name>
+    <role>Special Agent Gerald Nussbaum</role>
+    <type>Actor</type>
+    <tmdbid>56650</tmdbid>
+    <imdbid>nm0269909</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Boardman</name>
+    <role>Mauricio</role>
+    <type>Actor</type>
+    <tmdbid>138161</tmdbid>
+    <imdbid>nm0090196</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Calder</name>
+    <role>Wendy Van Camp</role>
+    <type>Actor</type>
+    <tmdbid>1355139</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Anderson</name>
+    <role>Maryanne Borden</role>
+    <type>Actor</type>
+    <tmdbid>3465526</tmdbid>
+  </actor>
+  <actor>
+    <name>Atanas Srebrev</name>
+    <role>Dr. Joseph Myers</role>
+    <type>Actor</type>
+    <tmdbid>67247</tmdbid>
+    <imdbid>nm1284482</imdbid>
+  </actor>
+  <actor>
+    <name>Scot Williams</name>
+    <role>Ellis Van Camp</role>
+    <type>Actor</type>
+    <tmdbid>31385</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Nichols</name>
+    <role>Davana Sealman's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1685018</tmdbid>
+  </actor>
+  <actor>
+    <name>Trevor Van Uden</name>
+    <role>SWAT Commander</role>
+    <type>Actor</type>
+    <tmdbid>2589498</tmdbid>
+  </actor>
+  <actor>
+    <name>Sigal Diamant</name>
+    <role>Serena</role>
+    <type>Actor</type>
+    <tmdbid>156711</tmdbid>
+    <imdbid>nm0224540</imdbid>
+  </actor>
+  <actor>
+    <name>Doug Rao</name>
+    <role>Andy Villalobos</role>
+    <type>Actor</type>
+    <tmdbid>1898484</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel De Bourg</name>
+    <role>Willam Borden</role>
+    <type>Actor</type>
+    <tmdbid>3465529</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Sanchez</name>
+    <role>Beatriz Leon</role>
+    <type>Actor</type>
+    <tmdbid>3465530</tmdbid>
+  </actor>
+  <actor>
+    <name>Petar Kirilov</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>2405755</tmdbid>
+  </actor>
+  <actor>
+    <name>J.R. Esposito</name>
+    <role>Ballard</role>
+    <type>Actor</type>
+    <tmdbid>1453290</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalina Stancheva</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>3118173</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Taylor</name>
+    <role>Randy Sealman</role>
+    <type>Actor</type>
+    <tmdbid>1769595</tmdbid>
+  </actor>
+  <actor>
+    <name>Vlado Mihailov</name>
+    <role>Coleman</role>
+    <type>Actor</type>
+    <tmdbid>61861</tmdbid>
+    <imdbid>nm2268616</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Macrena</name>
+    <role>Howe</role>
+    <type>Actor</type>
+    <tmdbid>3750495</tmdbid>
+  </actor>
+  <actor>
+    <name>Tudor Chirilă</name>
+    <role>Luis Matan</role>
+    <type>Actor</type>
+    <tmdbid>1030524</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Soltess</name>
+    <role>Emma Van Camp</role>
+    <type>Actor</type>
+    <tmdbid>3750496</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyubomir Bachvarov</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>2124246</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariana Krumova</name>
+    <role>Madera Matan</role>
+    <type>Actor</type>
+    <tmdbid>1259232</tmdbid>
+  </actor>
+  <actor>
+    <name>Danaya Velinova</name>
+    <role>Marisol</role>
+    <type>Actor</type>
+    <tmdbid>3750498</tmdbid>
+  </actor>
+  <actor>
+    <name>Neda Spasova</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2179321</tmdbid>
+  </actor>
+  <actor>
+    <name>Devina Vassileva</name>
+    <role>Marisol</role>
+    <type>Actor</type>
+    <tmdbid>3646617</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3750501</tmdbid>
+  </actor>
+  <actor>
+    <name>Raluca Aprodu</name>
+    <role>Caregiver</role>
+    <type>Actor</type>
+    <tmdbid>1169590</tmdbid>
+  </actor>
+  <director tmdbid="10702" imdbid="nm0132709">Martin Campbell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CTZYihyGqss</trailer>
+  <rating>5.7</rating>
+  <year>2022</year>
+  <sorttitle>memoria de un asesino</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11827628</imdbid>
+  <tmdbid>818397</tmdbid>
+  <premiered>2022-04-28</premiered>
+  <releasedate>2022-04-28</releasedate>
+  <criticrating>29</criticrating>
+  <runtime>103</runtime>
+  <tagline>Su mente se está desvaneciendo. Su conciencia está tranquila.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>Black Bear Pictures</studio>
+  <studio>Welle Entertainment</studio>
+  <studio>Saville Productions</studio>
+  <studio>Open Road Films</studio>
+  <studio>Briarcliff Entertainment</studio>
+  <studio>STXfilms</studio>
+  <uniqueid type="tmdb">818397</uniqueid>
+  <uniqueid type="imdb">tt11827628</uniqueid>
+  <id>tt11827628</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1080920</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6185</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

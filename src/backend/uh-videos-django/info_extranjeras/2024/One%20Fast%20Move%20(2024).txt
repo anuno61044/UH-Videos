@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un soldado expulsado de forma disciplinaria recurre a su padre ausente para que lo ayude a cumplir su sueño de pilotar motos en el campeonato de Supersport.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-12 09:05:27</dateadded>
+  <title>A Fondo</title>
+  <originaltitle>One Fast Move</originaltitle>
+  <actor>
+    <name>K.J. Apa</name>
+    <role>Wes Neal</role>
+    <type>Actor</type>
+    <tmdbid>1680339</tmdbid>
+    <imdbid>nm6216001</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Dane</name>
+    <role>Dean Miller</role>
+    <type>Actor</type>
+    <tmdbid>58115</tmdbid>
+    <imdbid>nm0199312</imdbid>
+    <tvdbid>268163</tvdbid>
+  </actor>
+  <actor>
+    <name>Maia Reficco</name>
+    <role>Camila</role>
+    <type>Actor</type>
+    <tvdbid>7886561</tvdbid>
+    <tmdbid>2071463</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward James Olmos</name>
+    <role>Abel</role>
+    <type>Actor</type>
+    <tmdbid>587</tmdbid>
+    <imdbid>nm0001579</imdbid>
+    <tvdbid>345955</tvdbid>
+  </actor>
+  <actor>
+    <name>Austin North</name>
+    <role>Cody</role>
+    <type>Actor</type>
+    <tmdbid>1449393</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Hurst</name>
+    <role>Bobby Tresco</role>
+    <type>Actor</type>
+    <tmdbid>61563</tmdbid>
+    <imdbid>nm1938755</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Thomas Ziemba</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>4816046</tmdbid>
+  </actor>
+  <actor>
+    <name>Libby Blake</name>
+    <role>Nikki</role>
+    <type>Actor</type>
+    <tmdbid>1292731</tmdbid>
+    <imdbid>nm5759134</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Saunders</name>
+    <role>Bike Shop Father</role>
+    <type>Actor</type>
+    <tmdbid>3064279</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellis Hobbs IV</name>
+    <role>Bike Shop Son</role>
+    <type>Actor</type>
+    <tmdbid>4044214</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin K. Johnson</name>
+    <role>Jessica</role>
+    <type>Actor</type>
+    <tmdbid>3061335</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Luza</name>
+    <role>Counselor</role>
+    <type>Actor</type>
+    <tmdbid>1381695</tmdbid>
+    <imdbid>nm1109973</imdbid>
+  </actor>
+  <actor>
+    <name>Ronny Mathew</name>
+    <role>Military Officer (as Ronny Andrews Mathew)</role>
+    <type>Actor</type>
+    <tmdbid>1757755</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Bianco</name>
+    <role>Sofia</role>
+    <type>Actor</type>
+    <tmdbid>2008015</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg White</name>
+    <role>Race Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2550425</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Weigandt</name>
+    <role>Race Announcer</role>
+    <type>Actor</type>
+    <tmdbid>4874052</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Creamer</name>
+    <role>Race Announcer</role>
+    <type>Actor</type>
+    <tmdbid>4874053</tmdbid>
+  </actor>
+  <actor>
+    <name>Forrest Briggs</name>
+    <role>Race Medic (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2646626</tmdbid>
+  </actor>
+  <director tmdbid="55464" imdbid="nm2034147">Kelly Blatz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vGpbT392Itg</trailer>
+  <rating>6.375</rating>
+  <year>2024</year>
+  <sorttitle>Fondo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21096576</imdbid>
+  <tmdbid>1281826</tmdbid>
+  <premiered>2024-08-07</premiered>
+  <releasedate>2024-08-07</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>108</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>GulfStream Pictures</studio>
+  <studio>Luber Roklin Entertainment</studio>
+  <uniqueid type="tmdb">1281826</uniqueid>
+  <uniqueid type="imdb">tt21096576</uniqueid>
+  <id>tt21096576</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149520</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6468</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127043</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

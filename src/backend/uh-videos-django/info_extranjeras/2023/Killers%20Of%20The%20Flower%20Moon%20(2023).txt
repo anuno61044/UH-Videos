@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.]]></plot>
+  <outline><![CDATA[La codicia es un animal que tiene sed de sangre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-04 11:24:28</dateadded>
+  <title>Los asesinos de la luna</title>
+  <originaltitle>Killers of the Flower Moon</originaltitle>
+  <actor>
+    <name>Leonardo DiCaprio</name>
+    <role>Ernest Burkhart</role>
+    <type>Actor</type>
+    <tmdbid>6193</tmdbid>
+    <imdbid>nm0000138</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Gladstone</name>
+    <role>Mollie Burkhart</role>
+    <type>Actor</type>
+    <tmdbid>1183917</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>William Hale</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+    <tvdbid>311037</tvdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Tom White</role>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+    <tvdbid>325974</tvdbid>
+  </actor>
+  <actor>
+    <name>Tantoo Cardinal</name>
+    <role>Lizzie Q</role>
+    <type>Actor</type>
+    <tmdbid>7863</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Jade Myers</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>3006897</tmdbid>
+  </actor>
+  <actor>
+    <name>JaNae Collins</name>
+    <role>Reta</role>
+    <type>Actor</type>
+    <tmdbid>3006898</tmdbid>
+  </actor>
+  <actor>
+    <name>Jillian Dion</name>
+    <role>Minnie</role>
+    <type>Actor</type>
+    <tmdbid>2698946</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Isbell</name>
+    <role>Bill Smith</role>
+    <type>Actor</type>
+    <tmdbid>1310349</tmdbid>
+  </actor>
+  <actor>
+    <name>William Belleau</name>
+    <role>Henry Roan</role>
+    <type>Actor</type>
+    <tmdbid>222562</tmdbid>
+    <imdbid>nm1372589</imdbid>
+  </actor>
+  <actor>
+    <name>John Lithgow</name>
+    <role>Prosecutor Peter Leaward</role>
+    <type>Actor</type>
+    <tmdbid>12074</tmdbid>
+    <imdbid>nm0001475</imdbid>
+    <tvdbid>253744</tvdbid>
+  </actor>
+  <actor>
+    <name>Brendan Fraser</name>
+    <role>W.S. Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>18269</tmdbid>
+    <imdbid>nm0000409</imdbid>
+    <tvdbid>294157</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott Shepherd</name>
+    <role>Byron Burkhart</role>
+    <type>Actor</type>
+    <tmdbid>1475960</tmdbid>
+    <imdbid>nm0791864</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Cancelmi</name>
+    <role>Kelsie Morrison</role>
+    <type>Actor</type>
+    <tmdbid>163731</tmdbid>
+    <imdbid>nm1209413</imdbid>
+    <tvdbid>315853</tvdbid>
+  </actor>
+  <actor>
+    <name>Everett Waller</name>
+    <role>Paul Red Eagle</role>
+    <type>Actor</type>
+    <tmdbid>4330391</tmdbid>
+  </actor>
+  <actor>
+    <name>Tahlee Redcorn</name>
+    <role>Non-Hon-Zhin-Ga / Traditional Leader</role>
+    <type>Actor</type>
+    <tmdbid>3898086</tmdbid>
+  </actor>
+  <actor>
+    <name>Yancey Red Corn</name>
+    <role>Chief Bonnicastle</role>
+    <type>Actor</type>
+    <tmdbid>4285101</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatanka Means</name>
+    <role>John Wren</role>
+    <type>Actor</type>
+    <tmdbid>1112417</tmdbid>
+    <imdbid>nm1877441</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Schultz</name>
+    <role>Blackie Thompson</role>
+    <type>Actor</type>
+    <tmdbid>4316016</tmdbid>
+  </actor>
+  <actor>
+    <name>Sturgill Simpson</name>
+    <role>Henry Grammer</role>
+    <type>Actor</type>
+    <tmdbid>1526793</tmdbid>
+  </actor>
+  <actor>
+    <name>Ty Mitchell</name>
+    <role>John Ramsey</role>
+    <type>Actor</type>
+    <tmdbid>2839808</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Basaraba</name>
+    <role>Detective Burns</role>
+    <type>Actor</type>
+    <tmdbid>96228</tmdbid>
+    <imdbid>nm0059630</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Musselwhite</name>
+    <role>Alvin Reynolds</role>
+    <type>Actor</type>
+    <tmdbid>1088980</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Healy</name>
+    <role>Agent John Burger</role>
+    <type>Actor</type>
+    <tmdbid>60846</tmdbid>
+    <imdbid>nm0372366</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Witting</name>
+    <role>Dr. James Shoun</role>
+    <type>Actor</type>
+    <tmdbid>152864</tmdbid>
+    <imdbid>nm0937059</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Routman</name>
+    <role>Dr. David Shoun</role>
+    <type>Actor</type>
+    <tmdbid>1232531</tmdbid>
+    <imdbid>nm0746156</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Jones</name>
+    <role>Pitts Beatty</role>
+    <type>Actor</type>
+    <tmdbid>1194944</tmdbid>
+    <imdbid>nm0428122</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Abbott Jr.</name>
+    <role>Agent Frank Smith</role>
+    <type>Actor</type>
+    <tmdbid>71889</tmdbid>
+    <imdbid>nm2534638</imdbid>
+  </actor>
+  <actor>
+    <name>J. C. MacKenzie</name>
+    <role>Radio Announcer</role>
+    <type>Actor</type>
+    <tmdbid>63296</tmdbid>
+    <imdbid>nm0533323</imdbid>
+  </actor>
+  <actor>
+    <name>Jack White</name>
+    <role>Radio Show Actor</role>
+    <type>Actor</type>
+    <tmdbid>13611</tmdbid>
+    <imdbid>nm1226421</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Sellers</name>
+    <role>Non-Hon-Zhin-Ga</role>
+    <type>Actor</type>
+    <tmdbid>1175467</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Corbin</name>
+    <role>Undertaker Turton</role>
+    <type>Actor</type>
+    <tmdbid>12852</tmdbid>
+    <imdbid>nm0179224</imdbid>
+  </actor>
+  <actor>
+    <name>Gabe Casdorph</name>
+    <role>Agent Joe Jones</role>
+    <type>Actor</type>
+    <tmdbid>1853996</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel French</name>
+    <role>Agent CJ Robinson</role>
+    <type>Actor</type>
+    <tmdbid>2828160</tmdbid>
+  </actor>
+  <actor>
+    <name>Wally Welch</name>
+    <role>Bob Mount</role>
+    <type>Actor</type>
+    <tmdbid>52884</tmdbid>
+  </actor>
+  <actor>
+    <name>James Roman Dailey Jr.</name>
+    <role>Baby Namer</role>
+    <type>Actor</type>
+    <tmdbid>4330395</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cote</name>
+    <role>Baby Namer (for Anna)</role>
+    <type>Actor</type>
+    <tmdbid>4330396</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Houser</name>
+    <role>Scott Mathis</role>
+    <type>Actor</type>
+    <tmdbid>4147820</tmdbid>
+  </actor>
+  <actor>
+    <name>Moe Headrick</name>
+    <role>Sheriff Freas</role>
+    <type>Actor</type>
+    <tmdbid>2347554</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Yorn</name>
+    <role>Acie Kirby</role>
+    <type>Actor</type>
+    <tmdbid>1231742</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaret Shannon-Sisk</name>
+    <role>Wife of Pipe Keeper / Wailing Relative</role>
+    <type>Actor</type>
+    <tmdbid>4330403</tmdbid>
+  </actor>
+  <actor>
+    <name>Moira Redcorn</name>
+    <role>Prologue Wailer</role>
+    <type>Actor</type>
+    <tmdbid>4330405</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Parkinson</name>
+    <role>Deputy Marshal</role>
+    <type>Actor</type>
+    <tmdbid>63789</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Parker</name>
+    <role>Osage at oil Discovery / Fairfax Explosion Responder</role>
+    <type>Actor</type>
+    <tmdbid>4330407</tmdbid>
+  </actor>
+  <actor>
+    <name>Jarad Looper</name>
+    <role>Osage at oil Discovery</role>
+    <type>Actor</type>
+    <tmdbid>4330408</tmdbid>
+  </actor>
+  <actor>
+    <name>John Gibbs</name>
+    <role>Osage at oil Discovery</role>
+    <type>Actor</type>
+    <tmdbid>4330806</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Logsdon</name>
+    <role>Osage at oil Discovery</role>
+    <type>Actor</type>
+    <tmdbid>4330409</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Lux</name>
+    <role>Osage at oil Discovery</role>
+    <type>Actor</type>
+    <tmdbid>4330410</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Toehay</name>
+    <role>Osage at oil Discovery</role>
+    <type>Actor</type>
+    <tmdbid>4330411</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Cook</name>
+    <role>Hawker at Train</role>
+    <type>Actor</type>
+    <tmdbid>4330412</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Willis</name>
+    <role>Myrtie Hale</role>
+    <type>Actor</type>
+    <tmdbid>206675</tmdbid>
+    <imdbid>nm0932369</imdbid>
+  </actor>
+  <actor>
+    <name>Delani Chambers</name>
+    <role>Willie Hale</role>
+    <type>Actor</type>
+    <tmdbid>4330414</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Hokeah</name>
+    <role>Osage dying from poison</role>
+    <type>Actor</type>
+    <tmdbid>2079000</tmdbid>
+  </actor>
+  <actor>
+    <name>Talon Satepauhoodle</name>
+    <role>John Whitehair</role>
+    <type>Actor</type>
+    <tmdbid>4330415</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Rader</name>
+    <role>Sara Butler</role>
+    <type>Actor</type>
+    <tmdbid>3735356</tmdbid>
+  </actor>
+  <actor>
+    <name>Chance Rush</name>
+    <role>Bill Stepson</role>
+    <type>Actor</type>
+    <tmdbid>4330417</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Daylight</name>
+    <role>Anna Sanford</role>
+    <type>Actor</type>
+    <tmdbid>4330419</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahada Sanders</name>
+    <role>Rose Lewis</role>
+    <type>Actor</type>
+    <tmdbid>4330420</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Hall</name>
+    <role>Sara's Murderer</role>
+    <type>Actor</type>
+    <tmdbid>1486237</tmdbid>
+  </actor>
+  <actor>
+    <name>John Q. Wilson</name>
+    <role>Bank Clerk</role>
+    <type>Actor</type>
+    <tmdbid>4330423</tmdbid>
+  </actor>
+  <actor>
+    <name>Beau Smith</name>
+    <role>Photos Hustler #1</role>
+    <type>Actor</type>
+    <tmdbid>131426</tmdbid>
+    <imdbid>nm3188275</imdbid>
+  </actor>
+  <actor>
+    <name>Victor McCay</name>
+    <role>Photos Hustler #2</role>
+    <type>Actor</type>
+    <tmdbid>155030</tmdbid>
+    <imdbid>nm1035730</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Standingcloud</name>
+    <role>Roan Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2891005</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Paulson</name>
+    <role>Car Salesman</role>
+    <type>Actor</type>
+    <tmdbid>88597</tmdbid>
+    <imdbid>nm0667350</imdbid>
+    <tvdbid>306988</tvdbid>
+  </actor>
+  <actor>
+    <name>Marvin E. Stepson Jr.</name>
+    <role>Osage Family Buying Car</role>
+    <type>Actor</type>
+    <tmdbid>4330425</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracey Ann Moore</name>
+    <role>Osage Family Buying Car</role>
+    <type>Actor</type>
+    <tmdbid>4330426</tmdbid>
+  </actor>
+  <actor>
+    <name>Easton Wade Yellowfish</name>
+    <role>Osage Family Buying Car</role>
+    <type>Actor</type>
+    <tmdbid>4330427</tmdbid>
+  </actor>
+  <actor>
+    <name>Reignen Yellowfish</name>
+    <role>Osage Family Buying Car</role>
+    <type>Actor</type>
+    <tmdbid>3871126</tmdbid>
+  </actor>
+  <actor>
+    <name>Candice Costello</name>
+    <role>Catherine Cole</role>
+    <type>Actor</type>
+    <tmdbid>1275041</tmdbid>
+  </actor>
+  <actor>
+    <name>Father Chris Daigle</name>
+    <role>Catholic Priest</role>
+    <type>Actor</type>
+    <tmdbid>4330429</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin France</name>
+    <role>Card Player</role>
+    <type>Actor</type>
+    <tmdbid>2737078</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Wolf</name>
+    <role>Fred Denoya (robbed)</role>
+    <type>Actor</type>
+    <tmdbid>3132691</tmdbid>
+  </actor>
+  <actor>
+    <name>Addie Roanhorse</name>
+    <role>Mrs. DeNoya (robbed)</role>
+    <type>Actor</type>
+    <tmdbid>4330433</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Pretty Eagle Moore</name>
+    <role>Baby Naming Mother #1 / Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>4330434</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Cunningham</name>
+    <role>Baby Naming Father</role>
+    <type>Actor</type>
+    <tmdbid>4330435</tmdbid>
+  </actor>
+  <actor>
+    <name>Norma Jean</name>
+    <role>Vera (Mollie's housekeeper)</role>
+    <type>Actor</type>
+    <tmdbid>1497946</tmdbid>
+    <imdbid>nm2692138</imdbid>
+  </actor>
+  <actor>
+    <name>Elisha Pratt</name>
+    <role>Joseph Bigheart</role>
+    <type>Actor</type>
+    <tmdbid>2237932</tmdbid>
+  </actor>
+  <actor>
+    <name>Desireee Storm Brave</name>
+    <role>Bertha Bigheart</role>
+    <type>Actor</type>
+    <tmdbid>4330437</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaret Gray</name>
+    <role>Grace Bigheart</role>
+    <type>Actor</type>
+    <tmdbid>4330439</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Hill</name>
+    <role>John Bigheart</role>
+    <type>Actor</type>
+    <tmdbid>4330441</tmdbid>
+  </actor>
+  <actor>
+    <name>Dolan Wilson</name>
+    <role>Justice of the Peace</role>
+    <type>Actor</type>
+    <tmdbid>1106263</tmdbid>
+    <imdbid>nm0933308</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Wyatt</name>
+    <role>Wedding Photographer</role>
+    <type>Actor</type>
+    <tmdbid>4330443</tmdbid>
+  </actor>
+  <actor>
+    <name>Rayna Gellert</name>
+    <role>Wedding Band Lead Fiddle</role>
+    <type>Actor</type>
+    <tmdbid>1789935</tmdbid>
+  </actor>
+  <actor>
+    <name>Nokosee Fields</name>
+    <role>Wedding Band</role>
+    <type>Actor</type>
+    <tmdbid>4330445</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieran Kane</name>
+    <role>Wedding Band</role>
+    <type>Actor</type>
+    <tmdbid>4330446</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Ross</name>
+    <role>Wedding Band</role>
+    <type>Actor</type>
+    <tmdbid>1480179</tmdbid>
+    <imdbid>nm2524790</imdbid>
+  </actor>
+  <actor>
+    <name>Elijah Cemp Ragsdale</name>
+    <role>Wedding Band</role>
+    <type>Actor</type>
+    <tmdbid>4330448</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Rose Pham</name>
+    <role>Elizabeth Burkhart (baby)</role>
+    <type>Actor</type>
+    <tmdbid>4330449</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Allen</name>
+    <role>Uncle Jim</role>
+    <type>Actor</type>
+    <tmdbid>213551</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Harvey Allen</name>
+    <role>Aunt Annie</role>
+    <type>Actor</type>
+    <tmdbid>71561</tmdbid>
+    <imdbid>nm0020658</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Spurger</name>
+    <role>Martha (Nanny)</role>
+    <type>Actor</type>
+    <tmdbid>4330450</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Close</name>
+    <role>Horace Burkhart</role>
+    <type>Actor</type>
+    <tmdbid>81096</tmdbid>
+    <imdbid>nm1208725</imdbid>
+  </actor>
+  <actor>
+    <name>Elden Henson</name>
+    <role>Duke Burkhart</role>
+    <type>Actor</type>
+    <tmdbid>20220</tmdbid>
+    <imdbid>nm0711805</imdbid>
+    <tvdbid>267871</tvdbid>
+  </actor>
+  <actor>
+    <name>Kinsleigh McNac</name>
+    <role>Elizabeth Burkhart (2-3 years)</role>
+    <type>Actor</type>
+    <tmdbid>4330451</tmdbid>
+  </actor>
+  <actor>
+    <name>Roanin Davis</name>
+    <role>Cowboy Burkhart (baby)</role>
+    <type>Actor</type>
+    <tmdbid>4218465</tmdbid>
+  </actor>
+  <actor>
+    <name>David Fields</name>
+    <role>Bob The Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>4330453</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony J. Harvey</name>
+    <role>Charlie Whitehorn</role>
+    <type>Actor</type>
+    <tmdbid>4330454</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Berkman</name>
+    <role>Studio Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3005476</tmdbid>
+  </actor>
+  <actor>
+    <name>William Alyn Hill</name>
+    <role>Studio Vagrant #1</role>
+    <type>Actor</type>
+    <tmdbid>4108797</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Spinelli</name>
+    <role>Friendly Joe</role>
+    <type>Actor</type>
+    <tmdbid>4330455</tmdbid>
+  </actor>
+  <actor>
+    <name>Blaine Hall</name>
+    <role>Studio Vagrant #2</role>
+    <type>Actor</type>
+    <tmdbid>4330456</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Langdon</name>
+    <role>Barney McBride</role>
+    <type>Actor</type>
+    <tmdbid>1959059</tmdbid>
+    <imdbid>nm1225470</imdbid>
+  </actor>
+  <actor>
+    <name>Leland Prater</name>
+    <role>Rex Theater Manager</role>
+    <type>Actor</type>
+    <tmdbid>1638977</tmdbid>
+  </actor>
+  <actor>
+    <name>DJ Whited</name>
+    <role>Cave Outlaw</role>
+    <type>Actor</type>
+    <tmdbid>4330457</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Waller</name>
+    <role>Elizabeth Burkhart (3-5 years)</role>
+    <type>Actor</type>
+    <tmdbid>4330460</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Harjo</name>
+    <role>Pearl (Henry's girlfriend)</role>
+    <type>Actor</type>
+    <tmdbid>4330462</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Oglesby</name>
+    <role>Roy Bunch</role>
+    <type>Actor</type>
+    <tmdbid>1445528</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Ann</name>
+    <role>Mary Roan</role>
+    <type>Actor</type>
+    <tmdbid>4330465</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Eddy</name>
+    <role>Mrs. Mackie</role>
+    <type>Actor</type>
+    <tmdbid>1029854</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary S. Pratt</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>4330467</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Arcand</name>
+    <role>Ancestor Warrior</role>
+    <type>Actor</type>
+    <tmdbid>60722</tmdbid>
+    <imdbid>nm0033505</imdbid>
+    <tvdbid>305061</tvdbid>
+  </actor>
+  <actor>
+    <name>Kristin Keith</name>
+    <role>Speakeasy Prostitute</role>
+    <type>Actor</type>
+    <tmdbid>2601839</tmdbid>
+  </actor>
+  <actor>
+    <name>Bravery Nowlin</name>
+    <role>Cowboy (2-3 years)</role>
+    <type>Actor</type>
+    <tmdbid>4330475</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Gray Sr.</name>
+    <role>Fleeing Osage Family</role>
+    <type>Actor</type>
+    <tmdbid>4330478</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Pratt</name>
+    <role>Fleeing Osage Family</role>
+    <type>Actor</type>
+    <tmdbid>4330480</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Amos Gray</name>
+    <role>Fleeing Osage Family</role>
+    <type>Actor</type>
+    <tmdbid>4330482</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Gray</name>
+    <role>Fleeing Osage Family</role>
+    <type>Actor</type>
+    <tmdbid>4330483</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Gray Jr.</name>
+    <role>Fleeing Osage Family</role>
+    <type>Actor</type>
+    <tmdbid>4330484</tmdbid>
+  </actor>
+  <actor>
+    <name>Mamie Cozad</name>
+    <role>Baby Anna (at naming)</role>
+    <type>Actor</type>
+    <tmdbid>4330485</tmdbid>
+  </actor>
+  <actor>
+    <name>Shonagh Smith</name>
+    <role>Nettie Brookshire</role>
+    <type>Actor</type>
+    <tmdbid>2348763</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Tallchief Lemon</name>
+    <role>Fairfax Explosion Responder</role>
+    <type>Actor</type>
+    <tmdbid>4330498</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Lookout RulingHisSun</name>
+    <role>Fairfax Explosion Responder</role>
+    <type>Actor</type>
+    <tmdbid>4330499</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Bower</name>
+    <role>Fairfax Explosion Responder</role>
+    <type>Actor</type>
+    <tmdbid>1622064</tmdbid>
+  </actor>
+  <actor>
+    <name>Garrison Panzer</name>
+    <role>Radio Announcer</role>
+    <type>Actor</type>
+    <tmdbid>4330717</tmdbid>
+  </actor>
+  <actor>
+    <name>River Rhoades</name>
+    <role>Cowboy (4-5 years)</role>
+    <type>Actor</type>
+    <tmdbid>4330718</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack T. Morris</name>
+    <role>Osage Delegation Member</role>
+    <type>Actor</type>
+    <tmdbid>4330719</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Shackelford</name>
+    <role>Osage Delegation Member</role>
+    <type>Actor</type>
+    <tmdbid>4330720</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Waller</name>
+    <role>Elizabeth Burkhart (5-6 years)</role>
+    <type>Actor</type>
+    <tmdbid>4330721</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Landon Smith</name>
+    <role>President Coolidge</role>
+    <type>Actor</type>
+    <tmdbid>2033648</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Ashmore</name>
+    <role>Tribal Council Interpreter</role>
+    <type>Actor</type>
+    <tmdbid>4330723</tmdbid>
+  </actor>
+  <actor>
+    <name>Myron F. Red Eagle</name>
+    <role>Osage Man Town Dance</role>
+    <type>Actor</type>
+    <tmdbid>4330727</tmdbid>
+  </actor>
+  <actor>
+    <name>Dolores Marie Goodeagle</name>
+    <role>Osage Woman Town Dance</role>
+    <type>Actor</type>
+    <tmdbid>4330729</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Tolentino</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330730</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Baier</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330731</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Fallis</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330732</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Bubert</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330734</tmdbid>
+  </actor>
+  <actor>
+    <name>TJ Muller</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330735</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Reardon-Anderson</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>3849766</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Reardon-Anderson</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330737</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Dillingham</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330738</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Johnson</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330740</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Stevenson</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330742</tmdbid>
+  </actor>
+  <actor>
+    <name>Clint Rohr</name>
+    <role>Town Dance Band</role>
+    <type>Actor</type>
+    <tmdbid>4330743</tmdbid>
+  </actor>
+  <actor>
+    <name>D. Reride Smith</name>
+    <role>Hale's Ranch Hand</role>
+    <type>Actor</type>
+    <tmdbid>4197696</tmdbid>
+  </actor>
+  <actor>
+    <name>James Healy Jr.</name>
+    <role>2nd Insurance Man</role>
+    <type>Actor</type>
+    <tmdbid>1850474</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Goodvoice</name>
+    <role>Pony Watching Man</role>
+    <type>Actor</type>
+    <tmdbid>4330745</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron McMahan</name>
+    <role>Old Timer</role>
+    <type>Actor</type>
+    <tmdbid>4330746</tmdbid>
+  </actor>
+  <actor>
+    <name>Seth Buckminster</name>
+    <role>Barber</role>
+    <type>Actor</type>
+    <tmdbid>4330747</tmdbid>
+  </actor>
+  <actor>
+    <name>Penny Potts</name>
+    <role>Ballet Instructor</role>
+    <type>Actor</type>
+    <tmdbid>4330748</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Tiger</name>
+    <role>Pony Watching Woman</role>
+    <type>Actor</type>
+    <tmdbid>4330749</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Garlitz</name>
+    <role>Tillie's Stepson</role>
+    <type>Actor</type>
+    <tmdbid>4330750</tmdbid>
+  </actor>
+  <actor>
+    <name>Bronson Redeagle</name>
+    <role>Tillie's son</role>
+    <type>Actor</type>
+    <tmdbid>4330751</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Paige Lynn</name>
+    <role>Tillie's daughter</role>
+    <type>Actor</type>
+    <tmdbid>4330752</tmdbid>
+  </actor>
+  <actor>
+    <name>David Born</name>
+    <role>Kelsie's lawyer</role>
+    <type>Actor</type>
+    <tmdbid>110993</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Buss</name>
+    <role>John Ramsey's wife</role>
+    <type>Actor</type>
+    <tmdbid>2042787</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Welch</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>1367901</tmdbid>
+    <imdbid>nm4094352</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Palmer</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>164105</tmdbid>
+    <imdbid>nm0658152</imdbid>
+  </actor>
+  <actor>
+    <name>Tanner Brantley</name>
+    <role>Marshall Gunman</role>
+    <type>Actor</type>
+    <tmdbid>4330753</tmdbid>
+  </actor>
+  <actor>
+    <name>Jezy Gray</name>
+    <role>Hale's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>4330754</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Eastin</name>
+    <role>Judge John C. Pollock</role>
+    <type>Actor</type>
+    <tmdbid>9276</tmdbid>
+    <imdbid>nm0247611</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Chrest</name>
+    <role>Lawyer Freeling</role>
+    <type>Actor</type>
+    <tmdbid>141762</tmdbid>
+    <imdbid>nm0159609</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Shoop</name>
+    <role>Mr. Kraceon</role>
+    <type>Actor</type>
+    <tmdbid>997845</tmdbid>
+  </actor>
+  <actor>
+    <name>James Carroll</name>
+    <role>Mr. Solowey</role>
+    <type>Actor</type>
+    <tmdbid>1949439</tmdbid>
+  </actor>
+  <actor>
+    <name>Lux Britni Malaske</name>
+    <role>Baby Anna (2 years)</role>
+    <type>Actor</type>
+    <tmdbid>4330755</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Washington</name>
+    <role>Acolyte</role>
+    <type>Actor</type>
+    <tmdbid>4330756</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Jack Dotson</name>
+    <role>Jailer</role>
+    <type>Actor</type>
+    <tmdbid>1094672</tmdbid>
+    <imdbid>nm2202931</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Fessenden</name>
+    <role>Radio Voice (for Hale)</role>
+    <type>Actor</type>
+    <tmdbid>31268</tmdbid>
+    <imdbid>nm0275244</imdbid>
+  </actor>
+  <actor>
+    <name>Welker White</name>
+    <role>Radio Voice (Hale's relative)</role>
+    <type>Actor</type>
+    <tmdbid>93620</tmdbid>
+    <imdbid>nm0925578</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Scorsese</name>
+    <role>Radio Show Producer</role>
+    <type>Actor</type>
+    <tmdbid>1032</tmdbid>
+    <imdbid>nm0000217</imdbid>
+  </actor>
+  <actor>
+    <name>Marko Costanzo</name>
+    <role>Radio Sound Effects</role>
+    <type>Actor</type>
+    <tmdbid>92376</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas White</name>
+    <role>Radio Sound Effects</role>
+    <type>Actor</type>
+    <tmdbid>4330757</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Fisher</name>
+    <role>Radio Show Conductor</role>
+    <type>Actor</type>
+    <tmdbid>4330759</tmdbid>
+  </actor>
+  <actor>
+    <name>Vince Giordano</name>
+    <role>Radio Show Band Leader</role>
+    <type>Actor</type>
+    <tmdbid>28009</tmdbid>
+    <imdbid>nm0320365</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Woodiel</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330760</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Stein</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330761</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Bardfeld</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330762</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Boga</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330763</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon-Erik Kellso</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>3849764</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Fryer</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330764</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Phaneuf</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>3587699</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Lopeman</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>3587698</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Byars</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330765</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinny Raniolo</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>2478362</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Wells</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330766</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Yarin</name>
+    <role>Radio Show Orchestra</role>
+    <type>Actor</type>
+    <tmdbid>4330767</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott George</name>
+    <role>End Celebration Osage Head Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330768</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Bighorse Jr.</name>
+    <role>End Celebration Osage Head Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330769</tmdbid>
+  </actor>
+  <actor>
+    <name>Vann Bighorse</name>
+    <role>End Celebration Osage Head Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330770</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna L. Bighorse</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330771</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Bighorse</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330772</tmdbid>
+  </actor>
+  <actor>
+    <name>Norris Bighorse</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330773</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Bighorse</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330774</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bighorse</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330775</tmdbid>
+  </actor>
+  <actor>
+    <name>Taveah Ann George</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330776</tmdbid>
+  </actor>
+  <actor>
+    <name>Wahwastoas J. Jones</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330777</tmdbid>
+  </actor>
+  <actor>
+    <name>Dobbin Monoessy Knifechief</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330778</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Lookout</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330780</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Moses</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330781</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Pipestem Jr.</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330782</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Paul Pahsetopah</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330783</tmdbid>
+  </actor>
+  <actor>
+    <name>Silas Satepauhoodle</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330784</tmdbid>
+  </actor>
+  <actor>
+    <name>Cherylyn Oberly Satepauhoodle</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330785</tmdbid>
+  </actor>
+  <actor>
+    <name>Charisse Satepauhoodle</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330787</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynette Satepauhoodle</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330788</tmdbid>
+  </actor>
+  <actor>
+    <name>John Shaw</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330789</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Toineeta Satepauhoodle</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330790</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandria Toineeta</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330791</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Yellowfish</name>
+    <role>End Celebration Osage Singer</role>
+    <type>Actor</type>
+    <tmdbid>4330792</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick W. Nicholson</name>
+    <role>Deputy Dodge (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1429470</tmdbid>
+    <imdbid>nm4414026</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Frost</name>
+    <role>Lawyer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4216612</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Patrick</name>
+    <role>Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1704155</tmdbid>
+  </actor>
+  <director tmdbid="1032" imdbid="nm0000217">Martin Scorsese</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xSL4pV9lJcE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2UEOCqw11Ko</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HyyWd2XI1EE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wyYsrrpZuD0</trailer>
+  <rating>8</rating>
+  <year>2023</year>
+  <sorttitle>Los asesinos de la luna</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5537002</imdbid>
+  <tmdbid>466420</tmdbid>
+  <premiered>2023-10-18</premiered>
+  <releasedate>2023-10-18</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>208</runtime>
+  <tagline>La codicia es un animal que tiene sed de sangre.</tagline>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Apple Studios</studio>
+  <studio>Imperative Entertainment</studio>
+  <studio>Sikelia Productions</studio>
+  <studio>Appian Way</studio>
+  <uniqueid type="imdb">tt5537002</uniqueid>
+  <uniqueid type="tmdb">466420</uniqueid>
+  <id>tt5537002</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1222953</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>320:133</aspect>
+        <aspectratio>320:133</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>208</duration>
+        <durationinseconds>12489</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>201</width>
+        <height>85</height>
+        <aspect>201:85</aspect>
+        <aspectratio>201:85</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

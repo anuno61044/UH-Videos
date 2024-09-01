@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La comedia musical sigue a los cangrejos ermitaños que viven bajo el paseo marítimo de la costa de Jersey. Cuando Armen (un habitante de la ciudad cangrejo de tierra) se enamora de Ramona (una turista cangrejo de mar), aumentan las tensiones entre sus amigos y familias. Pero cuando una tormenta arroja al dúo lejos de casa, su amor les llevará a una aventura épica que unirá a la dividida comunidad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-03 14:54:15</dateadded>
+  <title>Under the Boardwalk</title>
+  <originaltitle>Under the Boardwalk</originaltitle>
+  <actor>
+    <name>Keke Palmer</name>
+    <role>Ramona (voice)</role>
+    <type>Actor</type>
+    <tmdbid>74688</tmdbid>
+    <imdbid>nm1551130</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Cera</name>
+    <role>Armen (voice)</role>
+    <type>Actor</type>
+    <tmdbid>39995</tmdbid>
+    <imdbid>nm0148418</imdbid>
+    <tvdbid>321341</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <role>Bobby (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21127</tmdbid>
+    <imdbid>nm0134072</imdbid>
+    <tvdbid>255793</tvdbid>
+  </actor>
+  <actor>
+    <name>John Magaro</name>
+    <role>Manny (voice)</role>
+    <type>Actor</type>
+    <tmdbid>37154</tmdbid>
+    <imdbid>nm1910274</imdbid>
+    <tvdbid>342036</tvdbid>
+  </actor>
+  <actor>
+    <name>Jon Rudnitsky</name>
+    <role>Jimmy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1714925</tmdbid>
+    <imdbid>nm4339544</imdbid>
+    <tvdbid>404906</tvdbid>
+  </actor>
+  <actor>
+    <name>Steven Van Zandt</name>
+    <role>Bruno (voice)</role>
+    <type>Actor</type>
+    <tmdbid>107622</tmdbid>
+    <imdbid>nm0005523</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Bell Calloway</name>
+    <role>Val (voice)</role>
+    <type>Actor</type>
+    <tmdbid>100653</tmdbid>
+    <imdbid>nm0068599</imdbid>
+  </actor>
+  <actor>
+    <name>Shoshannah Stern</name>
+    <role>Shelly (voice)</role>
+    <type>Actor</type>
+    <tmdbid>143591</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Funches</name>
+    <role>Anemone (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1260038</tmdbid>
+    <imdbid>nm3236733</imdbid>
+    <tvdbid>296658</tvdbid>
+  </actor>
+  <actor>
+    <name>Mario Cantone</name>
+    <role>Mr. Cacciatore (voice)</role>
+    <type>Actor</type>
+    <tmdbid>57551</tmdbid>
+    <imdbid>nm0134647</imdbid>
+    <tvdbid>310051</tvdbid>
+  </actor>
+  <actor>
+    <name>Russell Brand</name>
+    <role>Mako (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59919</tmdbid>
+    <tvdbid>255295</tvdbid>
+  </actor>
+  <actor>
+    <name>Gideon Adlon</name>
+    <role>Denise (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1803286</tmdbid>
+    <imdbid>nm4594069</imdbid>
+    <tvdbid>485694</tvdbid>
+  </actor>
+  <actor>
+    <name>Liza Tarbuck</name>
+    <role>Camille (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1216171</tmdbid>
+  </actor>
+  <actor>
+    <name>Lesli Margherita</name>
+    <role>Etta / Bedazzled Lady (voice)</role>
+    <type>Actor</type>
+    <tmdbid>154869</tmdbid>
+    <imdbid>nm0546671</imdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Scerbo</name>
+    <role>Loretta / Sea Crab Mom / Female Land Crab (voice)</role>
+    <type>Actor</type>
+    <tmdbid>78031</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil LaMarr</name>
+    <role>Big Sal / Little Junior / Donny / Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>31549</tmdbid>
+    <imdbid>nm0482851</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Schirripa</name>
+    <role>Mr. Marinara (voice)</role>
+    <type>Actor</type>
+    <tmdbid>97188</tmdbid>
+    <imdbid>nm0771993</imdbid>
+  </actor>
+  <actor>
+    <name>Sharon Angela</name>
+    <role>Mrs. Marinara (voice)</role>
+    <type>Actor</type>
+    <tmdbid>139703</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Donaldson</name>
+    <role>Hot Sauce Crab (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2282154</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Balderrama</name>
+    <role>Chauncey (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1477143</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Chiplock</name>
+    <role>Nigel (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2025381</tmdbid>
+  </actor>
+  <actor>
+    <name>David Soren</name>
+    <role>Yoga Crab / Battle Dad (voice)</role>
+    <type>Actor</type>
+    <tmdbid>94075</tmdbid>
+  </actor>
+  <actor>
+    <name>Valarie Rae Miller</name>
+    <role>Townie Crab / Neon Crab / Female Sea Crab (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1212687</tmdbid>
+    <imdbid>nm0589474</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Cummings</name>
+    <role>Curly / Local Land Crab (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12077</tmdbid>
+    <imdbid>nm0191906</imdbid>
+  </actor>
+  <actor>
+    <name>Maureen Van Zandt</name>
+    <role>Shop Mother (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1184596</tmdbid>
+  </actor>
+  <actor>
+    <name>David Ian Salter</name>
+    <role>Unicorn Crab (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12914</tmdbid>
+  </actor>
+  <director tmdbid="94075">David Soren</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vQmTVrNuxAI</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Under the Boardwalk</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt10551654</imdbid>
+  <tmdbid>609271</tmdbid>
+  <premiered>2023-10-27</premiered>
+  <releasedate>2023-10-27</releasedate>
+  <runtime>87</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Animación</genre>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <genre>Romance</genre>
+  <studio>Paramount Animation</studio>
+  <studio>Big Kid Pictures</studio>
+  <studio>DNEG Animation</studio>
+  <uniqueid type="tmdb">609271</uniqueid>
+  <uniqueid type="imdb">tt10551654</uniqueid>
+  <id>tt10551654</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149640</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5199</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130255</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

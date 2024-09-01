@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El suministro de aire es escaso en un futuro cercano, lo que obliga a una madre y una hija a luchar para sobrevivir cuando dos extraños llegan desesperados por un refugio oxigenado.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-10 14:47:14</dateadded>
+  <title>Breathe</title>
+  <originaltitle>Breathe</originaltitle>
+  <actor>
+    <name>Jennifer Hudson</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>15565</tmdbid>
+    <imdbid>nm1617685</imdbid>
+    <tvdbid>277860</tvdbid>
+  </actor>
+  <actor>
+    <name>Milla Jovovich</name>
+    <role>Tess</role>
+    <type>Actor</type>
+    <tmdbid>63</tmdbid>
+    <imdbid>nm0000170</imdbid>
+  </actor>
+  <actor>
+    <name>Quvenzhané Wallis</name>
+    <role>Zora</role>
+    <type>Actor</type>
+    <tmdbid>1055235</tmdbid>
+    <imdbid>nm4832920</imdbid>
+  </actor>
+  <actor>
+    <name>Common</name>
+    <role>Darius</role>
+    <type>Actor</type>
+    <tmdbid>4238</tmdbid>
+    <imdbid>nm0996669</imdbid>
+    <tvdbid>310836</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Worthington</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>65731</tmdbid>
+    <imdbid>nm0941777</imdbid>
+    <tvdbid>366817</tvdbid>
+  </actor>
+  <actor>
+    <name>Raúl Castillo</name>
+    <role>Micah</role>
+    <type>Actor</type>
+    <tmdbid>557579</tmdbid>
+    <imdbid>nm1950004</imdbid>
+  </actor>
+  <actor>
+    <name>James Saito</name>
+    <role>Man</role>
+    <type>Actor</type>
+    <tmdbid>77155</tmdbid>
+    <imdbid>nm0756839</imdbid>
+    <tvdbid>261751</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Martin</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>95796</tmdbid>
+    <imdbid>nm0520901</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Latham</name>
+    <role>Baby Zora</role>
+    <type>Actor</type>
+    <tmdbid>3659615</tmdbid>
+  </actor>
+  <director tmdbid="2036105">Stefon Bristol</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hv3Q7uAY60M</trailer>
+  <rating>5.466</rating>
+  <year>2024</year>
+  <sorttitle>Breathe</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11540468</imdbid>
+  <tmdbid>720321</tmdbid>
+  <premiered>2024-04-04</premiered>
+  <releasedate>2024-04-04</releasedate>
+  <runtime>94</runtime>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Acción</genre>
+  <studio>Thunder Road</studio>
+  <studio>Capstone Studios</studio>
+  <studio>Streamline Global</studio>
+  <uniqueid type="tmdb">720321</uniqueid>
+  <uniqueid type="imdb">tt11540468</uniqueid>
+  <id>tt11540468</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2138756</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5614</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

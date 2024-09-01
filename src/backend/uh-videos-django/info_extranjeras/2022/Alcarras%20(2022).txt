@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El abuelo ha dejado de hablar, pero nadie de la extensa familia Solé sabe la razón. Como cada verano, en Alcarràs, una pequeña localidad rural de Cataluña, la familia cultiva una gran extensión de melocotoneros.]]></plot>
+  <outline><![CDATA[La última cosecha]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-19 08:52:02</dateadded>
+  <title>Alcarràs</title>
+  <originaltitle>Alcarràs</originaltitle>
+  <actor>
+    <name>Jordi Pujol Dolcet</name>
+    <role>Qumet</role>
+    <type>Actor</type>
+    <tmdbid>3389384</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Otin</name>
+    <role>Dolors</role>
+    <type>Actor</type>
+    <tmdbid>3389385</tmdbid>
+  </actor>
+  <actor>
+    <name>Xènia Roset</name>
+    <role>Mariona</role>
+    <type>Actor</type>
+    <tmdbid>3389386</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Bosch</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>3389387</tmdbid>
+  </actor>
+  <actor>
+    <name>Ainet Jounou</name>
+    <role>Iris</role>
+    <type>Actor</type>
+    <tmdbid>3389388</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Abadia</name>
+    <role>Rogelio</role>
+    <type>Actor</type>
+    <tmdbid>1524446</tmdbid>
+  </actor>
+  <actor>
+    <name>Montse Oró</name>
+    <role>Nati</role>
+    <type>Actor</type>
+    <tmdbid>3420716</tmdbid>
+  </actor>
+  <actor>
+    <name>Carles Cabós</name>
+    <role>Cisco</role>
+    <type>Actor</type>
+    <tmdbid>3420717</tmdbid>
+  </actor>
+  <actor>
+    <name>Berta Pipó</name>
+    <role>Glòria</role>
+    <type>Actor</type>
+    <tmdbid>1886448</tmdbid>
+  </actor>
+  <director tmdbid="1748697">Carla Simón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XacARMle0ZY</trailer>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>Alcarras</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt11930126</imdbid>
+  <tmdbid>804251</tmdbid>
+  <premiered>2022-04-29</premiered>
+  <releasedate>2022-04-29</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>116</runtime>
+  <tagline>La última cosecha</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Avalon</studio>
+  <studio>Kino Produzioni</studio>
+  <studio>Vilaüt Films</studio>
+  <uniqueid type="imdb">tt11930126</uniqueid>
+  <uniqueid type="tmdb">804251</uniqueid>
+  <id>tt11930126</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1083756</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>300:169</aspect>
+        <aspectratio>300:169</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6933</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64240</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

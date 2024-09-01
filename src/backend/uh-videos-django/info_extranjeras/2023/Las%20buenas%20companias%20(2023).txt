@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Verano de 1976. Bea (Alicia Falcó) tiene 16 años y se suma a los aires de cambio que recorren el país; colabora con un grupo de mujeres para visibilizar la causa feminista y lograr la aprobación del derecho al aborto. La rebeldía que siente en la sangre se mezclará con un sentimiento inesperado que trastocará su mundo interior. A lo largo de estos meses, Bea entablará una amistad muy especial con Miren (Elena Tarrats), una chica algo mayor que ella y de buena familia. Su compromiso político y su relación con Miren convertirán ese verano en una etapa que marcará un antes y un después en su vida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-08 08:11:22</dateadded>
+  <title>Las buenas compañías</title>
+  <originaltitle>Las buenas compañías</originaltitle>
+  <actor>
+    <name>Alicia Falcó</name>
+    <role>Bea</role>
+    <type>Actor</type>
+    <tmdbid>1210310</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Tarrats</name>
+    <role>Miren</role>
+    <type>Actor</type>
+    <tmdbid>1459451</tmdbid>
+    <imdbid>nm3502985</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Ituño</name>
+    <role>Feli</role>
+    <type>Actor</type>
+    <tmdbid>947514</tmdbid>
+    <imdbid>nm1523587</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Aizpuru</name>
+    <role>Sagrario</role>
+    <type>Actor</type>
+    <tmdbid>1130543</tmdbid>
+    <imdbid>nm1424220</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Barroeta</name>
+    <role>Pili</role>
+    <type>Actor</type>
+    <tmdbid>4354031</tmdbid>
+  </actor>
+  <actor>
+    <name>Nagore Cenizo</name>
+    <role>Asun</role>
+    <type>Actor</type>
+    <tmdbid>4354033</tmdbid>
+  </actor>
+  <actor>
+    <name>María Cerezuela</name>
+    <role>Toto</role>
+    <type>Actor</type>
+    <tmdbid>3258938</tmdbid>
+  </actor>
+  <actor>
+    <name>Heren de Lucas</name>
+    <role>Maite</role>
+    <type>Actor</type>
+    <tmdbid>3258532</tmdbid>
+  </actor>
+  <actor>
+    <name>Nerea Elizalde</name>
+    <role>Begoña</role>
+    <type>Actor</type>
+    <tmdbid>1913531</tmdbid>
+  </actor>
+  <actor>
+    <name>Garazi Beloki</name>
+    <role>Madre taquilla</role>
+    <type>Actor</type>
+    <tmdbid>2943448</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Garcés</name>
+    <role>Juanjo</role>
+    <type>Actor</type>
+    <tvdbid>8340315</tvdbid>
+    <tmdbid>2424427</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikel Laskurain</name>
+    <role>Juan Mari</role>
+    <type>Actor</type>
+    <tmdbid>2154352</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Massagué</name>
+    <role>Rafa</role>
+    <type>Actor</type>
+    <tmdbid>31422</tmdbid>
+    <imdbid>nm1293644</imdbid>
+    <tvdbid>7925919</tvdbid>
+  </actor>
+  <actor>
+    <name>Ainhoa Santamaría</name>
+    <role>Belén</role>
+    <type>Actor</type>
+    <tmdbid>1723075</tmdbid>
+    <tvdbid>8082647</tvdbid>
+  </actor>
+  <actor>
+    <name>Mikel Tello</name>
+    <role>Julián</role>
+    <type>Actor</type>
+    <tmdbid>1020776</tmdbid>
+    <imdbid>nm0854521</imdbid>
+  </actor>
+  <actor>
+    <name>Garazi Urkola</name>
+    <role>Nekane</role>
+    <type>Actor</type>
+    <tmdbid>2480575</tmdbid>
+  </actor>
+  <director tmdbid="935765">Sílvia Munt</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7Zj8TxleF5k</trailer>
+  <rating>7.3</rating>
+  <year>2023</year>
+  <sorttitle>Las buenas companias</sorttitle>
+  <imdbid>tt21957904</imdbid>
+  <tmdbid>1096751</tmdbid>
+  <premiered>2023-10-18</premiered>
+  <releasedate>2023-10-18</releasedate>
+  <runtime>95</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="imdb">tt21957904</uniqueid>
+  <uniqueid type="tmdb">1096751</uniqueid>
+  <id>tt21957904</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>952221</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5699</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64025</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

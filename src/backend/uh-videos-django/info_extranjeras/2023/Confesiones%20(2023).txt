@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When a young girl from a wealthy Mexico City family disappears, a man arrives to discuss the girl's return, asking for the confession of a family member that has committed a terrible act. One by one, confession by confession, the intruder exposes each member of the family, revealing their deepest and most shocking secrets.]]></plot>
+  <outline><![CDATA[We all have a dark secret.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-05 18:37:18</dateadded>
+  <title>Confesiones</title>
+  <originaltitle>Confesiones</originaltitle>
+  <actor>
+    <name>Claudia Ramírez</name>
+    <role>Sara Sahagún de Olmos</role>
+    <type>Actor</type>
+    <tmdbid>143174</tmdbid>
+    <imdbid>nm0709216</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Gnecco</name>
+    <role>Ramiro Olmos</role>
+    <type>Actor</type>
+    <tmdbid>127248</tmdbid>
+    <imdbid>nm0323483</imdbid>
+  </actor>
+  <actor>
+    <name>Emilio Treviño</name>
+    <role>Juan Pablo Olmos</role>
+    <type>Actor</type>
+    <tmdbid>2127665</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Manuel Bernal</name>
+    <role>Vengador</role>
+    <type>Actor</type>
+    <tmdbid>112209</tmdbid>
+    <imdbid>nm0076082</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Claudia Talancón</name>
+    <role>Berenice</role>
+    <type>Actor</type>
+    <tmdbid>7351</tmdbid>
+    <imdbid>nm0847799</imdbid>
+    <tvdbid>486076</tvdbid>
+  </actor>
+  <actor>
+    <name>Victoria Olivares</name>
+    <role>Angie</role>
+    <type>Actor</type>
+    <tmdbid>4363439</tmdbid>
+  </actor>
+  <actor>
+    <name>María del Carmen Farías</name>
+    <role>Paty</role>
+    <type>Actor</type>
+    <tmdbid>1327356</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel Barrera</name>
+    <role>Conde</role>
+    <type>Actor</type>
+    <tmdbid>2732549</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Cosme</name>
+    <role>Taxista</role>
+    <type>Actor</type>
+    <tmdbid>1056723</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Vázquez</name>
+    <role>Luisa</role>
+    <type>Actor</type>
+    <tmdbid>3900727</tmdbid>
+  </actor>
+  <director tmdbid="7348">Carlos Carrera</director>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Confesiones</sorttitle>
+  <imdbid>tt20196104</imdbid>
+  <tmdbid>1103501</tmdbid>
+  <premiered>2023-11-02</premiered>
+  <releasedate>2023-11-02</releasedate>
+  <runtime>97</runtime>
+  <tagline>We all have a dark secret.</tagline>
+  <country>Mexico</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <genre>Crimen</genre>
+  <studio>Alameda Films</studio>
+  <studio>Zamora Films</studio>
+  <studio>Sony Pictures International Productions</studio>
+  <uniqueid type="imdb">tt20196104</uniqueid>
+  <uniqueid type="tmdb">1103501</uniqueid>
+  <id>tt20196104</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>128215</bitrate>
+        <width>640</width>
+        <height>320</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>29.97003</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5813</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>60569</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

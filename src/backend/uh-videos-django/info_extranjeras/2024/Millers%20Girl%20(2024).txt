@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una tarea de escritura creativa produce resultados complejos entre un maestro y su estudiante talentosa.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-19 08:23:09</dateadded>
+  <title>Miller's Girl</title>
+  <originaltitle>Miller's Girl</originaltitle>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>Jonathan Miller</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Jenna Ortega</name>
+    <role>Cairo Sweet</role>
+    <type>Actor</type>
+    <tmdbid>974169</tmdbid>
+    <imdbid>nm4911194</imdbid>
+    <tvdbid>474051</tvdbid>
+  </actor>
+  <actor>
+    <name>Bashir Salahuddin</name>
+    <role>Boris Fillmore</role>
+    <type>Actor</type>
+    <tmdbid>1241330</tmdbid>
+    <imdbid>nm1506981</imdbid>
+  </actor>
+  <actor>
+    <name>Gideon Adlon</name>
+    <role>Winnie Black</role>
+    <type>Actor</type>
+    <tmdbid>1803286</tmdbid>
+    <imdbid>nm4594069</imdbid>
+    <tvdbid>485694</tvdbid>
+  </actor>
+  <actor>
+    <name>Dagmara Domińczyk</name>
+    <role>Beatrice June Harker</role>
+    <type>Actor</type>
+    <tmdbid>52776</tmdbid>
+    <imdbid>nm0231436</imdbid>
+    <tvdbid>7979780</tvdbid>
+  </actor>
+  <actor>
+    <name>Christine Adams</name>
+    <role>Joyce Manner</role>
+    <type>Actor</type>
+    <tmdbid>87194</tmdbid>
+    <imdbid>nm0010837</imdbid>
+    <tvdbid>343566</tvdbid>
+  </actor>
+  <actor>
+    <name>Augustine Hargrave</name>
+    <role>Elliot</role>
+    <type>Actor</type>
+    <tmdbid>1937926</tmdbid>
+  </actor>
+  <actor>
+    <name>Elyssa Samsel</name>
+    <role>Suzette</role>
+    <type>Actor</type>
+    <tmdbid>1933268</tmdbid>
+  </actor>
+  <director tmdbid="1940991">Jade Halley Bartlett</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vk2OJZHutBM</trailer>
+  <rating>5.2</rating>
+  <year>2024</year>
+  <sorttitle>Miller's Girl</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8310486</imdbid>
+  <tmdbid>1026436</tmdbid>
+  <premiered>2024-01-18</premiered>
+  <releasedate>2024-01-18</releasedate>
+  <runtime>93</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Point Grey Pictures</studio>
+  <studio>Good Universe</studio>
+  <studio>Lionsgate</studio>
+  <uniqueid type="imdb">tt8310486</uniqueid>
+  <uniqueid type="tmdb">1026436</uniqueid>
+  <id>tt8310486</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1196970</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5583</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

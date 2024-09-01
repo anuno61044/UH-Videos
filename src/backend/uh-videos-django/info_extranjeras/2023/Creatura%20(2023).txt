@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras mudarse con su novio, Mila toma conciencia de su pérdida de deseo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-03 12:36:36</dateadded>
+  <title>Creatura</title>
+  <originaltitle>Creatura</originaltitle>
+  <actor>
+    <name>Elena Martín Gimeno</name>
+    <role>Mila</role>
+    <type>Actor</type>
+    <tmdbid>1788850</tmdbid>
+  </actor>
+  <actor>
+    <name>Clàudia Dalmau</name>
+    <role>Younger Mila</role>
+    <type>Actor</type>
+    <tmdbid>3824751</tmdbid>
+  </actor>
+  <actor>
+    <name>Mila Borràs</name>
+    <role>Child Mila</role>
+    <type>Actor</type>
+    <tmdbid>3864782</tmdbid>
+  </actor>
+  <actor>
+    <name>Oriol Pla</name>
+    <role>Marcel</role>
+    <type>Actor</type>
+    <tmdbid>1074587</tmdbid>
+    <imdbid>nm2724795</imdbid>
+    <tvdbid>465420</tvdbid>
+  </actor>
+  <actor>
+    <name>Clara Segura</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>33410</tmdbid>
+    <imdbid>nm1443814</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Linares</name>
+    <role>Younger Diana</role>
+    <type>Actor</type>
+    <tmdbid>1524683</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Cartanyà</name>
+    <role>Younger Gerard</role>
+    <type>Actor</type>
+    <tmdbid>3864781</tmdbid>
+  </actor>
+  <actor>
+    <name>Àlex Brendemühl</name>
+    <role>Gerard</role>
+    <type>Actor</type>
+    <tmdbid>28514</tmdbid>
+    <imdbid>nm0107165</imdbid>
+  </actor>
+  <actor>
+    <name>Cristina Colom</name>
+    <role>Aina</role>
+    <type>Actor</type>
+    <tmdbid>2377662</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernat Roqué</name>
+    <role>André</role>
+    <type>Actor</type>
+    <tmdbid>3458121</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Vallicrosa</name>
+    <type>Actor</type>
+    <tmdbid>3864780</tmdbid>
+  </actor>
+  <director tmdbid="1788850">Elena Martín Gimeno</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BQM-RHhDTRc</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Creatura</sorttitle>
+  <imdbid>tt21869176</imdbid>
+  <tmdbid>1071846</tmdbid>
+  <premiered>2023-06-07</premiered>
+  <releasedate>2023-06-07</releasedate>
+  <runtime>110</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Avalon</studio>
+  <studio>Elastica Films</studio>
+  <studio>Filmin</studio>
+  <studio>Lastor Media</studio>
+  <studio>TV3</studio>
+  <studio>Vilaüt Films</studio>
+  <uniqueid type="imdb">tt21869176</uniqueid>
+  <uniqueid type="tmdb">1071846</uniqueid>
+  <id>tt21869176</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>198365</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6594</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63838</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

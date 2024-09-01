@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En 1956 en Francia, un sacerdote es asesinado y parece que un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con una fuerza demoníaca.]]></plot>
+  <outline><![CDATA[El mayor mal en el universo de El Conjuro.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-03 09:02:19</dateadded>
+  <title>La monja II</title>
+  <originaltitle>The Nun II</originaltitle>
+  <actor>
+    <name>Taissa Farmiga</name>
+    <role>Sister Irene</role>
+    <type>Actor</type>
+    <tmdbid>527313</tmdbid>
+    <imdbid>nm3920288</imdbid>
+    <tvdbid>611530</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonas Bloquet</name>
+    <role>Maurice Theriault</role>
+    <type>Actor</type>
+    <tmdbid>566080</tmdbid>
+    <imdbid>nm2997552</imdbid>
+    <tvdbid>8164653</tvdbid>
+  </actor>
+  <actor>
+    <name>Storm Reid</name>
+    <role>Sister Debra</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+    <imdbid>nm4977564</imdbid>
+    <tvdbid>480296</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Popplewell</name>
+    <role>Kate</role>
+    <type>Actor</type>
+    <tmdbid>5529</tmdbid>
+    <imdbid>nm0691600</imdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Aarons</name>
+    <role>The Demon Nun / Valak</role>
+    <type>Actor</type>
+    <tmdbid>87287</tmdbid>
+    <imdbid>nm0007491</imdbid>
+  </actor>
+  <actor>
+    <name>Katelyn Rose Downey</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>3607815</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Bertish</name>
+    <role>Madame Laurent</role>
+    <type>Actor</type>
+    <tmdbid>162413</tmdbid>
+    <imdbid>nm0078136</imdbid>
+  </actor>
+  <actor>
+    <name>Léontine d'Oncieu</name>
+    <role>Simone</role>
+    <type>Actor</type>
+    <tmdbid>2490509</tmdbid>
+  </actor>
+  <actor>
+    <name>Anouk Darwin Homewood</name>
+    <role>Céleste</role>
+    <type>Actor</type>
+    <tmdbid>4033927</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Hudson</name>
+    <role>Father Ridley</role>
+    <type>Actor</type>
+    <tmdbid>1277975</tmdbid>
+    <imdbid>nm0399940</imdbid>
+  </actor>
+  <actor>
+    <name>Tamar Baruch</name>
+    <role>Sister Amara</role>
+    <type>Actor</type>
+    <tmdbid>1068693</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Sister Chloe</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>Maxime Elias-Menet</name>
+    <role>Jacques</role>
+    <type>Actor</type>
+    <tmdbid>3405036</tmdbid>
+  </actor>
+  <actor>
+    <name>Pascal Aubert</name>
+    <role>Father Noiret</role>
+    <type>Actor</type>
+    <tmdbid>231254</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Gentil</name>
+    <role>Sister Astrid</role>
+    <type>Actor</type>
+    <tmdbid>129167</tmdbid>
+  </actor>
+  <actor>
+    <name>Florence Mestais</name>
+    <role>Double Demon Nun</role>
+    <type>Actor</type>
+    <tmdbid>2049947</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaux Borel</name>
+    <role>Double Demon Nun</role>
+    <type>Actor</type>
+    <tmdbid>4262427</tmdbid>
+  </actor>
+  <actor>
+    <name>Viviana Moin</name>
+    <role>Sister Maria</role>
+    <type>Actor</type>
+    <tmdbid>2141215</tmdbid>
+  </actor>
+  <actor>
+    <name>Renata Palminiello</name>
+    <role>Sister Pia</role>
+    <type>Actor</type>
+    <tmdbid>3088850</tmdbid>
+  </actor>
+  <actor>
+    <name>Fulvia Patrizia Olivieri</name>
+    <role>Abbess</role>
+    <type>Actor</type>
+    <tmdbid>2465638</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Amiel</name>
+    <role>Julie</role>
+    <type>Actor</type>
+    <tmdbid>4262430</tmdbid>
+  </actor>
+  <actor>
+    <name>Margot Morris</name>
+    <role>Aurélie</role>
+    <type>Actor</type>
+    <tmdbid>4262432</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaël Raës</name>
+    <role>Cedric the Altar Boy</role>
+    <type>Actor</type>
+    <tmdbid>2436021</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Pachoud</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>3589497</tmdbid>
+  </actor>
+  <actor>
+    <name>Lieve Carchon</name>
+    <role>Sister Concetta</role>
+    <type>Actor</type>
+    <tmdbid>2661399</tmdbid>
+  </actor>
+  <actor>
+    <name>David Horovitch</name>
+    <role>Cardinal Conroy</role>
+    <type>Actor</type>
+    <tmdbid>133032</tmdbid>
+    <imdbid>nm0395257</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Spera</name>
+    <role>Deacon Scott</role>
+    <type>Actor</type>
+    <tmdbid>1157588</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Colebrook</name>
+    <role>Irene's Mother / St. Lucy</role>
+    <type>Actor</type>
+    <tmdbid>1912235</tmdbid>
+  </actor>
+  <actor>
+    <name>Margot Bernazzi</name>
+    <role>Young Irene</role>
+    <type>Actor</type>
+    <tmdbid>4262438</tmdbid>
+  </actor>
+  <actor>
+    <name>Grégory Di Meglio</name>
+    <role>Hotel Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2312343</tmdbid>
+  </actor>
+  <actor>
+    <name>Delcho Koprivshki</name>
+    <role>Ethan Rome</role>
+    <type>Actor</type>
+    <tmdbid>3764338</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Josserand</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1768828</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron-Jon North</name>
+    <role>Demon Goat</role>
+    <type>Actor</type>
+    <tmdbid>4262442</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Morgado</name>
+    <role>Demonic Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>80823</tmdbid>
+    <imdbid>nm1157771</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Wilson</name>
+    <role>Ed Warren</role>
+    <type>Actor</type>
+    <tmdbid>17178</tmdbid>
+    <imdbid>nm0933940</imdbid>
+  </actor>
+  <actor>
+    <name>Vera Farmiga</name>
+    <role>Lorraine Warren</role>
+    <type>Actor</type>
+    <tmdbid>21657</tmdbid>
+    <imdbid>nm0267812</imdbid>
+    <tvdbid>286924</tvdbid>
+  </actor>
+  <director tmdbid="1607672">Michael Chaves</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Sg9hqLNyASU</trailer>
+  <rating>5.6</rating>
+  <year>2023</year>
+  <sorttitle>monja II</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10160976</imdbid>
+  <tmdbid>968051</tmdbid>
+  <premiered>2023-09-06</premiered>
+  <releasedate>2023-09-06</releasedate>
+  <criticrating>52</criticrating>
+  <runtime>110</runtime>
+  <tagline>El mayor mal en el universo de El Conjuro.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Atomic Monster</studio>
+  <studio>The Safran Company</studio>
+  <set tmdbcolid="968052">
+    <name>La Monja - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10160976</uniqueid>
+  <uniqueid type="tmdb">968051</uniqueid>
+  <id>tt10160976</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1622203</bitrate>
+        <width>1920</width>
+        <height>802</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6580</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

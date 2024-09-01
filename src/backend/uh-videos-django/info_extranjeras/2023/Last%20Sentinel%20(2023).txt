@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un escuadrón de soldados está varado en una base militar abandonada, en un futuro cercano, esperando el socorro o al enemigo, lo que ocurra primero.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:19:40</dateadded>
+  <title>Last Sentinel</title>
+  <originaltitle>Last Sentinel</originaltitle>
+  <actor>
+    <name>Kate Bosworth</name>
+    <role>Cassidy</role>
+    <type>Actor</type>
+    <tmdbid>7517</tmdbid>
+    <imdbid>nm0098378</imdbid>
+  </actor>
+  <actor>
+    <name>Lucien Laviscount</name>
+    <role>Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>233096</tmdbid>
+    <imdbid>nm1620741</imdbid>
+    <tvdbid>490271</tvdbid>
+  </actor>
+  <actor>
+    <name>Martin McCann</name>
+    <role>Baines</role>
+    <type>Actor</type>
+    <tmdbid>76104</tmdbid>
+    <imdbid>nm0564901</imdbid>
+    <tvdbid>524222</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kretschmann</name>
+    <role>Hendrichs</role>
+    <type>Actor</type>
+    <tmdbid>3491</tmdbid>
+    <imdbid>nm0470981</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Pullen</name>
+    <role>Marine Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>48968</tmdbid>
+  </actor>
+  <actor>
+    <name>Karin Tammaru</name>
+    <role>Marine Corporal</role>
+    <type>Actor</type>
+    <tmdbid>1575735</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Erik Ehrenberg</name>
+    <role>Marine 1</role>
+    <type>Actor</type>
+    <tmdbid>3477167</tmdbid>
+  </actor>
+  <actor>
+    <name>Monika Tuvi</name>
+    <role>Marine 2</role>
+    <type>Actor</type>
+    <tmdbid>2458877</tmdbid>
+  </actor>
+  <director tmdbid="998343">Tanel Toom</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P1XLouhrxQ0</trailer>
+  <rating>5</rating>
+  <year>2023</year>
+  <sorttitle>Last Sentinel</sorttitle>
+  <imdbid>tt5153956</imdbid>
+  <tmdbid>516806</tmdbid>
+  <premiered>2023-03-17</premiered>
+  <releasedate>2023-03-17</releasedate>
+  <runtime>117</runtime>
+  <country>Estonia</country>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <studio>Allfilm</studio>
+  <studio>Sentinel Entertainment</studio>
+  <studio>Kick Film</studio>
+  <studio>CrossDay Productions</studio>
+  <studio>Stigma Films</studio>
+  <studio>Tallifornia</studio>
+  <studio>Head Gear Films</studio>
+  <studio>Altitude Film Entertainment</studio>
+  <studio>BR</studio>
+  <studio>ARTE</studio>
+  <uniqueid type="imdb">tt5153956</uniqueid>
+  <uniqueid type="tmdb">516806</uniqueid>
+  <id>tt5153956</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149449</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7029</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128669</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

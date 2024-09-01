@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Recién comprometidos, Emily (Phoebe Dynevor) y Luke (Alden Ehrenreich), una próspera pareja de Nueva York, no se cansan el uno del otro. Cuando surge un codiciado ascenso en su despiadada empresa financiera, los intercambios de apoyo entre los amantes comienzan a agriarse hasta convertirse en algo más siniestro. A medida que la dinámica de poder cambia irrevocablemente en su relación, Luke y Emily deben enfrentarse al verdadero precio del éxito y a los desconcertantes límites de la ambición.]]></plot>
+  <outline><![CDATA[La competencia está reñida.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 08:15:11</dateadded>
+  <title>Juego limpio</title>
+  <originaltitle>Fair Play</originaltitle>
+  <actor>
+    <name>Phoebe Dynevor</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>1232756</tmdbid>
+    <imdbid>nm3697443</imdbid>
+    <tvdbid>7915701</tvdbid>
+  </actor>
+  <actor>
+    <name>Alden Ehrenreich</name>
+    <role>Luke</role>
+    <type>Actor</type>
+    <tmdbid>71375</tmdbid>
+    <imdbid>nm2403277</imdbid>
+    <tvdbid>7902194</tvdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Campbell</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+    <tvdbid>259360</tvdbid>
+  </actor>
+  <actor>
+    <name>Rich Sommer</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>10581</tmdbid>
+    <imdbid>nm1360860</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian de Souza</name>
+    <role>Rory</role>
+    <type>Actor</type>
+    <tmdbid>1192218</tmdbid>
+    <imdbid>nm4148205</imdbid>
+    <tvdbid>7876782</tvdbid>
+  </actor>
+  <actor>
+    <name>Sia Alipour</name>
+    <role>Arjun</role>
+    <type>Actor</type>
+    <tmdbid>2264312</tmdbid>
+  </actor>
+  <actor>
+    <name>Yacine Ramoul</name>
+    <role>Jeremie</role>
+    <type>Actor</type>
+    <tmdbid>3757686</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Bassir</name>
+    <role>Dax</role>
+    <type>Actor</type>
+    <tmdbid>3455774</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Wilkes</name>
+    <role>Quinn</role>
+    <type>Actor</type>
+    <tmdbid>1980391</tmdbid>
+  </actor>
+  <actor>
+    <name>Freddy Sawyer</name>
+    <role>Derek</role>
+    <type>Actor</type>
+    <tmdbid>4275347</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Somerville</name>
+    <role>Emily's Mother</role>
+    <type>Actor</type>
+    <tmdbid>10988</tmdbid>
+    <imdbid>nm0813893</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fischler</name>
+    <role>Robert Bynes</role>
+    <type>Actor</type>
+    <tmdbid>52801</tmdbid>
+    <imdbid>nm0279209</imdbid>
+  </actor>
+  <actor>
+    <name>Laurel Lefkow</name>
+    <role>Connie</role>
+    <type>Actor</type>
+    <tmdbid>1562487</tmdbid>
+    <imdbid>nm0499014</imdbid>
+  </actor>
+  <actor>
+    <name>Buck Braithwaite</name>
+    <role>Theo</role>
+    <type>Actor</type>
+    <tmdbid>2569263</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Sturgeon</name>
+    <role>Uncle J</role>
+    <type>Actor</type>
+    <tmdbid>1509110</tmdbid>
+    <imdbid>nm1880203</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Ljoka</name>
+    <role>Mrs. Meyers</role>
+    <type>Actor</type>
+    <tmdbid>1568318</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Pace</name>
+    <role>Noah Analyst #1</role>
+    <type>Actor</type>
+    <tmdbid>4313116</tmdbid>
+  </actor>
+  <actor>
+    <name>Abe Fark</name>
+    <role>Harris Analyst #2</role>
+    <type>Actor</type>
+    <tmdbid>3895283</tmdbid>
+  </actor>
+  <actor>
+    <name>Leopold Hughes</name>
+    <role>Ken Oak</role>
+    <type>Actor</type>
+    <tmdbid>2489705</tmdbid>
+  </actor>
+  <actor>
+    <name>Boris Fionov</name>
+    <role>Russian Translator</role>
+    <type>Actor</type>
+    <tmdbid>4313119</tmdbid>
+  </actor>
+  <actor>
+    <name>Jelena Stupljanin</name>
+    <role>Relative #1</role>
+    <type>Actor</type>
+    <tmdbid>238071</tmdbid>
+  </actor>
+  <actor>
+    <name>Katarina Gojković</name>
+    <role>Relative #2</role>
+    <type>Actor</type>
+    <tmdbid>1043276</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivona Kustudić</name>
+    <role>Emily's Aunt</role>
+    <type>Actor</type>
+    <tmdbid>2093328</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg De Cuir</name>
+    <role>Guest Speaker</role>
+    <type>Actor</type>
+    <tmdbid>1102409</tmdbid>
+    <imdbid>nm4986340</imdbid>
+  </actor>
+  <actor>
+    <name>Stefan Miloradović</name>
+    <role>Crest Capital Analyst #3</role>
+    <type>Actor</type>
+    <tmdbid>4313123</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdeen Asham</name>
+    <role>Crest Capital Analyst #4</role>
+    <type>Actor</type>
+    <tmdbid>4313125</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleksandar Bimbašić</name>
+    <role>Crest Capital Analyst #5</role>
+    <type>Actor</type>
+    <tmdbid>4313129</tmdbid>
+  </actor>
+  <actor>
+    <name>Filip Todorovic</name>
+    <role>Crest Capital Analyst #6</role>
+    <type>Actor</type>
+    <tmdbid>2630003</tmdbid>
+  </actor>
+  <actor>
+    <name>Nenad Stefanovic</name>
+    <role>Crest Capital Analyst #7</role>
+    <type>Actor</type>
+    <tmdbid>3455007</tmdbid>
+  </actor>
+  <actor>
+    <name>Pei Hua Lu</name>
+    <role>Crest Capital Analyst #8</role>
+    <type>Actor</type>
+    <tmdbid>4313131</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Zhao</name>
+    <role>Crest Capital Analyst #9</role>
+    <type>Actor</type>
+    <tmdbid>4313132</tmdbid>
+  </actor>
+  <actor>
+    <name>Jovana Miletic</name>
+    <role>Crest Capital Office Secretary</role>
+    <type>Actor</type>
+    <tmdbid>2673494</tmdbid>
+  </actor>
+  <actor>
+    <name>Novica Milosavljević</name>
+    <role>Russian Client</role>
+    <type>Actor</type>
+    <tmdbid>1990088</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivana Ivić</name>
+    <role>Human Resources #1</role>
+    <type>Actor</type>
+    <tmdbid>4313135</tmdbid>
+  </actor>
+  <actor>
+    <name>Branimir Cirić</name>
+    <role>Human Resources #2</role>
+    <type>Actor</type>
+    <tmdbid>4313136</tmdbid>
+  </actor>
+  <director tmdbid="1170655">Chloe Domont</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vICUPlr3EEI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vw9fgeNoTDU</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>Juego limpio</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt16304446</imdbid>
+  <tmdbid>910571</tmdbid>
+  <premiered>2023-09-28</premiered>
+  <releasedate>2023-09-28</releasedate>
+  <runtime>115</runtime>
+  <tagline>La competencia está reñida.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>Star Thrower Entertainment</studio>
+  <studio>T-Street</studio>
+  <studio>MRC</studio>
+  <uniqueid type="imdb">tt16304446</uniqueid>
+  <uniqueid type="tmdb">910571</uniqueid>
+  <id>tt16304446</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>866928</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>640:267</aspect>
+        <aspectratio>640:267</aspectratio>
+        <framerate>23.999851</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6916</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

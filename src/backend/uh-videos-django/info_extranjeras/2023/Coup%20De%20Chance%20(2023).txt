@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Fanny y Jean parecen el matrimonio ideal: ambos son profesionales consumados, viven en un precioso apartamento en un exclusivo barrio de París y parecen tan enamorados como cuando se conocieron. Pero cuando Fanny se cruza accidentalmente con Alain, un antiguo compañero de instituto, cae rendida a sus pies. Pronto vuelven a verse y se acercan cada vez más...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-15 07:34:18</dateadded>
+  <title>Golpe de Suerte</title>
+  <originaltitle>Coup de chance</originaltitle>
+  <actor>
+    <name>Lou de Laâge</name>
+    <role>Fanny Fournier (née Moreau)</role>
+    <type>Actor</type>
+    <tmdbid>939099</tmdbid>
+    <imdbid>nm3650704</imdbid>
+  </actor>
+  <actor>
+    <name>Valérie Lemercier</name>
+    <role>Camille Moreau</role>
+    <type>Actor</type>
+    <tmdbid>62531</tmdbid>
+    <imdbid>nm0501256</imdbid>
+  </actor>
+  <actor>
+    <name>Melvil Poupaud</name>
+    <role>Jean Fournier</role>
+    <type>Actor</type>
+    <tmdbid>26100</tmdbid>
+    <imdbid>nm0693799</imdbid>
+  </actor>
+  <actor>
+    <name>Niels Schneider</name>
+    <role>Alain Aubert</role>
+    <type>Actor</type>
+    <tmdbid>143596</tmdbid>
+    <imdbid>nm2671105</imdbid>
+  </actor>
+  <actor>
+    <name>Elsa Zylberstein</name>
+    <role>Caroline Blanc</role>
+    <type>Actor</type>
+    <tmdbid>39195</tmdbid>
+    <imdbid>nm0959113</imdbid>
+  </actor>
+  <actor>
+    <name>Grégory Gadebois</name>
+    <role>Le détective Henri Delauny</role>
+    <type>Actor</type>
+    <tmdbid>223532</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillaume de Tonquédec</name>
+    <role>Marcel Blanc</role>
+    <type>Actor</type>
+    <tmdbid>17896</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Bournaud</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>1364904</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Loiret</name>
+    <role>Delphine</role>
+    <type>Actor</type>
+    <tmdbid>13191</tmdbid>
+  </actor>
+  <actor>
+    <name>Sâm Mirhosseini</name>
+    <role>Dragos</role>
+    <type>Actor</type>
+    <tmdbid>1652290</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Martins</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>23390</tmdbid>
+    <imdbid>nm0554120</imdbid>
+  </actor>
+  <actor>
+    <name>William Nadylam</name>
+    <role>Charles</role>
+    <type>Actor</type>
+    <tmdbid>87426</tmdbid>
+    <imdbid>nm0618986</imdbid>
+  </actor>
+  <actor>
+    <name>Arnaud Viard</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>232764</tmdbid>
+    <tvdbid>508988</tvdbid>
+  </actor>
+  <actor>
+    <name>Philippe Uchan</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>113603</tmdbid>
+    <imdbid>nm0399576</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Risbac</name>
+    <role>Edgar</role>
+    <type>Actor</type>
+    <tmdbid>4331188</tmdbid>
+  </actor>
+  <actor>
+    <name>Éric Frey</name>
+    <role>Bernard</role>
+    <type>Actor</type>
+    <tmdbid>1365376</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Fuller</name>
+    <role>Chloé</role>
+    <type>Actor</type>
+    <tmdbid>1263596</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilie Incerti-Formentini</name>
+    <role>Suzanne</role>
+    <type>Actor</type>
+    <tmdbid>1912114</tmdbid>
+  </actor>
+  <actor>
+    <name>Christophe Kourotchkine</name>
+    <role>Claude</role>
+    <type>Actor</type>
+    <tmdbid>1025171</tmdbid>
+    <imdbid>nm0468048</imdbid>
+  </actor>
+  <actor>
+    <name>Naidra Ayadi</name>
+    <role>Clarice</role>
+    <type>Actor</type>
+    <tmdbid>500341</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Dollé</name>
+    <role>Pauline</role>
+    <type>Actor</type>
+    <tmdbid>74115</tmdbid>
+    <imdbid>nm1350207</imdbid>
+  </actor>
+  <actor>
+    <name>Juliette Plumecocq-Mech</name>
+    <role>Joséphine</role>
+    <type>Actor</type>
+    <tmdbid>2505623</tmdbid>
+  </actor>
+  <actor>
+    <name>Benoît Forgeard</name>
+    <role>André</role>
+    <type>Actor</type>
+    <tmdbid>1177760</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Malvarosa</name>
+    <role>Marion</role>
+    <type>Actor</type>
+    <tmdbid>3721110</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamel Elgharbi</name>
+    <role>Milos</role>
+    <type>Actor</type>
+    <tmdbid>2090961</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Gouery</name>
+    <role>Gilles</role>
+    <type>Actor</type>
+    <tmdbid>2320594</tmdbid>
+    <tvdbid>8177866</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabelle de Hertogh</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>578936</tmdbid>
+  </actor>
+  <director tmdbid="1243" imdbid="nm0000095">Woody Allen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ohcoh0KRvxg</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>Golpe de Suerte</sorttitle>
+  <imdbid>tt15140278</imdbid>
+  <tmdbid>859235</tmdbid>
+  <premiered>2023-09-15</premiered>
+  <releasedate>2023-09-15</releasedate>
+  <runtime>96</runtime>
+  <country>France</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Gravier Productions</studio>
+  <studio>Perdido Productions</studio>
+  <studio>Dippermouth</studio>
+  <studio>Petite Fleur Productions</studio>
+  <uniqueid type="imdb">tt15140278</uniqueid>
+  <uniqueid type="tmdb">859235</uniqueid>
+  <id>tt15140278</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1043820</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>640:319</aspect>
+        <aspectratio>640:319</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5779</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128458</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

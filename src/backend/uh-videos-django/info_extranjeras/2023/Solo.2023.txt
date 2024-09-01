@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Simon debe enfrentarse a la decepción de dos amores imposibles: un apasionado pero destructivo enamoramiento de Oliver y una relación distante y fría con su madre Claire, que acaba de volver a vivir con él tras 15 años de ausencia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-26 12:04:00</dateadded>
+  <title>Solo</title>
+  <originaltitle>Solo</originaltitle>
+  <actor>
+    <name>Théodore Pellerin</name>
+    <role>Simon / Glory Gore</role>
+    <type>Actor</type>
+    <tmdbid>1505023</tmdbid>
+    <tvdbid>555320</tvdbid>
+  </actor>
+  <actor>
+    <name>Félix Maritaud</name>
+    <role>Olivier / La Dragona</role>
+    <type>Actor</type>
+    <tmdbid>1871353</tmdbid>
+    <imdbid>nm9029751</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Moreault</name>
+    <role>Maude</role>
+    <type>Actor</type>
+    <tmdbid>1988219</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne-Marie Cadieux</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>543715</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Joubert</name>
+    <role>Guillaume / Denise</role>
+    <type>Actor</type>
+    <tmdbid>2528514</tmdbid>
+  </actor>
+  <actor>
+    <name>Vlad Alexis</name>
+    <role>Édouard / Felina Kyle</role>
+    <type>Actor</type>
+    <tmdbid>2482338</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Marchand</name>
+    <role>Frida</role>
+    <type>Actor</type>
+    <tmdbid>79620</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc-André Leclair</name>
+    <role>Nicolas / Becky Bobo</role>
+    <type>Actor</type>
+    <tmdbid>1829723</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Léger</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>1157125</tmdbid>
+    <imdbid>nm0529581</imdbid>
+  </actor>
+  <actor>
+    <name>Josée Deschênes</name>
+    <role>Aline</role>
+    <type>Actor</type>
+    <tmdbid>229425</tmdbid>
+  </actor>
+  <actor>
+    <name>François Dagenais</name>
+    <role>Charles</role>
+    <type>Actor</type>
+    <tmdbid>1719958</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico Racicot</name>
+    <role>Photographe</role>
+    <type>Actor</type>
+    <tmdbid>1911965</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianna Corbisiero</name>
+    <role>Metteuse en scène</role>
+    <type>Actor</type>
+    <tmdbid>3023614</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Laurendeau</name>
+    <role>Assistante #1 Claire</role>
+    <type>Actor</type>
+    <tmdbid>2299629</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauriane S. Thibodeau</name>
+    <role>Assistante #2 Claire</role>
+    <type>Actor</type>
+    <tmdbid>3137187</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Boulianne-Tremblay</name>
+    <role>Modèle #1</role>
+    <type>Actor</type>
+    <tmdbid>1679973</tmdbid>
+  </actor>
+  <actor>
+    <name>Dupré Latour</name>
+    <role>Modèle #2</role>
+    <type>Actor</type>
+    <tmdbid>4504023</tmdbid>
+  </actor>
+  <actor>
+    <name>David-Emmanuel Jauniaux</name>
+    <role>Ami d'Édouard</role>
+    <type>Actor</type>
+    <tmdbid>2216504</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Auclair</name>
+    <role>Vendeuse magasin vêtements</role>
+    <type>Actor</type>
+    <tmdbid>4224217</tmdbid>
+  </actor>
+  <actor>
+    <name>Lé Aubin</name>
+    <role>Placier salle de spectacle</role>
+    <type>Actor</type>
+    <tmdbid>2464643</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Potvin</name>
+    <role>Amoureux Frida</role>
+    <type>Actor</type>
+    <tmdbid>2961214</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Beaulieu</name>
+    <role>Admirateur Frida</role>
+    <type>Actor</type>
+    <tmdbid>2297080</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Allain-Vaillant</name>
+    <role>Admirateur Frida</role>
+    <type>Actor</type>
+    <tmdbid>4504027</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Lambert</name>
+    <role>Admirateur Frida</role>
+    <type>Actor</type>
+    <tmdbid>4504030</tmdbid>
+  </actor>
+  <director tmdbid="1195719">Sophie Dupuis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yO6tMRbbA88</trailer>
+  <rating>7.3</rating>
+  <year>2023</year>
+  <sorttitle>Solo</sorttitle>
+  <imdbid>tt27715185</imdbid>
+  <tmdbid>952200</tmdbid>
+  <premiered>2023-09-15</premiered>
+  <releasedate>2023-09-15</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>102</runtime>
+  <country>Canada</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Bravo Charlie</studio>
+  <uniqueid type="tmdb">952200</uniqueid>
+  <uniqueid type="imdb">tt27715185</uniqueid>
+  <id>tt27715185</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1076404</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>524280:219037</aspect>
+        <aspectratio>524280:219037</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6103</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128321</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

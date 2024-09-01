@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Basada en el personaje que protagoniza "Charlie y la fábrica de chocolate", el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, "Wonka" cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día.]]></plot>
+  <outline><![CDATA[Todo lo bueno en este mundo comenzó con un sueño.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-19 21:24:55</dateadded>
+  <title>Wonka</title>
+  <originaltitle>Wonka</originaltitle>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Willy Wonka</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Calah Lane</name>
+    <role>Noodle</role>
+    <type>Actor</type>
+    <tmdbid>1939373</tmdbid>
+  </actor>
+  <actor>
+    <name>Keegan-Michael Key</name>
+    <role>Chief-of-Police</role>
+    <type>Actor</type>
+    <tmdbid>298410</tmdbid>
+    <imdbid>nm1221047</imdbid>
+    <tvdbid>303443</tvdbid>
+  </actor>
+  <actor>
+    <name>Hugh Grant</name>
+    <role>Oompa-Loompa / Lofty</role>
+    <type>Actor</type>
+    <tmdbid>3291</tmdbid>
+    <imdbid>nm0000424</imdbid>
+    <tvdbid>274086</tvdbid>
+  </actor>
+  <actor>
+    <name>Paterson Joseph</name>
+    <role>Arthur Slugworth</role>
+    <type>Actor</type>
+    <tmdbid>19868</tmdbid>
+    <imdbid>nm0430667</imdbid>
+    <tvdbid>261503</tvdbid>
+  </actor>
+  <actor>
+    <name>Olivia Colman</name>
+    <role>Mrs. Scrubbit</role>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+    <tvdbid>300806</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Davis</name>
+    <role>Bleacher</role>
+    <type>Actor</type>
+    <tmdbid>1464254</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Carter</name>
+    <role>Abacus Crunch</role>
+    <type>Actor</type>
+    <tmdbid>20070</tmdbid>
+    <imdbid>nm0141697</imdbid>
+  </actor>
+  <actor>
+    <name>Rowan Atkinson</name>
+    <role>Father Julius</role>
+    <type>Actor</type>
+    <tmdbid>10730</tmdbid>
+    <imdbid>nm0000100</imdbid>
+    <tvdbid>274085</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Lucas</name>
+    <role>Prodnose</role>
+    <type>Actor</type>
+    <tmdbid>26209</tmdbid>
+    <imdbid>nm0524240</imdbid>
+    <tvdbid>263013</tvdbid>
+  </actor>
+  <actor>
+    <name>Mathew Baynton</name>
+    <role>Ficklegruber</role>
+    <type>Actor</type>
+    <tmdbid>1246784</tmdbid>
+    <imdbid>nm2719406</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Rothwell</name>
+    <role>Piper Benz</role>
+    <type>Actor</type>
+    <tmdbid>1546282</tmdbid>
+    <imdbid>nm5625020</imdbid>
+    <tvdbid>654915</tvdbid>
+  </actor>
+  <actor>
+    <name>Rakhee Thakrar</name>
+    <role>Lottie Bell</role>
+    <type>Actor</type>
+    <tmdbid>1147671</tmdbid>
+    <imdbid>nm2332660</imdbid>
+  </actor>
+  <actor>
+    <name>Rich Fulcher</name>
+    <role>Larry Chucklesworth</role>
+    <type>Actor</type>
+    <tmdbid>98106</tmdbid>
+    <imdbid>nm1074245</imdbid>
+    <tvdbid>295066</tvdbid>
+  </actor>
+  <actor>
+    <name>Kobna Holdbrook-Smith</name>
+    <role>Officer Affable</role>
+    <type>Actor</type>
+    <tmdbid>202775</tmdbid>
+    <imdbid>nm1506183</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Farnaby</name>
+    <role>Basil, Zoo Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>114253</tmdbid>
+    <imdbid>nm1375030</imdbid>
+  </actor>
+  <actor>
+    <name>Ellie White</name>
+    <role>Gwennie, Mistress of the Keys</role>
+    <type>Actor</type>
+    <tmdbid>1616784</tmdbid>
+    <tvdbid>7903734</tvdbid>
+  </actor>
+  <actor>
+    <name>Sally Hawkins</name>
+    <role>Willy Wonka's Mother</role>
+    <type>Actor</type>
+    <tmdbid>39658</tmdbid>
+    <imdbid>nm1020089</imdbid>
+    <tvdbid>294946</tvdbid>
+  </actor>
+  <actor>
+    <name>Colin O'Brien</name>
+    <role>Young Willy Wonka</role>
+    <type>Actor</type>
+    <tmdbid>3257962</tmdbid>
+    <tvdbid>8221052</tvdbid>
+  </actor>
+  <actor>
+    <name>Freya Parker</name>
+    <role>Miss Bon Bon</role>
+    <type>Actor</type>
+    <tmdbid>1791508</tmdbid>
+  </actor>
+  <actor>
+    <name>Murray McArthur</name>
+    <role>Ship Captain</role>
+    <type>Actor</type>
+    <tmdbid>1216581</tmdbid>
+    <imdbid>nm0564133</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Ritchie</name>
+    <role>Barbara</role>
+    <type>Actor</type>
+    <tmdbid>1488056</tmdbid>
+    <imdbid>nm2492359</imdbid>
+    <tvdbid>475038</tvdbid>
+  </actor>
+  <actor>
+    <name>Phil Wang</name>
+    <role>Colin</role>
+    <type>Actor</type>
+    <tmdbid>2051018</tmdbid>
+  </actor>
+  <actor>
+    <name>Rufus Jones</name>
+    <role>Jenkins</role>
+    <type>Actor</type>
+    <tmdbid>429541</tmdbid>
+    <imdbid>nm1257480</imdbid>
+  </actor>
+  <actor>
+    <name>Isy Suttie</name>
+    <role>Fruit &amp; Veg Vendor</role>
+    <type>Actor</type>
+    <tmdbid>222186</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Bartholomew</name>
+    <role>Sceptical Old Man</role>
+    <type>Actor</type>
+    <tmdbid>1220370</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Winkleman</name>
+    <role>The Countess</role>
+    <type>Actor</type>
+    <tmdbid>5537</tmdbid>
+    <imdbid>nm1258830</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Edwards</name>
+    <role>Green Skinned Customer</role>
+    <type>Actor</type>
+    <tmdbid>206724</tmdbid>
+    <imdbid>nm1517523</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Abubakar</name>
+    <role>Orange Haired Customer</role>
+    <type>Actor</type>
+    <tmdbid>1870478</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Fitzhigham</name>
+    <role>Sinister Ship’s Captain</role>
+    <type>Actor</type>
+    <tmdbid>1326234</tmdbid>
+    <imdbid>nm1644147</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Bertish</name>
+    <role>Baroness Von Schmeichelhammer</role>
+    <type>Actor</type>
+    <tmdbid>125040</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Ifeachor</name>
+    <role>Dorothy Smith</role>
+    <type>Actor</type>
+    <tmdbid>513385</tmdbid>
+    <imdbid>nm3287940</imdbid>
+    <tvdbid>300405</tvdbid>
+  </actor>
+  <actor>
+    <name>Dominic Coleman</name>
+    <role>Donovan</role>
+    <type>Actor</type>
+    <tmdbid>1365437</tmdbid>
+    <imdbid>nm0171015</imdbid>
+  </actor>
+  <actor>
+    <name>Muzz Khan</name>
+    <role>Oompa Lumpa Guard</role>
+    <type>Actor</type>
+    <tmdbid>1362117</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Howard</name>
+    <role>Oompa Lumpa Guard</role>
+    <type>Actor</type>
+    <tmdbid>1558270</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Pargeter</name>
+    <role>Wendy Chucklesworth</role>
+    <type>Actor</type>
+    <tmdbid>1229307</tmdbid>
+    <imdbid>nm1487813</imdbid>
+  </actor>
+  <actor>
+    <name>Bleu Woodward</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>4438673</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul G. Raymond</name>
+    <role>Map Seller</role>
+    <type>Actor</type>
+    <tmdbid>1951011</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Shepelev</name>
+    <role>Moustachided Little Girl</role>
+    <type>Actor</type>
+    <tmdbid>3548817</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Bye</name>
+    <role>Green-Bearded Customer</role>
+    <type>Actor</type>
+    <tmdbid>2329463</tmdbid>
+    <imdbid>nm4349211</imdbid>
+  </actor>
+  <actor>
+    <name>Robyn Rose</name>
+    <role>Tram Lady 1</role>
+    <type>Actor</type>
+    <tmdbid>3788722</tmdbid>
+  </actor>
+  <actor>
+    <name>Millie O'Donnell</name>
+    <role>Tram Lady 2</role>
+    <type>Actor</type>
+    <tmdbid>4438680</tmdbid>
+  </actor>
+  <actor>
+    <name>Susie Fairfax</name>
+    <role>Abacus Crunch's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2152037</tmdbid>
+  </actor>
+  <actor>
+    <name>Macie Blake</name>
+    <role>Abacus Crunch's Granddaughter (4 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>4438684</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellie Blake</name>
+    <role>Abacus Crunch's Granddaughter (8 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>4438687</tmdbid>
+  </actor>
+  <actor>
+    <name>Matilda Tucker</name>
+    <role>Young Mother</role>
+    <type>Actor</type>
+    <tmdbid>4438689</tmdbid>
+  </actor>
+  <actor>
+    <name>Bertie Caplan</name>
+    <role>Shoeshine Boy</role>
+    <type>Actor</type>
+    <tmdbid>3936192</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustave Die</name>
+    <role>Ship's Engineer</role>
+    <type>Actor</type>
+    <tmdbid>4182558</tmdbid>
+  </actor>
+  <actor>
+    <name>Luan Gallagher</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4462885</tmdbid>
+  </actor>
+  <director tmdbid="101666" imdbid="nm1503726">Paul King</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EJoom2F-7nI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hQdTXGfDWgY</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Wonka</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt6166392</imdbid>
+  <tmdbid>787699</tmdbid>
+  <premiered>2023-12-06</premiered>
+  <releasedate>2023-12-06</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>116</runtime>
+  <tagline>Todo lo bueno en este mundo comenzó con un sueño.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <genre>Fantasía</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Village Roadshow Pictures</studio>
+  <studio>The Roald Dahl Story Company</studio>
+  <studio>Heyday Films</studio>
+  <studio>Domain Entertainment</studio>
+  <uniqueid type="tmdb">787699</uniqueid>
+  <uniqueid type="imdb">tt6166392</uniqueid>
+  <id>tt6166392</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149857</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6973</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130441</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

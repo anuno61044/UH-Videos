@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Irina es una policía impulsiva y madre soltera, que no está en el mejor momento de su profesión. Como si esto fuera poco, recibe una llamada que le anuncia que su madre está gravemente enferma y debe viajar junto a su hija a su ciudad natal, un pueblo remoto de la Patagonia, el lugar del cual escapó hace dos décadas. Luego de hacerse cargo de la situación de su madre y a punto de regresar a su vida, un extraño asesinato de alguien cercano a Irina la mantendrá en ese lugar más de lo esperado. Fruzzetti, el comisario del lugar y padrino de Irina, se ve sobrepasado por el hecho. Irina intentará resolver un caso que hará emerger los oscuros secretos del pequeño pueblo, poniendo en riesgo todo lo que construyó hasta el momento.]]></plot>
+  <outline><![CDATA[Nada permanecerá oculto.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-01 11:04:13</dateadded>
+  <title>Fragmentada</title>
+  <originaltitle>Fragmentada</originaltitle>
+  <actor>
+    <name>Jazmín Stuart</name>
+    <role>Irina</role>
+    <type>Actor</type>
+    <tmdbid>131868</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatriz Spelzini</name>
+    <type>Actor</type>
+    <tmdbid>557733</tmdbid>
+  </actor>
+  <actor>
+    <name>César Bordón</name>
+    <role>Fruzzetti</role>
+    <type>Actor</type>
+    <tmdbid>116362</tmdbid>
+    <imdbid>nm1320600</imdbid>
+    <tvdbid>7946792</tvdbid>
+  </actor>
+  <actor>
+    <name>Marcos Woinsky</name>
+    <role>Fotógrafo</role>
+    <type>Actor</type>
+    <tmdbid>52131</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Pardi</name>
+    <role>Mora</role>
+    <type>Actor</type>
+    <tmdbid>2207076</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Tabachnik</name>
+    <role>Ailén</role>
+    <type>Actor</type>
+    <tmdbid>3746196</tmdbid>
+  </actor>
+  <actor>
+    <name>Juana Bosco</name>
+    <role>Juana</role>
+    <type>Actor</type>
+    <tmdbid>3746198</tmdbid>
+  </actor>
+  <actor>
+    <name>Amancay Espíndola</name>
+    <role>Graciela</role>
+    <type>Actor</type>
+    <tmdbid>1859056</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Quiroz</name>
+    <role>Pehueche</role>
+    <type>Actor</type>
+    <tmdbid>52237</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Krohn</name>
+    <role>Harris</role>
+    <type>Actor</type>
+    <tmdbid>2438174</tmdbid>
+  </actor>
+  <actor>
+    <name>Verónica Schneck</name>
+    <role>Periodista</role>
+    <type>Actor</type>
+    <tmdbid>2765626</tmdbid>
+  </actor>
+  <actor>
+    <name>Julieta Rapalini</name>
+    <role>Camila</role>
+    <type>Actor</type>
+    <tmdbid>3461792</tmdbid>
+  </actor>
+  <actor>
+    <name>María Milessi</name>
+    <role>Asistente Diario</role>
+    <type>Actor</type>
+    <tmdbid>3746203</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Ciatti</name>
+    <role>Fiscal</role>
+    <type>Actor</type>
+    <tmdbid>3746205</tmdbid>
+  </actor>
+  <actor>
+    <name>Fiorella Indelicato</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>3431719</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Katz</name>
+    <role>Maestra</role>
+    <type>Actor</type>
+    <tmdbid>4268491</tmdbid>
+  </actor>
+  <director tmdbid="2476367">Facundo Escudero Salinas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1vqyfkFMkos</trailer>
+  <rating>5.5</rating>
+  <year>2023</year>
+  <sorttitle>Fragmentada</sorttitle>
+  <imdbid>tt5810042</imdbid>
+  <tmdbid>890338</tmdbid>
+  <premiered>2023-08-03</premiered>
+  <releasedate>2023-08-03</releasedate>
+  <runtime>104</runtime>
+  <tagline>Nada permanecerá oculto.</tagline>
+  <country>Argentina</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <genre>Crimen</genre>
+  <studio>Pensilvania Films</studio>
+  <studio>U-FILMS</studio>
+  <uniqueid type="imdb">tt5810042</uniqueid>
+  <uniqueid type="tmdb">890338</uniqueid>
+  <id>tt5810042</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1039713</bitrate>
+        <width>1720</width>
+        <height>720</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>29.97</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6212</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64648</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

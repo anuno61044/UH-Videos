@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alice (Anna Kendrick) es una mujer al límite. A sus treinta años, vive una situación de maltrato psicológico perpetuado por su novio, Simon, que la tiene atrapada en un estado de parálisis. Durante unas vacaciones en el campo con sus dos mejores amigas, Alice redescubrirá la esencia de sí misma y por fin adquirirá la perspectiva que tanto necesita. Sin embargo, la venganza de Simon por la fuga inesperada de su pareja es tan inevitable como demoledora y, una vez desatada, pondrá a prueba la resistencia de Alice, su valor, y la fortaleza de su lazo con sus amigas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-02 11:43:55</dateadded>
+  <title>Alice, cariño</title>
+  <originaltitle>Alice, Darling</originaltitle>
+  <actor>
+    <name>Anna Kendrick</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>84223</tmdbid>
+    <imdbid>nm0447695</imdbid>
+  </actor>
+  <actor>
+    <name>Kaniehtiio Horn</name>
+    <role>Tess</role>
+    <type>Actor</type>
+    <tmdbid>70787</tmdbid>
+    <imdbid>nm1503416</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Carrick</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>209673</tmdbid>
+  </actor>
+  <actor>
+    <name>Wunmi Mosaku</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>134774</tmdbid>
+    <imdbid>nm2148911</imdbid>
+    <tvdbid>490014</tvdbid>
+  </actor>
+  <actor>
+    <name>Markjan Winnick</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>2449974</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Stolfi</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>1667974</tmdbid>
+    <imdbid>nm2627929</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Applewhaite</name>
+    <role>Volunteer #2</role>
+    <type>Actor</type>
+    <tmdbid>3638891</tmdbid>
+  </actor>
+  <actor>
+    <name>Mairi Babb</name>
+    <role>Volunteer #1</role>
+    <type>Actor</type>
+    <tmdbid>2636476</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Bradeen</name>
+    <role>Volunteer #4</role>
+    <type>Actor</type>
+    <tmdbid>1182675</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Ellwand</name>
+    <role>Customer #2</role>
+    <type>Actor</type>
+    <tmdbid>1482634</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolyn Fe</name>
+    <role>Customer</role>
+    <type>Actor</type>
+    <tmdbid>1519245</tmdbid>
+    <imdbid>nm4002942</imdbid>
+  </actor>
+  <actor>
+    <name>Deborah Grover</name>
+    <role>Volunteer #3</role>
+    <type>Actor</type>
+    <tmdbid>58803</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Harper</name>
+    <role>Fawning Sycophant</role>
+    <type>Actor</type>
+    <tmdbid>2675420</tmdbid>
+  </actor>
+  <actor>
+    <name>James M. Jenkinson</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>3016828</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Leese</name>
+    <role>Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1447213</tmdbid>
+  </actor>
+  <actor>
+    <name>Farah Merani</name>
+    <role>Host</role>
+    <type>Actor</type>
+    <tmdbid>1768518</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Mitchell</name>
+    <role>Hot Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3819123</tmdbid>
+  </actor>
+  <actor>
+    <name>Viviana Zarrillo</name>
+    <role>Store Owner</role>
+    <type>Actor</type>
+    <tmdbid>1130514</tmdbid>
+  </actor>
+  <director tmdbid="19774">Mary Nighy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2D2ZRfqKUD4</trailer>
+  <rating>5.5</rating>
+  <year>2022</year>
+  <sorttitle>Alice, carino</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11687104</imdbid>
+  <tmdbid>850028</tmdbid>
+  <premiered>2022-12-30</premiered>
+  <releasedate>2022-12-30</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>89</runtime>
+  <country>Canada</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Lionsgate</studio>
+  <studio>Elevation Pictures</studio>
+  <studio>Ontario Creates</studio>
+  <studio>Babe Nation Films</studio>
+  <studio>Castelletto Films</studio>
+  <uniqueid type="tmdb">850028</uniqueid>
+  <uniqueid type="imdb">tt11687104</uniqueid>
+  <id>tt11687104</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100430</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5366</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

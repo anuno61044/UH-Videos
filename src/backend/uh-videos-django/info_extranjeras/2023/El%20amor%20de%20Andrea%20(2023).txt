@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Andrea, una joven de 15 años, quiere recuperar el amor de su padre, que desapareció de sus vidas cuando se divorció de su madre. Andrea recuerda a un padre amoroso y no puede entender por qué ahora no quiere ver a sus hijos. Tomás y Fidel, sus dos hermanos pequeños, son sus compañeros infatigables en esta aventura que habla de amor, familia y desencanto.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-14 09:03:56</dateadded>
+  <title>El amor de Andrea</title>
+  <originaltitle>El amor de Andrea</originaltitle>
+  <director tmdbid="79000">Manuel Martín Cuenca</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hfngpdlN3I8</trailer>
+  <rating>0</rating>
+  <year>2023</year>
+  <sorttitle>amor de Andrea</sorttitle>
+  <imdbid>tt21880610</imdbid>
+  <tmdbid>1053995</tmdbid>
+  <premiered>2023-11-24</premiered>
+  <releasedate>2023-11-24</releasedate>
+  <runtime>101</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="imdb">tt21880610</uniqueid>
+  <uniqueid type="tmdb">1053995</uniqueid>
+  <id>tt21880610</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>198680</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6043</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63816</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

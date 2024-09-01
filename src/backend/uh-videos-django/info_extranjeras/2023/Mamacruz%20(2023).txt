@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cruz es una abuela que lleva muchos años, décadas ya, sin saber lo que es un orgasmo. Ella, devota de sus creencias religiosas, no le daba importancia ni tampoco se lo había planteado... hasta que un día navegando por Internet empieza a sentir de nuevo deseos y sensaciones que ya creía extinguidas. Pero, ¿cómo compaginar sus creencias con este nuevo despertar sexual y sensual que ha llegado de pronto a su vida?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-27 20:36:04</dateadded>
+  <title>Mamacruz</title>
+  <originaltitle>Mamacruz</originaltitle>
+  <actor>
+    <name>Kiti Mánver</name>
+    <role>Cruz</role>
+    <type>Actor</type>
+    <tmdbid>16975</tmdbid>
+    <imdbid>nm0544330</imdbid>
+  </actor>
+  <actor>
+    <name>Pepe Quero</name>
+    <role>Eduardo</role>
+    <type>Actor</type>
+    <tmdbid>1769006</tmdbid>
+  </actor>
+  <actor>
+    <name>Inés Benítez Viñuela</name>
+    <type>Actor</type>
+    <tmdbid>3886738</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvia Acosta</name>
+    <role>Carlota</role>
+    <type>Actor</type>
+    <tmdbid>2596967</tmdbid>
+  </actor>
+  <actor>
+    <name>Mari Paz Sayago</name>
+    <role>Marina</role>
+    <type>Actor</type>
+    <tmdbid>1042760</tmdbid>
+    <imdbid>nm2097714</imdbid>
+    <tvdbid>539110</tvdbid>
+  </actor>
+  <actor>
+    <name>María José Mariscal</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1257801</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Díaz</name>
+    <role>Chica liturgia</role>
+    <type>Actor</type>
+    <tmdbid>3015022</tmdbid>
+  </actor>
+  <actor>
+    <name>Loles Gutiérrez</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>3886740</tmdbid>
+  </actor>
+  <actor>
+    <name>Úrsula Díaz Manzano</name>
+    <type>Actor</type>
+    <tmdbid>3776150</tmdbid>
+  </actor>
+  <director tmdbid="1340863" imdbid="nm1952204">Patricia Ortega</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=965SCf8ftb0</trailer>
+  <rating>7.5</rating>
+  <year>2023</year>
+  <sorttitle>Mamacruz</sorttitle>
+  <imdbid>tt12390330</imdbid>
+  <tmdbid>1058634</tmdbid>
+  <premiered>2023-10-27</premiered>
+  <releasedate>2023-10-27</releasedate>
+  <runtime>79</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>La Cruda Realidad</studio>
+  <studio>Pecado Films</studio>
+  <studio>Mamacruz A.I.E.</studio>
+  <studio>Mandrágora Films Zulia, C.A.</studio>
+  <uniqueid type="imdb">tt12390330</uniqueid>
+  <uniqueid type="tmdb">1058634</uniqueid>
+  <id>tt12390330</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>137893</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>79</duration>
+        <durationinseconds>4759</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63833</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

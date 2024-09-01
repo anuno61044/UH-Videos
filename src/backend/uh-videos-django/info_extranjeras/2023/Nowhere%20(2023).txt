@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Embarazada, sola y a la deriva en el mar, una mujer encerrada en un contenedor de mercancías trata de sobrevivir tras escapar de un país totalitario devastado.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-29 07:59:11</dateadded>
+  <title>Nowhere</title>
+  <originaltitle>Nowhere</originaltitle>
+  <actor>
+    <name>Anna Castillo</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Tamar Novas</name>
+    <role>Nico</role>
+    <type>Actor</type>
+    <tmdbid>33411</tmdbid>
+    <imdbid>nm0636991</imdbid>
+    <tvdbid>526010</tvdbid>
+  </actor>
+  <actor>
+    <name>Irina Bravo</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>2088920</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Teijeiro</name>
+    <role>Vicky</role>
+    <type>Actor</type>
+    <tmdbid>1076957</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia Soria</name>
+    <role>Addlescente</role>
+    <type>Actor</type>
+    <tmdbid>1831097</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Ruiz</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+    <tmdbid>3224246</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Corvillo</name>
+    <role>Gil</role>
+    <type>Actor</type>
+    <tmdbid>1047252</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariam Torres</name>
+    <role>Lucia</role>
+    <type>Actor</type>
+    <tmdbid>1531149</tmdbid>
+  </actor>
+  <actor>
+    <name>Edu Bulnes</name>
+    <role>Andres</role>
+    <type>Actor</type>
+    <tmdbid>1093278</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Buíl</name>
+    <role>Conductor Camion</role>
+    <type>Actor</type>
+    <tmdbid>232658</tmdbid>
+  </actor>
+  <actor>
+    <name>Said El Mouden</name>
+    <role>Traficante Lider</role>
+    <type>Actor</type>
+    <tmdbid>1105226</tmdbid>
+    <imdbid>nm1463276</imdbid>
+    <tvdbid>667987</tvdbid>
+  </actor>
+  <actor>
+    <name>Kaabil Sekali</name>
+    <role>Traficante</role>
+    <type>Actor</type>
+    <tmdbid>4044250</tmdbid>
+  </actor>
+  <actor>
+    <name>Saorla Wright</name>
+    <role>Hija Pescador</role>
+    <type>Actor</type>
+    <tmdbid>1828888</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Sánchez</name>
+    <role>Uma</role>
+    <type>Actor</type>
+    <tmdbid>3707333</tmdbid>
+  </actor>
+  <director tmdbid="1485396" imdbid="nm3691012">Albert Pintó</director>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Nowhere</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15789472</imdbid>
+  <tmdbid>1151534</tmdbid>
+  <premiered>2023-09-29</premiered>
+  <releasedate>2023-09-29</releasedate>
+  <runtime>109</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Rock &amp; Ruz</studio>
+  <uniqueid type="imdb">tt15789472</uniqueid>
+  <uniqueid type="tmdb">1151534</uniqueid>
+  <id>tt15789472</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1228541</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6566</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63835</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

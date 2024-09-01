@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra la increíble y revolucionaria asociación entre Michael Jordan -un novato en ese momento- y la incipiente sección de baloncesto de Nike que revolucionó el mundo del deporte y la cultura contemporánea con la marca Air Jordan. Cuenta la atrevida apuesta que definió la carrera de un equipo poco convencional, la visión implacable de una madre que conoce el valor del inmenso talento de su hijo y el fenómeno del baloncesto que se convertiría en el más grande de todos los tiempos.]]></plot>
+  <outline><![CDATA[Hay iconos que nacieron para volar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-15 08:47:11</dateadded>
+  <title>Air</title>
+  <originaltitle>Air</originaltitle>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Sonny Vaccaro</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Phil Knight</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Bateman</name>
+    <role>Rob Strasser</role>
+    <type>Actor</type>
+    <tmdbid>23532</tmdbid>
+    <imdbid>nm0000867</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Messina</name>
+    <role>David Falk</role>
+    <type>Actor</type>
+    <tmdbid>61659</tmdbid>
+    <imdbid>nm0582149</imdbid>
+    <tvdbid>325134</tvdbid>
+  </actor>
+  <actor>
+    <name>Viola Davis</name>
+    <role>Deloris Jordan</role>
+    <type>Actor</type>
+    <tmdbid>19492</tmdbid>
+    <imdbid>nm0205626</imdbid>
+    <tvdbid>269662</tvdbid>
+  </actor>
+  <actor>
+    <name>Julius Tennon</name>
+    <role>James Jordan</role>
+    <type>Actor</type>
+    <tmdbid>156405</tmdbid>
+    <imdbid>nm0855132</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Tucker</name>
+    <role>Howard White</role>
+    <type>Actor</type>
+    <tmdbid>66</tmdbid>
+    <imdbid>nm0000676</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Maher</name>
+    <role>Peter Moore</role>
+    <type>Actor</type>
+    <tmdbid>1232599</tmdbid>
+    <imdbid>nm0536866</imdbid>
+    <tvdbid>316693</tvdbid>
+  </actor>
+  <actor>
+    <name>Gustaf Skarsgård</name>
+    <role>Horst Dassler</role>
+    <type>Actor</type>
+    <tmdbid>63764</tmdbid>
+    <imdbid>nm0803890</imdbid>
+    <tvdbid>452642</tvdbid>
+  </actor>
+  <actor>
+    <name>Damian Young</name>
+    <role>Michael Jordan</role>
+    <type>Actor</type>
+    <tmdbid>3968886</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Sukowa</name>
+    <role>Kathy Dassler</role>
+    <type>Actor</type>
+    <tmdbid>23378</tmdbid>
+    <imdbid>nm0837784</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Mohr</name>
+    <role>John Fisher</role>
+    <type>Actor</type>
+    <tmdbid>12217</tmdbid>
+    <imdbid>nm0001542</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Gretsch</name>
+    <role>John O'Neil</role>
+    <type>Actor</type>
+    <tmdbid>25376</tmdbid>
+    <imdbid>nm0340408</imdbid>
+    <tvdbid>267707</tvdbid>
+  </actor>
+  <actor>
+    <name>Marlon Wayans</name>
+    <role>George Raveling</role>
+    <type>Actor</type>
+    <tmdbid>9562</tmdbid>
+    <imdbid>nm0005541</imdbid>
+    <tvdbid>266747</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Bucatinsky</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>87034</tmdbid>
+    <imdbid>nm0117857</imdbid>
+    <tvdbid>290260</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael O'Neill</name>
+    <role>Joe Dean</role>
+    <type>Actor</type>
+    <tmdbid>21710</tmdbid>
+    <imdbid>nm0642259</imdbid>
+    <tvdbid>281452</tvdbid>
+  </actor>
+  <actor>
+    <name>Asanté Deshon</name>
+    <role>7-Eleven Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3968887</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Smith</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>1218180</tmdbid>
+    <imdbid>nm1577957</imdbid>
+  </actor>
+  <actor>
+    <name>Al Madrigal</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>90534</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Damon</name>
+    <role>Stan</role>
+    <type>Actor</type>
+    <tmdbid>1730746</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Green</name>
+    <role>Katrina Sainz</role>
+    <type>Actor</type>
+    <tmdbid>1255055</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Bourne</name>
+    <role>Tiffany</role>
+    <type>Actor</type>
+    <tmdbid>1850158</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Funk</name>
+    <role>Yes Man</role>
+    <type>Actor</type>
+    <tmdbid>1521489</tmdbid>
+    <imdbid>nm1554650</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Hirsch</name>
+    <role>Robinson</role>
+    <type>Actor</type>
+    <tmdbid>1327400</tmdbid>
+  </actor>
+  <actor>
+    <name>Tami Jordan</name>
+    <role>Sports Book Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3968888</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Cook</name>
+    <role>Jeff</role>
+    <type>Actor</type>
+    <tmdbid>3968889</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Stroth</name>
+    <role>Al</role>
+    <type>Actor</type>
+    <tmdbid>2509552</tmdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Rayne</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>2433405</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Plummer</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3968890</tmdbid>
+  </actor>
+  <actor>
+    <name>Haylee Baldwin</name>
+    <role>Hostess (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4057792</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Davis</name>
+    <role>Restaurant Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>582821</tmdbid>
+  </actor>
+  <actor>
+    <name>Martina De Leon Diaz</name>
+    <role>Basketball Mom (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4057793</tmdbid>
+  </actor>
+  <actor>
+    <name>Ure Egbuho</name>
+    <role>Nike Lab Technician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4057794</tmdbid>
+  </actor>
+  <actor>
+    <name>Dempsey Gibson</name>
+    <role>Parent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3754488</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Gould</name>
+    <role>Workshop Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1264553</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Allan Jones</name>
+    <role>Nike Staff (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1358567</tmdbid>
+    <imdbid>nm3525905</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Papa</name>
+    <role>Stu Inman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>170364</tmdbid>
+    <imdbid>nm1166844</imdbid>
+  </actor>
+  <actor>
+    <name>LeChristopher Williams</name>
+    <role>Runner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4057795</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Jordan</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>23678</tmdbid>
+    <imdbid>nm0003044</imdbid>
+  </actor>
+  <actor>
+    <name>Deloris Jordan</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2490334</tmdbid>
+  </actor>
+  <actor>
+    <name>Barack Obama</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>102786</tmdbid>
+    <imdbid>nm1682433</imdbid>
+  </actor>
+  <director tmdbid="880" imdbid="nm0000255">Ben Affleck</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KBiw_HbryZs</trailer>
+  <rating>7.4</rating>
+  <year>2023</year>
+  <sorttitle>Air</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt16419074</imdbid>
+  <tmdbid>964980</tmdbid>
+  <premiered>2023-04-05</premiered>
+  <releasedate>2023-04-05</releasedate>
+  <runtime>114</runtime>
+  <tagline>Hay iconos que nacieron para volar.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Amazon Studios</studio>
+  <studio>Skydance Sports</studio>
+  <studio>Mandalay Pictures</studio>
+  <studio>Artists Equity</studio>
+  <uniqueid type="imdb">tt16419074</uniqueid>
+  <uniqueid type="tmdb">964980</uniqueid>
+  <id>tt16419074</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100393</bitrate>
+        <width>720</width>
+        <height>390</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6850</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

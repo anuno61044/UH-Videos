@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Inspired by millions of UPSC students' lives and struggles, the story follows Manoj, who fails his 12th grade. But how he restarts his journey towards his dream of serving the country forms the crux. 12th Fail goes beyond that one exam and looks at the education system in the country while encouraging people not to give up amid failures.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-30 18:17:19</dateadded>
+  <title>12th Fail</title>
+  <originaltitle>12th Fail</originaltitle>
+  <actor>
+    <name>Vikrant Massey</name>
+    <role>Manoj Kumar Sharma</role>
+    <type>Actor</type>
+    <tmdbid>1208682</tmdbid>
+  </actor>
+  <actor>
+    <name>Medha Shankar</name>
+    <role>Shraddha Joshi</role>
+    <type>Actor</type>
+    <tmdbid>3112841</tmdbid>
+  </actor>
+  <actor>
+    <name>Anant Joshi</name>
+    <role>Pritam Pandey</role>
+    <type>Actor</type>
+    <tmdbid>2039294</tmdbid>
+  </actor>
+  <actor>
+    <name>Anshumaan Pushkar</name>
+    <role>Gaurinandan</role>
+    <type>Actor</type>
+    <tmdbid>3063739</tmdbid>
+  </actor>
+  <actor>
+    <name>Geeta Agrawal Sharma</name>
+    <role>Pushpa Sharma</role>
+    <type>Actor</type>
+    <tmdbid>1197127</tmdbid>
+  </actor>
+  <actor>
+    <name>Priyanshu Chatterjee</name>
+    <role>Dushyant Singh</role>
+    <type>Actor</type>
+    <tmdbid>86622</tmdbid>
+  </actor>
+  <actor>
+    <name>Vikas Divyakirti</name>
+    <role>Vikas Divyakirti</role>
+    <type>Actor</type>
+    <tmdbid>4304141</tmdbid>
+  </actor>
+  <actor>
+    <name>Harish Khanna</name>
+    <role>Ramveer Sharma</role>
+    <type>Actor</type>
+    <tmdbid>1664858</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarita Joshi</name>
+    <role>Dadi</role>
+    <type>Actor</type>
+    <tmdbid>1856634</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Mohan</name>
+    <type>Actor</type>
+    <tmdbid>2523393</tmdbid>
+  </actor>
+  <director tmdbid="99710">Vidhu Vinod Chopra</director>
+  <rating>9.2</rating>
+  <year>2023</year>
+  <sorttitle>12th Fail</sorttitle>
+  <imdbid>tt23849204</imdbid>
+  <tmdbid>1163258</tmdbid>
+  <premiered>2023-10-27</premiered>
+  <releasedate>2023-10-27</releasedate>
+  <runtime>147</runtime>
+  <country>India</country>
+  <genre>Drama</genre>
+  <studio>Vidhu Vinod Chopra Productions</studio>
+  <studio>Zee Studios</studio>
+  <studio>KRG Studios</studio>
+  <uniqueid type="tmdb">1163258</uniqueid>
+  <uniqueid type="imdb">tt23849204</uniqueid>
+  <id>tt23849204</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149852</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>60</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>146</duration>
+        <durationinseconds>8814</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129682</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nos descubre el disparatado caso real de gente corriente que consiguió jugársela a Wall Street y se hizo rica convirtiendo GameStop (una popular tienda de videojuegos y electrónica) en la empresa más candente del mundo. En medio de todo este embrollo se encuentra Keith Gill (Paul Dano), un tipo cualquiera que invirtió los ahorros de su vida en acciones y empezó a publicar sobre ello en redes sociales. Gracias a sus consejos bursátiles, su popularidad estalló, al igual que lo hizo su vida y la de todos sus seguidores, que empezaron a enriquecerse de la noche a la mañana. No obstante, los multimillonarios no tardaron en contratacar, desencadenando una de las batallas financieras más feroces vividas en Wall Street.]]></plot>
+  <outline><![CDATA[Cuando Wall Street manipuló el juego, lo cambió.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-07 07:32:43</dateadded>
+  <title>Golpe a Wall Street</title>
+  <originaltitle>Dumb Money</originaltitle>
+  <actor>
+    <name>Paul Dano</name>
+    <role>Keith Gill</role>
+    <type>Actor</type>
+    <tmdbid>17142</tmdbid>
+    <imdbid>nm0200452</imdbid>
+    <tvdbid>296973</tvdbid>
+  </actor>
+  <actor>
+    <name>Shailene Woodley</name>
+    <role>Caroline Gill</role>
+    <type>Actor</type>
+    <tmdbid>94185</tmdbid>
+    <imdbid>nm0940362</imdbid>
+  </actor>
+  <actor>
+    <name>America Ferrera</name>
+    <role>Jenny Campbell</role>
+    <type>Actor</type>
+    <tmdbid>59174</tmdbid>
+    <imdbid>nm1065229</imdbid>
+    <tvdbid>311335</tvdbid>
+  </actor>
+  <actor>
+    <name>Pete Davidson</name>
+    <role>Kevin Gill</role>
+    <type>Actor</type>
+    <tmdbid>1427948</tmdbid>
+    <imdbid>nm0203457</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Rogen</name>
+    <role>Gabe Plotkin</role>
+    <type>Actor</type>
+    <tmdbid>19274</tmdbid>
+    <imdbid>nm0736622</imdbid>
+    <tvdbid>296972</tvdbid>
+  </actor>
+  <actor>
+    <name>Myha'la Herrold</name>
+    <role>Riri</role>
+    <type>Actor</type>
+    <tmdbid>2673750</tmdbid>
+    <imdbid>nm9684601</imdbid>
+  </actor>
+  <actor>
+    <name>Talia Ryder</name>
+    <role>Harmony</role>
+    <type>Actor</type>
+    <tmdbid>2475409</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Ramos</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>1560244</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Offerman</name>
+    <role>Ken Griffin</role>
+    <type>Actor</type>
+    <tmdbid>17039</tmdbid>
+    <imdbid>nm0644406</imdbid>
+    <tvdbid>270246</tvdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>Vlad Tenev</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+    <tvdbid>341591</tvdbid>
+  </actor>
+  <actor>
+    <name>Rushi Kota</name>
+    <role>Baiju Bhatt</role>
+    <type>Actor</type>
+    <tmdbid>1862568</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Burton</name>
+    <role>Elaine Gill</role>
+    <type>Actor</type>
+    <tmdbid>20879</tmdbid>
+    <imdbid>nm0123632</imdbid>
+    <tvdbid>312595</tvdbid>
+  </actor>
+  <actor>
+    <name>Clancy Brown</name>
+    <role>Steve Gill</role>
+    <type>Actor</type>
+    <tmdbid>6574</tmdbid>
+    <imdbid>nm0000317</imdbid>
+    <tvdbid>279102</tvdbid>
+  </actor>
+  <actor>
+    <name>Vincent D'Onofrio</name>
+    <role>Steven A. Cohen</role>
+    <type>Actor</type>
+    <tmdbid>7132</tmdbid>
+    <imdbid>nm0000352</imdbid>
+    <tvdbid>273492</tvdbid>
+  </actor>
+  <actor>
+    <name>Olivia Thirlby</name>
+    <role>Yaara Bank-Plotkin</role>
+    <type>Actor</type>
+    <tmdbid>52442</tmdbid>
+    <imdbid>nm1880888</imdbid>
+    <tvdbid>471908</tvdbid>
+  </actor>
+  <actor>
+    <name>Dane DeHaan</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>122889</tmdbid>
+    <imdbid>nm2851530</imdbid>
+    <tvdbid>462667</tvdbid>
+  </actor>
+  <actor>
+    <name>Larry Owens</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>2462879</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Cárdenas</name>
+    <role>Roommate</role>
+    <type>Actor</type>
+    <tmdbid>4300676</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Tyler Torres</name>
+    <role>Axl Campbell</role>
+    <type>Actor</type>
+    <tmdbid>4300677</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Calero</name>
+    <role>Beau Campbell</role>
+    <type>Actor</type>
+    <tmdbid>4300678</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Rodriguez</name>
+    <role>Marco's Father</role>
+    <type>Actor</type>
+    <tmdbid>164415</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosalie Berrido</name>
+    <role>Marco's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4300680</tmdbid>
+  </actor>
+  <actor>
+    <name>Zora Casebere</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1972168</tmdbid>
+  </actor>
+  <actor>
+    <name>Deniz Akdeniz</name>
+    <role>Briggsy</role>
+    <type>Actor</type>
+    <tmdbid>145246</tmdbid>
+    <tvdbid>476235</tvdbid>
+  </actor>
+  <actor>
+    <name>Avery Cole</name>
+    <role>Waitress at Bar</role>
+    <type>Actor</type>
+    <tmdbid>3462016</tmdbid>
+  </actor>
+  <actor>
+    <name>Denis Ooi</name>
+    <role>Duke</role>
+    <type>Actor</type>
+    <tmdbid>2560239</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Brucato</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>69483</tmdbid>
+  </actor>
+  <actor>
+    <name>David Faber</name>
+    <role>David Faber</role>
+    <type>Actor</type>
+    <tmdbid>2212299</tmdbid>
+  </actor>
+  <actor>
+    <name>Khaya Fraites</name>
+    <role>Protestor #1</role>
+    <type>Actor</type>
+    <tmdbid>3634143</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucille Bhisitkul</name>
+    <role>Protestor #2</role>
+    <type>Actor</type>
+    <tmdbid>4300682</tmdbid>
+  </actor>
+  <actor>
+    <name>Leyla Eden</name>
+    <role>Baby Daughter Gill</role>
+    <type>Actor</type>
+    <tmdbid>4300684</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Eden</name>
+    <role>Baby Daughter Gill</role>
+    <type>Actor</type>
+    <tmdbid>4300686</tmdbid>
+  </actor>
+  <actor>
+    <name>Anwar Hernandez</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>4300688</tmdbid>
+  </actor>
+  <actor>
+    <name>Anwar Wolf</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2254983</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian David Tracy</name>
+    <role>Mr. Donaldson</role>
+    <type>Actor</type>
+    <tmdbid>2148693</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Marie Yoo</name>
+    <role>Hospital Tech</role>
+    <type>Actor</type>
+    <tmdbid>2846064</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Formosa</name>
+    <role>Hospital Administrator</role>
+    <type>Actor</type>
+    <tmdbid>4300691</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Hayes</name>
+    <role>Norman Ashkenas</role>
+    <type>Actor</type>
+    <tmdbid>187681</tmdbid>
+  </actor>
+  <actor>
+    <name>Dillon Geyselaers</name>
+    <role>Fan</role>
+    <type>Actor</type>
+    <tmdbid>3293616</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Burton</name>
+    <role>Process Server</role>
+    <type>Actor</type>
+    <tmdbid>1547515</tmdbid>
+    <imdbid>nm5004140</imdbid>
+  </actor>
+  <actor>
+    <name>Kristin Carey</name>
+    <role>Gabe's Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>173180</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Hansinger</name>
+    <role>Gabe's PR Person</role>
+    <type>Actor</type>
+    <tmdbid>2837521</tmdbid>
+  </actor>
+  <actor>
+    <name>Sal Rendino</name>
+    <role>Ken's Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>154579</tmdbid>
+    <imdbid>nm0719355</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Reich</name>
+    <role>Ken's Lawyer #2</role>
+    <type>Actor</type>
+    <tmdbid>2751902</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Matthew White</name>
+    <role>Steve's Stretcher</role>
+    <type>Actor</type>
+    <tmdbid>2970334</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Ryan Griffin</name>
+    <role>Gamestop Customer</role>
+    <type>Actor</type>
+    <tmdbid>4300692</tmdbid>
+  </actor>
+  <actor>
+    <name>Teddy Day</name>
+    <role>Gabe's Son</role>
+    <type>Actor</type>
+    <tmdbid>3586252</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Fikhman</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>4057898</tmdbid>
+  </actor>
+  <actor>
+    <name>Winslow Bright</name>
+    <role>Whispering Woman</role>
+    <type>Actor</type>
+    <tmdbid>2523953</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Goncalves Coelho</name>
+    <role>Professor</role>
+    <type>Actor</type>
+    <tmdbid>4300695</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlize Orr</name>
+    <role>Baiju Bhatt Baby</role>
+    <type>Actor</type>
+    <tmdbid>4248135</tmdbid>
+  </actor>
+  <actor>
+    <name>Chasity Orr</name>
+    <role>Baiju Bhatt Baby</role>
+    <type>Actor</type>
+    <tmdbid>4300696</tmdbid>
+  </actor>
+  <actor>
+    <name>Faith Taylor</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>4147761</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Fowler</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>4300699</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeshaun Saleem</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>4300700</tmdbid>
+  </actor>
+  <actor>
+    <name>Zac Branciforte</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>4300701</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Simpson</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>4300702</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Lucas</name>
+    <role>College Kid</role>
+    <type>Actor</type>
+    <tmdbid>3218986</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Maverick White</name>
+    <role>College kid</role>
+    <type>Actor</type>
+    <tmdbid>3542512</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Simone</name>
+    <role>Congressman</role>
+    <type>Actor</type>
+    <tmdbid>1335988</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirk Moody</name>
+    <role>Bald Bearded Guy</role>
+    <type>Actor</type>
+    <tmdbid>4300703</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Wayne</name>
+    <role>Long Hair Guy</role>
+    <type>Actor</type>
+    <tmdbid>4300705</tmdbid>
+  </actor>
+  <actor>
+    <name>Merrick Hanna</name>
+    <role>Skit Guy</role>
+    <type>Actor</type>
+    <tmdbid>2246707</tmdbid>
+  </actor>
+  <actor>
+    <name>Artoun Nazareth</name>
+    <role>Guy with a Hat</role>
+    <type>Actor</type>
+    <tmdbid>2682377</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Jo</name>
+    <role>Guy with a Hoodie</role>
+    <type>Actor</type>
+    <tmdbid>2568594</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Briddell</name>
+    <role>Stop the Game Guy</role>
+    <type>Actor</type>
+    <tmdbid>4300712</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaliswa Brewster</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1870755</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Fein</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1105658</tmdbid>
+  </actor>
+  <actor>
+    <name>Dann Fink</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4300714</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Gray</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>65590</tmdbid>
+    <imdbid>nm0336523</imdbid>
+  </actor>
+  <actor>
+    <name>Jess Kaliban</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4300716</tmdbid>
+  </actor>
+  <actor>
+    <name>Trevor McGhie</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4300717</tmdbid>
+  </actor>
+  <actor>
+    <name>Turna Mete</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1471508</tmdbid>
+  </actor>
+  <actor>
+    <name>Richie Moriarty</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1493747</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Parson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3335449</tmdbid>
+  </actor>
+  <actor>
+    <name>Armando Riesco</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19497</tmdbid>
+    <imdbid>nm1269976</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Soler</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>103547</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandria Ocasio-Cortez</name>
+    <role>Herself (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2073292</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Portnoy</name>
+    <role>Himself (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3013690</tmdbid>
+  </actor>
+  <director tmdbid="50767" imdbid="nm0318916">Craig Gillespie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWsDYJIi1pw</trailer>
+  <rating>6.9</rating>
+  <year>2023</year>
+  <sorttitle>Golpe a Wall Street</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13957560</imdbid>
+  <tmdbid>792293</tmdbid>
+  <premiered>2023-09-15</premiered>
+  <releasedate>2023-09-15</releasedate>
+  <runtime>105</runtime>
+  <tagline>Cuando Wall Street manipuló el juego, lo cambió.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Black Bear Pictures</studio>
+  <studio>Ryder Picture Company</studio>
+  <studio>Winklevoss Pictures</studio>
+  <uniqueid type="tmdb">792293</uniqueid>
+  <uniqueid type="imdb">tt13957560</uniqueid>
+  <id>tt13957560</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149440</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6300</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130523</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

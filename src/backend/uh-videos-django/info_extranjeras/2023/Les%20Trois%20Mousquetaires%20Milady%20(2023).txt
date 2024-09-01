@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Desde el museo del Louvre al Palacio de Buckingham, pasando por las alcantarillas de París al asedio de La Rochelle... En un reino dividido por guerras religiosas y bajo la amenaza constante de la invasión británica, un grupo de hombres y mujeres empuñarán sus espadas y unirán su destino al de Francia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-31 08:47:41</dateadded>
+  <title>Los Tres Mosqueteros: Milady</title>
+  <originaltitle>Les trois mousquetaires : Milady</originaltitle>
+  <actor>
+    <name>François Civil</name>
+    <role>D'Artagnan</role>
+    <type>Actor</type>
+    <tmdbid>78124</tmdbid>
+    <imdbid>nm2476624</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Athos</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+    <tvdbid>307583</tvdbid>
+  </actor>
+  <actor>
+    <name>Romain Duris</name>
+    <role>Aramis</role>
+    <type>Actor</type>
+    <tmdbid>17497</tmdbid>
+    <imdbid>nm0244151</imdbid>
+  </actor>
+  <actor>
+    <name>Pio Marmaï</name>
+    <role>Porthos</role>
+    <type>Actor</type>
+    <tmdbid>146287</tmdbid>
+    <imdbid>nm2847812</imdbid>
+  </actor>
+  <actor>
+    <name>Eva Green</name>
+    <role>Milady</role>
+    <type>Actor</type>
+    <tmdbid>10912</tmdbid>
+    <imdbid>nm1200692</imdbid>
+    <tvdbid>327300</tvdbid>
+  </actor>
+  <actor>
+    <name>Lyna Khoudri</name>
+    <role>Constance Bonacieux</role>
+    <type>Actor</type>
+    <tmdbid>1886168</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Garrel</name>
+    <role>Louis XIII</role>
+    <type>Actor</type>
+    <tmdbid>16269</tmdbid>
+    <imdbid>nm0308039</imdbid>
+    <tvdbid>595206</tvdbid>
+  </actor>
+  <actor>
+    <name>Vicky Krieps</name>
+    <role>Anne d'Autriche</role>
+    <type>Actor</type>
+    <tmdbid>1080195</tmdbid>
+    <imdbid>nm3043279</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Fortune-Lloyd</name>
+    <role>Le Duc de Buckingham</role>
+    <type>Actor</type>
+    <tmdbid>1944459</tmdbid>
+    <imdbid>nm7066351</imdbid>
+    <tvdbid>601591</tvdbid>
+  </actor>
+  <actor>
+    <name>Eric Ruf</name>
+    <role>Le Cardinal de Richelieu</role>
+    <type>Actor</type>
+    <tmdbid>229968</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Barbé</name>
+    <role>Le Capitaine de Tréville</role>
+    <type>Actor</type>
+    <tmdbid>135665</tmdbid>
+    <imdbid>nm0053903</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Mille</name>
+    <role>Le Comte de Chalais</role>
+    <type>Actor</type>
+    <tmdbid>56404</tmdbid>
+    <imdbid>nm0587791</imdbid>
+  </actor>
+  <actor>
+    <name>Julien Frison</name>
+    <role>Gaston d'Orléans</role>
+    <type>Actor</type>
+    <tmdbid>35894</tmdbid>
+    <imdbid>nm2486832</imdbid>
+    <tvdbid>641666</tvdbid>
+  </actor>
+  <actor>
+    <name>Ralph Amoussou</name>
+    <role>Hannibal</role>
+    <type>Actor</type>
+    <tmdbid>73386</tmdbid>
+    <imdbid>nm1958488</imdbid>
+    <tvdbid>7978519</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexis Michalik</name>
+    <role>Villeneuve de Radis</role>
+    <type>Actor</type>
+    <tmdbid>431148</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Rutherford</name>
+    <role>Mathilde d'Herblay</role>
+    <type>Actor</type>
+    <tmdbid>1033745</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Valadié</name>
+    <role>Marie de Médicis</role>
+    <type>Actor</type>
+    <tmdbid>274746</tmdbid>
+  </actor>
+  <actor>
+    <name>Thibault Vinçon</name>
+    <role>Horace Saint Blancard</role>
+    <type>Actor</type>
+    <tmdbid>56286</tmdbid>
+  </actor>
+  <director tmdbid="1422940">Martin Bourboulon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P1HfovIccgw</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>Los Tres Mosqueteros: Milady</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12672620</imdbid>
+  <tmdbid>845111</tmdbid>
+  <premiered>2023-12-13</premiered>
+  <releasedate>2023-12-13</releasedate>
+  <runtime>109</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Spain</country>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <studio>Pathé</studio>
+  <studio>Chapter 2</studio>
+  <studio>DeAPlaneta</studio>
+  <studio>Constantin Film</studio>
+  <studio>uMedia</studio>
+  <studio>uFilm</studio>
+  <studio>OCS</studio>
+  <studio>Région Bretagne</studio>
+  <studio>CNC</studio>
+  <studio>Canal+</studio>
+  <studio>La Région Île-de-France</studio>
+  <set tmdbcolid="913258">
+    <name>Los Tres Mosqueteros. Colección</name>
+  </set>
+  <set tmdbcolid="913258">
+    <name>Los Tres Mosqueteros - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt12672620</uniqueid>
+  <uniqueid type="tmdb">845111</uniqueid>
+  <id>tt12672620</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1042194</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6563</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128354</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

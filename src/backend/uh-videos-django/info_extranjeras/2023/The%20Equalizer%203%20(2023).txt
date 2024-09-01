@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Desde que renunció a su vida como asesino del gobierno, Robert McCall (Denzel Washington) ha luchado para reconciliarse con las cosas horribles que ha hecho en el pasado y encuentra un extraño consuelo en hacer justicia en nombre de los oprimidos. Mientras se encuentra en su casa en el sur de Italia, descubre que sus nuevos amigos están bajo el control de los jefes del crimen local. A medida que los acontecimientos comienzan a complicarse, McCall entiende lo que tiene que hacer: convertirse en el protector de sus amigos enfrentándose a la temida mafia.]]></plot>
+  <outline><![CDATA[La justicia no conoce fronteras.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-03 09:01:54</dateadded>
+  <title>The Equalizer 3</title>
+  <originaltitle>The Equalizer 3</originaltitle>
+  <actor>
+    <name>Denzel Washington</name>
+    <role>Robert McCall</role>
+    <type>Actor</type>
+    <tmdbid>5292</tmdbid>
+    <imdbid>nm0000243</imdbid>
+  </actor>
+  <actor>
+    <name>Dakota Fanning</name>
+    <role>Emma Collins</role>
+    <type>Actor</type>
+    <tmdbid>501</tmdbid>
+    <imdbid>nm0266824</imdbid>
+    <tvdbid>273900</tvdbid>
+  </actor>
+  <actor>
+    <name>Eugenio Mastrandrea</name>
+    <role>Gio Bonucci</role>
+    <type>Actor</type>
+    <tmdbid>1147420</tmdbid>
+  </actor>
+  <actor>
+    <name>David Denman</name>
+    <role>Frank Conroy</role>
+    <type>Actor</type>
+    <tmdbid>62562</tmdbid>
+    <imdbid>nm0219292</imdbid>
+    <tvdbid>274847</tvdbid>
+  </actor>
+  <actor>
+    <name>Gaia Scodellaro</name>
+    <role>Aminah</role>
+    <type>Actor</type>
+    <tvdbid>610593</tvdbid>
+    <tmdbid>1636737</tmdbid>
+  </actor>
+  <actor>
+    <name>Remo Girone</name>
+    <role>Enzo Arisio</role>
+    <type>Actor</type>
+    <tmdbid>41527</tmdbid>
+    <imdbid>nm0320969</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Scarduzio</name>
+    <role>Vincent Quaranta</role>
+    <type>Actor</type>
+    <tmdbid>1917499</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Dodero</name>
+    <role>Marco Quaranta</role>
+    <type>Actor</type>
+    <tmdbid>3462470</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniele Perrone</name>
+    <role>Angelo</role>
+    <type>Actor</type>
+    <tmdbid>1469908</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Ammar</name>
+    <role>Chiara Bonucci</role>
+    <type>Actor</type>
+    <tmdbid>1159576</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuela Tasciotti</name>
+    <role>Carmela</role>
+    <type>Actor</type>
+    <tmdbid>4252464</tmdbid>
+  </actor>
+  <actor>
+    <name>Zakaria Hamza</name>
+    <role>Khalid</role>
+    <type>Actor</type>
+    <tmdbid>4252462</tmdbid>
+  </actor>
+  <actor>
+    <name>Dea Lanzaro</name>
+    <role>Gabriella Bonucci</role>
+    <type>Actor</type>
+    <tmdbid>4099517</tmdbid>
+  </actor>
+  <actor>
+    <name>Adolfo Margiotta</name>
+    <role>Chief Barella</role>
+    <type>Actor</type>
+    <tmdbid>225705</tmdbid>
+  </actor>
+  <actor>
+    <name>Niccolò Senni</name>
+    <role>Stefano</role>
+    <type>Actor</type>
+    <tmdbid>81510</tmdbid>
+    <imdbid>nm0784416</imdbid>
+    <tvdbid>569325</tvdbid>
+  </actor>
+  <actor>
+    <name>Bruno Bilotta</name>
+    <role>Lorenzo Vitale</role>
+    <type>Actor</type>
+    <tmdbid>27401</tmdbid>
+    <imdbid>nm0082653</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Press</name>
+    <role>Viking</role>
+    <type>Actor</type>
+    <tmdbid>4252467</tmdbid>
+  </actor>
+  <actor>
+    <name>Niccolò Fava</name>
+    <role>Marco's Thug</role>
+    <type>Actor</type>
+    <tmdbid>4252470</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Xavier De Silva</name>
+    <role>Marco's Thug</role>
+    <type>Actor</type>
+    <tmdbid>4252471</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriano Sabrie</name>
+    <role>Vitale's Grandson</role>
+    <type>Actor</type>
+    <tmdbid>4252472</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerio Da Silva</name>
+    <role>Sicilian Investigator</role>
+    <type>Actor</type>
+    <tmdbid>2120899</tmdbid>
+  </actor>
+  <actor>
+    <name>Gian Piero Rotoli</name>
+    <role>Barella's Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>931936</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Delle Monache</name>
+    <role>Trattoria Server</role>
+    <type>Actor</type>
+    <tmdbid>2182230</tmdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Ruocco</name>
+    <role>Vincent's Man</role>
+    <type>Actor</type>
+    <tmdbid>72777</tmdbid>
+    <imdbid>nm2954640</imdbid>
+  </actor>
+  <actor>
+    <name>Daniele Ornatelli</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3119953</tmdbid>
+  </actor>
+  <actor>
+    <name>Luigi Catani</name>
+    <role>Teen Thug</role>
+    <type>Actor</type>
+    <tmdbid>1140126</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Trombetta</name>
+    <role>Hard Man at Winery</role>
+    <type>Actor</type>
+    <tmdbid>3289457</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianluigi Scilla</name>
+    <role>Hard Man at Winery</role>
+    <type>Actor</type>
+    <tmdbid>2277909</tmdbid>
+  </actor>
+  <actor>
+    <name>Danilo Capuzi</name>
+    <role>Hard Man at Winery</role>
+    <type>Actor</type>
+    <tmdbid>1610480</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Scotti</name>
+    <role>Barista</role>
+    <type>Actor</type>
+    <tmdbid>2219983</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Zoffoli</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1511147</tmdbid>
+    <imdbid>nm0957583</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Giuliani</name>
+    <role>Evicted Husband</role>
+    <type>Actor</type>
+    <tmdbid>237804</tmdbid>
+  </actor>
+  <actor>
+    <name>Simona Distefano</name>
+    <role>Evicted Wife</role>
+    <type>Actor</type>
+    <tvdbid>9110671</tvdbid>
+    <tmdbid>2410284</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauro Cremonini</name>
+    <role>Man in Wheelchair</role>
+    <type>Actor</type>
+    <tmdbid>1871485</tmdbid>
+  </actor>
+  <actor>
+    <name>Arcangelo Iannace</name>
+    <role>Seasoned Carabiniere</role>
+    <type>Actor</type>
+    <tmdbid>1918080</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatrice Aiello</name>
+    <role>News Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>2929325</tmdbid>
+  </actor>
+  <actor>
+    <name>Agostino Chiummariello</name>
+    <role>Bride's Father</role>
+    <type>Actor</type>
+    <tmdbid>223699</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariarosaria Mingione</name>
+    <role>Bride</role>
+    <type>Actor</type>
+    <tmdbid>3840607</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Cicalese</name>
+    <role>Groom</role>
+    <type>Actor</type>
+    <tmdbid>4287958</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Riace</name>
+    <role>Monster</role>
+    <type>Actor</type>
+    <tmdbid>3007691</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia Zotti</name>
+    <role>Old Woman on Stairs</role>
+    <type>Actor</type>
+    <tmdbid>25091</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristiano Pittarello</name>
+    <role>Vincent's Guard</role>
+    <type>Actor</type>
+    <tmdbid>3903890</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Leo</name>
+    <role>Susan Plummer</role>
+    <type>Actor</type>
+    <tmdbid>6832</tmdbid>
+    <imdbid>nm0502425</imdbid>
+  </actor>
+  <director tmdbid="20907" imdbid="nm0298807">Antoine Fuqua</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aHX8awq8vNA</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Equalizer 3</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17024450</imdbid>
+  <tmdbid>926393</tmdbid>
+  <premiered>2023-08-30</premiered>
+  <releasedate>2023-08-30</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>109</runtime>
+  <tagline>La justicia no conoce fronteras.</tagline>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>Escape Artists</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Eagle Pictures</studio>
+  <studio>ZHIV Productions</studio>
+  <set tmdbcolid="523855">
+    <name>The Equalizer (El protector) - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt17024450</uniqueid>
+  <uniqueid type="tmdb">926393</uniqueid>
+  <id>tt17024450</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1024853</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6537</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

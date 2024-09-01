@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Durante la Guerra de Secesión Americana, un policía de Nueva York que utiliza avanzados métodos de investigación es enviado al pueblo de Sleepy Hollow para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del lugar. Una vez allí adopta la identidad de un profesor de escuela y se enamora de Katrina, que mantiene relaciones con uno de los hombres más conocidos del pueblo. Realidad y ficción se darán la mano en el momento menos pensado.]]></plot>
+  <outline><![CDATA[Rodarán cabezas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-09 17:53:22</dateadded>
+  <title>Sleepy Hollow</title>
+  <originaltitle>Sleepy Hollow</originaltitle>
+  <actor>
+    <name>Johnny Depp</name>
+    <role>Ichabod Crane</role>
+    <type>Actor</type>
+    <tmdbid>85</tmdbid>
+    <imdbid>nm0000136</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Ricci</name>
+    <role>Katrina Van Tassel</role>
+    <type>Actor</type>
+    <tmdbid>6886</tmdbid>
+    <imdbid>nm0000207</imdbid>
+    <tvdbid>294327</tvdbid>
+  </actor>
+  <actor>
+    <name>Miranda Richardson</name>
+    <role>Lady Mary Van Tassel / Crone Witch</role>
+    <type>Actor</type>
+    <tmdbid>8436</tmdbid>
+    <imdbid>nm0001669</imdbid>
+    <tvdbid>292017</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Gambon</name>
+    <role>Baltus Van Tassel</role>
+    <type>Actor</type>
+    <tmdbid>5658</tmdbid>
+    <imdbid>nm0002091</imdbid>
+  </actor>
+  <actor>
+    <name>Casper Van Dien</name>
+    <role>Brom Van Brunt</role>
+    <type>Actor</type>
+    <tmdbid>27763</tmdbid>
+    <imdbid>nm0000680</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Jones</name>
+    <role>Reverend Steenwyck</role>
+    <type>Actor</type>
+    <tmdbid>4004</tmdbid>
+    <imdbid>nm0000470</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Griffiths</name>
+    <role>Bürgermeister Phillipse</role>
+    <type>Actor</type>
+    <tmdbid>10983</tmdbid>
+    <imdbid>nm0341743</imdbid>
+  </actor>
+  <actor>
+    <name>Ian McDiarmid</name>
+    <role>Dr. Lancaster</role>
+    <type>Actor</type>
+    <tmdbid>27762</tmdbid>
+    <imdbid>nm0001519</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Gough</name>
+    <role>Notary Hardenbrook</role>
+    <type>Actor</type>
+    <tmdbid>3796</tmdbid>
+    <imdbid>nm0001284</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Walken</name>
+    <role>Hessian Horseman</role>
+    <type>Actor</type>
+    <tmdbid>4690</tmdbid>
+    <imdbid>nm0000686</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Pickering</name>
+    <role>Young Masbath</role>
+    <type>Actor</type>
+    <tmdbid>73528</tmdbid>
+    <imdbid>nm0681844</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Marie</name>
+    <role>Lady Crane</role>
+    <type>Actor</type>
+    <tmdbid>4452</tmdbid>
+    <imdbid>nm0547273</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Waddington</name>
+    <role>Kilian</role>
+    <type>Actor</type>
+    <tmdbid>27764</tmdbid>
+    <imdbid>nm0905357</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Skinner</name>
+    <role>Beth Killian</role>
+    <type>Actor</type>
+    <tmdbid>42641</tmdbid>
+    <imdbid>nm0804218</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Lee</name>
+    <role>Burgomaster</role>
+    <type>Actor</type>
+    <tmdbid>113</tmdbid>
+    <imdbid>nm0000489</imdbid>
+  </actor>
+  <actor>
+    <name>Alun Armstrong</name>
+    <role>High Constable</role>
+    <type>Actor</type>
+    <tmdbid>2629</tmdbid>
+    <imdbid>nm0035605</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Spalding</name>
+    <role>Jonathan Masbath</role>
+    <type>Actor</type>
+    <tmdbid>176228</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Oyelowo</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>208507</tmdbid>
+    <imdbid>nm0654649</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Guinness</name>
+    <role>Lord Crane</role>
+    <type>Actor</type>
+    <tmdbid>27172</tmdbid>
+    <imdbid>nm0347423</imdbid>
+    <tvdbid>298481</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Maudsley</name>
+    <role>Van Ripper</role>
+    <type>Actor</type>
+    <tmdbid>79856</tmdbid>
+    <imdbid>nm0560806</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Foreman</name>
+    <role>Constable</role>
+    <type>Actor</type>
+    <tmdbid>3543</tmdbid>
+    <imdbid>nm0286044</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Martin Brown</name>
+    <role>Constable</role>
+    <type>Actor</type>
+    <tmdbid>26857</tmdbid>
+    <imdbid>nm0114441</imdbid>
+  </actor>
+  <actor>
+    <name>Orlando Seale</name>
+    <role>Theodore</role>
+    <type>Actor</type>
+    <tmdbid>83405</tmdbid>
+    <imdbid>nm0780539</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Stephens</name>
+    <role>Thomas Killian</role>
+    <type>Actor</type>
+    <tmdbid>2240163</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Lloyd</name>
+    <role>Doctor Lancaster's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1250653</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Sella</name>
+    <role>Dirk Van Garrett</role>
+    <type>Actor</type>
+    <tmdbid>171459</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Feast</name>
+    <role>Spotty Man</role>
+    <type>Actor</type>
+    <tmdbid>26259</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Fior</name>
+    <role>Young Ichabod</role>
+    <type>Actor</type>
+    <tmdbid>2240169</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Brightwell</name>
+    <role>Rifleman</role>
+    <type>Actor</type>
+    <tmdbid>1256066</tmdbid>
+    <imdbid>nm0109229</imdbid>
+  </actor>
+  <actor>
+    <name>Layla Alexander</name>
+    <role>Widow (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84049</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelley Costigan</name>
+    <role>Townswoman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>121696</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Landau</name>
+    <role>Peter Van Garrett (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2641</tmdbid>
+    <imdbid>nm0001445</imdbid>
+  </actor>
+  <director tmdbid="510" imdbid="nm0000318">Tim Burton</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tLR4vH1pv3o</trailer>
+  <rating>7.3</rating>
+  <year>1999</year>
+  <sorttitle>Sleepy Hollow</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt0162661</imdbid>
+  <tmdbid>2668</tmdbid>
+  <premiered>1999-11-19</premiered>
+  <releasedate>1999-11-19</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>94</runtime>
+  <tagline>Rodarán cabezas.</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Fantasía</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <genre>Terror</genre>
+  <studio>Paramount</studio>
+  <studio>Mandalay Pictures</studio>
+  <studio>American Zoetrope</studio>
+  <studio>Karol Film Productions</studio>
+  <studio>Scott Rudin Productions</studio>
+  <uniqueid type="imdb">tt0162661</uniqueid>
+  <uniqueid type="tmdb">2668</uniqueid>
+  <id>tt0162661</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1108384</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5655</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

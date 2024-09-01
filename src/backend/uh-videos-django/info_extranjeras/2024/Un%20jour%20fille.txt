@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Francia, siglo XVIII. Desde niña se obliga a la joven Anne a vestirse como un hombre y cambiar su nombre debido a su atracción por las mujeres. Convertido en hombre, se casa y vive una gran historia de amor con su nueva esposa hasta que su pasado lo alcanza. La verdadera historia de Anne Grandjean.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-06 20:49:58</dateadded>
+  <title>Chica por un día</title>
+  <originaltitle>Un jour fille</originaltitle>
+  <actor>
+    <name>Marie Toscan du Plantier</name>
+    <role>Anne / Jean-Baptiste Grandjean</role>
+    <type>Actor</type>
+    <tmdbid>3716200</tmdbid>
+  </actor>
+  <actor>
+    <name>Yannick Renier</name>
+    <role>Jean Grandjean</role>
+    <type>Actor</type>
+    <tmdbid>71490</tmdbid>
+  </actor>
+  <actor>
+    <name>Isild Le Besco</name>
+    <role>Éloïse Grandjean</role>
+    <type>Actor</type>
+    <tmdbid>151180</tmdbid>
+    <imdbid>nm0494066</imdbid>
+  </actor>
+  <actor>
+    <name>Solon Hidiroglou</name>
+    <role>Paulot</role>
+    <type>Actor</type>
+    <tmdbid>3595116</tmdbid>
+  </actor>
+  <actor>
+    <name>André Marcon</name>
+    <role>Father Guy</role>
+    <type>Actor</type>
+    <tmdbid>55805</tmdbid>
+    <imdbid>nm0545838</imdbid>
+  </actor>
+  <actor>
+    <name>Iris Bry</name>
+    <role>Mathilde Roussin</role>
+    <type>Actor</type>
+    <tmdbid>1719762</tmdbid>
+  </actor>
+  <actor>
+    <name>François Chattot</name>
+    <type>Actor</type>
+    <tmdbid>62444</tmdbid>
+  </actor>
+  <actor>
+    <name>François Berléand</name>
+    <role>Judge Genoud</role>
+    <type>Actor</type>
+    <tmdbid>7693</tmdbid>
+    <imdbid>nm0075710</imdbid>
+    <tvdbid>472239</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Scimeca</name>
+    <role>Sébastien</role>
+    <type>Actor</type>
+    <tmdbid>1441242</tmdbid>
+  </actor>
+  <director tmdbid="1437375">Jean-Claude Monod</director>
+  <rating>7</rating>
+  <year>2024</year>
+  <sorttitle>Chica por un dia</sorttitle>
+  <imdbid>tt30184788</imdbid>
+  <tmdbid>1000140</tmdbid>
+  <premiered>2024-05-08</premiered>
+  <releasedate>2024-05-08</releasedate>
+  <runtime>93</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Les Films d'Ici</studio>
+  <studio>Les Films du Fleuve</studio>
+  <studio>Dacor Films</studio>
+  <uniqueid type="tmdb">1000140</uniqueid>
+  <uniqueid type="imdb">tt30184788</uniqueid>
+  <id>tt30184788</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1011227</bitrate>
+        <width>1328</width>
+        <height>720</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.999641</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5572</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63873</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

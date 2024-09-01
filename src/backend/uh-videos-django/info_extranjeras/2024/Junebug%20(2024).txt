@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When an eight-year-old version of herself starts appearing to her, Juniper begins to realize that her life is not what she had hoped it would be as a child. Young Junebug pushes Juniper to achieve her dreams, to start writing again, and to collaborate with the cute artist Alex to get her life back on track.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-05 11:51:01</dateadded>
+  <title>Junebug</title>
+  <originaltitle>Junebug</originaltitle>
+  <actor>
+    <name>Autumn Reeser</name>
+    <type>Actor</type>
+    <tmdbid>74607</tmdbid>
+    <imdbid>nm1032208</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron O'Connell</name>
+    <type>Actor</type>
+    <tmdbid>1541777</tmdbid>
+  </actor>
+  <actor>
+    <name>Mila Jones</name>
+    <type>Actor</type>
+    <tmdbid>2542950</tmdbid>
+  </actor>
+  <director tmdbid="545229">David Weaver</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uwkRJm36des</trailer>
+  <rating>8</rating>
+  <year>2024</year>
+  <sorttitle>Junebug</sorttitle>
+  <mpaa>G</mpaa>
+  <imdbid>tt32897452</imdbid>
+  <tmdbid>1310502</tmdbid>
+  <premiered>2024-08-03</premiered>
+  <releasedate>2024-08-03</releasedate>
+  <runtime>84</runtime>
+  <genre>Película de TV</genre>
+  <genre>Romance</genre>
+  <studio>Hallmark Media</studio>
+  <uniqueid type="tmdb">1310502</uniqueid>
+  <uniqueid type="imdb">tt32897452</uniqueid>
+  <id>tt32897452</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150235</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5049</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129600</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

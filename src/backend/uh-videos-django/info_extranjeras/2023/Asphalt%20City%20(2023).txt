@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ollie Cross es un joven paramédico que, mientras prepara el examen de acceso a la Facultad de Medicina, recorre con Gene Rutovsky en ambulancia las calles de Nueva York. Rutovsky, curtido en mil batallas y uno de los paramédicos más veteranos de la ciudad, será su compañero y mentor. De él aprenderá todo lo necesario para tratar a los pacientes y sobrevivir a su caos diario.]]></plot>
+  <outline><![CDATA[Welcome to the frontlines.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-19 08:51:46</dateadded>
+  <title>Asphalt City</title>
+  <originaltitle>Asphalt City</originaltitle>
+  <actor>
+    <name>Tye Sheridan</name>
+    <role>Ollie Cross</role>
+    <type>Actor</type>
+    <tmdbid>1034681</tmdbid>
+    <imdbid>nm4446467</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Penn</name>
+    <role>Gene Rutkovsky</role>
+    <type>Actor</type>
+    <tmdbid>2228</tmdbid>
+    <imdbid>nm0000576</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Waterston</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>77795</tmdbid>
+    <imdbid>nm2239702</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Pitt</name>
+    <role>Lafontaine</role>
+    <type>Actor</type>
+    <tmdbid>10692</tmdbid>
+    <imdbid>nm0685856</imdbid>
+  </actor>
+  <actor>
+    <name>Kali Reis</name>
+    <role>Nia</role>
+    <type>Actor</type>
+    <tvdbid>9109336</tvdbid>
+    <tmdbid>3119545</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Tyson</name>
+    <role>Chief Burroughs</role>
+    <type>Actor</type>
+    <tmdbid>80757</tmdbid>
+    <imdbid>nm0005512</imdbid>
+  </actor>
+  <actor>
+    <name>Onie Maceo Watlington</name>
+    <role>Sylvie</role>
+    <type>Actor</type>
+    <tmdbid>3445014</tmdbid>
+  </actor>
+  <actor>
+    <name>Raquel Nave</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>1555914</tmdbid>
+  </actor>
+  <actor>
+    <name>Alisa Mironova</name>
+    <role>Russian Wife</role>
+    <type>Actor</type>
+    <tmdbid>2461192</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Oppel</name>
+    <role>Shelter Medic</role>
+    <type>Actor</type>
+    <tmdbid>99904</tmdbid>
+    <imdbid>nm1066197</imdbid>
+  </actor>
+  <actor>
+    <name>Donna Glaesener</name>
+    <role>Shelter Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3952247</tmdbid>
+  </actor>
+  <actor>
+    <name>Decater James</name>
+    <role>NYPD Officer</role>
+    <type>Actor</type>
+    <tmdbid>3151713</tmdbid>
+  </actor>
+  <actor>
+    <name>Charrisse Matthews</name>
+    <role>Shelter Staff</role>
+    <type>Actor</type>
+    <tmdbid>2801446</tmdbid>
+  </actor>
+  <actor>
+    <name>Kareemeh Odeh</name>
+    <role>Female Employee</role>
+    <type>Actor</type>
+    <tmdbid>3189381</tmdbid>
+  </actor>
+  <actor>
+    <name>Jagan Badvel</name>
+    <role>Indian Father</role>
+    <type>Actor</type>
+    <tmdbid>2016524</tmdbid>
+  </actor>
+  <director tmdbid="56373">Jean-Stéphane Sauvaire</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2qgc4ihhuGc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m5buqYihMg8</trailer>
+  <rating>6.1</rating>
+  <year>2024</year>
+  <sorttitle>Asphalt City</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9663896</imdbid>
+  <tmdbid>628922</tmdbid>
+  <premiered>2024-03-28</premiered>
+  <releasedate>2024-03-28</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>125</runtime>
+  <tagline>Welcome to the frontlines.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Sculptor Media</studio>
+  <studio>Projected Picture Works</studio>
+  <studio>AZA Films</studio>
+  <studio>Two &amp; Two Pictures</studio>
+  <studio>FilmNation Entertainment</studio>
+  <uniqueid type="imdb">tt9663896</uniqueid>
+  <uniqueid type="tmdb">628922</uniqueid>
+  <id>tt9663896</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>891438</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>959:402</aspect>
+        <aspectratio>959:402</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7504</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

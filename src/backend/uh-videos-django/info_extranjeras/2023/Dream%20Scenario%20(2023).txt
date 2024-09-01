@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Paul Matthews, un desventurado padre de familia, ve cómo su vida da un vuelco cuando millones de extraños empiezan a verle en sueños. Pero cuando sus apariciones nocturnas toman un giro de pesadilla, Paul se ve obligado a navegar por su nuevo estrellato.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-24 09:57:07</dateadded>
+  <title>Dream Scenario</title>
+  <originaltitle>Dream Scenario</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Paul Matthews</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Julianne Nicholson</name>
+    <role>Janet Matthews</role>
+    <type>Actor</type>
+    <tmdbid>86034</tmdbid>
+    <imdbid>nm0629855</imdbid>
+    <tvdbid>303574</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Cera</name>
+    <role>Trent</role>
+    <type>Actor</type>
+    <tmdbid>39995</tmdbid>
+    <imdbid>nm0148418</imdbid>
+    <tvdbid>321341</tvdbid>
+  </actor>
+  <actor>
+    <name>Dylan Gelula</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>1308373</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Bird</name>
+    <role>Sophie Matthews</role>
+    <type>Actor</type>
+    <tmdbid>3487031</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Clement</name>
+    <role>Hannah Matthews</role>
+    <type>Actor</type>
+    <tmdbid>557188</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Meadows</name>
+    <role>Brett</role>
+    <type>Actor</type>
+    <tmdbid>51857</tmdbid>
+    <imdbid>nm0005218</imdbid>
+    <tvdbid>318647</tvdbid>
+  </actor>
+  <actor>
+    <name>Kate Berlant</name>
+    <role>Mary</role>
+    <type>Actor</type>
+    <tmdbid>1436999</tmdbid>
+    <imdbid>nm2547958</imdbid>
+    <tvdbid>285650</tvdbid>
+  </actor>
+  <actor>
+    <name>Dylan Baker</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>19152</tmdbid>
+    <imdbid>nm0048414</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Wigmore</name>
+    <role>Kayla</role>
+    <type>Actor</type>
+    <tmdbid>150201</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Braun</name>
+    <role>Brian Berg</role>
+    <type>Actor</type>
+    <tmdbid>85139</tmdbid>
+    <imdbid>nm1002609</imdbid>
+  </actor>
+  <actor>
+    <name>David Klein</name>
+    <role>Andy</role>
+    <type>Actor</type>
+    <tmdbid>2327134</tmdbid>
+  </actor>
+  <actor>
+    <name>Maev Beaty</name>
+    <role>Naomi</role>
+    <type>Actor</type>
+    <tmdbid>1545244</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Warren</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>2535498</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Caldwell</name>
+    <role>Eli</role>
+    <type>Actor</type>
+    <tmdbid>3894282</tmdbid>
+  </actor>
+  <actor>
+    <name>Agape Mngomezulu</name>
+    <role>Robbie</role>
+    <type>Actor</type>
+    <tmdbid>2128882</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Gao</name>
+    <role>Realtor</role>
+    <type>Actor</type>
+    <tmdbid>1324591</tmdbid>
+  </actor>
+  <actor>
+    <name>Marnie McPhail</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>156580</tmdbid>
+  </actor>
+  <actor>
+    <name>Star Slade</name>
+    <role>Greta</role>
+    <type>Actor</type>
+    <tmdbid>2559813</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Lamanna</name>
+    <role>Jessie</role>
+    <type>Actor</type>
+    <tmdbid>3244448</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Jutras</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>1225492</tmdbid>
+    <imdbid>nm0433268</imdbid>
+  </actor>
+  <actor>
+    <name>Kaleb Horn</name>
+    <role>Miles</role>
+    <type>Actor</type>
+    <tmdbid>2542587</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip van Martin</name>
+    <role>Claude</role>
+    <type>Actor</type>
+    <tmdbid>3374613</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Volchoff</name>
+    <role>Candice</role>
+    <type>Actor</type>
+    <tmdbid>4278134</tmdbid>
+  </actor>
+  <actor>
+    <name>Liz Adjei</name>
+    <role>Avery</role>
+    <type>Actor</type>
+    <tmdbid>2502700</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessie-Ann Kohlman</name>
+    <role>Chloe</role>
+    <type>Actor</type>
+    <tmdbid>3963145</tmdbid>
+  </actor>
+  <actor>
+    <name>Greer Cohen</name>
+    <role>Grace</role>
+    <type>Actor</type>
+    <tmdbid>4185685</tmdbid>
+  </actor>
+  <actor>
+    <name>Krista Bridges</name>
+    <role>Carlotta</role>
+    <type>Actor</type>
+    <tmdbid>43257</tmdbid>
+    <imdbid>nm0108765</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Centineo</name>
+    <role>Dylan</role>
+    <type>Actor</type>
+    <tmdbid>1253353</tmdbid>
+    <imdbid>nm3170207</imdbid>
+    <tvdbid>466038</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Richards</name>
+    <role>Hunter</role>
+    <type>Actor</type>
+    <tmdbid>3168516</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramona Gilmour-Darling</name>
+    <role>Portia</role>
+    <type>Actor</type>
+    <tmdbid>1236734</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Banzhaf</name>
+    <role>Leah</role>
+    <type>Actor</type>
+    <tmdbid>1210466</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Coppola</name>
+    <role>Sidney</role>
+    <type>Actor</type>
+    <tmdbid>103853</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Midthunder</name>
+    <role>Haley</role>
+    <type>Actor</type>
+    <tmdbid>1654001</tmdbid>
+    <imdbid>nm1690270</imdbid>
+    <tvdbid>463647</tvdbid>
+  </actor>
+  <actor>
+    <name>Alton Mason</name>
+    <role>Carter</role>
+    <type>Actor</type>
+    <tmdbid>2953700</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Mitchell</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>4378117</tmdbid>
+  </actor>
+  <actor>
+    <name>Conrad Coates</name>
+    <role>Dinner Guest #1</role>
+    <type>Actor</type>
+    <tmdbid>43263</tmdbid>
+    <imdbid>nm0167626</imdbid>
+  </actor>
+  <actor>
+    <name>Marnie Brunton</name>
+    <role>Dinner Guest #2</role>
+    <type>Actor</type>
+    <tmdbid>4278129</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Armstrong</name>
+    <role>Tristan</role>
+    <type>Actor</type>
+    <tmdbid>2267696</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Stanley</name>
+    <role>Snailface</role>
+    <type>Actor</type>
+    <tmdbid>4278139</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen R. Hart</name>
+    <role>Tall Man</role>
+    <type>Actor</type>
+    <tmdbid>224723</tmdbid>
+    <imdbid>nm1242679</imdbid>
+  </actor>
+  <actor>
+    <name>Will Corno</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1570857</tmdbid>
+  </actor>
+  <actor>
+    <name>Talia Schlanger</name>
+    <role>Norio Ad (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4278133</tmdbid>
+  </actor>
+  <actor>
+    <name>James Collins</name>
+    <role>Large Man</role>
+    <type>Actor</type>
+    <tmdbid>2004237</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Weatherbee</name>
+    <role>Paul Look-a-Like</role>
+    <type>Actor</type>
+    <tmdbid>4278135</tmdbid>
+  </actor>
+  <actor>
+    <name>Nneka Elliott</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1746410</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Levick</name>
+    <role>Sleep Specialist</role>
+    <type>Actor</type>
+    <tmdbid>3497361</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Leroux</name>
+    <role>Amandine</role>
+    <type>Actor</type>
+    <tmdbid>724359</tmdbid>
+    <imdbid>nm0503713</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Raf</name>
+    <role>Dream Travel Guru</role>
+    <type>Actor</type>
+    <tmdbid>2402463</tmdbid>
+  </actor>
+  <actor>
+    <name>Trish Hoang</name>
+    <role>Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4220296</tmdbid>
+  </actor>
+  <actor>
+    <name>Domenic Di Rosa</name>
+    <role>Fontane (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2313862</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Goldman</name>
+    <role>Theatre Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4220283</tmdbid>
+  </actor>
+  <director tmdbid="1280021">Kristoffer Borgli</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q3x9iUL-74w</trailer>
+  <rating>7.4</rating>
+  <year>2023</year>
+  <sorttitle>Dream Scenario</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21942866</imdbid>
+  <tmdbid>823482</tmdbid>
+  <premiered>2023-11-10</premiered>
+  <releasedate>2023-11-10</releasedate>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Fantasía</genre>
+  <studio>A24</studio>
+  <studio>Square Peg</studio>
+  <studio>Saturn Films</studio>
+  <uniqueid type="tmdb">823482</uniqueid>
+  <uniqueid type="imdb">tt21942866</uniqueid>
+  <id>tt21942866</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149674</bitrate>
+        <width>1280</width>
+        <height>694</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6107</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129027</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

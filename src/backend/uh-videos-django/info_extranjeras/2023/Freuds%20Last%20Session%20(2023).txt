@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en vísperas de la Segunda Guerra Mundial y hacia el final de su vida, Freud invita al icónico autor C.S. Lewis a un debate sobre la existencia de Dios. Explorando la relación única de Freud con su hija lesbiana Anna y el romance poco convencional de Lewis con la madre de su mejor amigo, la película entreteje pasado, presente y fantasía.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-26 08:11:17</dateadded>
+  <title>La última sesión de Freud</title>
+  <originaltitle>Freud's Last Session</originaltitle>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Sigmund Freud</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+    <tvdbid>254194</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Goode</name>
+    <role>C. S. Lewis</role>
+    <type>Actor</type>
+    <tmdbid>1247</tmdbid>
+    <imdbid>nm0328828</imdbid>
+    <tvdbid>446786</tvdbid>
+  </actor>
+  <actor>
+    <name>Liv Lisa Fries</name>
+    <role>Anna Freud</role>
+    <type>Actor</type>
+    <tmdbid>583333</tmdbid>
+    <imdbid>nm2939186</imdbid>
+    <tvdbid>583025</tvdbid>
+  </actor>
+  <actor>
+    <name>Jodi Balfour</name>
+    <role>Dorothy Burlingham</role>
+    <type>Actor</type>
+    <tmdbid>139901</tmdbid>
+    <imdbid>nm3341156</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Northam</name>
+    <role>Ernest Jones</role>
+    <type>Actor</type>
+    <tmdbid>18325</tmdbid>
+    <imdbid>nm0000562</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Campbell Moore</name>
+    <role>J. R. R. Tolkien</role>
+    <type>Actor</type>
+    <tmdbid>55467</tmdbid>
+    <imdbid>nm1304386</imdbid>
+  </actor>
+  <actor>
+    <name>Orla Brady</name>
+    <role>Janie Moore</role>
+    <type>Actor</type>
+    <tmdbid>107734</tmdbid>
+    <imdbid>nm0103699</imdbid>
+  </actor>
+  <actor>
+    <name>David Shields</name>
+    <role>Weldon</role>
+    <type>Actor</type>
+    <tmdbid>1723616</tmdbid>
+    <imdbid>nm7104160</imdbid>
+  </actor>
+  <actor>
+    <name>Thom Bishops</name>
+    <role>Jacob Freud</role>
+    <type>Actor</type>
+    <tmdbid>209505</tmdbid>
+    <imdbid>nm1400994</imdbid>
+  </actor>
+  <actor>
+    <name>George Andrew-Clarke</name>
+    <role>Paddy Moore</role>
+    <type>Actor</type>
+    <tmdbid>4362976</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Buckley</name>
+    <role>Albert Lewis</role>
+    <type>Actor</type>
+    <tmdbid>3052701</tmdbid>
+  </actor>
+  <actor>
+    <name>Padraic Delaney</name>
+    <role>Warren Lewis</role>
+    <type>Actor</type>
+    <tmdbid>125237</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhys Mannion</name>
+    <role>Young C. S. Lewis</role>
+    <type>Actor</type>
+    <tmdbid>3072484</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Amalie Blomeyer</name>
+    <role>Ilsa</role>
+    <type>Actor</type>
+    <tmdbid>1446647</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Christie</name>
+    <role>Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2946802</tmdbid>
+  </actor>
+  <director tmdbid="1496011">Matt Brown</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-lM65Dm6Ytc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hPJM9lEMyV4</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>ultima sesion de Freud</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt20420628</imdbid>
+  <tmdbid>1025491</tmdbid>
+  <premiered>2023-12-22</premiered>
+  <releasedate>2023-12-22</releasedate>
+  <runtime>108</runtime>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>WestEnd Films</studio>
+  <studio>CAA Media Finance</studio>
+  <studio>Subotica</studio>
+  <studio>14 Sunset</studio>
+  <studio>LB Entertainment</studio>
+  <studio>Last Session Productions</studio>
+  <studio>TPSC</studio>
+  <studio>M.Y.R.A. Entertainment</studio>
+  <uniqueid type="imdb">tt20420628</uniqueid>
+  <uniqueid type="tmdb">1025491</uniqueid>
+  <id>tt20420628</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1030048</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6494</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

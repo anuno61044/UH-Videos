@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ansa es soltera y vive en Helsinki. Trabaja con un contrato de cero horas en un supermercado, abasteciendo los estantes; luego clasifica el plÃ¡stico reciclable. Una noche se encuentra accidentalmente con el igualmente solitario trabajador Holappa, un alcohÃ³lico. Contra todo pronÃ³stico y malentendidos, intentan construir una relaciÃ³n. Como resultado, Holappa logra controlar su adicciÃ³n al alcohol.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-19 21:34:53</dateadded>
+  <title>Hojas de otoÃ±o (Fallen Leaves)</title>
+  <originaltitle>Kuolleet lehdet</originaltitle>
+  <actor>
+    <name>Alma PÃ¶ysti</name>
+    <role>Ansa</role>
+    <type>Actor</type>
+    <tmdbid>1364782</tmdbid>
+  </actor>
+  <actor>
+    <name>Jussi Vatanen</name>
+    <role>Holappa</role>
+    <type>Actor</type>
+    <tmdbid>226030</tmdbid>
+  </actor>
+  <actor>
+    <name>Janne HyytiÃ¤inen</name>
+    <role>Huotari</role>
+    <type>Actor</type>
+    <tmdbid>16775</tmdbid>
+  </actor>
+  <actor>
+    <name>Nuppu Koivu</name>
+    <role>Liisa</role>
+    <type>Actor</type>
+    <tmdbid>1730172</tmdbid>
+  </actor>
+  <actor>
+    <name>Alina Tomnikov</name>
+    <role>Tonja, Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1568234</tmdbid>
+  </actor>
+  <actor>
+    <name>Martti Suosalo</name>
+    <role>Raunio</role>
+    <type>Actor</type>
+    <tmdbid>89502</tmdbid>
+  </actor>
+  <actor>
+    <name>Matti Onnismaa</name>
+    <role>Manager of the Metal Workshop</role>
+    <type>Actor</type>
+    <tmdbid>89503</tmdbid>
+  </actor>
+  <actor>
+    <name>Sakari Kuosmanen</name>
+    <role>Man in the Travel Home</role>
+    <type>Actor</type>
+    <tmdbid>4828</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Al-Bazoon</name>
+    <role>Internet Cafe Owner</role>
+    <type>Actor</type>
+    <tmdbid>1730171</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Heiskanen</name>
+    <role>Matron</role>
+    <type>Actor</type>
+    <tmdbid>16776</tmdbid>
+  </actor>
+  <actor>
+    <name>Sherwan Haji</name>
+    <role>Parakin asukas</role>
+    <type>Actor</type>
+    <tmdbid>1730170</tmdbid>
+  </actor>
+  <actor>
+    <name>Karar Al-Bazoon</name>
+    <role>Parakin asukas</role>
+    <type>Actor</type>
+    <tmdbid>2614955</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Snellman</name>
+    <role>Ansa's colleague</role>
+    <type>Actor</type>
+    <tmdbid>4342913</tmdbid>
+  </actor>
+  <actor>
+    <name>Eero Ritala</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>234125</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikko MykkÃ¤nen</name>
+    <role>Shop Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2614971</tmdbid>
+  </actor>
+  <actor>
+    <name>Aapo PenttilÃ¤</name>
+    <role>Dumpster diver</role>
+    <type>Actor</type>
+    <tmdbid>3279776</tmdbid>
+  </actor>
+  <actor>
+    <name>Antti MÃ¤Ã¤ttÃ¤nen</name>
+    <role>HenkilÃ¶kuntapÃ¤Ã¤llikkÃ¶</role>
+    <type>Actor</type>
+    <tmdbid>2615006</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitja Tuurala</name>
+    <role>Twilight man 1</role>
+    <type>Actor</type>
+    <tmdbid>2615001</tmdbid>
+  </actor>
+  <actor>
+    <name>Sami Muttilainen</name>
+    <role>Twilight man 2</role>
+    <type>Actor</type>
+    <tmdbid>4488431</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Laitinen</name>
+    <role>Train stop hooligan</role>
+    <type>Actor</type>
+    <tmdbid>3279774</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaakko Ranta</name>
+    <role>Train stop hooligan</role>
+    <type>Actor</type>
+    <tmdbid>3279768</tmdbid>
+  </actor>
+  <actor>
+    <name>Heikki Rautiainen</name>
+    <role>Train stop hooligan</role>
+    <type>Actor</type>
+    <tmdbid>3279767</tmdbid>
+  </actor>
+  <actor>
+    <name>Viljami PenttilÃ¤</name>
+    <role>Train stop hooligan</role>
+    <type>Actor</type>
+    <tmdbid>3279766</tmdbid>
+  </actor>
+  <actor>
+    <name>Jari Tuomola</name>
+    <role>Police officer</role>
+    <type>Actor</type>
+    <tmdbid>2614989</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauri Untamo</name>
+    <role>Police officer</role>
+    <type>Actor</type>
+    <tmdbid>1883013</tmdbid>
+  </actor>
+  <actor>
+    <name>Erkki Astala</name>
+    <role>Passer-by</role>
+    <type>Actor</type>
+    <tmdbid>1760644</tmdbid>
+  </actor>
+  <actor>
+    <name>Timo Malmi</name>
+    <role>Passer-by</role>
+    <type>Actor</type>
+    <tmdbid>4461425</tmdbid>
+  </actor>
+  <actor>
+    <name>Jukka Salmi</name>
+    <role>Film criticizer</role>
+    <type>Actor</type>
+    <tmdbid>1981432</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaska VÃ¤re</name>
+    <role>Film criticizer</role>
+    <type>Actor</type>
+    <tmdbid>4342929</tmdbid>
+  </actor>
+  <actor>
+    <name>Misha Jaari</name>
+    <role>Master builder</role>
+    <type>Actor</type>
+    <tmdbid>1380788</tmdbid>
+  </actor>
+  <actor>
+    <name>Olli Varja</name>
+    <role>Janitor</role>
+    <type>Actor</type>
+    <tmdbid>1381113</tmdbid>
+  </actor>
+  <actor>
+    <name>Jukka Rautiainen</name>
+    <role>A colleague at the foundry</role>
+    <type>Actor</type>
+    <tmdbid>1981431</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Oinonen</name>
+    <role>A colleague at the foundry</role>
+    <type>Actor</type>
+    <tmdbid>2515874</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaisa Karjalainen</name>
+    <role>Member of MaustetytÃ¶t</role>
+    <type>Actor</type>
+    <tmdbid>3854986</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Karjalainen</name>
+    <role>Member of MaustetytÃ¶t</role>
+    <type>Actor</type>
+    <tmdbid>3854985</tmdbid>
+  </actor>
+  <actor>
+    <name>Alma-koira</name>
+    <role>Chaplin</role>
+    <type>Actor</type>
+    <tmdbid>4063310</tmdbid>
+  </actor>
+  <actor>
+    <name>Juho Kuosmanen</name>
+    <role>Karaoke Pub Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1364534</tmdbid>
+  </actor>
+  <actor>
+    <name>Eeva-Riitta Salmelin</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4247515</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Buckman</name>
+    <role>Karaoke singer ("Get On")</role>
+    <type>Actor</type>
+    <tmdbid>4488423</tmdbid>
+  </actor>
+  <actor>
+    <name>Mika Nikander</name>
+    <role>Karaoke singer ("Serenade")</role>
+    <type>Actor</type>
+    <tmdbid>4488424</tmdbid>
+  </actor>
+  <actor>
+    <name>Evi Salmelin</name>
+    <role>Karaoke hostess</role>
+    <type>Actor</type>
+    <tmdbid>4488425</tmdbid>
+  </actor>
+  <director tmdbid="16767" imdbid="nm0442454">Aki KaurismÃ¤ki</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XThHlWoDeNo</trailer>
+  <rating>7.6</rating>
+  <year>2023</year>
+  <sorttitle>Hojas de otono (Fallen Leaves)</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt21027780</imdbid>
+  <tmdbid>986280</tmdbid>
+  <premiered>2023-09-14</premiered>
+  <releasedate>2023-09-14</releasedate>
+  <runtime>81</runtime>
+  <country>Finland</country>
+  <country>Germany</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Sputnik</studio>
+  <studio>Bufo</studio>
+  <studio>Pandora Film</studio>
+  <uniqueid type="tmdb">986280</uniqueid>
+  <uniqueid type="imdb">tt21027780</uniqueid>
+  <id>tt21027780</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>vp9</codec>
+        <micodec>vp9</micodec>
+        <bitrate>3507054</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>1917:1036</aspect>
+        <aspectratio>1917:1036</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>81</duration>
+        <durationinseconds>4861</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

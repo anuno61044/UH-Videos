@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuarta entrega de la saga Los Mercenarios. El veterano mercenario Barney “Esquizo” Ross (Sylvester Stallone) y su equipo de estrellas, formado por los hombres más duros (Jason Statham, Dolph Lundgren, 50 Cent, Megan Fox…), afrontan un nuevo desafío, en una trama cargada de acción. Para superarlo y salir airosos, deberán recurrir a su ingenio, experiencia y a la fuerza bruta que los caracteriza.]]></plot>
+  <outline><![CDATA[Morirán cuando estén muertos]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-12 18:01:17</dateadded>
+  <title>Los mercenarios 4</title>
+  <originaltitle>Expend4bles</originaltitle>
+  <actor>
+    <name>Sylvester Stallone</name>
+    <role>Barney Ross</role>
+    <type>Actor</type>
+    <tmdbid>16483</tmdbid>
+    <imdbid>nm0000230</imdbid>
+    <tvdbid>254226</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Lee Christmas</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>50 Cent</name>
+    <role>Drew 'Easy Day' Farrell</role>
+    <type>Actor</type>
+    <tmdbid>62644</tmdbid>
+    <imdbid>nm1265067</imdbid>
+  </actor>
+  <actor>
+    <name>Megan Fox</name>
+    <role>Gina</role>
+    <type>Actor</type>
+    <tmdbid>19537</tmdbid>
+    <imdbid>nm1083271</imdbid>
+  </actor>
+  <actor>
+    <name>Dolph Lundgren</name>
+    <role>Gunner Jensen</role>
+    <type>Actor</type>
+    <tmdbid>16644</tmdbid>
+    <imdbid>nm0000185</imdbid>
+  </actor>
+  <actor>
+    <name>Iko Uwais</name>
+    <role>Rahmat</role>
+    <type>Actor</type>
+    <tmdbid>113732</tmdbid>
+    <imdbid>nm3299397</imdbid>
+    <tvdbid>8133468</tvdbid>
+  </actor>
+  <actor>
+    <name>Andy García</name>
+    <role>Marsh</role>
+    <type>Actor</type>
+    <tmdbid>1271</tmdbid>
+    <imdbid>nm0000412</imdbid>
+    <tvdbid>7912402</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Jaa</name>
+    <role>Decha</role>
+    <type>Actor</type>
+    <tmdbid>57207</tmdbid>
+    <imdbid>nm1388074</imdbid>
+  </actor>
+  <actor>
+    <name>Randy Couture</name>
+    <role>Toll Road</role>
+    <type>Actor</type>
+    <tmdbid>74748</tmdbid>
+    <imdbid>nm1330276</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Scipio</name>
+    <role>Galan</role>
+    <type>Actor</type>
+    <tmdbid>2256312</tmdbid>
+    <imdbid>nm0778501</imdbid>
+    <tvdbid>7967175</tvdbid>
+  </actor>
+  <actor>
+    <name>Levy Tran</name>
+    <role>Lash</role>
+    <type>Actor</type>
+    <tmdbid>1578220</tmdbid>
+    <imdbid>nm6136319</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Newman-Williams</name>
+    <role>Russo</role>
+    <type>Actor</type>
+    <tmdbid>77244</tmdbid>
+    <imdbid>nm1347017</imdbid>
+  </actor>
+  <actor>
+    <name>Daren Nop</name>
+    <role>Bok</role>
+    <type>Actor</type>
+    <tmdbid>1183768</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny "Cowboy" Bartram</name>
+    <role>Anton</role>
+    <type>Actor</type>
+    <tmdbid>4318197</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Mackie</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>3210016</tmdbid>
+  </actor>
+  <actor>
+    <name>Cokey Falkow</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>950125</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Hall</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2369623</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Chupong</name>
+    <role>Bai</role>
+    <type>Actor</type>
+    <tmdbid>64358</tmdbid>
+    <imdbid>nm1933481</imdbid>
+  </actor>
+  <actor>
+    <name>Karim Saidi</name>
+    <role>Fezzan</role>
+    <type>Actor</type>
+    <tmdbid>4306854</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Black</name>
+    <role>Randall</role>
+    <type>Actor</type>
+    <tmdbid>3274676</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Masto</name>
+    <role>Ahmad</role>
+    <type>Actor</type>
+    <tmdbid>4318200</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Shah</name>
+    <role>Adele</role>
+    <type>Actor</type>
+    <tmdbid>139616</tmdbid>
+    <imdbid>nm3069114</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Andrews</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1134443</tmdbid>
+    <imdbid>nm1705693</imdbid>
+  </actor>
+  <actor>
+    <name>Oat Jenner</name>
+    <role>Thai Bartender</role>
+    <type>Actor</type>
+    <tmdbid>4318201</tmdbid>
+  </actor>
+  <actor>
+    <name>Susanne Potrock</name>
+    <role>AC/DC Fan</role>
+    <type>Actor</type>
+    <tmdbid>1895878</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Möller</name>
+    <role>Jumbo Shrimp</role>
+    <type>Actor</type>
+    <tmdbid>64564</tmdbid>
+    <imdbid>nm1221392</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Hristozov</name>
+    <role>Armed Merc</role>
+    <type>Actor</type>
+    <tmdbid>4318704</tmdbid>
+  </actor>
+  <actor>
+    <name>Antoni Davidov</name>
+    <role>Muscle Merc</role>
+    <type>Actor</type>
+    <tmdbid>3607811</tmdbid>
+  </actor>
+  <actor>
+    <name>David Nop</name>
+    <role>Thai Merc</role>
+    <type>Actor</type>
+    <tmdbid>1855956</tmdbid>
+  </actor>
+  <actor>
+    <name>Igor Pečenjev</name>
+    <role>Singing Merc</role>
+    <type>Actor</type>
+    <tmdbid>3354548</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Ivanov</name>
+    <role>Lead Merc</role>
+    <type>Actor</type>
+    <tmdbid>1600895</tmdbid>
+    <imdbid>nm1929533</imdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Mihailov</name>
+    <role>Merc Captain</role>
+    <type>Actor</type>
+    <tmdbid>67248</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Ghiaurov</name>
+    <role>New Merc Captain</role>
+    <type>Actor</type>
+    <tmdbid>4318706</tmdbid>
+  </actor>
+  <actor>
+    <name>Tjaša Perko</name>
+    <role>Fezzan's Wife</role>
+    <type>Actor</type>
+    <tmdbid>3148443</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Bahrun</name>
+    <role>Libyan Guard</role>
+    <type>Actor</type>
+    <tmdbid>4318707</tmdbid>
+  </actor>
+  <actor>
+    <name>Assen Karanikolov</name>
+    <role>Libyan Guard</role>
+    <type>Actor</type>
+    <tmdbid>4318708</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Wilde</name>
+    <role>Bikini Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2487255</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Lines</name>
+    <role>Nightclub Biker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1959432</tmdbid>
+  </actor>
+  <director tmdbid="293911" imdbid="nm0915304">Scott Waugh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4eiLskUYvQc</trailer>
+  <rating>4.8</rating>
+  <year>2023</year>
+  <sorttitle>Los mercenarios 4</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt3291150</imdbid>
+  <tmdbid>299054</tmdbid>
+  <premiered>2023-09-15</premiered>
+  <releasedate>2023-09-15</releasedate>
+  <criticrating>14</criticrating>
+  <runtime>99</runtime>
+  <tagline>Morirán cuando estén muertos</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Suspense</genre>
+  <studio>Millennium Media</studio>
+  <studio>Campbell Grobman Films</studio>
+  <studio>Lionsgate</studio>
+  <set tmdbcolid="126125">
+    <name>Los mercenarios - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt3291150</uniqueid>
+  <uniqueid type="tmdb">299054</uniqueid>
+  <id>tt3291150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149381</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5945</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129518</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

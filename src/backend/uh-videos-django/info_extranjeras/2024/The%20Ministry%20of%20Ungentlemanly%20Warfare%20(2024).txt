@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.]]></plot>
+  <outline><![CDATA[Discover the first special forces mission in history.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-13 08:28:23</dateadded>
+  <title>El ministerio de la guerra</title>
+  <originaltitle>The Ministry of Ungentlemanly Warfare</originaltitle>
+  <actor>
+    <name>Henry Cavill</name>
+    <role>Gus March-Phillips</role>
+    <type>Actor</type>
+    <tmdbid>73968</tmdbid>
+    <imdbid>nm0147147</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Ritchson</name>
+    <role>Anders Lassen</role>
+    <type>Actor</type>
+    <tmdbid>64295</tmdbid>
+    <imdbid>nm2024927</imdbid>
+    <tvdbid>277850</tvdbid>
+  </actor>
+  <actor>
+    <name>Henry Golding</name>
+    <role>Freddy Alvarez</role>
+    <type>Actor</type>
+    <tmdbid>1807132</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Pettyfer</name>
+    <role>Geoffrey Appleyard</role>
+    <type>Actor</type>
+    <tmdbid>61363</tmdbid>
+    <imdbid>nm1641117</imdbid>
+  </actor>
+  <actor>
+    <name>Hero Fiennes Tiffin</name>
+    <role>Henry Hayes</role>
+    <type>Actor</type>
+    <tmdbid>1114487</tmdbid>
+    <imdbid>nm2842005</imdbid>
+  </actor>
+  <actor>
+    <name>Eiza González</name>
+    <role>Marjorie Stewart</role>
+    <type>Actor</type>
+    <tmdbid>1222992</tmdbid>
+    <imdbid>nm2555462</imdbid>
+    <tvdbid>632711</tvdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Mr. Heron</role>
+    <type>Actor</type>
+    <tmdbid>205923</tmdbid>
+    <imdbid>nm2129802</imdbid>
+    <tvdbid>317266</tvdbid>
+  </actor>
+  <actor>
+    <name>Til Schweiger</name>
+    <role>Heinrich Luhr</role>
+    <type>Actor</type>
+    <tmdbid>1844</tmdbid>
+    <imdbid>nm0001709</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Zaga</name>
+    <role>Captain Binea</role>
+    <type>Actor</type>
+    <tmdbid>1563169</tmdbid>
+    <imdbid>nm6723114</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Sapani</name>
+    <role>Kambili Kalu</role>
+    <type>Actor</type>
+    <tmdbid>165424</tmdbid>
+    <imdbid>nm0764527</imdbid>
+    <tvdbid>320058</tvdbid>
+  </actor>
+  <actor>
+    <name>Cary Elwes</name>
+    <role>Brigadier Gubbins 'M'</role>
+    <type>Actor</type>
+    <tmdbid>2130</tmdbid>
+    <imdbid>nm0000144</imdbid>
+    <tvdbid>335982</tvdbid>
+  </actor>
+  <actor>
+    <name>Freddie Fox</name>
+    <role>Ian Fleming</role>
+    <type>Actor</type>
+    <tmdbid>1014931</tmdbid>
+    <imdbid>nm3456865</imdbid>
+  </actor>
+  <actor>
+    <name>Rory Kinnear</name>
+    <role>Winston Churchill</role>
+    <type>Actor</type>
+    <tmdbid>139549</tmdbid>
+    <imdbid>nm1239499</imdbid>
+    <tvdbid>307989</tvdbid>
+  </actor>
+  <actor>
+    <name>Olaf Kayhan</name>
+    <role>Train Nazi</role>
+    <type>Actor</type>
+    <tmdbid>4364603</tmdbid>
+  </actor>
+  <actor>
+    <name>Mert Dincer</name>
+    <role>Compound Nazi</role>
+    <type>Actor</type>
+    <tmdbid>1447145</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Snipes</name>
+    <type>Actor</type>
+    <tmdbid>4510260</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethel von Brixham</name>
+    <type>Actor</type>
+    <tmdbid>4510262</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Bardem</name>
+    <type>Actor</type>
+    <tmdbid>78882</tmdbid>
+    <imdbid>nm0054214</imdbid>
+    <tvdbid>474425</tvdbid>
+  </actor>
+  <actor>
+    <name>James Wilby</name>
+    <role>Viscount Algernon</role>
+    <type>Actor</type>
+    <tmdbid>42627</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Hawksley</name>
+    <role>Sir Percy</role>
+    <type>Actor</type>
+    <tmdbid>1826759</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Paisley Day</name>
+    <role>Admiral Pound</role>
+    <type>Actor</type>
+    <tmdbid>151779</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Oosterveen</name>
+    <role>Air Marshal Dowding</role>
+    <type>Actor</type>
+    <tmdbid>510105</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Keeble</name>
+    <role>Pathé Newsreader</role>
+    <type>Actor</type>
+    <tmdbid>2438358</tmdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zvwDen1Wrx8</trailer>
+  <rating>6.9</rating>
+  <year>2024</year>
+  <sorttitle>ministerio de la guerra</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5177120</imdbid>
+  <tmdbid>799583</tmdbid>
+  <premiered>2024-04-18</premiered>
+  <releasedate>2024-04-18</releasedate>
+  <runtime>120</runtime>
+  <tagline>Discover the first special forces mission in history.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Bélica</genre>
+  <genre>Drama</genre>
+  <studio>Jerry Bruckheimer Films</studio>
+  <studio>Black Bear Pictures</studio>
+  <studio>Toff Guy Films</studio>
+  <uniqueid type="imdb">tt5177120</uniqueid>
+  <uniqueid type="tmdb">799583</uniqueid>
+  <id>tt5177120</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>926176</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7220</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

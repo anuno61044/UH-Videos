@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Se centra en Augusto Pinochet, que no está muerto sino que es un vampiro envejecido. Tras vivir 250 años en este mundo, ha decidido morir de una vez por todas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-18 08:42:53</dateadded>
+  <title>El Conde</title>
+  <originaltitle>El Conde</originaltitle>
+  <actor>
+    <name>Jaime Vadell</name>
+    <role>El Conde</role>
+    <type>Actor</type>
+    <tmdbid>225013</tmdbid>
+    <imdbid>nm0882994</imdbid>
+  </actor>
+  <actor>
+    <name>Gloria Münchmeyer</name>
+    <role>Lucia</role>
+    <type>Actor</type>
+    <tmdbid>127249</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Castro</name>
+    <role>Fyodor</role>
+    <type>Actor</type>
+    <tmdbid>225011</tmdbid>
+    <imdbid>nm0998846</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Luchsinger</name>
+    <role>Carmencita</role>
+    <type>Actor</type>
+    <tmdbid>2100550</tmdbid>
+    <imdbid>nm8367149</imdbid>
+  </actor>
+  <actor>
+    <name>Stella Gonet</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>134699</tmdbid>
+  </actor>
+  <actor>
+    <name>Catalina Guerra</name>
+    <role>Luciana</role>
+    <type>Actor</type>
+    <tmdbid>127251</tmdbid>
+    <imdbid>nm0346004</imdbid>
+  </actor>
+  <actor>
+    <name>Amparo Noguera</name>
+    <role>Mercedes</role>
+    <type>Actor</type>
+    <tmdbid>225012</tmdbid>
+    <imdbid>nm0634074</imdbid>
+  </actor>
+  <actor>
+    <name>Antonia Zegers</name>
+    <role>Jacinta</role>
+    <type>Actor</type>
+    <tmdbid>141624</tmdbid>
+    <imdbid>nm0954222</imdbid>
+  </actor>
+  <actor>
+    <name>Marcial Tagle</name>
+    <role>Aníbal</role>
+    <type>Actor</type>
+    <tmdbid>590883</tmdbid>
+    <imdbid>nm1855459</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Muñoz</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>296274</tmdbid>
+    <imdbid>nm0616395</imdbid>
+  </actor>
+  <actor>
+    <name>Clemente Rodriguez</name>
+    <role>Claude Pinoche</role>
+    <type>Actor</type>
+    <tmdbid>1146784</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosario Zamora</name>
+    <role>Sister Alberta</role>
+    <type>Actor</type>
+    <tmdbid>2337108</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Maluk</name>
+    <role>Margaret (Young)</role>
+    <type>Actor</type>
+    <tmdbid>4275470</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcelo Alonso</name>
+    <role>Strigoi</role>
+    <type>Actor</type>
+    <tmdbid>225010</tmdbid>
+    <imdbid>nm1448486</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Contesse</name>
+    <role>El Conde (28 years old)</role>
+    <type>Actor</type>
+    <tmdbid>1863289</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Seguel</name>
+    <role>Lucia (20 years old)</role>
+    <type>Actor</type>
+    <tmdbid>4275474</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime McManus</name>
+    <role>Cardinal</role>
+    <type>Actor</type>
+    <tmdbid>1074953</tmdbid>
+    <imdbid>nm1130997</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Guerzoni</name>
+    <role>Prostitute 1</role>
+    <type>Actor</type>
+    <tmdbid>1191882</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariela Mignot</name>
+    <role>Prostitute 2</role>
+    <type>Actor</type>
+    <tmdbid>2101998</tmdbid>
+  </actor>
+  <actor>
+    <name>Josefina González</name>
+    <role>Prostitute 3</role>
+    <type>Actor</type>
+    <tmdbid>2172972</tmdbid>
+  </actor>
+  <actor>
+    <name>Fanny Moreno</name>
+    <role>Prostitute 4</role>
+    <type>Actor</type>
+    <tmdbid>4275476</tmdbid>
+  </actor>
+  <actor>
+    <name>Aldo Parodi</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1655281</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudio Barbas</name>
+    <role>Ship Man</role>
+    <type>Actor</type>
+    <tmdbid>2636335</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisca Walker</name>
+    <role>María Antonieta</role>
+    <type>Actor</type>
+    <tmdbid>1314869</tmdbid>
+  </actor>
+  <actor>
+    <name>Mateo Iribarren</name>
+    <role>Verdugo</role>
+    <type>Actor</type>
+    <tmdbid>260267</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Rivadeneira</name>
+    <role>Hotel Executive</role>
+    <type>Actor</type>
+    <tmdbid>1011301</tmdbid>
+  </actor>
+  <actor>
+    <name>Eyal Meyer</name>
+    <role>Rugby Player</role>
+    <type>Actor</type>
+    <tmdbid>1407610</tmdbid>
+    <imdbid>nm3972988</imdbid>
+  </actor>
+  <actor>
+    <name>Lucrecia Dalma</name>
+    <role>Bar Woman</role>
+    <type>Actor</type>
+    <tmdbid>4275479</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Martínez Ruíz</name>
+    <role>Pool Male Player</role>
+    <type>Actor</type>
+    <tmdbid>4275480</tmdbid>
+  </actor>
+  <actor>
+    <name>Josefina Dagorret</name>
+    <role>Pool Female Player</role>
+    <type>Actor</type>
+    <tmdbid>2037086</tmdbid>
+  </actor>
+  <actor>
+    <name>Norma Norma Ortiz</name>
+    <role>Old Woman</role>
+    <type>Actor</type>
+    <tmdbid>1864722</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Montero</name>
+    <role>Factory Worker</role>
+    <type>Actor</type>
+    <tmdbid>141625</tmdbid>
+    <imdbid>nm1476763</imdbid>
+  </actor>
+  <actor>
+    <name>Dara Palacios</name>
+    <role>Worker 1</role>
+    <type>Actor</type>
+    <tmdbid>4275483</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardita Nassar</name>
+    <role>Worker 2</role>
+    <type>Actor</type>
+    <tmdbid>2732827</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Neary</name>
+    <role>Worker 3</role>
+    <type>Actor</type>
+    <tmdbid>1993691</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Barrios</name>
+    <role>Worker 4</role>
+    <type>Actor</type>
+    <tmdbid>2332683</tmdbid>
+  </actor>
+  <director tmdbid="225009" imdbid="nm1883257">Pablo Larraín</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YGvX7ma7Xnk</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>Conde</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21113540</imdbid>
+  <tmdbid>991708</tmdbid>
+  <premiered>2023-09-08</premiered>
+  <releasedate>2023-09-08</releasedate>
+  <runtime>111</runtime>
+  <country>Chile</country>
+  <genre>Comedia</genre>
+  <genre>Terror</genre>
+  <genre>Fantasía</genre>
+  <studio>Fabula</studio>
+  <uniqueid type="imdb">tt21113540</uniqueid>
+  <uniqueid type="tmdb">991708</uniqueid>
+  <id>tt21113540</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>949055</bitrate>
+        <width>1440</width>
+        <height>720</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6683</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64847</bitrate>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

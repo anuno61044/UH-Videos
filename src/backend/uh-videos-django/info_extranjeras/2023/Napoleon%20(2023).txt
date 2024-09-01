@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.]]></plot>
+  <outline><![CDATA[Los imperios se construyen con sangre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-08 11:35:04</dateadded>
+  <title>Napoleón</title>
+  <originaltitle>Napoleon</originaltitle>
+  <actor>
+    <name>Joaquin Phoenix</name>
+    <role>Napoleon Bonaparte</role>
+    <type>Actor</type>
+    <tmdbid>73421</tmdbid>
+    <imdbid>nm0001618</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Kirby</name>
+    <role>Josephine Bonaparte</role>
+    <type>Actor</type>
+    <tmdbid>556356</tmdbid>
+    <imdbid>nm3948952</imdbid>
+    <tvdbid>403805</tvdbid>
+  </actor>
+  <actor>
+    <name>Rupert Everett</name>
+    <role>Duke of Wellington</role>
+    <type>Actor</type>
+    <tmdbid>4757</tmdbid>
+    <imdbid>nm0000391</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Bonnar</name>
+    <role>Junot</role>
+    <type>Actor</type>
+    <tmdbid>1231402</tmdbid>
+    <tvdbid>273811</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Rhys</name>
+    <role>Talleyrand</role>
+    <type>Actor</type>
+    <tmdbid>80365</tmdbid>
+    <imdbid>nm0722631</imdbid>
+    <tvdbid>260512</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Miles</name>
+    <role>Caulaincourt</role>
+    <type>Actor</type>
+    <tmdbid>11280</tmdbid>
+    <imdbid>nm0587060</imdbid>
+    <tvdbid>296494</tvdbid>
+  </actor>
+  <actor>
+    <name>Riana Duce</name>
+    <role>Lucille</role>
+    <type>Actor</type>
+    <tmdbid>2599915</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludivine Sagnier</name>
+    <role>Theresa Cabarrus</role>
+    <type>Actor</type>
+    <tmdbid>4390</tmdbid>
+    <imdbid>nm0756203</imdbid>
+    <tvdbid>471126</tvdbid>
+  </actor>
+  <actor>
+    <name>Miles Jupp</name>
+    <role>Emperor Francis I</role>
+    <type>Actor</type>
+    <tmdbid>221857</tmdbid>
+    <imdbid>nm1402510</imdbid>
+  </actor>
+  <actor>
+    <name>Edouard Philipponnat</name>
+    <role>Tsar Alexander</role>
+    <type>Actor</type>
+    <tmdbid>1700994</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hollingworth</name>
+    <role>Marshal Ney</role>
+    <type>Actor</type>
+    <tmdbid>1386824</tmdbid>
+    <imdbid>nm3227473</imdbid>
+  </actor>
+  <actor>
+    <name>Youssef Kerkour</name>
+    <role>General Davout</role>
+    <type>Actor</type>
+    <tmdbid>1264979</tmdbid>
+  </actor>
+  <actor>
+    <name>Davide Tucci</name>
+    <role>Lazar Hoche</role>
+    <type>Actor</type>
+    <tmdbid>1759548</tmdbid>
+    <imdbid>nm5487606</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Needham</name>
+    <role>Lucien Bonaparte</role>
+    <type>Actor</type>
+    <tmdbid>1584566</tmdbid>
+  </actor>
+  <actor>
+    <name>Jannis Niewöhner</name>
+    <role>Hippolyte Charles</role>
+    <type>Actor</type>
+    <tmdbid>54676</tmdbid>
+    <imdbid>nm1753704</imdbid>
+  </actor>
+  <actor>
+    <name>Erin Ainsworth</name>
+    <role>Hortense de Beauharnais</role>
+    <type>Actor</type>
+    <tmdbid>3568189</tmdbid>
+  </actor>
+  <actor>
+    <name>Thom Ashley</name>
+    <role>Charles de la Bédoyère</role>
+    <type>Actor</type>
+    <tmdbid>2858894</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Mawn</name>
+    <role>The Duchess Marie-Louise</role>
+    <type>Actor</type>
+    <tmdbid>3125510</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Spokes</name>
+    <role>Moulins</role>
+    <type>Actor</type>
+    <tmdbid>2085743</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Barnwell</name>
+    <role>Bourrienne</role>
+    <type>Actor</type>
+    <tmdbid>1364120</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Flynn</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1379275</tmdbid>
+    <imdbid>nm5978921</imdbid>
+  </actor>
+  <actor>
+    <name>Phil Cornwell</name>
+    <role>Sanson 'The Borreau'</role>
+    <type>Actor</type>
+    <tmdbid>191601</tmdbid>
+    <imdbid>nm0180504</imdbid>
+    <tvdbid>397322</tvdbid>
+  </actor>
+  <actor>
+    <name>Cormac Hyde-Corrin</name>
+    <role>Mid Shipman</role>
+    <type>Actor</type>
+    <tmdbid>3350497</tmdbid>
+    <tvdbid>8422239</tvdbid>
+  </actor>
+  <actor>
+    <name>Cesare Taurasi</name>
+    <role>Citizen Lacombe</role>
+    <type>Actor</type>
+    <tmdbid>1473937</tmdbid>
+    <imdbid>nm3893637</imdbid>
+  </actor>
+  <actor>
+    <name>Arthur McBain</name>
+    <role>General Marchand</role>
+    <type>Actor</type>
+    <tmdbid>1932026</tmdbid>
+  </actor>
+  <actor>
+    <name>David Verrey</name>
+    <role>Louis-Jérôme Gohier</role>
+    <type>Actor</type>
+    <tmdbid>1229078</tmdbid>
+    <imdbid>nm0894857</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Hughes</name>
+    <role>Lucien's Associate</role>
+    <type>Actor</type>
+    <tmdbid>3722419</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Riddell</name>
+    <role>Jacobite</role>
+    <type>Actor</type>
+    <tmdbid>2445121</tmdbid>
+  </actor>
+  <actor>
+    <name>Thea Achillea</name>
+    <role>Napoleon's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>3291962</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Faulkner</name>
+    <role>Gebhard Leberecht von Blücher</role>
+    <type>Actor</type>
+    <tmdbid>1721598</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert William Carlisle</name>
+    <role>Imperial Guard Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3386354</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Eales White</name>
+    <role>Duke D'Enghein</role>
+    <type>Actor</type>
+    <tmdbid>1682680</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Marshfield</name>
+    <role>Cannon Commander</role>
+    <type>Actor</type>
+    <tmdbid>3234614</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Rhind-Tutt</name>
+    <role>Sieyes</role>
+    <type>Actor</type>
+    <tmdbid>7031</tmdbid>
+    <imdbid>nm0722279</imdbid>
+    <tvdbid>259635</tvdbid>
+  </actor>
+  <actor>
+    <name>Sinéad Cusack</name>
+    <role>Letizia Bonaparte</role>
+    <type>Actor</type>
+    <tmdbid>11281</tmdbid>
+    <imdbid>nm0193661</imdbid>
+    <tvdbid>403802</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Robespierre</role>
+    <type>Actor</type>
+    <tmdbid>5421</tmdbid>
+    <imdbid>nm0873744</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Wadham</name>
+    <role>Jean de Cambaceres</role>
+    <type>Actor</type>
+    <tmdbid>5473</tmdbid>
+    <imdbid>nm0905554</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Walker</name>
+    <role>Marie Antoinette</role>
+    <type>Actor</type>
+    <tmdbid>232941</tmdbid>
+    <imdbid>nm1254152</imdbid>
+  </actor>
+  <actor>
+    <name>Ian McNeice</name>
+    <role>Louis XVIII</role>
+    <type>Actor</type>
+    <tmdbid>3547</tmdbid>
+    <imdbid>nm0573862</imdbid>
+  </actor>
+  <actor>
+    <name>Richard McCabe</name>
+    <role>Lord Whitworth</role>
+    <type>Actor</type>
+    <tmdbid>7025</tmdbid>
+    <imdbid>nm0564500</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Hogg</name>
+    <role>Citizen Gilbert</role>
+    <type>Actor</type>
+    <tmdbid>114252</tmdbid>
+    <imdbid>nm1296102</imdbid>
+    <tvdbid>452060</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Eldon</name>
+    <role>Dr Corvisart</role>
+    <type>Actor</type>
+    <tmdbid>39185</tmdbid>
+    <imdbid>nm0253126</imdbid>
+  </actor>
+  <actor>
+    <name>Abubakar Salim</name>
+    <role>General Dumas</role>
+    <type>Actor</type>
+    <tmdbid>2026407</tmdbid>
+    <imdbid>nm5349813</imdbid>
+    <tvdbid>7885716</tvdbid>
+  </actor>
+  <actor>
+    <name>Sophie Lund</name>
+    <role>Nanny</role>
+    <type>Actor</type>
+    <tmdbid>3402972</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sandys-Clarke</name>
+    <role>British Lieutenant / Waterloo</role>
+    <type>Actor</type>
+    <tmdbid>1555807</tmdbid>
+  </actor>
+  <actor>
+    <name>Tahar Rahim</name>
+    <role>Paul Barras</role>
+    <type>Actor</type>
+    <tmdbid>81051</tmdbid>
+    <imdbid>nm2588665</imdbid>
+    <tvdbid>479751</tvdbid>
+  </actor>
+  <director tmdbid="578" imdbid="nm0000631">Ridley Scott</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v0_gxsfmY4Q</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mh-zT7iSQro</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>Napoleon</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13287846</imdbid>
+  <tmdbid>753342</tmdbid>
+  <premiered>2023-11-22</premiered>
+  <releasedate>2023-11-22</releasedate>
+  <runtime>159</runtime>
+  <tagline>Los imperios se construyen con sangre.</tagline>
+  <country>Malta</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Historia</genre>
+  <genre>Bélica</genre>
+  <genre>Drama</genre>
+  <studio>Scott Free Productions</studio>
+  <studio>Latina Pictures</studio>
+  <studio>Apple Studios</studio>
+  <uniqueid type="imdb">tt13287846</uniqueid>
+  <uniqueid type="tmdb">753342</uniqueid>
+  <id>tt13287846</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>792744</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>158</duration>
+        <durationinseconds>9533</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

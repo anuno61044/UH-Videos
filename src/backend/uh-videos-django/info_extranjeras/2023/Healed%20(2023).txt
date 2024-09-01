@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A celebrity couple attend a wellness retreat only to find that they are the guinea pigs in a life changing experiment.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-02 09:11:41</dateadded>
+  <title>Healed</title>
+  <originaltitle>Healed</originaltitle>
+  <actor>
+    <name>Todd Lowe</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>191277</tmdbid>
+    <imdbid>nm0523067</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Funke</name>
+    <type>Actor</type>
+    <tmdbid>1417738</tmdbid>
+    <imdbid>nm6217203</imdbid>
+    <tvdbid>607857</tvdbid>
+  </actor>
+  <actor>
+    <name>Guinevere Turner</name>
+    <type>Actor</type>
+    <tmdbid>32030</tmdbid>
+    <imdbid>nm0877587</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Goss</name>
+    <type>Actor</type>
+    <tmdbid>1432299</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Holden</name>
+    <type>Actor</type>
+    <tmdbid>1225911</tmdbid>
+    <imdbid>nm0390253</imdbid>
+  </actor>
+  <actor>
+    <name>John Halbach</name>
+    <type>Actor</type>
+    <tmdbid>1302534</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Barrett</name>
+    <type>Actor</type>
+    <tmdbid>1978834</tmdbid>
+  </actor>
+  <actor>
+    <name>John Tague</name>
+    <type>Actor</type>
+    <tmdbid>1855754</tmdbid>
+  </actor>
+  <actor>
+    <name>Shantell Yasmine Abeydeera</name>
+    <role>Jazz Powers</role>
+    <type>Actor</type>
+    <tmdbid>1978985</tmdbid>
+  </actor>
+  <actor>
+    <name>Nanci Gaglio</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>3221510</tmdbid>
+  </actor>
+  <director tmdbid="1747190">Meghan Weinstein</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WY0SO08hpWk</trailer>
+  <rating>8.4</rating>
+  <year>2023</year>
+  <sorttitle>Healed</sorttitle>
+  <imdbid>tt16968762</imdbid>
+  <tmdbid>988750</tmdbid>
+  <premiered>2023-11-01</premiered>
+  <releasedate>2023-11-01</releasedate>
+  <runtime>92</runtime>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>OML Originals</studio>
+  <studio>Thornbyrd Films</studio>
+  <studio>Wizard Cats</studio>
+  <uniqueid type="tmdb">988750</uniqueid>
+  <uniqueid type="imdb">tt16968762</uniqueid>
+  <id>tt16968762</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149594</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5506</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128194</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

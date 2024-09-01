@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Basada en la vida de los inseparables hermanos Von Erich, que hicieron historia en el competitivo mundo de la lucha libre profesional a principios de la década de los 80. A través de la tragedia y el triunfo, bajo la sombra de su dominante padre y entrenador, los hermanos buscan la inmortalidad en el escenario más importante del deporte.]]></plot>
+  <outline><![CDATA[Hijos. Hermanos. Campeones.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-15 11:44:28</dateadded>
+  <title>El clan de hierro</title>
+  <originaltitle>The Iron Claw</originaltitle>
+  <actor>
+    <name>Zac Efron</name>
+    <role>Kevin Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>29222</tmdbid>
+    <imdbid>nm1374980</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Kerry Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+    <tvdbid>342048</tvdbid>
+  </actor>
+  <actor>
+    <name>Harris Dickinson</name>
+    <role>David Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>1716493</tmdbid>
+    <imdbid>nm6170168</imdbid>
+    <tvdbid>516650</tvdbid>
+  </actor>
+  <actor>
+    <name>Maura Tierney</name>
+    <role>Doris Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>16307</tmdbid>
+    <imdbid>nm0005491</imdbid>
+    <tvdbid>274188</tvdbid>
+  </actor>
+  <actor>
+    <name>Stanley Simons</name>
+    <role>Mike Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>2394927</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Harney</name>
+    <role>Bill Mercer</role>
+    <type>Actor</type>
+    <tmdbid>1214447</tmdbid>
+    <imdbid>nm0363669</imdbid>
+    <tvdbid>252553</tvdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Fritz Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Lily James</name>
+    <role>Pam Adkisson</role>
+    <type>Actor</type>
+    <tmdbid>1016168</tmdbid>
+    <imdbid>nm4141252</imdbid>
+    <tvdbid>453685</tvdbid>
+  </actor>
+  <actor>
+    <name>Aaron Dean Eisenberg</name>
+    <role>Ric Flair</role>
+    <type>Actor</type>
+    <tmdbid>1092538</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Innes</name>
+    <role>Ring Announcer</role>
+    <type>Actor</type>
+    <tmdbid>58272</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Anton</name>
+    <role>Harley Race</role>
+    <type>Actor</type>
+    <tmdbid>3756753</tmdbid>
+  </actor>
+  <actor>
+    <name>Cazzey Louis Cereghino</name>
+    <role>Bruiser Brody</role>
+    <type>Actor</type>
+    <tmdbid>1837226</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxwell Friedman</name>
+    <role>Lance Von Erich</role>
+    <type>Actor</type>
+    <tmdbid>2026155</tmdbid>
+  </actor>
+  <actor>
+    <name>Brady Pierce</name>
+    <role>Michael Hayes</role>
+    <type>Actor</type>
+    <tmdbid>3786794</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Nemeth</name>
+    <role>Gino Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>2023400</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Governale</name>
+    <role>Gary Hart</role>
+    <type>Actor</type>
+    <tmdbid>2743745</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Gleason</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>168942</tmdbid>
+    <imdbid>nm0322282</imdbid>
+  </actor>
+  <actor>
+    <name>Chavo Guerrero Jr.</name>
+    <role>The Sheik Ed Farhat</role>
+    <type>Actor</type>
+    <tmdbid>567038</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Franich</name>
+    <role>Ross Adkisson</role>
+    <type>Actor</type>
+    <tmdbid>4149215</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Franich</name>
+    <role>Marshall Adkisson</role>
+    <type>Actor</type>
+    <tmdbid>4232760</tmdbid>
+  </actor>
+  <actor>
+    <name>Grady Wilson</name>
+    <role>Young Kevin</role>
+    <type>Actor</type>
+    <tmdbid>4510811</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentine Newcomer</name>
+    <role>Young David</role>
+    <type>Actor</type>
+    <tmdbid>4510812</tmdbid>
+  </actor>
+  <actor>
+    <name>Garrett Hammond</name>
+    <role>Sportatorium Referee #1</role>
+    <type>Actor</type>
+    <tmdbid>1821515</tmdbid>
+  </actor>
+  <actor>
+    <name>Jullian Dulce Vida</name>
+    <role>Sound Man</role>
+    <type>Actor</type>
+    <tmdbid>589474</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Papajohn</name>
+    <role>Olympic Coach</role>
+    <type>Actor</type>
+    <tmdbid>20582</tmdbid>
+    <imdbid>nm0660244</imdbid>
+  </actor>
+  <actor>
+    <name>Silas Mason</name>
+    <role>The Fabulous Freebirds</role>
+    <type>Actor</type>
+    <tmdbid>4510814</tmdbid>
+  </actor>
+  <actor>
+    <name>Devin Imbraguglio</name>
+    <role>The Fabulous Freebirds</role>
+    <type>Actor</type>
+    <tmdbid>4510815</tmdbid>
+  </actor>
+  <actor>
+    <name>James Beard</name>
+    <role>Sportatorium Referee #2</role>
+    <type>Actor</type>
+    <tmdbid>4510818</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristina Kingston</name>
+    <role>Teller</role>
+    <type>Actor</type>
+    <tmdbid>2483948</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Hite</name>
+    <role>Sportatorium Referee #3</role>
+    <type>Actor</type>
+    <tmdbid>2077134</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Edmundson</name>
+    <role>Tania</role>
+    <type>Actor</type>
+    <tmdbid>932696</tmdbid>
+    <imdbid>nm3803706</imdbid>
+  </actor>
+  <actor>
+    <name>Romeo Newcomer</name>
+    <role>Jack Jr.</role>
+    <type>Actor</type>
+    <tmdbid>4510825</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry J. Nelson</name>
+    <role>Jerry</role>
+    <type>Actor</type>
+    <tmdbid>3611005</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassidy O'Reilly</name>
+    <role>Training Partner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1237756</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Beoubay</name>
+    <role>Fritz's Friend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1175111</tmdbid>
+    <imdbid>nm2931894</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Dell</name>
+    <role>1950s Referee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1770368</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Hinrichs</name>
+    <role>Photographer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2016383</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernest Marsh</name>
+    <role>Cowboy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2955721</tmdbid>
+  </actor>
+  <actor>
+    <name>Dane Alexander Peplinski</name>
+    <role>Photographer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4059040</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Michelle Williams</name>
+    <role>Restaurant Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2610045</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronnie Yelverton</name>
+    <role>Wrestling Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2141493</tmdbid>
+  </actor>
+  <director tmdbid="527607">Sean Durkin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8KVsaoveTbw</trailer>
+  <rating>8</rating>
+  <year>2023</year>
+  <sorttitle>clan de hierro</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21064584</imdbid>
+  <tmdbid>850165</tmdbid>
+  <premiered>2023-12-21</premiered>
+  <releasedate>2023-12-21</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>132</runtime>
+  <tagline>Hijos. Hermanos. Campeones.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>A24</studio>
+  <studio>BBC Film</studio>
+  <studio>Access Entertainment</studio>
+  <studio>House Productions</studio>
+  <uniqueid type="imdb">tt21064584</uniqueid>
+  <uniqueid type="tmdb">850165</uniqueid>
+  <id>tt21064584</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>949961</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7923</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

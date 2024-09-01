@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando su joven hijo Minato empieza a comportarse de forma extraña, su madre siente que algo va mal. Al descubrir que el responsable de todo ello es un profesor, irrumpe en la escuela exigiendo saber qué está pasando. Pero a medida que la historia se desarrolla a través de los ojos de la madre, el profesor y el niño, la verdad va saliendo a la luz, poco a poco...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-05 11:31:07</dateadded>
+  <title>Monstruo</title>
+  <originaltitle>怪物</originaltitle>
+  <actor>
+    <name>Sakura Ando</name>
+    <role>Saori Mugino</role>
+    <type>Actor</type>
+    <tmdbid>100766</tmdbid>
+    <imdbid>nm2747232</imdbid>
+  </actor>
+  <actor>
+    <name>Eita Nagayama</name>
+    <role>Michitoshi Hori</role>
+    <type>Actor</type>
+    <tmdbid>117975</tmdbid>
+  </actor>
+  <actor>
+    <name>Soya Kurokawa</name>
+    <role>Minato Mugino</role>
+    <type>Actor</type>
+    <tmdbid>3860313</tmdbid>
+  </actor>
+  <actor>
+    <name>Hinata Hiiragi</name>
+    <role>Yori Hoshikawa</role>
+    <type>Actor</type>
+    <tmdbid>3661746</tmdbid>
+  </actor>
+  <actor>
+    <name>Yūko Tanaka</name>
+    <role>Makiko Fushimi</role>
+    <type>Actor</type>
+    <tmdbid>20331</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitsuki Takahata</name>
+    <role>Hirona Suzumura</role>
+    <type>Actor</type>
+    <tmdbid>1369137</tmdbid>
+  </actor>
+  <actor>
+    <name>Akihiro Kakuta</name>
+    <role>Shoda Fumiaki</role>
+    <type>Actor</type>
+    <tmdbid>1723005</tmdbid>
+  </actor>
+  <actor>
+    <name>Shido Nakamura</name>
+    <role>Kiyotaka Hoshikawa</role>
+    <type>Actor</type>
+    <tmdbid>72202</tmdbid>
+    <imdbid>nm1217394</imdbid>
+  </actor>
+  <director tmdbid="25645" imdbid="nm0466153">Hirokazu Kore-eda</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lA9ADgHQ3yk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xoviKDGaLao</trailer>
+  <rating>8.1</rating>
+  <year>2023</year>
+  <sorttitle>Monstruo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt23736044</imdbid>
+  <tmdbid>1050035</tmdbid>
+  <premiered>2023-06-02</premiered>
+  <releasedate>2023-06-02</releasedate>
+  <runtime>121</runtime>
+  <country>Japan</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>TOHO</studio>
+  <studio>Fuji Television Network</studio>
+  <studio>AOI Pro.</studio>
+  <studio>BUN-BUKU</studio>
+  <studio>GAGA Corporation</studio>
+  <uniqueid type="imdb">tt23736044</uniqueid>
+  <uniqueid type="tmdb">1050035</uniqueid>
+  <id>tt23736044</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>908012</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7280</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

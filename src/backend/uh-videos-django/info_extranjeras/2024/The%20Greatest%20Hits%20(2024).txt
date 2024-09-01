@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Harriet finds art imitating life when she discovers certain songs can transport her back in time – literally. While she relives the past through romantic memories of her former boyfriend, her time travelling collides with a burgeoning new love interest in the present. As she takes her journey through the hypnotic connection between music and memory, she wonders – even if she could change the past, should she?]]></plot>
+  <outline><![CDATA[Find the right song, change your past. Find the right person, change your future.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-12 11:20:13</dateadded>
+  <title>The Greatest Hits</title>
+  <originaltitle>The Greatest Hits</originaltitle>
+  <actor>
+    <name>Lucy Boynton</name>
+    <role>Harriet</role>
+    <type>Actor</type>
+    <tmdbid>86232</tmdbid>
+    <imdbid>nm2377903</imdbid>
+    <tvdbid>480697</tvdbid>
+  </actor>
+  <actor>
+    <name>Justin H. Min</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>1442976</tmdbid>
+    <imdbid>nm5093708</imdbid>
+  </actor>
+  <actor>
+    <name>David Corenswet</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>1785590</tmdbid>
+    <imdbid>nm4825178</imdbid>
+    <tvdbid>524352</tvdbid>
+  </actor>
+  <actor>
+    <name>Austin Crute</name>
+    <role>Morris Martin</role>
+    <type>Actor</type>
+    <tmdbid>2048370</tmdbid>
+  </actor>
+  <actor>
+    <name>Retta</name>
+    <role>Dr. Evelyn Bartlett</role>
+    <type>Actor</type>
+    <tmdbid>75318</tmdbid>
+    <imdbid>nm0802876</imdbid>
+    <tvdbid>353025</tvdbid>
+  </actor>
+  <actor>
+    <name>Rory Keane</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1675638</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Kelly</name>
+    <role>Jordan the Prius Guy</role>
+    <type>Actor</type>
+    <tmdbid>3489398</tmdbid>
+  </actor>
+  <actor>
+    <name>Andie Ju</name>
+    <role>Edie Park</role>
+    <type>Actor</type>
+    <tmdbid>2565929</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Yi</name>
+    <role>Tom Park</role>
+    <type>Actor</type>
+    <tmdbid>305993</tmdbid>
+    <imdbid>nm1502541</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Shafran</name>
+    <type>Actor</type>
+    <tmdbid>1367105</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Ochoa</name>
+    <role>Dru</role>
+    <type>Actor</type>
+    <tmdbid>1790422</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenne Kang</name>
+    <role>Lillian Park</role>
+    <type>Actor</type>
+    <tmdbid>2644795</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Eileen O'Donnell</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>1351363</tmdbid>
+  </actor>
+  <director tmdbid="1167896" imdbid="nm0072600">Ned Benson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=riDLqQ0Q15c</trailer>
+  <rating>7</rating>
+  <year>2024</year>
+  <sorttitle>Greatest Hits</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2015349</imdbid>
+  <tmdbid>1011082</tmdbid>
+  <premiered>2024-04-05</premiered>
+  <releasedate>2024-04-05</releasedate>
+  <runtime>94</runtime>
+  <tagline>Find the right song, change your past. Find the right person, change your future.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Música</genre>
+  <genre>Romance</genre>
+  <studio>Groundswell Productions</studio>
+  <studio>Flying Point</studio>
+  <uniqueid type="imdb">tt2015349</uniqueid>
+  <uniqueid type="tmdb">1011082</uniqueid>
+  <id>tt2015349</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1179385</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5668</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

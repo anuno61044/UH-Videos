@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tres adolescentes británicas se van de vacaciones para celebrar sus ritos de iniciación: beber, salir de fiesta y ligar, en lo que debería ser el mejor verano de sus vidas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-29 07:48:56</dateadded>
+  <title>How to Have Sex</title>
+  <originaltitle>How to Have Sex</originaltitle>
+  <actor>
+    <name>Mia McKenna-Bruce</name>
+    <role>Tara</role>
+    <type>Actor</type>
+    <tmdbid>113236</tmdbid>
+    <tvdbid>8159951</tvdbid>
+  </actor>
+  <actor>
+    <name>Samuel Bottomley</name>
+    <role>Paddy</role>
+    <type>Actor</type>
+    <tmdbid>579295</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Peake</name>
+    <role>Skye</role>
+    <type>Actor</type>
+    <tmdbid>1269683</tmdbid>
+  </actor>
+  <actor>
+    <name>Eilidh Loan</name>
+    <role>Fi</role>
+    <type>Actor</type>
+    <tmdbid>3297137</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Thomas</name>
+    <role>Badger</role>
+    <type>Actor</type>
+    <tmdbid>1169853</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Jelley</name>
+    <role>Gemma</role>
+    <type>Actor</type>
+    <tmdbid>3264243</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Ambler</name>
+    <role>Paige</role>
+    <type>Actor</type>
+    <tmdbid>4061054</tmdbid>
+  </actor>
+  <actor>
+    <name>Enva Lewis</name>
+    <role>Em</role>
+    <type>Actor</type>
+    <tmdbid>4356302</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Antoniades</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1945730</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Warren</name>
+    <role>Elliot</role>
+    <type>Actor</type>
+    <tmdbid>2451441</tmdbid>
+    <tvdbid>9122478</tvdbid>
+  </actor>
+  <director tmdbid="1504740">Molly Manning Walker</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EWmF8KpxxmA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lFBukwMgvhU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a3XV6Oi1YZI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o1WjRO9tZcE</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>How to Have Sex</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt22890246</imdbid>
+  <tmdbid>1075175</tmdbid>
+  <premiered>2023-11-02</premiered>
+  <releasedate>2023-11-02</releasedate>
+  <runtime>91</runtime>
+  <country>Greece</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <studio>BFI</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Wild Swim Films</studio>
+  <studio>Heretic</studio>
+  <studio>Head Gear Films</studio>
+  <uniqueid type="tmdb">1075175</uniqueid>
+  <uniqueid type="imdb">tt22890246</uniqueid>
+  <id>tt22890246</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149848</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5457</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130040</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

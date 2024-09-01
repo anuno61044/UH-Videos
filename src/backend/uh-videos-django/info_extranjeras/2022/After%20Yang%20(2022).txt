@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un hombre y su hija intentan salvar por todos los medios posibles la vida de Yang, un robot mitad asistente y mitad niñera, al que consideran un miembro más de su familia.]]></plot>
+  <outline><![CDATA[El futuro nunca ha parecido tan humano.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-04 07:44:09</dateadded>
+  <title>After Yang</title>
+  <originaltitle>After Yang</originaltitle>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>Jake</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+    <tvdbid>310392</tvdbid>
+  </actor>
+  <actor>
+    <name>Jodie Turner-Smith</name>
+    <role>Kyra</role>
+    <type>Actor</type>
+    <tmdbid>1695989</tmdbid>
+    <imdbid>nm3853652</imdbid>
+  </actor>
+  <actor>
+    <name>Malea Emma Tjandrawidjaja</name>
+    <role>Mika</role>
+    <type>Actor</type>
+    <tmdbid>2527939</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin H. Min</name>
+    <role>Yang</role>
+    <type>Actor</type>
+    <tmdbid>1442976</tmdbid>
+    <imdbid>nm5093708</imdbid>
+  </actor>
+  <actor>
+    <name>Ritchie Coster</name>
+    <role>Russ</role>
+    <type>Actor</type>
+    <tmdbid>13939</tmdbid>
+    <imdbid>nm0182662</imdbid>
+  </actor>
+  <actor>
+    <name>Sarita Choudhury</name>
+    <role>Cleo</role>
+    <type>Actor</type>
+    <tmdbid>20275</tmdbid>
+    <imdbid>nm0002004</imdbid>
+    <tvdbid>312590</tvdbid>
+  </actor>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+    <tvdbid>274756</tvdbid>
+  </actor>
+  <actor>
+    <name>Haley Lu Richardson</name>
+    <role>Ada</role>
+    <type>Actor</type>
+    <tmdbid>1286328</tmdbid>
+    <tvdbid>503547</tvdbid>
+  </actor>
+  <actor>
+    <name>Orlagh Cassidy</name>
+    <role>Lillian</role>
+    <type>Actor</type>
+    <tmdbid>1232484</tmdbid>
+    <imdbid>nm0144232</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Demary</name>
+    <role>Vicky</role>
+    <type>Actor</type>
+    <tmdbid>995481</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Wong</name>
+    <role>Wei</role>
+    <type>Actor</type>
+    <tmdbid>1079042</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Dier</name>
+    <role>Aaron</role>
+    <type>Actor</type>
+    <tmdbid>110475</tmdbid>
+    <imdbid>nm2322192</imdbid>
+  </actor>
+  <actor>
+    <name>Eve Lindley</name>
+    <role>Faye</role>
+    <type>Actor</type>
+    <tmdbid>1538801</tmdbid>
+  </actor>
+  <actor>
+    <name>Adeline Kerns</name>
+    <role>Twin 1</role>
+    <type>Actor</type>
+    <tmdbid>3392157</tmdbid>
+  </actor>
+  <actor>
+    <name>Ansley Kerns</name>
+    <role>Twin 2</role>
+    <type>Actor</type>
+    <tmdbid>3392158</tmdbid>
+  </actor>
+  <actor>
+    <name>Nana Mensah</name>
+    <role>Nico</role>
+    <type>Actor</type>
+    <tmdbid>1695395</tmdbid>
+    <tvdbid>464686</tvdbid>
+  </actor>
+  <actor>
+    <name>An-Li Bogan</name>
+    <role>Ling</role>
+    <type>Actor</type>
+    <tmdbid>2365075</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Hedwall</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>170986</tmdbid>
+    <imdbid>nm0373410</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Honaker</name>
+    <role>Min's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1924714</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Del Saz</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392159</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Kovarsky</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392160</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcella Lewis</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392161</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Majoli</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3388255</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Melaas</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392162</tmdbid>
+  </actor>
+  <actor>
+    <name>Mina Nishimura</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2003912</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Ockwell</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392163</tmdbid>
+  </actor>
+  <actor>
+    <name>JC Shuster</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392164</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Williams</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3392165</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Ortega</name>
+    <role>Jasmine (Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2050577</tmdbid>
+  </actor>
+  <actor>
+    <name>Jae Kim</name>
+    <role>Adult Min (Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545020</tmdbid>
+  </actor>
+  <director tmdbid="1555636">Kogonada</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Kwp32zLc08c</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>After Yang</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt8633464</imdbid>
+  <tmdbid>585378</tmdbid>
+  <premiered>2022-03-04</premiered>
+  <releasedate>2022-03-04</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>96</runtime>
+  <tagline>El futuro nunca ha parecido tan humano.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>A24</studio>
+  <studio>Cinereach</studio>
+  <studio>Per Capita Productions</studio>
+  <uniqueid type="imdb">tt8633464</uniqueid>
+  <uniqueid type="tmdb">585378</uniqueid>
+  <id>tt8633464</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1164194</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5740</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir "¡Shazam!", se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.]]></plot>
+  <outline><![CDATA[Oh. Por. Dioses.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-10 09:02:59</dateadded>
+  <title>¡Shazam! La furia de los dioses</title>
+  <originaltitle>Shazam! Fury of the Gods</originaltitle>
+  <actor>
+    <name>Zachary Levi</name>
+    <role>Shazam</role>
+    <type>Actor</type>
+    <tmdbid>69899</tmdbid>
+    <imdbid>nm1157048</imdbid>
+    <tvdbid>8166478</tvdbid>
+  </actor>
+  <actor>
+    <name>Asher Angel</name>
+    <role>Billy Batson</role>
+    <type>Actor</type>
+    <tmdbid>1768966</tmdbid>
+    <imdbid>nm4755508</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Dylan Grazer</name>
+    <role>Freddy Freeman</role>
+    <type>Actor</type>
+    <tmdbid>1774679</tmdbid>
+    <imdbid>nm6244013</imdbid>
+    <tvdbid>581700</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel Zegler</name>
+    <role>Anthea</role>
+    <type>Actor</type>
+    <tmdbid>2217977</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Brody</name>
+    <role>Super Hero Freddy</role>
+    <type>Actor</type>
+    <tmdbid>11702</tmdbid>
+    <imdbid>nm0111013</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Butler</name>
+    <role>Super Hero Eugene</role>
+    <type>Actor</type>
+    <tmdbid>1299232</tmdbid>
+    <imdbid>nm5224900</imdbid>
+    <tvdbid>549654</tvdbid>
+  </actor>
+  <actor>
+    <name>D.J. Cotrona</name>
+    <role>Super Hero Pedro</role>
+    <type>Actor</type>
+    <tmdbid>51976</tmdbid>
+    <imdbid>nm1366616</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Caroline Currey</name>
+    <role>Mary Bromfield / Super Hero Mary</role>
+    <type>Actor</type>
+    <tmdbid>54633</tmdbid>
+  </actor>
+  <actor>
+    <name>Meagan Good</name>
+    <role>Super Hero Darla</role>
+    <type>Actor</type>
+    <tmdbid>22122</tmdbid>
+    <imdbid>nm0328709</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Liu</name>
+    <role>Kalypso</role>
+    <type>Actor</type>
+    <tmdbid>140</tmdbid>
+    <imdbid>nm0005154</imdbid>
+    <tvdbid>274441</tvdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>Wizard</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Hespera</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+    <imdbid>nm0000545</imdbid>
+    <tvdbid>296967</tvdbid>
+  </actor>
+  <actor>
+    <name>Faithe Herman</name>
+    <role>Darla Dudley</role>
+    <type>Actor</type>
+    <tmdbid>1726891</tmdbid>
+    <imdbid>nm7968936</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Chen</name>
+    <role>Eugene Choi</role>
+    <type>Actor</type>
+    <tmdbid>1397359</tmdbid>
+  </actor>
+  <actor>
+    <name>Jovan Armand</name>
+    <role>Pedro Peña</role>
+    <type>Actor</type>
+    <tmdbid>1940197</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Milans</name>
+    <role>Rosa Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>1181306</tmdbid>
+    <imdbid>nm2803689</imdbid>
+    <tvdbid>394860</tvdbid>
+  </actor>
+  <actor>
+    <name>Cooper Andrews</name>
+    <role>Victor Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>111698</tmdbid>
+    <tvdbid>475506</tvdbid>
+  </actor>
+  <actor>
+    <name>Rizwan Manji</name>
+    <role>Docent</role>
+    <type>Actor</type>
+    <tmdbid>1223718</tmdbid>
+    <imdbid>nm0542492</imdbid>
+  </actor>
+  <actor>
+    <name>P. J. Byrne</name>
+    <role>Dr. Dario Bava</role>
+    <type>Actor</type>
+    <tmdbid>1211946</tmdbid>
+    <imdbid>nm0126260</imdbid>
+  </actor>
+  <actor>
+    <name>Diedrich Bader</name>
+    <role>Mr. Geckle</role>
+    <type>Actor</type>
+    <tmdbid>5727</tmdbid>
+    <imdbid>nm0046033</imdbid>
+    <tvdbid>272106</tvdbid>
+  </actor>
+  <actor>
+    <name>David Lengel</name>
+    <role>Museum Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>118236</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Andosca</name>
+    <role>Landlord</role>
+    <type>Actor</type>
+    <tmdbid>1932628</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Frene</name>
+    <role>Girl Running on Bridge</role>
+    <type>Actor</type>
+    <tmdbid>1064157</tmdbid>
+  </actor>
+  <actor>
+    <name>Lotta Losten</name>
+    <role>Nurse in Need of a Hero</role>
+    <type>Actor</type>
+    <tmdbid>1302131</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Driver with Kittens</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>Hillary Harley</name>
+    <role>Kitten Car Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1374156</tmdbid>
+    <imdbid>nm5035424</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Lou Safran</name>
+    <role>Kitten Car Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1669169</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Jones</name>
+    <role>Mom on Bridge</role>
+    <type>Actor</type>
+    <tmdbid>1416332</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Force</name>
+    <role>Old Man on Bridge</role>
+    <type>Actor</type>
+    <tmdbid>3353041</tmdbid>
+  </actor>
+  <actor>
+    <name>Milli M.</name>
+    <role>Bridge Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2231997</tmdbid>
+  </actor>
+  <actor>
+    <name>Carson MacCormac</name>
+    <role>Brett Breyer</role>
+    <type>Actor</type>
+    <tmdbid>1857464</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Marsh</name>
+    <role>Burke Breyer</role>
+    <type>Actor</type>
+    <tmdbid>1883593</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Cahill</name>
+    <role>Fake Wonder Woman</role>
+    <type>Actor</type>
+    <tmdbid>3971631</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebrena Sumrah-Kelly</name>
+    <role>Lunch Lady</role>
+    <type>Actor</type>
+    <tmdbid>4064568</tmdbid>
+  </actor>
+  <actor>
+    <name>Wolf Blitzer</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1224993</tmdbid>
+    <imdbid>nm0088566</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Beasley</name>
+    <role>Colonel Cheesesteak</role>
+    <type>Actor</type>
+    <tmdbid>143261</tmdbid>
+    <imdbid>nm2689261</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Walker Branchaud</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>1579625</tmdbid>
+    <imdbid>nm5580827</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Fontaine</name>
+    <role>Terrified Mother</role>
+    <type>Actor</type>
+    <tmdbid>1543993</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaliyah Luu</name>
+    <role>Terrified Child</role>
+    <type>Actor</type>
+    <tmdbid>4064573</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Discepolo</name>
+    <role>Sweaty Streetgoer</role>
+    <type>Actor</type>
+    <tmdbid>1504236</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Gray</name>
+    <role>Man on the Street</role>
+    <type>Actor</type>
+    <tmdbid>1229434</tmdbid>
+  </actor>
+  <actor>
+    <name>F. Douglas Hall II</name>
+    <role>Shazam Fan</role>
+    <type>Actor</type>
+    <tmdbid>4064577</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Reidy</name>
+    <role>Fleeing Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3462119</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelvin Hodge</name>
+    <role>Drunk Guy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3594611</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Camp</name>
+    <role>Crying Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3693907</tmdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Diana Prince / Wonder Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Holland</name>
+    <role>Emilia Harcourt (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>87165</tmdbid>
+    <imdbid>nm1684744</imdbid>
+    <tvdbid>393463</tvdbid>
+  </actor>
+  <actor>
+    <name>Steve Agee</name>
+    <role>John Economos (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>559457</tmdbid>
+    <tvdbid>308124</tvdbid>
+  </actor>
+  <actor>
+    <name>David F. Sandberg</name>
+    <role>Pedestrian Attacked by Harpy / Mister Mind (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1302082</tmdbid>
+    <imdbid>nm2497546</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Strong</name>
+    <role>Doctor Thaddeus Sivana (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2983</tmdbid>
+    <imdbid>nm0835016</imdbid>
+    <tvdbid>301469</tvdbid>
+  </actor>
+  <director tmdbid="1302082" imdbid="nm2497546">David F. Sandberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WhCuNiqUi2w</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>¡Shazam! La furia de los dioses</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10151854</imdbid>
+  <tmdbid>594767</tmdbid>
+  <premiered>2023-03-15</premiered>
+  <releasedate>2023-03-15</releasedate>
+  <criticrating>49</criticrating>
+  <runtime>130</runtime>
+  <tagline>Oh. Por. Dioses.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Acción</genre>
+  <genre>Fantasía</genre>
+  <studio>New Line Cinema</studio>
+  <studio>The Safran Company</studio>
+  <studio>DC Films</studio>
+  <set tmdbcolid="724848">
+    <name>Shazam - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10151854</uniqueid>
+  <uniqueid type="tmdb">594767</uniqueid>
+  <id>tt10151854</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>965585</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7813</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

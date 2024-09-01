@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Los rebeldes se preparan para luchar contra Mundomadre mientras se forjan vínculos inquebrantables, surgen nuevos héroes y se crean las leyendas. Secuela de 'Rebel Moon (Parte uno): La niña del fuego'.]]></plot>
+  <outline><![CDATA[Una Película de Zack Snyder]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-19 08:51:31</dateadded>
+  <title>Rebel Moon (Parte dos): La guerrera que deja marcas</title>
+  <originaltitle>Rebel Moon - Part Two: The Scargiver</originaltitle>
+  <actor>
+    <name>Sofia Boutella</name>
+    <role>Kora</role>
+    <type>Actor</type>
+    <tmdbid>568657</tmdbid>
+    <tvdbid>8036967</tvdbid>
+  </actor>
+  <actor>
+    <name>Michiel Huisman</name>
+    <role>Gunnar</role>
+    <type>Actor</type>
+    <tmdbid>91520</tmdbid>
+    <imdbid>nm0401264</imdbid>
+    <tvdbid>247876</tvdbid>
+  </actor>
+  <actor>
+    <name>Ed Skrein</name>
+    <role>Atticus Noble</role>
+    <type>Actor</type>
+    <tmdbid>1047649</tmdbid>
+    <imdbid>nm4534098</imdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>Titus</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Bae Doo-na</name>
+    <role>Nemesis</role>
+    <type>Actor</type>
+    <tmdbid>21688</tmdbid>
+    <imdbid>nm0046277</imdbid>
+    <tvdbid>519219</tvdbid>
+  </actor>
+  <actor>
+    <name>Staz Nair</name>
+    <role>Tarak</role>
+    <type>Actor</type>
+    <tmdbid>1564557</tmdbid>
+    <imdbid>nm7047874</imdbid>
+  </actor>
+  <actor>
+    <name>E. Duffy</name>
+    <role>Milius</role>
+    <type>Actor</type>
+    <tmdbid>3343053</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Jimmy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+    <tvdbid>254194</tvdbid>
+  </actor>
+  <actor>
+    <name>Cleopatra Coleman</name>
+    <role>Devra</role>
+    <type>Actor</type>
+    <tmdbid>217055</tmdbid>
+    <imdbid>nm1671147</imdbid>
+    <tvdbid>304494</tvdbid>
+  </actor>
+  <actor>
+    <name>Fra Fee</name>
+    <role>Balisarius</role>
+    <type>Actor</type>
+    <tmdbid>1278528</tmdbid>
+    <imdbid>nm4897370</imdbid>
+    <tvdbid>8464688</tvdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Maggi</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>3419773</tmdbid>
+  </actor>
+  <actor>
+    <name>Sky Yang</name>
+    <role>Aris</role>
+    <type>Actor</type>
+    <tmdbid>2388828</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Martin</name>
+    <role>Den</role>
+    <type>Actor</type>
+    <tmdbid>1403559</tmdbid>
+    <imdbid>nm3516668</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Sindri</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+    <imdbid>nm1015684</imdbid>
+    <tvdbid>269015</tvdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Herrera</name>
+    <role>Cassius</role>
+    <type>Actor</type>
+    <tmdbid>220496</tmdbid>
+    <imdbid>nm1270781</imdbid>
+    <tvdbid>470220</tvdbid>
+  </actor>
+  <actor>
+    <name>Cary Elwes</name>
+    <role>The King</role>
+    <type>Actor</type>
+    <tmdbid>2130</tmdbid>
+    <imdbid>nm0000144</imdbid>
+    <tvdbid>335982</tvdbid>
+  </actor>
+  <actor>
+    <name>Rhian Rees</name>
+    <role>The Queen</role>
+    <type>Actor</type>
+    <tmdbid>1495589</tmdbid>
+    <imdbid>nm3593977</imdbid>
+  </actor>
+  <actor>
+    <name>Dustin Ceithamer</name>
+    <role>Jimmy (Body)</role>
+    <type>Actor</type>
+    <tmdbid>2766254</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Fisher</name>
+    <role>Bloodaxe</role>
+    <type>Actor</type>
+    <tmdbid>1313559</tmdbid>
+    <imdbid>nm3570321</imdbid>
+    <tvdbid>484564</tvdbid>
+  </actor>
+  <actor>
+    <name>Ingvar E. Sigurðsson</name>
+    <role>Hagen</role>
+    <type>Actor</type>
+    <tmdbid>55584</tmdbid>
+    <imdbid>nm0797614</imdbid>
+  </actor>
+  <actor>
+    <name>Stella Grace Fitzgerald</name>
+    <role>Princess Issa</role>
+    <type>Actor</type>
+    <tmdbid>3048964</tmdbid>
+  </actor>
+  <actor>
+    <name>Josefine Lindegaard</name>
+    <role>Greta</role>
+    <type>Actor</type>
+    <tmdbid>1824046</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Hunt</name>
+    <role>Brenn</role>
+    <type>Actor</type>
+    <tmdbid>4446110</tmdbid>
+  </actor>
+  <actor>
+    <name>Sisse Marie</name>
+    <role>Astrid</role>
+    <type>Actor</type>
+    <tmdbid>2245272</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Ohrstrom</name>
+    <role>Torvald</role>
+    <type>Actor</type>
+    <tmdbid>2429276</tmdbid>
+  </actor>
+  <actor>
+    <name>Thor Knai</name>
+    <role>Hjalmar</role>
+    <type>Actor</type>
+    <tmdbid>1590291</tmdbid>
+  </actor>
+  <actor>
+    <name>Savanna Gann</name>
+    <role>Runa</role>
+    <type>Actor</type>
+    <tvdbid>8199964</tvdbid>
+    <tmdbid>3721582</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Burgio</name>
+    <role>Inge</role>
+    <type>Actor</type>
+    <tmdbid>96753</tmdbid>
+    <imdbid>nm0121413</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Grant</name>
+    <role>Trodfri</role>
+    <type>Actor</type>
+    <tmdbid>2941502</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Luwis</name>
+    <role>Ivar</role>
+    <type>Actor</type>
+    <tmdbid>2209431</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomm Voss</name>
+    <role>Kullen</role>
+    <type>Actor</type>
+    <tmdbid>2052541</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Kellogg-Darrin</name>
+    <role>Hervor</role>
+    <type>Actor</type>
+    <tmdbid>240971</tmdbid>
+  </actor>
+  <actor>
+    <name>Skylar Okerstrom-Lang</name>
+    <role>Oskar</role>
+    <type>Actor</type>
+    <tmdbid>3078001</tmdbid>
+  </actor>
+  <actor>
+    <name>Caden Dragomer</name>
+    <role>Eljun</role>
+    <type>Actor</type>
+    <tmdbid>2191508</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayden Alexander Koshelev</name>
+    <role>Finn</role>
+    <type>Actor</type>
+    <tmdbid>2451805</tmdbid>
+  </actor>
+  <actor>
+    <name>Kingston Foster</name>
+    <role>Edda</role>
+    <type>Actor</type>
+    <tmdbid>1728254</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie Jarvis</name>
+    <role>Communications Officer - Conning Tower</role>
+    <type>Actor</type>
+    <tmdbid>568390</tmdbid>
+    <imdbid>nm2125563</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Turner Dixon</name>
+    <role>Communications Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>2519259</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Kopera</name>
+    <role>Communications Tech</role>
+    <type>Actor</type>
+    <tmdbid>1872110</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Robert Culbert</name>
+    <role>Gunnery Commander</role>
+    <type>Actor</type>
+    <tmdbid>1707238</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Pescherine</name>
+    <role>Shooter</role>
+    <type>Actor</type>
+    <tmdbid>3952671</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Nolan</name>
+    <role>Loader</role>
+    <type>Actor</type>
+    <tmdbid>159720</tmdbid>
+    <imdbid>nm0634323</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Stidham</name>
+    <role>Dreadnought Officer - Bridge</role>
+    <type>Actor</type>
+    <tmdbid>2697136</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Deacon</name>
+    <role>Medic #1</role>
+    <type>Actor</type>
+    <tmdbid>75566</tmdbid>
+    <imdbid>nm2666746</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Barron</name>
+    <role>Medic #2</role>
+    <type>Actor</type>
+    <tmdbid>3394224</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamish Sturgeon</name>
+    <role>Commanding Officer</role>
+    <type>Actor</type>
+    <tmdbid>1466899</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Clapham</name>
+    <role>Docking Officer</role>
+    <type>Actor</type>
+    <tmdbid>1560011</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam J. Smith</name>
+    <role>Lead Medical Technician</role>
+    <type>Actor</type>
+    <tmdbid>1631114</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael James Bell</name>
+    <role>Assistant Medical Technician</role>
+    <type>Actor</type>
+    <tmdbid>1416394</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Cetrone</name>
+    <role>Lead Krypteian</role>
+    <type>Actor</type>
+    <tmdbid>12371</tmdbid>
+    <imdbid>nm0149150</imdbid>
+  </actor>
+  <actor>
+    <name>Darren Jacobs</name>
+    <role>General</role>
+    <type>Actor</type>
+    <tmdbid>1334132</tmdbid>
+  </actor>
+  <actor>
+    <name>Gildart Jackson</name>
+    <role>Senator</role>
+    <type>Actor</type>
+    <tmdbid>169596</tmdbid>
+  </actor>
+  <actor>
+    <name>Soma Mitra</name>
+    <role>Queen of Samandrai</role>
+    <type>Actor</type>
+    <tmdbid>2001957</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Davis</name>
+    <role>Daisy</role>
+    <type>Actor</type>
+    <tmdbid>2978029</tmdbid>
+  </actor>
+  <actor>
+    <name>Shay Hatten</name>
+    <role>Villager</role>
+    <type>Actor</type>
+    <tmdbid>2104243</tmdbid>
+  </actor>
+  <actor>
+    <name>Winfield Wallace</name>
+    <role>Dropship Pilot #1</role>
+    <type>Actor</type>
+    <tmdbid>4662538</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Thomas</name>
+    <role>Dropship Pilot #2</role>
+    <type>Actor</type>
+    <tmdbid>4540667</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Stinson</name>
+    <role>Thresher</role>
+    <type>Actor</type>
+    <tmdbid>1576548</tmdbid>
+    <imdbid>nm5922102</imdbid>
+  </actor>
+  <director tmdbid="15217" imdbid="nm0811583">Zack Snyder</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UEJuNHOd8Dw</trailer>
+  <rating>6.249</rating>
+  <year>2024</year>
+  <sorttitle>Rebel Moon (Parte dos): La guerrera que deja marcas</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt23137904</imdbid>
+  <tmdbid>934632</tmdbid>
+  <premiered>2024-04-19</premiered>
+  <releasedate>2024-04-19</releasedate>
+  <runtime>124</runtime>
+  <tagline>Una Película de Zack Snyder</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <genre>Película de TV</genre>
+  <studio>The Stone Quarry</studio>
+  <studio>Grand Electric</studio>
+  <set tmdbcolid="934765">
+    <name>Rebel Moon - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt23137904</uniqueid>
+  <uniqueid type="tmdb">934632</uniqueid>
+  <id>tt23137904</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>902145</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7434</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

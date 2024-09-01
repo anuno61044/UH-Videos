@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra el contradictorio vínculo de admiración y reproche entre dos mujeres de generaciones muy distintas, "un vínculo que define y atraviesa la agridulce experiencia del amor y la soledad hoy en día".]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-05 07:45:49</dateadded>
+  <title>Los pequeños amores</title>
+  <originaltitle>Los pequeños amores</originaltitle>
+  <actor>
+    <name>Adriana Ozores</name>
+    <role>Ani</role>
+    <type>Actor</type>
+    <tmdbid>87017</tmdbid>
+    <imdbid>nm0654841</imdbid>
+    <tvdbid>518497</tvdbid>
+  </actor>
+  <actor>
+    <name>María Vázquez</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>592475</tmdbid>
+    <imdbid>nm0904808</imdbid>
+    <tvdbid>465795</tvdbid>
+  </actor>
+  <actor>
+    <name>Ferran Rañé</name>
+    <role>Enrique</role>
+    <type>Actor</type>
+    <tmdbid>995613</tmdbid>
+    <imdbid>nm0713705</imdbid>
+  </actor>
+  <actor>
+    <name>Aimar Vega</name>
+    <role>Jonás</role>
+    <type>Actor</type>
+    <tmdbid>1373422</tmdbid>
+  </actor>
+  <actor>
+    <name>Blanca Apilánez</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>132446</tmdbid>
+    <imdbid>nm0032042</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel González</name>
+    <role>Ramón</role>
+    <type>Actor</type>
+    <tmdbid>2248423</tmdbid>
+    <imdbid>nm0328380</imdbid>
+  </actor>
+  <director tmdbid="1384823" imdbid="nm3536332">Celia Rico Clavellino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SPxk0kzP8uY</trailer>
+  <rating>7</rating>
+  <year>2024</year>
+  <sorttitle>Los pequenos amores</sorttitle>
+  <imdbid>tt21223304</imdbid>
+  <tmdbid>1088851</tmdbid>
+  <premiered>2024-03-08</premiered>
+  <releasedate>2024-03-08</releasedate>
+  <runtime>92</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Arcadia Motion Pictures</studio>
+  <studio>Noodles Production</studio>
+  <studio>Viracocha Films</studio>
+  <uniqueid type="imdb">tt21223304</uniqueid>
+  <uniqueid type="tmdb">1088851</uniqueid>
+  <id>tt21223304</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>180178</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5507</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63820</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

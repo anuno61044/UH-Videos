@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Esta es la extraordinaria historia real de Trudy Ederle, la primera mujer que cruzó el canal de la Mancha a nado. Gracias al apoyo inquebrantable de su hermana mayor y sus entrenadores, supera todas las adversidades, así como la hostilidad de una sociedad patriarcal, y logra llegar a lo más alto del equipo olímpico de natación y completar con éxito la travesía de 33 kilómetros entre Francia e Inglaterra.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-22 08:51:12</dateadded>
+  <title>La joven y el mar</title>
+  <originaltitle>Young Woman and the Sea</originaltitle>
+  <actor>
+    <name>Daisy Ridley</name>
+    <role>Trudy Ederle</role>
+    <type>Actor</type>
+    <tmdbid>1315036</tmdbid>
+    <imdbid>nm5397459</imdbid>
+  </actor>
+  <actor>
+    <name>Tilda Cobham-Hervey</name>
+    <role>Meg Ederle</role>
+    <type>Actor</type>
+    <tmdbid>1280060</tmdbid>
+    <imdbid>nm5315479</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Graham</name>
+    <role>Bill Burgess</role>
+    <type>Actor</type>
+    <tmdbid>1115</tmdbid>
+    <imdbid>nm0334318</imdbid>
+    <tvdbid>301984</tvdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Henry Ederle</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+    <tvdbid>571270</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeanette Hain</name>
+    <role>Gertrude Ederle</role>
+    <type>Actor</type>
+    <tmdbid>49018</tmdbid>
+    <imdbid>nm0354198</imdbid>
+  </actor>
+  <actor>
+    <name>Glenn Fleshler</name>
+    <role>James Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>1377670</tmdbid>
+    <imdbid>nm0281909</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Clifford</name>
+    <role>Charlotte 'Eppy' Epstein</role>
+    <type>Actor</type>
+    <tmdbid>1648728</tmdbid>
+    <imdbid>nm5427486</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Eccleston</name>
+    <role>Jabez Wolffe</role>
+    <type>Actor</type>
+    <tmdbid>2040</tmdbid>
+    <imdbid>nm0001172</imdbid>
+    <tvdbid>348728</tvdbid>
+  </actor>
+  <actor>
+    <name>Ethan Rouse</name>
+    <role>Henry Jr. (Teen)</role>
+    <type>Actor</type>
+    <tmdbid>1613130</tmdbid>
+  </actor>
+  <actor>
+    <name>Olive Elise Abercrombie</name>
+    <role>Young Trudy Ederle</role>
+    <type>Actor</type>
+    <tmdbid>2149560</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilly Aspell</name>
+    <role>Young Meg Ederle</role>
+    <type>Actor</type>
+    <tmdbid>1829985</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphael J. Bishop</name>
+    <role>Young Henry Jr. Ederle</role>
+    <type>Actor</type>
+    <tmdbid>2829365</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Hassell</name>
+    <role>Harry Horlick</role>
+    <type>Actor</type>
+    <tmdbid>178634</tmdbid>
+    <imdbid>nm1307435</imdbid>
+    <tvdbid>307270</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Karim</name>
+    <role>Benji Zammit</role>
+    <type>Actor</type>
+    <tmdbid>115737</tmdbid>
+    <imdbid>nm0992562</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Griegel</name>
+    <role>Horst</role>
+    <type>Actor</type>
+    <tmdbid>1560425</tmdbid>
+  </actor>
+  <actor>
+    <name>Doc Butler</name>
+    <role>Uncle Ederle</role>
+    <type>Actor</type>
+    <tmdbid>4505398</tmdbid>
+  </actor>
+  <actor>
+    <name>Yordan Angelov</name>
+    <role>Karl Durshley</role>
+    <type>Actor</type>
+    <tmdbid>4512913</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Eades</name>
+    <role>Johnny Weissmuller</role>
+    <type>Actor</type>
+    <tmdbid>3256108</tmdbid>
+  </actor>
+  <actor>
+    <name>Hyoie O'Grady</name>
+    <role>Chip Anderson</role>
+    <type>Actor</type>
+    <tmdbid>2901853</tmdbid>
+  </actor>
+  <actor>
+    <name>Devina Vassileva</name>
+    <role>Aileen Riggin</role>
+    <type>Actor</type>
+    <tmdbid>3646617</tmdbid>
+  </actor>
+  <actor>
+    <name>Tessa Bonham Jones</name>
+    <role>Helen Wainwright</role>
+    <type>Actor</type>
+    <tmdbid>2361752</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanina Yordanova</name>
+    <role>Millie</role>
+    <type>Actor</type>
+    <tmdbid>4687501</tmdbid>
+  </actor>
+  <actor>
+    <name>Saskia Vinkhuyzen</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>4512914</tmdbid>
+  </actor>
+  <actor>
+    <name>Siobhan O'Connor</name>
+    <role>WSA Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>4687505</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Sellers</name>
+    <role>Starlight Pool Lifeguard</role>
+    <type>Actor</type>
+    <tmdbid>4512924</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Billingsley</name>
+    <role>Swim Instructor</role>
+    <type>Actor</type>
+    <tmdbid>4687506</tmdbid>
+  </actor>
+  <actor>
+    <name>Trevor Van Uden</name>
+    <role>Chip's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2589498</tmdbid>
+  </actor>
+  <actor>
+    <name>Cat Haave</name>
+    <role>Annette Kellerman</role>
+    <type>Actor</type>
+    <tmdbid>4512923</tmdbid>
+  </actor>
+  <actor>
+    <name>Iliyana Koleva</name>
+    <role>Australian Female Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>4687510</tmdbid>
+  </actor>
+  <actor>
+    <name>Paolina Popova</name>
+    <role>Australian Female Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>4687511</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Davis</name>
+    <role>Starlight Pool Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1297039</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Caspe</name>
+    <role>Starlight Pool Reporter</role>
+    <type>Actor</type>
+    <tmdbid>25730</tmdbid>
+    <imdbid>nm1340370</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Colicos</name>
+    <role>Starlight Pool Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2110486</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Fleming</name>
+    <role>Radio Station Sound Man</role>
+    <type>Actor</type>
+    <tmdbid>4687516</tmdbid>
+  </actor>
+  <actor>
+    <name>Velizar Binev</name>
+    <role>Doctor Weiss</role>
+    <type>Actor</type>
+    <tmdbid>22018</tmdbid>
+    <imdbid>nm0082870</imdbid>
+  </actor>
+  <actor>
+    <name>Meglena Karalambova</name>
+    <role>Sullivan's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1197983</tmdbid>
+    <imdbid>nm0438814</imdbid>
+  </actor>
+  <actor>
+    <name>John Carew</name>
+    <role>Jonas</role>
+    <type>Actor</type>
+    <tmdbid>1481431</tmdbid>
+  </actor>
+  <actor>
+    <name>Petar Stoychev</name>
+    <role>English Channel Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>3644499</tmdbid>
+  </actor>
+  <actor>
+    <name>Dimo Alexiev</name>
+    <role>English Channel Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>1000981</tmdbid>
+    <imdbid>nm2817670</imdbid>
+  </actor>
+  <actor>
+    <name>Kiril Efremov</name>
+    <role>English Channel Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>1047559</tmdbid>
+  </actor>
+  <actor>
+    <name>Kexin Wang</name>
+    <role>English Channel Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>4512926</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Poriazov</name>
+    <role>English Channel Swimmer</role>
+    <type>Actor</type>
+    <tmdbid>1456570</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Amiar</name>
+    <role>Boat Captain</role>
+    <type>Actor</type>
+    <tmdbid>4220436</tmdbid>
+  </actor>
+  <actor>
+    <name>Bashar Rahal</name>
+    <role>Reporter on Boat</role>
+    <type>Actor</type>
+    <tmdbid>105688</tmdbid>
+    <imdbid>nm0706666</imdbid>
+  </actor>
+  <actor>
+    <name>Sava Dragunchev</name>
+    <role>Reporter on Boat</role>
+    <type>Actor</type>
+    <tmdbid>1260621</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Balcon</name>
+    <role>Reporter at Beach</role>
+    <type>Actor</type>
+    <tmdbid>3086658</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy Hill</name>
+    <role>Reporter at Beach</role>
+    <type>Actor</type>
+    <tmdbid>3380688</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosen Rosenov</name>
+    <role>Alsace Bagpiper</role>
+    <type>Actor</type>
+    <tmdbid>4687534</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Lyamov</name>
+    <role>Alsace Bagpiper</role>
+    <type>Actor</type>
+    <tmdbid>4687535</tmdbid>
+  </actor>
+  <actor>
+    <name>Justine Viotty</name>
+    <role>French Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3330891</tmdbid>
+  </actor>
+  <actor>
+    <name>David Calvitto</name>
+    <role>Mayor Walker</role>
+    <type>Actor</type>
+    <tmdbid>3339507</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Morse</name>
+    <role>USS American Crew Member</role>
+    <type>Actor</type>
+    <tmdbid>1419292</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Boichat</name>
+    <role>England Customs Officer</role>
+    <type>Actor</type>
+    <tmdbid>2341431</tmdbid>
+  </actor>
+  <actor>
+    <name>Laila Barwick</name>
+    <role>Young Girl in Butcher Shop</role>
+    <type>Actor</type>
+    <tmdbid>4041893</tmdbid>
+  </actor>
+  <actor>
+    <name>Tsvetan Marinov</name>
+    <role>Coney Island Street Performer</role>
+    <type>Actor</type>
+    <tmdbid>4687536</tmdbid>
+  </actor>
+  <actor>
+    <name>J.R. Esposito</name>
+    <role>Coney Island Cop</role>
+    <type>Actor</type>
+    <tmdbid>1453290</tmdbid>
+  </actor>
+  <actor>
+    <name>Lylianna Eugene</name>
+    <role>Coney Island Young Girl</role>
+    <type>Actor</type>
+    <tmdbid>4089412</tmdbid>
+  </actor>
+  <actor>
+    <name>Quinn Patrick</name>
+    <role>Carnival Barker</role>
+    <type>Actor</type>
+    <tmdbid>2961856</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Panev</name>
+    <role>Coney Island Man</role>
+    <type>Actor</type>
+    <tmdbid>1638304</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Hinton</name>
+    <role>Coney Island Woman</role>
+    <type>Actor</type>
+    <tmdbid>4687537</tmdbid>
+  </actor>
+  <actor>
+    <name>Howard Chadwick</name>
+    <role>English Pub Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3352169</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariyan Stefanov</name>
+    <role>Babe Ruth</role>
+    <type>Actor</type>
+    <tmdbid>4687547</tmdbid>
+  </actor>
+  <actor>
+    <name>Jana Yakovleva</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>4687549</tmdbid>
+  </actor>
+  <actor>
+    <name>Clive Sawyer</name>
+    <role>Newsreel British Official</role>
+    <type>Actor</type>
+    <tmdbid>1332031</tmdbid>
+    <imdbid>nm6170152</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Chapman</name>
+    <role>Alsace Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3327051</tmdbid>
+  </actor>
+  <actor>
+    <name>Euan MacNaughton</name>
+    <role>Alsace Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1767316</tmdbid>
+  </actor>
+  <director tmdbid="20307" imdbid="nm1461392">Joachim Rønning</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fbJkQBGcPC0</trailer>
+  <rating>7.7</rating>
+  <year>2024</year>
+  <sorttitle>joven y el mar</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt5177114</imdbid>
+  <tmdbid>774531</tmdbid>
+  <premiered>2024-05-31</premiered>
+  <releasedate>2024-05-31</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>129</runtime>
+  <country>United States of America</country>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Jerry Bruckheimer Films</studio>
+  <uniqueid type="tmdb">774531</uniqueid>
+  <uniqueid type="imdb">tt5177114</uniqueid>
+  <id>tt5177114</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149805</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7737</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129293</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

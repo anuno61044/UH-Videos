@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer estadounidense de los suburbios que hereda el imperio mafioso de su abuelo, y guiada por el consigliere de confianza de la Firma, desafía las expectativas de todos, incluida la suya propia, como la nueva jefa del negocio familiar.]]></plot>
+  <outline><![CDATA[De mamá de los suburbios a don de la mafia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-08 10:16:32</dateadded>
+  <title>Mafia Mamma</title>
+  <originaltitle>Mafia Mamma</originaltitle>
+  <actor>
+    <name>Toni Collette</name>
+    <role>Kristin</role>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+    <tvdbid>360423</tvdbid>
+  </actor>
+  <actor>
+    <name>Monica Bellucci</name>
+    <role>Bianca</role>
+    <type>Actor</type>
+    <tmdbid>28782</tmdbid>
+    <imdbid>nm0000899</imdbid>
+    <tvdbid>455029</tvdbid>
+  </actor>
+  <actor>
+    <name>Sophia Nomvete</name>
+    <role>Jenny</role>
+    <type>Actor</type>
+    <tvdbid>9100050</tvdbid>
+    <tmdbid>2056333</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Bressanello</name>
+    <role>Don Giuseppe Balbano</role>
+    <type>Actor</type>
+    <tmdbid>48377</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Scarpetta</name>
+    <role>Fabrizio</role>
+    <type>Actor</type>
+    <tmdbid>2217743</tmdbid>
+    <tvdbid>530212</tvdbid>
+  </actor>
+  <actor>
+    <name>Tommy Rodger</name>
+    <role>Domenick</role>
+    <type>Actor</type>
+    <tmdbid>1914836</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulio Maria Corso</name>
+    <role>Rudy aka “Lorenzo”</role>
+    <type>Actor</type>
+    <tmdbid>1852414</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Mastroianni</name>
+    <role>Aldo</role>
+    <type>Actor</type>
+    <tmdbid>4045754</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Perugini</name>
+    <role>Dante</role>
+    <type>Actor</type>
+    <tmdbid>2885857</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Zeno</name>
+    <role>Carlo Romano</role>
+    <type>Actor</type>
+    <tmdbid>889540</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincenzo Pirrotta</name>
+    <role>"Mammone" Romano</role>
+    <type>Actor</type>
+    <tmdbid>1998365</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Maria aka “Aunt Esmerelda”</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Daish</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>1514079</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Cremona</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>1381616</tmdbid>
+  </actor>
+  <actor>
+    <name>Yonv Joseph</name>
+    <role>Randy</role>
+    <type>Actor</type>
+    <tmdbid>3060587</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Natelle</name>
+    <role>Hank</role>
+    <type>Actor</type>
+    <tmdbid>1286340</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitch Salm</name>
+    <role>Wayne</role>
+    <type>Actor</type>
+    <tmdbid>4045752</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire Palazzo</name>
+    <role>Tracy</role>
+    <type>Actor</type>
+    <tmdbid>4045753</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefano Militi</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>2029184</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Bilotta</name>
+    <role>Pallbearer</role>
+    <type>Actor</type>
+    <tmdbid>27401</tmdbid>
+    <imdbid>nm0082653</imdbid>
+  </actor>
+  <actor>
+    <name>Riccardo Martini</name>
+    <role>Carlo Romano's Son</role>
+    <type>Actor</type>
+    <tmdbid>4045755</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianpiero Zaino</name>
+    <role>Carlo Romano's Son</role>
+    <type>Actor</type>
+    <tmdbid>4045756</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Gorianoy</name>
+    <role>Giannina</role>
+    <type>Actor</type>
+    <tmdbid>4045757</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelangelo Dalisi</name>
+    <role>Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>1871397</tmdbid>
+  </actor>
+  <actor>
+    <name>Livia De Paolis</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1318901</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Duska Bisconti</name>
+    <role>Aldo's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1177443</tmdbid>
+  </actor>
+  <director tmdbid="19850" imdbid="nm0362566">Catherine Hardwicke</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w5I1crREl7s</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Mafia Mamma</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13923456</imdbid>
+  <tmdbid>809787</tmdbid>
+  <premiered>2023-04-13</premiered>
+  <releasedate>2023-04-13</releasedate>
+  <runtime>101</runtime>
+  <tagline>De mamá de los suburbios a don de la mafia.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <studio>Idea(L)</studio>
+  <studio>Vocab Films</studio>
+  <studio>New Sparta Films</studio>
+  <studio>Ingenious Media</studio>
+  <studio>Lipsync Productions</studio>
+  <studio>Cornerstone Films</studio>
+  <uniqueid type="imdb">tt13923456</uniqueid>
+  <uniqueid type="tmdb">809787</uniqueid>
+  <id>tt13923456</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100480</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6069</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La vida de una joven diseñadora de moda gira en espiral a medida que sus pensamientos internos más oscuros se manifiestan en algo espantoso que no deja de crecer.]]></plot>
+  <outline><![CDATA[Abraza tus demonios internos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 08:17:18</dateadded>
+  <title>Apéndice</title>
+  <originaltitle>Appendage</originaltitle>
+  <actor>
+    <name>Hadley Robinson</name>
+    <role>Hannah</role>
+    <type>Actor</type>
+    <tmdbid>2311924</tmdbid>
+    <tvdbid>7952538</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Hampshire</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>4570</tmdbid>
+    <imdbid>nm0358922</imdbid>
+    <tvdbid>304357</tvdbid>
+  </actor>
+  <actor>
+    <name>Kausar Mohammed</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>1855024</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Mychal Smith</name>
+    <role>Kaelin</role>
+    <type>Actor</type>
+    <tmdbid>427978</tmdbid>
+    <imdbid>nm0807506</imdbid>
+  </actor>
+  <actor>
+    <name>Desmin Borges</name>
+    <role>Cristean</role>
+    <type>Actor</type>
+    <tmdbid>972079</tmdbid>
+    <imdbid>nm3210828</imdbid>
+    <tvdbid>526145</tvdbid>
+  </actor>
+  <actor>
+    <name>Deborah Rennard</name>
+    <role>Stacy</role>
+    <type>Actor</type>
+    <tmdbid>57663</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Dortch</name>
+    <role>Steven</role>
+    <type>Actor</type>
+    <tmdbid>1763913</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Kolkebeck</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>3976780</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Stevens Wayne</name>
+    <role>Cement Man</role>
+    <type>Actor</type>
+    <tmdbid>3170854</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Pisapia</name>
+    <role>Florence</role>
+    <type>Actor</type>
+    <tmdbid>1979097</tmdbid>
+    <imdbid>nm7607949</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Chioco</name>
+    <role>Emmett</role>
+    <type>Actor</type>
+    <tmdbid>1722048</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Joy Jenkins</name>
+    <role>Raw Appendage</role>
+    <type>Actor</type>
+    <tmdbid>4301640</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Rose Folino</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3976781</tmdbid>
+  </actor>
+  <actor>
+    <name>Carrie Lynn Stauber</name>
+    <role>Dermatologist</role>
+    <type>Actor</type>
+    <tmdbid>4301641</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Butterfield</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1805551</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Turner</name>
+    <role>Art Assistant Designer</role>
+    <type>Actor</type>
+    <tmdbid>3802948</tmdbid>
+  </actor>
+  <actor>
+    <name>Carson Hebblethwaite</name>
+    <role>Hannah Double</role>
+    <type>Actor</type>
+    <tmdbid>4301643</tmdbid>
+  </actor>
+  <director tmdbid="1647240">Anna Zlokovic</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iqowBGrKzuU</trailer>
+  <rating>5.2</rating>
+  <year>2023</year>
+  <sorttitle>Apendice</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17202164</imdbid>
+  <tmdbid>1081662</tmdbid>
+  <premiered>2023-03-11</premiered>
+  <releasedate>2023-03-11</releasedate>
+  <runtime>95</runtime>
+  <tagline>Abraza tus demonios internos.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Fever Dream Studios</studio>
+  <studio>20th Digital Studio</studio>
+  <uniqueid type="imdb">tt17202164</uniqueid>
+  <uniqueid type="tmdb">1081662</uniqueid>
+  <id>tt17202164</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1177318</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5680</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

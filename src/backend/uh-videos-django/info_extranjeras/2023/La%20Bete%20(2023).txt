@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un futuro próximo donde las emociones se han convertido en una amenaza, Gabrielle finalmente decide purificar su ADN en una máquina que la sumergirá en sus vidas anteriores y la liberará de todos los sentimientos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-05 11:43:29</dateadded>
+  <title>The Beast (La bestia)</title>
+  <originaltitle>La Bête</originaltitle>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>Gabrielle</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>George MacKay</name>
+    <role>Louis</role>
+    <type>Actor</type>
+    <tmdbid>146750</tmdbid>
+    <imdbid>nm1126657</imdbid>
+    <tvdbid>459093</tvdbid>
+  </actor>
+  <actor>
+    <name>Guslagie Malanda</name>
+    <role>Poupée Kelly</role>
+    <type>Actor</type>
+    <tmdbid>1360307</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Scali</name>
+    <role>Georges</role>
+    <type>Actor</type>
+    <tmdbid>1789100</tmdbid>
+  </actor>
+  <actor>
+    <name>Dasha Nekrasova</name>
+    <role>Dakota</role>
+    <type>Actor</type>
+    <tmdbid>1717627</tmdbid>
+    <imdbid>nm6221606</imdbid>
+  </actor>
+  <actor>
+    <name>Elina Löwensohn</name>
+    <role>La voyante</role>
+    <type>Actor</type>
+    <tmdbid>17257</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Hoskins</name>
+    <role>Gina</role>
+    <type>Actor</type>
+    <tmdbid>2833739</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Faure</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>946511</tmdbid>
+    <imdbid>nm1029367</imdbid>
+  </actor>
+  <actor>
+    <name>Kester Lovelace</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>1342531</tmdbid>
+  </actor>
+  <actor>
+    <name>Félicien Pinot</name>
+    <role>Augustin</role>
+    <type>Actor</type>
+    <tmdbid>1850236</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Lacotte</name>
+    <role>L'architecte</role>
+    <type>Actor</type>
+    <tmdbid>1109781</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre-François Garel</name>
+    <role>Paul Poiret</role>
+    <type>Actor</type>
+    <tmdbid>3040614</tmdbid>
+  </actor>
+  <actor>
+    <name>Lukas Ionesco</name>
+    <role>Anton</role>
+    <type>Actor</type>
+    <tmdbid>1363548</tmdbid>
+  </actor>
+  <actor>
+    <name>Céline Carrère</name>
+    <role>Femme bal 1910</role>
+    <type>Actor</type>
+    <tmdbid>1591902</tmdbid>
+  </actor>
+  <actor>
+    <name>Hortense Gélinet</name>
+    <role>Femme bal 1910</role>
+    <type>Actor</type>
+    <tmdbid>1774508</tmdbid>
+  </actor>
+  <actor>
+    <name>Pauline Jacquard</name>
+    <role>Femme bal 1910</role>
+    <type>Actor</type>
+    <tmdbid>1104512</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Barnole</name>
+    <role>Femme bal 1910</role>
+    <type>Actor</type>
+    <tmdbid>579754</tmdbid>
+  </actor>
+  <actor>
+    <name>Théo Hakola</name>
+    <role>Le barman clubs</role>
+    <type>Actor</type>
+    <tmdbid>1314998</tmdbid>
+  </actor>
+  <actor>
+    <name>Antoine Barraud</name>
+    <role>Homme club 1972</role>
+    <type>Actor</type>
+    <tmdbid>1364039</tmdbid>
+  </actor>
+  <actor>
+    <name>Dejana Poposka</name>
+    <role>Femme clubs</role>
+    <type>Actor</type>
+    <tmdbid>2464342</tmdbid>
+  </actor>
+  <actor>
+    <name>Galice Cassagnes</name>
+    <role>Femme clubs</role>
+    <type>Actor</type>
+    <tmdbid>4274966</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Prim</name>
+    <role>Femme clubs</role>
+    <type>Actor</type>
+    <tmdbid>1461258</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Szawarska</name>
+    <role>Femme clubs</role>
+    <type>Actor</type>
+    <tmdbid>3786891</tmdbid>
+  </actor>
+  <actor>
+    <name>Lottie Andersen</name>
+    <role>Femme clubs</role>
+    <type>Actor</type>
+    <tmdbid>1960231</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthias El Koulali</name>
+    <role>Homme clubs</role>
+    <type>Actor</type>
+    <tmdbid>4673005</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Neal</name>
+    <role>Assistant réalisateur pub sécurité routière</role>
+    <type>Actor</type>
+    <tmdbid>3343725</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Hofstetter</name>
+    <role>Femme pub sécurité routière</role>
+    <type>Actor</type>
+    <tmdbid>297771</tmdbid>
+    <imdbid>nm1073029</imdbid>
+  </actor>
+  <actor>
+    <name>Dimitri Michelsen</name>
+    <role>Homme pub sécurité routière</role>
+    <type>Actor</type>
+    <tmdbid>2001599</tmdbid>
+  </actor>
+  <actor>
+    <name>Rémi Canaple</name>
+    <role>Homme pub sécurité routière</role>
+    <type>Actor</type>
+    <tmdbid>16372</tmdbid>
+  </actor>
+  <actor>
+    <name>Yazmine Van Deventer</name>
+    <role>Femme casting mannequins</role>
+    <type>Actor</type>
+    <tmdbid>4673009</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Baptiste Heuet</name>
+    <role>Homme casting mannequins</role>
+    <type>Actor</type>
+    <tmdbid>1639302</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Hayward</name>
+    <role>Chanteur émission karaoké</role>
+    <type>Actor</type>
+    <tmdbid>4333939</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Eldridge</name>
+    <role>Chanteur émission karaoké</role>
+    <type>Actor</type>
+    <tmdbid>4673010</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Reed</name>
+    <role>Chanteur émission karaoké</role>
+    <type>Actor</type>
+    <tmdbid>4673011</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Johnson</name>
+    <role>Chanteur émission karaoké</role>
+    <type>Actor</type>
+    <tmdbid>4673012</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Dolan</name>
+    <role>Système intelligence artificielle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>143593</tmdbid>
+    <imdbid>nm0230859</imdbid>
+    <tvdbid>496027</tvdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Crotty</name>
+    <role>(voice)</role>
+    <type>Actor</type>
+    <tmdbid>1373660</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Carage</name>
+    <role>Mr. Denver (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4673015</tmdbid>
+  </actor>
+  <actor>
+    <name>Bertrand Bonello</name>
+    <role>Réalisateur fond vert (voice)</role>
+    <type>Actor</type>
+    <tmdbid>146438</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Rand</name>
+    <role>Voix service sécurité (voice)</role>
+    <type>Actor</type>
+    <tmdbid>61609</tmdbid>
+    <imdbid>nm0709455</imdbid>
+  </actor>
+  <actor>
+    <name>Gianna Salguerio</name>
+    <role>Doublure piano</role>
+    <type>Actor</type>
+    <tmdbid>4673017</tmdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Soubiran</name>
+    <role>The Butler</role>
+    <type>Actor</type>
+    <tmdbid>2006155</tmdbid>
+  </actor>
+  <director tmdbid="146438">Bertrand Bonello</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z5KsjVf8YdU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cxjTAeaCWQc</trailer>
+  <rating>6.7</rating>
+  <year>2024</year>
+  <sorttitle>Beast (La bestia)</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt14407336</imdbid>
+  <tmdbid>914206</tmdbid>
+  <premiered>2024-02-07</premiered>
+  <releasedate>2024-02-07</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>146</runtime>
+  <country>Canada</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Les films du Bélier</studio>
+  <studio>Sons of Manual</studio>
+  <studio>My New Picture</studio>
+  <studio>ARTE France Cinéma</studio>
+  <uniqueid type="imdb">tt14407336</uniqueid>
+  <uniqueid type="tmdb">914206</uniqueid>
+  <id>tt14407336</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>997066</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>128:69</aspect>
+        <aspectratio>128:69</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>145</duration>
+        <durationinseconds>8758</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>448000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>24</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

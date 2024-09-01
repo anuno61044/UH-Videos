@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Los actores Sandra Navarro y Daniel Zavala están listos para coprotagonizar una película de un prestigioso cineasta. Charlas casuales con el equipo, conversaciones amistosas, y las carreras de ambos están por fin floreciendo: puede que estén en sintonía para una difícil escena que se avecina. Entonces, algo terrible sucede.]]></plot>
+  <outline><![CDATA[When reality surpasses fiction.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-04 09:16:50</dateadded>
+  <title>Un actor malo</title>
+  <originaltitle>Un actor malo</originaltitle>
+  <actor>
+    <name>Alfonso Dosal</name>
+    <role>Daniel Zavala</role>
+    <type>Actor</type>
+    <tmdbid>1149129</tmdbid>
+    <tvdbid>665153</tvdbid>
+  </actor>
+  <actor>
+    <name>Fiona Palomo</name>
+    <role>Sandra Navarro</role>
+    <type>Actor</type>
+    <tmdbid>2638304</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Trejoluna</name>
+    <role>Gerardo Villa el Director</role>
+    <type>Actor</type>
+    <tmdbid>1301522</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo de Santiago</name>
+    <role>Luis Medina el Abogado</role>
+    <type>Actor</type>
+    <tmdbid>1311106</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Karina Guevara</name>
+    <role>Patricia Morales la Abogada</role>
+    <type>Actor</type>
+    <tmdbid>1446704</tmdbid>
+  </actor>
+  <actor>
+    <name>Karla Rodríguez Coronado</name>
+    <role>Regina Torres la Asistente de Dirección</role>
+    <type>Actor</type>
+    <tmdbid>2092476</tmdbid>
+  </actor>
+  <actor>
+    <name>Mónica Jiménez</name>
+    <role>Mónica la Productora</role>
+    <type>Actor</type>
+    <tmdbid>1301534</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Soto</name>
+    <role>Ximena la Vestuarista</role>
+    <type>Actor</type>
+    <tmdbid>2089756</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis José Sevilla</name>
+    <role>Fabián el Representante</role>
+    <type>Actor</type>
+    <tmdbid>1402871</tmdbid>
+  </actor>
+  <actor>
+    <name>Erick Israel Consuelo</name>
+    <role>Bruno el Second</role>
+    <type>Actor</type>
+    <tmdbid>1476671</tmdbid>
+  </actor>
+  <actor>
+    <name>Solana Azulay</name>
+    <role>Lorena la Esposa</role>
+    <type>Actor</type>
+    <tmdbid>4634968</tmdbid>
+  </actor>
+  <actor>
+    <name>Carola Vázquez</name>
+    <role>Lola la Maquillista</role>
+    <type>Actor</type>
+    <tmdbid>2927811</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreas Pears</name>
+    <role>Carlos el Muerto</role>
+    <type>Actor</type>
+    <tmdbid>2102831</tmdbid>
+  </actor>
+  <actor>
+    <name>Edgar Novoa</name>
+    <role>Alejandro</role>
+    <type>Actor</type>
+    <tmdbid>964098</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Grijalva</name>
+    <role>Hombre 1</role>
+    <type>Actor</type>
+    <tmdbid>3506509</tmdbid>
+  </actor>
+  <actor>
+    <name>Berenice Mastretta</name>
+    <role>Berenice (líder)</role>
+    <type>Actor</type>
+    <tmdbid>2091725</tmdbid>
+  </actor>
+  <actor>
+    <name>Estefanía Ahumado</name>
+    <role>Mujer con Spray</role>
+    <type>Actor</type>
+    <tmdbid>4634975</tmdbid>
+  </actor>
+  <actor>
+    <name>Yessica Anahí Dávila</name>
+    <role>Reportera Motel</role>
+    <type>Actor</type>
+    <tmdbid>4634979</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Lizalde</name>
+    <role>Policía 1</role>
+    <type>Actor</type>
+    <tmdbid>3376986</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriana Cardeña</name>
+    <role>Agente Mujer MP</role>
+    <type>Actor</type>
+    <tmdbid>3719384</tmdbid>
+  </actor>
+  <actor>
+    <name>Verónica Sánchez</name>
+    <role>Médica Legista</role>
+    <type>Actor</type>
+    <tmdbid>90773</tmdbid>
+    <imdbid>nm0845189</imdbid>
+    <tvdbid>450328</tvdbid>
+  </actor>
+  <actor>
+    <name>Alejandra González</name>
+    <role>Chica No es No</role>
+    <type>Actor</type>
+    <tmdbid>4634988</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Balam</name>
+    <role>Hombre 2</role>
+    <type>Actor</type>
+    <tmdbid>4634989</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángel Zermen</name>
+    <role>Ricardo el Hermano</role>
+    <type>Actor</type>
+    <tmdbid>2746107</tmdbid>
+  </actor>
+  <actor>
+    <name>Karintia Franco</name>
+    <role>Susana Cárdenas</role>
+    <type>Actor</type>
+    <tmdbid>1511359</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Peralta</name>
+    <role>Valentina</role>
+    <type>Actor</type>
+    <tmdbid>3491568</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorena Valdés</name>
+    <role>Manifestante</role>
+    <type>Actor</type>
+    <tmdbid>3701076</tmdbid>
+  </actor>
+  <actor>
+    <name>Jano Tellez</name>
+    <role>Director de Fotografía</role>
+    <type>Actor</type>
+    <tmdbid>3115420</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianna Ovchinnikova</name>
+    <role>Vecina (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4005533</tmdbid>
+  </actor>
+  <director tmdbid="2718995">Jorge Cuchí</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3cJugmurdSA</trailer>
+  <rating>7.7</rating>
+  <year>2024</year>
+  <sorttitle>Un actor malo</sorttitle>
+  <imdbid>tt21873280</imdbid>
+  <tmdbid>1111869</tmdbid>
+  <premiered>2024-04-04</premiered>
+  <releasedate>2024-04-04</releasedate>
+  <runtime>125</runtime>
+  <tagline>When reality surpasses fiction.</tagline>
+  <country>Mexico</country>
+  <genre>Drama</genre>
+  <studio>Cinépolis</studio>
+  <studio>Catatonia Films</studio>
+  <uniqueid type="imdb">tt21873280</uniqueid>
+  <uniqueid type="tmdb">1111869</uniqueid>
+  <id>tt21873280</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1048336</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7524</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63843</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

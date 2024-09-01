@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.]]></plot>
+  <outline><![CDATA[Sin vuelta atrás. Una salida.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-02 09:16:57</dateadded>
+  <title>John Wick 4</title>
+  <originaltitle>John Wick: Chapter 4</originaltitle>
+  <actor>
+    <name>Keanu Reeves</name>
+    <role>John Wick</role>
+    <type>Actor</type>
+    <tmdbid>6384</tmdbid>
+    <imdbid>nm0000206</imdbid>
+  </actor>
+  <actor>
+    <name>Donnie Yen</name>
+    <role>Caine</role>
+    <type>Actor</type>
+    <tmdbid>1341</tmdbid>
+    <imdbid>nm0947447</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Skarsgård</name>
+    <role>Marquis</role>
+    <type>Actor</type>
+    <tmdbid>137905</tmdbid>
+    <imdbid>nm0803889</imdbid>
+  </actor>
+  <actor>
+    <name>Ian McShane</name>
+    <role>Winston</role>
+    <type>Actor</type>
+    <tmdbid>6972</tmdbid>
+    <imdbid>nm0574534</imdbid>
+  </actor>
+  <actor>
+    <name>Laurence Fishburne</name>
+    <role>Bowery King</role>
+    <type>Actor</type>
+    <tmdbid>2975</tmdbid>
+    <imdbid>nm0000401</imdbid>
+    <tvdbid>282895</tvdbid>
+  </actor>
+  <actor>
+    <name>Lance Reddick</name>
+    <role>Charon</role>
+    <type>Actor</type>
+    <tmdbid>129101</tmdbid>
+    <imdbid>nm0714698</imdbid>
+    <tvdbid>303463</tvdbid>
+  </actor>
+  <actor>
+    <name>Clancy Brown</name>
+    <role>Harbinger</role>
+    <type>Actor</type>
+    <tmdbid>6574</tmdbid>
+    <imdbid>nm0000317</imdbid>
+    <tvdbid>279102</tvdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Sanada</name>
+    <role>Shimazu</role>
+    <type>Actor</type>
+    <tmdbid>9195</tmdbid>
+    <imdbid>nm0760796</imdbid>
+    <tvdbid>367569</tvdbid>
+  </actor>
+  <actor>
+    <name>Rina Sawayama</name>
+    <role>Akira</role>
+    <type>Actor</type>
+    <tmdbid>2337629</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Adkins</name>
+    <role>Killa</role>
+    <type>Actor</type>
+    <tmdbid>78110</tmdbid>
+    <imdbid>nm0012078</imdbid>
+  </actor>
+  <actor>
+    <name>Aimée Kwan</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>3779452</tmdbid>
+  </actor>
+  <actor>
+    <name>Marko Zaror</name>
+    <role>Chidi</role>
+    <type>Actor</type>
+    <tmdbid>118370</tmdbid>
+    <imdbid>nm1047252</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Tena</name>
+    <role>Katia</role>
+    <type>Actor</type>
+    <tmdbid>3300</tmdbid>
+    <imdbid>nm1164730</imdbid>
+  </actor>
+  <actor>
+    <name>Shamier Anderson</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>1080969</tmdbid>
+    <imdbid>nm3875456</imdbid>
+    <tvdbid>299834</tvdbid>
+  </actor>
+  <actor>
+    <name>George Georgiou</name>
+    <role>The Elder</role>
+    <type>Actor</type>
+    <tmdbid>570010</tmdbid>
+    <imdbid>nm1745190</imdbid>
+  </actor>
+  <actor>
+    <name>Yoshinori Tashiro</name>
+    <role>Sumo #1</role>
+    <type>Actor</type>
+    <tmdbid>2422484</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroki Sumi</name>
+    <role>Sumo #2</role>
+    <type>Actor</type>
+    <tmdbid>3978249</tmdbid>
+  </actor>
+  <actor>
+    <name>Daiki Suzuki</name>
+    <role>Daiki</role>
+    <type>Actor</type>
+    <tmdbid>1967379</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia  Asuka Riedl</name>
+    <role>Operator</role>
+    <type>Actor</type>
+    <tmdbid>3978251</tmdbid>
+  </actor>
+  <actor>
+    <name>Milena Rendón</name>
+    <role>Operator</role>
+    <type>Actor</type>
+    <tmdbid>3978252</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivy Quainoo</name>
+    <role>Operator</role>
+    <type>Actor</type>
+    <tmdbid>2331772</tmdbid>
+  </actor>
+  <actor>
+    <name>Irina Trifanov</name>
+    <role>Operator</role>
+    <type>Actor</type>
+    <tmdbid>3978254</tmdbid>
+  </actor>
+  <actor>
+    <name>Iryna Fedorova</name>
+    <role>Babushka</role>
+    <type>Actor</type>
+    <tmdbid>3978255</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrej Kaminsky</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1327564</tmdbid>
+  </actor>
+  <actor>
+    <name>Sven Marquardt</name>
+    <role>Klaus</role>
+    <type>Actor</type>
+    <tmdbid>2219646</tmdbid>
+  </actor>
+  <actor>
+    <name>Raicho Vasilev</name>
+    <role>German Gangster</role>
+    <type>Actor</type>
+    <tmdbid>22019</tmdbid>
+    <imdbid>nm0890501</imdbid>
+  </actor>
+  <actor>
+    <name>Marie Pierra Kakoma</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>3978256</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Aponte</name>
+    <role>Club Host (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2002674</tmdbid>
+  </actor>
+  <actor>
+    <name>Christoph Hofmann</name>
+    <role>Valet (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3248711</tmdbid>
+  </actor>
+  <director tmdbid="40644" imdbid="nm0821432">Chad Stahelski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L0anWmmd8TI</trailer>
+  <rating>7.7</rating>
+  <year>2023</year>
+  <sorttitle>John Wick 4</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10366206</imdbid>
+  <tmdbid>603692</tmdbid>
+  <premiered>2023-03-22</premiered>
+  <releasedate>2023-03-22</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>169</runtime>
+  <tagline>Sin vuelta atrás. Una salida.</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>Thunder Road</studio>
+  <studio>87Eleven</studio>
+  <studio>Summit Entertainment</studio>
+  <studio>Studio Babelsberg</studio>
+  <set tmdbcolid="404609">
+    <name>John Wick - Colección</name>
+  </set>
+  <uniqueid type="tmdb">603692</uniqueid>
+  <uniqueid type="imdb">tt10366206</uniqueid>
+  <id>tt10366206</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149882</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>169</duration>
+        <durationinseconds>10158</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130277</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Flora, a genie trapped for more than 2,000 years inside an antique jewelry box, is accidentally called to service by Bernard, whose life is unraveling around him.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-23 11:37:16</dateadded>
+  <title>Genio</title>
+  <originaltitle>Genie</originaltitle>
+  <actor>
+    <name>Melissa McCarthy</name>
+    <role>Flora</role>
+    <type>Actor</type>
+    <tmdbid>55536</tmdbid>
+    <imdbid>nm0565250</imdbid>
+    <tvdbid>296532</tvdbid>
+  </actor>
+  <actor>
+    <name>Paapa Essiedu</name>
+    <role>Bernard Bottle</role>
+    <type>Actor</type>
+    <tmdbid>1611824</tmdbid>
+    <tvdbid>507224</tvdbid>
+  </actor>
+  <actor>
+    <name>Denée Benton</name>
+    <role>Julie Bottle</role>
+    <type>Actor</type>
+    <tmdbid>1631771</tmdbid>
+    <tvdbid>469901</tvdbid>
+  </actor>
+  <actor>
+    <name>Jordyn McIntosh</name>
+    <role>Eve Bottle</role>
+    <type>Actor</type>
+    <tmdbid>3736867</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Cumming</name>
+    <role>Flaxman</role>
+    <type>Actor</type>
+    <tmdbid>10697</tmdbid>
+    <imdbid>nm0001086</imdbid>
+    <tvdbid>310283</tvdbid>
+  </actor>
+  <actor>
+    <name>Marc Maron</name>
+    <role>Lenny</role>
+    <type>Actor</type>
+    <tmdbid>1231717</tmdbid>
+    <imdbid>nm0549505</imdbid>
+    <tvdbid>309919</tvdbid>
+  </actor>
+  <actor>
+    <name>Tate Ellington</name>
+    <role>Johnny</role>
+    <type>Actor</type>
+    <tmdbid>965205</tmdbid>
+    <imdbid>nm1693588</imdbid>
+  </actor>
+  <actor>
+    <name>LaChanze</name>
+    <role>Grandma Patty</role>
+    <type>Actor</type>
+    <tmdbid>56689</tmdbid>
+    <imdbid>nm0478447</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Cleghorne</name>
+    <role>Bernard’s Mother</role>
+    <type>Actor</type>
+    <tmdbid>1232807</tmdbid>
+    <imdbid>nm0165971</imdbid>
+  </actor>
+  <actor>
+    <name>Oberon K.A. Adjepong</name>
+    <role>Bernard’s Father</role>
+    <type>Actor</type>
+    <tmdbid>1473137</tmdbid>
+  </actor>
+  <actor>
+    <name>Ego Nwodim</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>1726786</tmdbid>
+  </actor>
+  <actor>
+    <name>John Reynolds</name>
+    <role>Marvin</role>
+    <type>Actor</type>
+    <tmdbid>1674830</tmdbid>
+    <imdbid>nm6324745</imdbid>
+    <tvdbid>295375</tvdbid>
+  </actor>
+  <actor>
+    <name>Nyasha Hatendi</name>
+    <role>Pete</role>
+    <type>Actor</type>
+    <tmdbid>84070</tmdbid>
+    <imdbid>nm1812840</imdbid>
+  </actor>
+  <actor>
+    <name>Emanuele Secci</name>
+    <role>Henry Hackford</role>
+    <type>Actor</type>
+    <tmdbid>1091567</tmdbid>
+    <imdbid>nm2039303</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Guzmán</name>
+    <role>Detective Perez</role>
+    <type>Actor</type>
+    <tmdbid>40481</tmdbid>
+    <imdbid>nm0350079</imdbid>
+    <tvdbid>7988851</tvdbid>
+  </actor>
+  <actor>
+    <name>Savino LaQuale</name>
+    <role>Fireman</role>
+    <type>Actor</type>
+    <tmdbid>4392463</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Berg</name>
+    <role>Fireman</role>
+    <type>Actor</type>
+    <tmdbid>54200</tmdbid>
+    <imdbid>nm0073683</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Brown</name>
+    <role>Sorcerer</role>
+    <type>Actor</type>
+    <tmdbid>53916</tmdbid>
+    <imdbid>nm0114460</imdbid>
+    <tvdbid>298401</tvdbid>
+  </actor>
+  <actor>
+    <name>Claudia Robinson</name>
+    <role>Bernard’s Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>4392467</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Collett</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>4392469</tmdbid>
+  </actor>
+  <actor>
+    <name>David Moreland</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>20090</tmdbid>
+    <imdbid>nm0603655</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Neil Hernandez</name>
+    <role>Hot Chocolate Man</role>
+    <type>Actor</type>
+    <tmdbid>2417484</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyman Chen</name>
+    <role>Charles</role>
+    <type>Actor</type>
+    <tmdbid>1610941</tmdbid>
+    <imdbid>nm1938820</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Green</name>
+    <role>Young Bernard’s Father</role>
+    <type>Actor</type>
+    <tmdbid>4392473</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cashin</name>
+    <role>Celt (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1956129</tmdbid>
+  </actor>
+  <director tmdbid="1417113">Sam Boyd</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k5uzsanBY9U</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=crDxNxUv_2c</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Genio</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt24429218</imdbid>
+  <tmdbid>1189198</tmdbid>
+  <premiered>2023-11-22</premiered>
+  <releasedate>2023-11-22</releasedate>
+  <runtime>93</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Comedia</genre>
+  <studio>Working Title Films</studio>
+  <uniqueid type="tmdb">1189198</uniqueid>
+  <uniqueid type="imdb">tt24429218</uniqueid>
+  <id>tt24429218</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2249247</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5559</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>384000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

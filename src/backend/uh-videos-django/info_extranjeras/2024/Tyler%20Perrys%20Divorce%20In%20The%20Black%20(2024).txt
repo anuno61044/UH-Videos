@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ava, una joven profesional bancaria, está devastada cuando su marido abandona su matrimonio. Está decidida a luchar hasta que el destino intervenga y revele las perversas hazañas que una vez sabotearon el destino de Ava.]]></plot>
+  <outline><![CDATA[El miedo no tiene cabida en el amor.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-12 12:01:47</dateadded>
+  <title>Divorcio en negro</title>
+  <originaltitle>Tyler Perry's Divorce in the Black</originaltitle>
+  <actor>
+    <name>Meagan Good</name>
+    <role>Ava</role>
+    <type>Actor</type>
+    <tmdbid>22122</tmdbid>
+    <imdbid>nm0328709</imdbid>
+  </actor>
+  <actor>
+    <name>Cory Hardrict</name>
+    <role>Dallas</role>
+    <type>Actor</type>
+    <tmdbid>74302</tmdbid>
+    <imdbid>nm0362484</imdbid>
+    <tvdbid>275006</tvdbid>
+  </actor>
+  <actor>
+    <name>Joseph Lee Anderson</name>
+    <role>Benji</role>
+    <type>Actor</type>
+    <tmdbid>1853836</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Polidore</name>
+    <role>Rona</role>
+    <type>Actor</type>
+    <tmdbid>2232609</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Wallace</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>3264780</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Lawson</name>
+    <role>Clarence</role>
+    <type>Actor</type>
+    <tmdbid>10090</tmdbid>
+    <imdbid>nm0493311</imdbid>
+  </actor>
+  <actor>
+    <name>Debbi Morgan</name>
+    <role>Gene</role>
+    <type>Actor</type>
+    <tmdbid>88161</tmdbid>
+    <imdbid>nm0005247</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Elliott Brewer</name>
+    <role>Sheriff</role>
+    <type>Actor</type>
+    <tmdbid>4825027</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Girma</name>
+    <role>Female #1</role>
+    <type>Actor</type>
+    <tmdbid>2463696</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Jerome Sperandio</name>
+    <role>Bartender (as Adam Sperandio)</role>
+    <type>Actor</type>
+    <tmdbid>4825209</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Komara</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1039121</tmdbid>
+  </actor>
+  <actor>
+    <name>Ursula O. Robinson</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>3363532</tmdbid>
+  </actor>
+  <actor>
+    <name>Rakeem Laws</name>
+    <role>Keith</role>
+    <type>Actor</type>
+    <tmdbid>3245933</tmdbid>
+  </actor>
+  <actor>
+    <name>Berry Williams Jr.</name>
+    <role>Morris</role>
+    <type>Actor</type>
+    <tmdbid>4825214</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Creightney</name>
+    <role>Troy</role>
+    <type>Actor</type>
+    <tmdbid>2439848</tmdbid>
+  </actor>
+  <actor>
+    <name>Delandrian Lamar Aikens</name>
+    <role>Choir Director (as Delandrian Aikens)</role>
+    <type>Actor</type>
+    <tmdbid>4825217</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason McGee</name>
+    <role>Choir Director</role>
+    <type>Actor</type>
+    <tmdbid>4825229</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthonique Page</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825233</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Johnson</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825234</tmdbid>
+  </actor>
+  <actor>
+    <name>Antwan Smalls</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825235</tmdbid>
+  </actor>
+  <actor>
+    <name>Atenya Dillon</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825236</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianna Lankford</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825237</tmdbid>
+  </actor>
+  <actor>
+    <name>Calvin J. Ford</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825238</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Grigsby</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825240</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Chism</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825241</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Daniels</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825244</tmdbid>
+  </actor>
+  <actor>
+    <name>Dedrick Clark</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825246</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Jenkins</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825247</tmdbid>
+  </actor>
+  <actor>
+    <name>Faith Norman</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825248</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Lane</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825250</tmdbid>
+  </actor>
+  <actor>
+    <name>Ja'Tia Sills</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825252</tmdbid>
+  </actor>
+  <actor>
+    <name>James Connor</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825253</tmdbid>
+  </actor>
+  <actor>
+    <name>Laray Mitchell Sr.</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825254</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Essex</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825256</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Lafourche</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825258</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Chisholm</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825262</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Pierre</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825264</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharetta Morgan-Harmon</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825265</tmdbid>
+  </actor>
+  <actor>
+    <name>Shayla Tenelle Loadholt</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825266</tmdbid>
+  </actor>
+  <actor>
+    <name>Skylar Elain Pugh</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825268</tmdbid>
+  </actor>
+  <actor>
+    <name>Soneisha Ling</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825270</tmdbid>
+  </actor>
+  <actor>
+    <name>Symone Wright</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825271</tmdbid>
+  </actor>
+  <actor>
+    <name>Taneka Lemle</name>
+    <role>Choir Member</role>
+    <type>Actor</type>
+    <tmdbid>4825272</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Andersen</name>
+    <role>Lawyer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4825275</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Bassett</name>
+    <role>Bank Customer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4825282</tmdbid>
+  </actor>
+  <actor>
+    <name>Roxy Frum</name>
+    <role>Fair Visitor / Bar Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4825285</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashton Mccorvey</name>
+    <role>Fair Minor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4825293</tmdbid>
+  </actor>
+  <actor>
+    <name>Art Newkirk</name>
+    <role>Carnie / Church Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3912028</tmdbid>
+  </actor>
+  <actor>
+    <name>Milan Respress</name>
+    <role>Young Ava (Age 8) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4825298</tmdbid>
+  </actor>
+  <director tmdbid="80602" imdbid="nm1347153">Tyler Perry</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yGi0O0zDSjQ</trailer>
+  <rating>6.9</rating>
+  <year>2024</year>
+  <sorttitle>Divorcio en negro</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt28248897</imdbid>
+  <tmdbid>1213742</tmdbid>
+  <premiered>2024-07-11</premiered>
+  <releasedate>2024-07-11</releasedate>
+  <runtime>122</runtime>
+  <tagline>El miedo no tiene cabida en el amor.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Tyler Perry Studios</studio>
+  <studio>Amazon MGM Studios</studio>
+  <uniqueid type="tmdb">1213742</uniqueid>
+  <uniqueid type="imdb">tt28248897</uniqueid>
+  <id>tt28248897</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149820</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7295</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128751</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

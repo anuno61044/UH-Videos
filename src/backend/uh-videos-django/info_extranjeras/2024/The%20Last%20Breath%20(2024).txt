@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un grupo de viejos amigos de la universidad se reúne en un viaje de buceo en el Caribe para explorar los restos de un acorazado de la Segunda Guerra Mundial y quedan atrapados dentro del laberinto submarino de metal oxidado rodeado de grandes tiburones blancos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-30 09:13:32</dateadded>
+  <title>El último aliento</title>
+  <originaltitle>The Last Breath</originaltitle>
+  <actor>
+    <name>Kim Spearman</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>2021794</tmdbid>
+    <imdbid>nm7636001</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Parr</name>
+    <role>Noah</role>
+    <type>Actor</type>
+    <tmdbid>1810180</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Arnold</name>
+    <role>Brett</role>
+    <type>Actor</type>
+    <tmdbid>1221080</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Mullen</name>
+    <role>Riley</role>
+    <type>Actor</type>
+    <tmdbid>4239666</tmdbid>
+  </actor>
+  <actor>
+    <name>Arlo Carter</name>
+    <role>Logan</role>
+    <type>Actor</type>
+    <tmdbid>4522611</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Sands</name>
+    <role>Levi</role>
+    <type>Actor</type>
+    <tmdbid>6104</tmdbid>
+    <imdbid>nm0001696</imdbid>
+  </actor>
+  <actor>
+    <name>Maxime Durand</name>
+    <role>Brian</role>
+    <type>Actor</type>
+    <tmdbid>3531064</tmdbid>
+  </actor>
+  <director tmdbid="1349785">Joachim Hedén</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UrtqDY58r9s</trailer>
+  <rating>6.795</rating>
+  <year>2024</year>
+  <sorttitle>ultimo aliento</sorttitle>
+  <imdbid>tt14827150</imdbid>
+  <tmdbid>1241674</tmdbid>
+  <premiered>2024-06-28</premiered>
+  <releasedate>2024-06-28</releasedate>
+  <runtime>97</runtime>
+  <country>Sweden</country>
+  <country>United Kingdom</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Anamorphic Films</studio>
+  <studio>Filmgate Films</studio>
+  <studio>Picaro Films</studio>
+  <studio>Freebie Films</studio>
+  <uniqueid type="tmdb">1241674</uniqueid>
+  <uniqueid type="imdb">tt14827150</uniqueid>
+  <id>tt14827150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149122</bitrate>
+        <width>1280</width>
+        <height>542</height>
+        <aspect>137:58</aspect>
+        <aspectratio>137:58</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5792</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129744</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

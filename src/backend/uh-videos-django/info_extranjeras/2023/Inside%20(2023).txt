@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un ladrón de arte de alto nivel, Nemo (Willem Dafoe), queda atrapado y sin posibilidad de salir en un lujoso ático de alta tecnología en Times Square, Nueva York, después de que su atraco no sale como estaba planeado.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-10 09:03:21</dateadded>
+  <title>Inside</title>
+  <originaltitle>Inside</originaltitle>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Nemo</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <actor>
+    <name>Gène Bervoets</name>
+    <role>Owner</role>
+    <type>Actor</type>
+    <tmdbid>1913732</tmdbid>
+    <imdbid>nm0078517</imdbid>
+    <tvdbid>7868673</tvdbid>
+  </actor>
+  <actor>
+    <name>Josia Krug</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>1889272</tmdbid>
+  </actor>
+  <actor>
+    <name>Eliza Stuyck</name>
+    <role>Jasmine</role>
+    <type>Actor</type>
+    <tmdbid>3060960</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Blumenthal</name>
+    <role>Number 3</role>
+    <type>Actor</type>
+    <tmdbid>1701193</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Eaton</name>
+    <role>Number 2</role>
+    <type>Actor</type>
+    <tmdbid>1635757</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel White</name>
+    <role>Ashley</role>
+    <type>Actor</type>
+    <tmdbid>3994976</tmdbid>
+  </actor>
+  <actor>
+    <name>Cornelia Buch</name>
+    <role>Mabel</role>
+    <type>Actor</type>
+    <tmdbid>3994978</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava von Voigt</name>
+    <role>Owner's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>3994979</tmdbid>
+  </actor>
+  <actor>
+    <name>Youl Samare</name>
+    <role>Doorman</role>
+    <type>Actor</type>
+    <tmdbid>3994980</tmdbid>
+  </actor>
+  <director tmdbid="1517111">Vasilis Katsoupis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DjODCllZj4w</trailer>
+  <rating>5.5</rating>
+  <year>2023</year>
+  <sorttitle>Inside</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14781036</imdbid>
+  <tmdbid>958196</tmdbid>
+  <premiered>2023-03-09</premiered>
+  <releasedate>2023-03-09</releasedate>
+  <runtime>106</runtime>
+  <country>Belgium</country>
+  <country>Germany</country>
+  <country>Greece</country>
+  <country>Switzerland</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>A Private View</studio>
+  <studio>Bord Cadre Films</studio>
+  <studio>Heretic</studio>
+  <studio>Schiwago Film</studio>
+  <studio>Sovereign Films</studio>
+  <studio>Focus Features</studio>
+  <studio>Bankside Films</studio>
+  <uniqueid type="tmdb">958196</uniqueid>
+  <uniqueid type="imdb">tt14781036</uniqueid>
+  <id>tt14781036</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1052003</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>105</duration>
+        <durationinseconds>6356</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

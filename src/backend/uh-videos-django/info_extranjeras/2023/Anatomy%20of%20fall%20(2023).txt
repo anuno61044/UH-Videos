@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-20 16:35:26</dateadded>
+  <title>Anatomía de una caída</title>
+  <originaltitle>Anatomie d'une chute</originaltitle>
+  <actor>
+    <name>Sandra Hüller</name>
+    <role>Sandra Voyter</role>
+    <type>Actor</type>
+    <tmdbid>7152</tmdbid>
+  </actor>
+  <actor>
+    <name>Swann Arlaud</name>
+    <role>Maître Vincent Renzi</role>
+    <type>Actor</type>
+    <tmdbid>145120</tmdbid>
+    <imdbid>nm0035128</imdbid>
+  </actor>
+  <actor>
+    <name>Milo Machado-Graner</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>3302971</tmdbid>
+  </actor>
+  <actor>
+    <name>Antoine Reinartz</name>
+    <role>L' Avocat général</role>
+    <type>Actor</type>
+    <tmdbid>1795152</tmdbid>
+  </actor>
+  <actor>
+    <name>Saadia Bentaïeb</name>
+    <role>Maître Nour Boudaoud</role>
+    <type>Actor</type>
+    <tmdbid>1613123</tmdbid>
+  </actor>
+  <actor>
+    <name>Jehnny Beth</name>
+    <role>Marge Berger</role>
+    <type>Actor</type>
+    <tmdbid>1029285</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Theis</name>
+    <role>Samuel Maleski</role>
+    <type>Actor</type>
+    <tmdbid>1312061</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Rutherford</name>
+    <role>Zoé Solidor</role>
+    <type>Actor</type>
+    <tmdbid>1033745</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Rotger</name>
+    <role>La Présidente</role>
+    <type>Actor</type>
+    <tmdbid>2670733</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Fillières</name>
+    <role>Monica</role>
+    <type>Actor</type>
+    <tmdbid>233491</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Harari</name>
+    <role>Critique littéraire</role>
+    <type>Actor</type>
+    <tmdbid>1175622</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre-François Garel</name>
+    <role>Le juge Janvier</role>
+    <type>Actor</type>
+    <tmdbid>3040614</tmdbid>
+  </actor>
+  <actor>
+    <name>Savannah Rol</name>
+    <role>Gendarme Sandra</role>
+    <type>Actor</type>
+    <tmdbid>4172945</tmdbid>
+  </actor>
+  <director tmdbid="1175620">Justine Triet</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KCdtwKRn3J0</trailer>
+  <rating>7.9</rating>
+  <year>2023</year>
+  <sorttitle>Anatomia de una caida</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17009710</imdbid>
+  <tmdbid>915935</tmdbid>
+  <premiered>2023-08-23</premiered>
+  <releasedate>2023-08-23</releasedate>
+  <runtime>151</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <studio>Les Films de Pierre</studio>
+  <studio>Les Films Pelléas</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Auvergne-Rhône-Alpes Cinéma</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>France Télévisions</studio>
+  <studio>CNC</studio>
+  <studio>Région Nouvelle-Aquitaine</studio>
+  <studio>Région Auvergne-Rhône-Alpes</studio>
+  <studio>ARTE/Cofinova 18</studio>
+  <studio>Le Pacte</studio>
+  <studio>Cinémage 16</studio>
+  <uniqueid type="tmdb">915935</uniqueid>
+  <uniqueid type="imdb">tt17009710</uniqueid>
+  <id>tt17009710</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>890446</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>180:97</aspect>
+        <aspectratio>180:97</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>151</duration>
+        <durationinseconds>9065</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
