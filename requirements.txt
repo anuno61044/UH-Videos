@@ -1,0 +1,53 @@
+# Django framework
+Django==3.2.20
+
+# Django REST framework para API y JWT
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+
+# SQLite3 ya está incluido en la instalación estándar de Python, no es necesario agregarlo aquí.
+
+# Bibliotecas para scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3  # Usado para mejorar el análisis de HTML con BeautifulSoup
+
+# Machine Learning y procesamiento de texto
+scikit-learn==1.3.0  # Para TfidfVectorizer y cosine_similarity
+numpy==1.25.0  # Dependencia común para scikit-learn
+Faker==19.2.0  # Para generar datos de prueba
+
+# Manipulación de XML
+xmltodict==0.13.0  # Alternativa ligera para el manejo de XML
+
+# Algoritmo de Levenshtein para comparación de cadenas
+python-Levenshtein==0.21.0  # Utilizado para cálculos de distancia de edición
+
+# Generación de respuestas JSON
+# (No es necesario instalar `JsonResponse`, es parte de Django)
+
+# Manipulación y creación de usuarios en Django
+# (El modelo User ya está incluido en Django, no se necesita un paquete adicional)
+
+# React y herramientas de frontend
+bootstrap==5.3.3
+react==18.3.1
+react-bootstrap==2.10.4
+react-dom==18.3.1
+react-rating-stars-component==2.2.0
+
+# Desarrollo con Vite
+vite==5.4.1
+@vitejs/plugin-react==4.3.1
+
+# ESLint y plugins para linting de React
+eslint==9.9.0
+eslint-plugin-react==7.35.0
+eslint-plugin-react-hooks==5.1.0-rc.0
+eslint-plugin-react-refresh==0.4.9
+@eslint/js==9.9.0
+@types/react==18.3.3
+@types/react-dom==18.3.0
+
+# Globally scoped identifiers
+globals==15.9.0
