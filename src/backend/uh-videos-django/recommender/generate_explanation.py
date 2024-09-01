@@ -75,12 +75,16 @@ def content_based_explanation(trace, recommended_movie_idx, movies, user_id):
     similar_movies = []
     characteristics = set()  # Usar un conjunto para evitar duplicados
     for idx, score in enumerate(trace['content_based_filtering']['content_scores']):
-        if idx != recommended_movie_idx and score > 0.5 and movies[idx].title not in seen_movies:
-            similar_movies.append(movies[idx].title)
-            if 'genre' in trace['content_based_filtering']['content_based_features'][idx]:
-                characteristics.add('género')
-            if 'director' in trace['content_based_filtering']['content_based_features'][idx]:
-                characteristics.add('director')
+        if idx != recommended_movie_idx and score > 0.5 and movies[idx].title in seen_movies:
+            # similar_movies.append(movies[idx].title)
+            pos = []
+            for i,caract in enumerate(trace['content_based_filtering']['content_based_features'][idx]):
+                if caract*trace['content_based_filtering']['content_based_features'][recommended_movie_idx][i] > 0:
+                    pos.append(i)
+            if len(pos) > 0:
+                similar_movies.append(movies[idx].title)
+                for i in pos: 
+                    characteristics.add(trace['content_based_filtering']['names'][i])
 
     if similar_movies and characteristics:
         return f"Esta película es similar a otras que te han gustado como {similar_movies} en cuanto al {', '.join(characteristics)}."

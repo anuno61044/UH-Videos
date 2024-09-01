@@ -19,7 +19,8 @@ def content_based_filtering(user_id):
     # Crear una matriz TF-IDF con las características de las películas
     tfidf = TfidfVectorizer(stop_words='english')
     movie_matrix = tfidf.fit_transform([f"{movie.genre} {movie.director} {movie.release_date.year}" for movie in movies])
-
+    names = tfidf.get_feature_names_out()
+    # print(names)
     movie_matrix = movie_matrix.toarray()
 
     # Crear un perfil del usuario basado en sus calificaciones
@@ -27,7 +28,7 @@ def content_based_filtering(user_id):
     user_profile = np.zeros(movie_matrix.shape[1])
     for rating in user_ratings:
         movie_idx = list(movies).index(rating.movie)
-        user_profile += rating.score * movie_matrix[movie_idx]
+        user_profile += rating.score/5 * movie_matrix[movie_idx]
 
     user_profile = user_profile / user_ratings.count()
 
@@ -36,6 +37,7 @@ def content_based_filtering(user_id):
 
     trace = {
         "content_based_features": movie_matrix,
+        "names" : names,
         "user_profile": user_profile,
         "content_scores": content_scores
     }
