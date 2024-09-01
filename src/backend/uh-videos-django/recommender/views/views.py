@@ -36,22 +36,30 @@ class UserRecommendations(APIView):
         })
 
 @api_view(['POST'])
+@permission_classes([AllowAny])  # Permitir acceso a cualquier usuario
 def rate_movie(request, movie_id):
     user_id = request.data.get('user_id')
     score = request.data.get('score')
     
-    movie = Movie.objects.get(id=movie_id)
-    user = User.objects.get(id=user_id)
+    try:
+        movie = Movie.objects.get(id=movie_id)
+        user = User.objects.get(id=user_id)
 
-    # Actualizar o crear la calificación
-    rating, created = Rating.objects.update_or_create(
-        user=user,
-        movie=movie,
-        defaults={'score': score}
-    )
+        # Actualizar o crear la calificación
+        rating, created = Rating.objects.update_or_create(
+            user=user,
+            movie=movie,
+            defaults={'score': score}
+        )
 
-    return Response({"success": True, "rating": rating.score})
-
+        return Response({"success": True, "rating": rating.score})
+    
+    except Movie.DoesNotExist:
+        return Response({"error": "Movie not found"}, status=404)
+    except User.DoesNotExist:
+        return Response({"error": "User not found"}, status=404)
+    except Exception as e:
+        return Response({"error": str(e)}, status=400)
 
 class UserRatingsView(APIView):
     def get(self, request, user_id):

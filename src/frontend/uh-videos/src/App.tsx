@@ -104,6 +104,26 @@ function App() {
     fetchMovies();
   }
 
+  const handleRateMovie = async (movieId, rating) => {
+    try {
+      const response = await fetch(`http://localhost:8000/api/movies/${movieId}/rate/`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          user_id: user.id,
+          score: rating,
+        }
+        )
+      });
+      if (response.ok) {
+        console.log(`Movie ${movieId} rated with ${rating} stars`);
+      }
+    } catch (error) {
+      console.error('Error rating movie:', error);
+    }
+  };
 
   return (
     <div className="relative">
@@ -159,12 +179,14 @@ function App() {
               movies.map((movie, index) => (
                 <Movie
                   title={movie.title}
-                  genres={movie.genre}
                   director={movie.director}
+                  genre={movie.genre}
                   date={movie.release_date}
                   description={movie.description}
                   explanation={trace[index]}
-                  key={index}
+                  onRate={handleRateMovie}
+                  key={movie.id}
+                  id={movie.id}
                 />
               ))
             )}
