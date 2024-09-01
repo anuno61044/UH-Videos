@@ -173,23 +173,26 @@ function App() {
           </nav>
 
           <div className='movies-container'>
-            {error ? (
-              <div className="error-message">Cargando...</div>
-            ) : (
-              movies.map((movie, index) => (
-                <Movie
-                  title={movie.title}
-                  director={movie.director}
-                  genre={movie.genre}
-                  date={movie.release_date}
-                  description={movie.description}
-                  explanation={trace[index]}
-                  onRate={handleRateMovie}
-                  key={movie.id}
-                  id={movie.id}
-                />
-              ))
-            )}
+            {error ?
+              !user ?
+                <div className="error-message">Debe autenticarse para darle una recomendación.</div>
+                :
+                <div className="error-message">Cargando...</div>
+              : (
+                movies.map((movie, index) => (
+                  <Movie
+                    title={movie.title}
+                    director={movie.director}
+                    genre={movie.genre}
+                    date={movie.release_date}
+                    description={movie.description}
+                    explanation={trace[index]}
+                    onRate={handleRateMovie}
+                    key={movie.id}
+                    id={movie.id}
+                  />
+                ))
+              )}
           </div>
         </div>
       )}
