@@ -17,7 +17,7 @@ function App() {
   useEffect(() => {
     const fetchMovies = async () => {
       try {
-        const response = await fetch(`http://localhost:8000/api/users/${user.id}/recommendations/`);
+        const response = await fetch(`http://localhost:8000/api/movies`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
