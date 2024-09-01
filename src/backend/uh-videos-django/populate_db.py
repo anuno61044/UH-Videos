@@ -76,8 +76,9 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
                 # movie_countries = [country.text for country in root.findall('country')]
                 movie_genres = [genre.text for genre in root.findall('genre')]
                 # movie_actors = [actor.find('name').text for actor in root.findall('actor')[:3]]
-                movie_description = root.find('plot')
-                
+                movie_description = root.find('plot').text
+                if movie_description is None:
+                    movie_description = 'No description'
                 movie = Movie.objects.create(
                     title=movie_title,
                     genre=movie_genres[0],

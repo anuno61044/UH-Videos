@@ -5,7 +5,7 @@ class Movie(models.Model):
     title = models.CharField(max_length=255)
     genre = models.CharField(max_length=255)
     director = models.CharField(max_length=255)
-    description = models.TextField()
+    description = models.TextField(null=True)
     release_date = models.DateField()
 
     def __str__(self):
