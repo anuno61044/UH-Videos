@@ -10,20 +10,23 @@ import Button from 'react-bootstrap/esm/Button';
 function App() {
   const [user, setUser] = useState<any>()
   const [movies, setMovies] = useState<MovieType[]>([]);
-  const [error, setError] = useState(null);
+  const [trace, setTrace] = useState([])
+  const [error, setError] = useState('');
 
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     const fetchMovies = async () => {
       try {
-        const response = await fetch(`http://localhost:8000/api/movies`);
+        const response = await fetch(`http://localhost:8000/api/users/${user.id}/recommendations/`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
         const fetchedMovies = data.movies || data.results || data; // Ajusta según la estructura de tu API
-        setMovies(fetchedMovies);
+        setMovies(fetchedMovies.recommendations);
+        setTrace(fetchedMovies.trace);
+        setError("");
       } catch (err) {
         setError(err.message);
       } finally {
@@ -75,6 +78,52 @@ function App() {
 
   };
 
+  const [query, setQuery] = useState("")
+
+  const searchMovies = (e) => {
+    const fetchMovies = async () => {
+      e.preventDefault();
+      try {
+        const response = await fetch(`http://localhost:8000/api/search/?q=${query}`);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        const fetchedMovies = data.movies; // Ajusta según la estructura de tu API
+        setMovies(fetchedMovies);
+        const messages = data.movies.map(movie => query ? `Película recomendada a partir de tu búsqueda: ${query}.` : 'Esta película fue recomendada aleatoriamente.');
+        setTrace(messages);
+        setError("");
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchMovies();
+  }
+
+  const handleRateMovie = async (movieId, rating) => {
+    try {
+      const response = await fetch(`http://localhost:8000/api/movies/${movieId}/rate/`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          user_id: user.id,
+          score: rating,
+        }
+        )
+      });
+      if (response.ok) {
+        console.log(`Movie ${movieId} rated with ${rating} stars`);
+      }
+    } catch (error) {
+      console.error('Error rating movie:', error);
+    }
+  };
 
   return (
     <div className="relative">
@@ -106,27 +155,38 @@ function App() {
           </div>
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
-              <img src="../public/almamaterw.png" className='alma-mater-icon' alt='uh'/>
-              <form className="d-flex w-100" role="search">
-                <input className="form-control me-3 ms-3" type="search" placeholder="Search" aria-label="Search" />
-                <button className="btn btn-outline-light text-light" type="submit">Search</button>
+              <img src="../public/almamaterw.png" className='alma-mater-icon' alt='uh' />
+              <form className="d-flex w-100" role="search" onSubmit={searchMovies}>
+                <input
+                  className="form-control me-3 ms-3"
+                  type="search"
+                  placeholder="Search"
+                  aria-label="Search"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                />
+                <button className="btn btn-outline-light text-light" type="submit">
+                  Search
+                </button>
               </form>
             </div>
           </nav>
 
           <div className='movies-container'>
             {error ? (
-              <div className="error-message">{error}</div>
+              <div className="error-message">Cargando...</div>
             ) : (
               movies.map((movie, index) => (
                 <Movie
                   title={movie.title}
-                  genres={movie.genre}
                   director={movie.director}
+                  genre={movie.genre}
                   date={movie.release_date}
                   description={movie.description}
-                  explanation={"Esto si es un peliculon, no dejes de verlo. Todo el mundo lo recomienda!!"}
-                  key={index}
+                  explanation={trace[index]}
+                  onRate={handleRateMovie}
+                  key={movie.id}
+                  id={movie.id}
                 />
               ))
             )}

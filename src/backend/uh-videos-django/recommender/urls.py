@@ -1,6 +1,7 @@
 from django.urls import path
-from .views import MovieList, MovieDetail, UserList, UserRatingsView, UserRecommendations, rate_movie, UsersRatingsView
-from .views import MyTokenObtainPairView, register_user, get_user
+from .views.views import MovieList, MovieDetail, UserList, UserRatingsView, UserRecommendations, rate_movie, UsersRatingsView
+from .views.views import MyTokenObtainPairView, register_user, get_user
+from .views.search import search_movies
 
 urlpatterns = [
     path('movies/', MovieList.as_view(), name='movie-list'),
@@ -14,4 +15,5 @@ urlpatterns = [
     path('movies/<int:movie_id>/rate/', rate_movie, name='rate_movie'),
     path('login/', MyTokenObtainPairView.as_view(), name='token_obtain_pair'),
     path('register/', register_user, name='register_user'),
+    path('search/', search_movies, name='search_movies'),
 ]
