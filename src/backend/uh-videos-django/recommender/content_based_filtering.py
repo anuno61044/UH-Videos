@@ -16,9 +16,11 @@ def content_based_filtering(user_id):
     """
     movies = Movie.objects.all()
 
+    
+    
     # Crear una matriz TF-IDF con las características de las películas
     tfidf = TfidfVectorizer(stop_words='english')
-    movie_matrix = tfidf.fit_transform([f"{movie.genre} {movie.director} {movie.release_date.year}" for movie in movies])
+    movie_matrix = tfidf.fit_transform([f"{movie.genre} {movie.director.replace(' ', '_')} {movie.release_date.year}" for movie in movies])
     names = tfidf.get_feature_names_out()
     # print(names)
     movie_matrix = movie_matrix.toarray()
