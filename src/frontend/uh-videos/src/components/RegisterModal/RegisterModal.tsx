@@ -77,7 +77,7 @@ function RegisterModal() {
                             />
                         </div>
                         <div className='d-flex justify-content-center'>
-                            <button className="btn btn-primary" type="submit">Submit form</button>
+                            <button className="btn btn-primary" type="submit">Register</button>
                         </div>
                     </form>
                 </Modal.Body>

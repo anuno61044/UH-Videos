@@ -20,7 +20,7 @@ export const Movie = ({ id, title, director, genre, date, url, description, expl
                 </Tooltip>
             }
         >
-            <a href={url} className='card-movie'>
+            <a href={url} className='card-movie' target="_blank" rel="noopener noreferrer">
                 <div className='movie card shadow mb-4 position-relative'>
                     <div className="star-rating position-absolute top-0 end-0 m-2">
                         <ReactStars
