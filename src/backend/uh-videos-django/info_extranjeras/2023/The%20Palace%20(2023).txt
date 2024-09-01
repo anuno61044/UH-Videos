@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A comedy set on New Year’s Eve 1999 in a luxurious hotel in the Swiss Alps where the lives of various guests and those who work for them intersect.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-19 21:32:30</dateadded>
+  <title>The Palace</title>
+  <originaltitle>The Palace</originaltitle>
+  <actor>
+    <name>Oliver Masucci</name>
+    <role>Hansueli</role>
+    <type>Actor</type>
+    <tmdbid>213581</tmdbid>
+    <imdbid>nm0557908</imdbid>
+  </actor>
+  <actor>
+    <name>Fanny Ardant</name>
+    <role>The Marquise</role>
+    <type>Actor</type>
+    <tmdbid>20234</tmdbid>
+    <imdbid>nm0000272</imdbid>
+  </actor>
+  <actor>
+    <name>John Cleese</name>
+    <role>Arthur William Dallas III</role>
+    <type>Actor</type>
+    <tmdbid>8930</tmdbid>
+    <imdbid>nm0000092</imdbid>
+  </actor>
+  <actor>
+    <name>Bronwyn James</name>
+    <role>Magnolia</role>
+    <type>Actor</type>
+    <tmdbid>1587577</tmdbid>
+  </actor>
+  <actor>
+    <name>Joaquim de Almeida</name>
+    <role>Dr. Lima</role>
+    <type>Actor</type>
+    <tmdbid>22462</tmdbid>
+    <imdbid>nm0021835</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Barbareschi</name>
+    <role>Bongo</role>
+    <type>Actor</type>
+    <tmdbid>55650</tmdbid>
+    <imdbid>nm0053230</imdbid>
+  </actor>
+  <actor>
+    <name>Milan Peschel</name>
+    <role>Caspar Tell</role>
+    <type>Actor</type>
+    <tmdbid>24440</tmdbid>
+  </actor>
+  <actor>
+    <name>Fortunato Cerlino</name>
+    <role>Tonino</role>
+    <type>Actor</type>
+    <tmdbid>1343864</tmdbid>
+    <imdbid>nm2188652</imdbid>
+  </actor>
+  <actor>
+    <name>Mickey Rourke</name>
+    <role>Bill Crush</role>
+    <type>Actor</type>
+    <tmdbid>2295</tmdbid>
+    <imdbid>nm0000620</imdbid>
+    <tvdbid>348395</tvdbid>
+  </actor>
+  <actor>
+    <name>Luisiana Kornuta Steffen</name>
+    <role>Mrs. Lima</role>
+    <type>Actor</type>
+    <tmdbid>4405249</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Exnar</name>
+    <role>Vaclav</role>
+    <type>Actor</type>
+    <tmdbid>2425000</tmdbid>
+  </actor>
+  <actor>
+    <name>Irina Kastrinidis</name>
+    <role>Vaclav's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1156059</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Petrov</name>
+    <role>Russian Guest</role>
+    <type>Actor</type>
+    <tmdbid>1631759</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Pampushnyy</name>
+    <role>Russian Guest</role>
+    <type>Actor</type>
+    <tmdbid>235814</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilia Volok</name>
+    <role>Russian Ambassador</role>
+    <type>Actor</type>
+    <tmdbid>109667</tmdbid>
+    <imdbid>nm0901679</imdbid>
+  </actor>
+  <actor>
+    <name>Marina Strakhova</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>3631395</tmdbid>
+  </actor>
+  <actor>
+    <name>Ema Kovac</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>3881665</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Shapa</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>4172981</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefania Seimur</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>4172982</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Kent</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>1273684</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew T. Reynolds</name>
+    <role>Simon Faraday</role>
+    <type>Actor</type>
+    <tmdbid>125698</tmdbid>
+  </actor>
+  <actor>
+    <name>Massiga Diawara</name>
+    <role>Angry Guest</role>
+    <type>Actor</type>
+    <tmdbid>4172983</tmdbid>
+  </actor>
+  <actor>
+    <name>Naike Anna Silipo</name>
+    <role>Tonino's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2242844</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgane Polanski</name>
+    <role>Zula</role>
+    <type>Actor</type>
+    <tmdbid>1571182</tmdbid>
+  </actor>
+  <actor>
+    <name>Sina Christen</name>
+    <role>Precy</role>
+    <type>Actor</type>
+    <tmdbid>4172984</tmdbid>
+  </actor>
+  <actor>
+    <name>Felix Mayr</name>
+    <role>Plumber</role>
+    <type>Actor</type>
+    <tmdbid>2583691</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatrice Frey</name>
+    <role>Mrs. Frautschi</role>
+    <type>Actor</type>
+    <tmdbid>48088</tmdbid>
+  </actor>
+  <actor>
+    <name>Davide Gagliardi</name>
+    <role>Barman</role>
+    <type>Actor</type>
+    <tmdbid>1769872</tmdbid>
+  </actor>
+  <actor>
+    <name>Niccolò Senni</name>
+    <role>Maître d'hotel</role>
+    <type>Actor</type>
+    <tmdbid>81510</tmdbid>
+    <imdbid>nm0784416</imdbid>
+    <tvdbid>569325</tvdbid>
+  </actor>
+  <actor>
+    <name>Teco Celio</name>
+    <role>Chef Othmar</role>
+    <type>Actor</type>
+    <tmdbid>73873</tmdbid>
+    <imdbid>nm0148081</imdbid>
+  </actor>
+  <actor>
+    <name>Mokhtar Bouzana</name>
+    <role>Master Ravi</role>
+    <type>Actor</type>
+    <tmdbid>4172985</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelica Barbareschi</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1859992</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Hauser</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>4172986</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergey Grab</name>
+    <role>Russian Bodyguard 1</role>
+    <type>Actor</type>
+    <tmdbid>2778058</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingo Raudkivi</name>
+    <role>Russian Bodyguard 2</role>
+    <type>Actor</type>
+    <tmdbid>4172988</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Rey</name>
+    <role>Russian Bodyguard 3</role>
+    <type>Actor</type>
+    <tmdbid>4172989</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Colin Mackay</name>
+    <role>Magnolia Host</role>
+    <type>Actor</type>
+    <tmdbid>4172990</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydne Rome</name>
+    <role>Mrs. Robinson</role>
+    <type>Actor</type>
+    <tmdbid>105350</tmdbid>
+    <imdbid>nm0739185</imdbid>
+  </actor>
+  <actor>
+    <name>Januaria Piromallo</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>4172991</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Chapman</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1867299</tmdbid>
+  </actor>
+  <actor>
+    <name>Annick Christiaens</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+    <tmdbid>587369</tmdbid>
+    <imdbid>nm0159966</imdbid>
+  </actor>
+  <actor>
+    <name>Markus Foster</name>
+    <role>The drunk guy</role>
+    <type>Actor</type>
+    <tmdbid>2348793</tmdbid>
+  </actor>
+  <actor>
+    <name>Lukas Jakobski</name>
+    <role>Lukas Jakobski</role>
+    <type>Actor</type>
+    <tmdbid>1164320</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamil Krejčí</name>
+    <role>Technical worker Penguin 1</role>
+    <type>Actor</type>
+    <tmdbid>64270</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Leittersdorf</name>
+    <role>Technical Worker</role>
+    <type>Actor</type>
+    <tmdbid>2110916</tmdbid>
+  </actor>
+  <actor>
+    <name>Miroslav Marinov</name>
+    <role>Mercenary</role>
+    <type>Actor</type>
+    <tmdbid>3976661</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Natelle</name>
+    <role>Secretary Dallas</role>
+    <type>Actor</type>
+    <tmdbid>1286340</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Pictet</name>
+    <role>Chambermaid Dallas</role>
+    <type>Actor</type>
+    <tmdbid>2556319</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Tavares</name>
+    <role>Zed</role>
+    <type>Actor</type>
+    <tmdbid>2317714</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Thomas</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>3041313</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Blumensev</name>
+    <role>Bellboy &amp; Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4405281</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Dufour</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2281290</tmdbid>
+  </actor>
+  <director tmdbid="3556" imdbid="nm0000591">Roman Polanski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=orcN4daXQbQ</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Palace</sorttitle>
+  <imdbid>tt14549270</imdbid>
+  <tmdbid>824016</tmdbid>
+  <premiered>2023-09-28</premiered>
+  <releasedate>2023-09-28</releasedate>
+  <runtime>101</runtime>
+  <country>France</country>
+  <country>Italy</country>
+  <country>Poland</country>
+  <country>Switzerland</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Èliseo Entertainment</studio>
+  <studio>RAI</studio>
+  <studio>CAB Productions</studio>
+  <studio>PISF</studio>
+  <studio>Atlas Sztuki</studio>
+  <studio>Moderator Inwestycje</studio>
+  <studio>R.P. Productions</studio>
+  <studio>MEDIA sub-programme of Creative Europe</studio>
+  <studio>Regione Lazio</studio>
+  <studio>MiC</studio>
+  <uniqueid type="imdb">tt14549270</uniqueid>
+  <uniqueid type="tmdb">824016</uniqueid>
+  <id>tt14549270</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1547989</bitrate>
+        <width>720</width>
+        <height>384</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6060</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

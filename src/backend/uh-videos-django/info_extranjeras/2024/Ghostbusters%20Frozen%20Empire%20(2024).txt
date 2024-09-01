@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas.]]></plot>
+  <outline><![CDATA[Recibirás un escalofrío por la espalda.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-07 09:03:07</dateadded>
+  <title>Cazafantasmas: Imperio helado</title>
+  <originaltitle>Ghostbusters: Frozen Empire</originaltitle>
+  <actor>
+    <name>Mckenna Grace</name>
+    <role>Phoebe Spengler</role>
+    <type>Actor</type>
+    <tmdbid>1172108</tmdbid>
+    <imdbid>nm5085683</imdbid>
+    <tvdbid>346975</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Rudd</name>
+    <role>Gary Grooberson</role>
+    <type>Actor</type>
+    <tmdbid>22226</tmdbid>
+    <imdbid>nm0748620</imdbid>
+    <tvdbid>266506</tvdbid>
+  </actor>
+  <actor>
+    <name>Carrie Coon</name>
+    <role>Callie Spengler</role>
+    <type>Actor</type>
+    <tmdbid>1308445</tmdbid>
+    <imdbid>nm4689420</imdbid>
+    <tvdbid>575253</tvdbid>
+  </actor>
+  <actor>
+    <name>Finn Wolfhard</name>
+    <role>Trevor Spengler</role>
+    <type>Actor</type>
+    <tmdbid>1442069</tmdbid>
+    <imdbid>nm6016511</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Aykroyd</name>
+    <role>Ray Stantz</role>
+    <type>Actor</type>
+    <tmdbid>707</tmdbid>
+    <imdbid>nm0000101</imdbid>
+  </actor>
+  <actor>
+    <name>Kumail Nanjiani</name>
+    <role>Nadeem Razmaadi</role>
+    <type>Actor</type>
+    <tmdbid>466505</tmdbid>
+    <imdbid>nm3529685</imdbid>
+    <tvdbid>294919</tvdbid>
+  </actor>
+  <actor>
+    <name>Patton Oswalt</name>
+    <role>Dr. Hubert Wartzki</role>
+    <type>Actor</type>
+    <tmdbid>10872</tmdbid>
+    <imdbid>nm0652663</imdbid>
+    <tvdbid>290298</tvdbid>
+  </actor>
+  <actor>
+    <name>Celeste O'Connor</name>
+    <role>Lucky Domingo</role>
+    <type>Actor</type>
+    <tmdbid>1972881</tmdbid>
+  </actor>
+  <actor>
+    <name>Logan Kim</name>
+    <role>Podcast</role>
+    <type>Actor</type>
+    <tmdbid>2357412</tmdbid>
+    <tvdbid>8058496</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Alyn Lind</name>
+    <role>Melody</role>
+    <type>Actor</type>
+    <tmdbid>112742</tmdbid>
+    <imdbid>nm3014840</imdbid>
+    <tvdbid>518653</tvdbid>
+  </actor>
+  <actor>
+    <name>James Acaster</name>
+    <role>Lars Pinfield</role>
+    <type>Actor</type>
+    <tmdbid>1684762</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Murray</name>
+    <role>Peter Venkman</role>
+    <type>Actor</type>
+    <tmdbid>1532</tmdbid>
+    <imdbid>nm0000195</imdbid>
+  </actor>
+  <actor>
+    <name>Ernie Hudson</name>
+    <role>Winston Zeddemore</role>
+    <type>Actor</type>
+    <tmdbid>8874</tmdbid>
+    <imdbid>nm0001368</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Janine Melnitz</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+    <tvdbid>254648</tvdbid>
+  </actor>
+  <actor>
+    <name>William Atherton</name>
+    <role>Mayor Walter Peck</role>
+    <type>Actor</type>
+    <tmdbid>7676</tmdbid>
+    <imdbid>nm0040472</imdbid>
+  </actor>
+  <actor>
+    <name>Shelley Williams</name>
+    <role>Senior Advisor</role>
+    <type>Actor</type>
+    <tmdbid>3653749</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Tummings</name>
+    <role>Police Chief</role>
+    <type>Actor</type>
+    <tmdbid>1147897</tmdbid>
+  </actor>
+  <actor>
+    <name>John Rothman</name>
+    <role>Library Administrator</role>
+    <type>Actor</type>
+    <tmdbid>60205</tmdbid>
+    <imdbid>nm0745232</imdbid>
+    <tvdbid>312610</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Whitfield</name>
+    <role>Fire Captain (1904)</role>
+    <type>Actor</type>
+    <tmdbid>4613169</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Greco</name>
+    <role>Firefighter (1904)</role>
+    <type>Actor</type>
+    <tmdbid>4613171</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Ginesi</name>
+    <role>Firefighter (1904)</role>
+    <type>Actor</type>
+    <tmdbid>4613173</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Burke</name>
+    <role>Firefighter (1904)</role>
+    <type>Actor</type>
+    <tmdbid>1322876</tmdbid>
+  </actor>
+  <actor>
+    <name>Karack Osborn</name>
+    <role>Firefighter (1904)</role>
+    <type>Actor</type>
+    <tmdbid>2703582</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Mangold</name>
+    <role>Slimer (Puppeteer)</role>
+    <type>Actor</type>
+    <tmdbid>1558814</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Whyte</name>
+    <role>Garraka (Puppeteer)</role>
+    <type>Actor</type>
+    <tmdbid>946696</tmdbid>
+    <imdbid>nm1613839</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cousteau</name>
+    <role>Dadi</role>
+    <type>Actor</type>
+    <tmdbid>4272165</tmdbid>
+  </actor>
+  <actor>
+    <name>Allison McKay</name>
+    <role>Ms. Mikowski</role>
+    <type>Actor</type>
+    <tmdbid>93672</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Speers</name>
+    <role>Doll Owner</role>
+    <type>Actor</type>
+    <tmdbid>3795643</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire Titelman</name>
+    <role>News Correspondent</role>
+    <type>Actor</type>
+    <tmdbid>1224202</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalisha Amaris Johnson</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>4613198</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Edwards</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1089188</tmdbid>
+    <imdbid>nm2897598</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Goddard</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2040182</tmdbid>
+  </actor>
+  <actor>
+    <name>Deeivya Meir</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2529375</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Lucia Parola</name>
+    <role>Woman (Beach)</role>
+    <type>Actor</type>
+    <tmdbid>3930014</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Robinson</name>
+    <role>Mother (Coffee Shop)</role>
+    <type>Actor</type>
+    <tmdbid>3951052</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Anne Bulls</name>
+    <role>Child (Coffee Shop)</role>
+    <type>Actor</type>
+    <tmdbid>4292279</tmdbid>
+  </actor>
+  <actor>
+    <name>Camari Brown</name>
+    <role>Man Running Away (Beach)</role>
+    <type>Actor</type>
+    <tmdbid>2721910</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Nell McCoy</name>
+    <role>Woman Running Away (Beach)</role>
+    <type>Actor</type>
+    <tmdbid>3765349</tmdbid>
+  </actor>
+  <actor>
+    <name>Damian Muziani</name>
+    <role>Taxi Driver (In Traffic)</role>
+    <type>Actor</type>
+    <tmdbid>2812724</tmdbid>
+  </actor>
+  <actor>
+    <name>Remy Germinario</name>
+    <role>Tourist Couple Looking at Map</role>
+    <type>Actor</type>
+    <tmdbid>1132720</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Kushner</name>
+    <role>Tourist Couple Looking at Map</role>
+    <type>Actor</type>
+    <tmdbid>3858500</tmdbid>
+  </actor>
+  <actor>
+    <name>Deisy Patiño</name>
+    <role>Woman's Friend at Beach</role>
+    <type>Actor</type>
+    <tmdbid>4099652</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Giler</name>
+    <role>Woman's Friend at Beach</role>
+    <type>Actor</type>
+    <tmdbid>4613212</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassidy Goron</name>
+    <role>Child (Beach)</role>
+    <type>Actor</type>
+    <tmdbid>4613213</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Arron</name>
+    <role>Podcast's Fan</role>
+    <type>Actor</type>
+    <tmdbid>4447020</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Gallegos</name>
+    <role>Vape Shop Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2092824</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Mercedes</name>
+    <role>NY Cop</role>
+    <type>Actor</type>
+    <tmdbid>2422999</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinnie Coppola</name>
+    <role>NY Cop</role>
+    <type>Actor</type>
+    <tmdbid>3908377</tmdbid>
+  </actor>
+  <actor>
+    <name>A.J. Voliton</name>
+    <role>NYC Bystander</role>
+    <type>Actor</type>
+    <tmdbid>1823960</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Murray</name>
+    <role>Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>2646790</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Kiernan</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1480047</tmdbid>
+    <imdbid>nm0452592</imdbid>
+  </actor>
+  <actor>
+    <name>Shelby Young</name>
+    <role>Mini-Pufts (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>25113</tmdbid>
+    <imdbid>nm1648492</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Bartley</name>
+    <role>Mini-Pufts (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1507852</tmdbid>
+  </actor>
+  <director tmdbid="57193">Gil Kenan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gXam__8p3H4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pc7jDuDTLVw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k9Gbc70C8xo</trailer>
+  <rating>6.4</rating>
+  <year>2024</year>
+  <sorttitle>Cazafantasmas: Imperio helado</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt21235248</imdbid>
+  <tmdbid>967847</tmdbid>
+  <premiered>2024-03-20</premiered>
+  <releasedate>2024-03-20</releasedate>
+  <runtime>117</runtime>
+  <tagline>Recibirás un escalofrío por la espalda.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Aventura</genre>
+  <genre>Comedia</genre>
+  <studio>Ghost Corps</studio>
+  <studio>Columbia Pictures</studio>
+  <set tmdbcolid="2980">
+    <name>Los Cazafantasmas - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt21235248</uniqueid>
+  <uniqueid type="tmdb">967847</uniqueid>
+  <id>tt21235248</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>955885</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7004</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

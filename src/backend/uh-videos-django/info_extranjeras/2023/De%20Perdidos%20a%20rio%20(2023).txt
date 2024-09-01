@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Pedro, Kiko y David, tres amigos en sus treinta y tantos largos, viajan a Río de Janeiro para recoger el cuerpo sin vida de Mateo, su mejor amigo del instituto, quien ha muerto en extrañas circunstancias. Pero al llegar a Brasil nada es lo que parece. Mateo, "el muerto", ha huido, su casa está patas arriba y una de sus ex-novias lo busca desesperadamente...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-19 21:36:30</dateadded>
+  <title>De perdidos a Río</title>
+  <originaltitle>De perdidos a Río</originaltitle>
+  <actor>
+    <name>Pablo Chiapella</name>
+    <type>Actor</type>
+    <tmdbid>1205318</tmdbid>
+    <imdbid>nm1687275</imdbid>
+    <tvdbid>534165</tvdbid>
+  </actor>
+  <actor>
+    <name>Esther Acebo</name>
+    <type>Actor</type>
+    <tmdbid>1972707</tmdbid>
+    <imdbid>nm4223458</imdbid>
+    <tvdbid>561400</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Santos</name>
+    <type>Actor</type>
+    <tmdbid>1050908</tmdbid>
+    <imdbid>nm1685281</imdbid>
+    <tvdbid>8169269</tvdbid>
+  </actor>
+  <actor>
+    <name>Fran Perea</name>
+    <type>Actor</type>
+    <tmdbid>225008</tmdbid>
+  </actor>
+  <actor>
+    <name>Kira Miró</name>
+    <type>Actor</type>
+    <tmdbid>102223</tmdbid>
+    <imdbid>nm1176125</imdbid>
+    <tvdbid>449347</tvdbid>
+  </actor>
+  <actor>
+    <name>María Botto</name>
+    <type>Actor</type>
+    <tmdbid>46856</tmdbid>
+    <imdbid>nm0098710</imdbid>
+    <tvdbid>575040</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Areces</name>
+    <type>Actor</type>
+    <tmdbid>114461</tmdbid>
+    <imdbid>nm1693112</imdbid>
+    <tvdbid>294451</tvdbid>
+  </actor>
+  <actor>
+    <name>Jorge Cremades</name>
+    <type>Actor</type>
+    <tmdbid>2746939</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulo Pires</name>
+    <type>Actor</type>
+    <tmdbid>118764</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Paca</name>
+    <type>Actor</type>
+    <tmdbid>1363246</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassio Alves</name>
+    <type>Actor</type>
+    <tmdbid>3403575</tmdbid>
+  </actor>
+  <director tmdbid="1701864">Joaquín Mazón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HfCv9rB9ZG0</trailer>
+  <rating>4.4</rating>
+  <year>2023</year>
+  <sorttitle>De perdidos a Rio</sorttitle>
+  <imdbid>tt16058152</imdbid>
+  <tmdbid>932308</tmdbid>
+  <premiered>2023-08-04</premiered>
+  <releasedate>2023-08-04</releasedate>
+  <runtime>99</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Pecado Films</studio>
+  <uniqueid type="imdb">tt16058152</uniqueid>
+  <uniqueid type="tmdb">932308</uniqueid>
+  <id>tt16058152</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>972704</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5928</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Stranded in the open sea after a fatal accident, a young woman and her two friends are rescued by a fishing vessel's captain, unaware that the ship harbors a chilling secret.]]></plot>
+  <outline><![CDATA[Survival has its price.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-30 09:11:49</dateadded>
+  <title>Dead Sea</title>
+  <originaltitle>Dead Sea</originaltitle>
+  <actor>
+    <name>Isabel Gravitt</name>
+    <role>Kaya Adams</role>
+    <type>Actor</type>
+    <tmdbid>1775560</tmdbid>
+    <tvdbid>9105432</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Wraith</name>
+    <role>Rey</role>
+    <type>Actor</type>
+    <tmdbid>118753</tmdbid>
+    <imdbid>nm2066764</imdbid>
+  </actor>
+  <actor>
+    <name>Genneya Walton</name>
+    <role>Tessa Miles</role>
+    <type>Actor</type>
+    <tmdbid>1352920</tmdbid>
+    <imdbid>nm6631562</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Cameron</name>
+    <role>Curtis Hunt</role>
+    <type>Actor</type>
+    <tmdbid>64057</tmdbid>
+  </actor>
+  <actor>
+    <name>Koa Tom</name>
+    <role>Xander</role>
+    <type>Actor</type>
+    <tmdbid>4793764</tmdbid>
+  </actor>
+  <actor>
+    <name>Garrett Wareing</name>
+    <role>Julian</role>
+    <type>Actor</type>
+    <tmdbid>1446466</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Silverman</name>
+    <role>Russell Adams</role>
+    <type>Actor</type>
+    <tmdbid>1327926</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoenix Volken</name>
+    <role>Kit Adams</role>
+    <type>Actor</type>
+    <tmdbid>4793765</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Burke</name>
+    <role>Sgt. Burke</role>
+    <type>Actor</type>
+    <tmdbid>104473</tmdbid>
+  </actor>
+  <actor>
+    <name>Audriana Volken</name>
+    <role>Sadie</role>
+    <type>Actor</type>
+    <tmdbid>4793766</tmdbid>
+  </actor>
+  <director tmdbid="4793761">Phil Volken</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QXO439zDgLA</trailer>
+  <rating>4.6</rating>
+  <year>2024</year>
+  <sorttitle>Dead Sea</sorttitle>
+  <imdbid>tt11724920</imdbid>
+  <tmdbid>1308757</tmdbid>
+  <premiered>2024-07-26</premiered>
+  <releasedate>2024-07-26</releasedate>
+  <runtime>88</runtime>
+  <tagline>Survival has its price.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Del Rey Films</studio>
+  <studio>Laguna Six</studio>
+  <uniqueid type="tmdb">1308757</uniqueid>
+  <uniqueid type="imdb">tt11724920</uniqueid>
+  <id>tt11724920</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149226</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>962:519</aspect>
+        <aspectratio>962:519</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5268</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129508</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

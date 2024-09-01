@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Basado en un solo capítulo, el Captain's Log, de la clásica novela Drácula de 1897 de Bram Stoker, la historia se desarrolla a bordo de la goleta rusa Demeter, que fue fletada para transportar carga privada (veinticuatro cajas de madera sin marcar) desde Carpatia a Londres. La película detallará los extraños eventos que acontecieron a la tripulación condenada mientras intentan sobrevivir al viaje por el océano, acechados cada noche por una aterradora presencia a bordo del barco. Cuando finalmente llegó cerca del puerto de Whitby, estaba totalmente en ruinas. No había rastro de la tripulación.]]></plot>
+  <outline><![CDATA[Nace la leyenda de Drácula.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-29 08:27:07</dateadded>
+  <title>El último viaje del Demeter</title>
+  <originaltitle>The Last Voyage of the Demeter</originaltitle>
+  <actor>
+    <name>Corey Hawkins</name>
+    <role>Clemens</role>
+    <type>Actor</type>
+    <tmdbid>1154054</tmdbid>
+    <imdbid>nm3659660</imdbid>
+    <tvdbid>465717</tvdbid>
+  </actor>
+  <actor>
+    <name>Aisling Franciosi</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1323109</tmdbid>
+    <imdbid>nm4957233</imdbid>
+    <tvdbid>248030</tvdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Wojchek</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Botet</name>
+    <role>Dracula / Nosferatu</role>
+    <type>Actor</type>
+    <tmdbid>111090</tmdbid>
+    <imdbid>nm2306701</imdbid>
+    <tvdbid>499252</tvdbid>
+  </actor>
+  <actor>
+    <name>Liam Cunningham</name>
+    <role>Captain Eliot</role>
+    <type>Actor</type>
+    <tmdbid>15498</tmdbid>
+    <imdbid>nm0192377</imdbid>
+    <tvdbid>247883</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Walley</name>
+    <role>Abrams</role>
+    <type>Actor</type>
+    <tmdbid>1656685</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Jon Briones</name>
+    <role>Joseph</role>
+    <type>Actor</type>
+    <tmdbid>1224010</tmdbid>
+    <imdbid>nm1490183</imdbid>
+    <tvdbid>336306</tvdbid>
+  </actor>
+  <actor>
+    <name>Stefan Kapičić</name>
+    <role>Olgaren</role>
+    <type>Actor</type>
+    <tmdbid>80507</tmdbid>
+    <imdbid>nm1292973</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Furulund</name>
+    <role>Larsen</role>
+    <type>Actor</type>
+    <tmdbid>1291166</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikolai Nikolaeff</name>
+    <role>Petrofsky</role>
+    <type>Actor</type>
+    <tmdbid>1238110</tmdbid>
+  </actor>
+  <actor>
+    <name>Woody Norman</name>
+    <role>Toby</role>
+    <type>Actor</type>
+    <tmdbid>1945369</tmdbid>
+    <tvdbid>8141516</tvdbid>
+  </actor>
+  <actor>
+    <name>Graham Turner</name>
+    <role>Constable</role>
+    <type>Actor</type>
+    <tmdbid>1715223</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Murray</name>
+    <role>Deputy Fisher</role>
+    <type>Actor</type>
+    <tmdbid>1476138</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolò Pasetti</name>
+    <role>Deputy Hirsch</role>
+    <type>Actor</type>
+    <tmdbid>1803376</tmdbid>
+    <tvdbid>744210</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher York</name>
+    <role>Fletcher - Whitby</role>
+    <type>Actor</type>
+    <tmdbid>2810585</tmdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Cabak</name>
+    <role>Harbour Master</role>
+    <type>Actor</type>
+    <tmdbid>4227135</tmdbid>
+  </actor>
+  <actor>
+    <name>Rudolf Danielewicz</name>
+    <role>Old Romani Wiseman</role>
+    <type>Actor</type>
+    <tmdbid>2210243</tmdbid>
+  </actor>
+  <actor>
+    <name>Noureddine Farihi</name>
+    <role>One-Eyed Sailor</role>
+    <type>Actor</type>
+    <tmdbid>234767</tmdbid>
+  </actor>
+  <actor>
+    <name>Malcolm Galea</name>
+    <role>Sailor #1 - Card Game</role>
+    <type>Actor</type>
+    <tmdbid>121549</tmdbid>
+    <imdbid>nm1517591</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Shaw</name>
+    <role>Lightkeeper</role>
+    <type>Actor</type>
+    <tmdbid>1229334</tmdbid>
+    <imdbid>nm0789575</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Doggart</name>
+    <role>Son of Lightkeeper</role>
+    <type>Actor</type>
+    <tmdbid>4227129</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Depasquale</name>
+    <role>Sailor #2 - Card Game</role>
+    <type>Actor</type>
+    <tmdbid>1957570</tmdbid>
+  </actor>
+  <actor>
+    <name>Sally Reeve</name>
+    <role>Barmaid</role>
+    <type>Actor</type>
+    <tmdbid>1089519</tmdbid>
+    <imdbid>nm0716129</imdbid>
+  </actor>
+  <director tmdbid="135113" imdbid="nm0004217">André Øvredal</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xq3x3Ntc74w</trailer>
+  <rating>6.1</rating>
+  <year>2023</year>
+  <sorttitle>ultimo viaje del Demeter</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1001520</imdbid>
+  <tmdbid>635910</tmdbid>
+  <premiered>2023-08-09</premiered>
+  <releasedate>2023-08-09</releasedate>
+  <runtime>119</runtime>
+  <tagline>Nace la leyenda de Drácula.</tagline>
+  <country>Germany</country>
+  <country>India</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Phoenix Pictures</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>Wise Owl Media</studio>
+  <studio>Reliance Entertainment</studio>
+  <studio>Studio Babelsberg</studio>
+  <studio>StoryWorks Productions</studio>
+  <uniqueid type="imdb">tt1001520</uniqueid>
+  <uniqueid type="tmdb">635910</uniqueid>
+  <id>tt1001520</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>940258</bitrate>
+        <width>1280</width>
+        <height>610</height>
+        <aspect>387:185</aspect>
+        <aspectratio>387:185</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7119</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

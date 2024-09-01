@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Francia, 1935. Un investigador deberá resolver el asesinato de un banquero parisino. De entre una serie de pintorescos sospechosos destaca Madeleine, cuyos deseos de fama y fortuna se pondrán en el camino de la investigación.]]></plot>
+  <outline><![CDATA[¿Quién se beneficia del crimen?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-14 10:02:21</dateadded>
+  <title>Mi crimen</title>
+  <originaltitle>Mon crime</originaltitle>
+  <actor>
+    <name>Nadia Tereszkiewicz</name>
+    <role>Madeleine Verdier</role>
+    <type>Actor</type>
+    <tmdbid>2019443</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Marder</name>
+    <role>Pauline Mauléon</role>
+    <type>Actor</type>
+    <tmdbid>131607</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Huppert</name>
+    <role>Odette Chaumette</role>
+    <type>Actor</type>
+    <tmdbid>17882</tmdbid>
+    <imdbid>nm0001376</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrice Luchini</name>
+    <role>Judge Gustave Rabusset</role>
+    <type>Actor</type>
+    <tmdbid>28255</tmdbid>
+    <imdbid>nm0524528</imdbid>
+  </actor>
+  <actor>
+    <name>Dany Boon</name>
+    <role>Mr Palmarède</role>
+    <type>Actor</type>
+    <tmdbid>37627</tmdbid>
+    <imdbid>nm0200702</imdbid>
+  </actor>
+  <actor>
+    <name>André Dussollier</name>
+    <role>Mr Bonnard</role>
+    <type>Actor</type>
+    <tmdbid>18177</tmdbid>
+    <imdbid>nm0244707</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Christophe Bouvet</name>
+    <role>Mr Montferrand</role>
+    <type>Actor</type>
+    <tmdbid>19776</tmdbid>
+    <tvdbid>300675</tvdbid>
+  </actor>
+  <actor>
+    <name>Édouard Sulpice</name>
+    <role>André Bonnard</role>
+    <type>Actor</type>
+    <tmdbid>2496679</tmdbid>
+  </actor>
+  <actor>
+    <name>Régis Laspalès</name>
+    <role>Investigator Mr Brun</role>
+    <type>Actor</type>
+    <tmdbid>145159</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Broche</name>
+    <role>Court clerk Léon Trapu</role>
+    <type>Actor</type>
+    <tmdbid>1362878</tmdbid>
+  </actor>
+  <actor>
+    <name>Félix Lefebvre</name>
+    <role>Gilbert Raton</role>
+    <type>Actor</type>
+    <tmdbid>1859007</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Fau</name>
+    <role>Prosecutor Maurice Vrai</role>
+    <type>Actor</type>
+    <tmdbid>4395</tmdbid>
+    <imdbid>nm0268949</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Prévost</name>
+    <role>Judge Parvot</role>
+    <type>Actor</type>
+    <tmdbid>24832</tmdbid>
+    <imdbid>nm0699545</imdbid>
+  </actor>
+  <actor>
+    <name>Evelyne Buyle</name>
+    <role>Simone Bernard</role>
+    <type>Actor</type>
+    <tmdbid>24468</tmdbid>
+  </actor>
+  <actor>
+    <name>Myriam Boyer</name>
+    <role>Concierge Mrs Jus</role>
+    <type>Actor</type>
+    <tmdbid>120571</tmdbid>
+  </actor>
+  <actor>
+    <name>Franck de la Personne</name>
+    <role>Pistole</role>
+    <type>Actor</type>
+    <tmdbid>41528</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne De Baecque</name>
+    <role>Housemaid Céleste</role>
+    <type>Actor</type>
+    <tmdbid>2463404</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Claude Bolle-Reddat</name>
+    <role>Emile Bouchard</role>
+    <type>Actor</type>
+    <tmdbid>37650</tmdbid>
+    <imdbid>nm0093088</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Besnehard</name>
+    <role>Waiter at the restaurant</role>
+    <type>Actor</type>
+    <tmdbid>21680</tmdbid>
+    <imdbid>nm0078712</imdbid>
+  </actor>
+  <actor>
+    <name>Anne-Hélène Orvelin</name>
+    <role>Secretary of Mr Bonnard</role>
+    <type>Actor</type>
+    <tmdbid>1377430</tmdbid>
+  </actor>
+  <actor>
+    <name>Georges Bécot</name>
+    <role>Cinema voice</role>
+    <type>Actor</type>
+    <tmdbid>1356044</tmdbid>
+  </actor>
+  <actor>
+    <name>Radostina Rogliano</name>
+    <role>Féministe Public Procès (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3534961</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Beaurepaire</name>
+    <role>Newspaper seller</role>
+    <type>Actor</type>
+    <tmdbid>3746090</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia Sanchez</name>
+    <role>Mrs Alvarez</role>
+    <type>Actor</type>
+    <tmdbid>3746027</tmdbid>
+  </actor>
+  <director tmdbid="4387" imdbid="nm0654830">François Ozon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Eyzr_viBB60</trailer>
+  <rating>6.6</rating>
+  <year>2023</year>
+  <sorttitle>Mi crimen</sorttitle>
+  <imdbid>tt20330434</imdbid>
+  <tmdbid>977506</tmdbid>
+  <premiered>2023-03-08</premiered>
+  <releasedate>2023-03-08</releasedate>
+  <runtime>103</runtime>
+  <tagline>¿Quién se beneficia del crimen?</tagline>
+  <country>France</country>
+  <genre>Comedia</genre>
+  <genre>Misterio</genre>
+  <studio>Mandarin Production</studio>
+  <studio>FOZ</studio>
+  <studio>Gaumont</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Playtime</studio>
+  <studio>SCOPE Pictures</studio>
+  <uniqueid type="tmdb">977506</uniqueid>
+  <uniqueid type="imdb">tt20330434</uniqueid>
+  <id>tt20330434</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1068613</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6171</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>162136</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

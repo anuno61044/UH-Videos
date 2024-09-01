@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En 1989, una impopular chica de secundaria llamada Lisa reanima accidentalmente un apuesto cadáver victoriano durante una tormenta eléctrica y comienza a reconstruirlo para convertirlo en el hombre de sus sueños usando la cama de rayos uva estropeada que tiene en su garaje.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-28 08:29:18</dateadded>
+  <title>Lisa Frankenstein</title>
+  <originaltitle>Lisa Frankenstein</originaltitle>
+  <actor>
+    <name>Kathryn Newton</name>
+    <role>Lisa Swallows</role>
+    <type>Actor</type>
+    <tmdbid>221192</tmdbid>
+    <imdbid>nm1105980</imdbid>
+    <tvdbid>307562</tvdbid>
+  </actor>
+  <actor>
+    <name>Cole Sprouse</name>
+    <role>The Creature</role>
+    <type>Actor</type>
+    <tmdbid>56730</tmdbid>
+    <imdbid>nm0819850</imdbid>
+  </actor>
+  <actor>
+    <name>Liza Soberano</name>
+    <role>Taffy</role>
+    <type>Actor</type>
+    <tmdbid>1268847</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Eikenberry</name>
+    <role>Michael Trent</role>
+    <type>Actor</type>
+    <tmdbid>3410595</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Chrest</name>
+    <role>Dale Swallows</role>
+    <type>Actor</type>
+    <tmdbid>141762</tmdbid>
+    <imdbid>nm0159609</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Gugino</name>
+    <role>Janet</role>
+    <type>Actor</type>
+    <tmdbid>17832</tmdbid>
+    <imdbid>nm0001303</imdbid>
+    <tvdbid>308112</tvdbid>
+  </actor>
+  <actor>
+    <name>Joey Harris</name>
+    <role>Tamara</role>
+    <type>Actor</type>
+    <tmdbid>3740404</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryce Romero</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>1415436</tmdbid>
+    <imdbid>nm4753789</imdbid>
+  </actor>
+  <actor>
+    <name>Jenna Davis</name>
+    <role>Lori</role>
+    <type>Actor</type>
+    <tmdbid>2043430</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Montes</name>
+    <role>Vince</role>
+    <type>Actor</type>
+    <tmdbid>1529004</tmdbid>
+  </actor>
+  <actor>
+    <name>Trina Lafargue</name>
+    <role>Tricia</role>
+    <type>Actor</type>
+    <tmdbid>1860890</tmdbid>
+  </actor>
+  <actor>
+    <name>Paola Andino</name>
+    <role>Misty</role>
+    <type>Actor</type>
+    <tmdbid>1428077</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Pierce Mathus</name>
+    <role>Lisa's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1729410</tmdbid>
+    <imdbid>nm3678451</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Sexton</name>
+    <role>Axe Murderer</role>
+    <type>Actor</type>
+    <tmdbid>1514480</tmdbid>
+    <imdbid>nm2201021</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Greening</name>
+    <role>Jock</role>
+    <type>Actor</type>
+    <tmdbid>3804493</tmdbid>
+  </actor>
+  <actor>
+    <name>Mae Anglim</name>
+    <role>Drunk Girl</role>
+    <type>Actor</type>
+    <tmdbid>4465394</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayla Miller</name>
+    <role>White Girl</role>
+    <type>Actor</type>
+    <tmdbid>4465395</tmdbid>
+  </actor>
+  <actor>
+    <name>Jailyn Rae</name>
+    <role>Psychic Jenny</role>
+    <type>Actor</type>
+    <tmdbid>3830822</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashton Leigh</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>1268071</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Talbert</name>
+    <role>Wayne</role>
+    <type>Actor</type>
+    <tmdbid>175630</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Gaspard</name>
+    <role>Mr. Garces</role>
+    <type>Actor</type>
+    <tmdbid>1346619</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Singer</name>
+    <role>Mrs. Garces</role>
+    <type>Actor</type>
+    <tmdbid>1027298</tmdbid>
+    <imdbid>nm1046808</imdbid>
+    <tvdbid>356003</tvdbid>
+  </actor>
+  <actor>
+    <name>Shane Partlow</name>
+    <role>History Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1410264</tmdbid>
+    <imdbid>nm1018678</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Reeks</name>
+    <role>The Creature Hand Double</role>
+    <type>Actor</type>
+    <tmdbid>4545966</tmdbid>
+  </actor>
+  <actor>
+    <name>Destiny Jones</name>
+    <role>Sosnouski</role>
+    <type>Actor</type>
+    <tmdbid>4366154</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Ballance</name>
+    <role>Tepper</role>
+    <type>Actor</type>
+    <tmdbid>2244450</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna DuPlantier</name>
+    <role>Buckley</role>
+    <type>Actor</type>
+    <tmdbid>230995</tmdbid>
+    <imdbid>nm1251245</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Grace Crim</name>
+    <role>Officer Waters</role>
+    <type>Actor</type>
+    <tmdbid>1704655</tmdbid>
+  </actor>
+  <actor>
+    <name>Walker Babington</name>
+    <role>Officer John</role>
+    <type>Actor</type>
+    <tmdbid>1748372</tmdbid>
+  </actor>
+  <actor>
+    <name>Ritchie Montgomery</name>
+    <role>Old Man Harvey</role>
+    <type>Actor</type>
+    <tmdbid>52885</tmdbid>
+    <imdbid>nm0599907</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Fisher</name>
+    <role>Lady Cop</role>
+    <type>Actor</type>
+    <tmdbid>2844306</tmdbid>
+  </actor>
+  <actor>
+    <name>Summer Selby</name>
+    <role>Neighbor Woman</role>
+    <type>Actor</type>
+    <tmdbid>1543465</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcello Maurio</name>
+    <role>Boy on Bike</role>
+    <type>Actor</type>
+    <tmdbid>4545972</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Miller</name>
+    <role>EMT</role>
+    <type>Actor</type>
+    <tmdbid>4545973</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Belanova</name>
+    <role>Goth Teen</role>
+    <type>Actor</type>
+    <tmdbid>3728632</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Miklovic</name>
+    <role>Strange Figure</role>
+    <type>Actor</type>
+    <tmdbid>1797346</tmdbid>
+    <imdbid>nm1319584</imdbid>
+  </actor>
+  <actor>
+    <name>April Dupré</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>4034372</tmdbid>
+  </actor>
+  <director tmdbid="84617">Zelda Williams</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bvI3F95w8ns</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=POOeA3zCuUY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NIm_DkLGAk4</trailer>
+  <rating>6.6</rating>
+  <year>2024</year>
+  <sorttitle>Lisa Frankenstein</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt21188080</imdbid>
+  <tmdbid>993784</tmdbid>
+  <premiered>2024-02-07</premiered>
+  <releasedate>2024-02-07</releasedate>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Terror</genre>
+  <genre>Romance</genre>
+  <studio>MXN Entertainment</studio>
+  <studio>Lollipop Woods</studio>
+  <studio>Focus Features</studio>
+  <uniqueid type="imdb">tt21188080</uniqueid>
+  <uniqueid type="tmdb">993784</uniqueid>
+  <id>tt21188080</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1096097</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6090</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

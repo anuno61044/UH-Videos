@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras verse implicado en un atentado terrorista, Santi, un taxista, es tomado como rehén por uno de los autores.]]></plot>
+  <outline><![CDATA[Una Película de Daniel Calparsoro]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-21 20:04:09</dateadded>
+  <title>Todos los nombres de Dios</title>
+  <originaltitle>Todos los nombres de Dios</originaltitle>
+  <actor>
+    <name>Luis Tosar</name>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Inma Cuesta</name>
+    <type>Actor</type>
+    <tmdbid>224728</tmdbid>
+    <imdbid>nm2285844</imdbid>
+    <tvdbid>7925499</tvdbid>
+  </actor>
+  <actor>
+    <name>Nourdin Batán</name>
+    <type>Actor</type>
+    <tmdbid>2786957</tmdbid>
+    <tvdbid>8179691</tvdbid>
+  </actor>
+  <actor>
+    <name>Milo Taboada</name>
+    <type>Actor</type>
+    <tmdbid>1077953</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Vico</name>
+    <type>Actor</type>
+    <tmdbid>1243743</tmdbid>
+    <imdbid>nm0896071</imdbid>
+    <tvdbid>472528</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucas Nabor</name>
+    <type>Actor</type>
+    <tmdbid>2768896</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Buíl</name>
+    <type>Actor</type>
+    <tmdbid>232658</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Enríquez</name>
+    <type>Actor</type>
+    <tmdbid>34054</tmdbid>
+    <imdbid>nm0258090</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cayo</name>
+    <type>Actor</type>
+    <tmdbid>51902</tmdbid>
+    <imdbid>nm0147308</imdbid>
+    <tvdbid>456310</tvdbid>
+  </actor>
+  <actor>
+    <name>Ismail Hsaini Ammi</name>
+    <type>Actor</type>
+    <tmdbid>3803188</tmdbid>
+  </actor>
+  <director tmdbid="212687" imdbid="nm0130714" tvdbid="520387">Daniel Calparsoro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NoEd8WDFcZE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-fnU_sOTMfg</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Todos los nombres de Dios</sorttitle>
+  <imdbid>tt20420538</imdbid>
+  <tmdbid>1053592</tmdbid>
+  <premiered>2023-09-15</premiered>
+  <releasedate>2023-09-15</releasedate>
+  <runtime>105</runtime>
+  <tagline>Una Película de Daniel Calparsoro</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Tripictures</studio>
+  <studio>Second Gen Pictures</studio>
+  <studio>Wanda Visión</studio>
+  <studio>TVE</studio>
+  <studio>TeleMadrid</studio>
+  <uniqueid type="imdb">tt20420538</uniqueid>
+  <uniqueid type="tmdb">1053592</uniqueid>
+  <id>tt20420538</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>752425</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6320</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63828</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

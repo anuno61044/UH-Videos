@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tres parejas participan en una sesión terapéutica muy particular. Una psicóloga les propone una sesión grupal donde se tendrán que analizar entre ellos sin su presencia. Eso sí, les ha dejado unos sobres con indicaciones de lo que tienen que tratar. Le mecánica propuesta alienta a que todos opinen, discutan y se muestren tal y como son. Todos son fiscales y abogados defensores. Todos interrogan, confiesan, se desnudan emocionalmente, se arrepienten de lo que dicen, juegan a provocar.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 17:04:15</dateadded>
+  <title>Bajo terapia</title>
+  <originaltitle>Bajo terapia</originaltitle>
+  <actor>
+    <name>Malena Alterio</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>96428</tmdbid>
+    <imdbid>nm0968559</imdbid>
+    <tvdbid>518487</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Jiménez</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>114460</tmdbid>
+    <imdbid>nm1411610</imdbid>
+    <tvdbid>7955410</tvdbid>
+  </actor>
+  <actor>
+    <name>Fele Martínez</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1602</tmdbid>
+    <imdbid>nm0555093</imdbid>
+    <tvdbid>562000</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Pagudo</name>
+    <role>Esteban</role>
+    <type>Actor</type>
+    <tmdbid>1075029</tmdbid>
+    <imdbid>nm1813393</imdbid>
+    <tvdbid>594871</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Ugarte</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>1155088</tmdbid>
+    <imdbid>nm3993669</imdbid>
+    <tvdbid>470631</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Vellido</name>
+    <role>Roberto</role>
+    <type>Actor</type>
+    <tmdbid>1089049</tmdbid>
+    <imdbid>nm0892624</imdbid>
+    <tvdbid>531971</tvdbid>
+  </actor>
+  <director tmdbid="47059" imdbid="nm0380547">Gerardo Herrero</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CuHAlsDCRgA</trailer>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>Bajo terapia</sorttitle>
+  <imdbid>tt15977250</imdbid>
+  <tmdbid>1008003</tmdbid>
+  <premiered>2023-03-17</premiered>
+  <releasedate>2023-03-17</releasedate>
+  <runtime>89</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Alcavarán Films</studio>
+  <studio>Syldavia Cinema</studio>
+  <uniqueid type="tmdb">1008003</uniqueid>
+  <uniqueid type="imdb">tt15977250</uniqueid>
+  <id>tt15977250</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1055824</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5319</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64456</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

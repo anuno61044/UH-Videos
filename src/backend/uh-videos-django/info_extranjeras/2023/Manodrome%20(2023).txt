@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ralphie es joven y saludable y su novia está embarazada. Sin embargo, las cosas no están del todo bien. Su trabajo como conductor de Uber no es gratificante ni económicamente estable. Su relación con su cuerpo está construida sobre cimientos inestables. Cuando es introducido en un culto libertario a la masculinidad, las tensiones que han estado creciendo dentro de él salen a la superficie, y Ralphie comienza a perder el control de la realidad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-20 08:24:06</dateadded>
+  <title>Manodrome</title>
+  <originaltitle>Manodrome</originaltitle>
+  <actor>
+    <name>Jesse Eisenberg</name>
+    <role>Ralphie</role>
+    <type>Actor</type>
+    <tmdbid>44735</tmdbid>
+    <imdbid>nm0251986</imdbid>
+  </actor>
+  <actor>
+    <name>Adrien Brody</name>
+    <role>Dan</role>
+    <type>Actor</type>
+    <tmdbid>3490</tmdbid>
+    <imdbid>nm0004778</imdbid>
+    <tvdbid>310424</tvdbid>
+  </actor>
+  <actor>
+    <name>Odessa Young</name>
+    <role>Sal</role>
+    <type>Actor</type>
+    <tmdbid>1345495</tmdbid>
+    <imdbid>nm3747611</imdbid>
+    <tvdbid>521388</tvdbid>
+  </actor>
+  <actor>
+    <name>Sallieu Sesay</name>
+    <role>Ahmet</role>
+    <type>Actor</type>
+    <tmdbid>1676449</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Ettinger</name>
+    <role>Jason</role>
+    <type>Actor</type>
+    <tmdbid>211991</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Suplee</name>
+    <role>Dad Leo</role>
+    <type>Actor</type>
+    <tmdbid>824</tmdbid>
+    <imdbid>nm0839486</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Eberhardt</name>
+    <role>Son Aaron</role>
+    <type>Actor</type>
+    <tmdbid>2337287</tmdbid>
+  </actor>
+  <actor>
+    <name>Lamar Johnson</name>
+    <role>Garfield</role>
+    <type>Actor</type>
+    <tmdbid>1397605</tmdbid>
+    <imdbid>nm4045841</imdbid>
+    <tvdbid>299820</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Anthony Wilson</name>
+    <role>Zander</role>
+    <type>Actor</type>
+    <tmdbid>127070</tmdbid>
+    <imdbid>nm0933096</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Wade McLaughlin</name>
+    <role>Jerome</role>
+    <type>Actor</type>
+    <tmdbid>1584268</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonah Wharton</name>
+    <role>Connor</role>
+    <type>Actor</type>
+    <tmdbid>1315619</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Lamb</name>
+    <role>Raymond</role>
+    <type>Actor</type>
+    <tmdbid>3598148</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Jonigkeit</name>
+    <role>Son Brad</role>
+    <type>Actor</type>
+    <tmdbid>1284084</tmdbid>
+    <imdbid>nm2797756</imdbid>
+    <tvdbid>459117</tvdbid>
+  </actor>
+  <actor>
+    <name>Gheorghe Mureșan</name>
+    <role>Sachiel</role>
+    <type>Actor</type>
+    <tmdbid>1445726</tmdbid>
+  </actor>
+  <actor>
+    <name>Zia Anger</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1510680</tmdbid>
+  </actor>
+  <actor>
+    <name>Garrett Richmond</name>
+    <role>Blake</role>
+    <type>Actor</type>
+    <tmdbid>1689647</tmdbid>
+  </actor>
+  <actor>
+    <name>Riley Keough</name>
+    <role>Woman Breastfeeding</role>
+    <type>Actor</type>
+    <tmdbid>98522</tmdbid>
+    <imdbid>nm2142336</imdbid>
+    <tvdbid>519604</tvdbid>
+  </actor>
+  <director tmdbid="1553817">John Trengove</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GjHIUBplrUw</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Manodrome</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14813150</imdbid>
+  <tmdbid>843942</tmdbid>
+  <premiered>2023-11-10</premiered>
+  <releasedate>2023-11-10</releasedate>
+  <runtime>96</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Felix Culpa</studio>
+  <studio>Pulse Films</studio>
+  <studio>Liminal Content</studio>
+  <studio>Riverside Entertainment</studio>
+  <uniqueid type="imdb">tt14813150</uniqueid>
+  <uniqueid type="tmdb">843942</uniqueid>
+  <id>tt14813150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1161145</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5758</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

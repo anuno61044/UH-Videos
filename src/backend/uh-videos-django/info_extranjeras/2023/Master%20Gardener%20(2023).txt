@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narvel Roth (Joel Edgerton) es el meticuloso horticultor de Gracewood Gardens. Está tan dedicado a cuidar los jardines de esta maravillosa e histórica finca como a complacer a su jefa, la rica viuda Sra. Havernhill (Sigourney Weaver). Pero el caos se apodera de la ordenada existencia de Narvel cuando la Sra. Haverhill le exige que tome como aprendiz a su rebelde y problemática sobrina nieta Maya (Quintessa Swindell). Esta nueva situación va a sacar a la luz oscuros secretos de un pasado violento que también es una amenaza para todos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-08 10:04:00</dateadded>
+  <title>El maestro jardinero</title>
+  <originaltitle>Master Gardener</originaltitle>
+  <actor>
+    <name>Joel Edgerton</name>
+    <role>Narvel Roth</role>
+    <type>Actor</type>
+    <tmdbid>33192</tmdbid>
+    <imdbid>nm0249291</imdbid>
+    <tvdbid>296971</tvdbid>
+  </actor>
+  <actor>
+    <name>Sigourney Weaver</name>
+    <role>Norma Haverhill</role>
+    <type>Actor</type>
+    <tmdbid>10205</tmdbid>
+    <imdbid>nm0000244</imdbid>
+    <tvdbid>253588</tvdbid>
+  </actor>
+  <actor>
+    <name>Quintessa Swindell</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>2042690</tmdbid>
+    <imdbid>nm9165599</imdbid>
+  </actor>
+  <actor>
+    <name>Esai Morales</name>
+    <role>Oscar Neruda</role>
+    <type>Actor</type>
+    <tmdbid>65344</tmdbid>
+    <imdbid>nm0005246</imdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Losan</name>
+    <role>Xavier</role>
+    <type>Actor</type>
+    <tmdbid>2139677</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Hill</name>
+    <role>Isobel</role>
+    <type>Actor</type>
+    <tmdbid>38663</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Le</name>
+    <role>Janine</role>
+    <type>Actor</type>
+    <tmdbid>1329559</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy McKinney</name>
+    <role>Ronnie</role>
+    <type>Actor</type>
+    <tmdbid>1448224</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Ali</name>
+    <role>Gardener</role>
+    <type>Actor</type>
+    <tmdbid>2646608</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Ashley</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>3062567</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Bankens</name>
+    <role>RG</role>
+    <type>Actor</type>
+    <tmdbid>1668606</tmdbid>
+    <imdbid>nm4983834</imdbid>
+  </actor>
+  <actor>
+    <name>Cade Burk</name>
+    <role>Johnny Boy</role>
+    <type>Actor</type>
+    <tmdbid>3729369</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Freeman</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>3729372</tmdbid>
+  </actor>
+  <actor>
+    <name>DJames Jones</name>
+    <role>Reverend Charles</role>
+    <type>Actor</type>
+    <tmdbid>3729373</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Mercurio</name>
+    <role>Sissy</role>
+    <type>Actor</type>
+    <tmdbid>1705851</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruce Mohat</name>
+    <role>The Old Man</role>
+    <type>Actor</type>
+    <tmdbid>3729377</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Cosnett</name>
+    <role>Stephen Collins</role>
+    <type>Actor</type>
+    <tmdbid>143041</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Richmond</name>
+    <role>US Marshall #1</role>
+    <type>Actor</type>
+    <tmdbid>3229694</tmdbid>
+  </actor>
+  <actor>
+    <name>Jef Figallo</name>
+    <role>US Marshall #2</role>
+    <type>Actor</type>
+    <tmdbid>3736371</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Green</name>
+    <role>Gardner</role>
+    <type>Actor</type>
+    <tmdbid>2806740</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica R. Harris</name>
+    <role>Female Host</role>
+    <type>Actor</type>
+    <tmdbid>3168760</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Russell</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3642862</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Turley</name>
+    <role>Militia Leader</role>
+    <type>Actor</type>
+    <tmdbid>3736375</tmdbid>
+  </actor>
+  <actor>
+    <name>Jami Bolin</name>
+    <role>Diner</role>
+    <type>Actor</type>
+    <tmdbid>3736377</tmdbid>
+  </actor>
+  <actor>
+    <name>Colette Jeansonne</name>
+    <role>Maya's mom</role>
+    <type>Actor</type>
+    <tmdbid>3736378</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzette Lange</name>
+    <role>Master Gardener</role>
+    <type>Actor</type>
+    <tmdbid>3314432</tmdbid>
+  </actor>
+  <actor>
+    <name>Ja'Quan Monroe-Henderson</name>
+    <role>Entrance Guard</role>
+    <type>Actor</type>
+    <tmdbid>3513744</tmdbid>
+  </actor>
+  <director tmdbid="1035" imdbid="nm0001707">Paul Schrader</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3uPlGs3lk3A</trailer>
+  <rating>6.2</rating>
+  <year>2023</year>
+  <sorttitle>maestro jardinero</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15342244</imdbid>
+  <tmdbid>869612</tmdbid>
+  <premiered>2023-05-19</premiered>
+  <releasedate>2023-05-19</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>111</runtime>
+  <country>Australia</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Suspense</genre>
+  <studio>Kojo Studios</studio>
+  <studio>Northern Lights Films</studio>
+  <studio>Ottocento Films</studio>
+  <studio>Flickstar</studio>
+  <studio>HanWay Films</studio>
+  <uniqueid type="imdb">tt15342244</uniqueid>
+  <uniqueid type="tmdb">869612</uniqueid>
+  <id>tt15342244</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1005170</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6655</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ray Waller, una estrella del béisbol obligada a retirarse prematuramente a causa de una enfermedad degenerativa, se muda a una nueva casa con su esposa Eve, su hija adolescente Izzy y su hijo pequeño Elliot. Con la esperanza secreta de recuperarse y volver al deporte profesional, Ray convence a Eve de que la fabulosa piscina del jardín de su nuevo hogar será divertida para los niños y le servirá a él como terapia física. Pero un oscuro secreto del pasado de la casa desatará una fuerza malévola que arrastrará a toda la familia a las insondables profundidades del terror más asfixiante.]]></plot>
+  <outline><![CDATA[Todo lo que temes está bajo la superficie.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-24 09:06:08</dateadded>
+  <title>La piscina</title>
+  <originaltitle>Night Swim</originaltitle>
+  <actor>
+    <name>Wyatt Russell</name>
+    <role>Ray Waller</role>
+    <type>Actor</type>
+    <tmdbid>986808</tmdbid>
+    <imdbid>nm0751518</imdbid>
+    <tvdbid>548649</tvdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Eve Waller</role>
+    <type>Actor</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Amélie Hoeferle</name>
+    <role>Izzy Waller</role>
+    <type>Actor</type>
+    <tmdbid>2333351</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Warren</name>
+    <role>Elliot Waller</role>
+    <type>Actor</type>
+    <tmdbid>2035115</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Lenehan</name>
+    <role>Kay</role>
+    <type>Actor</type>
+    <tmdbid>9279</tmdbid>
+    <imdbid>nm0501802</imdbid>
+  </actor>
+  <actor>
+    <name>Jodi Long</name>
+    <role>Lucy Summers</role>
+    <type>Actor</type>
+    <tmdbid>44059</tmdbid>
+    <imdbid>nm0519023</imdbid>
+  </actor>
+  <actor>
+    <name>Preston Galli</name>
+    <role>Young Boy in Flashback Scene</role>
+    <type>Actor</type>
+    <tmdbid>3950080</tmdbid>
+  </actor>
+  <actor>
+    <name>Aivan Uttapa</name>
+    <role>Ty</role>
+    <type>Actor</type>
+    <tmdbid>4218846</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellie Araiza</name>
+    <role>Angel</role>
+    <type>Actor</type>
+    <tmdbid>96365</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Martinez</name>
+    <role>Coach E</role>
+    <type>Actor</type>
+    <tmdbid>172166</tmdbid>
+    <imdbid>nm1603145</imdbid>
+    <tvdbid>341813</tvdbid>
+  </actor>
+  <actor>
+    <name>Elijah J. Roberts</name>
+    <role>Ronin</role>
+    <type>Actor</type>
+    <tmdbid>4464531</tmdbid>
+  </actor>
+  <actor>
+    <name>Rahnuma Panthaky</name>
+    <role>Dr. Sridhar</role>
+    <type>Actor</type>
+    <tmdbid>1456313</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Sinclair</name>
+    <role>Pool Tech</role>
+    <type>Actor</type>
+    <tmdbid>1410040</tmdbid>
+    <imdbid>nm4161154</imdbid>
+  </actor>
+  <actor>
+    <name>Ayazhan Dalabayeva</name>
+    <role>Rebecca</role>
+    <type>Actor</type>
+    <tmdbid>4218470</tmdbid>
+  </actor>
+  <actor>
+    <name>Joziah Lagonoy</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>2645955</tmdbid>
+  </actor>
+  <actor>
+    <name>Liz Parkinson</name>
+    <role>Bony Woman</role>
+    <type>Actor</type>
+    <tmdbid>4464533</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Avery</name>
+    <role>Bloated Man</role>
+    <type>Actor</type>
+    <tmdbid>3094348</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleanor Threatt</name>
+    <role>Tommy's Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1950505</tmdbid>
+  </actor>
+  <actor>
+    <name>Bianca Diezmo</name>
+    <role>Teen Girl #1</role>
+    <type>Actor</type>
+    <tmdbid>3738565</tmdbid>
+  </actor>
+  <actor>
+    <name>Paige Van Conant</name>
+    <role>Teen Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>3990146</tmdbid>
+  </actor>
+  <actor>
+    <name>Alton Williams</name>
+    <role>Big Dad's Kid</role>
+    <type>Actor</type>
+    <tmdbid>4599611</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Reaves</name>
+    <role>Big Dad</role>
+    <type>Actor</type>
+    <tmdbid>1602548</tmdbid>
+  </actor>
+  <actor>
+    <name>Grey Walker</name>
+    <role>Chicken Playing Kid</role>
+    <type>Actor</type>
+    <tmdbid>4599613</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark C. Healey</name>
+    <role>Chicken Playing Dad</role>
+    <type>Actor</type>
+    <tmdbid>3798822</tmdbid>
+  </actor>
+  <director tmdbid="1389077">Bryce McGuire</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hw58jyNcD14</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-HJsUR1p85I</trailer>
+  <rating>4.7</rating>
+  <year>2024</year>
+  <sorttitle>piscina</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9682428</imdbid>
+  <tmdbid>1072342</tmdbid>
+  <premiered>2024-01-03</premiered>
+  <releasedate>2024-01-03</releasedate>
+  <criticrating>20</criticrating>
+  <runtime>98</runtime>
+  <tagline>Todo lo que temes está bajo la superficie.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Atomic Monster</studio>
+  <studio>Blumhouse Productions</studio>
+  <uniqueid type="tmdb">1072342</uniqueid>
+  <uniqueid type="imdb">tt9682428</uniqueid>
+  <id>tt9682428</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1132990</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5900</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

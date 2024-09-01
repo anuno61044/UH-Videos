@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una loba es una caperucita que ha aprendido a reírse de si misma. Y ese es el mayor superpoder que existe porque cuando nos convertimos al humor no hay nada que pueda hacernos daño. Una historia que nos demuestra que todos somos patéticos en el amor pero que aprender a reírnos de ello, convierte automáticamente el drama en comedia. Y por lo tanto a Caperucita en loba. El proceso de conversión de Marta, nuestra protagonista, le llevará varios años y varios “tíos”, desde que decide convertirse en loba hasta que lo logra, porque tendrá que aprender que a la risa no se llega evitando el bosque del drama sino atravesándolo hasta el fondo. Sometiéndose al método del “ensayo-ostión”, pasará por un montón de situaciones patéticas hasta que aprenda a abandonar el autoengaño y a enfrentar la realidad, descubriendo que del drama brota la risa y de la risa brota… el poder.]]></plot>
+  <outline><![CDATA[En la risa está el poder]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-27 17:46:56</dateadded>
+  <title>De Caperucita a loba</title>
+  <originaltitle>De Caperucita a loba</originaltitle>
+  <actor>
+    <name>Marta González de la Vega</name>
+    <type>Actor</type>
+    <tmdbid>2005167</tmdbid>
+    <imdbid>nm2125297</imdbid>
+  </actor>
+  <actor>
+    <name>Berto Romero</name>
+    <type>Actor</type>
+    <tmdbid>1283862</tmdbid>
+    <imdbid>nm2015004</imdbid>
+    <tvdbid>470630</tvdbid>
+  </actor>
+  <actor>
+    <name>Elena Irureta</name>
+    <type>Actor</type>
+    <tmdbid>16980</tmdbid>
+    <imdbid>nm0410118</imdbid>
+    <tvdbid>596132</tvdbid>
+  </actor>
+  <actor>
+    <name>José Mota</name>
+    <type>Actor</type>
+    <tmdbid>19854</tmdbid>
+    <imdbid>nm1239566</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Santiago Segura</name>
+    <type>Actor</type>
+    <tmdbid>10847</tmdbid>
+    <imdbid>nm0782213</imdbid>
+    <tvdbid>293545</tvdbid>
+  </actor>
+  <actor>
+    <name>David Guapo</name>
+    <type>Actor</type>
+    <tmdbid>1490500</tmdbid>
+  </actor>
+  <actor>
+    <name>Martita de Graná</name>
+    <type>Actor</type>
+    <tmdbid>3158126</tmdbid>
+  </actor>
+  <actor>
+    <name>Melania Urbina</name>
+    <type>Actor</type>
+    <tmdbid>144481</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Zunino</name>
+    <type>Actor</type>
+    <tmdbid>1251684</tmdbid>
+  </actor>
+  <director tmdbid="16979">Chus Gutiérrez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NCXn8x8Abbk</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>De Caperucita a loba</sorttitle>
+  <imdbid>tt13017740</imdbid>
+  <tmdbid>1051800</tmdbid>
+  <premiered>2023-04-05</premiered>
+  <releasedate>2023-04-05</releasedate>
+  <runtime>93</runtime>
+  <tagline>En la risa está el poder</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Bowfinger</studio>
+  <studio>Esto También Pasará</studio>
+  <studio>Tondero</studio>
+  <uniqueid type="tmdb">1051800</uniqueid>
+  <uniqueid type="imdb">tt13017740</uniqueid>
+  <id>tt13017740</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1871513</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5571</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

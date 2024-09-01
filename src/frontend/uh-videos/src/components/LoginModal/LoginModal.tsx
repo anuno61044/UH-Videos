@@ -43,7 +43,7 @@ function LoginModal() {
 
     return (
         <>
-            <Button variant="success" onClick={handleShow}>
+            <Button variant="light" onClick={handleShow}>
                 Login
             </Button>
 

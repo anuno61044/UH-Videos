@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A contract killer, after being diagnosed with a fast-moving form of dementia, is presented with the opportunity to redeem himself by saving the life of his estranged adult son. But to do so, he must race against the police closing in on him as well as the ticking clock of his own rapidly deteriorating mind.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-08 10:19:21</dateadded>
+  <title>Knox Goes Away</title>
+  <originaltitle>Knox Goes Away</originaltitle>
+  <actor>
+    <name>Michael Keaton</name>
+    <role>John Knox</role>
+    <type>Actor</type>
+    <tmdbid>2232</tmdbid>
+    <imdbid>nm0000474</imdbid>
+    <tvdbid>253664</tvdbid>
+  </actor>
+  <actor>
+    <name>Al Pacino</name>
+    <role>Xavier Crane</role>
+    <type>Actor</type>
+    <tmdbid>1158</tmdbid>
+    <imdbid>nm0000199</imdbid>
+  </actor>
+  <actor>
+    <name>Marcia Gay Harden</name>
+    <role>Ruby Knox</role>
+    <type>Actor</type>
+    <tmdbid>4726</tmdbid>
+    <imdbid>nm0001315</imdbid>
+    <tvdbid>273220</tvdbid>
+  </actor>
+  <actor>
+    <name>James Marsden</name>
+    <role>Miles Knox</role>
+    <type>Actor</type>
+    <tmdbid>11006</tmdbid>
+    <imdbid>nm0005188</imdbid>
+    <tvdbid>267668</tvdbid>
+  </actor>
+  <actor>
+    <name>Suzy Nakamura</name>
+    <role>Detective Emily Ikari</role>
+    <type>Actor</type>
+    <tmdbid>26998</tmdbid>
+    <imdbid>nm0620232</imdbid>
+    <tvdbid>335443</tvdbid>
+  </actor>
+  <actor>
+    <name>Joanna Kulig</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>908548</tmdbid>
+    <imdbid>nm2251846</imdbid>
+  </actor>
+  <actor>
+    <name>Ray McKinnon</name>
+    <role>Thomas Muncie</role>
+    <type>Actor</type>
+    <tmdbid>1472</tmdbid>
+    <imdbid>nm0571964</imdbid>
+    <tvdbid>292729</tvdbid>
+  </actor>
+  <actor>
+    <name>John Hoogenakker</name>
+    <role>Detective Rale</role>
+    <type>Actor</type>
+    <tmdbid>1188193</tmdbid>
+    <imdbid>nm2139624</imdbid>
+    <tvdbid>526640</tvdbid>
+  </actor>
+  <actor>
+    <name>Lela Loren</name>
+    <role>Cheryl Knox</role>
+    <type>Actor</type>
+    <tmdbid>203781</tmdbid>
+    <imdbid>nm2187457</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Bastin</name>
+    <role>Kaylee Knox</role>
+    <type>Actor</type>
+    <tmdbid>2320526</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Dugan</name>
+    <role>Philo Jones</role>
+    <type>Actor</type>
+    <tmdbid>17494</tmdbid>
+    <imdbid>nm0240797</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Paulson</name>
+    <role>Detective Gelfuso</role>
+    <type>Actor</type>
+    <tmdbid>88597</tmdbid>
+    <imdbid>nm0667350</imdbid>
+    <tvdbid>306988</tvdbid>
+  </actor>
+  <actor>
+    <name>Sasha Neboga</name>
+    <role>Ludmilla</role>
+    <type>Actor</type>
+    <tmdbid>1804591</tmdbid>
+  </actor>
+  <actor>
+    <name>Marisa Echeverria</name>
+    <role>Bianca Delgado</role>
+    <type>Actor</type>
+    <tmdbid>1552359</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Donella</name>
+    <role>Jordan Moore</role>
+    <type>Actor</type>
+    <tmdbid>86397</tmdbid>
+    <imdbid>nm0232414</imdbid>
+  </actor>
+  <actor>
+    <name>Skip Howland</name>
+    <role>Diner Patron w Tattoos (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3252036</tmdbid>
+  </actor>
+  <director tmdbid="2232" imdbid="nm0000474" tvdbid="253664">Michael Keaton</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UiMNmOajf-E</trailer>
+  <rating>6.9</rating>
+  <year>2024</year>
+  <sorttitle>Knox Goes Away</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt20115766</imdbid>
+  <tmdbid>972614</tmdbid>
+  <premiered>2024-03-15</premiered>
+  <releasedate>2024-03-15</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>115</runtime>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>Brookstreet Pictures</studio>
+  <studio>TPC</studio>
+  <studio>Sugar23</studio>
+  <studio>FilmNation Entertainment</studio>
+  <uniqueid type="imdb">tt20115766</uniqueid>
+  <uniqueid type="tmdb">972614</uniqueid>
+  <id>tt20115766</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>971955</bitrate>
+        <width>1280</width>
+        <height>636</height>
+        <aspect>480:239</aspect>
+        <aspectratio>480:239</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6877</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

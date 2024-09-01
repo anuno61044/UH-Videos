@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-29 07:49:05</dateadded>
+  <title>La tierra prometida (The Bastard)</title>
+  <originaltitle>Bastarden</originaltitle>
+  <actor>
+    <name>Mads Mikkelsen</name>
+    <role>Ludvig Kahlen</role>
+    <type>Actor</type>
+    <tmdbid>1019</tmdbid>
+    <imdbid>nm0586568</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Collin</name>
+    <role>Ann Barbara</role>
+    <type>Actor</type>
+    <tmdbid>1602451</tmdbid>
+    <imdbid>nm4518657</imdbid>
+    <tvdbid>8010989</tvdbid>
+  </actor>
+  <actor>
+    <name>Simon Bennebjerg</name>
+    <role>Frederik de Schinkel</role>
+    <type>Actor</type>
+    <tmdbid>1616206</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristine Kujath Thorp</name>
+    <role>Edel Helene</role>
+    <type>Actor</type>
+    <tmdbid>2079854</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustav Lindh</name>
+    <role>Anton Eklund</role>
+    <type>Actor</type>
+    <tmdbid>1428295</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Ulrik Lohmann</name>
+    <role>Trappaud</role>
+    <type>Actor</type>
+    <tmdbid>1433475</tmdbid>
+    <imdbid>nm1315040</imdbid>
+  </actor>
+  <actor>
+    <name>Morten Hee Andersen</name>
+    <role>Johannes Eriksen</role>
+    <type>Actor</type>
+    <tmdbid>1921846</tmdbid>
+  </actor>
+  <actor>
+    <name>Magnus Krepper</name>
+    <role>Hector</role>
+    <type>Actor</type>
+    <tmdbid>143391</tmdbid>
+    <imdbid>nm0470886</imdbid>
+  </actor>
+  <actor>
+    <name>Søren Malling</name>
+    <role>Paulli</role>
+    <type>Actor</type>
+    <tmdbid>82537</tmdbid>
+    <imdbid>nm0540038</imdbid>
+    <tvdbid>489027</tvdbid>
+  </actor>
+  <actor>
+    <name>Morten Buus</name>
+    <role>Settler</role>
+    <type>Actor</type>
+    <tmdbid>4437405</tmdbid>
+  </actor>
+  <actor>
+    <name>Morten Burian</name>
+    <role>Lauenfeldt</role>
+    <type>Actor</type>
+    <tmdbid>2361843</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas W. Gabrielsson</name>
+    <role>Bondo</role>
+    <type>Actor</type>
+    <tmdbid>234741</tmdbid>
+    <imdbid>nm1125938</imdbid>
+  </actor>
+  <actor>
+    <name>Olaf Højgaard</name>
+    <role>Preisler</role>
+    <type>Actor</type>
+    <tmdbid>1178823</tmdbid>
+  </actor>
+  <actor>
+    <name>Melina Hagberg</name>
+    <role>Anmai Mus</role>
+    <type>Actor</type>
+    <tmdbid>4086969</tmdbid>
+  </actor>
+  <actor>
+    <name>Felix Kramer</name>
+    <type>Actor</type>
+    <tmdbid>36883</tmdbid>
+  </actor>
+  <director tmdbid="74752" imdbid="nm1064048">Nikolaj Arcel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fRO5x4Kp7gU</trailer>
+  <rating>7.7</rating>
+  <year>2023</year>
+  <sorttitle>tierra prometida (The Bastard)</sorttitle>
+  <imdbid>tt20561198</imdbid>
+  <tmdbid>980026</tmdbid>
+  <premiered>2023-10-05</premiered>
+  <releasedate>2023-10-05</releasedate>
+  <runtime>127</runtime>
+  <country>Denmark</country>
+  <country>Norway</country>
+  <country>Sweden</country>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>Zentropa International Berlin</studio>
+  <studio>Zentropa International Sweden</studio>
+  <studio>Nordisk Film &amp; TV Fond</studio>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Film i Väst</studio>
+  <studio>Plaion Pictures</studio>
+  <studio>SVT</studio>
+  <uniqueid type="tmdb">980026</uniqueid>
+  <uniqueid type="imdb">tt20561198</uniqueid>
+  <id>tt20561198</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149725</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7628</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130606</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

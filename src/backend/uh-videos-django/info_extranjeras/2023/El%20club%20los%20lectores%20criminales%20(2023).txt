@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras ser cómplices de una broma de disfraces que acaba en un accidente mortal y un pacto de silencio, un grupo de jóvenes se verá amenazado por un escritor anónimo que quiere revelar su oscuro secreto. Su acosador amenaza con publicar en las redes sociales una sangrienta novela de terror basada en ellos. En cada capítulo morirá uno de ellos. Mientras desconfían unos de otros, el grupo iniciará una lucha por la supervivencia en medio del campus universitario. Cualquiera de ellos podría ser la próxima víctima, o el asesino.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-25 09:51:10</dateadded>
+  <title>El club de los lectores criminales</title>
+  <originaltitle>El club de los lectores criminales</originaltitle>
+  <actor>
+    <name>Veki G. Velilla</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>2049870</tmdbid>
+    <tvdbid>8097145</tvdbid>
+  </actor>
+  <actor>
+    <name>Iván Pellicer</name>
+    <role>Nando</role>
+    <type>Actor</type>
+    <tmdbid>1915027</tmdbid>
+    <tvdbid>470116</tvdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Mel</name>
+    <role>Sebas Hoyos</role>
+    <type>Actor</type>
+    <tmdbid>2646078</tmdbid>
+    <imdbid>nm9603584</imdbid>
+    <tvdbid>8028274</tvdbid>
+  </actor>
+  <actor>
+    <name>Ane Rot</name>
+    <role>Sara Pons</role>
+    <type>Actor</type>
+    <tmdbid>4249932</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Alcaide</name>
+    <role>Rai</role>
+    <type>Actor</type>
+    <tmdbid>2556046</tmdbid>
+  </actor>
+  <actor>
+    <name>María Cerezuela</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>3258938</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamza Zaidi</name>
+    <role>Koldo</role>
+    <type>Actor</type>
+    <tmdbid>2564672</tmdbid>
+  </actor>
+  <actor>
+    <name>Priscilla Delgado</name>
+    <role>Virginia</role>
+    <type>Actor</type>
+    <tmdbid>1457866</tmdbid>
+    <imdbid>nm3418701</imdbid>
+    <tvdbid>528845</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Grao</name>
+    <role>Cruzado</role>
+    <type>Actor</type>
+    <tmdbid>233947</tmdbid>
+    <imdbid>nm1268637</imdbid>
+    <tvdbid>306707</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmela Lloret</name>
+    <role>Catalina</role>
+    <type>Actor</type>
+    <tmdbid>2189911</tmdbid>
+    <imdbid>nm2690042</imdbid>
+  </actor>
+  <director tmdbid="1436713">Carlos Alonso-Ojea</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2wZlDZ-PVzo</trailer>
+  <rating>4.6</rating>
+  <year>2023</year>
+  <sorttitle>club de los lectores criminales</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt18260564</imdbid>
+  <tmdbid>1010826</tmdbid>
+  <premiered>2023-08-25</premiered>
+  <releasedate>2023-08-25</releasedate>
+  <criticrating>8</criticrating>
+  <runtime>89</runtime>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Brutal Media</studio>
+  <uniqueid type="imdb">tt18260564</uniqueid>
+  <uniqueid type="tmdb">1010826</uniqueid>
+  <id>tt18260564</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>609662</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5343</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63822</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

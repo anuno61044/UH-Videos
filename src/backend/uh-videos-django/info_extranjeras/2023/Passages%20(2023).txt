@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El último día de su rodaje en París, el director de cine Tomas se acuesta con una mujer y se lo cuenta orgulloso a su marido. Una relación apasionada, celosa y narcisista se desarrolla entre Tomas, Agathe y Martin.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 08:14:43</dateadded>
+  <title>Passages</title>
+  <originaltitle>Passages</originaltitle>
+  <actor>
+    <name>Franz Rogowski</name>
+    <role>Tomas</role>
+    <type>Actor</type>
+    <tmdbid>1285450</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Whishaw</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>17064</tmdbid>
+    <imdbid>nm0924210</imdbid>
+  </actor>
+  <actor>
+    <name>Adèle Exarchopoulos</name>
+    <role>Agathe</role>
+    <type>Actor</type>
+    <tmdbid>586757</tmdbid>
+    <imdbid>nm2650819</imdbid>
+  </actor>
+  <actor>
+    <name>Erwan Kepoa Falé</name>
+    <role>Amad</role>
+    <type>Actor</type>
+    <tmdbid>3310757</tmdbid>
+  </actor>
+  <actor>
+    <name>Théo Cholbi</name>
+    <role>Jérémie</role>
+    <type>Actor</type>
+    <tmdbid>1139801</tmdbid>
+    <imdbid>nm4965045</imdbid>
+  </actor>
+  <actor>
+    <name>Arcadi Radeff</name>
+    <role>Dimo</role>
+    <type>Actor</type>
+    <tmdbid>3147599</tmdbid>
+  </actor>
+  <actor>
+    <name>Léa Boublil</name>
+    <role>Erica</role>
+    <type>Actor</type>
+    <tmdbid>3432258</tmdbid>
+  </actor>
+  <actor>
+    <name>Thibault Carterot</name>
+    <role>Thibault</role>
+    <type>Actor</type>
+    <tmdbid>3279437</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Daoud</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>3867557</tmdbid>
+  </actor>
+  <actor>
+    <name>Theo Gabilloux</name>
+    <role>Young Actor</role>
+    <type>Actor</type>
+    <tmdbid>3867558</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Salachas</name>
+    <role>Elias</role>
+    <type>Actor</type>
+    <tmdbid>3848632</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Lisbonis</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>3867559</tmdbid>
+  </actor>
+  <actor>
+    <name>William Nadylam</name>
+    <role>Clément</role>
+    <type>Actor</type>
+    <tmdbid>87426</tmdbid>
+    <imdbid>nm0618986</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Chaniolleau</name>
+    <role>Agathe's Mother Edith</role>
+    <type>Actor</type>
+    <tmdbid>538664</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Rabourdin</name>
+    <role>Agathe's Father</role>
+    <type>Actor</type>
+    <tmdbid>49278</tmdbid>
+    <imdbid>nm0705005</imdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Dauchez</name>
+    <role>Wine Executive</role>
+    <type>Actor</type>
+    <tmdbid>4352561</tmdbid>
+  </actor>
+  <actor>
+    <name>François Boisrond</name>
+    <role>Artist #1</role>
+    <type>Actor</type>
+    <tmdbid>4352562</tmdbid>
+  </actor>
+  <actor>
+    <name>Kylian Moison</name>
+    <role>Artist #2</role>
+    <type>Actor</type>
+    <tmdbid>4352565</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloé Granier</name>
+    <role>Martin's Assistant #1</role>
+    <type>Actor</type>
+    <tmdbid>4352567</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliette Mourlon</name>
+    <role>Martin's Assistant #2</role>
+    <type>Actor</type>
+    <tmdbid>4352569</tmdbid>
+  </actor>
+  <actor>
+    <name>Malika Bejaoui</name>
+    <role>School Concierge</role>
+    <type>Actor</type>
+    <tmdbid>4352571</tmdbid>
+  </actor>
+  <director tmdbid="53708" imdbid="nm0755158">Ira Sachs</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m5Kr38lovJc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BEry0hQ5J-8</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Passages</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt16252698</imdbid>
+  <tmdbid>898673</tmdbid>
+  <premiered>2023-06-28</premiered>
+  <releasedate>2023-06-28</releasedate>
+  <runtime>92</runtime>
+  <country>France</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>SBS Productions</studio>
+  <studio>KNM</studio>
+  <uniqueid type="tmdb">898673</uniqueid>
+  <uniqueid type="imdb">tt16252698</uniqueid>
+  <id>tt16252698</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2247770</bitrate>
+        <width>1792</width>
+        <height>1080</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5516</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128950</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

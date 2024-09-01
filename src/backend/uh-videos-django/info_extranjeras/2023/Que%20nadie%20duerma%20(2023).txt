@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lucía, tras perder su empleo como programadora informática, decide dar un giro a su vida y convertirse en taxista. Imaginativa y romántica, empieza a circular buscando a su nuevo amor platónico, un actor de teatro aficionado a la ópera con el que compartió unos breves momentos mágicos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-01 12:40:44</dateadded>
+  <title>Que nadie duerma</title>
+  <originaltitle>Que nadie duerma</originaltitle>
+  <actor>
+    <name>Malena Alterio</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>96428</tmdbid>
+    <imdbid>nm0968559</imdbid>
+    <tvdbid>518487</tvdbid>
+  </actor>
+  <actor>
+    <name>Aitana Sánchez-Gijón</name>
+    <type>Actor</type>
+    <tmdbid>37946</tmdbid>
+    <imdbid>nm0845209</imdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Poisón</name>
+    <type>Actor</type>
+    <tmdbid>1074701</tmdbid>
+    <imdbid>nm2101577</imdbid>
+  </actor>
+  <actor>
+    <name>José Luis Torrijo</name>
+    <type>Actor</type>
+    <tmdbid>3653</tmdbid>
+    <imdbid>nm0868925</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel de Blas</name>
+    <type>Actor</type>
+    <tmdbid>30351</tmdbid>
+    <imdbid>nm0207458</imdbid>
+    <tvdbid>459242</tvdbid>
+  </actor>
+  <actor>
+    <name>Mariona Ribas</name>
+    <type>Actor</type>
+    <tmdbid>1012200</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñigo de la Iglesia</name>
+    <type>Actor</type>
+    <tmdbid>1892378</tmdbid>
+  </actor>
+  <director tmdbid="1073834">Antonio Méndez Esparza</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MnI6naOS3Yg</trailer>
+  <rating>10</rating>
+  <year>2023</year>
+  <sorttitle>Que nadie duerma</sorttitle>
+  <imdbid>tt10602132</imdbid>
+  <tmdbid>828936</tmdbid>
+  <premiered>2023-11-17</premiered>
+  <releasedate>2023-11-17</releasedate>
+  <runtime>123</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <genre>Suspense</genre>
+  <studio>Aquí y Allí Films</studio>
+  <studio>Wanda Visión</studio>
+  <uniqueid type="tmdb">828936</uniqueid>
+  <uniqueid type="imdb">tt10602132</uniqueid>
+  <id>tt10602132</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1599257</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7368</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

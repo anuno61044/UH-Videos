@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In the middle of a performance of the play "Le Cocu", a bad boulevard comedy at a Parisian theatre, Yannick gets up and interrupts the show to take the evening back in hand.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-24 09:21:57</dateadded>
+  <title>Yannick</title>
+  <originaltitle>Yannick</originaltitle>
+  <actor>
+    <name>Raphaël Quenard</name>
+    <role>Yannick</role>
+    <type>Actor</type>
+    <tmdbid>2185414</tmdbid>
+  </actor>
+  <actor>
+    <name>Pio Marmaï</name>
+    <role>Paul Rivière</role>
+    <type>Actor</type>
+    <tmdbid>146287</tmdbid>
+    <imdbid>nm2847812</imdbid>
+  </actor>
+  <actor>
+    <name>Blanche Gardin</name>
+    <role>Sophie Denis</role>
+    <type>Actor</type>
+    <tmdbid>588159</tmdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Chassagne</name>
+    <role>William Keller</role>
+    <type>Actor</type>
+    <tmdbid>1977924</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnès Hurstel</name>
+    <role>La préposée du vestiaire</role>
+    <type>Actor</type>
+    <tmdbid>1826078</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Paul Solal</name>
+    <role>Le monsieur qui s'énerve</role>
+    <type>Actor</type>
+    <tmdbid>1222735</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Nicolas</name>
+    <role>L'homme à l'ordinateur</role>
+    <type>Actor</type>
+    <tmdbid>2176173</tmdbid>
+  </actor>
+  <actor>
+    <name>Mustapha Abourachid</name>
+    <role>L'homme invité au restaurant</role>
+    <type>Actor</type>
+    <tmdbid>1457858</tmdbid>
+  </actor>
+  <actor>
+    <name>Sava Lolov</name>
+    <role>Le patron de l'auto-école</role>
+    <type>Actor</type>
+    <tmdbid>32515</tmdbid>
+    <imdbid>nm0518187</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Laemmel</name>
+    <role>La patronne de l'auto-école</role>
+    <type>Actor</type>
+    <tmdbid>1767918</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Lebreton</name>
+    <role>Le technicien théâtre</role>
+    <type>Actor</type>
+    <tmdbid>2583053</tmdbid>
+  </actor>
+  <actor>
+    <name>Félix Bossuet</name>
+    <role>L'adolescent</role>
+    <type>Actor</type>
+    <tmdbid>1186996</tmdbid>
+  </actor>
+  <actor>
+    <name>Agathe L'Huillier</name>
+    <role>La mère de l'adolescent</role>
+    <type>Actor</type>
+    <tmdbid>1907186</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Piette</name>
+    <role>La femme du premier rang</role>
+    <type>Actor</type>
+    <tmdbid>1443402</tmdbid>
+    <imdbid>nm1906360</imdbid>
+  </actor>
+  <actor>
+    <name>Loelia Salvador</name>
+    <role>La fille au chat</role>
+    <type>Actor</type>
+    <tmdbid>3239856</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucie Gallo</name>
+    <role>La fille au clic-clac</role>
+    <type>Actor</type>
+    <tmdbid>2656983</tmdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Pezerat</name>
+    <role>L'homme qui s'échappe</role>
+    <type>Actor</type>
+    <tmdbid>1977894</tmdbid>
+  </actor>
+  <director tmdbid="133398" imdbid="nm1189197">Quentin Dupieux</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vafLQH9uvpU</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Yannick</sorttitle>
+  <imdbid>tt28236368</imdbid>
+  <tmdbid>1110358</tmdbid>
+  <premiered>2023-08-02</premiered>
+  <releasedate>2023-08-02</releasedate>
+  <runtime>67</runtime>
+  <country>France</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Chi-Fou-Mi Productions</studio>
+  <studio>Atelier de Production</studio>
+  <studio>CNC</studio>
+  <uniqueid type="imdb">tt28236368</uniqueid>
+  <uniqueid type="tmdb">1110358</uniqueid>
+  <id>tt28236368</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1351568</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>66</duration>
+        <durationinseconds>4010</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>277643</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

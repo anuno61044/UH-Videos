@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alice y Celine viven un estilo de vida tradicional con esposos exitosos e hijos de la misma edad. La perfecta armonía de sus vidas se rompe repentinamente después de un trágico accidente. La culpa, la sospecha y la paranoia se combinan para deshacer su vínculo fraternal.]]></plot>
+  <outline><![CDATA[A veces tu instinto es lo único en lo que puedes confiar]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-17 12:20:27</dateadded>
+  <title>Vidas perfectas</title>
+  <originaltitle>Mothers' Instinct</originaltitle>
+  <actor>
+    <name>Anne Hathaway</name>
+    <role>Celine</role>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+    <tvdbid>255156</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica Chastain</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>83002</tmdbid>
+    <imdbid>nm1567113</imdbid>
+    <tvdbid>310937</tvdbid>
+  </actor>
+  <actor>
+    <name>Anders Danielsen Lie</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>71610</tmdbid>
+    <imdbid>nm0509264</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Charles</name>
+    <role>Damian</role>
+    <type>Actor</type>
+    <tmdbid>2694</tmdbid>
+    <imdbid>nm0001038</imdbid>
+    <tvdbid>303582</tvdbid>
+  </actor>
+  <actor>
+    <name>Caroline Lagerfelt</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>1213094</tmdbid>
+    <imdbid>nm0481222</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Blaise</name>
+    <role>Dr. Wallace</role>
+    <type>Actor</type>
+    <tmdbid>1257863</tmdbid>
+    <imdbid>nm0086432</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Routman</name>
+    <role>Medical Examiner</role>
+    <type>Actor</type>
+    <tmdbid>1232531</tmdbid>
+    <imdbid>nm0746156</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Nagle</name>
+    <role>Attorney</role>
+    <type>Actor</type>
+    <tmdbid>1675606</tmdbid>
+    <imdbid>nm0619271</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Petersen</name>
+    <role>Pastor</role>
+    <type>Actor</type>
+    <tmdbid>1656546</tmdbid>
+  </actor>
+  <director tmdbid="21655">Benoît Delhomme</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aLikloRQiUE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o9d2bGLca4U</trailer>
+  <rating>6.7</rating>
+  <year>2024</year>
+  <sorttitle>Vidas perfectas</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13397574</imdbid>
+  <tmdbid>758679</tmdbid>
+  <premiered>2024-03-08</premiered>
+  <releasedate>2024-03-08</releasedate>
+  <runtime>94</runtime>
+  <tagline>A veces tu instinto es lo único en lo que puedes confiar</tagline>
+  <country>Belgium</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Freckle Films</studio>
+  <studio>Anton</studio>
+  <studio>Mosaic</studio>
+  <studio>Versus Production</studio>
+  <uniqueid type="imdb">tt13397574</uniqueid>
+  <uniqueid type="tmdb">758679</uniqueid>
+  <id>tt13397574</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1182835</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5648</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ana (Almudena Amor), auxiliar de enfermería, comienza a sentirse atraída por Agustín (Javier Rey), el marido de una mujer en estado vegetativo a la que ella cuida. Es entonces cuando empieza a ser acosada por extraños fenómenos paranormales que parecen tratar de echarla de la casa y separarla de Agustín.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-07-16 09:04:58</dateadded>
+  <title>La mujer dormida</title>
+  <originaltitle>La mujer dormida</originaltitle>
+  <actor>
+    <name>Almudena Amor</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>2846747</tmdbid>
+    <tvdbid>9088751</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Rey</name>
+    <role>Agustín</role>
+    <type>Actor</type>
+    <tmdbid>96688</tmdbid>
+    <imdbid>nm2626646</imdbid>
+    <tvdbid>463889</tvdbid>
+  </actor>
+  <actor>
+    <name>Amanda Goldsmith</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>3224245</tmdbid>
+  </actor>
+  <actor>
+    <name>Yaneli Hernández</name>
+    <role>Manuela</role>
+    <type>Actor</type>
+    <tmdbid>3097677</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Lobo</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>3255180</tmdbid>
+  </actor>
+  <actor>
+    <name>Pino Montesdeoca</name>
+    <role>Sofía</role>
+    <type>Actor</type>
+    <tmdbid>3108933</tmdbid>
+  </actor>
+  <actor>
+    <name>Vera Curbelo</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>4530451</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Venosa</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>4530452</tmdbid>
+  </actor>
+  <director tvdbid="8525099" tmdbid="1300690">Laura Alvea</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1V9NXxjn_n0</trailer>
+  <rating>0</rating>
+  <year>2024</year>
+  <sorttitle>mujer dormida</sorttitle>
+  <imdbid>tt22506854</imdbid>
+  <tmdbid>1235926</tmdbid>
+  <premiered>2024-05-31</premiered>
+  <releasedate>2024-05-31</releasedate>
+  <runtime>105</runtime>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <uniqueid type="imdb">tt22506854</uniqueid>
+  <uniqueid type="tmdb">1235926</uniqueid>
+  <id>tt22506854</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>150023</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6329</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63828</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cinco chicos de una colonia minera lunar roban un rover para poder explorar un misterioso cráter.]]></plot>
+  <outline><![CDATA[A millas de la Tierra, comienza su aventura.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:12:12</dateadded>
+  <title>Cráter: Un viaje inolvidable</title>
+  <originaltitle>Crater</originaltitle>
+  <actor>
+    <name>Isaiah Russell-Bailey</name>
+    <role>Caleb Channing</role>
+    <type>Actor</type>
+    <tmdbid>2392706</tmdbid>
+  </actor>
+  <actor>
+    <name>Mckenna Grace</name>
+    <role>Addison</role>
+    <type>Actor</type>
+    <tmdbid>1172108</tmdbid>
+    <imdbid>nm5085683</imdbid>
+    <tvdbid>346975</tvdbid>
+  </actor>
+  <actor>
+    <name>Billy Barratt</name>
+    <role>Dylan</role>
+    <type>Actor</type>
+    <tmdbid>1840063</tmdbid>
+    <imdbid>nm7811397</imdbid>
+    <tvdbid>7885810</tvdbid>
+  </actor>
+  <actor>
+    <name>Orson Hong</name>
+    <role>Borney</role>
+    <type>Actor</type>
+    <tmdbid>2479437</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Boyce</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>3070203</tmdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+    <tvdbid>327411</tvdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Hero Hunter</name>
+    <role>Young Caleb</role>
+    <type>Actor</type>
+    <tmdbid>2552886</tmdbid>
+  </actor>
+  <actor>
+    <name>Carson Minniear</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>2897868</tmdbid>
+  </actor>
+  <actor>
+    <name>Viviana Chavez</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1978851</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Rimmer</name>
+    <role>Messenger</role>
+    <type>Actor</type>
+    <tmdbid>1797347</tmdbid>
+    <imdbid>nm0727293</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Papajohn</name>
+    <role>Miner</role>
+    <type>Actor</type>
+    <tmdbid>20582</tmdbid>
+    <imdbid>nm0660244</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Davidorf</name>
+    <role>Adult Dylan</role>
+    <type>Actor</type>
+    <tmdbid>2422121</tmdbid>
+  </actor>
+  <actor>
+    <name>Dann Florek</name>
+    <role>Older Dylan</role>
+    <type>Actor</type>
+    <tmdbid>9175</tmdbid>
+    <imdbid>nm0282648</imdbid>
+  </actor>
+  <actor>
+    <name>Rose Bianca Grue</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>3765456</tmdbid>
+  </actor>
+  <actor>
+    <name>Fran Robertson</name>
+    <role>Moon Family</role>
+    <type>Actor</type>
+    <tmdbid>2955801</tmdbid>
+  </actor>
+  <director tmdbid="229482">Kyle Patrick Alvarez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nWIeQmRNZEY</trailer>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Crater: Un viaje inolvidable</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt5264838</imdbid>
+  <tmdbid>620705</tmdbid>
+  <premiered>2023-05-12</premiered>
+  <releasedate>2023-05-12</releasedate>
+  <runtime>104</runtime>
+  <tagline>A millas de la Tierra, comienza su aventura.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Familia</genre>
+  <studio>21 Laps Entertainment</studio>
+  <studio>Walt Disney Pictures</studio>
+  <uniqueid type="imdb">tt5264838</uniqueid>
+  <uniqueid type="tmdb">620705</uniqueid>
+  <id>tt5264838</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149311</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6240</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129068</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>el</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh-CN</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

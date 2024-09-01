@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En 1969, el joven Jud Crandall y sus amigos de la infancia se unen para enfrentarse a un antiguo peligro que se ha apoderado de su ciudad natal.]]></plot>
+  <outline><![CDATA[La muerte es diferente aquí.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 08:14:59</dateadded>
+  <title>Cementerio de animales: el origen</title>
+  <originaltitle>Pet Sematary: Bloodlines</originaltitle>
+  <actor>
+    <name>Jackson White</name>
+    <role>Jud</role>
+    <type>Actor</type>
+    <tmdbid>1898600</tmdbid>
+    <imdbid>nm7878293</imdbid>
+    <tvdbid>459438</tvdbid>
+  </actor>
+  <actor>
+    <name>Forrest Goodluck</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>1560185</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Mulhern</name>
+    <role>Timmy Baterman</role>
+    <type>Actor</type>
+    <tmdbid>2725448</tmdbid>
+    <tvdbid>7926248</tvdbid>
+  </actor>
+  <actor>
+    <name>Henry Thomas</name>
+    <role>Dan Crandall</role>
+    <type>Actor</type>
+    <tmdbid>9976</tmdbid>
+    <imdbid>nm0001794</imdbid>
+    <tvdbid>346743</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalie Alyn Lind</name>
+    <role>Norma</role>
+    <type>Actor</type>
+    <tmdbid>211484</tmdbid>
+    <imdbid>nm2480636</imdbid>
+  </actor>
+  <actor>
+    <name>Isabella Star LaBlanc</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>3161757</tmdbid>
+  </actor>
+  <actor>
+    <name>Pam Grier</name>
+    <role>Majorie Washburn</role>
+    <type>Actor</type>
+    <tmdbid>2230</tmdbid>
+    <imdbid>nm0000427</imdbid>
+  </actor>
+  <actor>
+    <name>David Duchovny</name>
+    <role>Bill Baterman</role>
+    <type>Actor</type>
+    <tmdbid>12640</tmdbid>
+    <imdbid>nm0000141</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Mathis</name>
+    <role>Kathy Crandall</role>
+    <type>Actor</type>
+    <tmdbid>20767</tmdbid>
+    <imdbid>nm0000526</imdbid>
+  </actor>
+  <actor>
+    <name>Chistian Jadah</name>
+    <role>Sheriff Anderson</role>
+    <type>Actor</type>
+    <tmdbid>1646452</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Love</name>
+    <role>Johnson</role>
+    <type>Actor</type>
+    <tmdbid>2164681</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Graboshas</name>
+    <role>Commander Williams</role>
+    <type>Actor</type>
+    <tmdbid>119706</tmdbid>
+    <imdbid>nm2403407</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Leclerc</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>982065</tmdbid>
+    <imdbid>nm1296188</imdbid>
+  </actor>
+  <actor>
+    <name>Glen Gould</name>
+    <role>Mi'kmaq Chief</role>
+    <type>Actor</type>
+    <tmdbid>146174</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Holland</name>
+    <role>Hannibal Benson</role>
+    <type>Actor</type>
+    <tmdbid>108302</tmdbid>
+    <imdbid>nm0390775</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Whittall</name>
+    <role>Hospital Visitor</role>
+    <type>Actor</type>
+    <tmdbid>190900</tmdbid>
+    <tvdbid>343998</tvdbid>
+  </actor>
+  <actor>
+    <name>John Boylan</name>
+    <role>Reverend Havering</role>
+    <type>Actor</type>
+    <tmdbid>560159</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Labranche</name>
+    <role>Ludlow</role>
+    <type>Actor</type>
+    <tmdbid>4307959</tmdbid>
+  </actor>
+  <actor>
+    <name>Corgand Janeway-Svendsen</name>
+    <role>Hippie with Raven Mask</role>
+    <type>Actor</type>
+    <tmdbid>2556788</tmdbid>
+  </actor>
+  <actor>
+    <name>Jude Beny</name>
+    <role>Nurse Carol</role>
+    <type>Actor</type>
+    <tmdbid>198751</tmdbid>
+    <imdbid>nm0073084</imdbid>
+  </actor>
+  <actor>
+    <name>Elliot Miville-Deschênes</name>
+    <role>Young Jud</role>
+    <type>Actor</type>
+    <tmdbid>1323863</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoenix Wilson</name>
+    <role>Young Manny</role>
+    <type>Actor</type>
+    <tmdbid>1879914</tmdbid>
+  </actor>
+  <actor>
+    <name>Auden Larratt</name>
+    <role>Young Timmy</role>
+    <type>Actor</type>
+    <tmdbid>1663891</tmdbid>
+    <imdbid>nm5947036</imdbid>
+  </actor>
+  <actor>
+    <name>Aron Benali</name>
+    <role>5 Year Old Timmy</role>
+    <type>Actor</type>
+    <tmdbid>3659472</tmdbid>
+  </actor>
+  <director tmdbid="1475529">Lindsey Beer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1IgQpRyfwbE</trailer>
+  <rating>4.6</rating>
+  <year>2023</year>
+  <sorttitle>Cementerio de animales: el origen</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14145436</imdbid>
+  <tmdbid>830764</tmdbid>
+  <premiered>2023-09-23</premiered>
+  <releasedate>2023-09-23</releasedate>
+  <runtime>87</runtime>
+  <tagline>La muerte es diferente aquí.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Paramount Players</studio>
+  <studio>di Bonaventura Pictures</studio>
+  <set tmdbcolid="830781">
+    <name>Cementerio de animales - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt14145436</uniqueid>
+  <uniqueid type="tmdb">830764</uniqueid>
+  <id>tt14145436</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1275194</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5242</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

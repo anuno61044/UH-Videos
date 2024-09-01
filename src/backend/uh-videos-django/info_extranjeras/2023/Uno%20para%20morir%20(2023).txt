@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Siete extraños se despiertan en una mansión en medio de la nada y descubren que son parte de un juego retorcido. Tendrán 60 minutos para elegir a una persona para morir; de lo contrario, todos ellos serán asesinados. A medida que el reloj avanza, los secretos más espeluznantes saldrán a la luz y descubrirán que todos están conectados por un pasado oscuro.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-05 16:09:21</dateadded>
+  <title>Uno para morir</title>
+  <originaltitle>Uno para morir</originaltitle>
+  <actor>
+    <name>Manolo Cardona</name>
+    <role>Pablo Vega</role>
+    <type>Actor</type>
+    <tmdbid>66914</tmdbid>
+    <imdbid>nm0136572</imdbid>
+    <tvdbid>7891315</tvdbid>
+  </actor>
+  <actor>
+    <name>Maribel Verdú</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>16971</tmdbid>
+    <imdbid>nm0893941</imdbid>
+    <tvdbid>473658</tvdbid>
+  </actor>
+  <actor>
+    <name>Carla Adell</name>
+    <role>Lupe</role>
+    <type>Actor</type>
+    <tmdbid>2008873</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Remolina</name>
+    <role>Esteban</role>
+    <type>Actor</type>
+    <tmdbid>1186821</tmdbid>
+    <imdbid>nm0719009</imdbid>
+  </actor>
+  <actor>
+    <name>Adriana Paz</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>983710</tmdbid>
+    <imdbid>nm2578315</imdbid>
+  </actor>
+  <actor>
+    <name>Dagoberto Gama</name>
+    <role>Armando</role>
+    <type>Actor</type>
+    <tmdbid>127825</tmdbid>
+    <imdbid>nm0303607</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Becerril</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>238139</tmdbid>
+    <imdbid>nm0064933</imdbid>
+  </actor>
+  <actor>
+    <name>Tiago Correa</name>
+    <role>Joaquin</role>
+    <type>Actor</type>
+    <tmdbid>999870</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Cicerchia</name>
+    <role>Patricia Vega</role>
+    <type>Actor</type>
+    <tmdbid>4124391</tmdbid>
+  </actor>
+  <director tmdbid="66914" imdbid="nm0136572" tvdbid="7891315">Manolo Cardona</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wv_bXjNd-8I</trailer>
+  <rating>5.5</rating>
+  <year>2023</year>
+  <sorttitle>Uno para morir</sorttitle>
+  <imdbid>tt21087452</imdbid>
+  <tmdbid>1114905</tmdbid>
+  <premiered>2023-05-05</premiered>
+  <releasedate>2023-05-05</releasedate>
+  <runtime>93</runtime>
+  <country>Mexico</country>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>VIS</studio>
+  <studio>11:11 Films &amp; TV</studio>
+  <uniqueid type="imdb">tt21087452</uniqueid>
+  <uniqueid type="tmdb">1114905</uniqueid>
+  <id>tt21087452</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100011</bitrate>
+        <width>720</width>
+        <height>390</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5592</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

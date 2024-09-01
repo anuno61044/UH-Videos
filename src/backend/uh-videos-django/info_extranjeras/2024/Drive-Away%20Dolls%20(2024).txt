@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos amigas emprenden un viaje por carretera lleno de obstáculos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-13 08:21:31</dateadded>
+  <title>Dos chicas a la fuga</title>
+  <originaltitle>Drive-Away Dolls</originaltitle>
+  <actor>
+    <name>Margaret Qualley</name>
+    <role>Jamie</role>
+    <type>Actor</type>
+    <tmdbid>1392137</tmdbid>
+    <imdbid>nm4960279</imdbid>
+    <tvdbid>292504</tvdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Viswanathan</name>
+    <role>Marian</role>
+    <type>Actor</type>
+    <tmdbid>1803287</tmdbid>
+    <imdbid>nm6543093</imdbid>
+    <tvdbid>462551</tvdbid>
+  </actor>
+  <actor>
+    <name>Beanie Feldstein</name>
+    <role>Sukie</role>
+    <type>Actor</type>
+    <tmdbid>1496393</tmdbid>
+    <imdbid>nm2788156</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Slotnick</name>
+    <role>The Goons - Arliss</role>
+    <type>Actor</type>
+    <tmdbid>9998</tmdbid>
+    <imdbid>nm0806217</imdbid>
+  </actor>
+  <actor>
+    <name>C.J. Wilson</name>
+    <role>The Goons - Flint</role>
+    <type>Actor</type>
+    <tmdbid>1363367</tmdbid>
+  </actor>
+  <actor>
+    <name>Colman Domingo</name>
+    <role>The Chief</role>
+    <type>Actor</type>
+    <tmdbid>91671</tmdbid>
+    <imdbid>nm0231458</imdbid>
+    <tvdbid>317205</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>The Collector</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+    <imdbid>nm0050959</imdbid>
+    <tvdbid>247850</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Senator Gary Channel</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Gonzalez</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>2560944</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon MacDonald</name>
+    <role>Cicero's Waiter</role>
+    <type>Actor</type>
+    <tmdbid>37152</tmdbid>
+    <imdbid>nm0531737</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Vartholomeos</name>
+    <role>Bart</role>
+    <type>Actor</type>
+    <tmdbid>1780321</tmdbid>
+  </actor>
+  <actor>
+    <name>John Menchion</name>
+    <role>Old Man at Slappy's</role>
+    <type>Actor</type>
+    <tmdbid>3695915</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Counihan</name>
+    <role>Turkish Hotel Man</role>
+    <type>Actor</type>
+    <tmdbid>4556320</tmdbid>
+  </actor>
+  <actor>
+    <name>Abby Hilden</name>
+    <role>Doreen</role>
+    <type>Actor</type>
+    <tmdbid>1563226</tmdbid>
+  </actor>
+  <actor>
+    <name>Haley Holmes</name>
+    <role>Soccer Girl</role>
+    <type>Actor</type>
+    <tmdbid>4556322</tmdbid>
+  </actor>
+  <actor>
+    <name>Connie Jackson</name>
+    <role>Aunt Ellis</role>
+    <type>Actor</type>
+    <tmdbid>110042</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Curlie</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+    <tvdbid>316986</tvdbid>
+  </actor>
+  <actor>
+    <name>Fatima Fine</name>
+    <role>Soccer Girl</role>
+    <type>Actor</type>
+    <tmdbid>4556323</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Mazzei</name>
+    <role>Soccer Girl</role>
+    <type>Actor</type>
+    <tmdbid>4556325</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Zatawski</name>
+    <role>Young Senator Channel</role>
+    <type>Actor</type>
+    <tmdbid>4556326</tmdbid>
+  </actor>
+  <actor>
+    <name>Samsara Yett</name>
+    <role>Young Marian</role>
+    <type>Actor</type>
+    <tmdbid>2861577</tmdbid>
+  </actor>
+  <actor>
+    <name>Savanna Ziegler</name>
+    <role>Sunbathing Woman</role>
+    <type>Actor</type>
+    <tmdbid>4556327</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Worden</name>
+    <role>Sunbather's Husband</role>
+    <type>Actor</type>
+    <tmdbid>3179871</tmdbid>
+  </actor>
+  <actor>
+    <name>Braxton McCollum</name>
+    <role>El Conquistador Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>4556328</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kirkman</name>
+    <role>Baxter's Waiter</role>
+    <type>Actor</type>
+    <tmdbid>4556329</tmdbid>
+  </actor>
+  <actor>
+    <name>Layne Lazor</name>
+    <role>Amber</role>
+    <type>Actor</type>
+    <tmdbid>4556330</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil McFall</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>4556331</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Maldonado Jr.</name>
+    <role>Lock-Up Thug</role>
+    <type>Actor</type>
+    <tmdbid>4033715</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Contreras</name>
+    <role>Hotel Maid</role>
+    <type>Actor</type>
+    <tmdbid>4556333</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Edelstein</name>
+    <role>Chauffeur</role>
+    <type>Actor</type>
+    <tmdbid>1698297</tmdbid>
+  </actor>
+  <actor>
+    <name>Micaela Minner</name>
+    <role>Sugar'n'Spice DJ</role>
+    <type>Actor</type>
+    <tmdbid>4301473</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Hough</name>
+    <role>Alley Thug</role>
+    <type>Actor</type>
+    <tmdbid>1036828</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Halpern</name>
+    <role>Alley Thug</role>
+    <type>Actor</type>
+    <tmdbid>1695473</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Boehm</name>
+    <role>Motorcycle Lesbian</role>
+    <type>Actor</type>
+    <tmdbid>1579377</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Flitter</name>
+    <role>Bellboy</role>
+    <type>Actor</type>
+    <tmdbid>216</tmdbid>
+    <imdbid>nm1346160</imdbid>
+  </actor>
+  <actor>
+    <name>Miley Cyrus</name>
+    <role>Tiffany Plastercaster (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>76594</tmdbid>
+    <imdbid>nm1415323</imdbid>
+  </actor>
+  <director tmdbid="1224" imdbid="nm0001053">Ethan Coen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NvEgTCQPWY0</trailer>
+  <rating>6.1</rating>
+  <year>2024</year>
+  <sorttitle>Dos chicas a la fuga</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt19356262</imdbid>
+  <tmdbid>957304</tmdbid>
+  <premiered>2024-02-22</premiered>
+  <releasedate>2024-02-22</releasedate>
+  <runtime>84</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <studio>Working Title Films</studio>
+  <studio>Focus Features</studio>
+  <uniqueid type="imdb">tt19356262</uniqueid>
+  <uniqueid type="tmdb">957304</uniqueid>
+  <id>tt19356262</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1323918</bitrate>
+        <width>1280</width>
+        <height>704</height>
+        <aspect>938:517</aspect>
+        <aspectratio>938:517</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5047</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Allison (Pugh) es una joven cuya vida se desmorona tras su participación en un accidente mortal. En los años siguientes, será la improbable relación que establece con su posible suegro (Freeman) la que le ayudará a vivir una vida que merezca la pena.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-12 09:37:32</dateadded>
+  <title>Una buena persona</title>
+  <originaltitle>A Good Person</originaltitle>
+  <actor>
+    <name>Florence Pugh</name>
+    <role>Allison</role>
+    <type>Actor</type>
+    <tmdbid>1373737</tmdbid>
+    <imdbid>nm6073955</imdbid>
+    <tvdbid>489050</tvdbid>
+  </actor>
+  <actor>
+    <name>Morgan Freeman</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>192</tmdbid>
+    <imdbid>nm0000151</imdbid>
+    <tvdbid>255114</tvdbid>
+  </actor>
+  <actor>
+    <name>Molly Shannon</name>
+    <role>Diane</role>
+    <type>Actor</type>
+    <tmdbid>28640</tmdbid>
+    <imdbid>nm0788340</imdbid>
+    <tvdbid>266949</tvdbid>
+  </actor>
+  <actor>
+    <name>Celeste O'Connor</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tmdbid>1972881</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Lister-Jones</name>
+    <role>Simone</role>
+    <type>Actor</type>
+    <tmdbid>82885</tmdbid>
+    <imdbid>nm1830380</imdbid>
+  </actor>
+  <actor>
+    <name>Chinaza Uche</name>
+    <role>Nathan</role>
+    <type>Actor</type>
+    <tmdbid>1717255</tmdbid>
+    <tvdbid>535952</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Onwumere</name>
+    <role>Jesse</role>
+    <type>Actor</type>
+    <tmdbid>1726859</tmdbid>
+    <imdbid>nm5255496</imdbid>
+  </actor>
+  <actor>
+    <name>Nichelle Hines</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>185694</tmdbid>
+    <imdbid>nm1478347</imdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Diaz-Silverio</name>
+    <role>Quinn</role>
+    <type>Actor</type>
+    <tmdbid>3458679</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Wolff</name>
+    <role>Mark</role>
+    <type>Actor</type>
+    <tmdbid>934281</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Rojas</name>
+    <role>Diego</role>
+    <type>Actor</type>
+    <tmdbid>2958498</tmdbid>
+  </actor>
+  <actor>
+    <name>Oli Green</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>3103651</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryann Redmond</name>
+    <role>Becka</role>
+    <type>Actor</type>
+    <tmdbid>1437489</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydney Morton</name>
+    <role>Joelle</role>
+    <type>Actor</type>
+    <tmdbid>1990644</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackie Hoffman</name>
+    <role>Belinda</role>
+    <type>Actor</type>
+    <tmdbid>5385</tmdbid>
+    <imdbid>nm0388931</imdbid>
+    <tvdbid>334220</tvdbid>
+  </actor>
+  <actor>
+    <name>Victor Cruz</name>
+    <role>Alberto Reyes</role>
+    <type>Actor</type>
+    <tmdbid>979216</tmdbid>
+    <imdbid>nm1497615</imdbid>
+  </actor>
+  <actor>
+    <name>Izzy Raye</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3458682</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Cedeño</name>
+    <role>Jarvis</role>
+    <type>Actor</type>
+    <tmdbid>3458683</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Nicastro</name>
+    <role>Referee</role>
+    <type>Actor</type>
+    <tmdbid>3458684</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilia Suárez</name>
+    <role>Gabriella</role>
+    <type>Actor</type>
+    <tmdbid>3458685</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Yaffe</name>
+    <role>Rehab Patient</role>
+    <type>Actor</type>
+    <tmdbid>2730865</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessie Mueller</name>
+    <role>Sandra Keen</role>
+    <type>Actor</type>
+    <tmdbid>1379033</tmdbid>
+  </actor>
+  <director tmdbid="5367" imdbid="nm0103785">Zach Braff</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rPjhVj7crd8</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Una buena persona</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14153080</imdbid>
+  <tmdbid>800787</tmdbid>
+  <premiered>2023-03-23</premiered>
+  <releasedate>2023-03-23</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>128</runtime>
+  <country>Canada</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Killer Films</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Elevation Pictures</studio>
+  <studio>RocketScience</studio>
+  <uniqueid type="imdb">tt14153080</uniqueid>
+  <uniqueid type="tmdb">800787</uniqueid>
+  <id>tt14153080</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>870338</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7691</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

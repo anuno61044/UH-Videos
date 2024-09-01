@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Jeanne, una joven de clase trabajadora ávida de cultura y placer, utiliza su inteligencia y su atractivo para ascender uno a uno los peldaños de la escala social. Se convierte en la favorita del rey Luis XV, quien desconociendo su condición de cortesana, recupera a través de ella su apetito por la vida. Se enamoran perdidamente. Contra todo decoro y etiqueta, Jeanne se traslada a Versalles, donde su llegada escandaliza a la corte...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-06 09:36:57</dateadded>
+  <title>Jeanne du Barry</title>
+  <originaltitle>Jeanne du Barry</originaltitle>
+  <actor>
+    <name>Maïwenn</name>
+    <role>Jeanne Du Barry</role>
+    <type>Actor</type>
+    <tmdbid>64210</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Depp</name>
+    <role>Louis XV</role>
+    <type>Actor</type>
+    <tmdbid>85</tmdbid>
+    <imdbid>nm0000136</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Lavernhe</name>
+    <role>La Borde</role>
+    <type>Actor</type>
+    <tmdbid>1159954</tmdbid>
+  </actor>
+  <actor>
+    <name>Melvil Poupaud</name>
+    <role>Le Comte Du Barry</role>
+    <type>Actor</type>
+    <tmdbid>26100</tmdbid>
+    <imdbid>nm0693799</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Renucci</name>
+    <role>Monsieur Dumousseaux</role>
+    <type>Actor</type>
+    <tmdbid>16349</tmdbid>
+    <imdbid>nm0719914</imdbid>
+  </actor>
+  <actor>
+    <name>Pierre Richard</name>
+    <role>Le Duc de Richelieu</role>
+    <type>Actor</type>
+    <tmdbid>24501</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne Basler</name>
+    <role>Anne, la mère de Jeanne adolescente</role>
+    <type>Actor</type>
+    <tmdbid>15481</tmdbid>
+    <imdbid>nm0059974</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Chaniolleau</name>
+    <role>Madame de la Garde</role>
+    <type>Actor</type>
+    <tmdbid>538664</tmdbid>
+  </actor>
+  <actor>
+    <name>Pascal Greggory</name>
+    <role>Le Duc D'Aiguillon</role>
+    <type>Actor</type>
+    <tmdbid>16923</tmdbid>
+    <imdbid>nm0339621</imdbid>
+  </actor>
+  <actor>
+    <name>India Hair</name>
+    <role>Adélaïde de France</role>
+    <type>Actor</type>
+    <tmdbid>555967</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne De Baecque</name>
+    <role>Victoire</role>
+    <type>Actor</type>
+    <tmdbid>2463404</tmdbid>
+  </actor>
+  <actor>
+    <name>Capucine Valmary</name>
+    <role>Louise</role>
+    <type>Actor</type>
+    <tmdbid>2210287</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Le Velly</name>
+    <role>Sophie de France</role>
+    <type>Actor</type>
+    <tmdbid>4086442</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick d'Assumçao</name>
+    <role>Choiseul</role>
+    <type>Actor</type>
+    <tmdbid>1174338</tmdbid>
+    <imdbid>nm1253936</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Le Fur</name>
+    <role>Le Dauphin</role>
+    <type>Actor</type>
+    <tmdbid>4053146</tmdbid>
+  </actor>
+  <actor>
+    <name>Pauline Pollmann</name>
+    <role>Marie-Antoinette</role>
+    <type>Actor</type>
+    <tmdbid>4053150</tmdbid>
+  </actor>
+  <actor>
+    <name>Noémie Lvovsky</name>
+    <role>La Comtesse de Noailles</role>
+    <type>Actor</type>
+    <tmdbid>49168</tmdbid>
+    <imdbid>nm0527852</imdbid>
+  </actor>
+  <actor>
+    <name>Micha Lescot</name>
+    <role>Mercy</role>
+    <type>Actor</type>
+    <tmdbid>81144</tmdbid>
+  </actor>
+  <actor>
+    <name>Marine Boca</name>
+    <role>L'amie de Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>4258130</tmdbid>
+  </actor>
+  <actor>
+    <name>Djibril Djimo</name>
+    <role>Zamor adolescent</role>
+    <type>Actor</type>
+    <tmdbid>4258131</tmdbid>
+  </actor>
+  <actor>
+    <name>Ibrahim Yaffa</name>
+    <role>Zamor enfant</role>
+    <type>Actor</type>
+    <tmdbid>3660874</tmdbid>
+  </actor>
+  <actor>
+    <name>Thibault Bonenfant</name>
+    <role>Adolphe à 15 ans</role>
+    <type>Actor</type>
+    <tmdbid>3755941</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Colombe</name>
+    <role>Le gynécologue</role>
+    <type>Actor</type>
+    <tmdbid>1607019</tmdbid>
+  </actor>
+  <actor>
+    <name>Edouard Michelon</name>
+    <role>L'adjoint du gynécologue</role>
+    <type>Actor</type>
+    <tmdbid>2835045</tmdbid>
+  </actor>
+  <actor>
+    <name>Yann Frisch</name>
+    <role>Le magicien</role>
+    <type>Actor</type>
+    <tmdbid>2162439</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Lévy</name>
+    <role>Le médecin Le Monnier</role>
+    <type>Actor</type>
+    <tmdbid>19061</tmdbid>
+  </actor>
+  <actor>
+    <name>Teddy Lussi-Modeste</name>
+    <role>Le médecin La Martinière</role>
+    <type>Actor</type>
+    <tmdbid>228186</tmdbid>
+  </actor>
+  <actor>
+    <name>Éric Denize</name>
+    <role>Le médecin Lorry</role>
+    <type>Actor</type>
+    <tmdbid>2229631</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphaël Quenard</name>
+    <role>Le Grand Chambellan</role>
+    <type>Actor</type>
+    <tmdbid>2185414</tmdbid>
+  </actor>
+  <actor>
+    <name>Grégoire Oestermann</name>
+    <role>L'abbé Maudou</role>
+    <type>Actor</type>
+    <tmdbid>146212</tmdbid>
+    <imdbid>nm0644314</imdbid>
+  </actor>
+  <actor>
+    <name>Coralie Russier</name>
+    <role>La sœur de Choisel</role>
+    <type>Actor</type>
+    <tmdbid>1679237</tmdbid>
+    <imdbid>nm6352268</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kaboré-Dufour</name>
+    <role>Jeanne Du Barry enfant</role>
+    <type>Actor</type>
+    <tmdbid>4259340</tmdbid>
+  </actor>
+  <actor>
+    <name>Loli Bahia</name>
+    <role>Jeanne Du Barry adolescente</role>
+    <type>Actor</type>
+    <tmdbid>4259345</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Schmitt</name>
+    <role>Le Grand Aumonier</role>
+    <type>Actor</type>
+    <tmdbid>1175149</tmdbid>
+    <imdbid>nm0773460</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Richard</name>
+    <role>Madame de la Roche Fontenille</role>
+    <type>Actor</type>
+    <tmdbid>4259347</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Arbessier</name>
+    <role>Fils de Madame de la Garde</role>
+    <type>Actor</type>
+    <tmdbid>4259350</tmdbid>
+  </actor>
+  <actor>
+    <name>Guilhem Arbressier</name>
+    <role>Fils de Madame de la Garde</role>
+    <type>Actor</type>
+    <tmdbid>4259352</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurélie Vérillon</name>
+    <role>Madame Labille</role>
+    <type>Actor</type>
+    <tmdbid>133752</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurent Grévill</name>
+    <role>L'artiste peintre</role>
+    <type>Actor</type>
+    <tmdbid>20772</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernard Nissile</name>
+    <role>Le père Gomard</role>
+    <type>Actor</type>
+    <tmdbid>49277</tmdbid>
+  </actor>
+  <actor>
+    <name>Jürgen Doering</name>
+    <role>Le styliste</role>
+    <type>Actor</type>
+    <tmdbid>131997</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Pécheux</name>
+    <role>Bossuet, le maquilleur</role>
+    <type>Actor</type>
+    <tmdbid>2667457</tmdbid>
+  </actor>
+  <actor>
+    <name>Manon Rony</name>
+    <role>Félicité</role>
+    <type>Actor</type>
+    <tmdbid>1947986</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Styker</name>
+    <role>Édouard, le 1er valet des Mesdames</role>
+    <type>Actor</type>
+    <tmdbid>1414098</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Noël Martin</name>
+    <role>Le prêtre parlant latin</role>
+    <type>Actor</type>
+    <tmdbid>1114419</tmdbid>
+  </actor>
+  <actor>
+    <name>Mattéo Di Capua</name>
+    <role>Le joueur de violoncelle</role>
+    <type>Actor</type>
+    <tmdbid>4259363</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Carpiaux</name>
+    <role>Élisabeth Vigée-Lebrun adolescente</role>
+    <type>Actor</type>
+    <tmdbid>2422147</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Bokillon</name>
+    <role>Élisabeth Vigée-Lebrun</role>
+    <type>Actor</type>
+    <tmdbid>4259364</tmdbid>
+  </actor>
+  <actor>
+    <name>Édouard Decker</name>
+    <role>Le Prince de Ligne</role>
+    <type>Actor</type>
+    <tmdbid>4259365</tmdbid>
+  </actor>
+  <actor>
+    <name>Léa Keiflin</name>
+    <role>Doublure lumière Jeanne Du Barry</role>
+    <type>Actor</type>
+    <tmdbid>4259367</tmdbid>
+  </actor>
+  <actor>
+    <name>David Decraene</name>
+    <role>Doublure lumière Louis XV</role>
+    <type>Actor</type>
+    <tmdbid>1957468</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Rollan</name>
+    <role>Doublure Zamor enfant</role>
+    <type>Actor</type>
+    <tmdbid>4259370</tmdbid>
+  </actor>
+  <actor>
+    <name>Leeroy Pemsing-Eschylle</name>
+    <role>Doublure Zamor enfant</role>
+    <type>Actor</type>
+    <tmdbid>4259372</tmdbid>
+  </actor>
+  <actor>
+    <name>Scotty Bernard</name>
+    <role>Doublure Zamor adolescent</role>
+    <type>Actor</type>
+    <tmdbid>2490507</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Pucci</name>
+    <role>Adolphe</role>
+    <type>Actor</type>
+    <tmdbid>4259385</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanislas Stanic</name>
+    <role>Narrator</role>
+    <type>Actor</type>
+    <tmdbid>1362838</tmdbid>
+  </actor>
+  <director tmdbid="64210">Maïwenn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y8rh5Tm7Vwc</trailer>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>Jeanne du Barry</sorttitle>
+  <imdbid>tt17277414</imdbid>
+  <tmdbid>921452</tmdbid>
+  <premiered>2023-05-16</premiered>
+  <releasedate>2023-05-16</releasedate>
+  <runtime>117</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <genre>Romance</genre>
+  <studio>Why Not Productions</studio>
+  <studio>La Petite Reine</studio>
+  <studio>Red Sea Fund</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Les Films de Batna</studio>
+  <studio>France 3 Cinéma</studio>
+  <studio>Les Films du Fleuve</studio>
+  <studio>Impala Productions</studio>
+  <studio>IN.2 FILM</studio>
+  <uniqueid type="imdb">tt17277414</uniqueid>
+  <uniqueid type="tmdb">921452</uniqueid>
+  <id>tt17277414</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>759748</bitrate>
+        <width>720</width>
+        <height>360</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7033</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>159340</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

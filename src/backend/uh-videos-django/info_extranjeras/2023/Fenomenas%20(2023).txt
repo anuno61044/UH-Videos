@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Madrid, España, 1998. Los muchos recursos y habilidades de Gloria, Paz y Sagrario, tres mujeres de mediana edad que investigan sucesos paranormales, son puestos a prueba cuando su líder, el padre Pilón, tiene un desagradable encuentro.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-14 08:25:39</dateadded>
+  <title>Fenómenas</title>
+  <originaltitle>Fenómenas</originaltitle>
+  <actor>
+    <name>Belén Rueda</name>
+    <role>Sagrario</role>
+    <type>Actor</type>
+    <tmdbid>19907</tmdbid>
+    <imdbid>nm0749104</imdbid>
+    <tvdbid>469966</tvdbid>
+  </actor>
+  <actor>
+    <name>Gracia Olayo</name>
+    <role>Paz</role>
+    <type>Actor</type>
+    <tmdbid>982296</tmdbid>
+    <imdbid>nm0646010</imdbid>
+    <tvdbid>604679</tvdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Emilio Gutiérrez Caba</name>
+    <role>El Pater</role>
+    <type>Actor</type>
+    <tmdbid>105161</tmdbid>
+    <imdbid>nm0349427</imdbid>
+    <tvdbid>451830</tvdbid>
+  </actor>
+  <actor>
+    <name>Miren Ibarguren</name>
+    <role>Doorwoman</role>
+    <type>Actor</type>
+    <tmdbid>560247</tmdbid>
+    <imdbid>nm2009186</imdbid>
+    <tvdbid>448248</tvdbid>
+  </actor>
+  <actor>
+    <name>Ivan Massagué</name>
+    <role>Enrique</role>
+    <type>Actor</type>
+    <tmdbid>31422</tmdbid>
+    <imdbid>nm1293644</imdbid>
+    <tvdbid>7925919</tvdbid>
+  </actor>
+  <actor>
+    <name>Óscar Ortuño</name>
+    <role>Pablo</role>
+    <type>Actor</type>
+    <tmdbid>1350277</tmdbid>
+    <imdbid>nm4358814</imdbid>
+    <tvdbid>8286193</tvdbid>
+  </actor>
+  <actor>
+    <name>Lorena López</name>
+    <role>Marisa</role>
+    <type>Actor</type>
+    <tmdbid>2105358</tmdbid>
+  </actor>
+  <actor>
+    <name>Fran Cantos</name>
+    <role>Gerardo</role>
+    <type>Actor</type>
+    <tmdbid>2648877</tmdbid>
+  </actor>
+  <actor>
+    <name>María Gil</name>
+    <role>Susanita</role>
+    <type>Actor</type>
+    <tmdbid>4015951</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Pagudo</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1075029</tmdbid>
+    <imdbid>nm1813393</imdbid>
+    <tvdbid>594871</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <role>Sarmiento's Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>Paloma Paso Jardiel</name>
+    <role>Bar Woman</role>
+    <type>Actor</type>
+    <tmdbid>2788483</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Regueiro</name>
+    <role>Luis</role>
+    <type>Actor</type>
+    <tmdbid>1304975</tmdbid>
+    <imdbid>nm1252976</imdbid>
+    <tvdbid>7906420</tvdbid>
+  </actor>
+  <actor>
+    <name>Roberto Chapu</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1902023</tmdbid>
+    <imdbid>nm9075913</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Gara</name>
+    <role>TV Host</role>
+    <type>Actor</type>
+    <tmdbid>1922686</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Cañas</name>
+    <role>Physician</role>
+    <type>Actor</type>
+    <tmdbid>1795948</tmdbid>
+  </actor>
+  <actor>
+    <name>José Luis S. Lanchas</name>
+    <role>Toni 2 Piano Player</role>
+    <type>Actor</type>
+    <tmdbid>4015978</tmdbid>
+  </actor>
+  <actor>
+    <name>Pía Tedesco</name>
+    <role>Toni 2 Singer #1</role>
+    <type>Actor</type>
+    <tmdbid>4015982</tmdbid>
+  </actor>
+  <actor>
+    <name>Iván Armesto</name>
+    <role>Toni 2 Singer #2</role>
+    <type>Actor</type>
+    <tmdbid>1920863</tmdbid>
+  </actor>
+  <actor>
+    <name>José Luis Jiménez</name>
+    <role>University Department Director</role>
+    <type>Actor</type>
+    <tmdbid>2210566</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús Puente</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>31694</tmdbid>
+    <imdbid>nm0699909</imdbid>
+  </actor>
+  <director tmdbid="588816" imdbid="nm1724912">Carlos Therón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mHdm22FhT34</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Fenomenas</sorttitle>
+  <imdbid>tt18315204</imdbid>
+  <tmdbid>1073413</tmdbid>
+  <premiered>2023-04-14</premiered>
+  <releasedate>2023-04-14</releasedate>
+  <runtime>95</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Nadie es Perfecto</studio>
+  <uniqueid type="tmdb">1073413</uniqueid>
+  <uniqueid type="imdb">tt18315204</uniqueid>
+  <id>tt18315204</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>226755</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5712</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63817</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

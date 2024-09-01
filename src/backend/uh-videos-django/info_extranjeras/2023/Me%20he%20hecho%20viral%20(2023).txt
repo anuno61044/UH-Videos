@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mabel se ha hecho viral. Y de la forma menos deseada posible. Durante su vuelo a Polinesia, desbloquea el móvil de su marido, dormido, con una intención inocente, pero lo que encuentra es la prueba de una infidelidad. Mabel la lía parda en pleno vuelo y se enzarza con todo el que intenta detenerla, provocando el pánico en el avión. Su acción provoca el aterrizaje de emergencia y que la bajen a la fuerza. Cuando regresa a Madrid descubre que ya no es una chica anónima: alguien ha grabado su "gesta" y ahora se ha hecho vital: todo el mundo la conoce como #lalocadelavion. La viralidad tiene inmediatas consecuencias: es despedida del trabajo y acaba perdiendo todo lo que tenía: amor, trabajo, casa, amigos y... privacidad. Mabel lucha para recuperar lo que ha perdido... pero no es fácil siendo viral.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-06 10:41:46</dateadded>
+  <title>Me he hecho viral</title>
+  <originaltitle>Me he hecho viral</originaltitle>
+  <actor>
+    <name>Blanca Suárez</name>
+    <role>Mabel</role>
+    <type>Actor</type>
+    <tmdbid>106817</tmdbid>
+    <imdbid>nm2848198</imdbid>
+    <tvdbid>306705</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicolás Furtado</name>
+    <type>Actor</type>
+    <tvdbid>554844</tvdbid>
+    <tmdbid>1263585</tmdbid>
+  </actor>
+  <actor>
+    <name>Enric Auquer</name>
+    <type>Actor</type>
+    <tmdbid>1436707</tmdbid>
+    <imdbid>nm3606001</imdbid>
+    <tvdbid>8159706</tvdbid>
+  </actor>
+  <actor>
+    <name>Miguel Rellán</name>
+    <type>Actor</type>
+    <tmdbid>81848</tmdbid>
+    <imdbid>nm0718829</imdbid>
+  </actor>
+  <actor>
+    <name>Cristina Gallego</name>
+    <type>Actor</type>
+    <tmdbid>1282293</tmdbid>
+  </actor>
+  <actor>
+    <name>Esperanza Guardado</name>
+    <type>Actor</type>
+    <tmdbid>2366951</tmdbid>
+  </actor>
+  <director tmdbid="588125">Jorge Coira</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vcY7o8kGJbk</trailer>
+  <rating>6.538</rating>
+  <year>2023</year>
+  <sorttitle>Me he hecho viral</sorttitle>
+  <imdbid>tt20420798</imdbid>
+  <tmdbid>1064098</tmdbid>
+  <premiered>2023-10-11</premiered>
+  <releasedate>2023-10-11</releasedate>
+  <runtime>93</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Bowfinger</studio>
+  <studio>Atresmedia</studio>
+  <uniqueid type="imdb">tt20420798</uniqueid>
+  <uniqueid type="tmdb">1064098</uniqueid>
+  <id>tt20420798</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1032008</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5574</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64784</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

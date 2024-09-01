@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kaleb está a punto de cumplir 30 años y nunca ha estado más solo. Está peleando con su hermana por un asunto de herencia y ha cortado los lazos con su mejor amigo. Apasionado por los animales exóticos, un día llega a casa con una araña venenosa y accidentalmente la deja escapar.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-04-29 10:45:28</dateadded>
+  <title>Vermin: La plaga</title>
+  <originaltitle>Vermines</originaltitle>
+  <actor>
+    <name>Théo Christine</name>
+    <role>Kaleb</role>
+    <type>Actor</type>
+    <tmdbid>2004136</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Lesaffre</name>
+    <role>Lila</role>
+    <type>Actor</type>
+    <tmdbid>1281819</tmdbid>
+  </actor>
+  <actor>
+    <name>Finnegan Oldfield</name>
+    <role>Jordy</role>
+    <type>Actor</type>
+    <tmdbid>583853</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Niel</name>
+    <role>Mathys</role>
+    <type>Actor</type>
+    <tmdbid>1446210</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Nyarko</name>
+    <role>Manon</role>
+    <type>Actor</type>
+    <tmdbid>3875890</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie-Philomène Nga</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>937641</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Bonami</name>
+    <role>Gilles</role>
+    <type>Actor</type>
+    <tmdbid>1350350</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdellah Moundy</name>
+    <role>Mr. Benzaoui</role>
+    <type>Actor</type>
+    <tmdbid>82927</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahamadou Sangaré</name>
+    <role>Moussa</role>
+    <type>Actor</type>
+    <tmdbid>2096112</tmdbid>
+  </actor>
+  <actor>
+    <name>Xing Xing Cheng</name>
+    <role>Mrs. Zhao</role>
+    <type>Actor</type>
+    <tmdbid>1668056</tmdbid>
+  </actor>
+  <actor>
+    <name>Malik Amraoui</name>
+    <role>Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>3438650</tmdbid>
+  </actor>
+  <actor>
+    <name>Ike Zacsongo-Joseph</name>
+    <role>Toumani</role>
+    <type>Actor</type>
+    <tmdbid>3743584</tmdbid>
+  </actor>
+  <actor>
+    <name>Samir Nait</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>4338663</tmdbid>
+  </actor>
+  <actor>
+    <name>Lehcem Mahidi</name>
+    <role>Chasseur 1</role>
+    <type>Actor</type>
+    <tmdbid>4680007</tmdbid>
+  </actor>
+  <actor>
+    <name>Nasser Mehal</name>
+    <role>Chasseur 2</role>
+    <type>Actor</type>
+    <tmdbid>3537451</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelkader Bounoir</name>
+    <role>Chasseur 3</role>
+    <type>Actor</type>
+    <tmdbid>4680011</tmdbid>
+  </actor>
+  <actor>
+    <name>Karim Daoues</name>
+    <role>Chasseur 4</role>
+    <type>Actor</type>
+    <tmdbid>4448177</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Kay</name>
+    <role>Une voisine</role>
+    <type>Actor</type>
+    <tmdbid>4680015</tmdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Malassenet</name>
+    <role>Un voisin</role>
+    <type>Actor</type>
+    <tmdbid>1366324</tmdbid>
+  </actor>
+  <actor>
+    <name>Aicha Ameddah</name>
+    <role>Une voisine</role>
+    <type>Actor</type>
+    <tmdbid>4680017</tmdbid>
+  </actor>
+  <director tmdbid="3662751">Sébastien Vaniček</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LR-uiy20_zM</trailer>
+  <rating>6.9</rating>
+  <year>2023</year>
+  <sorttitle>Vermin: La plaga</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt26744289</imdbid>
+  <tmdbid>1063879</tmdbid>
+  <premiered>2023-12-27</premiered>
+  <releasedate>2023-12-27</releasedate>
+  <runtime>106</runtime>
+  <country>France</country>
+  <genre>Terror</genre>
+  <studio>My Box Films</studio>
+  <studio>Tandem</studio>
+  <studio>Charades</studio>
+  <studio>Shudder</studio>
+  <studio>WTFilms</studio>
+  <uniqueid type="imdb">tt26744289</uniqueid>
+  <uniqueid type="tmdb">1063879</uniqueid>
+  <id>tt26744289</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>726601</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>152:65</aspect>
+        <aspectratio>152:65</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6331</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>163316</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>107</bitrate>
+        <width>949</width>
+        <height>60</height>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

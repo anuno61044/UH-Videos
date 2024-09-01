@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos hombres de 25 años se conocen por casualidad, se enamoran perdidamente y luego se separan debido a un evento inesperado. Durante los siguientes treinta años persiguen la esperanza de volver a encontrarse.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-01 08:09:25</dateadded>
+  <title>Nuovo Olimpo</title>
+  <originaltitle>Nuovo Olimpo</originaltitle>
+  <actor>
+    <name>Damiano Gavino</name>
+    <role>Enea</role>
+    <type>Actor</type>
+    <tmdbid>3304939</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Di Luigi</name>
+    <role>Pietro</role>
+    <type>Actor</type>
+    <tmdbid>2845956</tmdbid>
+  </actor>
+  <actor>
+    <name>Luisa Ranieri</name>
+    <role>Titti</role>
+    <type>Actor</type>
+    <tmdbid>119172</tmdbid>
+  </actor>
+  <actor>
+    <name>Greta Scarano</name>
+    <role>Giulia</role>
+    <type>Actor</type>
+    <tmdbid>1123262</tmdbid>
+    <imdbid>nm3842427</imdbid>
+  </actor>
+  <actor>
+    <name>Aurora Giovinazzo</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1707552</tmdbid>
+  </actor>
+  <actor>
+    <name>Alvise Rigo</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>3786218</tmdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Commare</name>
+    <role>Ernesto</role>
+    <type>Actor</type>
+    <tmdbid>2758389</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Finotti</name>
+    <role>Massimo</role>
+    <type>Actor</type>
+    <tmdbid>4324384</tmdbid>
+  </actor>
+  <actor>
+    <name>Loredana Cannata</name>
+    <role>Organizzatrice</role>
+    <type>Actor</type>
+    <tmdbid>557004</tmdbid>
+  </actor>
+  <actor>
+    <name>Federico Mancini</name>
+    <role>La Postina</role>
+    <type>Actor</type>
+    <tmdbid>2618982</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariano Gallo</name>
+    <role>Il mastino</role>
+    <type>Actor</type>
+    <tmdbid>4358200</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugenio di Fraia</name>
+    <role>Uomo alla guida</role>
+    <type>Actor</type>
+    <tmdbid>2152019</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianluca D'Ercole</name>
+    <role>Padre Enea</role>
+    <type>Actor</type>
+    <tmdbid>147006</tmdbid>
+  </actor>
+  <actor>
+    <name>Aglaia Mora</name>
+    <role>Madre Pietro</role>
+    <type>Actor</type>
+    <tmdbid>1816065</tmdbid>
+  </actor>
+  <actor>
+    <name>Annandrea Vitrano</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>3289521</tmdbid>
+  </actor>
+  <actor>
+    <name>Giacomo Colavito</name>
+    <role>Il principe</role>
+    <type>Actor</type>
+    <tmdbid>2815948</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommaso F. Barone</name>
+    <role>Tecnico FSX</role>
+    <type>Actor</type>
+    <tmdbid>4358205</tmdbid>
+  </actor>
+  <actor>
+    <name>Giacomo Stallone</name>
+    <role>Luciano</role>
+    <type>Actor</type>
+    <tmdbid>2809075</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Misseri</name>
+    <role>Cosimo</role>
+    <type>Actor</type>
+    <tmdbid>2873861</tmdbid>
+  </actor>
+  <actor>
+    <name>Turi Moricca</name>
+    <role>Medico assistente Pietro</role>
+    <type>Actor</type>
+    <tmdbid>4358211</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara De Matteis</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>1292584</tmdbid>
+    <imdbid>nm4150473</imdbid>
+  </actor>
+  <actor>
+    <name>Angelo Sugamosto</name>
+    <role>Attrezzista</role>
+    <type>Actor</type>
+    <tmdbid>4358216</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Teresa Borela Baluyot</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>3030525</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Tamburrino</name>
+    <role>Giorgio</role>
+    <type>Actor</type>
+    <tmdbid>2845958</tmdbid>
+  </actor>
+  <director tmdbid="72197" imdbid="nm0654858">Ferzan Özpetek</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NatMTfOZsl8</trailer>
+  <rating>6.81</rating>
+  <year>2023</year>
+  <sorttitle>Nuovo Olimpo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt18394610</imdbid>
+  <tmdbid>1044648</tmdbid>
+  <premiered>2023-11-01</premiered>
+  <releasedate>2023-11-01</releasedate>
+  <runtime>113</runtime>
+  <country>Italy</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>R&amp;C Produzioni</studio>
+  <studio>Faros Film</studio>
+  <uniqueid type="imdb">tt18394610</uniqueid>
+  <uniqueid type="tmdb">1044648</uniqueid>
+  <id>tt18394610</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2441468</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6756</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

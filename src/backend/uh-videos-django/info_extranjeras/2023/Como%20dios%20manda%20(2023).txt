@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Andrés Cuadrado es un rígido y exitoso funcionario que por circunstancias de la vida acaba en una situación en la que no esperaba y donde se encuentra más perdido y desubicado que nunca. Como consecuencia, no le quedará más remedio que reinventarse y seguir adelante con humor y ganas.]]></plot>
+  <outline><![CDATA[Una Película de Paz Jiménez]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-29 08:20:16</dateadded>
+  <title>Como Dios manda</title>
+  <originaltitle>Como Dios manda</originaltitle>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Andrés Cuadrado</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>Stéphanie Magnin</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>2443862</tmdbid>
+  </actor>
+  <actor>
+    <name>María Morales</name>
+    <role>Lourdes</role>
+    <type>Actor</type>
+    <tmdbid>1139519</tmdbid>
+    <imdbid>nm1511166</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Pérez Prada</name>
+    <role>Martín</role>
+    <type>Actor</type>
+    <tmdbid>1169140</tmdbid>
+    <imdbid>nm0701999</imdbid>
+  </actor>
+  <actor>
+    <name>Julián Villagrán</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>34057</tmdbid>
+    <imdbid>nm1253636</imdbid>
+    <tvdbid>469614</tvdbid>
+  </actor>
+  <actor>
+    <name>Maribel Salas</name>
+    <role>Nati</role>
+    <type>Actor</type>
+    <tmdbid>1428816</tmdbid>
+    <imdbid>nm1645550</imdbid>
+  </actor>
+  <actor>
+    <name>Santi Ugalde</name>
+    <role>Emilio</role>
+    <type>Actor</type>
+    <tmdbid>984078</tmdbid>
+    <imdbid>nm1645405</imdbid>
+    <tvdbid>539116</tvdbid>
+  </actor>
+  <actor>
+    <name>Pepín Tre</name>
+    <role>Cura</role>
+    <type>Actor</type>
+    <tmdbid>1386792</tmdbid>
+    <imdbid>nm0871545</imdbid>
+  </actor>
+  <actor>
+    <name>Malcom Sitté</name>
+    <role>Economista</role>
+    <type>Actor</type>
+    <tmdbid>1565557</tmdbid>
+    <imdbid>nm3398055</imdbid>
+  </actor>
+  <actor>
+    <name>David Fernández</name>
+    <role>Jose Luis</role>
+    <type>Actor</type>
+    <tmdbid>228880</tmdbid>
+    <imdbid>nm1511830</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Gomez Pando</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>2461323</tmdbid>
+    <tvdbid>8232103</tvdbid>
+  </actor>
+  <actor>
+    <name>Choz Corzo</name>
+    <role>Chavela</role>
+    <type>Actor</type>
+    <tmdbid>4203035</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Lago</name>
+    <role>Rafael</role>
+    <type>Actor</type>
+    <tmdbid>1236753</tmdbid>
+    <imdbid>nm0481336</imdbid>
+  </actor>
+  <actor>
+    <name>Aitziber Garmendia</name>
+    <role>Virginia</role>
+    <type>Actor</type>
+    <tmdbid>1077139</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Alcaraz</name>
+    <role>Javier</role>
+    <type>Actor</type>
+    <tmdbid>4203039</tmdbid>
+  </actor>
+  <actor>
+    <name>Alma Rozas</name>
+    <role>Jimena</role>
+    <type>Actor</type>
+    <tmdbid>4203040</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamza Zaidi</name>
+    <role>Ticktoker</role>
+    <type>Actor</type>
+    <tmdbid>2564672</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Escánes</name>
+    <role>Almudena</role>
+    <type>Actor</type>
+    <tmdbid>4203041</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Benavente</name>
+    <role>Psicóloga Igualdad</role>
+    <type>Actor</type>
+    <tmdbid>2259037</tmdbid>
+  </actor>
+  <actor>
+    <name>Enrique Asenjo</name>
+    <role>Profesor Autoescuela</role>
+    <type>Actor</type>
+    <tmdbid>1097775</tmdbid>
+    <imdbid>nm2045073</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra W. Asumu</name>
+    <role>Rohaia</role>
+    <type>Actor</type>
+    <tmdbid>4089903</tmdbid>
+  </actor>
+  <actor>
+    <name>Mari Paz Sayago</name>
+    <role>Examinadora</role>
+    <type>Actor</type>
+    <tmdbid>1042760</tmdbid>
+    <imdbid>nm2097714</imdbid>
+    <tvdbid>539110</tvdbid>
+  </actor>
+  <actor>
+    <name>Cris Nollet</name>
+    <role>Comadrona</role>
+    <type>Actor</type>
+    <tmdbid>2264683</tmdbid>
+  </actor>
+  <actor>
+    <name>Asun Ayllon</name>
+    <role>Contribuyente</role>
+    <type>Actor</type>
+    <tmdbid>4203044</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricard Farré</name>
+    <role>Gonsalves</role>
+    <type>Actor</type>
+    <tmdbid>1073954</tmdbid>
+  </actor>
+  <director tmdbid="2529912">Paz Jiménez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A7a5UoADbmY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W4qvl6-SnPI</trailer>
+  <rating>5.1</rating>
+  <year>2023</year>
+  <sorttitle>Como Dios manda</sorttitle>
+  <imdbid>tt15502664</imdbid>
+  <tmdbid>1064103</tmdbid>
+  <premiered>2023-06-02</premiered>
+  <releasedate>2023-06-02</releasedate>
+  <runtime>100</runtime>
+  <tagline>Una Película de Paz Jiménez</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Áralan Films</studio>
+  <studio>Atresmedia</studio>
+  <studio>Buendía Estudios</studio>
+  <uniqueid type="tmdb">1064103</uniqueid>
+  <uniqueid type="imdb">tt15502664</uniqueid>
+  <id>tt15502664</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1532273</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5976</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

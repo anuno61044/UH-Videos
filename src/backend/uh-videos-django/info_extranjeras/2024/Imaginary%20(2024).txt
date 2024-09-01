@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), su hijastra más pequeña, comienza a desarrollar un extraño apego hacia Chauncey, el oso de peluche que encuentra en el sótano. En un primer momento, Alice y Chauncey se entretienen con juegos aparentemente divertidos que, poco a poco, irán volviéndose más siniestros y peligrosos. A medida que el comportamiento de Alice se va volviendo más inquietante, Jessica decide intervenir, pero cuando lo hace se da cuenta de que Chauncey es mucho más que un inofensivo oso de peluche.]]></plot>
+  <outline><![CDATA[Meet Chauncey. He's not imaginary. And he's not your friend.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-03-27 10:31:24</dateadded>
+  <title>Imaginary</title>
+  <originaltitle>Imaginary</originaltitle>
+  <actor>
+    <name>DeWanda Wise</name>
+    <role>Jessica</role>
+    <type>Actor</type>
+    <tmdbid>206425</tmdbid>
+    <imdbid>nm1986622</imdbid>
+    <tvdbid>317293</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Payne</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>30319</tmdbid>
+    <imdbid>nm2092835</imdbid>
+    <tvdbid>475505</tvdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Dr. Alana Soto</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+    <imdbid>nm1227481</imdbid>
+  </actor>
+  <actor>
+    <name>Betty Buckley</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>52462</tmdbid>
+    <imdbid>nm0000990</imdbid>
+  </actor>
+  <actor>
+    <name>Taegen Burns</name>
+    <role>Taylor</role>
+    <type>Actor</type>
+    <tmdbid>1819796</tmdbid>
+  </actor>
+  <actor>
+    <name>Pyper Braun</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>2984010</tmdbid>
+  </actor>
+  <actor>
+    <name>Dane DiLiegro</name>
+    <type>Actor</type>
+    <tmdbid>3158773</tmdbid>
+  </actor>
+  <actor>
+    <name>Alix Angelis</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>965980</tmdbid>
+    <imdbid>nm3240564</imdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Leal</name>
+    <role>Mom</role>
+    <type>Actor</type>
+    <tvdbid>7881275</tvdbid>
+    <tmdbid>2270488</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Sato</name>
+    <role>Liam</role>
+    <type>Actor</type>
+    <tmdbid>2394083</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzette Lange</name>
+    <role>Senior Home Visitor</role>
+    <type>Actor</type>
+    <tmdbid>3314432</tmdbid>
+  </actor>
+  <actor>
+    <name>Aubree Majors</name>
+    <role>Various Kids in the Neighborhood</role>
+    <type>Actor</type>
+    <tmdbid>4363897</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooklyn Majors</name>
+    <role>Various kids in the neighborhood</role>
+    <type>Actor</type>
+    <tmdbid>3986306</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaiah Evans</name>
+    <role>Various kids in the neighborhood</role>
+    <type>Actor</type>
+    <tmdbid>3986303</tmdbid>
+  </actor>
+  <actor>
+    <name>Conner McCoy</name>
+    <role>Neighborhood kid</role>
+    <type>Actor</type>
+    <tmdbid>4363899</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Albertson</name>
+    <role>Collin</role>
+    <type>Actor</type>
+    <tmdbid>16490</tmdbid>
+  </actor>
+  <director tmdbid="55075" imdbid="nm0905592">Jeff Wadlow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W--2y6mUhbI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Lj0HODMVSnA</trailer>
+  <rating>4.7</rating>
+  <year>2024</year>
+  <sorttitle>Imaginary</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt26658104</imdbid>
+  <tmdbid>1125311</tmdbid>
+  <premiered>2024-03-06</premiered>
+  <releasedate>2024-03-06</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>104</runtime>
+  <tagline>Meet Chauncey. He's not imaginary. And he's not your friend.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Blumhouse Productions</studio>
+  <studio>Tower of Babble Entertainment</studio>
+  <studio>Lionsgate</studio>
+  <uniqueid type="imdb">tt26658104</uniqueid>
+  <uniqueid type="tmdb">1125311</uniqueid>
+  <id>tt26658104</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070091</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6249</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

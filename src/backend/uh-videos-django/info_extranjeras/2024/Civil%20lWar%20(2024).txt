@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un futuro cercano donde América está sumida en una cruenta guerra civil, un equipo de periodistas y fotógrafos de guerra emprenderá un viaje por carretera en dirección a Washington DC. Su misión: llegar antes de que las fuerzas rebeldes asalten la Casa Blanca y arrebaten el control al presidente de los Estados Unidos.]]></plot>
+  <outline><![CDATA[Welcome to the frontline.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-24 09:52:00</dateadded>
+  <title>Civil War</title>
+  <originaltitle>Civil War</originaltitle>
+  <actor>
+    <name>Kirsten Dunst</name>
+    <role>Lee</role>
+    <type>Actor</type>
+    <tmdbid>205</tmdbid>
+    <imdbid>nm0000379</imdbid>
+  </actor>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Joel</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+    <imdbid>nm0609944</imdbid>
+    <tvdbid>297464</tvdbid>
+  </actor>
+  <actor>
+    <name>Cailee Spaeny</name>
+    <role>Jessie</role>
+    <type>Actor</type>
+    <tmdbid>1683343</tmdbid>
+    <imdbid>nm8314228</imdbid>
+    <tvdbid>459714</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Henderson</name>
+    <role>Sammy</role>
+    <type>Actor</type>
+    <tmdbid>196179</tmdbid>
+    <imdbid>nm0376610</imdbid>
+  </actor>
+  <actor>
+    <name>Nelson Lee</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>109019</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Offerman</name>
+    <role>President</role>
+    <type>Actor</type>
+    <tmdbid>17039</tmdbid>
+    <imdbid>nm0644406</imdbid>
+    <tvdbid>270246</tvdbid>
+  </actor>
+  <actor>
+    <name>Jefferson White</name>
+    <role>Dave</role>
+    <type>Actor</type>
+    <tmdbid>1385813</tmdbid>
+    <imdbid>nm6366417</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Lai</name>
+    <role>Bohai</role>
+    <type>Actor</type>
+    <tmdbid>2001956</tmdbid>
+  </actor>
+  <actor>
+    <name>Vince Pisani</name>
+    <role>Concierge</role>
+    <type>Actor</type>
+    <tmdbid>1431398</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin James Boykin</name>
+    <role>American Soldier (Middle East)</role>
+    <type>Actor</type>
+    <tmdbid>2145383</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess Matney</name>
+    <role>Checkpoint Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3641129</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Hill</name>
+    <role>Pete</role>
+    <type>Actor</type>
+    <tmdbid>1944266</tmdbid>
+  </actor>
+  <actor>
+    <name>Edmund Donovan</name>
+    <role>Eddie</role>
+    <type>Actor</type>
+    <tvdbid>516134</tvdbid>
+    <tmdbid>1508173</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonoya Mizuno</name>
+    <role>Anya</role>
+    <type>Actor</type>
+    <tmdbid>1457238</tmdbid>
+    <imdbid>nm4420495</imdbid>
+    <tvdbid>520548</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim James</name>
+    <role>Hanging Captive</role>
+    <type>Actor</type>
+    <tmdbid>1790012</tmdbid>
+  </actor>
+  <actor>
+    <name>Simeon Freeman</name>
+    <role>Commercial Soldier Mike</role>
+    <type>Actor</type>
+    <tmdbid>2756171</tmdbid>
+  </actor>
+  <actor>
+    <name>James Yaegashi</name>
+    <role>Commercial Corporal</role>
+    <type>Actor</type>
+    <tmdbid>1528809</tmdbid>
+    <imdbid>nm0944853</imdbid>
+    <tvdbid>517652</tvdbid>
+  </actor>
+  <actor>
+    <name>Dean Grimes</name>
+    <role>Commerical Soldier #1</role>
+    <type>Actor</type>
+    <tmdbid>1427688</tmdbid>
+    <imdbid>nm1129976</imdbid>
+  </actor>
+  <actor>
+    <name>Alexa Mansour</name>
+    <role>Aid Worker Refugee Camp</role>
+    <type>Actor</type>
+    <tmdbid>1371546</tmdbid>
+    <imdbid>nm6501297</imdbid>
+  </actor>
+  <actor>
+    <name>Martha B. Knighton</name>
+    <role>Elderly Woman</role>
+    <type>Actor</type>
+    <tmdbid>1502319</tmdbid>
+    <imdbid>nm3022044</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Saint-Amand</name>
+    <role>Shop Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1515510</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Glusman</name>
+    <role>Spotter</role>
+    <type>Actor</type>
+    <tmdbid>1327613</tmdbid>
+    <imdbid>nm3194762</imdbid>
+    <tvdbid>480696</tvdbid>
+  </actor>
+  <actor>
+    <name>Jin Ha</name>
+    <role>Sniper</role>
+    <type>Actor</type>
+    <tmdbid>2088446</tmdbid>
+    <imdbid>nm7949518</imdbid>
+  </actor>
+  <actor>
+    <name>Jonica T. Gibbs</name>
+    <role>WF White House Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>2135069</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Shaw</name>
+    <role>WF White House Assaulter #1</role>
+    <type>Actor</type>
+    <tmdbid>3072032</tmdbid>
+    <tvdbid>8432087</tvdbid>
+  </actor>
+  <actor>
+    <name>Justin Garza</name>
+    <role>WF White House Assaulter #2</role>
+    <type>Actor</type>
+    <tmdbid>3608238</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Philpot</name>
+    <role>WF White House Assaulter #3</role>
+    <type>Actor</type>
+    <tmdbid>1825888</tmdbid>
+  </actor>
+  <actor>
+    <name>Tywaun Tornes</name>
+    <role>WF White House Assaulter #4</role>
+    <type>Actor</type>
+    <tmdbid>3641130</tmdbid>
+  </actor>
+  <actor>
+    <name>Juani Feliz</name>
+    <role>Joy Butler</role>
+    <type>Actor</type>
+    <tmdbid>1689329</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Militia Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+    <tvdbid>325974</tvdbid>
+  </actor>
+  <actor>
+    <name>John Newberg</name>
+    <role>Rose Garden Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1374152</tmdbid>
+    <imdbid>nm2010301</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Howell</name>
+    <role>Western Force Army Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4648552</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernest 'Scooby' Rogers</name>
+    <role>Riot Police / Army Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1745104</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Perry Bierman</name>
+    <role>Airline Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2072541</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Manuel Gallegos Jr.</name>
+    <role>Air Steward (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1577255</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cocke</name>
+    <role>Airport Customer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2586923</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Austin Bryant</name>
+    <role>WF Marine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704161</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bosley</name>
+    <role>SFC Brown (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1689339</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Moorer Gaskins</name>
+    <role>Injured Marine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1874958</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Holtzman</name>
+    <role>Secret Service Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1734935</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Marie Gordon</name>
+    <role>Female Marine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3641132</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Kedgley</name>
+    <role>Western Forces Marine / Flag Detail (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3774031</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy LaForce</name>
+    <role>Milita (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4648553</tmdbid>
+  </actor>
+  <actor>
+    <name>Cora Maple Lindell</name>
+    <role>Dying Refugee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3511290</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Marshall</name>
+    <role>Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2643001</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy S. Love</name>
+    <role>Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4648555</tmdbid>
+  </actor>
+  <actor>
+    <name>Petey Nguyễn</name>
+    <role>Marine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1587640</tmdbid>
+  </actor>
+  <actor>
+    <name>LePrix Robinson</name>
+    <role>Female Army Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4648556</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Rosen</name>
+    <role>Airplane Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1457425</tmdbid>
+    <imdbid>nm4611976</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Patrick Shook</name>
+    <role>Guard Marine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4173535</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Tinsley</name>
+    <role>Marine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2559822</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaclyn White</name>
+    <role>War Journalist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3520488</tmdbid>
+  </actor>
+  <actor>
+    <name>Temper Lavigne</name>
+    <role>Refugee  (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4648557</tmdbid>
+  </actor>
+  <director tmdbid="2036" imdbid="nm0307497">Alex Garland</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aDyQxtg0V2w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cA4wVhs3HC0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c2G18nIVpNE</trailer>
+  <rating>7.3</rating>
+  <year>2024</year>
+  <sorttitle>Civil War</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17279496</imdbid>
+  <tmdbid>929590</tmdbid>
+  <premiered>2024-04-10</premiered>
+  <releasedate>2024-04-10</releasedate>
+  <runtime>109</runtime>
+  <tagline>Welcome to the frontline.</tagline>
+  <country>Finland</country>
+  <country>United Kingdom</country>
+  <genre>Bélica</genre>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <studio>DNA Films</studio>
+  <studio>IPR.VC</studio>
+  <uniqueid type="imdb">tt17279496</uniqueid>
+  <uniqueid type="tmdb">929590</uniqueid>
+  <id>tt17279496</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1025242</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6525</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

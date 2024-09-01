@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Stand-up comedian Max Bernal lives with his father Stan while struggling to co-parent his autistic son Ezra with his ex-wife. When forced to confront difficult decisions about their son's future, Max and Ezra embark on a cross-country road trip that has a transcendent impact on both their lives.]]></plot>
+  <outline><![CDATA[To do right by his son, one dad will go the distance.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-26 10:14:25</dateadded>
+  <title>Ezra</title>
+  <originaltitle>Ezra</originaltitle>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <role>Max Bernal</role>
+    <type>Actor</type>
+    <tmdbid>21127</tmdbid>
+    <imdbid>nm0134072</imdbid>
+    <tvdbid>255793</tvdbid>
+  </actor>
+  <actor>
+    <name>William A. Fitzgerald</name>
+    <role>Ezra Bernal</role>
+    <type>Actor</type>
+    <tmdbid>3760259</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Stan Bernal</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+    <tvdbid>311037</tvdbid>
+  </actor>
+  <actor>
+    <name>Rose Byrne</name>
+    <role>Jenna</role>
+    <type>Actor</type>
+    <tmdbid>9827</tmdbid>
+    <imdbid>nm0126284</imdbid>
+    <tvdbid>311189</tvdbid>
+  </actor>
+  <actor>
+    <name>Vera Farmiga</name>
+    <role>Grace</role>
+    <type>Actor</type>
+    <tmdbid>21657</tmdbid>
+    <imdbid>nm0267812</imdbid>
+    <tvdbid>286924</tvdbid>
+  </actor>
+  <actor>
+    <name>Whoopi Goldberg</name>
+    <role>Jayne</role>
+    <type>Actor</type>
+    <tmdbid>2395</tmdbid>
+    <imdbid>nm0000155</imdbid>
+    <tvdbid>254660</tvdbid>
+  </actor>
+  <actor>
+    <name>Rainn Wilson</name>
+    <role>Nick</role>
+    <type>Actor</type>
+    <tmdbid>11678</tmdbid>
+    <imdbid>nm0933988</imdbid>
+    <tvdbid>255150</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Goldwyn</name>
+    <role>Bruce</role>
+    <type>Actor</type>
+    <tmdbid>3417</tmdbid>
+    <imdbid>nm0001282</imdbid>
+    <tvdbid>317357</tvdbid>
+  </actor>
+  <actor>
+    <name>Jackson Frazer</name>
+    <role>Ridgeway</role>
+    <type>Actor</type>
+    <tmdbid>1385043</tmdbid>
+    <imdbid>nm5370784</imdbid>
+  </actor>
+  <actor>
+    <name>Greer Barnes</name>
+    <role>Greer</role>
+    <type>Actor</type>
+    <tmdbid>1219688</tmdbid>
+  </actor>
+  <actor>
+    <name>Tess Goldwyn</name>
+    <role>Ms. Cathro</role>
+    <type>Actor</type>
+    <tmdbid>4178272</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Ayberk</name>
+    <role>Dr. Irina Tamarova</role>
+    <type>Actor</type>
+    <tmdbid>2244435</tmdbid>
+  </actor>
+  <actor>
+    <name>Lois Robbins</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>159877</tmdbid>
+    <imdbid>nm0730413</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Plank</name>
+    <role>Dr. Kaplan</role>
+    <type>Actor</type>
+    <tmdbid>2411762</tmdbid>
+  </actor>
+  <actor>
+    <name>Daphne Rubin-Vega</name>
+    <role>Agent Margo Jenkins</role>
+    <type>Actor</type>
+    <tmdbid>9209</tmdbid>
+    <imdbid>nm0748189</imdbid>
+  </actor>
+  <actor>
+    <name>Matilda Lawler</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>2382043</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Pacheco</name>
+    <role>Special Agent Costa</role>
+    <type>Actor</type>
+    <tmdbid>1510511</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Sheehan</name>
+    <role>Mrs. C.</role>
+    <type>Actor</type>
+    <tmdbid>4589613</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Owens</name>
+    <role>Robert Segal</role>
+    <type>Actor</type>
+    <tmdbid>182617</tmdbid>
+  </actor>
+  <actor>
+    <name>Barzin Akhavan</name>
+    <role>Dr. Jeffrey Wells</role>
+    <type>Actor</type>
+    <tmdbid>2430160</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Vivino</name>
+    <role>Noreen, Woman in Bar</role>
+    <type>Actor</type>
+    <tmdbid>217846</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Nwabueze</name>
+    <role>Sister Margaret</role>
+    <type>Actor</type>
+    <tmdbid>3109272</tmdbid>
+  </actor>
+  <actor>
+    <name>John Donovan Wilson</name>
+    <role>Sheriff Tom</role>
+    <type>Actor</type>
+    <tmdbid>4377641</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Hinck</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>4589618</tmdbid>
+  </actor>
+  <actor>
+    <name>David Marciano</name>
+    <role>Detective Harrelson</role>
+    <type>Actor</type>
+    <tmdbid>169292</tmdbid>
+  </actor>
+  <actor>
+    <name>Dov Davidoff</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>176763</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Mulligan</name>
+    <role>Ariana</role>
+    <type>Actor</type>
+    <tmdbid>4589621</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Duverné</name>
+    <role>Lance</role>
+    <type>Actor</type>
+    <tmdbid>4589622</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Donahue</name>
+    <role>Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>159870</tmdbid>
+  </actor>
+  <actor>
+    <name>Myra Lucretia Taylor</name>
+    <role>Margo</role>
+    <type>Actor</type>
+    <tmdbid>20318</tmdbid>
+    <imdbid>nm0852939</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Plotzke</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2212065</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Parrish</name>
+    <role>Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3495216</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Pesin</name>
+    <role>Diner</role>
+    <type>Actor</type>
+    <tmdbid>4589615</tmdbid>
+  </actor>
+  <actor>
+    <name>Louie Aronowitz</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>3512996</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie A. Bryant</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3343238</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Barber</name>
+    <role>Ezra's Classmate</role>
+    <type>Actor</type>
+    <tmdbid>4589623</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Morales</name>
+    <role>Ezra's Classmate</role>
+    <type>Actor</type>
+    <tmdbid>4589620</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Leszczak</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>4589624</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Linger</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>4589625</tmdbid>
+  </actor>
+  <actor>
+    <name>Skyler Wenger</name>
+    <role>Classroom Kid</role>
+    <type>Actor</type>
+    <tmdbid>3495214</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Kimmel</name>
+    <role>Jimmy Kimmel</role>
+    <type>Actor</type>
+    <tmdbid>78303</tmdbid>
+    <imdbid>nm0453994</imdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Rodriguez</name>
+    <role>Guillermo Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1873278</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Cali</name>
+    <role>Cally</role>
+    <type>Actor</type>
+    <tmdbid>4748093</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Willmann</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>2437345</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Caro</name>
+    <role>Agent Pena</role>
+    <type>Actor</type>
+    <tmdbid>4748119</tmdbid>
+  </actor>
+  <actor>
+    <name>Bev Sheehan</name>
+    <role>Waitress at Diner</role>
+    <type>Actor</type>
+    <tmdbid>4748131</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Hennessy</name>
+    <role>Jackie</role>
+    <type>Actor</type>
+    <tmdbid>4748136</tmdbid>
+  </actor>
+  <director tmdbid="3417" imdbid="nm0001282" tvdbid="317357">Tony Goldwyn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HQDLCWLEHHk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dfyXGs-HpaM</trailer>
+  <rating>6.6</rating>
+  <year>2024</year>
+  <sorttitle>Ezra</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt20315818</imdbid>
+  <tmdbid>977262</tmdbid>
+  <premiered>2024-05-30</premiered>
+  <releasedate>2024-05-30</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>101</runtime>
+  <tagline>To do right by his son, one dad will go the distance.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Closer Media</studio>
+  <studio>Wayfarer Studios</studio>
+  <uniqueid type="imdb">tt20315818</uniqueid>
+  <uniqueid type="tmdb">977262</uniqueid>
+  <id>tt20315818</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1098116</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6080</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

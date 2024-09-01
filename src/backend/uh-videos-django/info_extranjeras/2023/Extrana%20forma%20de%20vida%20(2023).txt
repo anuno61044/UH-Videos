@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un hombre cruza a caballo el desierto que le separa de Bitter Creek. Viene a visitar al Sheriff Jake. Veinticinco años antes, ambos -el sheriff y Silva, el ranchero que cabalga a su encuentro- trabajaron juntos como pistoleros a sueldo. Silva viene con el pretexto de reencontrarse con su amigo de juventud, y en efecto celebran su encuentro, pero a la mañana siguiente el sheriff Jake le dice que la razón de su viaje no es el recuerdo de su vieja amistad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-03 08:45:14</dateadded>
+  <title>Extraña forma de vida</title>
+  <originaltitle>Extraña forma de vida</originaltitle>
+  <actor>
+    <name>Ethan Hawke</name>
+    <role>Jake</role>
+    <type>Actor</type>
+    <tmdbid>569</tmdbid>
+    <imdbid>nm0000160</imdbid>
+    <tvdbid>311173</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Silva</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+    <imdbid>nm0050959</imdbid>
+    <tvdbid>247850</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Fernández</name>
+    <role>Young Jake</role>
+    <type>Actor</type>
+    <tmdbid>2773674</tmdbid>
+  </actor>
+  <actor>
+    <name>José Condessa</name>
+    <role>Young Silva</role>
+    <type>Actor</type>
+    <tmdbid>1866671</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Rived</name>
+    <role>Sheriff Deputy</role>
+    <type>Actor</type>
+    <tmdbid>3778996</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Sálamo</name>
+    <role>Conchita</role>
+    <type>Actor</type>
+    <tmdbid>1167672</tmdbid>
+    <imdbid>nm4932005</imdbid>
+  </actor>
+  <actor>
+    <name>Manu Rios</name>
+    <role>Singer</role>
+    <type>Actor</type>
+    <tmdbid>3128586</tmdbid>
+    <tvdbid>8173489</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <role>Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>George Steane</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>3136506</tmdbid>
+  </actor>
+  <actor>
+    <name>Erenice Lohan</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>4303700</tmdbid>
+  </actor>
+  <actor>
+    <name>Oihana Cueto</name>
+    <role>Calixta</role>
+    <type>Actor</type>
+    <tmdbid>4303701</tmdbid>
+  </actor>
+  <actor>
+    <name>Vasileios Papatheocharis</name>
+    <role>Town Cowboy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2948836</tmdbid>
+  </actor>
+  <director tmdbid="309" imdbid="nm0000264">Pedro Almodóvar</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T5UMFxNmw0Y</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Extrana forma de vida</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13055264</imdbid>
+  <tmdbid>963765</tmdbid>
+  <premiered>2023-05-26</premiered>
+  <releasedate>2023-05-26</releasedate>
+  <runtime>32</runtime>
+  <country>Spain</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Western</genre>
+  <studio>El Deseo</studio>
+  <studio>Saint Laurent</studio>
+  <uniqueid type="imdb">tt13055264</uniqueid>
+  <uniqueid type="tmdb">963765</uniqueid>
+  <id>tt13055264</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>912445</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>31</duration>
+        <durationinseconds>1902</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160001</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[As the clock counted down to the the 21st century, the world faced a potential technological disaster: a bug that could cause computers to misinterpret the year 2000 as 1900. Crafted entirely from archival footage and featuring first-hand accounts from computer experts, survivalists, scholars, militia groups, conservative Christians, and pop icons, Time Bomb Y2K is a prescient and often humorous tale about the power and vulnerabilities of technology.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-31 11:52:28</dateadded>
+  <title>Time Bomb Y2K</title>
+  <originaltitle>Time Bomb Y2K</originaltitle>
+  <actor>
+    <name>Peter de Jager</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>4426826</tmdbid>
+  </actor>
+  <actor>
+    <name>John Koskinen</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2205721</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bezos</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1223665</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Jobs</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>12897</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Gates</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>240633</tmdbid>
+  </actor>
+  <actor>
+    <name>Busta Rhymes</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>6485</tmdbid>
+    <imdbid>nm0005354</imdbid>
+    <tvdbid>278334</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <director tmdbid="3925710">Brian Becker</director>
+  <director tmdbid="3925712">Marley McDonald</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d6Q8v7Z7TJs</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Time Bomb Y2K</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt26786629</imdbid>
+  <tmdbid>1088233</tmdbid>
+  <premiered>2023-03-03</premiered>
+  <releasedate>2023-03-03</releasedate>
+  <runtime>80</runtime>
+  <country>United States of America</country>
+  <genre>Documental</genre>
+  <studio>HBO Documentary Films</studio>
+  <studio>Spinning Nancy</studio>
+  <uniqueid type="tmdb">1088233</uniqueid>
+  <uniqueid type="imdb">tt26786629</uniqueid>
+  <id>tt26786629</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149765</bitrate>
+        <width>1280</width>
+        <height>962</height>
+        <aspect>359:270</aspect>
+        <aspectratio>359:270</aspectratio>
+        <framerate>29.97003</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>80</duration>
+        <durationinseconds>4802</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129923</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

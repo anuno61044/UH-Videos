@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.]]></plot>
+  <outline><![CDATA[Ella es lo más. Él es simplemente Ken.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-03 09:44:43</dateadded>
+  <title>Barbie</title>
+  <originaltitle>Barbie</originaltitle>
+  <actor>
+    <name>Margot Robbie</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>234352</tmdbid>
+    <imdbid>nm3053338</imdbid>
+    <tvdbid>327479</tvdbid>
+  </actor>
+  <actor>
+    <name>Ryan Gosling</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>30614</tmdbid>
+    <imdbid>nm0331516</imdbid>
+  </actor>
+  <actor>
+    <name>America Ferrera</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>59174</tmdbid>
+    <imdbid>nm1065229</imdbid>
+    <tvdbid>311335</tvdbid>
+  </actor>
+  <actor>
+    <name>Kate McKinnon</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1240487</tmdbid>
+    <imdbid>nm0571952</imdbid>
+  </actor>
+  <actor>
+    <name>Ariana Greenblatt</name>
+    <role>Sasha</role>
+    <type>Actor</type>
+    <tmdbid>1767250</tmdbid>
+    <imdbid>nm7567556</imdbid>
+  </actor>
+  <actor>
+    <name>Simu Liu</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>1489211</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Ferrell</name>
+    <role>Mattel CEO</role>
+    <type>Actor</type>
+    <tmdbid>23659</tmdbid>
+    <imdbid>nm0002071</imdbid>
+    <tvdbid>289998</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Cera</name>
+    <role>Allan</role>
+    <type>Actor</type>
+    <tmdbid>39995</tmdbid>
+    <imdbid>nm0148418</imdbid>
+    <tvdbid>321341</tvdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+    <imdbid>nm0000545</imdbid>
+    <tvdbid>296967</tvdbid>
+  </actor>
+  <actor>
+    <name>Issa Rae</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1455336</tmdbid>
+    <tvdbid>311315</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Shipp</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1253199</tmdbid>
+    <imdbid>nm3381295</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Mackey</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>2201315</tmdbid>
+    <imdbid>nm8076281</imdbid>
+    <tvdbid>7895747</tvdbid>
+  </actor>
+  <actor>
+    <name>Emerald Fennell</name>
+    <role>Midge</role>
+    <type>Actor</type>
+    <tmdbid>1252934</tmdbid>
+    <imdbid>nm2193504</imdbid>
+    <tvdbid>506587</tvdbid>
+  </actor>
+  <actor>
+    <name>Rhea Perlman</name>
+    <role>Ruth Handler</role>
+    <type>Actor</type>
+    <tmdbid>24203</tmdbid>
+    <imdbid>nm0674231</imdbid>
+  </actor>
+  <actor>
+    <name>Hari Nef</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1611609</tmdbid>
+    <tvdbid>583291</tvdbid>
+  </actor>
+  <actor>
+    <name>Kingsley Ben-Adir</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>1417352</tmdbid>
+    <imdbid>nm4667984</imdbid>
+    <tvdbid>464748</tvdbid>
+  </actor>
+  <actor>
+    <name>Ncuti Gatwa</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>1475239</tmdbid>
+    <imdbid>nm6967441</imdbid>
+    <tvdbid>7895755</tvdbid>
+  </actor>
+  <actor>
+    <name>Connor Swindells</name>
+    <role>Aaron Dinkins</role>
+    <type>Actor</type>
+    <tmdbid>2112439</tmdbid>
+    <imdbid>nm8874222</imdbid>
+    <tvdbid>558685</tvdbid>
+  </actor>
+  <actor>
+    <name>Sharon Rooney</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1474028</tmdbid>
+  </actor>
+  <actor>
+    <name>Ritu Arya</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1742596</tmdbid>
+    <imdbid>nm5709125</imdbid>
+    <tvdbid>728803</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Kayne</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1168285</tmdbid>
+    <imdbid>nm2474626</imdbid>
+  </actor>
+  <actor>
+    <name>Nicola Coughlan</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1267240</tmdbid>
+    <imdbid>nm1965552</imdbid>
+  </actor>
+  <actor>
+    <name>Dua Lipa</name>
+    <role>Barbie</role>
+    <type>Actor</type>
+    <tmdbid>1959397</tmdbid>
+    <imdbid>nm7645984</imdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott Evans</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>1427684</tmdbid>
+    <imdbid>nm3268924</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Demetriou</name>
+    <role>Mattel Executive #1</role>
+    <type>Actor</type>
+    <tmdbid>1470911</tmdbid>
+    <imdbid>nm5857152</imdbid>
+    <tvdbid>302142</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Leung</name>
+    <role>Mattel Executive #2</role>
+    <type>Actor</type>
+    <tmdbid>1312526</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Merrick</name>
+    <role>Young Mattel Employee</role>
+    <type>Actor</type>
+    <tmdbid>1221073</tmdbid>
+    <imdbid>nm4465864</imdbid>
+    <tvdbid>303280</tvdbid>
+  </actor>
+  <actor>
+    <name>Zheng Xi Yong</name>
+    <role>An Even Younger Mattel Employee</role>
+    <type>Actor</type>
+    <tmdbid>4169965</tmdbid>
+  </actor>
+  <actor>
+    <name>Asim Chaudhry</name>
+    <role>Warehouse Employee</role>
+    <type>Actor</type>
+    <tmdbid>1502438</tmdbid>
+    <imdbid>nm5219130</imdbid>
+    <tvdbid>460655</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Fearon</name>
+    <role>Dan at the FBI</role>
+    <type>Actor</type>
+    <tmdbid>56650</tmdbid>
+    <imdbid>nm0269909</imdbid>
+  </actor>
+  <actor>
+    <name>Erica Ford</name>
+    <role>Skipper</role>
+    <type>Actor</type>
+    <tmdbid>3975650</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Khalique-Brown</name>
+    <role>Growing Up Skipper</role>
+    <type>Actor</type>
+    <tmdbid>3412837</tmdbid>
+  </actor>
+  <actor>
+    <name>Mette Towley</name>
+    <role>Barbie Video Girl</role>
+    <type>Actor</type>
+    <tmdbid>2152740</tmdbid>
+    <imdbid>nm9724879</imdbid>
+  </actor>
+  <actor>
+    <name>Marisa Abela</name>
+    <role>Teen Talk Barbie</role>
+    <type>Actor</type>
+    <tmdbid>2673762</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Boynton</name>
+    <role>Proust Barbie</role>
+    <type>Actor</type>
+    <tmdbid>86232</tmdbid>
+    <imdbid>nm2377903</imdbid>
+    <tvdbid>480697</tvdbid>
+  </actor>
+  <actor>
+    <name>Rob Brydon</name>
+    <role>Sugar Daddy Ken</role>
+    <type>Actor</type>
+    <tmdbid>47632</tmdbid>
+    <imdbid>nm0117339</imdbid>
+    <tvdbid>261787</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Stourton</name>
+    <role>Earring Magic Ken</role>
+    <type>Actor</type>
+    <tmdbid>1420175</tmdbid>
+    <imdbid>nm4494491</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Taylor</name>
+    <role>Ken Emcee</role>
+    <type>Actor</type>
+    <tmdbid>4183105</tmdbid>
+  </actor>
+  <actor>
+    <name>David Mumeni</name>
+    <role>Footrub Ken</role>
+    <type>Actor</type>
+    <tmdbid>1619648</tmdbid>
+    <imdbid>nm4176253</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Brody</name>
+    <role>2001 Girl</role>
+    <type>Actor</type>
+    <tmdbid>2952051</tmdbid>
+  </actor>
+  <actor>
+    <name>Isla Ashworth</name>
+    <role>2001 Girl</role>
+    <type>Actor</type>
+    <tmdbid>4169971</tmdbid>
+  </actor>
+  <actor>
+    <name>Eire Farrell</name>
+    <role>2001 Girl</role>
+    <type>Actor</type>
+    <tmdbid>4135287</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Duczmal</name>
+    <role>2001 Girl</role>
+    <type>Actor</type>
+    <tmdbid>1779093</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Nightingale Mercado</name>
+    <role>Girl Making Weird Barbie</role>
+    <type>Actor</type>
+    <tmdbid>4421727</tmdbid>
+  </actor>
+  <actor>
+    <name>Genvieve Toussaint</name>
+    <role>Young Sasha</role>
+    <type>Actor</type>
+    <tmdbid>4169978</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuela Mora</name>
+    <role>Girl with Barbie</role>
+    <type>Actor</type>
+    <tmdbid>3144896</tmdbid>
+  </actor>
+  <actor>
+    <name>Aida Sexton</name>
+    <role>Girl with Barbie</role>
+    <type>Actor</type>
+    <tmdbid>4169980</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Roth</name>
+    <role>The Woman on the Bench</role>
+    <type>Actor</type>
+    <tmdbid>5493</tmdbid>
+  </actor>
+  <actor>
+    <name>Millie-Rose Crossley</name>
+    <role>Advertisement Girl</role>
+    <type>Actor</type>
+    <tmdbid>4169981</tmdbid>
+  </actor>
+  <actor>
+    <name>Anvita Nehru</name>
+    <role>Advertisement Girl</role>
+    <type>Actor</type>
+    <tmdbid>4169982</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayla-Mai Alvares</name>
+    <role>Advertisement Girl</role>
+    <type>Actor</type>
+    <tmdbid>3506596</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Mullen</name>
+    <role>Guy at the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1965108</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Luwis</name>
+    <role>Guy at the Beach</role>
+    <type>Actor</type>
+    <tmdbid>2209431</tmdbid>
+  </actor>
+  <actor>
+    <name>Mac Brandt</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>1215837</tmdbid>
+    <imdbid>nm1991608</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Jurewicz</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>2123597</tmdbid>
+  </actor>
+  <actor>
+    <name>Oraldo Austin</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>4169984</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Arthur</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>203637</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Jacott</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>52930</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Ray</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1637555</tmdbid>
+    <imdbid>nm3066532</imdbid>
+  </actor>
+  <actor>
+    <name>George Basil</name>
+    <role>Boutique Owner</role>
+    <type>Actor</type>
+    <tmdbid>1097533</tmdbid>
+  </actor>
+  <actor>
+    <name>Ptolemy Slocum</name>
+    <role>Corporate Man</role>
+    <type>Actor</type>
+    <tmdbid>207453</tmdbid>
+  </actor>
+  <actor>
+    <name>Deb Hiett</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1571604</tmdbid>
+  </actor>
+  <actor>
+    <name>James Leon</name>
+    <role>Life-Guard</role>
+    <type>Actor</type>
+    <tmdbid>4169990</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Vaquer</name>
+    <role>Businessman</role>
+    <type>Actor</type>
+    <tmdbid>1491397</tmdbid>
+    <imdbid>nm1192100</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Noto</name>
+    <role>Businessman</role>
+    <type>Actor</type>
+    <tmdbid>3536866</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher T. Wood</name>
+    <role>Businessman</role>
+    <type>Actor</type>
+    <tmdbid>1459152</tmdbid>
+    <imdbid>nm1752262</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Mumolo</name>
+    <role>Anxiety Mom</role>
+    <type>Actor</type>
+    <tmdbid>174514</tmdbid>
+    <imdbid>nm1754239</imdbid>
+  </actor>
+  <actor>
+    <name>Elise Gallup</name>
+    <role>Warning Girl</role>
+    <type>Actor</type>
+    <tmdbid>4169992</tmdbid>
+  </actor>
+  <actor>
+    <name>McKenna Roberts</name>
+    <role>Junior High Friend</role>
+    <type>Actor</type>
+    <tmdbid>2072197</tmdbid>
+  </actor>
+  <actor>
+    <name>Brylee Hsu</name>
+    <role>Junior High Friend</role>
+    <type>Actor</type>
+    <tmdbid>4169993</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Milstein</name>
+    <role>Junior High Friend</role>
+    <type>Actor</type>
+    <tmdbid>4169994</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Holt</name>
+    <role>Time Mom</role>
+    <type>Actor</type>
+    <tmdbid>1681573</tmdbid>
+  </actor>
+  <actor>
+    <name>Sterling Jones</name>
+    <role>Mattel Agent</role>
+    <type>Actor</type>
+    <tmdbid>168834</tmdbid>
+    <imdbid>nm1285082</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Piers Williams</name>
+    <role>El Esposo de Gloria</role>
+    <type>Actor</type>
+    <tmdbid>131885</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamaal Lewis</name>
+    <role>Muscle Beach Guy</role>
+    <type>Actor</type>
+    <tmdbid>2131693</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Akin</name>
+    <role>Doctor Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1945733</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Jabbari</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2112276</tmdbid>
+  </actor>
+  <actor>
+    <name>Ira Mandela Siobhan</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1488474</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Spencer</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3221943</tmdbid>
+  </actor>
+  <actor>
+    <name>Naomi Weijand</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1802794</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Clark</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2677070</tmdbid>
+    <imdbid>nm10005581</imdbid>
+  </actor>
+  <actor>
+    <name>Ireanne Abenoja</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182492</tmdbid>
+  </actor>
+  <actor>
+    <name>Davide Albonetti</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182493</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Anderson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182494</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Anderson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182495</tmdbid>
+  </actor>
+  <actor>
+    <name>Rico Bakker</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182496</tmdbid>
+  </actor>
+  <actor>
+    <name>James Bamford</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182542</tmdbid>
+  </actor>
+  <actor>
+    <name>William John Banks</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2280478</tmdbid>
+  </actor>
+  <actor>
+    <name>Callum Bell</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182543</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Blaug</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182544</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Boyce</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182545</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Bradshaw</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182546</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Brown</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182547</tmdbid>
+  </actor>
+  <actor>
+    <name>Miekaile Browne</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182548</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewis Calcutt</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182549</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikkita Chadha</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1535014</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Chapman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182550</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Charles</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182551</tmdbid>
+  </actor>
+  <actor>
+    <name>Callum Clack</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182552</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Coburn</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182553</tmdbid>
+  </actor>
+  <actor>
+    <name>Kat Collings</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182554</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Crossley</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182556</tmdbid>
+  </actor>
+  <actor>
+    <name>Sia Dauda</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182557</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustave Die</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182558</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Durkin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182559</tmdbid>
+  </actor>
+  <actor>
+    <name>Joelle Dyson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3640392</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewis Easter</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182561</tmdbid>
+  </actor>
+  <actor>
+    <name>Onyemachi Ejimofor</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182562</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Everitt</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182563</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Field-Wright</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182586</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Flesch</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182587</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Fogarty</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182588</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikey French</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182589</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna-Kay Gayle</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182590</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Goddard</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182591</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlie Goddard</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182592</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellis Harman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182594</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasmin Harrison</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1826765</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Hawkins</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2242897</tmdbid>
+  </actor>
+  <actor>
+    <name>James Healy</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182597</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Hodges</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2732586</tmdbid>
+  </actor>
+  <actor>
+    <name>Mira Jebari</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182598</tmdbid>
+  </actor>
+  <actor>
+    <name>Beccy Jones</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182601</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kalek</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182604</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Laight</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1154760</tmdbid>
+    <imdbid>nm4100318</imdbid>
+  </actor>
+  <actor>
+    <name>Maiya Leeke</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182606</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristian Liberti</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182607</tmdbid>
+  </actor>
+  <actor>
+    <name>Prodromos Marneros</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182609</tmdbid>
+  </actor>
+  <actor>
+    <name>Nahum McLean</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182610</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Melchor</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3235100</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramzan Miah</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2021088</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Monaghan</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182613</tmdbid>
+  </actor>
+  <actor>
+    <name>Florivaldo Mossi</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182615</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Nazareth</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182616</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Neal</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182619</tmdbid>
+  </actor>
+  <actor>
+    <name>Freja Nicole</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182620</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Niles</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182622</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Nonini</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182623</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack William Parry</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182625</tmdbid>
+  </actor>
+  <actor>
+    <name>Josie Pocock</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182626</tmdbid>
+  </actor>
+  <actor>
+    <name>Barnaby Quarendon</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3404763</tmdbid>
+  </actor>
+  <actor>
+    <name>Redmand Rance</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2677086</tmdbid>
+  </actor>
+  <actor>
+    <name>Zara Richards</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182636</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Riddick</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182638</tmdbid>
+  </actor>
+  <actor>
+    <name>Alana Rixon</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182640</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Paul Robertson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182643</tmdbid>
+  </actor>
+  <actor>
+    <name>Kingdom Sibanda</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182647</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Skov</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182648</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron J. Smith</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182649</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Smith</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182651</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucia-Rose Sokolowski</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182655</tmdbid>
+  </actor>
+  <actor>
+    <name>Janine Somcio</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182658</tmdbid>
+  </actor>
+  <actor>
+    <name>Callum Sterling</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3563416</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Talbot</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182665</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Tatman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182671</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Thresh</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4002388</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Tidman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182672</tmdbid>
+  </actor>
+  <actor>
+    <name>Wahchi Vong</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182673</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Wan</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182675</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Wareham</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2572719</tmdbid>
+  </actor>
+  <actor>
+    <name>Stan West</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3129428</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Wheeler</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1462279</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Wild</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182678</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Wolstenholme</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182680</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Womersley</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182682</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Young</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4182688</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Sturman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2711395</tmdbid>
+  </actor>
+  <director tmdbid="45400" imdbid="nm1950086">Greta Gerwig</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KIssh5pZ42g</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qG5HOV_B35I</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vsJgLu3PIno</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EZzABx9RWoY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VKeJ2mzPszY</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Barbie</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1517268</imdbid>
+  <tmdbid>346698</tmdbid>
+  <premiered>2023-07-19</premiered>
+  <releasedate>2023-07-19</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>114</runtime>
+  <tagline>Ella es lo más. Él es simplemente Ken.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <studio>LuckyChap Entertainment</studio>
+  <studio>Heyday Films</studio>
+  <studio>NB/GG Pictures</studio>
+  <studio>Mattel</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="imdb">tt1517268</uniqueid>
+  <uniqueid type="tmdb">346698</uniqueid>
+  <id>tt1517268</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149924</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6842</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>130201</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

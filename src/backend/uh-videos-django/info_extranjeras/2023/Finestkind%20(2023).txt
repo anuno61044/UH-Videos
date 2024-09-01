@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos hermanos son obligados a llegar a un acuerdo con el crimen organizado de Boston.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-15 10:59:48</dateadded>
+  <title>Finestkind</title>
+  <originaltitle>Finestkind</originaltitle>
+  <actor>
+    <name>Tommy Lee Jones</name>
+    <role>Ray Eldridge</role>
+    <type>Actor</type>
+    <tmdbid>2176</tmdbid>
+    <imdbid>nm0000169</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Foster</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>11107</tmdbid>
+    <imdbid>nm0004936</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Wallace</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>110419</tmdbid>
+    <imdbid>nm3108675</imdbid>
+    <tvdbid>482587</tvdbid>
+  </actor>
+  <actor>
+    <name>Jenna Ortega</name>
+    <role>Mabel</role>
+    <type>Actor</type>
+    <tmdbid>974169</tmdbid>
+    <imdbid>nm4911194</imdbid>
+    <tvdbid>474051</tvdbid>
+  </actor>
+  <actor>
+    <name>Aaron Stanford</name>
+    <role>Skeemo</role>
+    <type>Actor</type>
+    <tmdbid>11022</tmdbid>
+    <imdbid>nm0822155</imdbid>
+  </actor>
+  <actor>
+    <name>Scotty Tovar</name>
+    <role>Nunes</role>
+    <type>Actor</type>
+    <tmdbid>1734222</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Daly</name>
+    <role>Dennis Sykes</role>
+    <type>Actor</type>
+    <tmdbid>68122</tmdbid>
+    <imdbid>nm0004857</imdbid>
+  </actor>
+  <actor>
+    <name>Lolita Davidovich</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>12139</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayne Crawford</name>
+    <role>Pete Weeks</role>
+    <type>Actor</type>
+    <tmdbid>59671</tmdbid>
+    <imdbid>nm0186728</imdbid>
+    <tvdbid>252229</tvdbid>
+  </actor>
+  <actor>
+    <name>Meghan Leathers</name>
+    <type>Actor</type>
+    <tmdbid>2803677</tmdbid>
+  </actor>
+  <actor>
+    <name>Ismael Cruz Córdova</name>
+    <role>Costa</role>
+    <type>Actor</type>
+    <tmdbid>1100144</tmdbid>
+    <imdbid>nm3033454</imdbid>
+    <tvdbid>8158410</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Andrade</name>
+    <role>Anne Marie</role>
+    <type>Actor</type>
+    <tmdbid>134365</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Thurston</name>
+    <role>Mr. White</role>
+    <type>Actor</type>
+    <tmdbid>1675319</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Bash</name>
+    <role>Narcone</role>
+    <type>Actor</type>
+    <tmdbid>1535487</tmdbid>
+    <imdbid>nm1488998</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Gibel</name>
+    <role>Paulette</role>
+    <type>Actor</type>
+    <tmdbid>557599</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Fitz</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>2071721</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Ridley</name>
+    <type>Actor</type>
+    <tmdbid>50589</tmdbid>
+  </actor>
+  <actor>
+    <name>Lonnie Farmer</name>
+    <role>Rocky</role>
+    <type>Actor</type>
+    <tmdbid>188049</tmdbid>
+    <imdbid>nm0267772</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Bechler</name>
+    <role>Audrey</role>
+    <type>Actor</type>
+    <tmdbid>3644006</tmdbid>
+  </actor>
+  <director tmdbid="4723" imdbid="nm0001338">Brian Helgeland</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O8aPzwMl37g</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>Finestkind</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7991508</imdbid>
+  <tmdbid>507532</tmdbid>
+  <premiered>2023-09-08</premiered>
+  <releasedate>2023-09-08</releasedate>
+  <runtime>126</runtime>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Krasnoff / Foster Entertainment</studio>
+  <studio>101 Studios</studio>
+  <studio>Bosque Ranch Productions</studio>
+  <studio>MTV Entertainment Studios</studio>
+  <uniqueid type="tmdb">507532</uniqueid>
+  <uniqueid type="imdb">tt7991508</uniqueid>
+  <id>tt7991508</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149966</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7577</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129859</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

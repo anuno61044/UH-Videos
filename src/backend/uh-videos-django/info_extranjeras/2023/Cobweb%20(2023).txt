@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un chico que escucha voces en su cabeza decide desatarlas sobre sus padres abusivos.]]></plot>
+  <outline><![CDATA[Tarde o temprano, los secretos familiares salen a la luz.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-11 09:41:35</dateadded>
+  <title>No tengas miedo</title>
+  <originaltitle>Cobweb</originaltitle>
+  <actor>
+    <name>Lizzy Caplan</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>51988</tmdbid>
+    <imdbid>nm0135221</imdbid>
+    <tvdbid>303576</tvdbid>
+  </actor>
+  <actor>
+    <name>Antony Starr</name>
+    <role>Mark</role>
+    <type>Actor</type>
+    <tmdbid>60373</tmdbid>
+    <imdbid>nm1102278</imdbid>
+    <tvdbid>388490</tvdbid>
+  </actor>
+  <actor>
+    <name>Cleopatra Coleman</name>
+    <role>Miss Devine</role>
+    <type>Actor</type>
+    <tmdbid>217055</tmdbid>
+    <imdbid>nm1671147</imdbid>
+    <tvdbid>304494</tvdbid>
+  </actor>
+  <actor>
+    <name>Woody Norman</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>1945369</tmdbid>
+    <tvdbid>8141516</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Busey</name>
+    <role>Brian</role>
+    <type>Actor</type>
+    <tmdbid>3351429</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleksandra Dragova</name>
+    <role>The Girl (Sarah)</role>
+    <type>Actor</type>
+    <tmdbid>3769818</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Rincon</name>
+    <role>Principal</role>
+    <type>Actor</type>
+    <tmdbid>2651811</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Kottas</name>
+    <role>Timothy</role>
+    <type>Actor</type>
+    <tmdbid>2916706</tmdbid>
+  </actor>
+  <actor>
+    <name>Steffanie Sampson</name>
+    <role>Brian's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1122661</tmdbid>
+  </actor>
+  <actor>
+    <name>Jivko Mihaylov</name>
+    <role>Kevin (Bunny Mask)</role>
+    <type>Actor</type>
+    <tmdbid>4253418</tmdbid>
+  </actor>
+  <actor>
+    <name>Iliyan Nikolov</name>
+    <role>Lucious (Cat Mask)</role>
+    <type>Actor</type>
+    <tmdbid>4253419</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleksander Asparuhov</name>
+    <role>Sean (Pig Mask)</role>
+    <type>Actor</type>
+    <tmdbid>4253420</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Velikova</name>
+    <role>Princess</role>
+    <type>Actor</type>
+    <tmdbid>4253421</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Nichols</name>
+    <role>Princess' Mom</role>
+    <type>Actor</type>
+    <tmdbid>1685018</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah-Felicity Bay</name>
+    <role>Katie D.</role>
+    <type>Actor</type>
+    <tmdbid>4253423</tmdbid>
+  </actor>
+  <actor>
+    <name>James Robinson</name>
+    <role>Ryan G.</role>
+    <type>Actor</type>
+    <tmdbid>2971720</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Sussman</name>
+    <role>Young Sarah (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4253416</tmdbid>
+  </actor>
+  <actor>
+    <name>Debra Wilson</name>
+    <role>Monster Sarah (voice)</role>
+    <type>Actor</type>
+    <tmdbid>83105</tmdbid>
+    <imdbid>nm0933281</imdbid>
+  </actor>
+  <director tmdbid="1364891">Samuel Bodin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GrEi7ZbVbDU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fYzUmuod-vk</trailer>
+  <rating>6</rating>
+  <year>2023</year>
+  <sorttitle>No tengas miedo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9100018</imdbid>
+  <tmdbid>709631</tmdbid>
+  <premiered>2023-07-19</premiered>
+  <releasedate>2023-07-19</releasedate>
+  <runtime>88</runtime>
+  <tagline>Tarde o temprano, los secretos familiares salen a la luz.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Point Grey Pictures</studio>
+  <studio>Vertigo Entertainment</studio>
+  <studio>Lionsgate</studio>
+  <uniqueid type="imdb">tt9100018</uniqueid>
+  <uniqueid type="tmdb">709631</uniqueid>
+  <id>tt9100018</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1164884</bitrate>
+        <width>1280</width>
+        <height>582</height>
+        <aspect>32512:14841</aspect>
+        <aspectratio>32512:14841</aspectratio>
+        <framerate>23.975828</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5284</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

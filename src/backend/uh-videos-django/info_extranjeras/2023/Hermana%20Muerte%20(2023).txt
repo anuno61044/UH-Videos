@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[España, 1949. Narcisa, una novicia, llega a un antiguo convento, convertido en colegio femenino, para trabajar como maestra.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-27 08:29:33</dateadded>
+  <title>Hermana Muerte</title>
+  <originaltitle>Hermana Muerte</originaltitle>
+  <actor>
+    <name>Aria Bedmar</name>
+    <role>Narcisa</role>
+    <type>Actor</type>
+    <tmdbid>2274090</tmdbid>
+    <tvdbid>8105986</tvdbid>
+  </actor>
+  <actor>
+    <name>Maru Valdivielso</name>
+    <role>Sister Julia</role>
+    <type>Actor</type>
+    <tmdbid>16949</tmdbid>
+    <imdbid>nm0883754</imdbid>
+    <tvdbid>8354542</tvdbid>
+  </actor>
+  <actor>
+    <name>Luisa Merelas</name>
+    <role>Mother Superior</role>
+    <type>Actor</type>
+    <tmdbid>967362</tmdbid>
+    <imdbid>nm0580655</imdbid>
+  </actor>
+  <actor>
+    <name>Almudena Amor</name>
+    <role>Sister Socorro</role>
+    <type>Actor</type>
+    <tmdbid>2846747</tmdbid>
+    <tvdbid>9088751</tvdbid>
+  </actor>
+  <actor>
+    <name>Chelo Vivares</name>
+    <role>Sister Sagrario</role>
+    <type>Actor</type>
+    <tmdbid>1417592</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Roch</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>3535279</tmdbid>
+  </actor>
+  <actor>
+    <name>Olimpia Roch</name>
+    <role>Elvirita</role>
+    <type>Actor</type>
+    <tmdbid>3535280</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriana Camarena</name>
+    <role>Ana María</role>
+    <type>Actor</type>
+    <tmdbid>3535281</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Delgado</name>
+    <role>Marina</role>
+    <type>Actor</type>
+    <tmdbid>3535282</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Fernández Arroyo</name>
+    <role>Vinyet</role>
+    <type>Actor</type>
+    <tmdbid>3535283</tmdbid>
+  </actor>
+  <actor>
+    <name>Consuelo Trujillo</name>
+    <role>Sister Muerte</role>
+    <type>Actor</type>
+    <tmdbid>226724</tmdbid>
+    <imdbid>nm0874195</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Escacena</name>
+    <role>Verónica</role>
+    <type>Actor</type>
+    <tmdbid>1757602</tmdbid>
+  </actor>
+  <actor>
+    <name>Arantza Vélez</name>
+    <role>Sister Tere</role>
+    <type>Actor</type>
+    <tmdbid>2008081</tmdbid>
+  </actor>
+  <actor>
+    <name>Ainoa Hernández</name>
+    <role>Child Narcisa</role>
+    <type>Actor</type>
+    <tmdbid>4348951</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Duque</name>
+    <role>Confessing Priest</role>
+    <type>Actor</type>
+    <tmdbid>1402301</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Casas</name>
+    <role>Little Girl</role>
+    <type>Actor</type>
+    <tmdbid>4174130</tmdbid>
+  </actor>
+  <actor>
+    <name>Guille Zavala</name>
+    <role>Church Militiaman</role>
+    <type>Actor</type>
+    <tmdbid>4348952</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcelo Carvajal</name>
+    <role>Rapist Militiaman</role>
+    <type>Actor</type>
+    <tmdbid>2348887</tmdbid>
+  </actor>
+  <actor>
+    <name>Mónica Castillo</name>
+    <role>Chicken Stealing Militiawoman</role>
+    <type>Actor</type>
+    <tmdbid>4348954</tmdbid>
+  </actor>
+  <director tmdbid="54526" imdbid="nm0687042">Paco Plaza</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=84dvmHWpxxE</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Hermana Muerte</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt19175696</imdbid>
+  <tmdbid>955531</tmdbid>
+  <premiered>2023-10-05</premiered>
+  <releasedate>2023-10-05</releasedate>
+  <runtime>91</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>El Estudio</studio>
+  <uniqueid type="imdb">tt19175696</uniqueid>
+  <uniqueid type="tmdb">955531</uniqueid>
+  <id>tt19175696</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>909161</bitrate>
+        <width>1036</width>
+        <height>720</height>
+        <aspect>36:25</aspect>
+        <aspectratio>36:25</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5436</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64385</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

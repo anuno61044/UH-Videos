@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sevilla, 1977. En un momento en el que la homosexualidad es delito, Reme, una madre tradicional movida por el amor de su hijo, un adolescente aspirante a artista, se involucrará en el movimiento LGTBI andaluz, gestado paradójicamente en el seno de la Iglesia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 14:23:20</dateadded>
+  <title>Te estoy amando locamente</title>
+  <originaltitle>Te estoy amando locamente</originaltitle>
+  <actor>
+    <name>Ana Wagener</name>
+    <role>Reme</role>
+    <type>Actor</type>
+    <tmdbid>34053</tmdbid>
+    <imdbid>nm0905676</imdbid>
+    <tvdbid>612098</tvdbid>
+  </actor>
+  <actor>
+    <name>Omar Banana</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>2415172</tmdbid>
+    <tvdbid>8575094</tvdbid>
+  </actor>
+  <actor>
+    <name>Alba Flores</name>
+    <role>Lole</role>
+    <type>Actor</type>
+    <tmdbid>1283843</tmdbid>
+    <imdbid>nm1699346</imdbid>
+    <tvdbid>473672</tvdbid>
+  </actor>
+  <actor>
+    <name>La Dani</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>3776149</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex de la Croix</name>
+    <role>Mili</role>
+    <type>Actor</type>
+    <tmdbid>3089496</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Buzón</name>
+    <role>Paquito</role>
+    <type>Actor</type>
+    <tmdbid>3776151</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Orellana</name>
+    <role>Maca</role>
+    <type>Actor</type>
+    <tmdbid>1887767</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús Carroza</name>
+    <role>Padre Manolo</role>
+    <type>Actor</type>
+    <tmdbid>6534</tmdbid>
+    <imdbid>nm1941730</imdbid>
+    <tvdbid>508898</tvdbid>
+  </actor>
+  <actor>
+    <name>Pepa Gracia</name>
+    <role>Raquel</role>
+    <type>Actor</type>
+    <tmdbid>1666681</tmdbid>
+    <imdbid>nm3698796</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Moruno</name>
+    <type>Actor</type>
+    <tmdbid>2868297</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio de la Puerta</name>
+    <type>Actor</type>
+    <tmdbid>2741982</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Bernardino</name>
+    <type>Actor</type>
+    <tmdbid>1909479</tmdbid>
+  </actor>
+  <actor>
+    <name>Eloína Marcos</name>
+    <role>Amparo</role>
+    <type>Actor</type>
+    <tmdbid>2555177</tmdbid>
+  </actor>
+  <actor>
+    <name>Enara Prieto</name>
+    <type>Actor</type>
+    <tmdbid>3552456</tmdbid>
+  </actor>
+  <actor>
+    <name>Mar Cambrollé</name>
+    <type>Actor</type>
+    <tmdbid>3776148</tmdbid>
+  </actor>
+  <actor>
+    <name>Úrsula Díaz Manzano</name>
+    <type>Actor</type>
+    <tmdbid>3776150</tmdbid>
+  </actor>
+  <actor>
+    <name>Nacho Gómez</name>
+    <type>Actor</type>
+    <tmdbid>2683349</tmdbid>
+  </actor>
+  <director tmdbid="2270952">Alejandro Marín</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AUwLouz9rBI</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Te estoy amando locamente</sorttitle>
+  <imdbid>tt22643896</imdbid>
+  <tmdbid>1045862</tmdbid>
+  <premiered>2023-07-06</premiered>
+  <releasedate>2023-07-06</releasedate>
+  <runtime>104</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Escándalo Films</studio>
+  <studio>Escac Films</studio>
+  <studio>Zeta Studios</studio>
+  <studio>La Pepa Films</studio>
+  <uniqueid type="imdb">tt22643896</uniqueid>
+  <uniqueid type="tmdb">1045862</uniqueid>
+  <id>tt22643896</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1057516</bitrate>
+        <width>1696</width>
+        <height>720</height>
+        <aspect>960:407</aspect>
+        <aspectratio>960:407</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6219</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64634</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

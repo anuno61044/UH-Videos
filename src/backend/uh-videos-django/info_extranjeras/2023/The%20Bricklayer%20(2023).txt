@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La CIA está siendo chantajeada: alguien está asesinando periodistas extranjeros y haciendo que la Agencia parezca la responsable. Mientras el mundo comienza a unir sus fuerzas contra EE.UU., la CIA decide recuperar a su agente retirado más brillante y rebelde, forzándole a enfrentarse a su pasado para que intente desenmascarar una conspiración internacional.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-09 08:21:16</dateadded>
+  <title>Agente X: Última misión</title>
+  <originaltitle>The Bricklayer</originaltitle>
+  <actor>
+    <name>Aaron Eckhart</name>
+    <role>Vail</role>
+    <type>Actor</type>
+    <tmdbid>6383</tmdbid>
+    <imdbid>nm0001173</imdbid>
+    <tvdbid>310718</tvdbid>
+  </actor>
+  <actor>
+    <name>Nina Dobrev</name>
+    <role>Kate</role>
+    <type>Actor</type>
+    <tmdbid>19961</tmdbid>
+    <imdbid>nm2400045</imdbid>
+  </actor>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <role>Radek</role>
+    <type>Actor</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+    <tvdbid>274756</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Blake Nelson</name>
+    <role>O'Malley</role>
+    <type>Actor</type>
+    <tmdbid>1462</tmdbid>
+    <imdbid>nm0625789</imdbid>
+    <tvdbid>346749</tvdbid>
+  </actor>
+  <actor>
+    <name>Ilfenesh Hadera</name>
+    <role>Tye</role>
+    <type>Actor</type>
+    <tmdbid>1181354</tmdbid>
+    <imdbid>nm3947644</imdbid>
+    <tvdbid>510885</tvdbid>
+  </actor>
+  <actor>
+    <name>Oliver Trevena</name>
+    <role>Patricio</role>
+    <type>Actor</type>
+    <tmdbid>1395206</tmdbid>
+  </actor>
+  <actor>
+    <name>Akis Sakellariou</name>
+    <role>Kostas</role>
+    <type>Actor</type>
+    <tmdbid>1340640</tmdbid>
+  </actor>
+  <actor>
+    <name>Ori Pfeffer</name>
+    <role>Sten</role>
+    <type>Actor</type>
+    <tmdbid>81480</tmdbid>
+    <imdbid>nm1035854</imdbid>
+  </actor>
+  <actor>
+    <name>Lili Rich</name>
+    <role>Crystal</role>
+    <type>Actor</type>
+    <tmdbid>2513545</tmdbid>
+  </actor>
+  <actor>
+    <name>Konstantin Adaev</name>
+    <role>Triton</role>
+    <type>Actor</type>
+    <tmdbid>1781393</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Willis</name>
+    <role>Finnegan</role>
+    <type>Actor</type>
+    <tmdbid>2367007</tmdbid>
+  </actor>
+  <actor>
+    <name>David Kennedy</name>
+    <role>Foreman</role>
+    <type>Actor</type>
+    <tmdbid>62498</tmdbid>
+    <imdbid>nm0447986</imdbid>
+    <tvdbid>320089</tvdbid>
+  </actor>
+  <actor>
+    <name>Veronica Ferres</name>
+    <role>Greta</role>
+    <type>Actor</type>
+    <tmdbid>23524</tmdbid>
+    <imdbid>nm0274704</imdbid>
+  </actor>
+  <actor>
+    <name>Johanna Harlin</name>
+    <role>Lydia</role>
+    <type>Actor</type>
+    <tmdbid>3531923</tmdbid>
+  </actor>
+  <actor>
+    <name>John T. Woods</name>
+    <role>Bertok</role>
+    <type>Actor</type>
+    <tmdbid>1145673</tmdbid>
+    <imdbid>nm1555255</imdbid>
+  </actor>
+  <actor>
+    <name>Vasilis Kanelopoulos</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>3482567</tmdbid>
+  </actor>
+  <director tmdbid="16938" imdbid="nm0001317">Renny Harlin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zC96qykLTdQ</trailer>
+  <rating>6.667</rating>
+  <year>2023</year>
+  <sorttitle>Agente X: Ultima mision</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt2016303</imdbid>
+  <tmdbid>927107</tmdbid>
+  <premiered>2023-12-14</premiered>
+  <releasedate>2023-12-14</releasedate>
+  <runtime>110</runtime>
+  <country>Greece</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>G-BASE</studio>
+  <studio>Eclectic Pictures</studio>
+  <studio>Millennium Media</studio>
+  <studio>Ekome</studio>
+  <uniqueid type="imdb">tt2016303</uniqueid>
+  <uniqueid type="tmdb">927107</uniqueid>
+  <id>tt2016303</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1012464</bitrate>
+        <width>1280</width>
+        <height>538</height>
+        <aspect>959:404</aspect>
+        <aspectratio>959:404</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6600</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

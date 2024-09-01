@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras hacerse cargo de un hotelito destartalado, comprado por error en una subasta por un precio desorbitado, los dos Javier García viven una nueva aventura, ayudados esta vez, muy a su pesar, por un grupo de niños superdotados que se alojan en el hotel para asistir a la Final Nacional de Talentos. Junto a su explosiva profe, Martina, los niños se enfrentarán al mafioso Benito Camarena, que con sus secuaces - su madre y su hermano - tratarán de arrebatar a los García el botín escondido en el hotel, antigua guarida de los facinerosos. Spin-off de 'García y García' (2021).]]></plot>
+  <outline><![CDATA[Una Pelicula de Ana Murugarren]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-04 09:37:09</dateadded>
+  <title>El hotel de los líos: García y García 2</title>
+  <originaltitle>El hotel de los líos: García y García 2</originaltitle>
+  <actor>
+    <name>José Mota</name>
+    <role>Javier García</role>
+    <type>Actor</type>
+    <tmdbid>19854</tmdbid>
+    <imdbid>nm1239566</imdbid>
+  </actor>
+  <actor>
+    <name>Pepe Viyuela</name>
+    <role>Javier García</role>
+    <type>Actor</type>
+    <tmdbid>25220</tmdbid>
+    <imdbid>nm0900402</imdbid>
+    <tvdbid>292042</tvdbid>
+  </actor>
+  <actor>
+    <name>Paz Padilla</name>
+    <type>Actor</type>
+    <tmdbid>1460313</tmdbid>
+    <imdbid>nm0655759</imdbid>
+    <tvdbid>543775</tvdbid>
+  </actor>
+  <actor>
+    <name>El Cejas</name>
+    <type>Actor</type>
+    <tmdbid>2812392</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Castella</name>
+    <type>Actor</type>
+    <tmdbid>1456421</tmdbid>
+    <imdbid>nm1997490</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Chiorazzo</name>
+    <type>Actor</type>
+    <tmdbid>2325874</tmdbid>
+  </actor>
+  <actor>
+    <name>Meteora Fontana</name>
+    <type>Actor</type>
+    <tmdbid>2883140</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos G. Morollón</name>
+    <type>Actor</type>
+    <tmdbid>2526906</tmdbid>
+    <imdbid>nm10469223</imdbid>
+  </actor>
+  <director tmdbid="1341326">Ana Murugarren</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iEHcl0oIkKc</trailer>
+  <rating>4.3</rating>
+  <year>2023</year>
+  <sorttitle>hotel de los lios: Garcia y Garcia 2</sorttitle>
+  <imdbid>tt21957640</imdbid>
+  <tmdbid>1040861</tmdbid>
+  <premiered>2023-03-24</premiered>
+  <releasedate>2023-03-24</releasedate>
+  <runtime>90</runtime>
+  <tagline>Una Pelicula de Ana Murugarren</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Blogmedia</studio>
+  <studio>Mogambo Films</studio>
+  <studio>Garbo Productions</studio>
+  <studio>TVE</studio>
+  <set tmdbcolid="1170357">
+    <name>García y García - Colección</name>
+  </set>
+  <set tmdbcolid="1170357">
+    <name>Colección García y García</name>
+  </set>
+  <uniqueid type="imdb">tt21957640</uniqueid>
+  <uniqueid type="tmdb">1040861</uniqueid>
+  <id>tt21957640</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>259020</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5410</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63821</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

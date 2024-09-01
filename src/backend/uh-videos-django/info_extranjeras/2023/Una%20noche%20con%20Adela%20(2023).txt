@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Adela, una barrendera del turno de noche en la ciudad de Madrid, es una persona vacía, triste y perturbada. Esta noche, cuando acabe su turno de trabajo, ajustará cuentas con quienes considera culpables de convertirla en lo que es, una ruina humana.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-05 09:11:55</dateadded>
+  <title>Una noche con Adela</title>
+  <originaltitle>Una noche con Adela</originaltitle>
+  <actor>
+    <name>Laura Galán</name>
+    <type>Actor</type>
+    <tmdbid>1260914</tmdbid>
+    <imdbid>nm3351812</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Nierga</name>
+    <type>Actor</type>
+    <tmdbid>1695907</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Barnatán</name>
+    <type>Actor</type>
+    <tmdbid>95607</tmdbid>
+    <imdbid>nm0055432</imdbid>
+  </actor>
+  <actor>
+    <name>Rosalía Omil</name>
+    <type>Actor</type>
+    <tmdbid>3769218</tmdbid>
+  </actor>
+  <actor>
+    <name>Raudel Raúl Martiato</name>
+    <type>Actor</type>
+    <tmdbid>2420900</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Moraleda</name>
+    <type>Actor</type>
+    <tmdbid>1702164</tmdbid>
+  </actor>
+  <director tmdbid="4027501">Hugo Ruíz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hJdh8odxqnI</trailer>
+  <rating>0</rating>
+  <year>2023</year>
+  <sorttitle>Una noche con Adela</sorttitle>
+  <imdbid>tt27555514</imdbid>
+  <tmdbid>1117676</tmdbid>
+  <premiered>2023-12-01</premiered>
+  <releasedate>2023-12-01</releasedate>
+  <runtime>106</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Muertos de Envidia Company</studio>
+  <studio>FTFcam</studio>
+  <uniqueid type="imdb">tt27555514</uniqueid>
+  <uniqueid type="tmdb">1117676</uniqueid>
+  <id>tt27555514</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1040641</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6346</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64570</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

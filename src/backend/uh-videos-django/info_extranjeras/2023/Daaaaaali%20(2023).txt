@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A young French journalist meets Salvador Dalí repeatedly for a documentary film project which never gets to start shooting.]]></plot>
+  <outline><![CDATA[Dalí is probably the only artist still living]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-17 09:00:21</dateadded>
+  <title>Daaaaaalí !</title>
+  <originaltitle>Daaaaaalí !</originaltitle>
+  <actor>
+    <name>Anaïs Demoustier</name>
+    <role>Judith</role>
+    <type>Actor</type>
+    <tmdbid>123989</tmdbid>
+    <imdbid>nm1326732</imdbid>
+  </actor>
+  <actor>
+    <name>Gilles Lellouche</name>
+    <role>Dalí</role>
+    <type>Actor</type>
+    <tmdbid>54291</tmdbid>
+    <imdbid>nm0500976</imdbid>
+  </actor>
+  <actor>
+    <name>Edouard Baer</name>
+    <role>Dalí</role>
+    <type>Actor</type>
+    <tmdbid>41035</tmdbid>
+    <imdbid>nm0046347</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cohen</name>
+    <role>Dalí</role>
+    <type>Actor</type>
+    <tmdbid>129765</tmdbid>
+  </actor>
+  <actor>
+    <name>Pio Marmaï</name>
+    <role>Dalí</role>
+    <type>Actor</type>
+    <tmdbid>146287</tmdbid>
+    <imdbid>nm2847812</imdbid>
+  </actor>
+  <actor>
+    <name>Didier Flamand</name>
+    <role>Dalí âgé</role>
+    <type>Actor</type>
+    <tmdbid>35077</tmdbid>
+  </actor>
+  <actor>
+    <name>Romain Duris</name>
+    <role>Jérôme</role>
+    <type>Actor</type>
+    <tmdbid>17497</tmdbid>
+    <imdbid>nm0244151</imdbid>
+  </actor>
+  <actor>
+    <name>Agnès Hurstel</name>
+    <role>Lucie</role>
+    <type>Actor</type>
+    <tmdbid>1826078</tmdbid>
+  </actor>
+  <actor>
+    <name>Angélique Pleau</name>
+    <role>Josie - Maquilleuse</role>
+    <type>Actor</type>
+    <tmdbid>2228967</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Niel</name>
+    <role>José (Tableau)</role>
+    <type>Actor</type>
+    <tmdbid>1446210</tmdbid>
+  </actor>
+  <actor>
+    <name>Monsieur Fraize</name>
+    <role>Diego (Tableau)</role>
+    <type>Actor</type>
+    <tmdbid>1852487</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthias Girbig</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>2220436</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Carpentier</name>
+    <role>Commissaire-priseur</role>
+    <type>Actor</type>
+    <tmdbid>1439503</tmdbid>
+  </actor>
+  <actor>
+    <name>Boris Gillot</name>
+    <role>Autre Dalí</role>
+    <type>Actor</type>
+    <tmdbid>2835088</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Bunel</name>
+    <role>Mme Abravanel</role>
+    <type>Actor</type>
+    <tmdbid>28793</tmdbid>
+    <imdbid>nm0120431</imdbid>
+  </actor>
+  <actor>
+    <name>Hakim Jemili</name>
+    <type>Actor</type>
+    <tmdbid>2355192</tmdbid>
+  </actor>
+  <actor>
+    <name>Martial Rollin</name>
+    <role>Homme bus</role>
+    <type>Actor</type>
+    <tmdbid>4523647</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Dusseau</name>
+    <role>Chauffeur</role>
+    <type>Actor</type>
+    <tmdbid>1531948</tmdbid>
+    <imdbid>nm4162223</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Samuels</name>
+    <role>Cow-boy</role>
+    <type>Actor</type>
+    <tmdbid>131404</tmdbid>
+  </actor>
+  <actor>
+    <name>Éric Naggar</name>
+    <role>Père Jacques</role>
+    <type>Actor</type>
+    <tmdbid>146487</tmdbid>
+    <imdbid>nm1051119</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Dingler</name>
+    <role>François</role>
+    <type>Actor</type>
+    <tmdbid>1704318</tmdbid>
+  </actor>
+  <director tmdbid="133398" imdbid="nm1189197">Quentin Dupieux</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ce_kgegjDPM</trailer>
+  <rating>6.8</rating>
+  <year>2024</year>
+  <sorttitle>Daaaaaali !</sorttitle>
+  <imdbid>tt23476446</imdbid>
+  <tmdbid>1045770</tmdbid>
+  <premiered>2024-02-07</premiered>
+  <releasedate>2024-02-07</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>78</runtime>
+  <tagline>Dalí is probably the only artist still living</tagline>
+  <country>France</country>
+  <genre>Comedia</genre>
+  <genre>Fantasía</genre>
+  <studio>Atelier de Production</studio>
+  <studio>France 3 Cinéma</studio>
+  <uniqueid type="imdb">tt23476446</uniqueid>
+  <uniqueid type="tmdb">1045770</uniqueid>
+  <id>tt23476446</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>620173</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>812520:340837</aspect>
+        <aspectratio>812520:340837</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>77</duration>
+        <durationinseconds>4674</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128134</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

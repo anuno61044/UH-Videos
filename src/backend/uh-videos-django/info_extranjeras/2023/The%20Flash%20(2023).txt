@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Flash, el héroe más rápido, viaja a una línea temporal en que la Tierra está en crisis y sus héroes perdidos o dispersados.]]></plot>
+  <outline><![CDATA[Los mundos colisionan.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-17 08:08:23</dateadded>
+  <title>Flash</title>
+  <originaltitle>The Flash</originaltitle>
+  <actor>
+    <name>Ezra Miller</name>
+    <role>Barry Allen / The Flash</role>
+    <type>Actor</type>
+    <tmdbid>132157</tmdbid>
+    <imdbid>nm3009232</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Calle</name>
+    <role>Kara Zor-El / Supergirl</role>
+    <type>Actor</type>
+    <tmdbid>2542319</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Keaton</name>
+    <role>Bruce Wayne / Batman</role>
+    <type>Actor</type>
+    <tmdbid>2232</tmdbid>
+    <imdbid>nm0000474</imdbid>
+    <tvdbid>253664</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Shannon</name>
+    <role>General Zod</role>
+    <type>Actor</type>
+    <tmdbid>335</tmdbid>
+    <imdbid>nm0788335</imdbid>
+    <tvdbid>262015</tvdbid>
+  </actor>
+  <actor>
+    <name>Ron Livingston</name>
+    <role>Henry Allen</role>
+    <type>Actor</type>
+    <tmdbid>17402</tmdbid>
+    <imdbid>nm0515296</imdbid>
+    <tvdbid>310440</tvdbid>
+  </actor>
+  <actor>
+    <name>Maribel Verdú</name>
+    <role>Nora Allen</role>
+    <type>Actor</type>
+    <tmdbid>16971</tmdbid>
+    <imdbid>nm0893941</imdbid>
+    <tvdbid>473658</tvdbid>
+  </actor>
+  <actor>
+    <name>Kiersey Clemons</name>
+    <role>Iris West</role>
+    <type>Actor</type>
+    <tmdbid>1253355</tmdbid>
+    <imdbid>nm4169922</imdbid>
+    <tvdbid>308168</tvdbid>
+  </actor>
+  <actor>
+    <name>Antje Traue</name>
+    <role>Faora-Ul</role>
+    <type>Actor</type>
+    <tmdbid>43202</tmdbid>
+    <imdbid>nm1662644</imdbid>
+  </actor>
+  <actor>
+    <name>Saoirse-Monica Jackson</name>
+    <role>Patty Spivot</role>
+    <type>Actor</type>
+    <tmdbid>1660888</tmdbid>
+  </actor>
+  <actor>
+    <name>Rudy Mancuso</name>
+    <role>Albert Desmond</role>
+    <type>Actor</type>
+    <tmdbid>1727045</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Wade</name>
+    <role>Court Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2651020</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Irons</name>
+    <role>Alfred Pennyworth</role>
+    <type>Actor</type>
+    <tmdbid>16940</tmdbid>
+    <imdbid>nm0000460</imdbid>
+  </actor>
+  <actor>
+    <name>Temuera Morrison</name>
+    <role>Thomas Curry</role>
+    <type>Actor</type>
+    <tmdbid>7242</tmdbid>
+    <imdbid>nm0607325</imdbid>
+    <tvdbid>279085</tvdbid>
+  </actor>
+  <actor>
+    <name>Sanjeev Bhaskar</name>
+    <role>David Singh</role>
+    <type>Actor</type>
+    <tmdbid>145997</tmdbid>
+    <imdbid>nm0080276</imdbid>
+    <tvdbid>300837</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Rogers</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>2519858</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieran Hodgson</name>
+    <role>Sandwich Guy</role>
+    <type>Actor</type>
+    <tmdbid>1300306</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Brandon Field</name>
+    <role>Al Falcone</role>
+    <type>Actor</type>
+    <tmdbid>59096</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Loh</name>
+    <role>Kid Barry</role>
+    <type>Actor</type>
+    <tmdbid>3023721</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Collins</name>
+    <role>Henry's Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>193356</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikolaj Coster-Waldau</name>
+    <role>Pizza Guy</role>
+    <type>Actor</type>
+    <tmdbid>12795</tmdbid>
+    <imdbid>nm0182666</imdbid>
+    <tvdbid>247854</tvdbid>
+  </actor>
+  <actor>
+    <name>Poppy Shepherd</name>
+    <role>Flash Fan</role>
+    <type>Actor</type>
+    <tmdbid>3951800</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Barker-Francis</name>
+    <role>Flash Fan</role>
+    <type>Actor</type>
+    <tmdbid>3443007</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Hamada</name>
+    <role>Flash Fan</role>
+    <type>Actor</type>
+    <tmdbid>4119378</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Chung</name>
+    <role>Flash Fan</role>
+    <type>Actor</type>
+    <tmdbid>4119379</tmdbid>
+  </actor>
+  <actor>
+    <name>Florence Wright</name>
+    <role>Baby Nurse</role>
+    <type>Actor</type>
+    <tmdbid>4119380</tmdbid>
+  </actor>
+  <actor>
+    <name>Bastian Antonio Fuentes</name>
+    <role>Tony's Son</role>
+    <type>Actor</type>
+    <tmdbid>3144892</tmdbid>
+  </actor>
+  <actor>
+    <name>Andoni Gracia</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>240759</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Hank</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>4119381</tmdbid>
+  </actor>
+  <actor>
+    <name>Miki Muschietti</name>
+    <role>Crying Toddler</role>
+    <type>Actor</type>
+    <tmdbid>4119382</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Hiller</name>
+    <role>Toddler's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4119383</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Hunt</name>
+    <role>Falcone's Crew</role>
+    <type>Actor</type>
+    <tmdbid>2160754</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonny Stockwell</name>
+    <role>Falcone's Crew</role>
+    <type>Actor</type>
+    <tmdbid>2752028</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Byrch</name>
+    <role>Falcone's Crew</role>
+    <type>Actor</type>
+    <tmdbid>2270892</tmdbid>
+  </actor>
+  <actor>
+    <name>Bret Jones</name>
+    <role>Neighbour with Dog</role>
+    <type>Actor</type>
+    <tmdbid>931013</tmdbid>
+    <imdbid>nm4003679</imdbid>
+  </actor>
+  <actor>
+    <name>Sue Maund</name>
+    <role>Neighbour with Dog</role>
+    <type>Actor</type>
+    <tmdbid>1793943</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Batareanu</name>
+    <role>Russian Captain</role>
+    <type>Actor</type>
+    <tmdbid>4119385</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrei Nova</name>
+    <role>Russian Guard</role>
+    <type>Actor</type>
+    <tmdbid>1654741</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Constantin</name>
+    <role>Head Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1459975</tmdbid>
+    <imdbid>nm4687936</imdbid>
+  </actor>
+  <actor>
+    <name>Oleg Mirochnikov</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1599253</tmdbid>
+  </actor>
+  <actor>
+    <name>Katia Elizarova</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1620249</tmdbid>
+    <imdbid>nm6526814</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Khoroshko</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1347131</tmdbid>
+    <imdbid>nm3079422</imdbid>
+  </actor>
+  <actor>
+    <name>Zsuzsa Magyar</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>4119386</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Lerman</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1563756</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Ede</name>
+    <role>Thomas Curry's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1737976</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Muschietti</name>
+    <role>Hot Dog Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1113116</tmdbid>
+    <imdbid>nm0615592</imdbid>
+  </actor>
+  <actor>
+    <name>Ellie Rawnsley</name>
+    <role>Metropolis Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3107464</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Lockett</name>
+    <role>Gotham Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1503079</tmdbid>
+    <imdbid>nm7233707</imdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Leigh Macleod</name>
+    <role>Gotham Reporter</role>
+    <type>Actor</type>
+    <tmdbid>4119388</tmdbid>
+  </actor>
+  <actor>
+    <name>Leslie Soo</name>
+    <role>Staff Nurse</role>
+    <type>Actor</type>
+    <tmdbid>4119389</tmdbid>
+  </actor>
+  <actor>
+    <name>Freya Evans</name>
+    <role>Woman in Park</role>
+    <type>Actor</type>
+    <tmdbid>2593001</tmdbid>
+  </actor>
+  <actor>
+    <name>Sue Moore</name>
+    <role>Woman with Shopping Cart</role>
+    <type>Actor</type>
+    <tmdbid>1191890</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynn Farleigh</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1220072</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Pemberton</name>
+    <role>Ambulance Driver</role>
+    <type>Actor</type>
+    <tmdbid>123507</tmdbid>
+    <imdbid>nm1166914</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Lawn</name>
+    <role>Magician</role>
+    <type>Actor</type>
+    <tmdbid>4119391</tmdbid>
+  </actor>
+  <actor>
+    <name>David Calvitto</name>
+    <role>Batman Suit Performer</role>
+    <type>Actor</type>
+    <tmdbid>3339507</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Bruce Wayne / Batman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Diana Prince / Wonder Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>George Clooney</name>
+    <role>Bruce Wayne (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1461</tmdbid>
+    <imdbid>nm0000123</imdbid>
+    <tvdbid>274178</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Arthur Curry / Aquaman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+    <tvdbid>247856</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Clark Kent / Superman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <director tmdbid="1113116" imdbid="nm0615592">Andy Muschietti</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gun18R-zXVU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OyWBqbgk980</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mUSFzSvsy8A</trailer>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>Flash</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0439572</imdbid>
+  <tmdbid>298618</tmdbid>
+  <premiered>2023-06-13</premiered>
+  <releasedate>2023-06-13</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>144</runtime>
+  <tagline>Los mundos colisionan.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Double Dream</studio>
+  <studio>The Disco Factory</studio>
+  <studio>DC Films</studio>
+  <uniqueid type="imdb">tt0439572</uniqueid>
+  <uniqueid type="tmdb">298618</uniqueid>
+  <id>tt0439572</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1162629</bitrate>
+        <width>1280</width>
+        <height>674</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>144</duration>
+        <durationinseconds>8643</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

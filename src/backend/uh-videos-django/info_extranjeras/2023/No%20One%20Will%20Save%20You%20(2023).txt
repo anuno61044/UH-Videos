@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Brynn es una joven brillante que vive apartada de un vecindario que la ha aislado. Solitaria pero optimista, encuentra consuelo en el hogar donde creció, hasta que unos extraños ruidos la despiertan en mitad de la noche.]]></plot>
+  <outline><![CDATA[Un allanamiento de morada que nadie vio venir.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-22 08:15:47</dateadded>
+  <title>Nadie te salvará</title>
+  <originaltitle>No One Will Save You</originaltitle>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Brynn</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+    <tvdbid>452348</tvdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Kaluev</name>
+    <role>Young Brynn</role>
+    <type>Actor</type>
+    <tmdbid>3956612</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Duhame</name>
+    <role>Mailman</role>
+    <type>Actor</type>
+    <tmdbid>186573</tmdbid>
+    <imdbid>nm0241033</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren L. Murray</name>
+    <role>Brynn's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3648564</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Singer</name>
+    <role>Mrs. Collins</role>
+    <type>Actor</type>
+    <tmdbid>1027298</tmdbid>
+    <imdbid>nm1046808</imdbid>
+    <tvdbid>356003</tvdbid>
+  </actor>
+  <actor>
+    <name>Dane Rhodes</name>
+    <role>Police Chief Collins</role>
+    <type>Actor</type>
+    <tmdbid>60874</tmdbid>
+    <imdbid>nm1694797</imdbid>
+  </actor>
+  <actor>
+    <name>Evangeline Rose</name>
+    <role>Young Maude</role>
+    <type>Actor</type>
+    <tmdbid>3956681</tmdbid>
+  </actor>
+  <actor>
+    <name>Dari Lynn Griffin</name>
+    <role>Maude</role>
+    <type>Actor</type>
+    <tmdbid>3891460</tmdbid>
+  </actor>
+  <actor>
+    <name>Emani White</name>
+    <role>Teenage Cashier</role>
+    <type>Actor</type>
+    <tmdbid>2856979</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Rigamer</name>
+    <role>Mr. McCreary</role>
+    <type>Actor</type>
+    <tmdbid>4273923</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Bordlee Mauro</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>4273924</tmdbid>
+  </actor>
+  <actor>
+    <name>Tenaj L. Jackson</name>
+    <role>Woman at the Swings</role>
+    <type>Actor</type>
+    <tmdbid>1292493</tmdbid>
+    <imdbid>nm4206711</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie J. Alarcon</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4338284</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cortes</name>
+    <role>Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4338286</tmdbid>
+  </actor>
+  <actor>
+    <name>Ginger Cressman</name>
+    <role>Celebration Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3956677</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Bianca Grue</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3765456</tmdbid>
+  </actor>
+  <actor>
+    <name>Bridget Malbrough</name>
+    <role>Bus Rider (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3765459</tmdbid>
+  </actor>
+  <actor>
+    <name>Devyn Sandidge</name>
+    <role>Teen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4338290</tmdbid>
+  </actor>
+  <director tmdbid="1295292">Brian Duffield</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Oa7uiPEZblw</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Nadie te salvara</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt14509110</imdbid>
+  <tmdbid>820609</tmdbid>
+  <premiered>2023-09-22</premiered>
+  <releasedate>2023-09-22</releasedate>
+  <runtime>93</runtime>
+  <tagline>Un allanamiento de morada que nadie vio venir.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Star Thrower Entertainment</studio>
+  <uniqueid type="imdb">tt14509110</uniqueid>
+  <uniqueid type="tmdb">820609</uniqueid>
+  <id>tt14509110</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1194796</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5592</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

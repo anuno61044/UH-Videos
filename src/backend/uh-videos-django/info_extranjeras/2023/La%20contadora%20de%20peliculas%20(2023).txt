@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Años 60, desierto de Atacama, Chile. María Magnolia es una mujer que a pesar de vivir bajo difíciles condiciones, trata de transmitir a su hija, María Margarita, su pasión por el arte. María Margarita se convertirá en la contadora de historias del pueblo, donde la mayor parte de sus habitantes no pueden pagarse una entrada de cine.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-19 08:16:11</dateadded>
+  <title>La contadora de películas</title>
+  <originaltitle>La contadora de películas</originaltitle>
+  <actor>
+    <name>Bérénice Bejo</name>
+    <role>María Magnolia</role>
+    <type>Actor</type>
+    <tmdbid>82923</tmdbid>
+    <imdbid>nm0067367</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Brühl</name>
+    <role>Hauser</role>
+    <type>Actor</type>
+    <tmdbid>3872</tmdbid>
+    <imdbid>nm0117709</imdbid>
+    <tvdbid>595535</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio de la Torre</name>
+    <role>Medardo</role>
+    <type>Actor</type>
+    <tmdbid>3483</tmdbid>
+    <imdbid>nm0209409</imdbid>
+    <tvdbid>592203</tvdbid>
+  </actor>
+  <actor>
+    <name>Sara Becker</name>
+    <role>María Margarita Mayor</role>
+    <type>Actor</type>
+    <tmdbid>2689361</tmdbid>
+  </actor>
+  <actor>
+    <name>Alondra Valenzuela</name>
+    <role>María Margarita (8-10)</role>
+    <type>Actor</type>
+    <tmdbid>3472181</tmdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Guzmán</name>
+    <role>Marcelino (19/14)</role>
+    <type>Actor</type>
+    <tmdbid>2693943</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Urbina</name>
+    <role>Marcelino (11)</role>
+    <type>Actor</type>
+    <tmdbid>3684029</tmdbid>
+  </actor>
+  <actor>
+    <name>Elian Ponce</name>
+    <role>Mariano (14)</role>
+    <type>Actor</type>
+    <tmdbid>4275584</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Díaz</name>
+    <role>Mariano (18/22)</role>
+    <type>Actor</type>
+    <tmdbid>990718</tmdbid>
+  </actor>
+  <actor>
+    <name>Beltran Izquierdo</name>
+    <role>Mirto (13)</role>
+    <type>Actor</type>
+    <tmdbid>4275585</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfred Borner</name>
+    <role>Mirto (17/19)</role>
+    <type>Actor</type>
+    <tmdbid>4275586</tmdbid>
+  </actor>
+  <actor>
+    <name>Simón Beltrán</name>
+    <role>Mauricio (11/14)</role>
+    <type>Actor</type>
+    <tmdbid>4275587</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Salgado</name>
+    <role>Mauricio (15/19)</role>
+    <type>Actor</type>
+    <tmdbid>4275588</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Schwarz</name>
+    <role>Don Nolasco</role>
+    <type>Actor</type>
+    <tmdbid>1966013</tmdbid>
+    <imdbid>nm1426800</imdbid>
+  </actor>
+  <actor>
+    <name>Krishna Mondaca</name>
+    <role>Delfina (10/12)</role>
+    <type>Actor</type>
+    <tmdbid>4275591</tmdbid>
+  </actor>
+  <actor>
+    <name>Montserrat Corveleyn</name>
+    <role>Delfina (16/17)</role>
+    <type>Actor</type>
+    <tmdbid>4275592</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Horton</name>
+    <role>Aurelio</role>
+    <type>Actor</type>
+    <tmdbid>1513380</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Uribe</name>
+    <role>Luis</role>
+    <type>Actor</type>
+    <tmdbid>2458922</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Dubó</name>
+    <role>Proyeccionista</role>
+    <type>Actor</type>
+    <tmdbid>127247</tmdbid>
+    <imdbid>nm0239677</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Rivera</name>
+    <role>Julio (10/12)</role>
+    <type>Actor</type>
+    <tmdbid>4275593</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Montenegro</name>
+    <role>Chico 1</role>
+    <type>Actor</type>
+    <tmdbid>4275594</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Robledo</name>
+    <role>Chico 2</role>
+    <type>Actor</type>
+    <tmdbid>4275595</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Barría</name>
+    <role>Chico 3</role>
+    <type>Actor</type>
+    <tmdbid>4275596</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastián Jopias</name>
+    <role>Chico 4</role>
+    <type>Actor</type>
+    <tmdbid>4275597</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariel Mateluna</name>
+    <role>Patricio</role>
+    <type>Actor</type>
+    <tmdbid>71207</tmdbid>
+    <imdbid>nm1436504</imdbid>
+  </actor>
+  <actor>
+    <name>Fresia Castillo</name>
+    <role>Profesora</role>
+    <type>Actor</type>
+    <tmdbid>4275600</tmdbid>
+  </actor>
+  <actor>
+    <name>Stjepan Ostoic Papic</name>
+    <role>Empresario Americano</role>
+    <type>Actor</type>
+    <tmdbid>2176808</tmdbid>
+  </actor>
+  <actor>
+    <name>Agustina Arancibia</name>
+    <role>Alumna 1</role>
+    <type>Actor</type>
+    <tmdbid>4275603</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Parra</name>
+    <role>Alumna 2</role>
+    <type>Actor</type>
+    <tmdbid>1702685</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Pastén</name>
+    <role>Don Gervasio</role>
+    <type>Actor</type>
+    <tmdbid>4275607</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Riveros</name>
+    <role>Trabajador 1</role>
+    <type>Actor</type>
+    <tmdbid>2710422</tmdbid>
+  </actor>
+  <actor>
+    <name>Félix Villar</name>
+    <role>Trabajador 2</role>
+    <type>Actor</type>
+    <tmdbid>2224328</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Rivera</name>
+    <role>Trabajador 3 / José</role>
+    <type>Actor</type>
+    <tmdbid>53257</tmdbid>
+    <imdbid>nm0729256</imdbid>
+    <tvdbid>270341</tvdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Neary</name>
+    <role>Vedette</role>
+    <type>Actor</type>
+    <tmdbid>1993691</tmdbid>
+  </actor>
+  <actor>
+    <name>Flavio Vargas</name>
+    <role>Vendedor Ambulante</role>
+    <type>Actor</type>
+    <tmdbid>4275613</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Lazo</name>
+    <role>Don Primitivo</role>
+    <type>Actor</type>
+    <tmdbid>4275614</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Carvallo</name>
+    <role>Hija de Filiberta</role>
+    <type>Actor</type>
+    <tmdbid>4275615</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Borner</name>
+    <role>Artista del Circo</role>
+    <type>Actor</type>
+    <tmdbid>2710487</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Pastén</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>4275617</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristian Garrido</name>
+    <role>Guarda de la Prisión 1</role>
+    <type>Actor</type>
+    <tmdbid>4275620</tmdbid>
+  </actor>
+  <actor>
+    <name>Wilson Rozas</name>
+    <role>Guarda de la Prisión 2</role>
+    <type>Actor</type>
+    <tmdbid>4275621</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcelo Moraga</name>
+    <role>Vigilante a Caballo</role>
+    <type>Actor</type>
+    <tmdbid>4275622</tmdbid>
+  </actor>
+  <actor>
+    <name>Abril Valenzuela</name>
+    <role>M. Margarita Hija (5)</role>
+    <type>Actor</type>
+    <tmdbid>4275624</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Monteiro</name>
+    <role>Mujer en Casa de Nolasco</role>
+    <type>Actor</type>
+    <tmdbid>2638933</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliana Pastene</name>
+    <role>Bailarina Burlesque 1</role>
+    <type>Actor</type>
+    <tmdbid>4275626</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Valdés</name>
+    <role>Bailarina Burlesque 2</role>
+    <type>Actor</type>
+    <tmdbid>4275627</tmdbid>
+  </actor>
+  <actor>
+    <name>Moira Miller</name>
+    <role>Lily</role>
+    <type>Actor</type>
+    <tmdbid>1161649</tmdbid>
+  </actor>
+  <actor>
+    <name>Solange Contreras</name>
+    <role>Don Promitivo Esposa</role>
+    <type>Actor</type>
+    <tmdbid>4275628</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Giacaman</name>
+    <role>Mujer Americana</role>
+    <type>Actor</type>
+    <tmdbid>4275629</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Alcayaga</name>
+    <role>Polola Mirto</role>
+    <type>Actor</type>
+    <tmdbid>4275630</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Badilla</name>
+    <role>Viuda Mirto</role>
+    <type>Actor</type>
+    <tmdbid>4275632</tmdbid>
+  </actor>
+  <director tmdbid="1176" imdbid="nm0771054">Lone Scherfig</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=idtzMYUMwog</trailer>
+  <rating>6.5</rating>
+  <year>2023</year>
+  <sorttitle>contadora de peliculas</sorttitle>
+  <imdbid>tt1661236</imdbid>
+  <tmdbid>928118</tmdbid>
+  <premiered>2023-10-27</premiered>
+  <releasedate>2023-10-27</releasedate>
+  <runtime>111</runtime>
+  <country>Chile</country>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Embankment Films</studio>
+  <studio>Selenium Films</studio>
+  <studio>A Contracorriente Films</studio>
+  <studio>Altiro Films</studio>
+  <uniqueid type="imdb">tt1661236</uniqueid>
+  <uniqueid type="tmdb">928118</uniqueid>
+  <id>tt1661236</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>213620</bitrate>
+        <width>640</width>
+        <height>272</height>
+        <aspect>320:137</aspect>
+        <aspectratio>320:137</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6669</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63839</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

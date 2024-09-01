@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In 1940s Australia, a 9-year-old aboriginal orphan boy arrives in the dead of night at a remote monastery run by a renegade nun, and his presence disturbs its delicately balanced world.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-11 21:17:06</dateadded>
+  <title>The New Boy</title>
+  <originaltitle>The New Boy</originaltitle>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Sister Eileen</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+    <tvdbid>255079</tvdbid>
+  </actor>
+  <actor>
+    <name>Deborah Mailman</name>
+    <role>Sister Mum</role>
+    <type>Actor</type>
+    <tmdbid>228704</tmdbid>
+    <imdbid>nm0537648</imdbid>
+  </actor>
+  <actor>
+    <name>Wayne Blair</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>131664</tmdbid>
+  </actor>
+  <actor>
+    <name>Aswan Reid</name>
+    <role>New Boy</role>
+    <type>Actor</type>
+    <tmdbid>4078263</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Radley</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>57904</tmdbid>
+  </actor>
+  <actor>
+    <name>Laiken Woolmington</name>
+    <type>Actor</type>
+    <tmdbid>4078264</tmdbid>
+  </actor>
+  <actor>
+    <name>Kailem Miller</name>
+    <type>Actor</type>
+    <tmdbid>4078265</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyrique Brady</name>
+    <type>Actor</type>
+    <tmdbid>4078266</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Miller</name>
+    <type>Actor</type>
+    <tmdbid>3729631</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Brady</name>
+    <type>Actor</type>
+    <tmdbid>1335207</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyzailin Roderick</name>
+    <type>Actor</type>
+    <tmdbid>4078267</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieron Tyler Spencer</name>
+    <type>Actor</type>
+    <tmdbid>2511087</tmdbid>
+  </actor>
+  <director tmdbid="94342" imdbid="nm0861610">Warwick Thornton</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sL1HVstmBTU</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>New Boy</sorttitle>
+  <imdbid>tt18180926</imdbid>
+  <tmdbid>937161</tmdbid>
+  <premiered>2023-07-06</premiered>
+  <releasedate>2023-07-06</releasedate>
+  <runtime>116</runtime>
+  <country>Australia</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <studio>Dirty Films</studio>
+  <studio>Scarlett Pictures</studio>
+  <studio>Fremantle Australia</studio>
+  <uniqueid type="tmdb">937161</uniqueid>
+  <uniqueid type="imdb">tt18180926</uniqueid>
+  <id>tt18180926</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>887148</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6962</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

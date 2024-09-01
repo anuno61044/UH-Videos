@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras sabotear un reactor nuclear iraní, el agente de la CIA Tom Harris (Gerard Butler) descubre que su identidad ha sido revelada a los medios después de que un informante expusiera la implicación de la CIA en la destrucción del reactor. Harris dispone de sólo 30 horas para llegar al aeropuerto de Kandahar (Afganistán) y evitar su muerte y captura. Para conseguirlo, necesitará la ayuda de un traductor afgano llamado Mo (Navid Negahban) que desprecia la violencia y el derramamiento de sangre causado por el conflicto bélico. Perseguidos por peligrosas amenazas, entre las que se encuentra el despiadado asesino Kahil (Ali Fazal), Tom y Mo se verán obligados a unir fuerzas para llegar, de una pieza, a Kandahar.]]></plot>
+  <outline><![CDATA[Lo único más peligroso que la misión es escapar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-16 08:59:00</dateadded>
+  <title>Operación Kandahar</title>
+  <originaltitle>Kandahar</originaltitle>
+  <actor>
+    <name>Gerard Butler</name>
+    <role>Tom Harris</role>
+    <type>Actor</type>
+    <tmdbid>17276</tmdbid>
+    <imdbid>nm0124930</imdbid>
+  </actor>
+  <actor>
+    <name>Navid Negahban</name>
+    <role>Mohammad 'Mo' Doud</role>
+    <type>Actor</type>
+    <tmdbid>103330</tmdbid>
+    <imdbid>nm1041023</imdbid>
+  </actor>
+  <actor>
+    <name>Travis Fimmel</name>
+    <role>Roman Chalmers</role>
+    <type>Actor</type>
+    <tmdbid>77700</tmdbid>
+    <imdbid>nm1379938</imdbid>
+    <tvdbid>331075</tvdbid>
+  </actor>
+  <actor>
+    <name>Ali Fazal</name>
+    <role>Kahil Nasir</role>
+    <type>Actor</type>
+    <tmdbid>492791</tmdbid>
+    <imdbid>nm3170495</imdbid>
+  </actor>
+  <actor>
+    <name>Bahador Foladi</name>
+    <role>Farzad Asadi</role>
+    <type>Actor</type>
+    <tmdbid>1437659</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Toussaint-White</name>
+    <role>Luna Cujai</role>
+    <type>Actor</type>
+    <tmdbid>1227646</tmdbid>
+    <imdbid>nm2804975</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Arnold</name>
+    <role>Mark Lowe</role>
+    <type>Actor</type>
+    <tmdbid>119893</tmdbid>
+    <imdbid>nm0036553</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Johnson</name>
+    <role>Chris Hoyt</role>
+    <type>Actor</type>
+    <tmdbid>17199</tmdbid>
+    <imdbid>nm0424819</imdbid>
+  </actor>
+  <actor>
+    <name>Hakeem Jomah</name>
+    <role>Rasoul</role>
+    <type>Actor</type>
+    <tmdbid>3708802</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Rhys Harries</name>
+    <role>Oliver Altman</role>
+    <type>Actor</type>
+    <tmdbid>1327945</tmdbid>
+    <imdbid>nm4151189</imdbid>
+    <tvdbid>492541</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Haratian</name>
+    <role>Ismail Rabbani</role>
+    <type>Actor</type>
+    <tmdbid>965673</tmdbid>
+    <imdbid>nm0361866</imdbid>
+  </actor>
+  <actor>
+    <name>Elnaaz Norouzi</name>
+    <role>Shina Asadi</role>
+    <type>Actor</type>
+    <tmdbid>2114526</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Mai-Barrett</name>
+    <role>Ida Harris</role>
+    <type>Actor</type>
+    <tvdbid>8092364</tvdbid>
+    <tmdbid>2723390</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Calder</name>
+    <role>Corrine Harris</role>
+    <type>Actor</type>
+    <tmdbid>1355139</tmdbid>
+  </actor>
+  <actor>
+    <name>Vassilis Koukalani</name>
+    <role>Bashar</role>
+    <type>Actor</type>
+    <tmdbid>1905531</tmdbid>
+  </actor>
+  <actor>
+    <name>Farzad Bagheri</name>
+    <role>Parshand</role>
+    <type>Actor</type>
+    <tmdbid>2546937</tmdbid>
+  </actor>
+  <actor>
+    <name>Ross Berkeley Simpson</name>
+    <role>English Newscaster 1</role>
+    <type>Actor</type>
+    <tmdbid>3108658</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Comley</name>
+    <role>English Newscaster 2</role>
+    <type>Actor</type>
+    <tmdbid>2113546</tmdbid>
+  </actor>
+  <actor>
+    <name>Najia Khaan</name>
+    <role>Nahal Hosseini</role>
+    <type>Actor</type>
+    <tmdbid>2086134</tmdbid>
+  </actor>
+  <actor>
+    <name>Reem AlHabib</name>
+    <role>Adela Doud</role>
+    <type>Actor</type>
+    <tmdbid>2742945</tmdbid>
+  </actor>
+  <actor>
+    <name>Fahim Fazli</name>
+    <role>Taliban commander</role>
+    <type>Actor</type>
+    <tmdbid>109669</tmdbid>
+    <imdbid>nm2390252</imdbid>
+  </actor>
+  <actor>
+    <name>Darius Radac</name>
+    <role>Stuart Sutherland</role>
+    <type>Actor</type>
+    <tmdbid>3941529</tmdbid>
+  </actor>
+  <director tmdbid="76422" imdbid="nm0006846">Ric Roman Waugh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W57zTuI6Wwo</trailer>
+  <rating>6.1</rating>
+  <year>2023</year>
+  <sorttitle>Operacion Kandahar</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5761544</imdbid>
+  <tmdbid>717930</tmdbid>
+  <premiered>2023-05-25</premiered>
+  <releasedate>2023-05-25</releasedate>
+  <runtime>120</runtime>
+  <tagline>Lo único más peligroso que la misión es escapar.</tagline>
+  <country>United Arab Emirates</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Thunder Road</studio>
+  <studio>G-BASE</studio>
+  <studio>MBC Studios</studio>
+  <studio>Capstone Pictures</studio>
+  <uniqueid type="imdb">tt5761544</uniqueid>
+  <uniqueid type="tmdb">717930</uniqueid>
+  <id>tt5761544</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>829496</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.975882</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7195</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

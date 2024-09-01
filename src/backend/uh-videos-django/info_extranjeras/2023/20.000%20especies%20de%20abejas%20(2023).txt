@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cocó, de 8 años, no encaja en las expectativas del resto. Todos insisten en llamarle Aitor pero no se reconoce en ese nombre ni en la mirada de los demás. Su madre Ane, sumida en una crisis profesional y sentimental, viaja con sus hijos a la casa materna, donde reside su madre y su tía. El verano cambiará la vida de estas mujeres de tres generaciones distintas a enfrentarse a sus dudas y temores.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-29 15:53:30</dateadded>
+  <title>20.000 especies de abejas</title>
+  <originaltitle>20.000 especies de abejas</originaltitle>
+  <actor>
+    <name>Sofía Otero</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>3925017</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <role>Ane</role>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Ane Gabarain</name>
+    <role>Lourdes</role>
+    <type>Actor</type>
+    <tmdbid>1120111</tmdbid>
+    <imdbid>nm0299937</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Lazkano</name>
+    <role>Lita</role>
+    <type>Actor</type>
+    <tmdbid>970990</tmdbid>
+    <imdbid>nm0493915</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Cózar</name>
+    <role>Leire</role>
+    <type>Actor</type>
+    <tmdbid>1104749</tmdbid>
+    <imdbid>nm3891436</imdbid>
+  </actor>
+  <actor>
+    <name>Martxelo Rubio</name>
+    <role>Gorka</role>
+    <type>Actor</type>
+    <tmdbid>985345</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Garcés</name>
+    <role>Jon</role>
+    <type>Actor</type>
+    <tvdbid>8340315</tvdbid>
+    <tmdbid>2424427</tmdbid>
+  </actor>
+  <director tmdbid="1294751">Estíbaliz Urresola</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=22EdsxVNJiQ</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>20.000 especies de abejas</sorttitle>
+  <imdbid>tt21113962</imdbid>
+  <tmdbid>1053600</tmdbid>
+  <premiered>2023-04-21</premiered>
+  <releasedate>2023-04-21</releasedate>
+  <runtime>128</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Gariza Films</studio>
+  <studio>Inicia Films</studio>
+  <studio>Sirimiri Films</studio>
+  <uniqueid type="tmdb">1053600</uniqueid>
+  <uniqueid type="imdb">tt21113962</uniqueid>
+  <id>tt21113962</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1014380</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7667</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64278</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

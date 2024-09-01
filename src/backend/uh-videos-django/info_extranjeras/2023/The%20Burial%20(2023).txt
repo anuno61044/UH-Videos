@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un abogado ayuda al propietario de una funeraria a salvar su negocio familiar de un gigante corporativo. En una estrategia para darle resonancia al caso, el abogado desentierra una compleja red de poder y opresión que obliga a todos a examinar sus prejuicios.]]></plot>
+  <outline><![CDATA[Nunca te conformes.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-16 10:00:32</dateadded>
+  <title>The Burial</title>
+  <originaltitle>The Burial</originaltitle>
+  <actor>
+    <name>Tommy Lee Jones</name>
+    <role>Jeremiah O'Keefe</role>
+    <type>Actor</type>
+    <tmdbid>2176</tmdbid>
+    <imdbid>nm0000169</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Foxx</name>
+    <role>Willie E. Gary</role>
+    <type>Actor</type>
+    <tmdbid>134</tmdbid>
+    <imdbid>nm0004937</imdbid>
+    <tvdbid>278135</tvdbid>
+  </actor>
+  <actor>
+    <name>Jurnee Smollett</name>
+    <role>Mame Downes</role>
+    <type>Actor</type>
+    <tmdbid>59017</tmdbid>
+    <imdbid>nm0810619</imdbid>
+    <tvdbid>275727</tvdbid>
+  </actor>
+  <actor>
+    <name>Alan Ruck</name>
+    <role>Mike Allred</role>
+    <type>Actor</type>
+    <tmdbid>2394</tmdbid>
+    <imdbid>nm0001688</imdbid>
+    <tvdbid>278934</tvdbid>
+  </actor>
+  <actor>
+    <name>Mamoudou Athie</name>
+    <role>Hal Dockins</role>
+    <type>Actor</type>
+    <tmdbid>1639848</tmdbid>
+    <imdbid>nm6974206</imdbid>
+    <tvdbid>622073</tvdbid>
+  </actor>
+  <actor>
+    <name>Pamela Reed</name>
+    <role>Annette O'Keefe</role>
+    <type>Actor</type>
+    <tmdbid>14699</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Ray Loewen</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+    <tvdbid>316986</tvdbid>
+  </actor>
+  <actor>
+    <name>Amanda Warren</name>
+    <role>Gioria Gary</role>
+    <type>Actor</type>
+    <tmdbid>1170657</tmdbid>
+    <imdbid>nm2581729</imdbid>
+  </actor>
+  <actor>
+    <name>Dorian Missick</name>
+    <role>Reggie Douglas</role>
+    <type>Actor</type>
+    <tmdbid>26718</tmdbid>
+    <imdbid>nm0592923</imdbid>
+  </actor>
+  <actor>
+    <name>Tywayne Wheatt</name>
+    <role>Al Jones</role>
+    <type>Actor</type>
+    <tmdbid>2547616</tmdbid>
+  </actor>
+  <actor>
+    <name>Lance E. Nichols</name>
+    <role>Judge Graves</role>
+    <type>Actor</type>
+    <tmdbid>101847</tmdbid>
+    <imdbid>nm0629634</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Jefferson</name>
+    <role>Dashaan Harris</role>
+    <type>Actor</type>
+    <tmdbid>1198202</tmdbid>
+    <imdbid>nm0420201</imdbid>
+  </actor>
+  <actor>
+    <name>B.J. Clinkscales</name>
+    <role>Chris Wakefield</role>
+    <type>Actor</type>
+    <tmdbid>1464843</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Spearman</name>
+    <role>Richard Mayfield</role>
+    <type>Actor</type>
+    <tmdbid>976118</tmdbid>
+    <imdbid>nm0817335</imdbid>
+  </actor>
+  <actor>
+    <name>Gralen Bryant Banks</name>
+    <role>Walter Bell</role>
+    <type>Actor</type>
+    <tmdbid>557804</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Brody</name>
+    <role>Little O'Keefe Granddaughter</role>
+    <type>Actor</type>
+    <tmdbid>2952051</tmdbid>
+  </actor>
+  <actor>
+    <name>David Maldonado</name>
+    <role>Jim Lafont</role>
+    <type>Actor</type>
+    <tmdbid>1327175</tmdbid>
+    <imdbid>nm1296223</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Slaughter</name>
+    <role>Robert Sperry</role>
+    <type>Actor</type>
+    <tmdbid>62784</tmdbid>
+    <imdbid>nm1551999</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Winchester</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>1515291</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorna Street Dopson</name>
+    <role>Hotel Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1569863</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Robel</name>
+    <role>Lorraine McGrath</role>
+    <type>Actor</type>
+    <tmdbid>1940002</tmdbid>
+  </actor>
+  <actor>
+    <name>Fracaswell Hyman</name>
+    <role>Ruben Soames</role>
+    <type>Actor</type>
+    <tmdbid>3313755</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna DuPlantier</name>
+    <role>Mattie Thibodeau</role>
+    <type>Actor</type>
+    <tmdbid>230995</tmdbid>
+    <imdbid>nm1251245</imdbid>
+  </actor>
+  <actor>
+    <name>David Alexander</name>
+    <role>Gary Reynolds</role>
+    <type>Actor</type>
+    <tmdbid>1922104</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Sheynin</name>
+    <role>Hotel Bar Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2864987</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Frankle</name>
+    <role>Mrs. Cassidy</role>
+    <type>Actor</type>
+    <tmdbid>946356</tmdbid>
+    <imdbid>nm1683193</imdbid>
+  </actor>
+  <actor>
+    <name>Logan Macrae</name>
+    <role>Jodie O'Keefe</role>
+    <type>Actor</type>
+    <tmdbid>3284240</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalene Mack</name>
+    <role>Jury Foreman</role>
+    <type>Actor</type>
+    <tmdbid>1147413</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Malone</name>
+    <role>Jury Member #1</role>
+    <type>Actor</type>
+    <tmdbid>1411644</tmdbid>
+  </actor>
+  <actor>
+    <name>Summer Selby</name>
+    <role>Mamma Gary</role>
+    <type>Actor</type>
+    <tmdbid>1543465</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Brinkman</name>
+    <role>Paralegal in Courthouse</role>
+    <type>Actor</type>
+    <tmdbid>1490112</tmdbid>
+  </actor>
+  <actor>
+    <name>Cat Wilkinson</name>
+    <role>Secretary in Courthouse</role>
+    <type>Actor</type>
+    <tmdbid>3765446</tmdbid>
+  </actor>
+  <actor>
+    <name>David Shae</name>
+    <role>David Shatterock</role>
+    <type>Actor</type>
+    <tmdbid>1704672</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Mendenhall</name>
+    <role>Eric Bell</role>
+    <type>Actor</type>
+    <tmdbid>1367344</tmdbid>
+    <imdbid>nm3373328</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Thorp</name>
+    <role>Jeff Tooray</role>
+    <type>Actor</type>
+    <tmdbid>1619022</tmdbid>
+  </actor>
+  <actor>
+    <name>George Ketsios</name>
+    <role>Rick Bronksy</role>
+    <type>Actor</type>
+    <tmdbid>1452949</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Harkins</name>
+    <role>Wendell Aldridge</role>
+    <type>Actor</type>
+    <tmdbid>3487963</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Bayle</name>
+    <role>Gordon Metzger</role>
+    <type>Actor</type>
+    <tmdbid>1651968</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Klock</name>
+    <role>Rick Riverridge</role>
+    <type>Actor</type>
+    <tmdbid>206624</tmdbid>
+    <imdbid>nm1145617</imdbid>
+  </actor>
+  <actor>
+    <name>Vince Pisani</name>
+    <role>Professor Rossencomb</role>
+    <type>Actor</type>
+    <tmdbid>1431398</tmdbid>
+  </actor>
+  <actor>
+    <name>Wille E. Gary</name>
+    <role>Mr. G</role>
+    <type>Actor</type>
+    <tmdbid>4373445</tmdbid>
+  </actor>
+  <director tmdbid="1667819">Margaret Betts</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9UqYEk_7QPg</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Burial</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5648882</imdbid>
+  <tmdbid>763165</tmdbid>
+  <premiered>2023-10-06</premiered>
+  <releasedate>2023-10-06</releasedate>
+  <runtime>127</runtime>
+  <tagline>Nunca te conformes.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Double Nickel Entertainment</studio>
+  <studio>Bobby Shriver Productions</studio>
+  <studio>Foxxhole Productions</studio>
+  <studio>Maven Screen Media</studio>
+  <studio>Amazon MGM Studios</studio>
+  <studio>Big Indie Pictures</studio>
+  <uniqueid type="imdb">tt5648882</uniqueid>
+  <uniqueid type="tmdb">763165</uniqueid>
+  <id>tt5648882</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>883484</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7633</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

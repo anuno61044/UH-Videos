@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una adolescente que vive con su madre debe llevar a su hermano a vivir a un centro especializado. Allí, entabla una inesperada amistad con un activista excéntrico en medio de protestas en torno a casos médicos controvertidos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-10 10:01:20</dateadded>
+  <title>Suncoast</title>
+  <originaltitle>Suncoast</originaltitle>
+  <actor>
+    <name>Nico Parker</name>
+    <role>Doris</role>
+    <type>Actor</type>
+    <tmdbid>2064124</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Linney</name>
+    <role>Kristine</role>
+    <type>Actor</type>
+    <tmdbid>350</tmdbid>
+    <imdbid>nm0001473</imdbid>
+    <tvdbid>310770</tvdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+    <tvdbid>253775</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniella Taylor</name>
+    <role>Laci</role>
+    <type>Actor</type>
+    <tmdbid>1854899</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Anderson</name>
+    <role>Brittany</role>
+    <type>Actor</type>
+    <tmdbid>933578</tmdbid>
+  </actor>
+  <actor>
+    <name>Amarr M. Wooten</name>
+    <role>Nate</role>
+    <type>Actor</type>
+    <tmdbid>1657849</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariel Martin</name>
+    <role>Megan Kaminski</role>
+    <type>Actor</type>
+    <tmdbid>1947330</tmdbid>
+  </actor>
+  <actor>
+    <name>Keyla Monterroso Mejia</name>
+    <role>Nurse Mia</role>
+    <type>Actor</type>
+    <tmdbid>3106478</tmdbid>
+  </actor>
+  <actor>
+    <name>Pam Dougherty</name>
+    <role>Sue</role>
+    <type>Actor</type>
+    <tmdbid>977094</tmdbid>
+    <imdbid>nm0234869</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Burkey</name>
+    <role>Officer Chauncey</role>
+    <type>Actor</type>
+    <tmdbid>930215</tmdbid>
+    <imdbid>nm3600327</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Powell</name>
+    <role>Security Sylvia</role>
+    <type>Actor</type>
+    <tmdbid>106949</tmdbid>
+    <imdbid>nm0004632</imdbid>
+  </actor>
+  <actor>
+    <name>Parker Sack</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>1548299</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Dicostanzo</name>
+    <role>Dirty Cody</role>
+    <type>Actor</type>
+    <tmdbid>3143746</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliott Sancrant</name>
+    <role>Kyle</role>
+    <type>Actor</type>
+    <tmdbid>2410749</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Walsh</name>
+    <role>Mr. Ladd</role>
+    <type>Actor</type>
+    <tmdbid>59841</tmdbid>
+    <imdbid>nm0909768</imdbid>
+    <tvdbid>294208</tvdbid>
+  </actor>
+  <actor>
+    <name>Karen Ceesay</name>
+    <role>Evelyn Green</role>
+    <type>Actor</type>
+    <tmdbid>1377994</tmdbid>
+    <imdbid>nm1957798</imdbid>
+  </actor>
+  <actor>
+    <name>Cree Kawa</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>2063542</tmdbid>
+  </actor>
+  <actor>
+    <name>Orelon Sidney</name>
+    <role>Lisa Mosley</role>
+    <type>Actor</type>
+    <tmdbid>2388952</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Arroyo</name>
+    <role>Alex Vara</role>
+    <type>Actor</type>
+    <tmdbid>4493335</tmdbid>
+  </actor>
+  <actor>
+    <name>Darnell "Starnell" Snyder</name>
+    <role>Nightclub Doorman</role>
+    <type>Actor</type>
+    <tmdbid>4493336</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott MacArthur</name>
+    <role>Sweet N' Low</role>
+    <type>Actor</type>
+    <tmdbid>209087</tmdbid>
+    <imdbid>nm2509902</imdbid>
+  </actor>
+  <actor>
+    <name>Carly Grissom</name>
+    <role>Burger Shack Employee</role>
+    <type>Actor</type>
+    <tmdbid>4027500</tmdbid>
+  </actor>
+  <actor>
+    <name>Oakley Maloney</name>
+    <role>Young Doris</role>
+    <type>Actor</type>
+    <tmdbid>4493337</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn Maloney</name>
+    <role>Young Max</role>
+    <type>Actor</type>
+    <tmdbid>4493338</tmdbid>
+  </actor>
+  <director tmdbid="225622">Laura Chinn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CPQokx5UnrA</trailer>
+  <rating>6.6</rating>
+  <year>2024</year>
+  <sorttitle>Suncoast</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13650742</imdbid>
+  <tmdbid>1014209</tmdbid>
+  <premiered>2024-02-02</premiered>
+  <releasedate>2024-02-02</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>110</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Searchlight Pictures</studio>
+  <studio>Freestyle Picture Company</studio>
+  <studio>Seven Deuce Entertainment</studio>
+  <uniqueid type="imdb">tt13650742</uniqueid>
+  <uniqueid type="tmdb">1014209</uniqueid>
+  <id>tt13650742</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1016252</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6581</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

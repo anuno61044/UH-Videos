@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.]]></plot>
+  <outline><![CDATA[No puedes huir de tu pasado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-03 08:38:52</dateadded>
+  <title>Creed III</title>
+  <originaltitle>Creed III</originaltitle>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>Adonis Creed</role>
+    <type>Actor</type>
+    <tmdbid>135651</tmdbid>
+    <imdbid>nm0430107</imdbid>
+    <tvdbid>294945</tvdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Bianca Taylor</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+    <tvdbid>332925</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Majors</name>
+    <role>Damian 'Dame' Anderson</role>
+    <type>Actor</type>
+    <tmdbid>1674162</tmdbid>
+    <imdbid>nm3718007</imdbid>
+    <tvdbid>533764</tvdbid>
+  </actor>
+  <actor>
+    <name>Phylicia Rashād</name>
+    <role>Mary-Anne Creed</role>
+    <type>Actor</type>
+    <tmdbid>119598</tmdbid>
+    <imdbid>nm0711118</imdbid>
+    <tvdbid>7936523</tvdbid>
+  </actor>
+  <actor>
+    <name>Mila Davis-Kent</name>
+    <role>Amara Creed</role>
+    <type>Actor</type>
+    <tmdbid>3759632</tmdbid>
+  </actor>
+  <actor>
+    <name>Wood Harris</name>
+    <role>Tony 'Little Duke' Evers</role>
+    <type>Actor</type>
+    <tmdbid>65829</tmdbid>
+    <imdbid>nm0365445</imdbid>
+  </actor>
+  <actor>
+    <name>José Benavidez Jr.</name>
+    <role>Felix Chavez</role>
+    <type>Actor</type>
+    <tmdbid>3636888</tmdbid>
+  </actor>
+  <actor>
+    <name>Florian Munteanu</name>
+    <role>Viktor Drago</role>
+    <type>Actor</type>
+    <tmdbid>1998541</tmdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Laura Chavez</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Thaddeus J. Mixson</name>
+    <role>Adonis Creed (15)</role>
+    <type>Actor</type>
+    <tmdbid>2864869</tmdbid>
+  </actor>
+  <actor>
+    <name>Spence Moore II</name>
+    <role>Damien Anderson (18)</role>
+    <type>Actor</type>
+    <tvdbid>8075844</tvdbid>
+    <tmdbid>1903010</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Bellew</name>
+    <role>Pretty Ricky Conlan</role>
+    <type>Actor</type>
+    <tmdbid>1537624</tmdbid>
+    <imdbid>nm6905689</imdbid>
+  </actor>
+  <actor>
+    <name>Patrice Harris</name>
+    <role>Boog</role>
+    <type>Actor</type>
+    <tmdbid>3951085</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Najjar</name>
+    <role>Ann</role>
+    <type>Actor</type>
+    <tmdbid>3951086</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob 'Stitch' Duran</name>
+    <role>Stitch</role>
+    <type>Actor</type>
+    <tmdbid>1277581</tmdbid>
+    <imdbid>nm0243695</imdbid>
+  </actor>
+  <actor>
+    <name>Terence Crawford</name>
+    <role>Lorenzo Jones</role>
+    <type>Actor</type>
+    <tmdbid>3318460</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Hernandez</name>
+    <role>Conlan's Trainer</role>
+    <type>Actor</type>
+    <tmdbid>1813752</tmdbid>
+  </actor>
+  <actor>
+    <name>Yahya McClain</name>
+    <role>Damian's Trainer</role>
+    <type>Actor</type>
+    <tmdbid>2942168</tmdbid>
+  </actor>
+  <actor>
+    <name>Lamont Lankford</name>
+    <role>Damian's Cutman</role>
+    <type>Actor</type>
+    <tmdbid>1712756</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Calliet</name>
+    <role>Additional Creed Cornerman</role>
+    <type>Actor</type>
+    <tmdbid>2474445</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Bayless</name>
+    <role>Kenny Bayless</role>
+    <type>Actor</type>
+    <tmdbid>2622697</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Grisham</name>
+    <role>Todd Grisham</role>
+    <type>Actor</type>
+    <tmdbid>1225934</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica McCaskill</name>
+    <role>Jessica McCaskill</role>
+    <type>Actor</type>
+    <tmdbid>3596651</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Page</name>
+    <role>Ring Girl</role>
+    <type>Actor</type>
+    <tmdbid>4006361</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Lennon Jr.</name>
+    <role>Jimmy Lennon Jr.</role>
+    <type>Actor</type>
+    <tmdbid>231396</tmdbid>
+    <imdbid>nm0502020</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Mora</name>
+    <role>Russell Mora</role>
+    <type>Actor</type>
+    <tmdbid>2548002</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Bernstein</name>
+    <role>Al Bernstein</role>
+    <type>Actor</type>
+    <tmdbid>2571347</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauro Ranallo</name>
+    <role>Mauro Ranallo</role>
+    <type>Actor</type>
+    <tmdbid>1577370</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianna Valeria Gonzalez Vazquez</name>
+    <role>Ring Girl</role>
+    <type>Actor</type>
+    <tmdbid>4006368</tmdbid>
+  </actor>
+  <actor>
+    <name>Shayra Medal</name>
+    <role>Ring Girl</role>
+    <type>Actor</type>
+    <tmdbid>4006369</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen A. Smith</name>
+    <role>Stephen A. Smith</role>
+    <type>Actor</type>
+    <tmdbid>1219638</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Dawn Davis</name>
+    <role>Fight Interpreter</role>
+    <type>Actor</type>
+    <tmdbid>1246392</tmdbid>
+  </actor>
+  <actor>
+    <name>David Diamante</name>
+    <role>David Diamante</role>
+    <type>Actor</type>
+    <tmdbid>4006370</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Weeks</name>
+    <role>Tony Weeks</role>
+    <type>Actor</type>
+    <tmdbid>1502324</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Mannix</name>
+    <role>Christopher Mannix</role>
+    <type>Actor</type>
+    <tmdbid>3084155</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreia Gibau</name>
+    <role>Ring Girl</role>
+    <type>Actor</type>
+    <tmdbid>4006372</tmdbid>
+  </actor>
+  <actor>
+    <name>Soraya Yd</name>
+    <role>Ring Girl</role>
+    <type>Actor</type>
+    <tmdbid>4006373</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Pepper</name>
+    <role>Showtime All Access Announcer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12834</tmdbid>
+    <imdbid>nm0001608</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Holmes</name>
+    <role>Jessica Holmes</role>
+    <type>Actor</type>
+    <tmdbid>4006377</tmdbid>
+  </actor>
+  <actor>
+    <name>Canelo Álvarez</name>
+    <role>Canelo Alvarez</role>
+    <type>Actor</type>
+    <tmdbid>1172267</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Gomez</name>
+    <role>Fernanda Gomez</role>
+    <type>Actor</type>
+    <tmdbid>4006381</tmdbid>
+  </actor>
+  <actor>
+    <name>Kehlani</name>
+    <role>Kehlani</role>
+    <type>Actor</type>
+    <tmdbid>3865642</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Lee Stone</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2900845</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron D. Alexander</name>
+    <role>Leon</role>
+    <type>Actor</type>
+    <tmdbid>2273091</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Neal</name>
+    <role>Leon's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2824975</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Hibbert</name>
+    <role>Leon's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2700648</tmdbid>
+  </actor>
+  <actor>
+    <name>James Harden</name>
+    <role>Man at Golden Gloves</role>
+    <type>Actor</type>
+    <tmdbid>3319784</tmdbid>
+  </actor>
+  <actor>
+    <name>Jove Edmond</name>
+    <role>Golden Gloves Barber</role>
+    <type>Actor</type>
+    <tmdbid>4006383</tmdbid>
+  </actor>
+  <actor>
+    <name>Engle Files</name>
+    <role>Golden Gloves Girl</role>
+    <type>Actor</type>
+    <tmdbid>4006384</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael A. Jordan</name>
+    <role>Golden Gloves Referee</role>
+    <type>Actor</type>
+    <tmdbid>4006385</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Ofili</name>
+    <role>Creed Family Chef</role>
+    <type>Actor</type>
+    <tmdbid>2184031</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Eshay</name>
+    <role>Creed Family Caterer</role>
+    <type>Actor</type>
+    <tmdbid>3757393</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Boell</name>
+    <role>Event Worker</role>
+    <type>Actor</type>
+    <tmdbid>1916834</tmdbid>
+  </actor>
+  <actor>
+    <name>Eli Joshua Adé</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1580867</tmdbid>
+  </actor>
+  <actor>
+    <name>Butch Locsin</name>
+    <role>Skeleton of Color</role>
+    <type>Actor</type>
+    <tmdbid>4006386</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefni Valencia</name>
+    <role>Woman In Chavez Walkout</role>
+    <type>Actor</type>
+    <tmdbid>4006410</tmdbid>
+  </actor>
+  <actor>
+    <name>Bella Dee</name>
+    <role>Woman In Chavez Walkout</role>
+    <type>Actor</type>
+    <tmdbid>4006412</tmdbid>
+  </actor>
+  <actor>
+    <name>Anastasia Wilson</name>
+    <role>Mary-Anne Creed's Nurse</role>
+    <type>Actor</type>
+    <tmdbid>4006414</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Scherr</name>
+    <role>Mary-Anne Creed's Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1211751</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Davidson</name>
+    <role>Reporter #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2345411</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Haile</name>
+    <role>Mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2343137</tmdbid>
+  </actor>
+  <actor>
+    <name>Teófimo López</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2874763</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Penuel</name>
+    <role>Boxing Elder #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>129241</tmdbid>
+  </actor>
+  <director tmdbid="135651" imdbid="nm0430107" tvdbid="294945">Michael B. Jordan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IeZ5xDv3w6A</trailer>
+  <rating>6.7</rating>
+  <year>2023</year>
+  <sorttitle>Creed III</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11145118</imdbid>
+  <tmdbid>677179</tmdbid>
+  <premiered>2023-03-01</premiered>
+  <releasedate>2023-03-01</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>117</runtime>
+  <tagline>No puedes huir de tu pasado.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Acción</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Proximity Media</studio>
+  <studio>Balboa Productions</studio>
+  <studio>Outlier Society Productions</studio>
+  <studio>Chartoff-Winkler Productions</studio>
+  <set tmdbcolid="553717">
+    <name>Creed - Colección</name>
+  </set>
+  <set tmdbcolid="553717">
+    <name>Creed: La leyenda de Rocky - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt11145118</uniqueid>
+  <uniqueid type="tmdb">677179</uniqueid>
+  <id>tt11145118</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>955175</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7010</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

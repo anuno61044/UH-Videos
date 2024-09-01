@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ryo Saeba, detective privado de puntería extraordinaria y mujeriego redomado, se alía a regañadientes con la hermana de su difunto compañero para investigar su muerte.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-02 10:20:10</dateadded>
+  <title>City Hunter</title>
+  <originaltitle>シティーハンター</originaltitle>
+  <actor>
+    <name>Ryohei Suzuki</name>
+    <role>Ryo Saeba</role>
+    <type>Actor</type>
+    <tmdbid>1693</tmdbid>
+  </actor>
+  <actor>
+    <name>Misato Morita</name>
+    <role>Kaori Makimura</role>
+    <type>Actor</type>
+    <tmdbid>2460109</tmdbid>
+  </actor>
+  <actor>
+    <name>Masanobu Ando</name>
+    <role>Hideyuki Makimura</role>
+    <type>Actor</type>
+    <tmdbid>74862</tmdbid>
+    <imdbid>nm0027942</imdbid>
+  </actor>
+  <actor>
+    <name>Fumino Kimura</name>
+    <role>Det. Saeko Nogami</role>
+    <type>Actor</type>
+    <tmdbid>1255308</tmdbid>
+  </actor>
+  <actor>
+    <name>Asuka Hanamura</name>
+    <role>Kurumi</role>
+    <type>Actor</type>
+    <tmdbid>2115712</tmdbid>
+  </actor>
+  <actor>
+    <name>Isao Hashizume</name>
+    <role>Akutsu</role>
+    <type>Actor</type>
+    <tmdbid>554573</tmdbid>
+    <imdbid>nm0368089</imdbid>
+  </actor>
+  <actor>
+    <name>Tetta Sugimoto</name>
+    <role>Akitaka Ito</role>
+    <type>Actor</type>
+    <tmdbid>112861</tmdbid>
+    <imdbid>nm0837501</imdbid>
+  </actor>
+  <actor>
+    <name>Ayame Misaki</name>
+    <role>Tsukino Seta</role>
+    <type>Actor</type>
+    <tmdbid>1015824</tmdbid>
+    <imdbid>nm2799623</imdbid>
+  </actor>
+  <actor>
+    <name>Takaya Sakoda</name>
+    <role>Kunio Konno</role>
+    <type>Actor</type>
+    <tmdbid>2071520</tmdbid>
+  </actor>
+  <actor>
+    <name>Moemi Katayama</name>
+    <type>Actor</type>
+    <tmdbid>1831272</tmdbid>
+    <imdbid>nm7131255</imdbid>
+  </actor>
+  <actor>
+    <name>Yasushi Ami</name>
+    <type>Actor</type>
+    <tmdbid>1732194</tmdbid>
+  </actor>
+  <actor>
+    <name>Keita Arai</name>
+    <role>Ando</role>
+    <type>Actor</type>
+    <tmdbid>3176962</tmdbid>
+  </actor>
+  <director tmdbid="116780">Yuichi Satoh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N9ZCi1t1Fn0</trailer>
+  <rating>6.5</rating>
+  <year>2024</year>
+  <sorttitle>City Hunter</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt24478470</imdbid>
+  <tmdbid>1061990</tmdbid>
+  <premiered>2024-04-24</premiered>
+  <releasedate>2024-04-24</releasedate>
+  <runtime>104</runtime>
+  <country>Japan</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Horipro</studio>
+  <studio>Office Shirous</studio>
+  <studio>Netflix</studio>
+  <uniqueid type="tmdb">1061990</uniqueid>
+  <uniqueid type="imdb">tt24478470</uniqueid>
+  <id>tt24478470</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1421742</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6243</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

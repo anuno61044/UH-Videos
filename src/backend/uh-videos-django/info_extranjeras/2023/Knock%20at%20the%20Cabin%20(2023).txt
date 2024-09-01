@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Durante unas vacaciones en una cabaña en un bosque alejada de todo, una niña y sus padres se convierten en rehenes de cuatro desconocidos armados que obligan a la familia a tomar una decisión imposible para evitar el apocalipsis. Con acceso limitado al mundo exterior, la familia deberá decidir qué creer antes de que todo esté perdido.]]></plot>
+  <outline><![CDATA[Salva a tu familia o salva a la humanidad. Haz la elección.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-22 10:31:24</dateadded>
+  <title>Llaman a la puerta</title>
+  <originaltitle>Knock at the Cabin</originaltitle>
+  <actor>
+    <name>Ben Aldridge</name>
+    <role>Andrew</role>
+    <type>Actor</type>
+    <tmdbid>969316</tmdbid>
+    <imdbid>nm3198781</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Groff</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>221611</tmdbid>
+    <imdbid>nm2676147</imdbid>
+    <tvdbid>295001</tvdbid>
+  </actor>
+  <actor>
+    <name>Kristen Cui</name>
+    <role>Wen</role>
+    <type>Actor</type>
+    <tmdbid>3645646</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Leonard</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Nikki Amuka-Bird</name>
+    <role>Sabrina</role>
+    <type>Actor</type>
+    <tmdbid>109319</tmdbid>
+    <imdbid>nm0025458</imdbid>
+    <tvdbid>307288</tvdbid>
+  </actor>
+  <actor>
+    <name>Abby Quinn</name>
+    <role>Adriane</role>
+    <type>Actor</type>
+    <tmdbid>1473432</tmdbid>
+    <imdbid>nm5362984</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Grint</name>
+    <role>Redmond</role>
+    <type>Actor</type>
+    <tmdbid>10989</tmdbid>
+    <imdbid>nm0342488</imdbid>
+    <tvdbid>356218</tvdbid>
+  </actor>
+  <actor>
+    <name>McKenna Kerrigan</name>
+    <role>Andrew's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1816366</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Merrill Peakes</name>
+    <role>Andrew's Father</role>
+    <type>Actor</type>
+    <tmdbid>944574</tmdbid>
+  </actor>
+  <actor>
+    <name>Denise Nakano</name>
+    <role>TV Newscaster #1</role>
+    <type>Actor</type>
+    <tmdbid>3933126</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Luardo</name>
+    <role>PWTC Spokeswoman</role>
+    <type>Actor</type>
+    <tmdbid>2977776</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Vargus</name>
+    <role>Seismologist</role>
+    <type>Actor</type>
+    <tmdbid>1343847</tmdbid>
+  </actor>
+  <actor>
+    <name>Satomi Hofmann</name>
+    <role>TV Newscaster #2</role>
+    <type>Actor</type>
+    <tmdbid>2138636</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Leung</name>
+    <role>Man with Child on TV</role>
+    <type>Actor</type>
+    <tmdbid>4219900</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Avant</name>
+    <role>TV News Anchor #3</role>
+    <type>Actor</type>
+    <tmdbid>3078311</tmdbid>
+  </actor>
+  <actor>
+    <name>Odera Adimorah</name>
+    <role>International TV News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>3095904</tmdbid>
+  </actor>
+  <actor>
+    <name>Kat Murphy</name>
+    <role>Scottish Female Doctor</role>
+    <type>Actor</type>
+    <tmdbid>4114073</tmdbid>
+  </actor>
+  <actor>
+    <name>Kittson O’Neill</name>
+    <role>BBC Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2564358</tmdbid>
+  </actor>
+  <actor>
+    <name>Lya Yanne</name>
+    <role>Adoption Center Employee</role>
+    <type>Actor</type>
+    <tmdbid>1976444</tmdbid>
+  </actor>
+  <actor>
+    <name>M. Night Shyamalan</name>
+    <role>Infomercial Host</role>
+    <type>Actor</type>
+    <tmdbid>11614</tmdbid>
+    <imdbid>nm0796117</imdbid>
+  </actor>
+  <actor>
+    <name>Clare Louise Frost</name>
+    <role>Infomercial Co-Host</role>
+    <type>Actor</type>
+    <tmdbid>2791756</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanna Gaffney</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2887955</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Fleurette</name>
+    <role>Woman in Diner</role>
+    <type>Actor</type>
+    <tmdbid>3933127</tmdbid>
+  </actor>
+  <actor>
+    <name>Saria Chen</name>
+    <role>Adult Wen</role>
+    <type>Actor</type>
+    <tmdbid>3933129</tmdbid>
+  </actor>
+  <director tmdbid="11614" imdbid="nm0796117">M. Night Shyamalan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2WLz2b0Namw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9hYOuwIqSns</trailer>
+  <rating>6.1</rating>
+  <year>2023</year>
+  <sorttitle>Llaman a la puerta</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15679400</imdbid>
+  <tmdbid>631842</tmdbid>
+  <premiered>2023-02-01</premiered>
+  <releasedate>2023-02-01</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>100</runtime>
+  <tagline>Salva a tu familia o salva a la humanidad. Haz la elección.</tagline>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <genre>Terror</genre>
+  <studio>Blinding Edge Pictures</studio>
+  <studio>Universal Pictures</studio>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Wishmore</studio>
+  <studio>dentsu</studio>
+  <uniqueid type="tmdb">631842</uniqueid>
+  <uniqueid type="imdb">tt15679400</uniqueid>
+  <id>tt15679400</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1113141</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6006</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

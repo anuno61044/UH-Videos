@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La aventura de un padre y un hijo, en un mundo en el que algunos humanos han empezado a mutar en otras especies animales.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-02-05 09:01:30</dateadded>
+  <title>El reino animal</title>
+  <originaltitle>Le règne animal</originaltitle>
+  <actor>
+    <name>Romain Duris</name>
+    <role>François</role>
+    <type>Actor</type>
+    <tmdbid>17497</tmdbid>
+    <imdbid>nm0244151</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Kircher</name>
+    <role>Émile</role>
+    <type>Actor</type>
+    <tmdbid>2674840</tmdbid>
+  </actor>
+  <actor>
+    <name>Adèle Exarchopoulos</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>586757</tmdbid>
+    <imdbid>nm2650819</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Mercier</name>
+    <role>Fix</role>
+    <type>Actor</type>
+    <tvdbid>1320234</tvdbid>
+    <tmdbid>2039215</tmdbid>
+  </actor>
+  <actor>
+    <name>Billie Blain</name>
+    <role>Nina</role>
+    <type>Actor</type>
+    <tmdbid>1918137</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Aubert</name>
+    <role>Jacques</role>
+    <type>Actor</type>
+    <tmdbid>1510578</tmdbid>
+  </actor>
+  <actor>
+    <name>Saadia Bentaïeb</name>
+    <role>Naïma</role>
+    <type>Actor</type>
+    <tmdbid>1613123</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Caballero</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>2179782</tmdbid>
+  </actor>
+  <actor>
+    <name>Iliana Khelifa</name>
+    <role>Maëlle</role>
+    <type>Actor</type>
+    <tmdbid>4068454</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Muguruza</name>
+    <role>Jordan</role>
+    <type>Actor</type>
+    <tmdbid>2633673</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Richard</name>
+    <role>Professor Valérie Beaudoin</role>
+    <type>Actor</type>
+    <tmdbid>6019</tmdbid>
+    <imdbid>nm0723865</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Rivoire</name>
+    <role>Lieutenant Gendarmerie</role>
+    <type>Actor</type>
+    <tmdbid>1517904</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Avinée</name>
+    <role>Neighbor Driver</role>
+    <type>Actor</type>
+    <tmdbid>1367236</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Lehry</name>
+    <role>Principal</role>
+    <type>Actor</type>
+    <tmdbid>3758912</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Boronat</name>
+    <role>PE teacher</role>
+    <type>Actor</type>
+    <tmdbid>3410576</tmdbid>
+  </actor>
+  <actor>
+    <name>François-Xavier Raffier</name>
+    <role>Constable Bonnel</role>
+    <type>Actor</type>
+    <tmdbid>3486611</tmdbid>
+  </actor>
+  <actor>
+    <name>Célia Lalande</name>
+    <role>Watchtower Policeman</role>
+    <type>Actor</type>
+    <tmdbid>4305139</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxime Sebile</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>4305147</tmdbid>
+  </actor>
+  <actor>
+    <name>Clément Corbiat</name>
+    <role>Reception Policeman</role>
+    <type>Actor</type>
+    <tmdbid>4305148</tmdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Boissavit</name>
+    <role>Gendarmerie Commander</role>
+    <type>Actor</type>
+    <tmdbid>2548718</tmdbid>
+  </actor>
+  <actor>
+    <name>Maëlle Benkimoun</name>
+    <role>Grenouille</role>
+    <type>Actor</type>
+    <tmdbid>4514809</tmdbid>
+  </actor>
+  <director tmdbid="1320870">Thomas Cailley</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OqJEfY16kB0</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>reino animal</sorttitle>
+  <imdbid>tt16606592</imdbid>
+  <tmdbid>943134</tmdbid>
+  <premiered>2023-10-04</premiered>
+  <releasedate>2023-10-04</releasedate>
+  <runtime>127</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Fantasía</genre>
+  <genre>Drama</genre>
+  <genre>Aventura</genre>
+  <studio>StudioCanal</studio>
+  <studio>Nord-Ouest Films</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Artémis Productions</studio>
+  <uniqueid type="imdb">tt16606592</uniqueid>
+  <uniqueid type="tmdb">943134</uniqueid>
+  <id>tt16606592</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1169261</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7638</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>161316</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un policía al borde de la ley y una mujer en busca de venganza, cruzan sus caminos obsesionados con descubrir al asesino que se esconde tras los brutales crímenes de varias niñas. Ambos están dispuestos a hacer lo que sea necesario para lograr su confesión, aunque para ello tengan que tomarse la justicia por su mano. Una modélica detective luchará contra el reloj evitar que se cometan errores irreparables y que esa desesperada búsqueda de la verdad se convierta en el más feroz de los lobos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-13 09:00:41</dateadded>
+  <title>Lobo Feroz</title>
+  <originaltitle>Lobo Feroz</originaltitle>
+  <actor>
+    <name>Adriana Ugarte</name>
+    <role>Matilde</role>
+    <type>Actor</type>
+    <tmdbid>130260</tmdbid>
+    <imdbid>nm1246047</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Gutiérrez</name>
+    <role>Alonso</role>
+    <type>Actor</type>
+    <tmdbid>19024</tmdbid>
+    <imdbid>nm0349522</imdbid>
+    <tvdbid>472102</tvdbid>
+  </actor>
+  <actor>
+    <name>Rubén Ochandiano</name>
+    <role>Elías</role>
+    <type>Actor</type>
+    <tmdbid>102221</tmdbid>
+    <imdbid>nm0643679</imdbid>
+  </actor>
+  <actor>
+    <name>Juana Acosta</name>
+    <role>Vidal</role>
+    <type>Actor</type>
+    <tmdbid>1128383</tmdbid>
+    <imdbid>nm0010207</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Vega</name>
+    <role>Álex</role>
+    <type>Actor</type>
+    <tmdbid>2804618</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Dechent</name>
+    <role>Romero</role>
+    <type>Actor</type>
+    <tmdbid>6535</tmdbid>
+    <imdbid>nm0213766</imdbid>
+    <tvdbid>488989</tvdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <role>Matilde (Junior)</role>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Tejero</name>
+    <role>Hipólito</role>
+    <type>Actor</type>
+    <tmdbid>43321</tmdbid>
+    <imdbid>nm1234572</imdbid>
+    <tvdbid>534146</tvdbid>
+  </actor>
+  <actor>
+    <name>María Alfonsa Rosso</name>
+    <role>Madre Alonso</role>
+    <type>Actor</type>
+    <tmdbid>954664</tmdbid>
+    <imdbid>nm0743133</imdbid>
+    <tvdbid>598992</tvdbid>
+  </actor>
+  <actor>
+    <name>José Chaves</name>
+    <role>Gutiérrez</role>
+    <type>Actor</type>
+    <tmdbid>84773</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Martínez</name>
+    <type>Actor</type>
+    <tmdbid>1851073</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Herráez</name>
+    <role>Marinero</role>
+    <type>Actor</type>
+    <tmdbid>1607879</tmdbid>
+  </actor>
+  <director tmdbid="542246">Gustavo Hernández</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3VXgohNEIoo</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Lobo Feroz</sorttitle>
+  <imdbid>tt14118246</imdbid>
+  <tmdbid>800085</tmdbid>
+  <premiered>2023-01-27</premiered>
+  <releasedate>2023-01-27</releasedate>
+  <runtime>106</runtime>
+  <country>Argentina</country>
+  <country>Spain</country>
+  <country>Uruguay</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Bowfinger</studio>
+  <studio>Mother Superior</studio>
+  <studio>Film Shark</studio>
+  <studio>Esto También Pasará</studio>
+  <studio>Basque Films</studio>
+  <studio>Lobo Feroz AIE</studio>
+  <studio>ViX</studio>
+  <uniqueid type="imdb">tt14118246</uniqueid>
+  <uniqueid type="tmdb">800085</uniqueid>
+  <id>tt14118246</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>129276</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6362</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63830</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>
