@@ -79,12 +79,13 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
                 movie_description = root.find('plot').text
                 if movie_description is None:
                     movie_description = 'No description'
+                
                 movie = Movie.objects.create(
                     title=movie_title,
                     genre=movie_genres[0],
                     director=movie_director,
                     description=movie_description,
-                    release_date=fake.date_between(start_date='-50y', end_date='today')
+                    release_date=root.find('releasedate').text
                 )
                 movies.append(movie)
     
