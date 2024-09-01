@@ -4,7 +4,7 @@ import { Tooltip, OverlayTrigger } from 'react-bootstrap';
 import ReactStars from "react-rating-stars-component";
 import './Movie.css';
 
-export const Movie = ({ id, title, director, genre, date, description, explanation, onRate }) => {
+export const Movie = ({ id, title, director, genre, date, url, description, explanation, onRate }) => {
 
     const handleRatingChange = (newRating) => {
         onRate(id, newRating);
@@ -20,33 +20,35 @@ export const Movie = ({ id, title, director, genre, date, description, explanati
                 </Tooltip>
             }
         >
-            <div className='movie card shadow mb-4 position-relative'>
-                <div className="star-rating position-absolute top-0 end-0 m-2">
-                    <ReactStars
-                        count={5}
-                        onChange={handleRatingChange}
-                        size={24}
-                        activeColor="#ffd700"
-                    />
+            <a href={url} className='card-movie'>
+                <div className='movie card shadow mb-4 position-relative'>
+                    <div className="star-rating position-absolute top-0 end-0 m-2">
+                        <ReactStars
+                            count={5}
+                            onChange={handleRatingChange}
+                            size={24}
+                            activeColor="#ffd700"
+                        />
+                    </div>
+                    <h3>{title}</h3>
+                    <div className='d-flex'>
+                        <p className='tag'>Director:</p>
+                        <p className='info'>{director}</p>
+                    </div>
+                    <div className='d-flex'>
+                        <p className='tag'>Género:</p>
+                        <p className='info'>{genre}</p>
+                    </div>
+                    <div className='d-flex'>
+                        <p className='tag'>Fecha de lanzamiento:</p>
+                        <p className='info'>{date}</p>
+                    </div>
+                    <div className='d-flex'>
+                        <p className='tag'>Descripción:</p>
+                        <p className='info'>{description}</p>
+                    </div>
                 </div>
-                <h3>{title}</h3>
-                <div className='d-flex'>
-                    <p className='tag'>Director:</p>
-                    <p className='info'>{director}</p>
-                </div>
-                <div className='d-flex'>
-                    <p className='tag'>Género:</p>
-                    <p className='info'>{genre}</p>
-                </div>
-                <div className='d-flex'>
-                    <p className='tag'>Fecha de lanzamiento:</p>
-                    <p className='info'>{date}</p>
-                </div>
-                <div className='d-flex'>
-                    <p className='tag'>Descripción:</p>
-                    <p className='info'>{description}</p>
-                </div>
-            </div>
+            </a>
         </OverlayTrigger>
     );
 };
