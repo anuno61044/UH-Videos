@@ -21,7 +21,7 @@ def generate_explanation(trace, recommended_movie_idx, movies, user_id, collabor
     content_score = content_scores[recommended_movie_idx]
 
     if collaborative_score > content_score * 1.2:  # Si el enfoque colaborativo tiene significativamente más peso
-        similar_users = collaborative_explanation(trace, user_id)
+        similar_users = collaborative_explanation(trace, user_id, recommended_movie_idx)
         if similar_users:
             return f"Te recomendamos esta película porque {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien."
         return "Te recomendamos esta película basada en las preferencias de usuarios similares a ti."
@@ -31,12 +31,12 @@ def generate_explanation(trace, recommended_movie_idx, movies, user_id, collabor
             return f"Esta película es similar a otras que te han gustado como {similar_movies} en cuanto al {', '.join(characteristics)}."
         return "Esta película se basa en tus preferencias pasadas."
     else:  # Si ambos enfoques tienen peso similar, usar una explicación combinada
-        similar_users = collaborative_explanation(trace, user_id)
+        similar_users = collaborative_explanation(trace, user_id, recommended_movie_idx)
         similar_movies, characteristics = content_based_explanation(trace, recommended_movie_idx, movies, user_id)
         return f"Te recomendamos esta película porque es similar a otras que has visto como {similar_movies} en cuanto a {characteristics}. Además {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien."
-        return combined_explanation(trace, user_id)
+        
 
-def collaborative_explanation(trace, user_id):
+def collaborative_explanation(trace, user_id, recommended_movie_idx):
     """
     Genera una explicación basada en la similitud de usuarios, utilizando los IDs reales de los usuarios
     y organizándolos según su similitud.
@@ -53,16 +53,15 @@ def collaborative_explanation(trace, user_id):
     users = User.objects.all()
 
     # Crear una lista de tuplas (user_id, similarity) excluyendo al usuario actual
-    similar_users = [(user.id, score) for user, score in zip(users, user_similarity_scores) if score > 0.7 and user.id != user_id]
+    similar_users = [user for user, score in enumerate(user_similarity_scores) if score > 0.5]
 
-    # Ordenar la lista de tuplas por similitud en orden descendente
-    similar_users = sorted(similar_users, key=lambda x: x[1], reverse=True)
-
-    # Extraer solo los IDs de los usuarios ordenados por similitud
-    similar_user_ids = [user_id for user_id, _ in similar_users]
+    user_count = 0
+    for user in similar_users:
+        if trace['collaborative_filtering']["rating_matrix"][user][recommended_movie_idx] > 2:
+            user_count += 1
 
     # Generar la explicación en lenguaje natural
-    return len(similar_user_ids)
+    return user_count
 
 def content_based_explanation(trace, recommended_movie_idx, movies, user_id):
     """
