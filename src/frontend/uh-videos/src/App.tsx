@@ -78,6 +78,32 @@ function App() {
 
   };
 
+  const [query, setQuery] = useState("")
+
+  const searchMovies = (e) => {
+    const fetchMovies = async () => {
+      e.preventDefault();
+      try {
+        const response = await fetch(`http://localhost:8000/api/search/?q=${query}`);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        const fetchedMovies = data.movies; // Ajusta según la estructura de tu API
+        setMovies(fetchedMovies);
+        const messages = data.movies.map(movie => query ? `Película recomendada a partir de tu búsqueda: ${query}.` : 'Esta película fue recomendada aleatoriamente.');
+        setTrace(messages);
+        setError("");
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchMovies();
+  }
+
 
   return (
     <div className="relative">
@@ -110,9 +136,18 @@ function App() {
           <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
               <img src="../public/almamaterw.png" className='alma-mater-icon' alt='uh' />
-              <form className="d-flex w-100" role="search">
-                <input className="form-control me-3 ms-3" type="search" placeholder="Search" aria-label="Search" />
-                <button className="btn btn-outline-light text-light" type="submit">Search</button>
+              <form className="d-flex w-100" role="search" onSubmit={searchMovies}>
+                <input
+                  className="form-control me-3 ms-3"
+                  type="search"
+                  placeholder="Search"
+                  aria-label="Search"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                />
+                <button className="btn btn-outline-light text-light" type="submit">
+                  Search
+                </button>
               </form>
             </div>
           </nav>

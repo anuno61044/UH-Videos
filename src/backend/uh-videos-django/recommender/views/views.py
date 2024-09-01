@@ -1,17 +1,17 @@
+from django.contrib.auth.models import User
 from rest_framework.permissions import IsAuthenticated
 from rest_framework_simplejwt.views import TokenViewBase
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework import status
-from django.contrib.auth.models import User
 from rest_framework.permissions import AllowAny
 from rest_framework import generics
-from .models import Movie, Rating, User
-from .serializers import MovieSerializer, RatingSerializer, UserSerializer
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.decorators import api_view, permission_classes
-from .recommender import get_recommendations  # función que debes crear
 from rest_framework_simplejwt.authentication import JWTAuthentication
+from ..serializers import MovieSerializer, RatingSerializer, UserSerializer
+from ..models import Movie, Rating, User
+from ..recommender import get_recommendations  # función que debes crear
 
 class MovieList(generics.ListCreateAPIView):
     queryset = Movie.objects.all()
