@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.]]></plot>
+  <outline><![CDATA[Desenmascara la verdad...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-17 17:23:29</dateadded>
+  <title>The Batman</title>
+  <originaltitle>The Batman</originaltitle>
+  <actor>
+    <name>Robert Pattinson</name>
+    <role>Bruce Wayne / The Batman</role>
+    <type>Actor</type>
+    <tmdbid>11288</tmdbid>
+    <imdbid>nm1500155</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Kravitz</name>
+    <role>Selina Kyle / Catwoman</role>
+    <type>Actor</type>
+    <tmdbid>37153</tmdbid>
+    <imdbid>nm2368789</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Dano</name>
+    <role>Edward Nashton / The Riddler</role>
+    <type>Actor</type>
+    <tmdbid>17142</tmdbid>
+    <imdbid>nm0200452</imdbid>
+    <tvdbid>296973</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Lt. James Gordon</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+    <tvdbid>273450</tvdbid>
+  </actor>
+  <actor>
+    <name>John Turturro</name>
+    <role>Carmine Falcone</role>
+    <type>Actor</type>
+    <tmdbid>1241</tmdbid>
+    <imdbid>nm0001806</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Sarsgaard</name>
+    <role>District Attorney Gil Colson</role>
+    <type>Actor</type>
+    <tmdbid>133</tmdbid>
+    <imdbid>nm0765597</imdbid>
+    <tvdbid>340663</tvdbid>
+  </actor>
+  <actor>
+    <name>Andy Serkis</name>
+    <role>Alfred Pennyworth</role>
+    <type>Actor</type>
+    <tmdbid>1333</tmdbid>
+    <imdbid>nm0785227</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>Oswald 'Oz' Cobblepot / The Penguin</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+    <tvdbid>310392</tvdbid>
+  </actor>
+  <actor>
+    <name>Jayme Lawson</name>
+    <role>Bella Reál</role>
+    <type>Actor</type>
+    <tmdbid>2455272</tmdbid>
+    <tvdbid>8160957</tvdbid>
+  </actor>
+  <actor>
+    <name>Gil Perez-Abraham</name>
+    <role>Officer Martinez</role>
+    <type>Actor</type>
+    <tmdbid>2193208</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter McDonald</name>
+    <role>Kenzie</role>
+    <type>Actor</type>
+    <tmdbid>73283</tmdbid>
+    <imdbid>nm0567945</imdbid>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Chief Mackenzie Bock</role>
+    <type>Actor</type>
+    <tmdbid>96279</tmdbid>
+    <imdbid>nm0642126</imdbid>
+    <tvdbid>449517</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Commissioner Pete Savage</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+    <tvdbid>351456</tvdbid>
+  </actor>
+  <actor>
+    <name>Rupert Penry-Jones</name>
+    <role>Mayor Don Mitchell, Jr.</role>
+    <type>Actor</type>
+    <tmdbid>42276</tmdbid>
+    <imdbid>nm0672303</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Carver</name>
+    <role>The Twins</role>
+    <type>Actor</type>
+    <tmdbid>452696</tmdbid>
+    <imdbid>nm3083350</imdbid>
+  </actor>
+  <actor>
+    <name>Max Carver</name>
+    <role>The Twins</role>
+    <type>Actor</type>
+    <tmdbid>215843</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Unseen Arkham Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+    <imdbid>nm4422686</imdbid>
+  </actor>
+  <actor>
+    <name>Kosha Engler</name>
+    <role>Mrs. Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>1159680</tmdbid>
+  </actor>
+  <actor>
+    <name>Archie Barnes</name>
+    <role>Mitchell's Son</role>
+    <type>Actor</type>
+    <tmdbid>2230419</tmdbid>
+  </actor>
+  <actor>
+    <name>Janine Harouni</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>1850089</tmdbid>
+  </actor>
+  <actor>
+    <name>Hana Hrzic</name>
+    <role>Annika</role>
+    <type>Actor</type>
+    <tmdbid>3450468</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Walker</name>
+    <role>Young Riddler</role>
+    <type>Actor</type>
+    <tmdbid>3454169</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Roberts</name>
+    <role>Thomas Wayne</role>
+    <type>Actor</type>
+    <tmdbid>214581</tmdbid>
+    <imdbid>nm1074361</imdbid>
+    <tvdbid>324061</tvdbid>
+  </actor>
+  <actor>
+    <name>Oscar Novak</name>
+    <role>Young Bruce Wayne</role>
+    <type>Actor</type>
+    <tmdbid>3429744</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Stocker</name>
+    <role>Martha Wayne</role>
+    <type>Actor</type>
+    <tmdbid>1562086</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Dickinson</name>
+    <role>Dory</role>
+    <type>Actor</type>
+    <tmdbid>176254</tmdbid>
+    <imdbid>nm0225549</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Bennett</name>
+    <role>Travis</role>
+    <type>Actor</type>
+    <tmdbid>2853426</tmdbid>
+  </actor>
+  <actor>
+    <name>Andre Nightingale</name>
+    <role>Ritchie</role>
+    <type>Actor</type>
+    <tmdbid>3455764</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard James-Neale</name>
+    <role>Glen</role>
+    <type>Actor</type>
+    <tmdbid>2171084</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Tai</name>
+    <role>Cheri</role>
+    <type>Actor</type>
+    <tmdbid>2992036</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Balderrama</name>
+    <role>Lead Detective</role>
+    <type>Actor</type>
+    <tmdbid>1477143</tmdbid>
+  </actor>
+  <actor>
+    <name>James Eeles</name>
+    <role>Another Officer</role>
+    <type>Actor</type>
+    <tmdbid>1951021</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Simon</name>
+    <role>Police Chief Hanrahan</role>
+    <type>Actor</type>
+    <tmdbid>1809625</tmdbid>
+    <imdbid>nm6078944</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Yeoh</name>
+    <role>Forensic Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2113544</tmdbid>
+  </actor>
+  <actor>
+    <name>Leemore Marrett Jr.</name>
+    <role>Muscle Cop</role>
+    <type>Actor</type>
+    <tmdbid>1649401</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezra Elliott</name>
+    <role>Tactical Medic</role>
+    <type>Actor</type>
+    <tmdbid>3195565</tmdbid>
+  </actor>
+  <actor>
+    <name>Itoya Osagiede</name>
+    <role>Hushed G.C.P.D. Detective</role>
+    <type>Actor</type>
+    <tmdbid>2535356</tmdbid>
+  </actor>
+  <actor>
+    <name>Stewart Alexander</name>
+    <role>FBI Leader</role>
+    <type>Actor</type>
+    <tmdbid>165359</tmdbid>
+    <imdbid>nm0991334</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Rojko Vega</name>
+    <role>SWAT (City Hall)</role>
+    <type>Actor</type>
+    <tmdbid>3263903</tmdbid>
+  </actor>
+  <actor>
+    <name>Heider Ali</name>
+    <role>Officer (City Hall)</role>
+    <type>Actor</type>
+    <tmdbid>2754713</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Onilude</name>
+    <role>Traffic Cop (City Hall)</role>
+    <type>Actor</type>
+    <tmdbid>1919372</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Saurel</name>
+    <role>Detective on Phone</role>
+    <type>Actor</type>
+    <tmdbid>2218975</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Kear</name>
+    <role>Surly Cop</role>
+    <type>Actor</type>
+    <tmdbid>1364950</tmdbid>
+  </actor>
+  <actor>
+    <name>Sid Sagar</name>
+    <role>Digital Forensics Cop</role>
+    <type>Actor</type>
+    <tmdbid>1821649</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Blake</name>
+    <role>Command Crisis Tech</role>
+    <type>Actor</type>
+    <tmdbid>2923050</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Boyce</name>
+    <role>Fire Marshall</role>
+    <type>Actor</type>
+    <tmdbid>17354</tmdbid>
+    <imdbid>nm0101668</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Bassir</name>
+    <role>Young Officer</role>
+    <type>Actor</type>
+    <tmdbid>3455774</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Austin</name>
+    <role>Traffic Cop</role>
+    <type>Actor</type>
+    <tmdbid>2465566</tmdbid>
+  </actor>
+  <actor>
+    <name>Chabris Napier-Lawrence</name>
+    <role>Cop (Mayor's Memorial)</role>
+    <type>Actor</type>
+    <tmdbid>2509946</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Russell</name>
+    <role>Bitter Nobody</role>
+    <type>Actor</type>
+    <tmdbid>119095</tmdbid>
+    <imdbid>nm1245691</imdbid>
+  </actor>
+  <actor>
+    <name>Phil Aizlewood</name>
+    <role>Falcone Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>2620494</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Killeen</name>
+    <role>Vinnie</role>
+    <type>Actor</type>
+    <tmdbid>142290</tmdbid>
+    <imdbid>nm2075330</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Shaun McGuinness</name>
+    <role>Elevator Guard</role>
+    <type>Actor</type>
+    <tmdbid>2207307</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorna Brown</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1278554</tmdbid>
+    <imdbid>nm0114132</imdbid>
+  </actor>
+  <actor>
+    <name>Elliot Warren</name>
+    <role>Train Gang Leader</role>
+    <type>Actor</type>
+    <tmdbid>2451441</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Lycurgo</name>
+    <role>Young Train Gang Member</role>
+    <type>Actor</type>
+    <tmdbid>2588506</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Race</name>
+    <role>Train Gang Member #1</role>
+    <type>Actor</type>
+    <tmdbid>2900958</tmdbid>
+  </actor>
+  <actor>
+    <name>Elijah Baker</name>
+    <role>Train Gang Member #2</role>
+    <type>Actor</type>
+    <tmdbid>1402889</tmdbid>
+  </actor>
+  <actor>
+    <name>Craige Middleburg</name>
+    <role>Train Gang Member #3</role>
+    <type>Actor</type>
+    <tmdbid>2919395</tmdbid>
+  </actor>
+  <actor>
+    <name>Akie Kotabe</name>
+    <role>Lone Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1322309</tmdbid>
+    <imdbid>nm2009056</imdbid>
+  </actor>
+  <actor>
+    <name>Spike Fearn</name>
+    <role>Vandal</role>
+    <type>Actor</type>
+    <tmdbid>2304140</tmdbid>
+  </actor>
+  <actor>
+    <name>Urielle Klein-Mekongo</name>
+    <role>Cashier</role>
+    <type>Actor</type>
+    <tmdbid>3455782</tmdbid>
+  </actor>
+  <actor>
+    <name>Bronson Webb</name>
+    <role>Hooded Gunman</role>
+    <type>Actor</type>
+    <tmdbid>75076</tmdbid>
+    <imdbid>nm0916037</imdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Gray</name>
+    <role>Injured Woman</role>
+    <type>Actor</type>
+    <tmdbid>3455784</tmdbid>
+  </actor>
+  <actor>
+    <name>Ste Johnston</name>
+    <role>Paparazzi</role>
+    <type>Actor</type>
+    <tmdbid>1464451</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Lee</name>
+    <role>Paparazzo</role>
+    <type>Actor</type>
+    <tmdbid>1422743</tmdbid>
+  </actor>
+  <actor>
+    <name>Parry Glasspool</name>
+    <role>Scared Drophead</role>
+    <type>Actor</type>
+    <tmdbid>1509991</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Coulson</name>
+    <role>Man in Suit</role>
+    <type>Actor</type>
+    <tmdbid>1656814</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadas Gold</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>3455793</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Battle</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>1813108</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Cuza</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>3455794</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Meminger</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>3353044</tmdbid>
+  </actor>
+  <actor>
+    <name>Roma Torre</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>162555</tmdbid>
+    <imdbid>nm0868405</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Cappozola</name>
+    <role>Mediator</role>
+    <type>Actor</type>
+    <tmdbid>2127389</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Hurwitz</name>
+    <role>Counterwoman</role>
+    <type>Actor</type>
+    <tmdbid>2093789</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Eldridge-Smith</name>
+    <role>Patrol Cop</role>
+    <type>Actor</type>
+    <tmdbid>3255777</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Rainford</name>
+    <role>Suspicious Man</role>
+    <type>Actor</type>
+    <tmdbid>3455797</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Armin</name>
+    <role>ATF Leader</role>
+    <type>Actor</type>
+    <tmdbid>1676637</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Palma</name>
+    <role>Command Post #1</role>
+    <type>Actor</type>
+    <tmdbid>2486147</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazeem Tosin Amore</name>
+    <role>Command Post #2</role>
+    <type>Actor</type>
+    <tmdbid>3455800</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrig Andrisan</name>
+    <role>Funeral VIP (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1826757</tmdbid>
+  </actor>
+  <director tmdbid="32278" imdbid="nm0716257">Matt Reeves</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L6DEcPaNdLs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IqRRLA6pZvo</trailer>
+  <rating>7.8</rating>
+  <year>2022</year>
+  <sorttitle>Batman</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1877830</imdbid>
+  <tmdbid>414906</tmdbid>
+  <premiered>2022-03-01</premiered>
+  <releasedate>2022-03-01</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>176</runtime>
+  <tagline>Desenmascara la verdad...</tagline>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>6th &amp; Idaho</studio>
+  <studio>Dylan Clark Productions</studio>
+  <studio>DC Films</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <set tmdbcolid="948485">
+    <name>The Batman Collection</name>
+  </set>
+  <uniqueid type="imdb">tt1877830</uniqueid>
+  <uniqueid type="tmdb">414906</uniqueid>
+  <id>tt1877830</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>613021</bitrate>
+        <width>1280</width>
+        <height>560</height>
+        <aspect>4064:1785</aspect>
+        <aspectratio>4064:1785</aspectratio>
+        <framerate>29.969908</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>176</duration>
+        <durationinseconds>10571</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Four friends, all high school teachers, test a theory that they will improve their lives by maintaining a constant level of alcohol in their blood.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-22 08:33:07</dateadded>
+  <title>Another Round</title>
+  <originaltitle>Druk</originaltitle>
+  <actor>
+    <name>Mads Mikkelsen</name>
+    <type>Actor</type>
+    <tmdbid>1019</tmdbid>
+    <imdbid>nm0586568</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Bo Larsen</name>
+    <type>Actor</type>
+    <tmdbid>4457</tmdbid>
+    <imdbid>nm0488917</imdbid>
+  </actor>
+  <actor>
+    <name>Magnus Millang</name>
+    <type>Actor</type>
+    <tmdbid>1438708</tmdbid>
+    <imdbid>nm2099237</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Ranthe</name>
+    <type>Actor</type>
+    <tmdbid>588175</tmdbid>
+    <imdbid>nm1046521</imdbid>
+  </actor>
+  <director tmdbid="4453" imdbid="nm0899121">Thomas Vinterberg</director>
+  <writer>Thomas Vinterberg (screenplay)</writer>
+  <writer>Tobias Lindholm (screenplay)</writer>
+  <credits>Thomas Vinterberg (screenplay)</credits>
+  <credits>Tobias Lindholm (screenplay)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PbMZ6KprSI4</trailer>
+  <rating>7.7</rating>
+  <year>2020</year>
+  <sorttitle>Another Round</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt10288566</imdbid>
+  <tmdbid>580175</tmdbid>
+  <premiered>2020-09-24</premiered>
+  <releasedate>2020-09-24</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>117</runtime>
+  <country>Denmark</country>
+  <country>Netherlands</country>
+  <country>Sweden</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Det Danske Filminstitut</studio>
+  <studio>Film i Väst</studio>
+  <studio>Nederlands Filmfonds</studio>
+  <studio>Netherlands Film Production Incentive</studio>
+  <studio>Media Programme of the European Community</studio>
+  <studio>Svenska Filminstitutet</studio>
+  <studio>Topkapi Films</studio>
+  <studio>TV 2</studio>
+  <studio>Zentropa International Netherlands</studio>
+  <studio>Zentropa International Sweden</studio>
+  <studio>Zentropa Productions 2</studio>
+  <studio>Eurimages</studio>
+  <uniqueid type="imdb">tt10288566</uniqueid>
+  <uniqueid type="tmdb">580175</uniqueid>
+  <id>tt10288566</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100037</bitrate>
+        <width>720</width>
+        <height>362</height>
+        <aspect>61200:30607</aspect>
+        <aspectratio>61200:30607</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6991</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

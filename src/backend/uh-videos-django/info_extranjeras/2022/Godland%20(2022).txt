@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A finales del siglo XIX, un joven sacerdote danés viaja a un lugar remoto de Islandia para construir una iglesia y fotografiar a su gente. Pero cuanto más se adentra en el paisaje implacable, más se aleja de su propósito, la misión y la moralidad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-06 09:58:19</dateadded>
+  <title>Godland</title>
+  <originaltitle>Vanskabte land</originaltitle>
+  <actor>
+    <name>Elliott Crosset Hove</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>1357455</tmdbid>
+  </actor>
+  <actor>
+    <name>Vic Carmen Sonne</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1141086</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvar E. Sigurðsson</name>
+    <role>Ragnar</role>
+    <type>Actor</type>
+    <tmdbid>55584</tmdbid>
+    <imdbid>nm0797614</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Ulrik Lohmann</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>1433475</tmdbid>
+    <imdbid>nm1315040</imdbid>
+  </actor>
+  <actor>
+    <name>Ída Mekkín Hlynsdóttir</name>
+    <role>Ida</role>
+    <type>Actor</type>
+    <tmdbid>2294554</tmdbid>
+  </actor>
+  <actor>
+    <name>Waage Sandø</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>927700</tmdbid>
+  </actor>
+  <actor>
+    <name>Hilmar Guðjónsson</name>
+    <role>Translator</role>
+    <type>Actor</type>
+    <tmdbid>1061943</tmdbid>
+  </actor>
+  <actor>
+    <name>Friðrik Friðriksson</name>
+    <role>Friðrik</role>
+    <type>Actor</type>
+    <tmdbid>1184510</tmdbid>
+  </actor>
+  <actor>
+    <name>Gunnar Bragi Þorsteinsson</name>
+    <role>Gunnar</role>
+    <type>Actor</type>
+    <tmdbid>3563346</tmdbid>
+  </actor>
+  <actor>
+    <name>Guðmundur Samúelsson</name>
+    <role>Accordion player</role>
+    <type>Actor</type>
+    <tmdbid>3563348</tmdbid>
+  </actor>
+  <actor>
+    <name>Snæbjörg Guðmundsdóttir</name>
+    <role>Snæsa</role>
+    <type>Actor</type>
+    <tmdbid>3563350</tmdbid>
+  </actor>
+  <actor>
+    <name>Birta Maria Gunnarsdottir</name>
+    <role>Young bride</role>
+    <type>Actor</type>
+    <tmdbid>3169332</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingimundur Grétarsson</name>
+    <role>Postman</role>
+    <type>Actor</type>
+    <tmdbid>3563353</tmdbid>
+  </actor>
+  <actor>
+    <name>Friðrik Hrafn Reynisson</name>
+    <role>Frikki</role>
+    <type>Actor</type>
+    <tmdbid>3563354</tmdbid>
+  </actor>
+  <actor>
+    <name>Ísar Svan Gautason</name>
+    <role>Young groom</role>
+    <type>Actor</type>
+    <tmdbid>3563355</tmdbid>
+  </actor>
+  <director tmdbid="1292227">Hlynur Pálmason</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pP16FDePPrA</trailer>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>Godland</sorttitle>
+  <imdbid>tt19623228</imdbid>
+  <tmdbid>960206</tmdbid>
+  <premiered>2022-12-01</premiered>
+  <releasedate>2022-12-01</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>143</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Iceland</country>
+  <country>Sweden</country>
+  <genre>Drama</genre>
+  <studio>Maneki Films</studio>
+  <studio>Snowglobe</studio>
+  <studio>Join Motion Pictures</studio>
+  <studio>Film i Väst</studio>
+  <studio>Garagefilm International</studio>
+  <uniqueid type="tmdb">960206</uniqueid>
+  <uniqueid type="imdb">tt19623228</uniqueid>
+  <id>tt19623228</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100029</bitrate>
+        <width>524</width>
+        <height>400</height>
+        <aspect>1048403:801816</aspect>
+        <aspectratio>1048403:801816</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8553</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>mul</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

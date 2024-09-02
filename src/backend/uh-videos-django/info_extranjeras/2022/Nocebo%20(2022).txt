@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A fashion designer hires a nanny from the Philippines to assist her in caring for her family while she is suffering from what she believes is a tick-related illness. The nanny uses traditional Filipino folk healing techniques to help her, but in the process of doing so, she uncovers a horrifying truth about why she is there and why her employer is actually sick.]]></plot>
+  <outline><![CDATA[La cordura pende de un hilo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-23 09:00:50</dateadded>
+  <title>Nocebo</title>
+  <originaltitle>Nocebo</originaltitle>
+  <actor>
+    <name>Eva Green</name>
+    <role>Christine</role>
+    <type>Actor</type>
+    <tmdbid>10912</tmdbid>
+    <imdbid>nm1200692</imdbid>
+    <tvdbid>327300</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Strong</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>2983</tmdbid>
+    <imdbid>nm0835016</imdbid>
+    <tvdbid>301469</tvdbid>
+  </actor>
+  <actor>
+    <name>Chai Fonacier</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>1494902</tmdbid>
+  </actor>
+  <actor>
+    <name>Billie Gadsdon</name>
+    <role>Bobs</role>
+    <type>Actor</type>
+    <tmdbid>2607591</tmdbid>
+  </actor>
+  <actor>
+    <name>Cathy Belton</name>
+    <role>Liz</role>
+    <type>Actor</type>
+    <tmdbid>63359</tmdbid>
+    <imdbid>nm0069580</imdbid>
+  </actor>
+  <director tmdbid="1284692" imdbid="nm2705923">Lorcan Finnegan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=09CnuYQe1fI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ah63s3fKung</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Nocebo</sorttitle>
+  <imdbid>tt11212572</imdbid>
+  <tmdbid>782936</tmdbid>
+  <premiered>2022-11-03</premiered>
+  <releasedate>2022-11-03</releasedate>
+  <criticrating>65</criticrating>
+  <runtime>97</runtime>
+  <tagline>La cordura pende de un hilo.</tagline>
+  <country>Ireland</country>
+  <country>Philippines</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Lovely Productions</studio>
+  <studio>Wild Swim Films</studio>
+  <studio>Epicmedia Productions Inc</studio>
+  <uniqueid type="imdb">tt11212572</uniqueid>
+  <uniqueid type="tmdb">782936</uniqueid>
+  <id>tt11212572</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>908183</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5841</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

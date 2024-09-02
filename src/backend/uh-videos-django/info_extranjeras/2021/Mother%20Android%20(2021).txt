@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Georgia y su novio Sam emprenden un viaje traicionero para escapar de su país, que está atrapado en una guerra inesperada con la inteligencia artificial. Días antes de la llegada de su primer hijo, la pareja debe enfrentarse a la Tierra de Nadie, un bastión del levantamiento de los androides, con la esperanza de llegar a un lugar seguro antes de dar a luz.]]></plot>
+  <outline><![CDATA[Madre - Androide]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-17 07:50:02</dateadded>
+  <title>Madre/Androide</title>
+  <originaltitle>Mother/Android</originaltitle>
+  <actor>
+    <name>Chloë Grace Moretz</name>
+    <role>Georgia</role>
+    <type>Actor</type>
+    <tmdbid>56734</tmdbid>
+    <imdbid>nm1631269</imdbid>
+    <tvdbid>327302</tvdbid>
+  </actor>
+  <actor>
+    <name>Algee Smith</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>1377458</tmdbid>
+    <imdbid>nm4861346</imdbid>
+    <tvdbid>464868</tvdbid>
+  </actor>
+  <actor>
+    <name>Raúl Castillo</name>
+    <role>Arthur</role>
+    <type>Actor</type>
+    <tmdbid>557579</tmdbid>
+    <imdbid>nm1950004</imdbid>
+  </actor>
+  <actor>
+    <name>Kiara Pichardo</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>2864859</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Wahlberg</name>
+    <role>Derrick</role>
+    <type>Actor</type>
+    <tmdbid>1730745</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Reinfeldt</name>
+    <role>Connor</role>
+    <type>Actor</type>
+    <tmdbid>2880993</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Thorne</name>
+    <role>Eli</role>
+    <type>Actor</type>
+    <tmdbid>3359764</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon F. Merz</name>
+    <role>Mr. Olson</role>
+    <type>Actor</type>
+    <tmdbid>2952598</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamara Hickey</name>
+    <role>Mrs Olsen</role>
+    <type>Actor</type>
+    <tmdbid>1456292</tmdbid>
+    <imdbid>nm0382671</imdbid>
+  </actor>
+  <actor>
+    <name>Linnea Gardner</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>3042336</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian J. Mallen</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>1730744</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam McNeill</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1508817</tmdbid>
+    <imdbid>nm3615212</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Bowen</name>
+    <role>Boston Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1648753</tmdbid>
+  </actor>
+  <actor>
+    <name>Hana Kim</name>
+    <role>Korean Official</role>
+    <type>Actor</type>
+    <tmdbid>3375286</tmdbid>
+  </actor>
+  <actor>
+    <name>Benz Veal</name>
+    <role>Patrol</role>
+    <type>Actor</type>
+    <tmdbid>1863666</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Lyman</name>
+    <role>Captain</role>
+    <type>Actor</type>
+    <tmdbid>163671</tmdbid>
+    <imdbid>nm0528164</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Burke</name>
+    <role>Officer Norton</role>
+    <type>Actor</type>
+    <tmdbid>133068</tmdbid>
+    <imdbid>nm4024978</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Avallone</name>
+    <role>Dr. Howe</role>
+    <type>Actor</type>
+    <tmdbid>1456324</tmdbid>
+  </actor>
+  <actor>
+    <name>Celeste Oliva</name>
+    <role>Boston Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1139812</tmdbid>
+    <imdbid>nm0646496</imdbid>
+  </actor>
+  <actor>
+    <name>David Pridemore</name>
+    <role>Desperate Man</role>
+    <type>Actor</type>
+    <tmdbid>2575651</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve M. Robertson</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>3230243</tmdbid>
+  </actor>
+  <actor>
+    <name>John Bucy</name>
+    <role>Young Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2910171</tmdbid>
+  </actor>
+  <actor>
+    <name>Adobuere Ebiama</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3059036</tmdbid>
+  </actor>
+  <actor>
+    <name>Eumi Ahn</name>
+    <role>Korean Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3372965</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Guns Alves</name>
+    <role>Guy with Shotgun</role>
+    <type>Actor</type>
+    <tmdbid>1849970</tmdbid>
+  </actor>
+  <director tmdbid="1823051">Mattson Tomlin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JRl214mDZ-g</trailer>
+  <rating>4.9</rating>
+  <year>2021</year>
+  <sorttitle>Madre/Androide</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13029044</imdbid>
+  <tmdbid>739413</tmdbid>
+  <premiered>2021-12-17</premiered>
+  <releasedate>2021-12-17</releasedate>
+  <criticrating>33</criticrating>
+  <runtime>110</runtime>
+  <tagline>Madre - Androide</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <studio>Miramax</studio>
+  <studio>6th &amp; Idaho</studio>
+  <uniqueid type="imdb">tt13029044</uniqueid>
+  <uniqueid type="tmdb">739413</uniqueid>
+  <id>tt13029044</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1012693</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6600</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

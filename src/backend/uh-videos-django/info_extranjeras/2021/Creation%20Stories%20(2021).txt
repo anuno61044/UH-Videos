@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La verdadera historia del ascenso y caída de Creation Records y su infame fundador Alan McGee; el hombre responsable de suministrar la banda sonora del “Brit Pop” a los 90, una década de renacimiento cultural conocida como Cool Britannia. Desde sus humildes comienzos hasta las veladas de Downing Street, desde eludir a alguaciles hasta el lanzamiento de álbumes multiplatino, Creation lo tenía todo. Rupturas, quiebras, peleas y amistades… y sin olvidar la música. Con algunos de los mejores discos que hayas escuchado, seguimos a Alan a través de una neblina de música y caos alimentada por las drogas, mientras su sueño de rock'n'roll trae al mundo a Oasis, Primal Scream y otras bandas que definen una generación.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-01-01 07:54:11</dateadded>
+  <title>Creation Stories</title>
+  <originaltitle>Creation Stories</originaltitle>
+  <actor>
+    <name>Ewen Bremner</name>
+    <role>Alan McGee</role>
+    <type>Actor</type>
+    <tmdbid>1125</tmdbid>
+    <imdbid>nm0001971</imdbid>
+    <tvdbid>447601</tvdbid>
+  </actor>
+  <actor>
+    <name>Suki Waterhouse</name>
+    <role>Gemma</role>
+    <type>Actor</type>
+    <tmdbid>1325961</tmdbid>
+    <imdbid>nm4025229</imdbid>
+    <tvdbid>307173</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard Jobson</name>
+    <role>John McGee</role>
+    <type>Actor</type>
+    <tmdbid>129825</tmdbid>
+  </actor>
+  <actor>
+    <name>Seána Kerslake</name>
+    <role>Yvonne</role>
+    <type>Actor</type>
+    <tmdbid>1007679</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Flanagan</name>
+    <role>Young Alan</role>
+    <type>Actor</type>
+    <tmdbid>1400708</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Murphy</name>
+    <role>Kate Holmes</role>
+    <type>Actor</type>
+    <tmdbid>1356630</tmdbid>
+    <imdbid>nm3647676</imdbid>
+    <tvdbid>8172813</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Flemyng</name>
+    <role>King Tuts Promoter</role>
+    <type>Actor</type>
+    <tmdbid>973</tmdbid>
+    <imdbid>nm0002076</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Isaacs</name>
+    <role>Ralph</role>
+    <type>Actor</type>
+    <tmdbid>11355</tmdbid>
+    <imdbid>nm0005042</imdbid>
+    <tvdbid>346159</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Turgoose</name>
+    <role>Dick Green</role>
+    <type>Actor</type>
+    <tmdbid>70517</tmdbid>
+    <imdbid>nm2129938</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Socha</name>
+    <role>Joe Foster</role>
+    <type>Actor</type>
+    <tmdbid>126171</tmdbid>
+    <imdbid>nm2523072</imdbid>
+  </actor>
+  <actor>
+    <name>Mel Raido</name>
+    <role>Ed Ball</role>
+    <type>Actor</type>
+    <tmdbid>76943</tmdbid>
+    <imdbid>nm0706842</imdbid>
+    <tvdbid>417489</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Kaye</name>
+    <role>Mitch</role>
+    <type>Actor</type>
+    <tmdbid>71281</tmdbid>
+    <imdbid>nm0443373</imdbid>
+    <tvdbid>247863</tvdbid>
+  </actor>
+  <actor>
+    <name>Joseph Millson</name>
+    <role>Peter Mandelson</role>
+    <type>Actor</type>
+    <tmdbid>1190069</tmdbid>
+    <imdbid>nm0590243</imdbid>
+  </actor>
+  <actor>
+    <name>Ade</name>
+    <role>Hercules</role>
+    <type>Actor</type>
+    <tmdbid>2627</tmdbid>
+    <imdbid>nm0011744</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Berkoff</name>
+    <role>Aleister Crowley</role>
+    <type>Actor</type>
+    <tmdbid>782</tmdbid>
+    <imdbid>nm0000925</imdbid>
+  </actor>
+  <actor>
+    <name>Kirsty Mitchell</name>
+    <role>Susan McGee</role>
+    <type>Actor</type>
+    <tmdbid>49812</tmdbid>
+  </actor>
+  <actor>
+    <name>Mickey Gooch Jr.</name>
+    <role>Rich - L.A. Dealer</role>
+    <type>Actor</type>
+    <tmdbid>1719586</tmdbid>
+  </actor>
+  <actor>
+    <name>Irvine Welsh</name>
+    <role>Titch</role>
+    <type>Actor</type>
+    <tmdbid>8998</tmdbid>
+  </actor>
+  <actor>
+    <name>Alistair McGowan</name>
+    <role>Jimmy Savile</role>
+    <type>Actor</type>
+    <tmdbid>89706</tmdbid>
+    <imdbid>nm0569607</imdbid>
+  </actor>
+  <actor>
+    <name>James Payton</name>
+    <role>Tony Blair</role>
+    <type>Actor</type>
+    <tmdbid>1387292</tmdbid>
+    <imdbid>nm1246512</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Barât</name>
+    <role>Griff</role>
+    <type>Actor</type>
+    <tmdbid>1071578</tmdbid>
+  </actor>
+  <actor>
+    <name>Rori Hawthorn</name>
+    <role>Laura McGee</role>
+    <type>Actor</type>
+    <tmdbid>2979530</tmdbid>
+  </actor>
+  <actor>
+    <name>Tess Rowe</name>
+    <role>Nanna Barr</role>
+    <type>Actor</type>
+    <tmdbid>1687432</tmdbid>
+  </actor>
+  <actor>
+    <name>Ciaran Lawless</name>
+    <role>Bobby Gillespie</role>
+    <type>Actor</type>
+    <tmdbid>2979532</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Paterson</name>
+    <role>Andrew Innes</role>
+    <type>Actor</type>
+    <tmdbid>2979533</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerry Knotts</name>
+    <role>Bobby’s Dad</role>
+    <type>Actor</type>
+    <tmdbid>2979534</tmdbid>
+  </actor>
+  <actor>
+    <name>James Hicks</name>
+    <role>Murray</role>
+    <type>Actor</type>
+    <tmdbid>96281</tmdbid>
+    <imdbid>nm0382866</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Dunlea</name>
+    <role>Marc Jardin</role>
+    <type>Actor</type>
+    <tmdbid>2829428</tmdbid>
+  </actor>
+  <actor>
+    <name>Elysia Welch</name>
+    <role>Monika</role>
+    <type>Actor</type>
+    <tmdbid>2074180</tmdbid>
+  </actor>
+  <actor>
+    <name>Theren Raufman</name>
+    <role>Martin - Record Shop Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2979541</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Gallagher</name>
+    <role>Pub Landlord</role>
+    <type>Actor</type>
+    <tmdbid>1704495</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Grant</name>
+    <role>Dan Treacy</role>
+    <type>Actor</type>
+    <tmdbid>179480</tmdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Redmond</name>
+    <role>Barbara McGee</role>
+    <type>Actor</type>
+    <tmdbid>992504</tmdbid>
+    <imdbid>nm0715093</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Marshall</name>
+    <role>Bobby Gillespie</role>
+    <type>Actor</type>
+    <tmdbid>2979551</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Feys</name>
+    <role>Dutch Interviewer</role>
+    <type>Actor</type>
+    <tmdbid>1036040</tmdbid>
+    <imdbid>nm0275513</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Arnold</name>
+    <role>Jim Reid</role>
+    <type>Actor</type>
+    <tmdbid>2979560</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Durkan</name>
+    <role>Will Reid</role>
+    <type>Actor</type>
+    <tmdbid>2127250</tmdbid>
+  </actor>
+  <actor>
+    <name>Rufus Jones</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>429541</tmdbid>
+    <imdbid>nm1257480</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Dillon</name>
+    <role>Debt Collector 1</role>
+    <type>Actor</type>
+    <tmdbid>2979567</tmdbid>
+  </actor>
+  <actor>
+    <name>Orian Williams</name>
+    <role>Debt Collector 2</role>
+    <type>Actor</type>
+    <tmdbid>45054</tmdbid>
+  </actor>
+  <actor>
+    <name>Saskia Reeves</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>13363</tmdbid>
+    <imdbid>nm0716293</imdbid>
+    <tvdbid>380189</tvdbid>
+  </actor>
+  <actor>
+    <name>Joanna Pickering</name>
+    <role>Mary</role>
+    <type>Actor</type>
+    <tmdbid>1609792</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Devine</name>
+    <role>Biker</role>
+    <type>Actor</type>
+    <tmdbid>2979570</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Ashton</name>
+    <role>Kevin Shields</role>
+    <type>Actor</type>
+    <tmdbid>2979572</tmdbid>
+  </actor>
+  <actor>
+    <name>Davey Logan</name>
+    <role>Loan Shark</role>
+    <type>Actor</type>
+    <tmdbid>2375527</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Palmiero</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1223216</tmdbid>
+    <imdbid>nm1614665</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Frenchum</name>
+    <role>Cop 1</role>
+    <type>Actor</type>
+    <tmdbid>2979579</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark 'Bez' Berry</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>1469794</tmdbid>
+  </actor>
+  <actor>
+    <name>Maiko Takeda</name>
+    <role>Japanese Tourist No. 1</role>
+    <type>Actor</type>
+    <tmdbid>2979581</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Sayuri Hare</name>
+    <role>Japanese Tourist No. 2</role>
+    <type>Actor</type>
+    <tmdbid>1988047</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Zylberszac</name>
+    <role>Black Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>2979582</tmdbid>
+  </actor>
+  <actor>
+    <name>Iain Stuart Robinson</name>
+    <role>Glasgow Train Guard</role>
+    <type>Actor</type>
+    <tmdbid>2979583</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Abbott</name>
+    <role>Heckler</role>
+    <type>Actor</type>
+    <tmdbid>2979585</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Harvey-Elledge</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2979587</tmdbid>
+  </actor>
+  <actor>
+    <name>James McClelland</name>
+    <role>Noel Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2401567</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Howley</name>
+    <role>Young LA Man</role>
+    <type>Actor</type>
+    <tmdbid>2979589</tmdbid>
+  </actor>
+  <actor>
+    <name>James Frecheville</name>
+    <role>Troy</role>
+    <type>Actor</type>
+    <tmdbid>968863</tmdbid>
+    <imdbid>nm3306943</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Robinson</name>
+    <role>Della</role>
+    <type>Actor</type>
+    <tmdbid>2403390</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny John-Jules</name>
+    <role>Maurice</role>
+    <type>Actor</type>
+    <tmdbid>115787</tmdbid>
+    <imdbid>nm0424253</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Root</name>
+    <role>Vicky</role>
+    <type>Actor</type>
+    <tmdbid>1631710</tmdbid>
+    <tvdbid>375835</tvdbid>
+  </actor>
+  <actor>
+    <name>Clint Dyer</name>
+    <role>Counsellor</role>
+    <type>Actor</type>
+    <tmdbid>109383</tmdbid>
+    <imdbid>nm0245699</imdbid>
+  </actor>
+  <actor>
+    <name>Brix Smith-Start</name>
+    <role>Young Woman Patient</role>
+    <type>Actor</type>
+    <tmdbid>1563379</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Benson</name>
+    <role>Mickey - Drug Dealer</role>
+    <type>Actor</type>
+    <tmdbid>59076</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Moran</name>
+    <role>Malcolm McLaren</role>
+    <type>Actor</type>
+    <tmdbid>975</tmdbid>
+    <imdbid>nm0602941</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Byrne</name>
+    <role>Alistair Campbell</role>
+    <type>Actor</type>
+    <tmdbid>95664</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia O'Loughlin</name>
+    <role>Female Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1945729</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Kissane</name>
+    <role>Cherie Blair</role>
+    <type>Actor</type>
+    <tmdbid>2979607</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Powell</name>
+    <role>Floor Manager</role>
+    <type>Actor</type>
+    <tmdbid>997846</tmdbid>
+    <imdbid>nm4514452</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Morris</name>
+    <role>Jealous Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>2189085</tmdbid>
+  </actor>
+  <director tmdbid="975" imdbid="nm0602941">Nick Moran</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DQKB0TOyKqA</trailer>
+  <rating>6.1</rating>
+  <year>2021</year>
+  <sorttitle>Creation Stories</sorttitle>
+  <imdbid>tt5693182</imdbid>
+  <tmdbid>624793</tmdbid>
+  <premiered>2021-04-15</premiered>
+  <releasedate>2021-04-15</releasedate>
+  <criticrating>61</criticrating>
+  <runtime>112</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Música</genre>
+  <studio>Burning Wheel Productions</studio>
+  <studio>Head Gear Films</studio>
+  <studio>Metrol Technology</studio>
+  <studio>Carte Blanche</studio>
+  <uniqueid type="tmdb">624793</uniqueid>
+  <uniqueid type="imdb">tt5693182</uniqueid>
+  <id>tt5693182</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1150016</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6738</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129445</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

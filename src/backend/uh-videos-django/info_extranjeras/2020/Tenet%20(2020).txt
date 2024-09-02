@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.]]></plot>
+  <outline><![CDATA[El tiempo se acaba]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-30 08:45:50</dateadded>
+  <title>Tenet</title>
+  <originaltitle>Tenet</originaltitle>
+  <actor>
+    <name>Juhan Ulfsak</name>
+    <type>Actor</type>
+    <tmdbid>137489</tmdbid>
+    <imdbid>nm1798449</imdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Hall</name>
+    <type>Actor</type>
+    <tmdbid>109322</tmdbid>
+    <imdbid>nm2131630</imdbid>
+  </actor>
+  <actor>
+    <name>Ivo Uukkivi</name>
+    <type>Actor</type>
+    <tmdbid>137447</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Howard</name>
+    <type>Actor</type>
+    <tmdbid>67206</tmdbid>
+    <imdbid>nm0397110</imdbid>
+  </actor>
+  <director tmdbid="525" imdbid="nm0634240">Christopher Nolan</director>
+  <writer tmdbid="525" imdbid="nm0634240">Christopher Nolan</writer>
+  <credits tmdbid="525" imdbid="nm0634240">Christopher Nolan</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9UfIRXjoO3I</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=elx3S6patss</trailer>
+  <rating>7.3</rating>
+  <year>2020</year>
+  <sorttitle>Tenet</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6723592</imdbid>
+  <tmdbid>577922</tmdbid>
+  <premiered>2020-08-22</premiered>
+  <releasedate>2020-08-22</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>150</runtime>
+  <tagline>El tiempo se acaba</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Syncopy</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="imdb">tt6723592</uniqueid>
+  <uniqueid type="tmdb">577922</uniqueid>
+  <id>tt6723592</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1693987</bitrate>
+        <width>720</width>
+        <height>320</height>
+        <aspect>9:4</aspect>
+        <aspectratio>9:4</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>149</duration>
+        <durationinseconds>8984</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

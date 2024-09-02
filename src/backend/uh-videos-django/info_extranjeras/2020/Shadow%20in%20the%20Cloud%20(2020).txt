@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A female WWII pilot traveling with top secret documents on a B-17 Flying Fortress encounters an evil presence on board the flight.]]></plot>
+  <outline><![CDATA[Toda misión tiene sus demonios.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-04 09:56:42</dateadded>
+  <title>Shadow in the Cloud</title>
+  <originaltitle>Shadow in the Cloud</originaltitle>
+  <actor>
+    <name>Chloë Grace Moretz</name>
+    <type>Actor</type>
+    <tmdbid>56734</tmdbid>
+    <imdbid>nm1631269</imdbid>
+    <tvdbid>327302</tvdbid>
+  </actor>
+  <actor>
+    <name>Nick Robinson</name>
+    <type>Actor</type>
+    <tmdbid>1108907</tmdbid>
+    <imdbid>nm3538718</imdbid>
+    <tvdbid>293549</tvdbid>
+  </actor>
+  <actor>
+    <name>Beulah Koale</name>
+    <type>Actor</type>
+    <tmdbid>1397346</tmdbid>
+    <imdbid>nm3872230</imdbid>
+    <tvdbid>512660</tvdbid>
+  </actor>
+  <actor>
+    <name>Taylor John Smith</name>
+    <type>Actor</type>
+    <tmdbid>1369329</tmdbid>
+    <imdbid>nm4973896</imdbid>
+    <tvdbid>480301</tvdbid>
+  </actor>
+  <director tmdbid="1123897" imdbid="nm1755396">Roseanne Liang</director>
+  <writer>Max Landis</writer>
+  <writer tmdbid="1123897" imdbid="nm1755396">Roseanne Liang</writer>
+  <credits>Max Landis</credits>
+  <credits tmdbid="1123897" imdbid="nm1755396">Roseanne Liang</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5I87j_0DOyc</trailer>
+  <rating>5</rating>
+  <year>2021</year>
+  <sorttitle>Shadow in the Cloud</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9691136</imdbid>
+  <tmdbid>675327</tmdbid>
+  <premiered>2021-01-01</premiered>
+  <releasedate>2021-01-01</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>83</runtime>
+  <tagline>Toda misión tiene sus demonios.</tagline>
+  <country>New Zealand</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Horror</genre>
+  <genre>War</genre>
+  <studio>Four Knights Film</studio>
+  <studio>Rhea Films</studio>
+  <studio>Automatik Entertainment</studio>
+  <studio>Endeavor Content</studio>
+  <studio>Vertical Entertainment</studio>
+  <studio>Redbox Entertainment</studio>
+  <uniqueid type="imdb">tt9691136</uniqueid>
+  <uniqueid type="tmdb">675327</uniqueid>
+  <id>tt9691136</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1334624</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>5003</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

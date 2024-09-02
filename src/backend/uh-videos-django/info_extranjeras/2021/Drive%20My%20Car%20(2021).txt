@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'TÃ­o Vania' en un festival de Hiroshima. AllÃ­, conoce a Misaki, una joven reservada que le han asignado como chÃ³fer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.]]></plot>
+  <outline><![CDATA[Drive My Car]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-09 16:43:42</dateadded>
+  <title>Drive My Car</title>
+  <originaltitle>ãã©ã¤ãã»ãã¤ã»ã«ã¼</originaltitle>
+  <actor>
+    <name>Hidetoshi Nishijima</name>
+    <role>YÅ«suke Kafuku</role>
+    <type>Actor</type>
+    <tmdbid>13250</tmdbid>
+    <imdbid>nm0632689</imdbid>
+  </actor>
+  <actor>
+    <name>Toko Miura</name>
+    <role>Misaki Watari</role>
+    <type>Actor</type>
+    <tmdbid>1509659</tmdbid>
+    <imdbid>nm4392528</imdbid>
+  </actor>
+  <actor>
+    <name>Masaki Okada</name>
+    <role>KÅshi Takatsuki</role>
+    <type>Actor</type>
+    <tmdbid>124402</tmdbid>
+  </actor>
+  <actor>
+    <name>Reika Kirishima</name>
+    <role>Oto Kafuku</role>
+    <type>Actor</type>
+    <tmdbid>121750</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Yu-rim</name>
+    <role>Lee Yoo-na</role>
+    <type>Actor</type>
+    <tmdbid>3154127</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Dae-yeon</name>
+    <role>Gong Yoon-su</role>
+    <type>Actor</type>
+    <tmdbid>3154128</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Yuan</name>
+    <role>Janice Chang</role>
+    <type>Actor</type>
+    <tmdbid>2547327</tmdbid>
+  </actor>
+  <actor>
+    <name>Ahn Hwi-tae</name>
+    <role>Ryu Jong-ui</role>
+    <type>Actor</type>
+    <tmdbid>3154131</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Dizon</name>
+    <role>Roy Rossello</role>
+    <type>Actor</type>
+    <tmdbid>111636</tmdbid>
+  </actor>
+  <actor>
+    <name>Satoko Abe</name>
+    <role>Yuzuhara</role>
+    <type>Actor</type>
+    <tmdbid>1392004</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroko Matsuda</name>
+    <role>Yumi EtÃ´</role>
+    <type>Actor</type>
+    <tmdbid>2795990</tmdbid>
+  </actor>
+  <actor>
+    <name>Toshiaki Inomata</name>
+    <role>Takashi Kimura</role>
+    <type>Actor</type>
+    <tmdbid>2424135</tmdbid>
+  </actor>
+  <actor>
+    <name>Takako Yamamura</name>
+    <role>Kaoru Komagata</role>
+    <type>Actor</type>
+    <tmdbid>2519419</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryo Iwase</name>
+    <type>Actor</type>
+    <tmdbid>1374556</tmdbid>
+  </actor>
+  <actor>
+    <name>Faisal Anwar</name>
+    <type>Actor</type>
+    <tmdbid>3273186</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamal Zharif</name>
+    <type>Actor</type>
+    <tmdbid>3414899</tmdbid>
+  </actor>
+  <actor>
+    <name>Massimo Biondi</name>
+    <type>Actor</type>
+    <tmdbid>3414900</tmdbid>
+  </actor>
+  <actor>
+    <name>Shoichiro Tanigawa</name>
+    <type>Actor</type>
+    <tmdbid>2256273</tmdbid>
+  </actor>
+  <director tmdbid="1487492">Ryusuke Hamaguchi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ygd7rVkiM-c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6BPKPb_RTwI</trailer>
+  <rating>7.6</rating>
+  <year>2021</year>
+  <sorttitle>Drive My Car</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt14039582</imdbid>
+  <tmdbid>758866</tmdbid>
+  <premiered>2021-08-18</premiered>
+  <releasedate>2021-08-18</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>177</runtime>
+  <tagline>Drive My Car</tagline>
+  <country>Japan</country>
+  <genre>Drama</genre>
+  <studio>Bitters End</studio>
+  <studio>C &amp; I entertainment</studio>
+  <studio>Culture Entertainment</studio>
+  <studio>Agency for Cultural Affairs</studio>
+  <studio>J-LOD</studio>
+  <studio>nekojarashi</studio>
+  <studio>Quaras</studio>
+  <studio>Bungeishunju</studio>
+  <studio>L'espace Vision</studio>
+  <studio>The Asahi Shimbun</studio>
+  <studio>Nippan Group Holdings</studio>
+  <uniqueid type="imdb">tt14039582</uniqueid>
+  <uniqueid type="tmdb">758866</uniqueid>
+  <id>tt14039582</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1301614</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>176</duration>
+        <durationinseconds>10596</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>160000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Otoño 2015. Dos socorristas, Oscar y Gerard, viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Al llegar descubren una realidad sobrecogedora: miles de personas arriesgan su vida cada día cruzando el mar en precarias embarcaciones y huyendo de conflictos armados. Sin embargo, nadie ejerce labores de rescate. Junto a Esther, Nico y otros miembros del equipo, lucharán por cumplir un cometido, dando apoyo a personas que lo necesitan. Para todos ellos, este viaje inicial supondrá una odisea que cambiará sus vidas.]]></plot>
+  <outline><![CDATA[Cada vida es importante.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-22 15:32:36</dateadded>
+  <title>Mediterráneo</title>
+  <originaltitle>Mediterráneo</originaltitle>
+  <actor>
+    <name>Eduard Fernández</name>
+    <role>Oscar Camps</role>
+    <type>Actor</type>
+    <tmdbid>87015</tmdbid>
+    <imdbid>nm0273464</imdbid>
+    <tvdbid>594235</tvdbid>
+  </actor>
+  <actor>
+    <name>Dani Rovira</name>
+    <role>Gerard</role>
+    <type>Actor</type>
+    <tmdbid>1271600</tmdbid>
+    <imdbid>nm3657043</imdbid>
+    <tvdbid>497671</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Castillo</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Sergi López</name>
+    <role>Nico</role>
+    <type>Actor</type>
+    <tmdbid>16972</tmdbid>
+    <imdbid>nm0530365</imdbid>
+  </actor>
+  <actor>
+    <name>Melika Foroutan</name>
+    <role>Rasha</role>
+    <type>Actor</type>
+    <tmdbid>57064</tmdbid>
+    <tvdbid>514194</tvdbid>
+  </actor>
+  <actor>
+    <name>Àlex Monner</name>
+    <role>Santi Palacios</role>
+    <type>Actor</type>
+    <tmdbid>1031744</tmdbid>
+    <imdbid>nm3856284</imdbid>
+    <tvdbid>467303</tvdbid>
+  </actor>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <role>Laura Lanuza</role>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Constantin Symsiris</name>
+    <role>Mochilero</role>
+    <type>Actor</type>
+    <tmdbid>2873282</tmdbid>
+  </actor>
+  <actor>
+    <name>Stathis Stamoulakatos</name>
+    <role>Stratos</role>
+    <type>Actor</type>
+    <tmdbid>1095435</tmdbid>
+  </actor>
+  <actor>
+    <name>Giota Festa</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>2450268</tmdbid>
+  </actor>
+  <director tmdbid="1152634" imdbid="nm2201717">Marcel Barrena</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_lmlUD6sNl8</trailer>
+  <rating>6.5</rating>
+  <year>2021</year>
+  <sorttitle>Mediterraneo</sorttitle>
+  <imdbid>tt9141588</imdbid>
+  <tmdbid>824349</tmdbid>
+  <premiered>2021-10-01</premiered>
+  <releasedate>2021-10-01</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>107</runtime>
+  <tagline>Cada vida es importante.</tagline>
+  <country>Italy</country>
+  <genre>Drama</genre>
+  <studio>Silvio Berlusconi Communications</studio>
+  <studio>Penta Films</studio>
+  <studio>A.M.A. Film</studio>
+  <uniqueid type="imdb">tt9141588</uniqueid>
+  <uniqueid type="tmdb">824349</uniqueid>
+  <id>tt9141588</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1008504</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6444</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64270</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

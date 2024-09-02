@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Historia ambientada en 1830 sobre un veterano detective, Augustus Landor, que intenta resolver unos asesinatos cometidos en West Point con la ayuda de un joven cadete al que el mundo conocería luego como Edgar Allan Poe.]]></plot>
+  <outline><![CDATA[Cada corazón cuenta una historia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-06 09:41:11</dateadded>
+  <title>Los crímenes de la academia</title>
+  <originaltitle>The Pale Blue Eye</originaltitle>
+  <actor>
+    <name>Christian Bale</name>
+    <role>Augustus Landor</role>
+    <type>Actor</type>
+    <tmdbid>3894</tmdbid>
+    <imdbid>nm0000288</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Melling</name>
+    <role>Edgar Allan Poe</role>
+    <type>Actor</type>
+    <tmdbid>10982</tmdbid>
+    <imdbid>nm0577982</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Boynton</name>
+    <role>Lea Marquis</role>
+    <type>Actor</type>
+    <tmdbid>86232</tmdbid>
+    <imdbid>nm2377903</imdbid>
+    <tvdbid>480697</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Dr. Daniel Marquis</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Simon McBurney</name>
+    <role>Captain Hitchcock</role>
+    <type>Actor</type>
+    <tmdbid>16358</tmdbid>
+    <imdbid>nm0564402</imdbid>
+    <tvdbid>381654</tvdbid>
+  </actor>
+  <actor>
+    <name>Timothy Spall</name>
+    <role>Superintendent Thayer</role>
+    <type>Actor</type>
+    <tmdbid>9191</tmdbid>
+    <imdbid>nm0001758</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Duvall</name>
+    <role>Jean-Pepe</role>
+    <type>Actor</type>
+    <tmdbid>3087</tmdbid>
+    <imdbid>nm0000380</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Lawtey</name>
+    <role>Artemus Marquis</role>
+    <type>Actor</type>
+    <tmdbid>2399836</tmdbid>
+    <imdbid>nm5363341</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Anderson</name>
+    <role>Julia Marquis</role>
+    <type>Actor</type>
+    <tmdbid>12214</tmdbid>
+    <imdbid>nm0000096</imdbid>
+    <tvdbid>321150</tvdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Gainsbourg</name>
+    <role>Patsy</role>
+    <type>Actor</type>
+    <tmdbid>4273</tmdbid>
+    <imdbid>nm0001250</imdbid>
+    <tvdbid>494738</tvdbid>
+  </actor>
+  <actor>
+    <name>Hadley Robinson</name>
+    <role>Mattie</role>
+    <type>Actor</type>
+    <tmdbid>2311924</tmdbid>
+    <tvdbid>7952538</tvdbid>
+  </actor>
+  <actor>
+    <name>Fred Hechinger</name>
+    <role>Cadet Randolph Ballinger</role>
+    <type>Actor</type>
+    <tmdbid>2099497</tmdbid>
+    <tvdbid>8101542</tvdbid>
+  </actor>
+  <actor>
+    <name>Joseph Brooks</name>
+    <role>Cadet Stoddard</role>
+    <type>Actor</type>
+    <tmdbid>1651962</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Maier</name>
+    <role>Cadet Fry</role>
+    <type>Actor</type>
+    <tmdbid>2236058</tmdbid>
+  </actor>
+  <actor>
+    <name>Brennan Keel Cook</name>
+    <role>Cadet Huntoon</role>
+    <type>Actor</type>
+    <tmdbid>1590221</tmdbid>
+  </actor>
+  <actor>
+    <name>Orlagh Cassidy</name>
+    <role>Mrs. Fry</role>
+    <type>Actor</type>
+    <tmdbid>1232484</tmdbid>
+    <imdbid>nm0144232</imdbid>
+  </actor>
+  <actor>
+    <name>Scott G. Anderson</name>
+    <role>Benny</role>
+    <type>Actor</type>
+    <tmdbid>8549</tmdbid>
+    <imdbid>nm0027424</imdbid>
+  </actor>
+  <actor>
+    <name>Gideon Glick</name>
+    <role>Cadet Horatio Cochrane</role>
+    <type>Actor</type>
+    <tmdbid>130228</tmdbid>
+    <imdbid>nm1921376</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Irving</name>
+    <role>Cadet Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>2403026</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Helm</name>
+    <role>Cadet Llewllyn Lee</role>
+    <type>Actor</type>
+    <tmdbid>2684944</tmdbid>
+    <imdbid>nm5090093</imdbid>
+  </actor>
+  <actor>
+    <name>Mathias Goldstein</name>
+    <role>Lieutenant Locke</role>
+    <type>Actor</type>
+    <tmdbid>3861819</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Tahan</name>
+    <role>Cadet Loughborough</role>
+    <type>Actor</type>
+    <tmdbid>49918</tmdbid>
+    <imdbid>nm2253071</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Cwikowski</name>
+    <role>Reverend Zantzinger</role>
+    <type>Actor</type>
+    <tmdbid>1779454</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnes Herrmann</name>
+    <role>Eugenia</role>
+    <type>Actor</type>
+    <tmdbid>1297771</tmdbid>
+    <imdbid>nm0380732</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Bellavia</name>
+    <role>Lieutenant Robert</role>
+    <type>Actor</type>
+    <tmdbid>3861820</tmdbid>
+  </actor>
+  <actor>
+    <name>John Fetterman</name>
+    <role>Bearded Man</role>
+    <type>Actor</type>
+    <tmdbid>3766614</tmdbid>
+  </actor>
+  <director tmdbid="65167" imdbid="nm0178376">Scott Cooper</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RG24LMqtM_I</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W8-inrn1FBs</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>Los crimenes de la academia</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14138650</imdbid>
+  <tmdbid>800815</tmdbid>
+  <premiered>2022-12-22</premiered>
+  <releasedate>2022-12-22</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>130</runtime>
+  <tagline>Cada corazón cuenta una historia.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Cross Creek Pictures</studio>
+  <studio>Le Grisbi Productions</studio>
+  <uniqueid type="tmdb">800815</uniqueid>
+  <uniqueid type="imdb">tt14138650</uniqueid>
+  <id>tt14138650</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>964384</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7808</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

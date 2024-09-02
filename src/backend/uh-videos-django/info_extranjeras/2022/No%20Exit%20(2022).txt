@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Darby Thorne, una joven que va a una emergencia familiar, queda atrapada en una ventisca y se refugia en un área de descanso de la autopista con unos desconocidos. Cuando encuentra a una chica secuestrada en una furgoneta, se ve en una aterradora lucha a vida o muerte para descubrir quién es el secuestrador.]]></plot>
+  <outline><![CDATA[¿Qué tan lejos llegarías por un extraño?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-25 08:09:32</dateadded>
+  <title>En la tormenta</title>
+  <originaltitle>No Exit</originaltitle>
+  <actor>
+    <name>Havana Rose Liu</name>
+    <role>Darby</role>
+    <type>Actor</type>
+    <tmdbid>2378813</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Ramirez</name>
+    <role>Ash</role>
+    <type>Actor</type>
+    <tmdbid>1773397</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Haysbert</name>
+    <role>Ed</role>
+    <type>Actor</type>
+    <tmdbid>352</tmdbid>
+    <imdbid>nm0371660</imdbid>
+  </actor>
+  <actor>
+    <name>David Rysdahl</name>
+    <role>Lars</role>
+    <type>Actor</type>
+    <tmdbid>1541178</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Dickey</name>
+    <role>Sandi</role>
+    <type>Actor</type>
+    <tmdbid>46814</tmdbid>
+    <imdbid>nm0225460</imdbid>
+    <tvdbid>270668</tvdbid>
+  </actor>
+  <actor>
+    <name>Mila Harris</name>
+    <role>Jay</role>
+    <type>Actor</type>
+    <tmdbid>3214361</tmdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wall</name>
+    <role>Cpl. Ron Hill</role>
+    <type>Actor</type>
+    <tmdbid>1193862</tmdbid>
+  </actor>
+  <actor>
+    <name>James Gaylyn</name>
+    <role>Dr. Bill</role>
+    <type>Actor</type>
+    <tmdbid>54492</tmdbid>
+    <imdbid>nm1197230</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Zhang</name>
+    <role>Devon</role>
+    <type>Actor</type>
+    <tmdbid>1472897</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Davies</name>
+    <role>Mike the Orderly</role>
+    <type>Actor</type>
+    <tmdbid>2380957</tmdbid>
+  </actor>
+  <actor>
+    <name>Hweiling Ow</name>
+    <role>Darby's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1615726</tmdbid>
+  </actor>
+  <actor>
+    <name>Jen Van Epps</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>2089274</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirsty Hamilton</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>1511623</tmdbid>
+  </actor>
+  <director tmdbid="1661695">Damien Power</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GFvupyiNEz0</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>En la tormenta</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7550014</imdbid>
+  <tmdbid>833425</tmdbid>
+  <premiered>2022-02-25</premiered>
+  <releasedate>2022-02-25</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>95</runtime>
+  <tagline>¿Qué tan lejos llegarías por un extraño?</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Flitcraft</studio>
+  <uniqueid type="imdb">tt7550014</uniqueid>
+  <uniqueid type="tmdb">833425</uniqueid>
+  <id>tt7550014</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1167564</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5721</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

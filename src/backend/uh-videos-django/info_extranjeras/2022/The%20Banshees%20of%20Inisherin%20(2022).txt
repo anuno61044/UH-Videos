@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Pádraic y Colm son dos amigos de toda la vida que se encuentran en un callejón sin salida cuando Colm pone inesperadamente fin a su amistad. Un aturdido Pádraic, ayudado por su hermana Siobhán y el problemático joven isleño Dominic se esfuerza por reparar la relación, negándose a aceptar un no por respuesta. Pero los repetidos esfuerzos de Pádraic no hacen más que reforzar la determinación de su antiguo amigo, y cuando Colm le da un ultimátum desesperado los acontecimientos se intensifican rápidamente, con consecuencias impactantes.]]></plot>
+  <outline><![CDATA[Ayer todo iba bien]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-13 09:17:15</dateadded>
+  <title>Almas en pena de Inisherin</title>
+  <originaltitle>The Banshees of Inisherin</originaltitle>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>Pádraic Súilleabháin</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+    <tvdbid>310392</tvdbid>
+  </actor>
+  <actor>
+    <name>Brendan Gleeson</name>
+    <role>Colm Doherty</role>
+    <type>Actor</type>
+    <tmdbid>2039</tmdbid>
+    <imdbid>nm0322407</imdbid>
+    <tvdbid>496037</tvdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Siobhán Súilleabháin</role>
+    <type>Actor</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Dominic Kearney</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+    <imdbid>nm4422686</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Lydon</name>
+    <role>Peadar Kearney</role>
+    <type>Actor</type>
+    <tmdbid>93209</tmdbid>
+    <imdbid>nm0527994</imdbid>
+  </actor>
+  <actor>
+    <name>Pat Shortt</name>
+    <role>Jonjo Devine</role>
+    <type>Actor</type>
+    <tmdbid>83278</tmdbid>
+    <imdbid>nm0795169</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Kenny</name>
+    <role>Gerry</role>
+    <type>Actor</type>
+    <tmdbid>37169</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Flitton</name>
+    <role>Mrs. McCormick</role>
+    <type>Actor</type>
+    <tmdbid>1597386</tmdbid>
+  </actor>
+  <actor>
+    <name>David Pearse</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1122014</tmdbid>
+    <imdbid>nm0669164</imdbid>
+  </actor>
+  <actor>
+    <name>Bríd Ní Neachtain</name>
+    <role>Mrs. O'Riordan</role>
+    <type>Actor</type>
+    <tmdbid>1907071</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Monaghan</name>
+    <role>Declan</role>
+    <type>Actor</type>
+    <tmdbid>210061</tmdbid>
+  </actor>
+  <actor>
+    <name>Lasairfhíona Ní Chonaola</name>
+    <role>Female Singer</role>
+    <type>Actor</type>
+    <tmdbid>3795945</tmdbid>
+  </actor>
+  <actor>
+    <name>James Eugene Carty</name>
+    <role>Student Musician #1</role>
+    <type>Actor</type>
+    <tmdbid>3029805</tmdbid>
+  </actor>
+  <actor>
+    <name>Conor Connolly</name>
+    <role>Student Musician #2</role>
+    <type>Actor</type>
+    <tmdbid>2419826</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Owens</name>
+    <role>Student Musician #3</role>
+    <type>Actor</type>
+    <tmdbid>2335235</tmdbid>
+  </actor>
+  <actor>
+    <name>John Carty</name>
+    <role>Older Musician #1</role>
+    <type>Actor</type>
+    <tmdbid>3879013</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Farrelly</name>
+    <role>Older Musician #2</role>
+    <type>Actor</type>
+    <tmdbid>3879015</tmdbid>
+  </actor>
+  <director tmdbid="54472" imdbid="nm1732981">Martin McDonagh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K-SC025zQ5A</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_r7j79W4s8o</trailer>
+  <rating>7.7</rating>
+  <year>2022</year>
+  <sorttitle>Almas en pena de Inisherin</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11813216</imdbid>
+  <tmdbid>674324</tmdbid>
+  <premiered>2022-10-21</premiered>
+  <releasedate>2022-10-21</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>114</runtime>
+  <tagline>Ayer todo iba bien</tagline>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Blueprint Pictures</studio>
+  <studio>Film4 Productions</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Metropolitan Films International</studio>
+  <studio>Searchlight Pictures</studio>
+  <uniqueid type="tmdb">674324</uniqueid>
+  <uniqueid type="imdb">tt11813216</uniqueid>
+  <id>tt11813216</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>978891</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6834</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

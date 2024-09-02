@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A stowaway on a mission to Mars sets off a series of unintended consequences.]]></plot>
+  <outline><![CDATA[A millones de kilómetros de casa, la supervivencia viene con sacrificio.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-26 08:30:56</dateadded>
+  <title>Stowaway</title>
+  <originaltitle>Stowaway</originaltitle>
+  <actor>
+    <name>Anna Kendrick</name>
+    <type>Actor</type>
+    <tmdbid>84223</tmdbid>
+    <imdbid>nm0447695</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Collette</name>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+    <tvdbid>360423</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Dae Kim</name>
+    <type>Actor</type>
+    <tmdbid>18307</tmdbid>
+    <imdbid>nm0196654</imdbid>
+    <tvdbid>268546</tvdbid>
+  </actor>
+  <actor>
+    <name>Shamier Anderson</name>
+    <type>Actor</type>
+    <tmdbid>1080969</tmdbid>
+    <imdbid>nm3875456</imdbid>
+    <tvdbid>299834</tvdbid>
+  </actor>
+  <director tmdbid="1163460" imdbid="nm1020835">Joe Penna</director>
+  <writer tmdbid="1163460" imdbid="nm1020835">Joe Penna</writer>
+  <writer>Ryan Morrison</writer>
+  <credits tmdbid="1163460" imdbid="nm1020835">Joe Penna</credits>
+  <credits>Ryan Morrison</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k4lBpjhwJsA</trailer>
+  <rating>5.6</rating>
+  <year>2021</year>
+  <sorttitle>Stowaway</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt9203694</imdbid>
+  <tmdbid>559581</tmdbid>
+  <premiered>2021-04-22</premiered>
+  <releasedate>2021-04-22</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>116</runtime>
+  <tagline>A millones de kilómetros de casa, la supervivencia viene con sacrificio.</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>RainMaker Films</studio>
+  <studio>Yale Productions</studio>
+  <studio>Augenschein Filmproduktion</studio>
+  <studio>Black Canopy Films</studio>
+  <studio>MMC Movies</studio>
+  <studio>Phiphen Pictures</studio>
+  <studio>RISE PICTURES</studio>
+  <studio>Stage 6 Films</studio>
+  <studio>XYZ Films</studio>
+  <uniqueid type="imdb">tt9203694</uniqueid>
+  <uniqueid type="tmdb">559581</uniqueid>
+  <id>tt9203694</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>960040</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6969</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la Bélgica actual, un niño y una chica adolescente que llegaron solos de África enfrentan su invencible amistad contra las difíciles condiciones de su exilio.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-22 12:50:58</dateadded>
+  <title>Tori y Lokita</title>
+  <originaltitle>Tori et Lokita</originaltitle>
+  <actor>
+    <name>Pablo Schils</name>
+    <role>Tori</role>
+    <type>Actor</type>
+    <tmdbid>3497175</tmdbid>
+  </actor>
+  <actor>
+    <name>Joely Mbundu</name>
+    <role>Lokita</role>
+    <type>Actor</type>
+    <tmdbid>3497174</tmdbid>
+  </actor>
+  <actor>
+    <name>Alban Ukaj</name>
+    <role>Betim</role>
+    <type>Actor</type>
+    <tmdbid>73331</tmdbid>
+    <imdbid>nm1456114</imdbid>
+  </actor>
+  <actor>
+    <name>Tijmen Govaerts</name>
+    <role>Luckas</role>
+    <type>Actor</type>
+    <tmdbid>1891332</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte De Bruyne</name>
+    <role>Margot</role>
+    <type>Actor</type>
+    <tmdbid>1431537</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadège Ouedraogo</name>
+    <role>Justine</role>
+    <type>Actor</type>
+    <tmdbid>1614921</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Zinga</name>
+    <role>Firmin</role>
+    <type>Actor</type>
+    <tmdbid>578512</tmdbid>
+    <imdbid>nm3207271</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Bodson</name>
+    <type>Actor</type>
+    <tmdbid>566081</tmdbid>
+  </actor>
+  <actor>
+    <name>Baptiste Sornin</name>
+    <type>Actor</type>
+    <tmdbid>1125175</tmdbid>
+    <imdbid>nm2719128</imdbid>
+  </actor>
+  <director tmdbid="45138" imdbid="nm0201095">Luc Dardenne</director>
+  <director tmdbid="56209" imdbid="nm0201094">Jean-Pierre Dardenne</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=spTAF72d61A</trailer>
+  <rating>7.1</rating>
+  <year>2022</year>
+  <sorttitle>Tori y Lokita</sorttitle>
+  <imdbid>tt18317064</imdbid>
+  <tmdbid>914203</tmdbid>
+  <premiered>2022-10-05</premiered>
+  <releasedate>2022-10-05</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>89</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Les Films du Fleuve</studio>
+  <studio>Archipel 33&gt;35</studio>
+  <studio>Savage Film</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>VOO</studio>
+  <studio>BeTV</studio>
+  <studio>Proximus</studio>
+  <studio>RTBF</studio>
+  <studio>France Télévisions</studio>
+  <uniqueid type="tmdb">914203</uniqueid>
+  <uniqueid type="imdb">tt18317064</uniqueid>
+  <id>tt18317064</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2424128</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5336</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>126086</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

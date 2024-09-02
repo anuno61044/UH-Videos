@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[After losing everything in the Great Recession, a woman embarks on a journey through the American West, living as a van-dwelling modern-day nomad.]]></plot>
+  <outline><![CDATA[Nos vemos en el camino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-04 09:54:47</dateadded>
+  <title>Nomadland</title>
+  <originaltitle>Nomadland</originaltitle>
+  <actor>
+    <name>Frances McDormand</name>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+    <tvdbid>321262</tvdbid>
+  </actor>
+  <actor>
+    <name>Gay DeForest</name>
+    <type>Actor</type>
+    <tmdbid>2786070</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Grier</name>
+    <type>Actor</type>
+    <tmdbid>2786072</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda May</name>
+    <type>Actor</type>
+    <tmdbid>2241214</tmdbid>
+  </actor>
+  <director tmdbid="1395183" imdbid="nm2125482">Chloé Zhao</director>
+  <writer>Jessica Bruder (based on the book by)</writer>
+  <writer>Chloé Zhao (written for the screen by)</writer>
+  <credits>Jessica Bruder (based on the book by)</credits>
+  <credits>Chloé Zhao (written for the screen by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f_kPuDuj8mY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ho-KCPgNYeM</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <sorttitle>Nomadland</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9770150</imdbid>
+  <tmdbid>581734</tmdbid>
+  <premiered>2021-01-29</premiered>
+  <releasedate>2021-01-29</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>107</runtime>
+  <tagline>Nos vemos en el camino.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Cor Cordium Productions</studio>
+  <studio>Hear/Say Productions</studio>
+  <studio>Highwayman Films</studio>
+  <uniqueid type="imdb">tt9770150</uniqueid>
+  <uniqueid type="tmdb">581734</uniqueid>
+  <id>tt9770150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1039331</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>30</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6435</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

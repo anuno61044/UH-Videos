@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Secuela de la cinta original de 1996, Space Jam, protagonizada por Michael Jordan. En esta segunda parte, la super estrella de la NBA es LeBron James, quien queda atrapado junto a su hijo Dom en un extraÃ±o lugar, un espacio digital de una fuerza todopoderosa y malvada conocida como A.I. Para volver a casa y poner a salvo a su hijo, el jugador de baloncesto deberÃ¡ unir fuerzas con Bugs Bunny, Lola Bunny y el resto de personajes de los Looney Tunes para enfrentarse en un partido de baloncesto a los campeones digitalizados por inteligencia artificial.]]></plot>
+  <outline><![CDATA[Â¡Bienvenido al partido del siglo!]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-16 07:39:11</dateadded>
+  <title>Space Jam: Nuevas Leyendas</title>
+  <originaltitle>Space Jam: A New Legacy</originaltitle>
+  <actor>
+    <name>LeBron James</name>
+    <role>LeBron James</role>
+    <type>Actor</type>
+    <tmdbid>107379</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Cheadle</name>
+    <role>Al G. Rhythm</role>
+    <type>Actor</type>
+    <tmdbid>1896</tmdbid>
+    <imdbid>nm0000332</imdbid>
+    <tvdbid>275685</tvdbid>
+  </actor>
+  <actor>
+    <name>Cedric Joe</name>
+    <role>Dominic 'Dom' James</role>
+    <type>Actor</type>
+    <tmdbid>2998402</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bergman</name>
+    <role>Bugs Bunny / Sylvester / Yosemite Sam / Fred Flintstone (voice)</role>
+    <type>Actor</type>
+    <tmdbid>179896</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Iglesias</name>
+    <role>Speedy Gonzales (voice)</role>
+    <type>Actor</type>
+    <tmdbid>86498</tmdbid>
+    <imdbid>nm0407101</imdbid>
+  </actor>
+  <actor>
+    <name>Zendaya</name>
+    <role>Lola Bunny (voice)</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+    <tvdbid>327412</tvdbid>
+  </actor>
+  <actor>
+    <name>Eric Bauza</name>
+    <role>Daffy Duck / Porky Pig / Foghorn Leghorn / Elmer Fudd (voice)</role>
+    <type>Actor</type>
+    <tmdbid>89599</tmdbid>
+  </actor>
+  <actor>
+    <name>Candi Milo</name>
+    <role>Granny (voice)</role>
+    <type>Actor</type>
+    <tmdbid>95257</tmdbid>
+    <imdbid>nm0590430</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Bergen</name>
+    <role>Tweety Bird (voice)</role>
+    <type>Actor</type>
+    <tmdbid>78317</tmdbid>
+    <imdbid>nm0074036</imdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Taz (voice)</role>
+    <type>Actor</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Davis</name>
+    <role>Anthony Davis / The Brow</role>
+    <type>Actor</type>
+    <tmdbid>2343024</tmdbid>
+  </actor>
+  <actor>
+    <name>Damian Lillard</name>
+    <role>Damian Lillard / Chronos</role>
+    <type>Actor</type>
+    <tmdbid>2343023</tmdbid>
+  </actor>
+  <actor>
+    <name>Klay Thompson</name>
+    <role>Klay Thompson / Wet-Fire</role>
+    <type>Actor</type>
+    <tmdbid>1474779</tmdbid>
+  </actor>
+  <actor>
+    <name>Nneka Ogwumike</name>
+    <role>Nneka Ogwumike / Arachnneka</role>
+    <type>Actor</type>
+    <tmdbid>2343026</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Taurasi</name>
+    <role>Diana Taurasi / White Mamba</role>
+    <type>Actor</type>
+    <tmdbid>1238354</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonequa Martin-Green</name>
+    <role>Kamiyah James</role>
+    <type>Actor</type>
+    <tmdbid>1031067</tmdbid>
+    <imdbid>nm2792296</imdbid>
+    <tvdbid>294207</tvdbid>
+  </actor>
+  <actor>
+    <name>Ceyair J. Wright</name>
+    <role>Darius James</role>
+    <type>Actor</type>
+    <tmdbid>2564072</tmdbid>
+  </actor>
+  <actor>
+    <name>Harper Leigh Alexander</name>
+    <role>Xosha James</role>
+    <type>Actor</type>
+    <tmdbid>3190438</tmdbid>
+  </actor>
+  <actor>
+    <name>Khris Davis</name>
+    <role>Malik</role>
+    <type>Actor</type>
+    <tmdbid>2073341</tmdbid>
+  </actor>
+  <actor>
+    <name>Xosha Roquemore</name>
+    <role>Shanice James</role>
+    <type>Actor</type>
+    <tmdbid>109565</tmdbid>
+    <imdbid>nm2837872</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Kankole</name>
+    <role>Young LeBron (13 Years)</role>
+    <type>Actor</type>
+    <tmdbid>3190440</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalyn Hall</name>
+    <role>Young Malik (13 Years)</role>
+    <type>Actor</type>
+    <tmdbid>2010431</tmdbid>
+    <imdbid>nm8786575</imdbid>
+    <tvdbid>582529</tvdbid>
+  </actor>
+  <actor>
+    <name>Wood Harris</name>
+    <role>Coach C</role>
+    <type>Actor</type>
+    <tmdbid>65829</tmdbid>
+    <imdbid>nm0365445</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Thomas</name>
+    <role>Young Boy</role>
+    <type>Actor</type>
+    <tmdbid>3190443</tmdbid>
+  </actor>
+  <actor>
+    <name>Sue Bird</name>
+    <role>Sue Bird</role>
+    <type>Actor</type>
+    <tmdbid>2686255</tmdbid>
+  </actor>
+  <actor>
+    <name>Draymond Green</name>
+    <role>Draymond Green</role>
+    <type>Actor</type>
+    <tmdbid>1965011</tmdbid>
+  </actor>
+  <actor>
+    <name>Aâja Wilson</name>
+    <role>Aâja Wilson</role>
+    <type>Actor</type>
+    <tmdbid>3113134</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Mims</name>
+    <role>Barbershop Customer</role>
+    <type>Actor</type>
+    <tmdbid>3190444</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerald 'Slink' Johnson</name>
+    <role>Warner Bros. Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>108085</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Silverman</name>
+    <role>Warner Bros. Executive</role>
+    <type>Actor</type>
+    <tmdbid>7404</tmdbid>
+    <imdbid>nm0798971</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Yeun</name>
+    <role>Warner Bros. Executive</role>
+    <type>Actor</type>
+    <tmdbid>215055</tmdbid>
+    <tvdbid>327406</tvdbid>
+  </actor>
+  <actor>
+    <name>Ernie Johnson</name>
+    <role>Game Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2121989</tmdbid>
+  </actor>
+  <actor>
+    <name>Lil Rel Howery</name>
+    <role>Game Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1488961</tmdbid>
+    <imdbid>nm2577076</imdbid>
+  </actor>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>135651</tmdbid>
+    <imdbid>nm0430107</imdbid>
+    <tvdbid>294945</tvdbid>
+  </actor>
+  <actor>
+    <name>Rosario Dawson</name>
+    <role>Wonder Woman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5916</tmdbid>
+    <imdbid>nm0206257</imdbid>
+    <tvdbid>310628</tvdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Brooks</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54427</tmdbid>
+  </actor>
+  <actor>
+    <name>Barack Obama</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>102786</tmdbid>
+    <imdbid>nm1682433</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Obama</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>964843</tmdbid>
+  </actor>
+  <actor>
+    <name>David Stern</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1358963</tmdbid>
+  </actor>
+  <director tmdbid="72024" imdbid="nm0002700">Malcolm D. Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-8GlaZAiW3s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z2RHxm2CbGs</trailer>
+  <rating>4.5</rating>
+  <year>2021</year>
+  <sorttitle>Space Jam: Nuevas Leyendas</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt3554046</imdbid>
+  <tmdbid>379686</tmdbid>
+  <premiered>2021-07-08</premiered>
+  <releasedate>2021-07-08</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>115</runtime>
+  <tagline>Â¡Bienvenido al partido del siglo!</tagline>
+  <country>United States of America</country>
+  <genre>Familia</genre>
+  <genre>AnimaciÃ³n</genre>
+  <genre>Comedia</genre>
+  <genre>Ciencia ficciÃ³n</genre>
+  <studio>Warner Animation Group</studio>
+  <studio>SpringHill Entertainment</studio>
+  <studio>Proximity Media</studio>
+  <set tmdbcolid="722961">
+    <name>Space Jam - ColecciÃ³n</name>
+  </set>
+  <uniqueid type="imdb">tt3554046</uniqueid>
+  <uniqueid type="tmdb">379686</uniqueid>
+  <id>tt3554046</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>965401</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6928</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

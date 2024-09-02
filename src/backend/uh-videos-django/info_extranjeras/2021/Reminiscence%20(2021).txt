@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nick Bannister, un investigador privado que se interna en el oscuro y seductor mundo del pasado, ayuda a sus clientes a recuperar recuerdos perdidos. Vive a orillas de la costa de Miami que se encuentra sumergida en gran parte bajo el mar. Un día, su vida cambia cuando aparece Mae, una nueva clienta. Aunque Mae solo acude a su consulta para encontrar un objeto perdido, se convertirá en una peligrosa obsesión. Mientras Bannister intenta encontrar el motivo de la desaparición de Mae, descubre una violenta conspiración y, al final, deberá responder a la gran pregunta: ¿Hasta dónde llegarías para aferrarte a tus seres queridos?]]></plot>
+  <outline><![CDATA[No mires atrás.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-20 07:54:24</dateadded>
+  <title>Reminiscencia</title>
+  <originaltitle>Reminiscence</originaltitle>
+  <actor>
+    <name>Hugh Jackman</name>
+    <role>Nicolas 'Nick' Bannister</role>
+    <type>Actor</type>
+    <tmdbid>6968</tmdbid>
+    <imdbid>nm0413168</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ferguson</name>
+    <role>Mae</role>
+    <type>Actor</type>
+    <tmdbid>933238</tmdbid>
+    <imdbid>nm0272581</imdbid>
+    <tvdbid>295149</tvdbid>
+  </actor>
+  <actor>
+    <name>Thandiwe Newton</name>
+    <role>Emily 'Watts' Sanders</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+    <tvdbid>311397</tvdbid>
+  </actor>
+  <actor>
+    <name>Cliff Curtis</name>
+    <role>Cyrus Booth</role>
+    <type>Actor</type>
+    <tmdbid>7248</tmdbid>
+    <imdbid>nm0193295</imdbid>
+    <tvdbid>279092</tvdbid>
+  </actor>
+  <actor>
+    <name>Marina de Tavira</name>
+    <role>Tamara Sylvan</role>
+    <type>Actor</type>
+    <tmdbid>78883</tmdbid>
+    <imdbid>nm0211920</imdbid>
+    <tvdbid>463741</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Wu</name>
+    <role>Saint Joe</role>
+    <type>Actor</type>
+    <tmdbid>64436</tmdbid>
+    <imdbid>nm0943079</imdbid>
+    <tvdbid>622469</tvdbid>
+  </actor>
+  <actor>
+    <name>Mojean Aria</name>
+    <role>Sebastian Sylvan</role>
+    <type>Actor</type>
+    <tmdbid>1375499</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Cullen</name>
+    <role>Walter Sylvan</role>
+    <type>Actor</type>
+    <tmdbid>16841</tmdbid>
+    <imdbid>nm0191442</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Martinez</name>
+    <role>Avery Castillo</role>
+    <type>Actor</type>
+    <tmdbid>76511</tmdbid>
+    <imdbid>nm2358540</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Sarafyan</name>
+    <role>Elsa Carine</role>
+    <type>Actor</type>
+    <tmdbid>85143</tmdbid>
+    <imdbid>nm1494168</imdbid>
+    <tvdbid>252852</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Molina</name>
+    <role>Hank</role>
+    <type>Actor</type>
+    <tmdbid>1990795</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Medina</name>
+    <role>Falks</role>
+    <type>Actor</type>
+    <tmdbid>1044954</tmdbid>
+    <imdbid>nm2795989</imdbid>
+  </actor>
+  <actor>
+    <name>Norio Nishimura</name>
+    <role>Harris</role>
+    <type>Actor</type>
+    <tmdbid>1693037</tmdbid>
+  </actor>
+  <actor>
+    <name>Roxton Garcia</name>
+    <role>Freddie</role>
+    <type>Actor</type>
+    <tmdbid>3209405</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovannie Cruz</name>
+    <role>Cindy</role>
+    <type>Actor</type>
+    <tmdbid>3125907</tmdbid>
+  </actor>
+  <actor>
+    <name>Woon Young Park</name>
+    <role>Burly Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>61705</tmdbid>
+    <imdbid>nm0661974</imdbid>
+  </actor>
+  <actor>
+    <name>Han Soto</name>
+    <role>Wesley Humphrey</role>
+    <type>Actor</type>
+    <tmdbid>1116011</tmdbid>
+    <imdbid>nm2404349</imdbid>
+  </actor>
+  <actor>
+    <name>Rey Hernandez</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>76799</tmdbid>
+    <imdbid>nm1411388</imdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Echols</name>
+    <role>Titch</role>
+    <type>Actor</type>
+    <tmdbid>3128781</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Masset</name>
+    <role>Butler</role>
+    <type>Actor</type>
+    <tmdbid>1183804</tmdbid>
+    <imdbid>nm0557259</imdbid>
+  </actor>
+  <actor>
+    <name>Nico Parker</name>
+    <role>Zoe</role>
+    <type>Actor</type>
+    <tmdbid>2064124</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Bonilla</name>
+    <role>Frances</role>
+    <type>Actor</type>
+    <tmdbid>3236961</tmdbid>
+  </actor>
+  <actor>
+    <name>Jules Hartley</name>
+    <role>Hooker</role>
+    <type>Actor</type>
+    <tmdbid>1471444</tmdbid>
+    <imdbid>nm2291660</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Longoria</name>
+    <role>Lorenzo</role>
+    <type>Actor</type>
+    <tmdbid>1523306</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Mbakop</name>
+    <role>Sunburnt Man</role>
+    <type>Actor</type>
+    <tmdbid>2777637</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Brockton</name>
+    <role>Sylvan Guard</role>
+    <type>Actor</type>
+    <tmdbid>1825882</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Papajohn</name>
+    <role>Sylvan Guard</role>
+    <type>Actor</type>
+    <tmdbid>20582</tmdbid>
+    <imdbid>nm0660244</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Lanay</name>
+    <role>Protestor</role>
+    <type>Actor</type>
+    <tmdbid>1088592</tmdbid>
+  </actor>
+  <actor>
+    <name>Aria Castillo</name>
+    <role>Protestor</role>
+    <type>Actor</type>
+    <tmdbid>3236975</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Magee</name>
+    <role>Protestor</role>
+    <type>Actor</type>
+    <tmdbid>3236976</tmdbid>
+  </actor>
+  <actor>
+    <name>René Mena</name>
+    <role>Man on Porch</role>
+    <type>Actor</type>
+    <tmdbid>1946675</tmdbid>
+  </actor>
+  <actor>
+    <name>Enrique Abada</name>
+    <role>Man on Porch</role>
+    <type>Actor</type>
+    <tmdbid>2111990</tmdbid>
+  </actor>
+  <actor>
+    <name>Laci Broussard</name>
+    <role>New Mom</role>
+    <type>Actor</type>
+    <tmdbid>2883304</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Carter Peterson</name>
+    <role>Coconut Club Pianist</role>
+    <type>Actor</type>
+    <tmdbid>176491</tmdbid>
+    <imdbid>nm0677399</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Francis Murphy</name>
+    <role>Armin</role>
+    <type>Actor</type>
+    <tmdbid>1295668</tmdbid>
+    <imdbid>nm2958419</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Claude Leuyer</name>
+    <role>Massive Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>52904</tmdbid>
+  </actor>
+  <actor>
+    <name>Teri Wyble</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>565501</tmdbid>
+    <imdbid>nm3582715</imdbid>
+  </actor>
+  <actor>
+    <name>Autumn Dial</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>997303</tmdbid>
+    <imdbid>nm3860085</imdbid>
+  </actor>
+  <actor>
+    <name>Renes Rivera</name>
+    <role>Coconut Club Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>1927971</tmdbid>
+  </actor>
+  <actor>
+    <name>Myles Humphus</name>
+    <role>Moe</role>
+    <type>Actor</type>
+    <tmdbid>1272974</tmdbid>
+    <imdbid>nm5151832</imdbid>
+  </actor>
+  <director tmdbid="1497967">Lisa Joy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nohj00cD_-U</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>Reminiscencia</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3272066</imdbid>
+  <tmdbid>579047</tmdbid>
+  <premiered>2021-08-19</premiered>
+  <releasedate>2021-08-19</releasedate>
+  <criticrating>36</criticrating>
+  <runtime>116</runtime>
+  <tagline>No mires atrás.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Misterio</genre>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Michael De Luca Productions</studio>
+  <studio>Kilter Films</studio>
+  <uniqueid type="imdb">tt3272066</uniqueid>
+  <uniqueid type="tmdb">579047</uniqueid>
+  <id>tt3272066</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>960834</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6956</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

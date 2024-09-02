@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 21:36:18</dateadded>
+  <title>Sergio</title>
+  <originaltitle>Sergio</originaltitle>
+  <actor>
+    <name>Wagner Moura</name>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+    <imdbid>nm0609944</imdbid>
+    <tvdbid>297464</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana de Armas</name>
+    <type>Actor</type>
+    <tmdbid>224513</tmdbid>
+    <imdbid>nm1869101</imdbid>
+  </actor>
+  <actor>
+    <name>Brían F. O'Byrne</name>
+    <type>Actor</type>
+    <tmdbid>31713</tmdbid>
+    <imdbid>nm0639928</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Whitford</name>
+    <type>Actor</type>
+    <tmdbid>11367</tmdbid>
+    <imdbid>nm0925966</imdbid>
+    <tvdbid>274361</tvdbid>
+  </actor>
+  <director tmdbid="122904" imdbid="nm0994499">Greg Barker</director>
+  <writer>Craig Borten (screenplay by)</writer>
+  <writer>Samantha Power (based on the book 'Chasing the Flame: One Man's Fight to Save the World')</writer>
+  <credits>Craig Borten (screenplay by)</credits>
+  <credits>Samantha Power (based on the book 'Chasing the Flame: One Man's Fight to Save the World')</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eVv2-fZ2Zro</trailer>
+  <rating>6.2</rating>
+  <year>2020</year>
+  <sorttitle>Sergio</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8750570</imdbid>
+  <tmdbid>653744</tmdbid>
+  <premiered>2020-01-28</premiered>
+  <releasedate>2020-01-28</releasedate>
+  <criticrating>43</criticrating>
+  <runtime>119</runtime>
+  <country>Albania</country>
+  <country>Jordan</country>
+  <country>Thailand</country>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Romance</genre>
+  <studio>Black Rabbit Media</studio>
+  <studio>Anima Pictures</studio>
+  <studio>Desert Motion Pictures</studio>
+  <studio>Thai Occidental Productions</studio>
+  <uniqueid type="imdb">tt8750570</uniqueid>
+  <uniqueid type="tmdb">653744</uniqueid>
+  <id>tt8750570</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>373540</bitrate>
+        <width>720</width>
+        <height>360</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7119</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>97104</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

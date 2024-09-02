@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.]]></plot>
+  <outline><![CDATA[Asesina, o serás asesinado]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-27 11:15:01</dateadded>
+  <title>Ava</title>
+  <originaltitle>Ava</originaltitle>
+  <actor>
+    <name>Jessica Chastain</name>
+    <type>Actor</type>
+    <tmdbid>83002</tmdbid>
+    <imdbid>nm1567113</imdbid>
+    <tvdbid>310937</tvdbid>
+  </actor>
+  <actor>
+    <name>John Malkovich</name>
+    <type>Actor</type>
+    <tmdbid>6949</tmdbid>
+    <imdbid>nm0000518</imdbid>
+  </actor>
+  <actor>
+    <name>Common</name>
+    <type>Actor</type>
+    <tmdbid>4238</tmdbid>
+    <imdbid>nm0996669</imdbid>
+    <tvdbid>310836</tvdbid>
+  </actor>
+  <actor>
+    <name>Geena Davis</name>
+    <type>Actor</type>
+    <tmdbid>16935</tmdbid>
+    <imdbid>nm0000133</imdbid>
+  </actor>
+  <director tmdbid="55789" imdbid="nm0853238">Tate Taylor</director>
+  <writer tmdbid="26061">Matthew Newton</writer>
+  <credits tmdbid="26061">Matthew Newton</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i6y5kV9Dx9s</trailer>
+  <rating>5.4</rating>
+  <year>2020</year>
+  <sorttitle>Ava</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8784956</imdbid>
+  <tmdbid>539885</tmdbid>
+  <premiered>2020-07-02</premiered>
+  <releasedate>2020-07-02</releasedate>
+  <criticrating>18</criticrating>
+  <runtime>97</runtime>
+  <tagline>Asesina, o serás asesinado</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Freckle Films</studio>
+  <studio>Voltage Pictures</studio>
+  <studio>Vertical Entertainment</studio>
+  <uniqueid type="imdb">tt8784956</uniqueid>
+  <uniqueid type="tmdb">539885</uniqueid>
+  <id>tt8784956</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1146627</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5829</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

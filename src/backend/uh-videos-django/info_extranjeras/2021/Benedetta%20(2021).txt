@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Adaptación de la novela "Immodest Acts: The Life of a Lesbian Nun in Renaissance Italy (Studies in the History of Sexuality)" de Judith C. Brown, que gira en torno a la sexualidad en un convento y la homosexualidad de una de sus monjas, que desde joven comenzó a tener visiones sin conocer el motivo. Ambientada en el siglo XVII e inspirada en hechos reales, narra la vida de la monja Benedetta Carlini, abadesa en el Convento de la Madre de Dios en Pescia, Italia, y de cómo empezó a tener extrañas visiones que la llevaron a recluirse en sí misma. Es cuando la jerarquía católica decide investigar y pronto encontrará que la abadesa Benedetta está teniendo relaciones sexuales con otra monja del convento, la hermana Bartolomea. Esto provocará un gran enfrentamiento con la Iglesia, en un momento muy complicado de la historia, en el que el protestantismo avanza con fuerza.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-10 11:32:46</dateadded>
+  <title>Benedetta</title>
+  <originaltitle>Benedetta</originaltitle>
+  <actor>
+    <name>Virginie Efira</name>
+    <role>Sœur Benedetta Carlini</role>
+    <type>Actor</type>
+    <tmdbid>118178</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Rampling</name>
+    <role>Mère Felicita</role>
+    <type>Actor</type>
+    <tmdbid>44079</tmdbid>
+    <imdbid>nm0001648</imdbid>
+  </actor>
+  <actor>
+    <name>Daphne Patakia</name>
+    <role>Bartolomea</role>
+    <type>Actor</type>
+    <tmdbid>1527148</tmdbid>
+    <imdbid>nm7346682</imdbid>
+  </actor>
+  <actor>
+    <name>Lambert Wilson</name>
+    <role>Le nonce</role>
+    <type>Actor</type>
+    <tmdbid>2192</tmdbid>
+    <imdbid>nm0933727</imdbid>
+  </actor>
+  <actor>
+    <name>Olivier Rabourdin</name>
+    <role>Alfonso Cecchi</role>
+    <type>Actor</type>
+    <tmdbid>49278</tmdbid>
+    <imdbid>nm0705005</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Chevillotte</name>
+    <role>Sœur Christina</role>
+    <type>Actor</type>
+    <tmdbid>1735987</tmdbid>
+  </actor>
+  <actor>
+    <name>Hervé Pierre</name>
+    <role>Paolo Ricordati</role>
+    <type>Actor</type>
+    <tmdbid>146720</tmdbid>
+    <imdbid>nm0682634</imdbid>
+  </actor>
+  <actor>
+    <name>Clotilde Courau</name>
+    <role>Midea Carlini, la mère de Benedetta</role>
+    <type>Actor</type>
+    <tmdbid>16921</tmdbid>
+    <imdbid>nm0183660</imdbid>
+  </actor>
+  <actor>
+    <name>David Clavel</name>
+    <role>Giuliano Carlini, le père de Benedetta</role>
+    <type>Actor</type>
+    <tmdbid>1656098</tmdbid>
+  </actor>
+  <actor>
+    <name>Guilaine Londez</name>
+    <role>Soeur Jacopa</role>
+    <type>Actor</type>
+    <tmdbid>22307</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaëlle Jantet</name>
+    <role>Sœur Petra</role>
+    <type>Actor</type>
+    <tmdbid>3303044</tmdbid>
+  </actor>
+  <actor>
+    <name>Justine Bachelet</name>
+    <role>Sœur Juliana</role>
+    <type>Actor</type>
+    <tmdbid>1429077</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauriane Riquet</name>
+    <role>Sœur Roasanna</role>
+    <type>Actor</type>
+    <tmdbid>2988250</tmdbid>
+  </actor>
+  <actor>
+    <name>Eléna Plonka</name>
+    <role>Benedetta enfant</role>
+    <type>Actor</type>
+    <tmdbid>1918618</tmdbid>
+  </actor>
+  <actor>
+    <name>Héloïse Bresc</name>
+    <role>Christina enfant</role>
+    <type>Actor</type>
+    <tmdbid>3303024</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Couzinié</name>
+    <role>Jésus-Christ</role>
+    <type>Actor</type>
+    <tmdbid>1852482</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinciane Millereau</name>
+    <role>La doctoresse</role>
+    <type>Actor</type>
+    <tmdbid>586759</tmdbid>
+    <imdbid>nm0589554</imdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Chappatte</name>
+    <role>Le secrétaire</role>
+    <type>Actor</type>
+    <tmdbid>1174339</tmdbid>
+  </actor>
+  <actor>
+    <name>Ewan Ribard</name>
+    <role>Le bourreau</role>
+    <type>Actor</type>
+    <tmdbid>3303050</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Béguinot</name>
+    <role>Le scribe</role>
+    <type>Actor</type>
+    <tmdbid>2571186</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Radicic</name>
+    <role>Le mercenaire borgne</role>
+    <type>Actor</type>
+    <tmdbid>3303055</tmdbid>
+  </actor>
+  <actor>
+    <name>Satya Dusaugey</name>
+    <role>Le mercenaire Dragon</role>
+    <type>Actor</type>
+    <tmdbid>1843660</tmdbid>
+    <imdbid>nm2331206</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Gaspar</name>
+    <role>Le capitaine des mercenaires</role>
+    <type>Actor</type>
+    <tmdbid>3139520</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Penemaria</name>
+    <role>Le capitaine des soldats</role>
+    <type>Actor</type>
+    <tmdbid>1679193</tmdbid>
+  </actor>
+  <actor>
+    <name>Antoine Lelandais</name>
+    <role>Le lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1751141</tmdbid>
+  </actor>
+  <actor>
+    <name>Frédéric Sauzay</name>
+    <role>Le Berger</role>
+    <type>Actor</type>
+    <tmdbid>19389</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexia Chardard</name>
+    <role>Giulia</role>
+    <type>Actor</type>
+    <tmdbid>1880943</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Breyer</name>
+    <role>La novice</role>
+    <type>Actor</type>
+    <tmdbid>1727007</tmdbid>
+  </actor>
+  <actor>
+    <name>Célia Kaci</name>
+    <role>La jeune novice</role>
+    <type>Actor</type>
+    <tmdbid>2483860</tmdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Chabane</name>
+    <role>Un badaud</role>
+    <type>Actor</type>
+    <tmdbid>1473452</tmdbid>
+  </actor>
+  <actor>
+    <name>Boris Gillot</name>
+    <role>Le marchand</role>
+    <type>Actor</type>
+    <tmdbid>2835088</tmdbid>
+  </actor>
+  <actor>
+    <name>Léa Lopez</name>
+    <role>L'adolescente de Pescia n°1</role>
+    <type>Actor</type>
+    <tmdbid>1765294</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Milshtein</name>
+    <role>L'adolescente de Pescia n°2</role>
+    <type>Actor</type>
+    <tmdbid>1106931</tmdbid>
+  </actor>
+  <actor>
+    <name>Pascal Le Corre</name>
+    <role>Un flagellant</role>
+    <type>Actor</type>
+    <tmdbid>3303070</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphaël Potier</name>
+    <role>Une victime de la peste</role>
+    <type>Actor</type>
+    <tmdbid>2751189</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Saunier</name>
+    <role>Un habitant de Pescia</role>
+    <type>Actor</type>
+    <tmdbid>3118009</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabrice Cals</name>
+    <role>Un habitant de la ville</role>
+    <type>Actor</type>
+    <tmdbid>1377727</tmdbid>
+  </actor>
+  <actor>
+    <name>Quentin D'Hainaut</name>
+    <role>Un villageois</role>
+    <type>Actor</type>
+    <tmdbid>2987347</tmdbid>
+  </actor>
+  <director tmdbid="10491" imdbid="nm0000682">Paul Verhoeven</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n-31QJXV3iA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DW5wOtLSfPs</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt6823148</imdbid>
+  <tmdbid>454527</tmdbid>
+  <premiered>2021-07-09</premiered>
+  <releasedate>2021-07-09</releasedate>
+  <runtime>126</runtime>
+  <country>France</country>
+  <country>Italy</country>
+  <country>Netherlands</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <genre>Romance</genre>
+  <studio>SBS Productions</studio>
+  <studio>Topkapi Films</studio>
+  <studio>Pathé</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>Belga Films Fund</studio>
+  <uniqueid type="Tmdb">454527</uniqueid>
+  <uniqueid type="Imdb">tt6823148</uniqueid>
+  <id>tt6823148</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1425298</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7546</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

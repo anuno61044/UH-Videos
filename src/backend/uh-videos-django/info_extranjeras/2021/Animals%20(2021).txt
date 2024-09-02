@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de una década compartiendo salidas nocturnas juntas, la relación entre Tyler y Laura se ve afectada por el nuevo amor de esta última y su dedicación en cuerpo y alma a terminar su última novela. Basada en la obra homónima de Emma Jane Unsworth.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-04 19:59:45</dateadded>
+  <title>Amistades salvajes</title>
+  <originaltitle>Animals</originaltitle>
+  <actor>
+    <name>Holliday Grainger</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>302165</tmdbid>
+    <imdbid>nm0334441</imdbid>
+    <tvdbid>490021</tvdbid>
+  </actor>
+  <actor>
+    <name>Alia Shawkat</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>61178</tmdbid>
+    <imdbid>nm0790057</imdbid>
+    <tvdbid>334028</tvdbid>
+  </actor>
+  <actor>
+    <name>Fra Fee</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>1278528</tmdbid>
+    <imdbid>nm4897370</imdbid>
+    <tvdbid>8464688</tvdbid>
+  </actor>
+  <actor>
+    <name>Dermot Murphy</name>
+    <role>Marty</role>
+    <type>Actor</type>
+    <tmdbid>1862433</tmdbid>
+    <imdbid>nm5447790</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Molloy</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>1801082</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Shortt</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>83278</tmdbid>
+    <imdbid>nm0795169</imdbid>
+  </actor>
+  <actor>
+    <name>Olwen Fouéré</name>
+    <role>Maureen</role>
+    <type>Actor</type>
+    <tmdbid>933272</tmdbid>
+    <imdbid>nm0288260</imdbid>
+  </actor>
+  <actor>
+    <name>Kwaku Fortune</name>
+    <role>Julian</role>
+    <type>Actor</type>
+    <tmdbid>1878695</tmdbid>
+  </actor>
+  <actor>
+    <name>Elva Trill</name>
+    <role>Kirsten</role>
+    <type>Actor</type>
+    <tmdbid>1490863</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Morris</name>
+    <role>Chicken Sandwich</role>
+    <type>Actor</type>
+    <tmdbid>2266751</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamael Westman</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>2266752</tmdbid>
+    <tvdbid>8892377</tvdbid>
+  </actor>
+  <actor>
+    <name>Muiris Crowley</name>
+    <role>The Avant Gardener</role>
+    <type>Actor</type>
+    <tmdbid>1397976</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Egan Langley</name>
+    <role>Wedding Dress Shop Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2266753</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Lincoln</name>
+    <role>Bar Man</role>
+    <type>Actor</type>
+    <tmdbid>2266755</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Maher</name>
+    <role>Jake</role>
+    <type>Actor</type>
+    <tmdbid>2266756</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeff Lawless</name>
+    <role>Bursary Benefactor at Awards Party</role>
+    <type>Actor</type>
+    <tmdbid>2266758</tmdbid>
+  </actor>
+  <director tmdbid="1057496">Sophie Hyde</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_FN_zr4rQzY</trailer>
+  <rating>6.1</rating>
+  <year>2019</year>
+  <sorttitle>Amistades salvajes</sorttitle>
+  <imdbid>tt4426738</imdbid>
+  <tmdbid>513340</tmdbid>
+  <premiered>2019-08-02</premiered>
+  <releasedate>2019-08-02</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>92</runtime>
+  <country>Australia</country>
+  <country>Finland</country>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Closer Productions</studio>
+  <studio>Vico Films</studio>
+  <uniqueid type="tmdb">513340</uniqueid>
+  <uniqueid type="imdb">tt4426738</uniqueid>
+  <id>tt4426738</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149608</bitrate>
+        <width>958</width>
+        <height>720</height>
+        <aspect>358:269</aspect>
+        <aspectratio>358:269</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5493</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129122</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ca</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

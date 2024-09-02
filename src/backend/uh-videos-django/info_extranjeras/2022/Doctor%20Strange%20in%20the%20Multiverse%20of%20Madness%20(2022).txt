@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.]]></plot>
+  <outline><![CDATA[Entra en una nueva dimensión de Strange.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-21 10:05:58</dateadded>
+  <title>Doctor Strange en el multiverso de la locura</title>
+  <originaltitle>Doctor Strange in the Multiverse of Madness</originaltitle>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Dr. Stephen Strange / Sinister Strange / Defender Strange</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+    <tvdbid>292578</tvdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Olsen</name>
+    <role>Wanda Maximoff / The Scarlet Witch</role>
+    <type>Actor</type>
+    <tmdbid>550843</tmdbid>
+    <imdbid>nm0647634</imdbid>
+    <tvdbid>310995</tvdbid>
+  </actor>
+  <actor>
+    <name>Chiwetel Ejiofor</name>
+    <role>Baron Karl Mordo</role>
+    <type>Actor</type>
+    <tmdbid>5294</tmdbid>
+    <imdbid>nm0252230</imdbid>
+    <tvdbid>310990</tvdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wong</name>
+    <role>Wong</role>
+    <type>Actor</type>
+    <tmdbid>30082</tmdbid>
+    <imdbid>nm0938950</imdbid>
+    <tvdbid>273957</tvdbid>
+  </actor>
+  <actor>
+    <name>Xochitl Gomez</name>
+    <role>America Chavez</role>
+    <type>Actor</type>
+    <tmdbid>1912381</tmdbid>
+    <tvdbid>8168720</tvdbid>
+  </actor>
+  <actor>
+    <name>Jett Klyne</name>
+    <role>Tommy Maximoff</role>
+    <type>Actor</type>
+    <tmdbid>1538879</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Hilliard</name>
+    <role>Billy Maximoff</role>
+    <type>Actor</type>
+    <tmdbid>2047847</tmdbid>
+    <imdbid>nm6623135</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Atim</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>1851642</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Hugill</name>
+    <role>Rintrah (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2211274</tmdbid>
+    <imdbid>nm9273822</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Dr. Nicodemus 'Nic' West</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+    <tvdbid>317044</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel McAdams</name>
+    <role>Dr. Christine Palmer</role>
+    <type>Actor</type>
+    <tmdbid>53714</tmdbid>
+    <imdbid>nm1046097</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley Atwell</name>
+    <role>Peggy Carter / Captain Carter</role>
+    <type>Actor</type>
+    <tmdbid>39459</tmdbid>
+    <imdbid>nm2017943</imdbid>
+    <tvdbid>327500</tvdbid>
+  </actor>
+  <actor>
+    <name>Anson Mount</name>
+    <role>Blackagar Boltagon / Black Bolt</role>
+    <type>Actor</type>
+    <tmdbid>56675</tmdbid>
+    <imdbid>nm0609845</imdbid>
+    <tvdbid>314566</tvdbid>
+  </actor>
+  <actor>
+    <name>Lashana Lynch</name>
+    <role>Maria Rambeau / Captain Marvel</role>
+    <type>Actor</type>
+    <tmdbid>1360281</tmdbid>
+    <imdbid>nm2736476</imdbid>
+  </actor>
+  <actor>
+    <name>John Krasinski</name>
+    <role>Reed Richards / Mr. Fantastic</role>
+    <type>Actor</type>
+    <tmdbid>17697</tmdbid>
+    <imdbid>nm1024677</imdbid>
+    <tvdbid>327265</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick Stewart</name>
+    <role>Professor Charles Xavier / Professor X</role>
+    <type>Actor</type>
+    <tmdbid>2387</tmdbid>
+    <imdbid>nm0001772</imdbid>
+    <tvdbid>284167</tvdbid>
+  </actor>
+  <actor>
+    <name>Charlize Theron</name>
+    <role>Clea</role>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Campbell</name>
+    <role>Pizza Poppa</role>
+    <type>Actor</type>
+    <tmdbid>11357</tmdbid>
+    <imdbid>nm0132257</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Marquand</name>
+    <role>Ultron (voice)</role>
+    <type>Actor</type>
+    <tmdbid>555249</tmdbid>
+    <imdbid>nm2739851</imdbid>
+    <tvdbid>475503</tvdbid>
+  </actor>
+  <actor>
+    <name>Andy Bale</name>
+    <role>Memory Lane Salesperson (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2366019</tmdbid>
+    <imdbid>nm0050035</imdbid>
+  </actor>
+  <actor>
+    <name>Ako Mitchell</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1363722</tmdbid>
+  </actor>
+  <actor>
+    <name>Momo Yeung</name>
+    <role>Hong Kong Master</role>
+    <type>Actor</type>
+    <tmdbid>2476377</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Swain</name>
+    <role>London Master</role>
+    <type>Actor</type>
+    <tmdbid>2743994</tmdbid>
+  </actor>
+  <actor>
+    <name>Topo Wresniwiro</name>
+    <role>Master Hamir</role>
+    <type>Actor</type>
+    <tmdbid>1703906</tmdbid>
+  </actor>
+  <actor>
+    <name>Eden Nathenson</name>
+    <role>Ariann</role>
+    <type>Actor</type>
+    <tmdbid>1480898</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinny Moli</name>
+    <role>Vinny</role>
+    <type>Actor</type>
+    <tmdbid>3539133</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Norton</name>
+    <role>The Weasel</role>
+    <type>Actor</type>
+    <tmdbid>2973171</tmdbid>
+  </actor>
+  <actor>
+    <name>Aliyah Camacho</name>
+    <role>Young America Chavez</role>
+    <type>Actor</type>
+    <tmdbid>3539134</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Livier</name>
+    <role>Elena Chavez</role>
+    <type>Actor</type>
+    <tmdbid>155868</tmdbid>
+  </actor>
+  <actor>
+    <name>Chess Lopez</name>
+    <role>Amalia Chavez</role>
+    <type>Actor</type>
+    <tmdbid>3539135</tmdbid>
+  </actor>
+  <actor>
+    <name>David Tse</name>
+    <role>Kamar-Taj Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1013950</tmdbid>
+    <imdbid>nm0874851</imdbid>
+  </actor>
+  <actor>
+    <name>Yasmin Chadwick</name>
+    <role>Rag Tag #1</role>
+    <type>Actor</type>
+    <tmdbid>3539137</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Knight</name>
+    <role>Rag Tag #2</role>
+    <type>Actor</type>
+    <tmdbid>2744579</tmdbid>
+  </actor>
+  <actor>
+    <name>Nuakai Aru</name>
+    <role>Shield Bearer #1</role>
+    <type>Actor</type>
+    <tmdbid>3539139</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Grove</name>
+    <role>Shield Bearer #2</role>
+    <type>Actor</type>
+    <tmdbid>1627840</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Peace</name>
+    <role>NY Passerby 616</role>
+    <type>Actor</type>
+    <tmdbid>5925</tmdbid>
+    <imdbid>nm0668702</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Jalava</name>
+    <role>Doctor Strange Fan</role>
+    <type>Actor</type>
+    <tmdbid>2825529</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshmaine Joseph</name>
+    <role>Gargantos Fight Spectator #1</role>
+    <type>Actor</type>
+    <tmdbid>2718957</tmdbid>
+  </actor>
+  <actor>
+    <name>Yenifer Molina</name>
+    <role>Gargantos Fight Spectator #2</role>
+    <type>Actor</type>
+    <tmdbid>3539144</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dalton</name>
+    <role>Christine's Father</role>
+    <type>Actor</type>
+    <tmdbid>3539276</tmdbid>
+  </actor>
+  <actor>
+    <name>Orphee Sidibe</name>
+    <role>Bio Room Staff #1</role>
+    <type>Actor</type>
+    <tmdbid>3539146</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Fung</name>
+    <role>Bio Room Staff #2</role>
+    <type>Actor</type>
+    <tmdbid>3539148</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Appiah</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3080312</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Sterling</name>
+    <role>Rag Tag Student</role>
+    <type>Actor</type>
+    <tmdbid>3539149</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Alexandra</name>
+    <role>Office Worker</role>
+    <type>Actor</type>
+    <tmdbid>3539152</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobbie Little</name>
+    <role>Scared Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>3092061</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Cooper-Parsons</name>
+    <role>Scared Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>3539154</tmdbid>
+  </actor>
+  <actor>
+    <name>André Layne</name>
+    <role>Sanctuary Guard</role>
+    <type>Actor</type>
+    <tmdbid>2804690</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Waldron</name>
+    <role>Charlie's Best Man</role>
+    <type>Actor</type>
+    <tmdbid>2094567</tmdbid>
+  </actor>
+  <actor>
+    <name>Bridget Hoffman</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>173428</tmdbid>
+    <imdbid>nm0033977</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Spiegel</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11641</tmdbid>
+    <imdbid>nm0818547</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Pennington</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>173742</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Morgado</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>80823</tmdbid>
+    <imdbid>nm1157771</imdbid>
+  </actor>
+  <actor>
+    <name>Audrey Wasilewski</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>86170</tmdbid>
+    <imdbid>nm0913585</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Rummel</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3173542</tmdbid>
+  </actor>
+  <actor>
+    <name>Richie Palmer</name>
+    <role>Soul of the Damned (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2072553</tmdbid>
+  </actor>
+  <director tmdbid="7623" imdbid="nm0000600">Sam Raimi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LZbQJVO1Dk8</trailer>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>Doctor Strange en el multiverso de la locura</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9419884</imdbid>
+  <tmdbid>453395</tmdbid>
+  <premiered>2022-05-04</premiered>
+  <releasedate>2022-05-04</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>127</runtime>
+  <tagline>Entra en una nueva dimensión de Strange.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <set tmdbcolid="618529">
+    <name>Doctor Strange - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt9419884</uniqueid>
+  <uniqueid type="tmdb">453395</uniqueid>
+  <id>tt9419884</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>880734</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7591</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

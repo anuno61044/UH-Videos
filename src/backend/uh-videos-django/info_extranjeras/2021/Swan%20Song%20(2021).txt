@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en un futuro cercano, narra la historia de Cameron (Mahershala Ali), amante esposo y padre de familia al que diagnostican una enfermedad terminal, y a quien su médico (Glenn Close) ofrece una solución alternativa que podría evitarle a su familia el dolor del duelo. Mientras Cam decide sobre si debe alterar o no el destino de su familia, aprenderá más sobre la vida y el amor de lo que jamás hubiera imaginado.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 12:27:22</dateadded>
+  <title>El canto del cisne</title>
+  <originaltitle>Swan Song</originaltitle>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Cameron Turner</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Naomie Harris</name>
+    <role>Poppy Turner</role>
+    <type>Actor</type>
+    <tmdbid>2038</tmdbid>
+    <imdbid>nm0365140</imdbid>
+    <tvdbid>258413</tvdbid>
+  </actor>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Kate</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>Glenn Close</name>
+    <role>Dr. Eve Scott</role>
+    <type>Actor</type>
+    <tmdbid>515</tmdbid>
+    <imdbid>nm0000335</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Beach</name>
+    <role>Dalton</role>
+    <type>Actor</type>
+    <tmdbid>33527</tmdbid>
+    <imdbid>nm0063440</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Shorten</name>
+    <role>Rafa</role>
+    <type>Actor</type>
+    <tmdbid>1475833</tmdbid>
+  </actor>
+  <actor>
+    <name>Dax Rey</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>3153677</tmdbid>
+  </actor>
+  <actor>
+    <name>Nyasha Hatendi</name>
+    <role>Andre</role>
+    <type>Actor</type>
+    <tmdbid>84070</tmdbid>
+    <imdbid>nm1812840</imdbid>
+  </actor>
+  <actor>
+    <name>JayR Tinaco</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <tmdbid>2059180</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Camilleri</name>
+    <role>Rob</role>
+    <type>Actor</type>
+    <tmdbid>1369075</tmdbid>
+    <imdbid>nm2869925</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Hayles</name>
+    <role>Julie</role>
+    <type>Actor</type>
+    <tmdbid>1376874</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikayla Lagman</name>
+    <role>Sammy</role>
+    <type>Actor</type>
+    <tmdbid>3251485</tmdbid>
+  </actor>
+  <actor>
+    <name>Shema Cayden</name>
+    <role>Young Cameron</role>
+    <type>Actor</type>
+    <tmdbid>3251486</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiden Adejuwon</name>
+    <role>Cory (Age 5)</role>
+    <type>Actor</type>
+    <tmdbid>3437451</tmdbid>
+  </actor>
+  <actor>
+    <name>Ace LeVere</name>
+    <role>Cory (Age 2)</role>
+    <type>Actor</type>
+    <tmdbid>3437454</tmdbid>
+  </actor>
+  <director tmdbid="1571805">Benjamin Cleary</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sP4-gs9v4No</trailer>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <sorttitle>canto del cisne</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13207508</imdbid>
+  <tmdbid>765245</tmdbid>
+  <premiered>2021-12-17</premiered>
+  <releasedate>2021-12-17</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>112</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Anonymous Content</studio>
+  <studio>Know Wonder</studio>
+  <studio>By Ghost Productions</studio>
+  <studio>Apple</studio>
+  <uniqueid type="imdb">tt13207508</uniqueid>
+  <uniqueid type="tmdb">765245</uniqueid>
+  <id>tt13207508</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1048155</bitrate>
+        <width>1720</width>
+        <height>720</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6718</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64159</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

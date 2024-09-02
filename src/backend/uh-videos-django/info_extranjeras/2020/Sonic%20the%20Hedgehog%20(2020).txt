@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.]]></plot>
+  <outline><![CDATA[Un Héroe con una velocidad completamente nueva]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-09 09:07:26</dateadded>
+  <title>Sonic the Hedgehog</title>
+  <originaltitle>Sonic the Hedgehog</originaltitle>
+  <actor>
+    <name>Ben Schwartz</name>
+    <type>Actor</type>
+    <tmdbid>222121</tmdbid>
+    <imdbid>nm2355635</imdbid>
+    <tvdbid>285161</tvdbid>
+  </actor>
+  <actor>
+    <name>James Marsden</name>
+    <type>Actor</type>
+    <tmdbid>11006</tmdbid>
+    <imdbid>nm0005188</imdbid>
+    <tvdbid>267668</tvdbid>
+  </actor>
+  <actor>
+    <name>Jim Carrey</name>
+    <type>Actor</type>
+    <tmdbid>206</tmdbid>
+    <imdbid>nm0000120</imdbid>
+  </actor>
+  <actor>
+    <name>Tika Sumpter</name>
+    <type>Actor</type>
+    <tmdbid>110742</tmdbid>
+    <imdbid>nm1754366</imdbid>
+  </actor>
+  <director tmdbid="93364" imdbid="nm1733778">Jeff Fowler</director>
+  <writer>Pat Casey</writer>
+  <writer>Josh Miller</writer>
+  <credits>Pat Casey</credits>
+  <credits>Josh Miller</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KeGqOqRREi8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XPqAai3WBag</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>Sonic the Hedgehog</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt3794354</imdbid>
+  <tmdbid>454626</tmdbid>
+  <premiered>2020-02-12</premiered>
+  <releasedate>2020-02-12</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>99</runtime>
+  <tagline>Un Héroe con una velocidad completamente nueva</tagline>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Sci-Fi</genre>
+  <studio>Original Film</studio>
+  <studio>Blur Studios</studio>
+  <studio>Marza Animation Planet</studio>
+  <studio>Paramount</studio>
+  <studio>SEGA</studio>
+  <studio>DJ2 Entertainment</studio>
+  <studio>Digital Makeup Group</studio>
+  <studio>Stories International</studio>
+  <set tmdbcolid="720879">
+    <name>Sonic El Erizo - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt3794354</uniqueid>
+  <uniqueid type="tmdb">454626</uniqueid>
+  <id>tt3794354</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1993603</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5922</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>avi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>720879</collectionnumber>
+</movie>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Pirineos occidentales, año 778. Cuando su tierra se ve amenazada por los despiadados ejércitos del emperador franco, un caudillo vasco pide ayuda a sus dioses ancestrales.]]></plot>
+  <outline><![CDATA[Todo lo que tiene nombre existe]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-05 06:49:44</dateadded>
+  <title>Irati</title>
+  <originaltitle>Irati</originaltitle>
+  <actor>
+    <name>Eneko Sagardoy</name>
+    <role>Eneko</role>
+    <type>Actor</type>
+    <tmdbid>1658652</tmdbid>
+  </actor>
+  <actor>
+    <name>Edurne Azkarate</name>
+    <role>Irati</role>
+    <type>Actor</type>
+    <tmdbid>3586088</tmdbid>
+  </actor>
+  <actor>
+    <name>Itziar Ituño</name>
+    <role>Mari</role>
+    <type>Actor</type>
+    <tmdbid>947514</tmdbid>
+    <imdbid>nm1523587</imdbid>
+  </actor>
+  <actor>
+    <name>Ramon Agirre</name>
+    <role>Virila</role>
+    <type>Actor</type>
+    <tmdbid>122461</tmdbid>
+    <imdbid>nm0013741</imdbid>
+  </actor>
+  <actor>
+    <name>Patxi Bisquert</name>
+    <role>Old Eneko</role>
+    <type>Actor</type>
+    <tmdbid>942128</tmdbid>
+  </actor>
+  <actor>
+    <name>Karlos Arguiñano</name>
+    <role>Gorza</role>
+    <type>Actor</type>
+    <tmdbid>1049373</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Uriz</name>
+    <role>Luxa</role>
+    <type>Actor</type>
+    <tmdbid>2480570</tmdbid>
+  </actor>
+  <actor>
+    <name>Kepa Errasti</name>
+    <role>Belasko</role>
+    <type>Actor</type>
+    <tmdbid>2459717</tmdbid>
+  </actor>
+  <actor>
+    <name>Nagore Aranburu</name>
+    <role>Oneka</role>
+    <type>Actor</type>
+    <tmdbid>1303016</tmdbid>
+    <imdbid>nm1084844</imdbid>
+  </actor>
+  <actor>
+    <name>Iñigo Aranbarri</name>
+    <role>Eneko Ximénez</role>
+    <type>Actor</type>
+    <tmdbid>2410784</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñaki Beraetxe</name>
+    <role>Ximeno</role>
+    <type>Actor</type>
+    <tmdbid>1124052</tmdbid>
+    <imdbid>nm0073218</imdbid>
+  </actor>
+  <actor>
+    <name>Josu Eguskiza</name>
+    <role>Odón</role>
+    <type>Actor</type>
+    <tmdbid>1489412</tmdbid>
+  </actor>
+  <actor>
+    <name>Unax Hayden</name>
+    <role>Child Eneko</role>
+    <type>Actor</type>
+    <tmdbid>3782119</tmdbid>
+  </actor>
+  <actor>
+    <name>Miren Tirapu</name>
+    <role>Munia</role>
+    <type>Actor</type>
+    <tmdbid>2261528</tmdbid>
+  </actor>
+  <actor>
+    <name>Aitor Echarte</name>
+    <role>Anso</role>
+    <type>Actor</type>
+    <tmdbid>3639353</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaizka Chamizo</name>
+    <role>Berex</role>
+    <type>Actor</type>
+    <tmdbid>3639354</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Michel Bereau</name>
+    <role>Roland</role>
+    <type>Actor</type>
+    <tmdbid>3994965</tmdbid>
+  </actor>
+  <actor>
+    <name>Leire Indurain</name>
+    <role>Child Irati</role>
+    <type>Actor</type>
+    <tmdbid>3994967</tmdbid>
+  </actor>
+  <actor>
+    <name>Asier Hernández</name>
+    <role>Otsoa</role>
+    <type>Actor</type>
+    <tmdbid>1062331</tmdbid>
+    <imdbid>nm0379882</imdbid>
+  </actor>
+  <actor>
+    <name>Asier Alustiza</name>
+    <role>Martín</role>
+    <type>Actor</type>
+    <tmdbid>3994968</tmdbid>
+  </actor>
+  <actor>
+    <name>Nora Gondat</name>
+    <role>Xune</role>
+    <type>Actor</type>
+    <tmdbid>3994969</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel «El Lobo» Blasco</name>
+    <role>Galindo</role>
+    <type>Actor</type>
+    <tmdbid>2453618</tmdbid>
+  </actor>
+  <actor>
+    <name>Elías García Sanz</name>
+    <role>Aznar / Sugaar</role>
+    <type>Actor</type>
+    <tmdbid>4053244</tmdbid>
+  </actor>
+  <actor>
+    <name>Eguzki Zubia</name>
+    <role>Gala</role>
+    <type>Actor</type>
+    <tmdbid>2882373</tmdbid>
+  </actor>
+  <actor>
+    <name>Mirena Nafarrate</name>
+    <role>Auria</role>
+    <type>Actor</type>
+    <tmdbid>3958076</tmdbid>
+  </actor>
+  <actor>
+    <name>Ibán Malo</name>
+    <role>Gartzia</role>
+    <type>Actor</type>
+    <tmdbid>2470931</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Hernández</name>
+    <role>Lamia</role>
+    <type>Actor</type>
+    <tmdbid>3891657</tmdbid>
+  </actor>
+  <actor>
+    <name>Ion Barbarin</name>
+    <role>Belasko Man #1</role>
+    <type>Actor</type>
+    <tmdbid>3996445</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Izpura</name>
+    <role>Belasko Man #2</role>
+    <type>Actor</type>
+    <tmdbid>3996446</tmdbid>
+  </actor>
+  <actor>
+    <name>Ortzi Acosta</name>
+    <role>Frankish Soldier #1</role>
+    <type>Actor</type>
+    <tmdbid>1524167</tmdbid>
+    <imdbid>nm2801133</imdbid>
+  </actor>
+  <actor>
+    <name>Iván Saldaña</name>
+    <role>Frankish Soldier #2</role>
+    <type>Actor</type>
+    <tmdbid>2829377</tmdbid>
+  </actor>
+  <actor>
+    <name>Ibán Uriz</name>
+    <role>Frankish Soldier #3</role>
+    <type>Actor</type>
+    <tmdbid>3996447</tmdbid>
+  </actor>
+  <actor>
+    <name>Gorka Zubeldia</name>
+    <role>Wounded Frankish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2300302</tmdbid>
+  </actor>
+  <actor>
+    <name>Ane Sagüés</name>
+    <role>Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>3996448</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Azpilikueta</name>
+    <role>Townswoman</role>
+    <type>Actor</type>
+    <tmdbid>3996621</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Javier Salvo</name>
+    <role>Townsman</role>
+    <type>Actor</type>
+    <tmdbid>3996622</tmdbid>
+  </actor>
+  <actor>
+    <name>Txetxu Collado Berruezo</name>
+    <role>Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>3996623</tmdbid>
+  </actor>
+  <actor>
+    <name>Ismael Galán</name>
+    <role>Monk</role>
+    <type>Actor</type>
+    <tmdbid>3996625</tmdbid>
+  </actor>
+  <actor>
+    <name>Boris Díaz</name>
+    <role>Worker #1</role>
+    <type>Actor</type>
+    <tmdbid>3996626</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñaki Esparza</name>
+    <role>Navarre Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3996628</tmdbid>
+  </actor>
+  <actor>
+    <name>Oihane Poveda</name>
+    <role>Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3996630</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Napal</name>
+    <role>Basque Warrior #1</role>
+    <type>Actor</type>
+    <tmdbid>3996633</tmdbid>
+  </actor>
+  <actor>
+    <name>Amancay Gaztañaga</name>
+    <role>Basque Warrior #2</role>
+    <type>Actor</type>
+    <tmdbid>2849657</tmdbid>
+  </actor>
+  <actor>
+    <name>Koldo Fernández</name>
+    <role>Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>3996624</tmdbid>
+  </actor>
+  <director tmdbid="1428818" imdbid="nm4807465">Paul Urkijo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0wkMN-yQMoA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eq-LfI9oFss</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OlxzoYVZHFM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zzq1v2D-ZSU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bwI2AMMQDms</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=40Qsum9Gj9s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ib6nnBHtnEA</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>Irati</sorttitle>
+  <imdbid>tt15734582</imdbid>
+  <tmdbid>726274</tmdbid>
+  <premiered>2023-02-24</premiered>
+  <releasedate>2023-02-24</releasedate>
+  <runtime>111</runtime>
+  <tagline>Todo lo que tiene nombre existe</tagline>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <studio>Ikusgarri Films</studio>
+  <studio>Bainet Teknika</studio>
+  <studio>Kilima Media</studio>
+  <studio>La Fidèle Production</studio>
+  <studio>EiTB</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt15734582</uniqueid>
+  <uniqueid type="tmdb">726274</uniqueid>
+  <id>tt15734582</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>273780</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6682</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63839</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuatro dentistas que se enfrentan a sus problemáticas personales después de coincidir en una convención de especialistas dentales.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-14 15:40:38</dateadded>
+  <title>Amalgama</title>
+  <originaltitle>Amalgama</originaltitle>
+  <actor>
+    <name>Manolo Cardona</name>
+    <role>Dr. José María Chema Gómez</role>
+    <type>Actor</type>
+    <tmdbid>66914</tmdbid>
+    <imdbid>nm0136572</imdbid>
+    <tvdbid>7891315</tvdbid>
+  </actor>
+  <actor>
+    <name>Miguel Rodarte</name>
+    <role>Dr. Hugo Vera</role>
+    <type>Actor</type>
+    <tmdbid>133762</tmdbid>
+    <imdbid>nm1161078</imdbid>
+    <tvdbid>607010</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Dalton</name>
+    <role>Dr. Saúl Bravo</role>
+    <type>Actor</type>
+    <tmdbid>76855</tmdbid>
+    <imdbid>nm0198366</imdbid>
+    <tvdbid>579075</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Cayo</name>
+    <role>Dra. Elena Durán</role>
+    <type>Actor</type>
+    <tmdbid>1255083</tmdbid>
+    <tvdbid>511871</tvdbid>
+  </actor>
+  <actor>
+    <name>Francis Cruz</name>
+    <role>Dr. Avelino Magaña</role>
+    <type>Actor</type>
+    <tmdbid>2427586</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Calva</name>
+    <role>Omar</role>
+    <type>Actor</type>
+    <tmdbid>1018058</tmdbid>
+    <imdbid>nm0130753</imdbid>
+  </actor>
+  <actor>
+    <name>Ximena Herrera</name>
+    <role>Tamara</role>
+    <type>Actor</type>
+    <tmdbid>971141</tmdbid>
+    <imdbid>nm1632639</imdbid>
+  </actor>
+  <director tmdbid="12529">Carlos Cuarón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kV7KR9_KP6I</trailer>
+  <rating>4.9</rating>
+  <year>2020</year>
+  <sorttitle>Amalgama</sorttitle>
+  <imdbid>tt12143014</imdbid>
+  <tmdbid>755977</tmdbid>
+  <premiered>2020-10-31</premiered>
+  <releasedate>2020-10-31</releasedate>
+  <runtime>92</runtime>
+  <country>Mexico</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <uniqueid type="tmdb">755977</uniqueid>
+  <uniqueid type="imdb">tt12143014</uniqueid>
+  <id>tt12143014</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1327324</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5517</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128290</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

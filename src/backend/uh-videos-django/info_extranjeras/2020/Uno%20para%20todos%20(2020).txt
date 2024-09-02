@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un profesor interino asume la tarea de ser tutor de sexto de primaria en un pueblo completamente desconocido para él. Cuando descubre que tiene que reintegrar a un alumno enfermo en el aula, se encuentra con un problema aún mayor: ninguno de sus compañeros quiere que vuelva a clase.]]></plot>
+  <outline><![CDATA[Un Film de David Ilundain]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-22 11:21:38</dateadded>
+  <title>Uno para todos</title>
+  <originaltitle>Uno para todos</originaltitle>
+  <actor>
+    <name>David Verdaguer</name>
+    <role>Aleix</role>
+    <type>Actor</type>
+    <tmdbid>1149067</tmdbid>
+    <imdbid>nm1992631</imdbid>
+    <tvdbid>544886</tvdbid>
+  </actor>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Clara Segura</name>
+    <type>Actor</type>
+    <tmdbid>33410</tmdbid>
+    <imdbid>nm1443814</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Labordeta</name>
+    <type>Actor</type>
+    <tmdbid>269683</tmdbid>
+    <imdbid>nm0479590</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Túnez</name>
+    <type>Actor</type>
+    <tmdbid>2468506</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Pobes</name>
+    <type>Actor</type>
+    <tmdbid>1207285</tmdbid>
+    <imdbid>nm4587635</imdbid>
+  </actor>
+  <actor>
+    <name>Valèria Endrino</name>
+    <role>Valeria</role>
+    <type>Actor</type>
+    <tmdbid>2468507</tmdbid>
+  </actor>
+  <director tmdbid="1506375" imdbid="nm1076864">David Ilundain</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0ANdwwbQjpQ</trailer>
+  <rating>6.3</rating>
+  <year>2020</year>
+  <sorttitle>Uno para todos</sorttitle>
+  <imdbid>tt9717498</imdbid>
+  <tmdbid>651391</tmdbid>
+  <premiered>2020-09-18</premiered>
+  <releasedate>2020-09-18</releasedate>
+  <runtime>91</runtime>
+  <tagline>Un Film de David Ilundain</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>A Contracorriente Films</studio>
+  <studio>Inicia Films</studio>
+  <studio>Aragón TV</studio>
+  <studio>TV3</studio>
+  <studio>TVE</studio>
+  <studio>ICEC</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt9717498</uniqueid>
+  <uniqueid type="tmdb">651391</uniqueid>
+  <id>tt9717498</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>2053428</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5484</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

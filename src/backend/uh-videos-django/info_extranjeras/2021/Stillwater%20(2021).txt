@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Bill Baker (Matt Damon) es un rudo operario de una plataforma petrolera estadounidense que viaja a Marsella para visitar a su hija, en prisión por un asesinato que afirma no haber cometido. Lejos de casa, las cosas no serán nada fáciles para un padre dispuesto a todo para demostrar la inocencia de su hija.]]></plot>
+  <outline><![CDATA[Los secretos son profundos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-19 08:21:26</dateadded>
+  <title>Cuestión de sangre</title>
+  <originaltitle>Stillwater</originaltitle>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Bill Baker</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Abigail Breslin</name>
+    <role>Allison</role>
+    <type>Actor</type>
+    <tmdbid>17140</tmdbid>
+    <imdbid>nm1113550</imdbid>
+  </actor>
+  <actor>
+    <name>Camille Cottin</name>
+    <role>Virginie</role>
+    <type>Actor</type>
+    <tmdbid>1348474</tmdbid>
+    <tvdbid>562031</tvdbid>
+  </actor>
+  <actor>
+    <name>Lilou Siauvaud</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>3101528</tmdbid>
+  </actor>
+  <actor>
+    <name>Deanna Dunagan</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>204271</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Le Ny</name>
+    <role>Leparq</role>
+    <type>Actor</type>
+    <tmdbid>19370</tmdbid>
+    <imdbid>nm0494504</imdbid>
+  </actor>
+  <actor>
+    <name>Moussa Maaskri</name>
+    <role>Dirosa</role>
+    <type>Actor</type>
+    <tmdbid>20532</tmdbid>
+    <imdbid>nm0531014</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Peters</name>
+    <role>Pastor</role>
+    <type>Actor</type>
+    <tmdbid>1217939</tmdbid>
+    <imdbid>nm0676649</imdbid>
+  </actor>
+  <actor>
+    <name>Idir Azougli</name>
+    <role>Akim</role>
+    <type>Actor</type>
+    <tmdbid>2024090</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Starkey</name>
+    <role>Senator</role>
+    <type>Actor</type>
+    <tmdbid>126199</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin France</name>
+    <role>Young Activist</role>
+    <type>Actor</type>
+    <tmdbid>2737078</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Sievers</name>
+    <role>Local Resident</role>
+    <type>Actor</type>
+    <tmdbid>1580574</tmdbid>
+    <imdbid>nm0797329</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Washburn</name>
+    <role>Tool Pusher</role>
+    <type>Actor</type>
+    <tmdbid>2852277</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Herring</name>
+    <role>Local Crowd</role>
+    <type>Actor</type>
+    <tmdbid>2237936</tmdbid>
+  </actor>
+  <actor>
+    <name>Ginifer Ree</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2505978</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Rivas</name>
+    <role>Bills Crew Member</role>
+    <type>Actor</type>
+    <tmdbid>1828240</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Dee</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1876878</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Music</name>
+    <role>Press Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3038125</tmdbid>
+  </actor>
+  <actor>
+    <name>David C Tam</name>
+    <role>Devastated Resident</role>
+    <type>Actor</type>
+    <tmdbid>2370619</tmdbid>
+  </actor>
+  <actor>
+    <name>Dimitri Payet</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>3207599</tmdbid>
+  </actor>
+  <actor>
+    <name>Nassiriat Mohamed</name>
+    <type>Actor</type>
+    <tmdbid>3211876</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisandro Boccacci</name>
+    <role>Airport Supervisor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2618665</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Tomneer</name>
+    <role>Policier restaurant</role>
+    <type>Actor</type>
+    <tmdbid>3133372</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Limonche</name>
+    <role>Policier restaurant</role>
+    <type>Actor</type>
+    <tmdbid>3243283</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovic Marchand</name>
+    <role>Policier restaurant</role>
+    <type>Actor</type>
+    <tmdbid>3243284</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Callec</name>
+    <role>Policier restaurant</role>
+    <type>Actor</type>
+    <tmdbid>3243285</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Taïeb</name>
+    <role>Policier restaurant</role>
+    <type>Actor</type>
+    <tmdbid>3243288</tmdbid>
+  </actor>
+  <actor>
+    <name>Berthélémy Giulj</name>
+    <role>Policier restaurant</role>
+    <type>Actor</type>
+    <tmdbid>3243289</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Hooks</name>
+    <role>Bill's Crew (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3315963</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenda Henthorn</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3076220</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernie Robinson</name>
+    <role>Drive-In Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2618680</tmdbid>
+  </actor>
+  <director tmdbid="17867" imdbid="nm0565336">Tom McCarthy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IZJ3WxEo-GQ</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Cuestion de sangre</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10696896</imdbid>
+  <tmdbid>616651</tmdbid>
+  <premiered>2021-07-29</premiered>
+  <releasedate>2021-07-29</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>139</runtime>
+  <tagline>Los secretos son profundos.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Anonymous Content</studio>
+  <studio>Slow Pony Pictures</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>Participant</studio>
+  <studio>3dot Productions</studio>
+  <studio>Amblin Partners</studio>
+  <uniqueid type="imdb">tt10696896</uniqueid>
+  <uniqueid type="tmdb">616651</uniqueid>
+  <id>tt10696896</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>899798</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8363</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

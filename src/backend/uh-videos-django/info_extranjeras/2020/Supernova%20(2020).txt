@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sam y Tusker, pareja de 20 años, están viajando por Inglaterra en su vieja autocaravana visitando a amigos, familiares y lugares de su pasado. Desde que a Tusker se le diagnosticó demencia de inicio temprano hace dos años, su tiempo juntos es lo más importante que tienen. Sin embargo, a medida que avanza el viaje, sus ideas para el futuro chocan, salen a la luz secretos y su amor mutuo se pone a prueba como nunca antes. En última instancia, deben enfrentarse a la pregunta de qué significa amarse el uno al otro frente a la enfermedad de Tusker.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-27 10:41:13</dateadded>
+  <title>Supernova</title>
+  <originaltitle>Supernova</originaltitle>
+  <actor>
+    <name>Colin Firth</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>5472</tmdbid>
+    <imdbid>nm0000147</imdbid>
+    <tvdbid>310383</tvdbid>
+  </actor>
+  <actor>
+    <name>Stanley Tucci</name>
+    <role>Tusker</role>
+    <type>Actor</type>
+    <tmdbid>2283</tmdbid>
+    <imdbid>nm0001804</imdbid>
+    <tvdbid>274195</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter MacQueen</name>
+    <role>Clive</role>
+    <type>Actor</type>
+    <tmdbid>1313599</tmdbid>
+  </actor>
+  <actor>
+    <name>Pippa Haywood</name>
+    <role>Lilly</role>
+    <type>Actor</type>
+    <tmdbid>195274</tmdbid>
+    <imdbid>nm0371846</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Marlin</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>3065611</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Drysdale</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>1441182</tmdbid>
+  </actor>
+  <actor>
+    <name>Lori Campbell</name>
+    <role>Lola</role>
+    <type>Actor</type>
+    <tmdbid>3065620</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Woodward</name>
+    <role>Sue</role>
+    <type>Actor</type>
+    <tmdbid>1229033</tmdbid>
+  </actor>
+  <actor>
+    <name>James Dreyfus</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>7027</tmdbid>
+  </actor>
+  <actor>
+    <name>Halema Hussain</name>
+    <role>Shop Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3065621</tmdbid>
+  </actor>
+  <actor>
+    <name>Daneka Etchells</name>
+    <role>Rachel (as Daneka Charlotte Etchells)</role>
+    <type>Actor</type>
+    <tmdbid>1584867</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Hannan</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2170971</tmdbid>
+  </actor>
+  <actor>
+    <name>Truffles</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>3065624</tmdbid>
+  </actor>
+  <actor>
+    <name>Imogen Barnfather</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065625</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Crane</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065626</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Gaffney</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065628</tmdbid>
+  </actor>
+  <actor>
+    <name>Adi Jones</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065629</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Mackenzie</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065632</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Morrison</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065633</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Louise Owens</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>2798423</tmdbid>
+  </actor>
+  <actor>
+    <name>John Alan Roberts</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>2798427</tmdbid>
+  </actor>
+  <actor>
+    <name>John Seymour</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065636</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewis Sowerby</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065637</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Storey</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065638</tmdbid>
+  </actor>
+  <actor>
+    <name>Chinty Turnbull</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3065639</tmdbid>
+  </actor>
+  <director tmdbid="1421411" imdbid="nm2982240">Harry Macqueen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZEMIls9Bn7M</trailer>
+  <rating>6.9</rating>
+  <year>2020</year>
+  <sorttitle>Supernova</sorttitle>
+  <imdbid>tt11169050</imdbid>
+  <tmdbid>642208</tmdbid>
+  <premiered>2020-11-20</premiered>
+  <releasedate>2020-11-20</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>95</runtime>
+  <country>United Kingdom</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>BBC Film</studio>
+  <studio>The Bureau</studio>
+  <studio>BFI Film Fund</studio>
+  <studio>Quiddity Films</studio>
+  <uniqueid type="tmdb">642208</uniqueid>
+  <uniqueid type="imdb">tt11169050</uniqueid>
+  <id>tt11169050</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149396</bitrate>
+        <width>1280</width>
+        <height>682</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5708</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127772</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Silverio, un reconocido periodista y documentalista mexicano radicado en Los Ãngeles, quien luego de ser galardonado con un prestigioso premio internacional, se ve obligado a regresar a su paÃ­s natal, sin saber que este simple viaje lo llevarÃ¡ a un lÃ­mite existencial.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-16 12:02:40</dateadded>
+  <title>Bardo, falsa crÃ³nica de unas cuantas verdades</title>
+  <originaltitle>Bardo, falsa crÃ³nica de unas cuantas verdades</originaltitle>
+  <actor>
+    <name>Daniel GimÃ©nez Cacho</name>
+    <role>Silverio Gama</role>
+    <type>Actor</type>
+    <tmdbid>1603</tmdbid>
+    <imdbid>nm0319843</imdbid>
+  </actor>
+  <actor>
+    <name>Griselda Siciliani</name>
+    <role>LucÃ­a</role>
+    <type>Actor</type>
+    <tmdbid>1020042</tmdbid>
+    <imdbid>nm2155527</imdbid>
+  </actor>
+  <actor>
+    <name>Ãker SÃ¡nchez Solano</name>
+    <role>Lorenzo</role>
+    <type>Actor</type>
+    <tmdbid>3400640</tmdbid>
+  </actor>
+  <actor>
+    <name>Ximena Lamadrid</name>
+    <role>Camila</role>
+    <type>Actor</type>
+    <tmdbid>2747742</tmdbid>
+  </actor>
+  <actor>
+    <name>Luz JimÃ©nez</name>
+    <role>MamÃ¡</role>
+    <type>Actor</type>
+    <tmdbid>141627</tmdbid>
+    <imdbid>nm1418003</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Couturier</name>
+    <role>PapÃ¡</role>
+    <type>Actor</type>
+    <tmdbid>1043767</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Rubio</name>
+    <role>Luis Baldivia</role>
+    <type>Actor</type>
+    <tmdbid>1855703</tmdbid>
+  </actor>
+  <actor>
+    <name>AndrÃ©s Almeida</name>
+    <role>MartÃ­n</role>
+    <type>Actor</type>
+    <tmdbid>947768</tmdbid>
+    <tvdbid>489626</tvdbid>
+  </actor>
+  <actor>
+    <name>Clementina Guadarrama</name>
+    <role>Hortensia</role>
+    <type>Actor</type>
+    <tmdbid>1701986</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay O. Sanders</name>
+    <role>Ambassador Jones</role>
+    <type>Actor</type>
+    <tmdbid>6067</tmdbid>
+    <imdbid>nm0761587</imdbid>
+  </actor>
+  <actor>
+    <name>NoÃ© HernÃ¡ndez</name>
+    <role>El Ajolote</role>
+    <type>Actor</type>
+    <tmdbid>89445</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabiola Guajardo</name>
+    <role>Tania</role>
+    <type>Actor</type>
+    <tmdbid>1358509</tmdbid>
+    <imdbid>nm5019094</imdbid>
+    <tvdbid>569428</tvdbid>
+  </actor>
+  <actor>
+    <name>Mar Carrera</name>
+    <role>Lucero</role>
+    <type>Actor</type>
+    <tmdbid>966038</tmdbid>
+  </actor>
+  <actor>
+    <name>RubÃ©n Zamora</name>
+    <role>Hermano Silverio</role>
+    <type>Actor</type>
+    <tmdbid>1451581</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Leyva</name>
+    <role>Mexican American Officer</role>
+    <type>Actor</type>
+    <tmdbid>205349</tmdbid>
+    <imdbid>nm2077552</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Shen</name>
+    <role>Chinese American Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>2004100</tmdbid>
+  </actor>
+  <actor>
+    <name>Edison Ruiz</name>
+    <role>Cinico</role>
+    <type>Actor</type>
+    <tmdbid>1928408</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Damuzi</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>3400634</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Guevara</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3400642</tmdbid>
+  </actor>
+  <actor>
+    <name>Misha Arias De La Cantolla</name>
+    <role>Interruptor</role>
+    <type>Actor</type>
+    <tmdbid>3400635</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Gidi</name>
+    <role>CuÃ±ado</role>
+    <type>Actor</type>
+    <tmdbid>2448572</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeronimo Guerra</name>
+    <role>Lorenzo niÃ±o</role>
+    <type>Actor</type>
+    <tmdbid>3688247</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Albores</name>
+    <role>Carlos Ex colega</role>
+    <type>Actor</type>
+    <tmdbid>985541</tmdbid>
+    <imdbid>nm1414863</imdbid>
+  </actor>
+  <actor>
+    <name>Grantham Coleman</name>
+    <role>CNN Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1666985</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Gnecco</name>
+    <role>Secretario del Gobierno</role>
+    <type>Actor</type>
+    <tmdbid>127248</tmdbid>
+    <imdbid>nm0323483</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Belmonte</name>
+    <role>Waitre</role>
+    <type>Actor</type>
+    <tmdbid>979195</tmdbid>
+  </actor>
+  <director tmdbid="223" imdbid="nm0327944">Alejandro GonzÃ¡lez IÃ±Ã¡rritu</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2OUABXfd6AI</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Bardo, falsa cronica de unas cuantas verdades</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14176542</imdbid>
+  <tmdbid>685691</tmdbid>
+  <premiered>2022-10-27</premiered>
+  <releasedate>2022-10-27</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>160</runtime>
+  <country>Mexico</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Estudios Churubusco Azteca</studio>
+  <uniqueid type="tmdb">685691</uniqueid>
+  <uniqueid type="imdb">tt14176542</uniqueid>
+  <id>tt14176542</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100021</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>159</duration>
+        <durationinseconds>9570</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>12_fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>22_Bokmal</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>10_Greek</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

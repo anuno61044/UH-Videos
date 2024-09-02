@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When Lt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers. Feature film based on the video game by Capcom.]]></plot>
+  <outline><![CDATA[Detrás de nuestro mundo hay otro.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-22 09:31:36</dateadded>
+  <title>Monster Hunter</title>
+  <originaltitle>Monster Hunter</originaltitle>
+  <actor>
+    <name>Milla Jovovich</name>
+    <type>Actor</type>
+    <tmdbid>63</tmdbid>
+    <imdbid>nm0000170</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Jaa</name>
+    <type>Actor</type>
+    <tmdbid>57207</tmdbid>
+    <imdbid>nm1388074</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Perlman</name>
+    <type>Actor</type>
+    <tmdbid>2372</tmdbid>
+    <imdbid>nm0000579</imdbid>
+  </actor>
+  <actor>
+    <name>T.I.</name>
+    <type>Actor</type>
+    <tmdbid>76126</tmdbid>
+    <imdbid>nm1939267</imdbid>
+  </actor>
+  <director>Paul W.S. Anderson</director>
+  <writer>Paul W.S. Anderson</writer>
+  <writer>Kaname Fujioka (video game series)</writer>
+  <credits>Paul W.S. Anderson</credits>
+  <credits>Kaname Fujioka (video game series)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e6KWO0EMmuQ</trailer>
+  <rating>5.2</rating>
+  <year>2020</year>
+  <sorttitle>Monster Hunter</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6475714</imdbid>
+  <tmdbid>458576</tmdbid>
+  <premiered>2020-12-03</premiered>
+  <releasedate>2020-12-03</releasedate>
+  <runtime>103</runtime>
+  <tagline>Detrás de nuestro mundo hay otro.</tagline>
+  <country>Germany</country>
+  <country>Canada</country>
+  <country>China</country>
+  <country>United States of America</country>
+  <country>Japan</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Fantasy</genre>
+  <studio>CAPCOM</studio>
+  <studio>Constantin Film</studio>
+  <studio>Impact Pictures</studio>
+  <studio>Tencent Pictures</studio>
+  <studio>Toho Company, Ltd.</studio>
+  <studio>Screen Gems</studio>
+  <studio>Sony Pictures</studio>
+  <uniqueid type="imdb">tt6475714</uniqueid>
+  <uniqueid type="tmdb">458576</uniqueid>
+  <id>tt6475714</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1079246</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6187</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

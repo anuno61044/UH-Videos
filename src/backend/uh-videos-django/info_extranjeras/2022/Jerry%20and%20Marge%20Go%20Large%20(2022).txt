@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Basado en una historia real sobre la pareja Jerry y Marge Selbee, quienes ganaron la lotería y usan el dinero para revivir su pequeña ciudad.]]></plot>
+  <outline><![CDATA[Nunca es demasiado tarde para arriesgarlo todo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-17 13:03:20</dateadded>
+  <title>La fórmula ganadora de Jerry y Marge</title>
+  <originaltitle>Jerry &amp; Marge Go Large</originaltitle>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Jerry Selbee</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+    <tvdbid>255211</tvdbid>
+  </actor>
+  <actor>
+    <name>Annette Bening</name>
+    <role>Marge Selbee</role>
+    <type>Actor</type>
+    <tmdbid>516</tmdbid>
+    <imdbid>nm0000906</imdbid>
+  </actor>
+  <actor>
+    <name>Rainn Wilson</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>11678</tmdbid>
+    <imdbid>nm0933988</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Wilmore</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>154091</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Howard</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+    <imdbid>nm0571106</imdbid>
+    <tvdbid>260683</tvdbid>
+  </actor>
+  <actor>
+    <name>Ann Harada</name>
+    <role>Shirley</role>
+    <type>Actor</type>
+    <tmdbid>196181</tmdbid>
+    <tvdbid>397589</tvdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+    <tvdbid>302893</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Camp</name>
+    <role>Dawn</role>
+    <type>Actor</type>
+    <tmdbid>221098</tmdbid>
+    <imdbid>nm2319871</imdbid>
+  </actor>
+  <actor>
+    <name>Devyn McDowell</name>
+    <role>Liz</role>
+    <type>Actor</type>
+    <tmdbid>2551620</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Kayne</name>
+    <role>Heather</role>
+    <type>Actor</type>
+    <tmdbid>1168285</tmdbid>
+    <imdbid>nm2474626</imdbid>
+  </actor>
+  <actor>
+    <name>Colton Whitfield</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>3592404</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Whitfield</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>3592405</tmdbid>
+  </actor>
+  <actor>
+    <name>Uly Schlesinger</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>2141006</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheech Manohar</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>2450847</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracie Thoms</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>10580</tmdbid>
+    <imdbid>nm1139632</imdbid>
+    <tvdbid>332333</tvdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Rootare</name>
+    <role>Mindy</role>
+    <type>Actor</type>
+    <tmdbid>1748648</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Stallings</name>
+    <role>Leon</role>
+    <type>Actor</type>
+    <tmdbid>2277855</tmdbid>
+  </actor>
+  <actor>
+    <name>Subhash Mandal</name>
+    <role>Raj</role>
+    <type>Actor</type>
+    <tmdbid>1497935</tmdbid>
+  </actor>
+  <actor>
+    <name>K.D. O'Hair</name>
+    <role>Candace</role>
+    <type>Actor</type>
+    <tmdbid>2761608</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Yue</name>
+    <role>Kellogg's Boss</role>
+    <type>Actor</type>
+    <tmdbid>2068598</tmdbid>
+    <imdbid>nm4746345</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Pistone</name>
+    <role>Kellogg's Executive</role>
+    <type>Actor</type>
+    <tmdbid>1527996</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Scialabba</name>
+    <role>Editor</role>
+    <type>Actor</type>
+    <tmdbid>1381492</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Alfonso</name>
+    <role>Lottery Executive</role>
+    <type>Actor</type>
+    <tmdbid>1088939</tmdbid>
+    <imdbid>nm0019171</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Bergman</name>
+    <role>Divorce Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>2103482</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Pralgo</name>
+    <role>Tyler's Dad</role>
+    <type>Actor</type>
+    <tmdbid>97844</tmdbid>
+    <imdbid>nm1128418</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Espaillat</name>
+    <role>Country Club Investor</role>
+    <type>Actor</type>
+    <tmdbid>111029</tmdbid>
+    <imdbid>nm2580719</imdbid>
+  </actor>
+  <actor>
+    <name>Rhoda Griffis</name>
+    <role>Rhoda</role>
+    <type>Actor</type>
+    <tmdbid>51456</tmdbid>
+    <imdbid>nm0341421</imdbid>
+  </actor>
+  <actor>
+    <name>Tordy Clark</name>
+    <role>Winfall Ticket Cashier</role>
+    <type>Actor</type>
+    <tmdbid>3237965</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Moser</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>1529996</tmdbid>
+    <imdbid>nm4847956</imdbid>
+  </actor>
+  <actor>
+    <name>Kristina Kingston</name>
+    <role>Convenience Store Customer</role>
+    <type>Actor</type>
+    <tmdbid>2483948</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Erwin</name>
+    <role>Billy's Beverages Customer</role>
+    <type>Actor</type>
+    <tmdbid>1566469</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Andrew Howell</name>
+    <role>Bill's Buddy Darryl</role>
+    <type>Actor</type>
+    <tmdbid>1836367</tmdbid>
+  </actor>
+  <actor>
+    <name>Quinn Bozza</name>
+    <role>Liquor Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1830689</tmdbid>
+  </actor>
+  <actor>
+    <name>David Alexander Kaplan</name>
+    <role>Candy Buying Kid</role>
+    <type>Actor</type>
+    <tmdbid>2101012</tmdbid>
+    <tvdbid>8174591</tvdbid>
+  </actor>
+  <actor>
+    <name>Abu Jalloh</name>
+    <role>Newsroom Mail Guy</role>
+    <type>Actor</type>
+    <tmdbid>3592413</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Frankel</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>3592414</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Anthony</name>
+    <role>Michigan Lottery Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2437879</tmdbid>
+  </actor>
+  <actor>
+    <name>Roxy Rivera</name>
+    <role>Massachusetts Lottery Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3592416</tmdbid>
+  </actor>
+  <actor>
+    <name>Tori Kelly</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>1540615</tmdbid>
+    <tvdbid>322509</tvdbid>
+  </actor>
+  <director tmdbid="5065" imdbid="nm0291205">David Frankel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ibI0mLL0zhc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=felYigA6eVw</trailer>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>formula ganadora de Jerry y Marge</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8323668</imdbid>
+  <tmdbid>843847</tmdbid>
+  <premiered>2022-10-20</premiered>
+  <releasedate>2022-10-20</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>96</runtime>
+  <tagline>Nunca es demasiado tarde para arriesgarlo todo.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Netter Productions</studio>
+  <studio>Levantine Films</studio>
+  <studio>Paramount Players</studio>
+  <studio>Landline Pictures</studio>
+  <uniqueid type="imdb">tt8323668</uniqueid>
+  <uniqueid type="tmdb">843847</uniqueid>
+  <id>tt8323668</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1057650</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.975847</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5772</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

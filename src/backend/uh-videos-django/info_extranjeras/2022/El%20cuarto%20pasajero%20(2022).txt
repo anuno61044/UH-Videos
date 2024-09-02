@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[At his 50 Julian, divorced and with a cash problem, uses an app to share car to travel Madrid. Falling in love with Lorena, an usual passenger, his troubles start when in a travel two strangers join with them.]]></plot>
+  <outline><![CDATA[Cuidado con quién metes en tu coche]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-09 10:00:23</dateadded>
+  <title>El cuarto pasajero</title>
+  <originaltitle>El cuarto pasajero</originaltitle>
+  <actor>
+    <name>Blanca Suárez</name>
+    <type>Actor</type>
+    <tmdbid>106817</tmdbid>
+    <imdbid>nm2848198</imdbid>
+    <tvdbid>306705</tvdbid>
+  </actor>
+  <actor>
+    <name>Alberto San Juan</name>
+    <type>Actor</type>
+    <tmdbid>27462</tmdbid>
+    <imdbid>nm0760664</imdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Alterio</name>
+    <type>Actor</type>
+    <tmdbid>27459</tmdbid>
+    <imdbid>nm0022764</imdbid>
+    <tvdbid>503668</tvdbid>
+  </actor>
+  <director tmdbid="57865" imdbid="nm0407067">Álex de la Iglesia</director>
+  <writer tmdbid="3788">Jorge Guerricaechevarría</writer>
+  <writer tmdbid="57865" imdbid="nm0407067">Álex de la Iglesia</writer>
+  <credits tmdbid="3788">Jorge Guerricaechevarría</credits>
+  <credits tmdbid="57865" imdbid="nm0407067">Álex de la Iglesia</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bGBDMitaCuo</trailer>
+  <rating>6</rating>
+  <year>2022</year>
+  <sorttitle>cuarto pasajero</sorttitle>
+  <imdbid>tt13932410</imdbid>
+  <tmdbid>791333</tmdbid>
+  <premiered>2022-10-28</premiered>
+  <releasedate>2022-10-28</releasedate>
+  <runtime>96</runtime>
+  <tagline>Cuidado con quién metes en tu coche</tagline>
+  <country>Spain</country>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <studio>Pokeepsie Films</studio>
+  <studio>Telecinco Cinema</studio>
+  <studio>Mediaset España</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt13932410</uniqueid>
+  <uniqueid type="tmdb">791333</uniqueid>
+  <id>tt13932410</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1087545</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5759</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64212</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

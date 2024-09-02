@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Los impopulares mejores amigos PJ y Josie inician un club de autodefensa en la escuela secundaria para conocer chicas y perder su virginidad. Pronto se encuentran en una situación complicada cuando los estudiantes más populares comienzan a golpearse entre sí en nombre de la autodefensa.]]></plot>
+  <outline><![CDATA[Una película sobre el empoderamiento de las mujeres (las que están buenas)]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-22 08:58:28</dateadded>
+  <title>Bottoms</title>
+  <originaltitle>Bottoms</originaltitle>
+  <actor>
+    <name>Rachel Sennott</name>
+    <role>PJ</role>
+    <type>Actor</type>
+    <tvdbid>8169489</tvdbid>
+    <tmdbid>1976054</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayo Edebiri</name>
+    <role>Josie Marks</role>
+    <type>Actor</type>
+    <tvdbid>8157168</tvdbid>
+    <tmdbid>2195140</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Cruz</name>
+    <role>Hazel Callahan</role>
+    <type>Actor</type>
+    <tvdbid>8162515</tvdbid>
+    <tmdbid>2806036</tmdbid>
+  </actor>
+  <actor>
+    <name>Havana Rose Liu</name>
+    <role>Isabel Lee</role>
+    <type>Actor</type>
+    <tmdbid>2378813</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaia Gerber</name>
+    <role>Brittany</role>
+    <type>Actor</type>
+    <tmdbid>1957145</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Galitzine</name>
+    <role>Jeff</role>
+    <type>Actor</type>
+    <tmdbid>1425934</tmdbid>
+    <imdbid>nm5954280</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Fowler</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tvdbid>9086920</tvdbid>
+    <tmdbid>2905575</tmdbid>
+  </actor>
+  <actor>
+    <name>Marshawn Lynch</name>
+    <role>Mr. G</role>
+    <type>Actor</type>
+    <tmdbid>1420679</tmdbid>
+    <imdbid>nm2834234</imdbid>
+    <tvdbid>7899776</tvdbid>
+  </actor>
+  <actor>
+    <name>Dagmara Domińczyk</name>
+    <role>Mrs. Callahan</role>
+    <type>Actor</type>
+    <tmdbid>52776</tmdbid>
+    <imdbid>nm0231436</imdbid>
+    <tvdbid>7979780</tvdbid>
+  </actor>
+  <actor>
+    <name>Punkie Johnson</name>
+    <role>Rhodes</role>
+    <type>Actor</type>
+    <tmdbid>2386815</tmdbid>
+  </actor>
+  <actor>
+    <name>Zamani Wilder</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>1502948</tmdbid>
+    <imdbid>nm5310495</imdbid>
+  </actor>
+  <actor>
+    <name>Summer Joy Campbell</name>
+    <role>Sylvie</role>
+    <type>Actor</type>
+    <tmdbid>3956106</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Tucker</name>
+    <role>Stella-Rebecca</role>
+    <type>Actor</type>
+    <tmdbid>1410702</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Pére</name>
+    <role>Principal Meyers</role>
+    <type>Actor</type>
+    <tmdbid>31528</tmdbid>
+    <imdbid>nm0701818</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Nichols</name>
+    <role>Goth Kid</role>
+    <type>Actor</type>
+    <tmdbid>1116988</tmdbid>
+    <imdbid>nm2229775</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Stout</name>
+    <role>Tucker</role>
+    <type>Actor</type>
+    <tmdbid>3571662</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Ferguson</name>
+    <role>Old Man</role>
+    <type>Actor</type>
+    <tmdbid>1026877</tmdbid>
+    <imdbid>nm2467078</imdbid>
+  </actor>
+  <actor>
+    <name>Bruno Rose</name>
+    <role>Mathieu</role>
+    <type>Actor</type>
+    <tmdbid>2615734</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Primo</name>
+    <role>Skater Bro</role>
+    <type>Actor</type>
+    <tmdbid>4247473</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Elkins</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>1773399</tmdbid>
+    <imdbid>nm2051427</imdbid>
+  </actor>
+  <actor>
+    <name>Krystal Alayne Chambers</name>
+    <role>Fight Club Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3858470</tmdbid>
+  </actor>
+  <actor>
+    <name>Alyssa Matthews</name>
+    <role>Fight Club Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3974884</tmdbid>
+  </actor>
+  <director tmdbid="1976040">Emma Seligman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vH5NAahf76s</trailer>
+  <rating>7</rating>
+  <year>2023</year>
+  <sorttitle>Bottoms</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt17527468</imdbid>
+  <tmdbid>814776</tmdbid>
+  <premiered>2023-08-25</premiered>
+  <releasedate>2023-08-25</releasedate>
+  <runtime>91</runtime>
+  <tagline>Una película sobre el empoderamiento de las mujeres (las que están buenas)</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Brownstone Productions</studio>
+  <studio>Orion Pictures</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <uniqueid type="imdb">tt17527468</uniqueid>
+  <uniqueid type="tmdb">814776</uniqueid>
+  <id>tt17527468</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1221033</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5472</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

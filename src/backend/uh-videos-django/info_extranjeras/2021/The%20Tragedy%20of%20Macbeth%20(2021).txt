@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Macbeth, recibe una profecía de un trío de brujas de que algún día se convertirá en rey de Escocia. Consumido por la ambición y empujado a la acción por su esposa, Macbeth asesina a su rey y toma el trono para él.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-13 22:16:46</dateadded>
+  <title>La tragedia de Macbeth</title>
+  <originaltitle>The Tragedy of Macbeth</originaltitle>
+  <actor>
+    <name>Denzel Washington</name>
+    <role>Macbeth</role>
+    <type>Actor</type>
+    <tmdbid>5292</tmdbid>
+    <imdbid>nm0000243</imdbid>
+  </actor>
+  <actor>
+    <name>Frances McDormand</name>
+    <role>Lady Macbeth</role>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+    <tvdbid>321262</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Hassell</name>
+    <role>Ross</role>
+    <type>Actor</type>
+    <tmdbid>178634</tmdbid>
+    <imdbid>nm1307435</imdbid>
+    <tvdbid>307270</tvdbid>
+  </actor>
+  <actor>
+    <name>Bertie Carvel</name>
+    <role>Banquo</role>
+    <type>Actor</type>
+    <tmdbid>216425</tmdbid>
+    <imdbid>nm1584487</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Gleeson</name>
+    <role>Duncan</role>
+    <type>Actor</type>
+    <tmdbid>2039</tmdbid>
+    <imdbid>nm0322407</imdbid>
+    <tvdbid>496037</tvdbid>
+  </actor>
+  <actor>
+    <name>Corey Hawkins</name>
+    <role>Macduff</role>
+    <type>Actor</type>
+    <tmdbid>1154054</tmdbid>
+    <imdbid>nm3659660</imdbid>
+    <tvdbid>465717</tvdbid>
+  </actor>
+  <actor>
+    <name>Harry Melling</name>
+    <role>Malcolm</role>
+    <type>Actor</type>
+    <tmdbid>10982</tmdbid>
+    <imdbid>nm0577982</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Anderson</name>
+    <role>Lennox</role>
+    <type>Actor</type>
+    <tmdbid>65885</tmdbid>
+    <imdbid>nm0027215</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Helm</name>
+    <role>Donalbain</role>
+    <type>Actor</type>
+    <tmdbid>2684944</tmdbid>
+    <imdbid>nm5090093</imdbid>
+  </actor>
+  <actor>
+    <name>Moses Ingram</name>
+    <role>Lady Macduff</role>
+    <type>Actor</type>
+    <tmdbid>2042908</tmdbid>
+    <tvdbid>8180108</tvdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Hunter</name>
+    <role>Witches / Old Man</role>
+    <type>Actor</type>
+    <tmdbid>72309</tmdbid>
+    <imdbid>nm0402898</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Subiono</name>
+    <role>Murderer</role>
+    <type>Actor</type>
+    <tmdbid>60062</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Thompson</name>
+    <role>Murderer</role>
+    <type>Actor</type>
+    <tmdbid>2719</tmdbid>
+    <imdbid>nm0859921</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Barker</name>
+    <role>Fleance</role>
+    <type>Actor</type>
+    <tmdbid>1723411</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Root</name>
+    <role>Porter</role>
+    <type>Actor</type>
+    <tmdbid>17401</tmdbid>
+    <imdbid>nm0740535</imdbid>
+    <tvdbid>248228</tvdbid>
+  </actor>
+  <actor>
+    <name>Robert Gilbert</name>
+    <role>Angus</role>
+    <type>Actor</type>
+    <tmdbid>1941216</tmdbid>
+    <imdbid>nm3711953</imdbid>
+    <tvdbid>8364314</tvdbid>
+  </actor>
+  <actor>
+    <name>Ethan Hutchison</name>
+    <role>Macduff's Son</role>
+    <type>Actor</type>
+    <tmdbid>2839334</tmdbid>
+  </actor>
+  <actor>
+    <name>James Udom</name>
+    <role>Seyton</role>
+    <type>Actor</type>
+    <tmdbid>2008558</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Short</name>
+    <role>Siward</role>
+    <type>Actor</type>
+    <tmdbid>206483</tmdbid>
+    <imdbid>nm2095375</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Patrick Thomas</name>
+    <role>Monteith</role>
+    <type>Actor</type>
+    <tmdbid>11868</tmdbid>
+    <imdbid>nm0859503</imdbid>
+    <tvdbid>330402</tvdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>Captain</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Mays</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>183814</tmdbid>
+    <imdbid>nm0563070</imdbid>
+    <tvdbid>317622</tvdbid>
+  </actor>
+  <actor>
+    <name>Olivia Washington</name>
+    <role>Children’s Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1688100</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan James Berger</name>
+    <role>Lady in Waiting</role>
+    <type>Actor</type>
+    <tmdbid>1590308</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne T. Carr</name>
+    <role>Lady Macduff’s Murderer</role>
+    <type>Actor</type>
+    <tmdbid>2211961</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob McCarthy</name>
+    <role>Wheyface</role>
+    <type>Actor</type>
+    <tmdbid>1862434</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Daly</name>
+    <role>Lady Macbeth's Nurse</role>
+    <type>Actor</type>
+    <tmdbid>200999</tmdbid>
+    <imdbid>nm0198489</imdbid>
+  </actor>
+  <actor>
+    <name>Kayden Alexander Koshelev</name>
+    <role>Apparition Boy</role>
+    <type>Actor</type>
+    <tmdbid>2451805</tmdbid>
+  </actor>
+  <actor>
+    <name>Ledger Fuller</name>
+    <role>Apparition Boy</role>
+    <type>Actor</type>
+    <tmdbid>3274730</tmdbid>
+  </actor>
+  <actor>
+    <name>T.K. Weaver</name>
+    <role>Apparition Boy</role>
+    <type>Actor</type>
+    <tmdbid>2338498</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Headington</name>
+    <role>Thane of Cawdor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2317693</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Oakes</name>
+    <role>Duncan's Protector (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2839336</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Janov</name>
+    <role>Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1511947</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Baker</name>
+    <role>Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>10960</tmdbid>
+    <imdbid>nm0048755</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Randolph</name>
+    <role>Macduff's Daughter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2839337</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil DiGennaro</name>
+    <role>Demitrius (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2839339</tmdbid>
+  </actor>
+  <director tmdbid="1223" imdbid="nm0001054">Joel Coen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iXdWEOLNvM8</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <sorttitle>tragedia de Macbeth</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10095582</imdbid>
+  <tmdbid>591538</tmdbid>
+  <premiered>2021-12-05</premiered>
+  <releasedate>2021-12-05</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>105</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Bélica</genre>
+  <studio>IAC Films</studio>
+  <studio>A24</studio>
+  <uniqueid type="imdb">tt10095582</uniqueid>
+  <uniqueid type="tmdb">591538</uniqueid>
+  <id>tt10095582</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1059571</bitrate>
+        <width>984</width>
+        <height>720</height>
+        <aspect>739:540</aspect>
+        <aspectratio>739:540</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6308</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dom Toretto lleva una vida tranquila con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligará a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes más quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos más peligrosos y mejor conductor a los que se han enfrentado; un hombre que además es el hermano desaparecido de Dom, Jakob. Novena entrega de la famosa franquicia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-29 07:46:44</dateadded>
+  <title>Fast &amp; Furious 9</title>
+  <originaltitle>F9</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+    <tvdbid>310526</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Letty Ortiz Toretto</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+    <imdbid>nm0879085</imdbid>
+    <tvdbid>266859</tvdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+    <imdbid>nm0524839</imdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Jakob Toretto</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Ramsey</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+    <imdbid>nm2812026</imdbid>
+    <tvdbid>247884</tvdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+    <tvdbid>295858</tvdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+    <tvdbid>329425</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Rooker</name>
+    <role>Buddy</role>
+    <type>Actor</type>
+    <tmdbid>12132</tmdbid>
+    <imdbid>nm0740264</imdbid>
+    <tvdbid>294173</tvdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Magdalene 'Queenie' Shaw</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+    <imdbid>nm0000545</imdbid>
+    <tvdbid>296967</tvdbid>
+  </actor>
+  <actor>
+    <name>Kurt Russell</name>
+    <role>Mr. Nobody</role>
+    <type>Actor</type>
+    <tmdbid>6856</tmdbid>
+    <imdbid>nm0000621</imdbid>
+  </actor>
+  <actor>
+    <name>Charlize Theron</name>
+    <role>Cipher</role>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Sawai</name>
+    <role>Elle</role>
+    <type>Actor</type>
+    <tmdbid>1434487</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Black</name>
+    <role>Sean Boswell</role>
+    <type>Actor</type>
+    <tmdbid>155</tmdbid>
+    <imdbid>nm0085407</imdbid>
+  </actor>
+  <actor>
+    <name>Shad Moss</name>
+    <role>Twinkie</role>
+    <type>Actor</type>
+    <tmdbid>58197</tmdbid>
+    <imdbid>nm0510168</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Tobin</name>
+    <role>Earl Hu</role>
+    <type>Actor</type>
+    <tmdbid>162367</tmdbid>
+    <imdbid>nm0864937</imdbid>
+    <tvdbid>312414</tvdbid>
+  </actor>
+  <actor>
+    <name>Thue Ersted Rasmussen</name>
+    <role>Otto</role>
+    <type>Actor</type>
+    <tmdbid>1476901</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Omar</name>
+    <role>Rico Santos</role>
+    <type>Actor</type>
+    <tmdbid>90634</tmdbid>
+    <imdbid>nm1885797</imdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Agent Stasiak</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+    <tvdbid>275852</tvdbid>
+  </actor>
+  <actor>
+    <name>Vincent Sinclair Diesel</name>
+    <role>Younger Dom</role>
+    <type>Actor</type>
+    <tmdbid>3120149</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Young Jakob</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Vinnie Bennett</name>
+    <role>Young Dom</role>
+    <type>Actor</type>
+    <tmdbid>1193055</tmdbid>
+  </actor>
+  <actor>
+    <name>J. D. Pardo</name>
+    <role>Jack Toretto</role>
+    <type>Actor</type>
+    <tmdbid>81391</tmdbid>
+    <imdbid>nm1238555</imdbid>
+  </actor>
+  <actor>
+    <name>Cardi B</name>
+    <role>Leysa</role>
+    <type>Actor</type>
+    <tmdbid>1562344</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parrack</name>
+    <role>Kenny Linder</role>
+    <type>Actor</type>
+    <tmdbid>83968</tmdbid>
+    <imdbid>nm1747924</imdbid>
+    <tvdbid>275886</tvdbid>
+  </actor>
+  <actor>
+    <name>Lex Elle</name>
+    <role>Sergeant Reyes</role>
+    <type>Actor</type>
+    <tmdbid>2347244</tmdbid>
+  </actor>
+  <actor>
+    <name>Krzysztof  Mardula</name>
+    <role>Thug</role>
+    <type>Actor</type>
+    <tmdbid>2347245</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Sienna</name>
+    <role>Interpol</role>
+    <type>Actor</type>
+    <tmdbid>2157784</tmdbid>
+  </actor>
+  <actor>
+    <name>Martyn Ford</name>
+    <role>Lieutenant Sue</role>
+    <type>Actor</type>
+    <tmdbid>1510237</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Giannitelli</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2613103</tmdbid>
+  </actor>
+  <actor>
+    <name>Ozuna</name>
+    <role>Young Santos</role>
+    <type>Actor</type>
+    <tmdbid>2228673</tmdbid>
+    <imdbid>nm9505536</imdbid>
+  </actor>
+  <actor>
+    <name>Méghane De Croock</name>
+    <role>Otto's Entourage</role>
+    <type>Actor</type>
+    <tmdbid>2994586</tmdbid>
+  </actor>
+  <actor>
+    <name>Bad Bunny</name>
+    <role>Lookout</role>
+    <type>Actor</type>
+    <tmdbid>2550161</tmdbid>
+  </actor>
+  <actor>
+    <name>Siena Agudong</name>
+    <role>Young Mia</role>
+    <type>Actor</type>
+    <tmdbid>1537084</tmdbid>
+    <tvdbid>462537</tvdbid>
+  </actor>
+  <actor>
+    <name>Isaac Holtane</name>
+    <role>Little Brian</role>
+    <type>Actor</type>
+    <tmdbid>3120140</tmdbid>
+  </actor>
+  <actor>
+    <name>Immanuel Holtane</name>
+    <role>Little Brian</role>
+    <type>Actor</type>
+    <tmdbid>3120141</tmdbid>
+  </actor>
+  <actor>
+    <name>Azia Dinea Hale</name>
+    <role>Young Letty</role>
+    <type>Actor</type>
+    <tmdbid>3120142</tmdbid>
+  </actor>
+  <actor>
+    <name>Juju Zhang</name>
+    <role>Young Elle</role>
+    <type>Actor</type>
+    <tmdbid>2604969</tmdbid>
+  </actor>
+  <actor>
+    <name>Karson Kern</name>
+    <role>Young Vince</role>
+    <type>Actor</type>
+    <tmdbid>1916439</tmdbid>
+  </actor>
+  <actor>
+    <name>Igby Rigney</name>
+    <role>Young Jesse</role>
+    <type>Actor</type>
+    <tmdbid>2982416</tmdbid>
+    <tvdbid>8161442</tvdbid>
+  </actor>
+  <actor>
+    <name>Sophia Tatum</name>
+    <role>Racer Chick</role>
+    <type>Actor</type>
+    <tmdbid>3120144</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Ngannou</name>
+    <role>Ferocious Professional</role>
+    <type>Actor</type>
+    <tmdbid>1603313</tmdbid>
+  </actor>
+  <actor>
+    <name>Cered</name>
+    <role>Young Leo</role>
+    <type>Actor</type>
+    <tmdbid>3120146</tmdbid>
+  </actor>
+  <actor>
+    <name>Oqwe Lin</name>
+    <role>'Hey' Kid</role>
+    <type>Actor</type>
+    <tmdbid>3120147</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Simmons</name>
+    <role>Linder Pit Crew</role>
+    <type>Actor</type>
+    <tmdbid>3120148</tmdbid>
+  </actor>
+  <actor>
+    <name>Luka Hays</name>
+    <role>Deputy</role>
+    <type>Actor</type>
+    <tmdbid>3120150</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Lin</name>
+    <role>Lookout</role>
+    <type>Actor</type>
+    <tmdbid>3120145</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Deckard Shaw (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Janice Blue</name>
+    <role>Race Car Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2977598</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Bui</name>
+    <role>Race Car Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1532940</tmdbid>
+  </actor>
+  <actor>
+    <name>Miranda Chambers</name>
+    <role>Interpol (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2628642</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Haley</name>
+    <role>Street Race Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1872121</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Horrocks</name>
+    <role>Elite Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2443836</tmdbid>
+  </actor>
+  <actor>
+    <name>Joy A. Kennelly</name>
+    <role>Drunk Girl #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2604701</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Pauline</name>
+    <role>Street Race Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2592468</tmdbid>
+  </actor>
+  <actor>
+    <name>Demitra Sealy</name>
+    <role>Flag Girl (Flashback) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2737926</tmdbid>
+  </actor>
+  <actor>
+    <name>Valeria Zunzun</name>
+    <role>French Astronaut (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3005458</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Walker</name>
+    <role>Vanessa (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3257612</tmdbid>
+  </actor>
+  <director tmdbid="58189" imdbid="nm0510912">Justin Lin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lDpuUg5_DAE</trailer>
+  <rating>5.2</rating>
+  <year>2021</year>
+  <sorttitle>Fast &amp; Furious 9</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5433138</imdbid>
+  <tmdbid>385128</tmdbid>
+  <premiered>2021-05-19</premiered>
+  <releasedate>2021-05-19</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>143</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <genre>Aventura</genre>
+  <studio>Original Film</studio>
+  <studio>One Race</studio>
+  <studio>Perfect Storm Entertainment</studio>
+  <studio>ZXY MOVIES</studio>
+  <set tmdbcolid="9485">
+    <name>A todo gas - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt5433138</uniqueid>
+  <uniqueid type="tmdb">385128</uniqueid>
+  <id>tt5433138</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>877654</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8571</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

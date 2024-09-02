@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.]]></plot>
+  <outline><![CDATA[¿Qué arriesgarías por cinco minutos de pura energía?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-27 11:16:54</dateadded>
+  <title>Project Power</title>
+  <originaltitle>Project Power</originaltitle>
+  <actor>
+    <name>Jamie Foxx</name>
+    <type>Actor</type>
+    <tmdbid>134</tmdbid>
+    <imdbid>nm0004937</imdbid>
+    <tvdbid>278135</tvdbid>
+  </actor>
+  <actor>
+    <name>Joseph Gordon-Levitt</name>
+    <type>Actor</type>
+    <tmdbid>24045</tmdbid>
+    <imdbid>nm0330687</imdbid>
+    <tvdbid>291500</tvdbid>
+  </actor>
+  <actor>
+    <name>Dominique Fishback</name>
+    <type>Actor</type>
+    <tmdbid>1676520</tmdbid>
+    <imdbid>nm6195774</imdbid>
+    <tvdbid>510884</tvdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Santoro</name>
+    <type>Actor</type>
+    <tmdbid>17289</tmdbid>
+    <imdbid>nm0763928</imdbid>
+    <tvdbid>306837</tvdbid>
+  </actor>
+  <director tmdbid="142272" imdbid="nm1160962">Henry Joost</director>
+  <director tmdbid="142276" imdbid="nm1413364">Ariel Schulman</director>
+  <writer tmdbid="1823051">Mattson Tomlin</writer>
+  <credits tmdbid="1823051">Mattson Tomlin</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JQ1MCU75xq4</trailer>
+  <rating>6</rating>
+  <year>2020</year>
+  <sorttitle>Project Power</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7550000</imdbid>
+  <tmdbid>605116</tmdbid>
+  <premiered>2020-08-14</premiered>
+  <releasedate>2020-08-14</releasedate>
+  <criticrating>61</criticrating>
+  <runtime>113</runtime>
+  <tagline>¿Qué arriesgarías por cinco minutos de pura energía?</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Screen Arcade</studio>
+  <studio>Supermarché</studio>
+  <uniqueid type="imdb">tt7550000</uniqueid>
+  <uniqueid type="tmdb">605116</uniqueid>
+  <id>tt7550000</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>982992</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6796</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

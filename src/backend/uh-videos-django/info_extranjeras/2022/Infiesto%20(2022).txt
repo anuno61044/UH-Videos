@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mientras el coronavirus trastoca sus vidas, dos inspectores buscan a los responsables de un secuestro que parece formar parte de una trama aún más siniestra.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-03 08:51:36</dateadded>
+  <title>Infiesto</title>
+  <originaltitle>Infiesto</originaltitle>
+  <actor>
+    <name>Isak Férriz</name>
+    <role>Inspector Samuel</role>
+    <type>Actor</type>
+    <tmdbid>589477</tmdbid>
+    <imdbid>nm1929945</imdbid>
+    <tvdbid>611123</tvdbid>
+  </actor>
+  <actor>
+    <name>Iria del Río</name>
+    <role>Subinspectora Castro</role>
+    <type>Actor</type>
+    <tmdbid>2264694</tmdbid>
+    <tvdbid>8061060</tvdbid>
+  </actor>
+  <actor>
+    <name>José Manuel Poga</name>
+    <role>El Demonio</role>
+    <type>Actor</type>
+    <tmdbid>1071638</tmdbid>
+    <imdbid>nm2423567</imdbid>
+    <tvdbid>470114</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Buíl</name>
+    <role>Sargento Ramos</role>
+    <type>Actor</type>
+    <tmdbid>232658</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Fernández</name>
+    <role>Comisario Basterra</role>
+    <type>Actor</type>
+    <tmdbid>1284938</tmdbid>
+    <imdbid>nm1537814</imdbid>
+    <tvdbid>371622</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Zahera</name>
+    <role>Ricardo Marquinos</role>
+    <type>Actor</type>
+    <tmdbid>28511</tmdbid>
+    <imdbid>nm0951958</imdbid>
+    <tvdbid>520301</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabel Naveira</name>
+    <role>Paz Nogueira</role>
+    <type>Actor</type>
+    <tmdbid>2085436</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Escacena</name>
+    <role>Enfermera</role>
+    <type>Actor</type>
+    <tmdbid>1757602</tmdbid>
+  </actor>
+  <director tmdbid="138699" imdbid="nm0025538">Patxi Amézcua</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mju9Ecfynds</trailer>
+  <rating>5.6</rating>
+  <year>2023</year>
+  <sorttitle>Infiesto</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15789492</imdbid>
+  <tmdbid>1072567</tmdbid>
+  <premiered>2023-02-03</premiered>
+  <releasedate>2023-02-03</releasedate>
+  <runtime>97</runtime>
+  <country>Spain</country>
+  <genre>Crimen</genre>
+  <studio>Vaca Films</studio>
+  <uniqueid type="tmdb">1072567</uniqueid>
+  <uniqueid type="imdb">tt15789492</uniqueid>
+  <id>tt15789492</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>174863</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5796</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63816</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

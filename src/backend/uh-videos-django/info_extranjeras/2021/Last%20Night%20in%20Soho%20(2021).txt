@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Thriller psicológico sobre una joven apasionada por la moda que misteriosamente puede entrar en la década de 1960, donde se encuentra con su ídolo, un atractivo aspirante a cantante. Pero el Londres de los sesenta no es lo que parece, y el tiempo comenzará a desmoronarse con sombrías consecuencias.]]></plot>
+  <outline><![CDATA[Cuando el pasado te deje entrar, la verdad saldrá a la luz.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-18 08:04:52</dateadded>
+  <title>Última noche en el Soho</title>
+  <originaltitle>Last Night in Soho</originaltitle>
+  <actor>
+    <name>Thomasin McKenzie</name>
+    <role>Eloise Turner</role>
+    <type>Actor</type>
+    <tmdbid>1356758</tmdbid>
+    <imdbid>nm5057169</imdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Sandie</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Smith</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>136532</tmdbid>
+    <imdbid>nm1741002</imdbid>
+    <tvdbid>327577</tvdbid>
+  </actor>
+  <actor>
+    <name>Rita Tushingham</name>
+    <role>Peggy Turner</role>
+    <type>Actor</type>
+    <tmdbid>47754</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ajao</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>1672687</tmdbid>
+  </actor>
+  <actor>
+    <name>Synnøve Karlsen</name>
+    <role>Jocasta</role>
+    <type>Actor</type>
+    <tmdbid>1770527</tmdbid>
+    <imdbid>nm8357122</imdbid>
+    <tvdbid>7974813</tvdbid>
+  </actor>
+  <actor>
+    <name>Pauline McLynn</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>69465</tmdbid>
+    <imdbid>nm0572965</imdbid>
+  </actor>
+  <actor>
+    <name>Terence Stamp</name>
+    <role>Silver-Haired Gentleman</role>
+    <type>Actor</type>
+    <tmdbid>28641</tmdbid>
+    <imdbid>nm0000654</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Rigg</name>
+    <role>Ms. Collins</role>
+    <type>Actor</type>
+    <tmdbid>10168</tmdbid>
+    <imdbid>nm0001671</imdbid>
+    <tvdbid>247889</tvdbid>
+  </actor>
+  <actor>
+    <name>Aimée Cassettari</name>
+    <role>Eloise's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3289470</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Mace</name>
+    <role>Taxi Driver #1</role>
+    <type>Actor</type>
+    <tmdbid>1595250</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessie Mei Li</name>
+    <role>Lara</role>
+    <type>Actor</type>
+    <tmdbid>2234003</tmdbid>
+    <imdbid>nm9438171</imdbid>
+    <tvdbid>8291040</tvdbid>
+  </actor>
+  <actor>
+    <name>Kassius Nelson</name>
+    <role>Cami</role>
+    <type>Actor</type>
+    <tmdbid>2575383</tmdbid>
+    <tvdbid>7943740</tvdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Harrod</name>
+    <role>Ashley</role>
+    <type>Actor</type>
+    <tmdbid>2692780</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Mahon</name>
+    <role>Toucan Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3283865</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Calland</name>
+    <role>Drunk Student</role>
+    <type>Actor</type>
+    <tmdbid>2193492</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Zaré</name>
+    <role>Student at Party</role>
+    <type>Actor</type>
+    <tmdbid>2592734</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacqui-Lee Pryce</name>
+    <role>College Administrator</role>
+    <type>Actor</type>
+    <tmdbid>1813935</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Berrington</name>
+    <role>Ms. Tobin</role>
+    <type>Actor</type>
+    <tmdbid>42998</tmdbid>
+    <imdbid>nm0077397</imdbid>
+  </actor>
+  <actor>
+    <name>James Phelps</name>
+    <role>Cloakroom Attendant</role>
+    <type>Actor</type>
+    <tmdbid>96851</tmdbid>
+    <imdbid>nm0962359</imdbid>
+  </actor>
+  <actor>
+    <name>Oliver Phelps</name>
+    <role>Cloakroom Attendant</role>
+    <type>Actor</type>
+    <tmdbid>140368</tmdbid>
+    <imdbid>nm0962360</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Singh</name>
+    <role>Cilla Black</role>
+    <type>Actor</type>
+    <tmdbid>3283863</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Brightwell</name>
+    <role>Cubby</role>
+    <type>Actor</type>
+    <tmdbid>1256066</tmdbid>
+    <imdbid>nm0109229</imdbid>
+  </actor>
+  <actor>
+    <name>Will Rogers</name>
+    <role>Café de Paris Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2925287</tmdbid>
+  </actor>
+  <actor>
+    <name>Terence Frisch</name>
+    <role>Rialto Club Owner</role>
+    <type>Actor</type>
+    <tmdbid>3093333</tmdbid>
+  </actor>
+  <actor>
+    <name>Celeste Dring</name>
+    <role>Shop Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1616783</tmdbid>
+    <tvdbid>7989437</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeanie Wishes</name>
+    <role>Marionetta</role>
+    <type>Actor</type>
+    <tmdbid>1953915</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Bicknell</name>
+    <role>Mr. Pointer</role>
+    <type>Actor</type>
+    <tmdbid>47525</tmdbid>
+    <imdbid>nm0081070</imdbid>
+    <tvdbid>315151</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Sopp</name>
+    <role>Toucan Drunk</role>
+    <type>Actor</type>
+    <tmdbid>1233854</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Corgan</name>
+    <role>Toucan Drunk's Mate</role>
+    <type>Actor</type>
+    <tmdbid>2061888</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mears</name>
+    <role>Punter #1</role>
+    <type>Actor</type>
+    <tmdbid>30325</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Hartwell</name>
+    <role>Punter #2</role>
+    <type>Actor</type>
+    <tmdbid>3228475</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Hamilton</name>
+    <role>Punter #3</role>
+    <type>Actor</type>
+    <tmdbid>1795847</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Cater</name>
+    <role>Punter #4</role>
+    <type>Actor</type>
+    <tmdbid>1756674</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Claflin</name>
+    <role>Punter #5</role>
+    <type>Actor</type>
+    <tmdbid>237455</tmdbid>
+    <imdbid>nm3510471</imdbid>
+    <tvdbid>465705</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Parks</name>
+    <role>Punter #6</role>
+    <type>Actor</type>
+    <tmdbid>1232658</tmdbid>
+    <imdbid>nm0663008</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Ruscoe</name>
+    <role>Punter #7</role>
+    <type>Actor</type>
+    <tmdbid>33186</tmdbid>
+    <imdbid>nm0750603</imdbid>
+  </actor>
+  <actor>
+    <name>Margaret Nolan</name>
+    <role>Sage Barmaid</role>
+    <type>Actor</type>
+    <tmdbid>95129</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Carrico</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>3289477</tmdbid>
+  </actor>
+  <actor>
+    <name>Kent Goldfinch</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>3289480</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Harrod</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>1977051</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Hartley</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>3289479</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Hope</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>1379280</tmdbid>
+    <imdbid>nm0394017</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Maggott</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>3289481</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard O'Sullivan</name>
+    <role>Additional Punter</role>
+    <type>Actor</type>
+    <tmdbid>3289483</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Jibson</name>
+    <role>Male Detective</role>
+    <type>Actor</type>
+    <tmdbid>56098</tmdbid>
+    <imdbid>nm1106960</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa McGrillis</name>
+    <role>Female Detective</role>
+    <type>Actor</type>
+    <tmdbid>1552398</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Roberts</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>2538296</tmdbid>
+    <tvdbid>8007488</tvdbid>
+  </actor>
+  <actor>
+    <name>Derek Lea</name>
+    <role>Taxi Driver #2</role>
+    <type>Actor</type>
+    <tmdbid>97436</tmdbid>
+    <imdbid>nm0494749</imdbid>
+  </actor>
+  <actor>
+    <name>Lati Gbaja</name>
+    <role>Soho Passerby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2510920</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Price</name>
+    <role>Rialto Punter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1635870</tmdbid>
+    <imdbid>nm3764470</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Riddell</name>
+    <role>Train Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2445121</tmdbid>
+  </actor>
+  <actor>
+    <name>Katrina Vasilieva</name>
+    <role>Burlesque Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>937216</tmdbid>
+    <imdbid>nm1910545</imdbid>
+  </actor>
+  <director tmdbid="11090" imdbid="nm0942367">Edgar Wright</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rOAkphjqoEU</trailer>
+  <rating>7</rating>
+  <year>2021</year>
+  <sorttitle>Ultima noche en el Soho</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9639470</imdbid>
+  <tmdbid>576845</tmdbid>
+  <premiered>2021-10-21</premiered>
+  <releasedate>2021-10-21</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>117</runtime>
+  <tagline>Cuando el pasado te deje entrar, la verdad saldrá a la luz.</tagline>
+  <country>United Kingdom</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Focus Features</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Working Title Films</studio>
+  <studio>Big Talk Productions</studio>
+  <studio>Complete Fiction</studio>
+  <studio>Perfect World Pictures</studio>
+  <uniqueid type="imdb">tt9639470</uniqueid>
+  <uniqueid type="tmdb">576845</uniqueid>
+  <id>tt9639470</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>953260</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7016</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

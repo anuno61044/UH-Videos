@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras una pandemia global, todos pierden de repente la memoria. Aris, un hombre de mediana edad, se incorpora a un programa para crearse una nueva identidad... Ópera prima del ayudante de dirección de "Canino".]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-02 10:25:42</dateadded>
+  <title>Apples</title>
+  <originaltitle>Μήλα</originaltitle>
+  <actor>
+    <name>Aris Servetalis</name>
+    <role>Aris</role>
+    <type>Actor</type>
+    <tmdbid>134790</tmdbid>
+    <imdbid>nm1160306</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Georgovassili</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1384953</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Kalaitzidou</name>
+    <role>Program Manager</role>
+    <type>Actor</type>
+    <tmdbid>122422</tmdbid>
+    <imdbid>nm2801340</imdbid>
+  </actor>
+  <actor>
+    <name>Argyris Bakirtzis</name>
+    <role>Program Manager</role>
+    <type>Actor</type>
+    <tmdbid>568849</tmdbid>
+  </actor>
+  <actor>
+    <name>Kostas Laskos</name>
+    <role>Elder Patient</role>
+    <type>Actor</type>
+    <tmdbid>1469983</tmdbid>
+  </actor>
+  <actor>
+    <name>Costas Xikominos</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>574132</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Aidini</name>
+    <type>Actor</type>
+    <tmdbid>1327096</tmdbid>
+  </actor>
+  <actor>
+    <name>Babis Makridis</name>
+    <type>Actor</type>
+    <tmdbid>930694</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonis Kyriakakis</name>
+    <type>Actor</type>
+    <tmdbid>2891954</tmdbid>
+  </actor>
+  <actor>
+    <name>Thanasis Stefosis</name>
+    <type>Actor</type>
+    <tmdbid>3133646</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikos Panagiotopoulos</name>
+    <type>Actor</type>
+    <tmdbid>2044557</tmdbid>
+  </actor>
+  <actor>
+    <name>Stratos Papadelis</name>
+    <type>Actor</type>
+    <tmdbid>3724746</tmdbid>
+  </actor>
+  <director tmdbid="1548889">Christos Nikou</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wf1lNQF0fdM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ucBK-mljB4s</trailer>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <sorttitle>Apples</sorttitle>
+  <imdbid>tt10110614</imdbid>
+  <tmdbid>652156</tmdbid>
+  <premiered>2021-06-03</premiered>
+  <releasedate>2021-06-03</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>87</runtime>
+  <country>Greece</country>
+  <country>Poland</country>
+  <country>Slovenia</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Boo Productions</studio>
+  <studio>Lava Films</studio>
+  <studio>Perfo Production</studio>
+  <studio>Musou Music Group</studio>
+  <uniqueid type="tmdb">652156</uniqueid>
+  <uniqueid type="imdb">tt10110614</uniqueid>
+  <id>tt10110614</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2249207</bitrate>
+        <width>1440</width>
+        <height>1072</height>
+        <aspect>90:67</aspect>
+        <aspectratio>90:67</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5215</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128479</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A day in the life of Leo and his daughter, Molly, as he floats through alternate lives he could have lived, leading Molly to wrestle with her own path as she considers her future.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:15:46</dateadded>
+  <title>The Roads Not Taken</title>
+  <originaltitle>The Roads Not Taken</originaltitle>
+  <actor>
+    <name>Javier Bardem</name>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>Elle Fanning</name>
+    <type>Actor</type>
+    <tmdbid>18050</tmdbid>
+    <imdbid>nm1102577</imdbid>
+    <tvdbid>325941</tvdbid>
+  </actor>
+  <actor>
+    <name>Branka Katić</name>
+    <type>Actor</type>
+    <tmdbid>15268</tmdbid>
+    <imdbid>nm0441287</imdbid>
+  </actor>
+  <actor>
+    <name>Salma Hayek</name>
+    <type>Actor</type>
+    <tmdbid>3136</tmdbid>
+    <imdbid>nm0000161</imdbid>
+  </actor>
+  <director tmdbid="57206" imdbid="nm0006845">Sally Potter</director>
+  <writer tmdbid="57206" imdbid="nm0006845">Sally Potter</writer>
+  <credits tmdbid="57206" imdbid="nm0006845">Sally Potter</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cE0pvT1Lgrg</trailer>
+  <rating>5.2</rating>
+  <year>2020</year>
+  <sorttitle>Roads Not Taken</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9411866</imdbid>
+  <tmdbid>567714</tmdbid>
+  <premiered>2020-03-13</premiered>
+  <releasedate>2020-03-13</releasedate>
+  <criticrating>43</criticrating>
+  <runtime>85</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <country>Sweden</country>
+  <genre>Drama</genre>
+  <studio>BBC Films</studio>
+  <studio>British Film Institute</studio>
+  <studio>HanWay Films</studio>
+  <studio>The Chimney Pot</studio>
+  <studio>Film i Väst</studio>
+  <studio>Adventure Pictures</studio>
+  <studio>Bleecker Street Films</studio>
+  <uniqueid type="imdb">tt9411866</uniqueid>
+  <uniqueid type="tmdb">567714</uniqueid>
+  <id>tt9411866</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1306828</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>85</duration>
+        <durationinseconds>5111</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

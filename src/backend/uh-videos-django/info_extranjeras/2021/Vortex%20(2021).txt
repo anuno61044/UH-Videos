@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia sigue a una pareja de ancianos. Él tiene problemas de corazón y ella padece Alzheimer. Una mirada cercana a la realidad de este matrimonio que trata de lidiar con sus enfermedades y el paso del tiempo.]]></plot>
+  <outline><![CDATA[La vida es una fiesta corta que pronto se olvidará.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-08 12:22:40</dateadded>
+  <title>Vortex</title>
+  <originaltitle>Vortex</originaltitle>
+  <actor>
+    <name>Dario Argento</name>
+    <role>Lui</role>
+    <type>Actor</type>
+    <tmdbid>4955</tmdbid>
+    <imdbid>nm0000783</imdbid>
+  </actor>
+  <actor>
+    <name>Françoise Lebrun</name>
+    <role>Elle</role>
+    <type>Actor</type>
+    <tmdbid>236639</tmdbid>
+    <imdbid>nm0495950</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Lutz</name>
+    <role>Stéphane</role>
+    <type>Actor</type>
+    <tmdbid>1146860</tmdbid>
+    <imdbid>nm3367478</imdbid>
+  </actor>
+  <actor>
+    <name>Kamel Benchemekh</name>
+    <role>L'épicier</role>
+    <type>Actor</type>
+    <tmdbid>2200706</tmdbid>
+  </actor>
+  <actor>
+    <name>Corinne Bruand</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1321357</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Roubaud</name>
+    <role>La junkie</role>
+    <type>Actor</type>
+    <tmdbid>1769927</tmdbid>
+  </actor>
+  <director tmdbid="14597" imdbid="nm0637615">Gaspar Noé</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-L-ZcCFePAs</trailer>
+  <rating>7.4</rating>
+  <year>2022</year>
+  <sorttitle>Vortex</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt14821150</imdbid>
+  <tmdbid>807070</tmdbid>
+  <premiered>2022-01-27</premiered>
+  <releasedate>2022-01-27</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>142</runtime>
+  <tagline>La vida es una fiesta corta que pronto se olvidará.</tagline>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Wild Bunch</studio>
+  <studio>Les Cinémas de la Zone</studio>
+  <studio>Rectangle Productions</studio>
+  <studio>Les Films Velvet</studio>
+  <studio>Artémis Productions</studio>
+  <studio>KNM</studio>
+  <studio>Shelter Prod</studio>
+  <studio>Srab Films</studio>
+  <studio>Kallouche Cinéma</studio>
+  <uniqueid type="imdb">tt14821150</uniqueid>
+  <uniqueid type="tmdb">807070</uniqueid>
+  <id>tt14821150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>584680</bitrate>
+        <width>720</width>
+        <height>288</height>
+        <aspect>5:2</aspect>
+        <aspectratio>5:2</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8522</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

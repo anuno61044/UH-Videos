@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe, pero Robotnik regresa con nuevo compañero Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones, pero Sonic no esta solo lo ayudara Tails.]]></plot>
+  <outline><![CDATA[Bienvenido al siguiente nivel...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-03 16:46:19</dateadded>
+  <title>Sonic 2: La Película</title>
+  <originaltitle>Sonic the Hedgehog 2</originaltitle>
+  <actor>
+    <name>Ben Schwartz</name>
+    <role>Sonic the Hedgehog (voice)</role>
+    <type>Actor</type>
+    <tmdbid>222121</tmdbid>
+    <imdbid>nm2355635</imdbid>
+    <tvdbid>285161</tvdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Knuckles the Echidna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+    <tvdbid>269501</tvdbid>
+  </actor>
+  <actor>
+    <name>Colleen O'Shaughnessey</name>
+    <role>Miles 'Tails' Prower (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1212864</tmdbid>
+    <imdbid>nm0642601</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Carrey</name>
+    <role>Dr. Ivo Robotnik</role>
+    <type>Actor</type>
+    <tmdbid>206</tmdbid>
+    <imdbid>nm0000120</imdbid>
+  </actor>
+  <actor>
+    <name>James Marsden</name>
+    <role>Tom Wachowski</role>
+    <type>Actor</type>
+    <tmdbid>11006</tmdbid>
+    <imdbid>nm0005188</imdbid>
+    <tvdbid>267668</tvdbid>
+  </actor>
+  <actor>
+    <name>Tika Sumpter</name>
+    <role>Maddie Wachowski</role>
+    <type>Actor</type>
+    <tmdbid>110742</tmdbid>
+    <imdbid>nm1754366</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Rothwell</name>
+    <role>Rachel</role>
+    <type>Actor</type>
+    <tmdbid>1546282</tmdbid>
+    <imdbid>nm5625020</imdbid>
+    <tvdbid>654915</tvdbid>
+  </actor>
+  <actor>
+    <name>Shemar Moore</name>
+    <role>Randall</role>
+    <type>Actor</type>
+    <tmdbid>50266</tmdbid>
+    <imdbid>nm0005245</imdbid>
+    <tvdbid>309005</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Pally</name>
+    <role>Wade Whipple</role>
+    <type>Actor</type>
+    <tmdbid>115974</tmdbid>
+    <imdbid>nm1269723</imdbid>
+    <tvdbid>296675</tvdbid>
+  </actor>
+  <actor>
+    <name>Lee Majdoub</name>
+    <role>Agent Stone</role>
+    <type>Actor</type>
+    <tmdbid>208677</tmdbid>
+    <imdbid>nm2837384</imdbid>
+  </actor>
+  <actor>
+    <name>Melody Nosipho Niemann</name>
+    <role>Jojo</role>
+    <type>Actor</type>
+    <tmdbid>2515638</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Butler</name>
+    <role>Vice Chairman Walters</role>
+    <type>Actor</type>
+    <tmdbid>85922</tmdbid>
+    <imdbid>nm0125148</imdbid>
+  </actor>
+  <actor>
+    <name>Donna Jay Fulks</name>
+    <role>Longclaw (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2553214</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Kalilimoku</name>
+    <role>Drench</role>
+    <type>Actor</type>
+    <tmdbid>2921203</tmdbid>
+  </actor>
+  <actor>
+    <name>Krista Alvarez</name>
+    <role>Faucet</role>
+    <type>Actor</type>
+    <tmdbid>1769286</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Patey</name>
+    <role>Armored Truck Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>134612</tmdbid>
+    <imdbid>nm2814333</imdbid>
+  </actor>
+  <actor>
+    <name>Leif Havdale</name>
+    <role>Bank Robber</role>
+    <type>Actor</type>
+    <tmdbid>1899568</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnson Phan</name>
+    <role>Bank Robber</role>
+    <type>Actor</type>
+    <tmdbid>1353657</tmdbid>
+    <imdbid>nm2035497</imdbid>
+  </actor>
+  <actor>
+    <name>Colby Chartrand</name>
+    <role>Bank Robber</role>
+    <type>Actor</type>
+    <tmdbid>1853050</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Fortin</name>
+    <role>Bank Robber</role>
+    <type>Actor</type>
+    <tmdbid>3411282</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Sanca</name>
+    <role>Armored Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>113206</tmdbid>
+  </actor>
+  <actor>
+    <name>Sook Hexamer</name>
+    <role>Elderly Woman</role>
+    <type>Actor</type>
+    <tmdbid>3263341</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Ameerali</name>
+    <role>Shopper</role>
+    <type>Actor</type>
+    <tmdbid>3518022</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Riefsnyder</name>
+    <role>Camper</role>
+    <type>Actor</type>
+    <tmdbid>1669240</tmdbid>
+    <imdbid>nm0726173</imdbid>
+  </actor>
+  <actor>
+    <name>Parker Rowell-Laferriere</name>
+    <role>Ice Cream Child</role>
+    <type>Actor</type>
+    <tmdbid>3518023</tmdbid>
+  </actor>
+  <actor>
+    <name>Tammy Nera</name>
+    <role>Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>2100944</tmdbid>
+    <imdbid>nm2738010</imdbid>
+  </actor>
+  <actor>
+    <name>Gerald Paetz</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>85543</tmdbid>
+  </actor>
+  <actor>
+    <name>Corry Glass</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>1868930</tmdbid>
+  </actor>
+  <actor>
+    <name>David Jacox</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>1426774</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Mitchell</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>1336796</tmdbid>
+  </actor>
+  <actor>
+    <name>Heath Stevenson</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>2082335</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Chapman</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>148502</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhys Williams</name>
+    <role>Scavenger</role>
+    <type>Actor</type>
+    <tmdbid>1457245</tmdbid>
+    <imdbid>nm0931526</imdbid>
+  </actor>
+  <actor>
+    <name>Nilo Ghajar</name>
+    <role>Scavenger</role>
+    <type>Actor</type>
+    <tmdbid>2054214</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Lew</name>
+    <role>Scavenger</role>
+    <type>Actor</type>
+    <tmdbid>2569010</tmdbid>
+    <imdbid>nm1064044</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Bowen</name>
+    <role>Tatiana</role>
+    <type>Actor</type>
+    <tmdbid>1669657</tmdbid>
+    <imdbid>nm1034338</imdbid>
+    <tvdbid>472632</tvdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Ruzich</name>
+    <role>Russian Giant Bully</role>
+    <type>Actor</type>
+    <tmdbid>1924855</tmdbid>
+  </actor>
+  <actor>
+    <name>Shay Kuebler</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3518026</tmdbid>
+  </actor>
+  <actor>
+    <name>Keiran Bohay</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2739562</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Mylrea</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3518027</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Khalifa</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2674937</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiden Cass</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3518028</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Kyrzyk</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2863741</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanislav Galimkhanov</name>
+    <role>Russian Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3518029</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Bogomolov</name>
+    <role>Tavern Menacing Card Player</role>
+    <type>Actor</type>
+    <tmdbid>2641945</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Magee</name>
+    <role>Tavern Menacing Card Player</role>
+    <type>Actor</type>
+    <tmdbid>2082836</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Stewart</name>
+    <role>Tavern Menacing Card Player</role>
+    <type>Actor</type>
+    <tmdbid>1237738</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Nerling</name>
+    <role>Tavern Tattooed Knuckle Cracker</role>
+    <type>Actor</type>
+    <tmdbid>530733</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Chin</name>
+    <role>Tavern Fish Butcher</role>
+    <type>Actor</type>
+    <tmdbid>1259515</tmdbid>
+    <imdbid>nm1777809</imdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Raiman</name>
+    <role>Tavern Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2641447</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvetta Fisher</name>
+    <role>Tavern Knitting Woman</role>
+    <type>Actor</type>
+    <tmdbid>2616430</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Hein</name>
+    <role>Tack</role>
+    <type>Actor</type>
+    <tmdbid>185853</tmdbid>
+    <imdbid>nm1653175</imdbid>
+  </actor>
+  <actor>
+    <name>Jess Lundgren</name>
+    <role>Wisco</role>
+    <type>Actor</type>
+    <tmdbid>2308851</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Chang</name>
+    <role>Grommet</role>
+    <type>Actor</type>
+    <tmdbid>3518036</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Barba</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1569483</tmdbid>
+  </actor>
+  <actor>
+    <name>Brennan Dyson</name>
+    <role>Randall's Brother</role>
+    <type>Actor</type>
+    <tmdbid>1765208</tmdbid>
+  </actor>
+  <actor>
+    <name>Saida Dyson</name>
+    <role>Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>3518037</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Wright Pere</name>
+    <role>Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>1463681</tmdbid>
+  </actor>
+  <actor>
+    <name>Ha'a Keaulana</name>
+    <role>Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>1827434</tmdbid>
+  </actor>
+  <actor>
+    <name>Quinn Early</name>
+    <role>Rachel's Father</role>
+    <type>Actor</type>
+    <tmdbid>1680185</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheryl Lewis</name>
+    <role>Rachel's Mother</role>
+    <type>Actor</type>
+    <tmdbid>2464194</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Meryl</name>
+    <role>Rachel's Aunt</role>
+    <type>Actor</type>
+    <tmdbid>1592516</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashlei Tave</name>
+    <role>Rachel's Cousin</role>
+    <type>Actor</type>
+    <tmdbid>2750023</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariah Dyson</name>
+    <role>Randall's Family</role>
+    <type>Actor</type>
+    <tmdbid>3518038</tmdbid>
+  </actor>
+  <actor>
+    <name>Tavita Woodard</name>
+    <role>Randall's Family</role>
+    <type>Actor</type>
+    <tmdbid>3518039</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernie Jackson</name>
+    <role>G.U.N. Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1377053</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob 'Sluggo' Boyce</name>
+    <role>G.U.N. Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1832999</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Zen Humpage</name>
+    <role>G.U.N. Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1884524</tmdbid>
+  </actor>
+  <actor>
+    <name>Fraser Corbett</name>
+    <role>G.U.N. Soldier</role>
+    <type>Actor</type>
+    <tmdbid>206654</tmdbid>
+    <imdbid>nm2632587</imdbid>
+  </actor>
+  <actor>
+    <name>Marcus Aurelio</name>
+    <role>G.U.N. Soldier</role>
+    <type>Actor</type>
+    <tmdbid>83520</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Triplett</name>
+    <role>G.U.N. Agent</role>
+    <type>Actor</type>
+    <tmdbid>3518047</tmdbid>
+  </actor>
+  <actor>
+    <name>Eli Olson</name>
+    <role>G.U.N. Agent</role>
+    <type>Actor</type>
+    <tmdbid>1383882</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Rufino</name>
+    <role>G.U.N. Agent</role>
+    <type>Actor</type>
+    <tmdbid>2506371</tmdbid>
+  </actor>
+  <actor>
+    <name>Nito Larioza</name>
+    <role>G.U.N. Agent</role>
+    <type>Actor</type>
+    <tmdbid>1427711</tmdbid>
+    <imdbid>nm1045914</imdbid>
+  </actor>
+  <actor>
+    <name>Chad Keaulana</name>
+    <role>G.U.N. Agent</role>
+    <type>Actor</type>
+    <tmdbid>3518060</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Surh</name>
+    <role>G.U.N Mean Bean Agent</role>
+    <type>Actor</type>
+    <tmdbid>1778590</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Lazenby</name>
+    <role>Mean Bean Trucker</role>
+    <type>Actor</type>
+    <tmdbid>106951</tmdbid>
+    <imdbid>nm1342807</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Brown</name>
+    <role>Grocery Shopper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1468110</tmdbid>
+    <imdbid>nm3272103</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Dohy</name>
+    <role>Seattle Passerby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2382046</tmdbid>
+  </actor>
+  <actor>
+    <name>Leighton Hara</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2295771</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Hyrland</name>
+    <role>Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1444569</tmdbid>
+  </actor>
+  <actor>
+    <name>Zac Vran</name>
+    <role>Sonic Proxy Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1622766</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Lee</name>
+    <role>Tails Proxy Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2569044</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Tenney</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3518063</tmdbid>
+  </actor>
+  <director tmdbid="93364" imdbid="nm1733778">Jeff Fowler</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cF5uf8a2Xds</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>Sonic 2: La Pelicula</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt12412888</imdbid>
+  <tmdbid>675353</tmdbid>
+  <premiered>2022-03-30</premiered>
+  <releasedate>2022-03-30</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>121</runtime>
+  <tagline>Bienvenido al siguiente nivel...</tagline>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <genre>Aventura</genre>
+  <studio>SEGA</studio>
+  <studio>Original Film</studio>
+  <studio>Blur Studios</studio>
+  <studio>Marza Animation Planet</studio>
+  <studio>Paramount</studio>
+  <set tmdbcolid="720879">
+    <name>Sonic El Erizo - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt12412888</uniqueid>
+  <uniqueid type="tmdb">675353</uniqueid>
+  <id>tt12412888</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>918123</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7283</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

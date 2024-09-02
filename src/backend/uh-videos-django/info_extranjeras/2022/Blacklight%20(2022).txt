@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Travis Block, un agente del gobierno en la sombra que se especializa en eliminar operativos cuyas coberturas han sido expuestas, descubre una conspiración mortal dentro de sus propias filas que alcanza los niveles más altos del poder.]]></plot>
+  <outline><![CDATA[Van a necesitar mas hombres...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-03 08:18:03</dateadded>
+  <title>Luz Negra</title>
+  <originaltitle>Blacklight</originaltitle>
+  <actor>
+    <name>Liam Neeson</name>
+    <role>Travis Block</role>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Raver-Lampman</name>
+    <role>Mira Jones</role>
+    <type>Actor</type>
+    <tmdbid>2026050</tmdbid>
+    <imdbid>nm8287501</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor John Smith</name>
+    <role>Dusty Crane</role>
+    <type>Actor</type>
+    <tmdbid>1369329</tmdbid>
+    <imdbid>nm4973896</imdbid>
+    <tvdbid>480301</tvdbid>
+  </actor>
+  <actor>
+    <name>Aidan Quinn</name>
+    <role>Gabriel Robinson</role>
+    <type>Actor</type>
+    <tmdbid>18992</tmdbid>
+    <imdbid>nm0001644</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Draxl</name>
+    <role>Drew Hawthorne</role>
+    <type>Actor</type>
+    <tmdbid>123724</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire van der Boom</name>
+    <role>Amanda Block</role>
+    <type>Actor</type>
+    <tmdbid>114843</tmdbid>
+    <imdbid>nm1834096</imdbid>
+  </actor>
+  <actor>
+    <name>Michael M. Foster</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1635549</tmdbid>
+  </actor>
+  <actor>
+    <name>Yesse Spence</name>
+    <role>Principal</role>
+    <type>Actor</type>
+    <tmdbid>1325837</tmdbid>
+    <imdbid>nm1452579</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Levi</name>
+    <role>Lecturer</role>
+    <type>Actor</type>
+    <tmdbid>207679</tmdbid>
+    <imdbid>nm1205002</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Sengos</name>
+    <role>Natalie Block</role>
+    <type>Actor</type>
+    <tmdbid>3438486</tmdbid>
+  </actor>
+  <actor>
+    <name>Clara Helms</name>
+    <role>Blaire Wright</role>
+    <type>Actor</type>
+    <tmdbid>3310690</tmdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Helen Davidson</role>
+    <type>Actor</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Shaw</name>
+    <role>Jordan Lockhart</role>
+    <type>Actor</type>
+    <tmdbid>2628361</tmdbid>
+  </actor>
+  <actor>
+    <name>Zac Lemons</name>
+    <role>Wallace</role>
+    <type>Actor</type>
+    <tmdbid>2981088</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Flood</name>
+    <role>Pearl</role>
+    <type>Actor</type>
+    <tmdbid>1371799</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Brazier</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>216802</tmdbid>
+  </actor>
+  <actor>
+    <name>Melanie Jarnson</name>
+    <role>Sofia Elores</role>
+    <type>Actor</type>
+    <tmdbid>2637828</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunny S. Walia</name>
+    <role>Beat Cop</role>
+    <type>Actor</type>
+    <tmdbid>2391549</tmdbid>
+  </actor>
+  <actor>
+    <name>Linc Hasler</name>
+    <role>Bald Guy</role>
+    <type>Actor</type>
+    <tmdbid>3040149</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony J. Sharpe</name>
+    <role>Nationalist Leader</role>
+    <type>Actor</type>
+    <tmdbid>2272447</tmdbid>
+  </actor>
+  <actor>
+    <name>Cam Faull</name>
+    <role>Bearded Nationalist #2</role>
+    <type>Actor</type>
+    <tmdbid>3045451</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasper Bagg</name>
+    <role>Bearded Nationalist #3</role>
+    <type>Actor</type>
+    <tmdbid>187016</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Petruzzi</name>
+    <role>Desk Captain</role>
+    <type>Actor</type>
+    <tmdbid>164583</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Cooke</name>
+    <role>Deputy 1</role>
+    <type>Actor</type>
+    <tmdbid>2371816</tmdbid>
+  </actor>
+  <actor>
+    <name>Damien Bodie</name>
+    <role>Deputy 2</role>
+    <type>Actor</type>
+    <tmdbid>1215130</tmdbid>
+  </actor>
+  <actor>
+    <name>Andriana Williams</name>
+    <role>Margaret Robinson / 911 Operator</role>
+    <type>Actor</type>
+    <tmdbid>3456138</tmdbid>
+  </actor>
+  <actor>
+    <name>Anita Torrance</name>
+    <role>Secretary</role>
+    <type>Actor</type>
+    <tmdbid>2516798</tmdbid>
+  </actor>
+  <actor>
+    <name>Irene Chen</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1349382</tmdbid>
+  </actor>
+  <actor>
+    <name>Dailin Gabrielle</name>
+    <role>Young Female Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3456139</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodney Miller</name>
+    <role>Unconscious Jetta Driver</role>
+    <type>Actor</type>
+    <tmdbid>3456141</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia Forsyth-Smith</name>
+    <role>Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3136102</tmdbid>
+  </actor>
+  <actor>
+    <name>Yanina Clifton</name>
+    <role>Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3136103</tmdbid>
+  </actor>
+  <director tmdbid="206574" imdbid="nm0931251">Mark Williams</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d4K9Rzy2_DA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k_N9pU4FMOs</trailer>
+  <rating>4.8</rating>
+  <year>2022</year>
+  <sorttitle>Luz Negra</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt14060094</imdbid>
+  <tmdbid>823625</tmdbid>
+  <premiered>2022-02-10</premiered>
+  <releasedate>2022-02-10</releasedate>
+  <criticrating>7</criticrating>
+  <runtime>105</runtime>
+  <tagline>Van a necesitar mas hombres...</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>The Solution</studio>
+  <studio>Zero Gravity Management</studio>
+  <studio>Film Victoria</studio>
+  <studio>Lightstream Entertainment</studio>
+  <studio>Screen Australia</studio>
+  <uniqueid type="imdb">tt14060094</uniqueid>
+  <uniqueid type="tmdb">823625</uniqueid>
+  <id>tt14060094</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1062726</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6292</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

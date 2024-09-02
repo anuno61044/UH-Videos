@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.]]></plot>
+  <outline><![CDATA[Me muero por hacerte pasar un buen rato.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-13 10:17:17</dateadded>
+  <title>X</title>
+  <originaltitle>X</originaltitle>
+  <actor>
+    <name>Mia Goth</name>
+    <role>Maxine / Pearl</role>
+    <type>Actor</type>
+    <tmdbid>1137824</tmdbid>
+    <imdbid>nm5301405</imdbid>
+  </actor>
+  <actor>
+    <name>Jenna Ortega</name>
+    <role>Lorraine</role>
+    <type>Actor</type>
+    <tmdbid>974169</tmdbid>
+    <imdbid>nm4911194</imdbid>
+    <tvdbid>474051</tvdbid>
+  </actor>
+  <actor>
+    <name>Brittany Snow</name>
+    <role>Bobby-Lynne</role>
+    <type>Actor</type>
+    <tmdbid>29221</tmdbid>
+    <imdbid>nm0811242</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Henderson</name>
+    <role>Wayne</role>
+    <type>Actor</type>
+    <tmdbid>26291</tmdbid>
+    <imdbid>nm0376540</imdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <role>Jackson Hole</role>
+    <type>Actor</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+    <tvdbid>327411</tvdbid>
+  </actor>
+  <actor>
+    <name>Owen Campbell</name>
+    <role>RJ</role>
+    <type>Actor</type>
+    <tmdbid>132220</tmdbid>
+    <imdbid>nm3338805</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Ure</name>
+    <role>Howard</role>
+    <type>Actor</type>
+    <tmdbid>1440014</tmdbid>
+    <imdbid>nm0881831</imdbid>
+  </actor>
+  <actor>
+    <name>James Gaylyn</name>
+    <role>Sheriff Dentler</role>
+    <type>Actor</type>
+    <tmdbid>54492</tmdbid>
+    <imdbid>nm1197230</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Prast</name>
+    <role>Televangelist</role>
+    <type>Actor</type>
+    <tmdbid>1238425</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Saville</name>
+    <role>Officer Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>1340023</tmdbid>
+    <imdbid>nm2286906</imdbid>
+  </actor>
+  <actor>
+    <name>Bryony Skillington</name>
+    <role>Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3079266</tmdbid>
+  </actor>
+  <director tmdbid="101542" imdbid="nm1488800">Ti West</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8U_M22Qc2oI</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>X</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13560574</imdbid>
+  <tmdbid>760104</tmdbid>
+  <premiered>2022-03-17</premiered>
+  <releasedate>2022-03-17</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>106</runtime>
+  <tagline>Me muero por hacerte pasar un buen rato.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>A24</studio>
+  <studio>Little Lamb Productions</studio>
+  <studio>Bron Studios</studio>
+  <studio>Mad Solar</studio>
+  <set tmdbcolid="950289">
+    <name>X Collection</name>
+  </set>
+  <set tmdbcolid="950289">
+    <name>Colección: X</name>
+  </set>
+  <uniqueid type="imdb">tt13560574</uniqueid>
+  <uniqueid type="tmdb">760104</uniqueid>
+  <id>tt13560574</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1047068</bitrate>
+        <width>1280</width>
+        <height>674</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6379</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

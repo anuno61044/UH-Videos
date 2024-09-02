@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.]]></plot>
+  <outline><![CDATA[Nadie escapa al ruido.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-05 08:38:37</dateadded>
+  <title>Chaos Walking</title>
+  <originaltitle>Chaos Walking</originaltitle>
+  <actor>
+    <name>Tom Holland</name>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <tvdbid>287561</tvdbid>
+  </actor>
+  <actor>
+    <name>Daisy Ridley</name>
+    <type>Actor</type>
+    <tmdbid>1315036</tmdbid>
+    <imdbid>nm5397459</imdbid>
+  </actor>
+  <actor>
+    <name>Demián Bichir</name>
+    <type>Actor</type>
+    <tmdbid>76961</tmdbid>
+    <imdbid>nm0065007</imdbid>
+    <tvdbid>8001192</tvdbid>
+  </actor>
+  <actor>
+    <name>David Oyelowo</name>
+    <type>Actor</type>
+    <tmdbid>35013</tmdbid>
+    <imdbid>nm0654648</imdbid>
+    <tvdbid>396447</tvdbid>
+  </actor>
+  <director tmdbid="11694" imdbid="nm0510731">Doug Liman</director>
+  <writer>Patrick Ness (screenplay by)</writer>
+  <writer>Christopher Ford (screenplay by)</writer>
+  <writer>Patrick Ness (based upon the book "The Knife of Never Letting Go" by)</writer>
+  <credits>Patrick Ness (screenplay by)</credits>
+  <credits>Christopher Ford (screenplay by)</credits>
+  <credits>Patrick Ness (based upon the book "The Knife of Never Letting Go" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aJne8g5XkJs</trailer>
+  <rating>5.7</rating>
+  <year>2021</year>
+  <sorttitle>Chaos Walking</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2076822</imdbid>
+  <tmdbid>412656</tmdbid>
+  <premiered>2021-02-24</premiered>
+  <releasedate>2021-02-24</releasedate>
+  <criticrating>22</criticrating>
+  <runtime>109</runtime>
+  <tagline>Nadie escapa al ruido.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Fantasy</genre>
+  <genre>Sci-Fi</genre>
+  <studio>Quadrant Pictures</studio>
+  <studio>Lionsgate</studio>
+  <studio>Bron Studios</studio>
+  <studio>3 Arts Entertainment</studio>
+  <studio>TIK Films</studio>
+  <studio>Hercules Film Fund</studio>
+  <uniqueid type="imdb">tt2076822</uniqueid>
+  <uniqueid type="tmdb">412656</uniqueid>
+  <id>tt2076822</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1023041</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>478:199</aspect>
+        <aspectratio>478:199</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6533</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

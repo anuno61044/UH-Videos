@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Hace un año Ricardo (Santiago Segura) y Felipe (Leo Harlem), encargados de llevar a los niños a un campamento, se quedaron fuera del tren dejando a los niños dentro. Clara (Paz Vega) no se fía ya de ellos y decide este año llevar a los niños personalmente con ayuda de su amiga Susana (Paz Padilla). Sin embargo, ahora serán ellas las que a raíz de un accidente se separen de los niños. Secuela de 'A todo tren. Destino Asturias'.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-03 08:11:41</dateadded>
+  <title>A todo tren 2: Sí, les ha pasado otra vez</title>
+  <originaltitle>A todo tren 2: Ahora son ellas</originaltitle>
+  <actor>
+    <name>Santiago Segura</name>
+    <role>Ricardo</role>
+    <type>Actor</type>
+    <tmdbid>10847</tmdbid>
+    <imdbid>nm0782213</imdbid>
+    <tvdbid>293545</tvdbid>
+  </actor>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Felipe</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>El Cejas</name>
+    <role>Unai</role>
+    <type>Actor</type>
+    <tmdbid>2812392</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Miranda</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>2814905</tmdbid>
+  </actor>
+  <actor>
+    <name>Eneko Otero</name>
+    <role>Nacho</role>
+    <type>Actor</type>
+    <tmdbid>3153928</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <role>Lara</role>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier García</name>
+    <role>Fernandito</role>
+    <type>Actor</type>
+    <tmdbid>3153936</tmdbid>
+  </actor>
+  <actor>
+    <name>Sirena Segura</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>2377844</tmdbid>
+    <imdbid>nm10840211</imdbid>
+  </actor>
+  <actor>
+    <name>Verónica López</name>
+    <role>Cristinita</role>
+    <type>Actor</type>
+    <tmdbid>3153939</tmdbid>
+  </actor>
+  <actor>
+    <name>Paz Padilla</name>
+    <role>Susana</role>
+    <type>Actor</type>
+    <tmdbid>1460313</tmdbid>
+    <imdbid>nm0655759</imdbid>
+    <tvdbid>543775</tvdbid>
+  </actor>
+  <actor>
+    <name>Paz Vega</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>3627</tmdbid>
+    <imdbid>nm0891895</imdbid>
+    <tvdbid>449351</tvdbid>
+  </actor>
+  <actor>
+    <name>David Fernández</name>
+    <type>Actor</type>
+    <tmdbid>3001761</tmdbid>
+    <imdbid>nm10023643</imdbid>
+    <tvdbid>7971318</tvdbid>
+  </actor>
+  <actor>
+    <name>David Guapo</name>
+    <type>Actor</type>
+    <tmdbid>1490500</tmdbid>
+  </actor>
+  <actor>
+    <name>Florentino Fernández</name>
+    <type>Actor</type>
+    <tmdbid>140856</tmdbid>
+    <tvdbid>7874525</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta González de la Vega</name>
+    <type>Actor</type>
+    <tmdbid>2005167</tmdbid>
+    <imdbid>nm2125297</imdbid>
+  </actor>
+  <actor>
+    <name>Goizalde Núñez</name>
+    <type>Actor</type>
+    <tmdbid>1455969</tmdbid>
+    <imdbid>nm1323812</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Losán</name>
+    <type>Actor</type>
+    <tmdbid>2325876</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Iglesias</name>
+    <type>Actor</type>
+    <tmdbid>112607</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerem Bürsin</name>
+    <type>Actor</type>
+    <tmdbid>134497</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Gil Conesa</name>
+    <type>Actor</type>
+    <tmdbid>3991868</tmdbid>
+  </actor>
+  <director tmdbid="2214145" imdbid="nm2018364">Inés de León</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8hAVTqC0mI8</trailer>
+  <rating>4.2</rating>
+  <year>2022</year>
+  <sorttitle>todo tren 2: Si, les ha pasado otra vez</sorttitle>
+  <imdbid>tt21335908</imdbid>
+  <tmdbid>892068</tmdbid>
+  <premiered>2022-12-02</premiered>
+  <releasedate>2022-12-02</releasedate>
+  <runtime>85</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <set tmdbcolid="1098551">
+    <name>A todo tren - Colección</name>
+  </set>
+  <uniqueid type="tmdb">892068</uniqueid>
+  <uniqueid type="imdb">tt21335908</uniqueid>
+  <id>tt21335908</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>310911</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5074</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63827</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

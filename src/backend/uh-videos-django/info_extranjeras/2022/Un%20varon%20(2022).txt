@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Carlos vive en un internado en el centro de Bogotá y anhela pasar la Navidad con su familia. Las circunstancias a su alrededor le obligan a asumir el estereotipo de macho, en abierta contradicción con su ser. En la intimidad reconoce su sensibilidad, su fragilidad y se acerca a otras formas de masculinidad. A sus 16 años, Carlos explora su identidad sexual, descubre sus miedos, sus deseos y todo aquello que ocultan los “verdaderos hombres”.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-06 10:07:20</dateadded>
+  <title>Un varón</title>
+  <originaltitle>Un varón</originaltitle>
+  <actor>
+    <name>Dilan Felipe Ramírez Espitia</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>3863822</tmdbid>
+  </actor>
+  <actor>
+    <name>Juanita Carrillo Ortiz</name>
+    <role>Nicole</role>
+    <type>Actor</type>
+    <tmdbid>3863825</tmdbid>
+  </actor>
+  <actor>
+    <name>Jhonathan Steven Rodríguez</name>
+    <role>Freddy</role>
+    <type>Actor</type>
+    <tmdbid>3863826</tmdbid>
+  </actor>
+  <actor>
+    <name>Enrique Valencia Garzón</name>
+    <role>Taverna</role>
+    <type>Actor</type>
+    <tmdbid>3863828</tmdbid>
+  </actor>
+  <actor>
+    <name>Camilo Riaño</name>
+    <role>Camilo</role>
+    <type>Actor</type>
+    <tmdbid>3863829</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Alexander Mayorga</name>
+    <role>Bastidas</role>
+    <type>Actor</type>
+    <tmdbid>3863831</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús Alberto Cuero</name>
+    <role>Camelo</role>
+    <type>Actor</type>
+    <tmdbid>3863833</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Eduardo González</name>
+    <role>Damián</role>
+    <type>Actor</type>
+    <tmdbid>3863837</tmdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Smith Perea</name>
+    <role>Félix</role>
+    <type>Actor</type>
+    <tmdbid>3863839</tmdbid>
+  </actor>
+  <actor>
+    <name>Mónica Andrea Hurtado</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>3863841</tmdbid>
+  </actor>
+  <actor>
+    <name>Maribel Pérez</name>
+    <role>Martha</role>
+    <type>Actor</type>
+    <tmdbid>3863842</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Lozano</name>
+    <role>Rueditas</role>
+    <type>Actor</type>
+    <tmdbid>3863844</tmdbid>
+  </actor>
+  <actor>
+    <name>Seily Yulieth Gironza</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>3863845</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Paula Méndez</name>
+    <role>Viviana</role>
+    <type>Actor</type>
+    <tmdbid>3863847</tmdbid>
+  </actor>
+  <actor>
+    <name>Luz Stella Rozo</name>
+    <role>Mafe</role>
+    <type>Actor</type>
+    <tmdbid>3863849</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanz López</name>
+    <role>Japo</role>
+    <type>Actor</type>
+    <tmdbid>3863851</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolás Lesmes</name>
+    <role>Joven consumidor</role>
+    <type>Actor</type>
+    <tmdbid>3863855</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Vanegas</name>
+    <role>Joven Sayayin</role>
+    <type>Actor</type>
+    <tmdbid>3863857</tmdbid>
+  </actor>
+  <actor>
+    <name>Jhon Eduard Mina</name>
+    <role>Mina</role>
+    <type>Actor</type>
+    <tmdbid>3863860</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Sterlin Buitrago</name>
+    <role>Jonathan</role>
+    <type>Actor</type>
+    <tmdbid>3863861</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Paola Marín</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>3863862</tmdbid>
+  </actor>
+  <director tmdbid="3598070">Fabian Hernández</director>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Un varon</sorttitle>
+  <imdbid>tt19711858</imdbid>
+  <tmdbid>865587</tmdbid>
+  <premiered>2022-05-24</premiered>
+  <releasedate>2022-05-24</releasedate>
+  <runtime>82</runtime>
+  <country>Colombia</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Netherlands</country>
+  <genre>Drama</genre>
+  <studio>Black Forest Films</studio>
+  <studio>In Vivo Films</studio>
+  <studio>Fortuna Films</studio>
+  <studio>Medio de Contención Producciones</studio>
+  <studio>RTVCPlay</studio>
+  <uniqueid type="tmdb">865587</uniqueid>
+  <uniqueid type="imdb">tt19711858</uniqueid>
+  <id>tt19711858</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100246</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>81</duration>
+        <durationinseconds>4908</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

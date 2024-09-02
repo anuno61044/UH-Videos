@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Al crecer en la era de Arizona posterior a la Segunda Guerra Mundial, un niño llamado Sammy Fabelman descubre un secreto familiar devastador y explora cómo el poder de las películas puede ayudarlo a ver la verdad. Película semiautobiográfica sobre la infancia y juventud de Steven Spielberg.]]></plot>
+  <outline><![CDATA[Captura cada momento.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-13 09:17:34</dateadded>
+  <title>Los Fabelman</title>
+  <originaltitle>The Fabelmans</originaltitle>
+  <actor>
+    <name>Gabriel LaBelle</name>
+    <role>Sammy Fabelman</role>
+    <type>Actor</type>
+    <tvdbid>8495467</tvdbid>
+    <tmdbid>1476330</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Williams</name>
+    <role>Mitzi Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>1812</tmdbid>
+    <imdbid>nm0931329</imdbid>
+    <tvdbid>278331</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Dano</name>
+    <role>Burt Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>17142</tmdbid>
+    <imdbid>nm0200452</imdbid>
+    <tvdbid>296973</tvdbid>
+  </actor>
+  <actor>
+    <name>Seth Rogen</name>
+    <role>Benny Loewy</role>
+    <type>Actor</type>
+    <tmdbid>19274</tmdbid>
+    <imdbid>nm0736622</imdbid>
+    <tvdbid>296972</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeannie Berlin</name>
+    <role>Hadassah Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>124377</tmdbid>
+    <imdbid>nm0075588</imdbid>
+  </actor>
+  <actor>
+    <name>Judd Hirsch</name>
+    <role>Uncle Boris Podgorny</role>
+    <type>Actor</type>
+    <tmdbid>6167</tmdbid>
+    <imdbid>nm0002139</imdbid>
+    <tvdbid>248277</tvdbid>
+  </actor>
+  <actor>
+    <name>Julia Butters</name>
+    <role>Reggie Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>1651362</tmdbid>
+    <imdbid>nm6253548</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe East</name>
+    <role>Monica Sherwood</role>
+    <type>Actor</type>
+    <tmdbid>1512280</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Rechner</name>
+    <role>Logan Hall</role>
+    <type>Actor</type>
+    <tmdbid>3132260</tmdbid>
+  </actor>
+  <actor>
+    <name>Keeley Karsten</name>
+    <role>Natalie Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>3690404</tmdbid>
+  </actor>
+  <actor>
+    <name>Oakes Fegley</name>
+    <role>Chad Thomas</role>
+    <type>Actor</type>
+    <tmdbid>1422517</tmdbid>
+    <imdbid>nm4625502</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Kusman</name>
+    <role>Claudia Denning</role>
+    <type>Actor</type>
+    <tmdbid>3159120</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Bartlett</name>
+    <role>Tina Schildkraut</role>
+    <type>Actor</type>
+    <tmdbid>11902</tmdbid>
+    <imdbid>nm0000862</imdbid>
+  </actor>
+  <actor>
+    <name>David Lynch</name>
+    <role>John Ford</role>
+    <type>Actor</type>
+    <tmdbid>5602</tmdbid>
+    <imdbid>nm0000186</imdbid>
+  </actor>
+  <actor>
+    <name>Mateo Zoryon Francis-DeFord</name>
+    <role>Younger Sammy Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>3731015</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Kopera</name>
+    <role>Lisa Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>3233032</tmdbid>
+  </actor>
+  <actor>
+    <name>Birdie Borria</name>
+    <role>Younger Reggie Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>3690410</tmdbid>
+  </actor>
+  <actor>
+    <name>Alina Brace</name>
+    <role>Young Natalie Fabelman</role>
+    <type>Actor</type>
+    <tmdbid>3690411</tmdbid>
+  </actor>
+  <actor>
+    <name>Chandler Lovelle</name>
+    <role>Renee</role>
+    <type>Actor</type>
+    <tmdbid>2721347</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Quiroz Jr.</name>
+    <role>Sal</role>
+    <type>Actor</type>
+    <tmdbid>1172381</tmdbid>
+    <imdbid>nm4851894</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Cantu</name>
+    <role>Hark</role>
+    <type>Actor</type>
+    <tmdbid>1696351</tmdbid>
+    <imdbid>nm7751235</imdbid>
+    <tvdbid>8157827</tvdbid>
+  </actor>
+  <actor>
+    <name>Cooper Dodson</name>
+    <role>Turkey</role>
+    <type>Actor</type>
+    <tmdbid>1674312</tmdbid>
+    <imdbid>nm5420347</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Bateman</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>1352028</tmdbid>
+    <imdbid>nm5145655</imdbid>
+    <tvdbid>516578</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Matthew Smith</name>
+    <role>Angelo</role>
+    <type>Actor</type>
+    <tmdbid>2077401</tmdbid>
+  </actor>
+  <actor>
+    <name>Lane Factor</name>
+    <role>Dean</role>
+    <type>Actor</type>
+    <tmdbid>2938329</tmdbid>
+  </actor>
+  <actor>
+    <name>James Urbaniak</name>
+    <role>Grand View High School Principal</role>
+    <type>Actor</type>
+    <tmdbid>58528</tmdbid>
+    <imdbid>nm0881672</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Quijano</name>
+    <role>Grand View High School PE Coach</role>
+    <type>Actor</type>
+    <tmdbid>1366811</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalama Epstein</name>
+    <role>Barry</role>
+    <type>Actor</type>
+    <tmdbid>1590304</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Trinneer</name>
+    <role>Phil Newhart</role>
+    <type>Actor</type>
+    <tmdbid>105829</tmdbid>
+    <imdbid>nm0872997</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Grunberg</name>
+    <role>Bernie Fein</role>
+    <type>Actor</type>
+    <tmdbid>17305</tmdbid>
+    <imdbid>nm0342399</imdbid>
+  </actor>
+  <actor>
+    <name>Jan Hoag</name>
+    <role>Nona</role>
+    <type>Actor</type>
+    <tmdbid>143204</tmdbid>
+    <imdbid>nm0387431</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Javier Castillo</name>
+    <role>Camera Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1282012</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezra Buzzington</name>
+    <role>2nd Camera Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>59285</tmdbid>
+    <imdbid>nm0125653</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chepikian</name>
+    <role>Pinnacle Peak Owner</role>
+    <type>Actor</type>
+    <tmdbid>3570734</tmdbid>
+  </actor>
+  <actor>
+    <name>Brinly Marum</name>
+    <role>Janet Benedict</role>
+    <type>Actor</type>
+    <tmdbid>3690413</tmdbid>
+  </actor>
+  <actor>
+    <name>Crystal the Monkey</name>
+    <role>Bennie the Monkey</role>
+    <type>Actor</type>
+    <tmdbid>2978386</tmdbid>
+    <imdbid>nm2640714</imdbid>
+  </actor>
+  <actor>
+    <name>Art Bonilla</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>61222</tmdbid>
+  </actor>
+  <actor>
+    <name>Meredith VanCuyk</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>3690406</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Alicia Xavier</name>
+    <role>Sammy's Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3690407</tmdbid>
+  </actor>
+  <actor>
+    <name>Vera Myers</name>
+    <role>Senior Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3690409</tmdbid>
+  </actor>
+  <actor>
+    <name>Larkin Campbell</name>
+    <role>Scout Father</role>
+    <type>Actor</type>
+    <tmdbid>1455902</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Mitchell</name>
+    <role>Boy Scout</role>
+    <type>Actor</type>
+    <tmdbid>2000467</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Anna-Kaye Green</name>
+    <role>Senior Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3531003</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Shiells</name>
+    <role>Chad's Posse</role>
+    <type>Actor</type>
+    <tmdbid>3218693</tmdbid>
+  </actor>
+  <actor>
+    <name>Julyah Rose</name>
+    <role>Theater Goer</role>
+    <type>Actor</type>
+    <tmdbid>2317698</tmdbid>
+  </actor>
+  <actor>
+    <name>April Elize</name>
+    <role>Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3690412</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Moorwood</name>
+    <role>Chad's Posse</role>
+    <type>Actor</type>
+    <tmdbid>2537948</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Davis</name>
+    <role>Theatre Patron</role>
+    <type>Actor</type>
+    <tmdbid>582821</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Becker</name>
+    <role>Lead Guitarist</role>
+    <type>Actor</type>
+    <tmdbid>3717606</tmdbid>
+  </actor>
+  <actor>
+    <name>Kendal Evans</name>
+    <role>Balloon Girl</role>
+    <type>Actor</type>
+    <tmdbid>3717617</tmdbid>
+  </actor>
+  <actor>
+    <name>Trang Vo</name>
+    <role>High School Friend</role>
+    <type>Actor</type>
+    <tmdbid>2567641</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Bumba</name>
+    <role>Stunt Soldier Boy</role>
+    <type>Actor</type>
+    <tmdbid>3774727</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary M. Flynn</name>
+    <role>Singer #1</role>
+    <type>Actor</type>
+    <tmdbid>3774729</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriel Porter</name>
+    <role>Singer #2</role>
+    <type>Actor</type>
+    <tmdbid>3303910</tmdbid>
+  </actor>
+  <actor>
+    <name>Tia Nalls</name>
+    <role>Singer #3</role>
+    <type>Actor</type>
+    <tmdbid>3774731</tmdbid>
+  </actor>
+  <actor>
+    <name>Harper Dustin</name>
+    <role>Natalie Photo Double</role>
+    <type>Actor</type>
+    <tmdbid>3774733</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Fuenzalida</name>
+    <role>Boy Scout</role>
+    <type>Actor</type>
+    <tmdbid>2903967</tmdbid>
+  </actor>
+  <actor>
+    <name>Orion Hunter</name>
+    <role>Boy Scout</role>
+    <type>Actor</type>
+    <tmdbid>3778119</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Rose Gomez</name>
+    <role>Boy Scout Sibling</role>
+    <type>Actor</type>
+    <tmdbid>3778120</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Hall</name>
+    <role>Senior Classmate</role>
+    <type>Actor</type>
+    <tmdbid>2996837</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hamilton</name>
+    <role>Senior Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3778125</tmdbid>
+  </actor>
+  <actor>
+    <name>Paige Locke</name>
+    <role>Cheerleader</role>
+    <type>Actor</type>
+    <tmdbid>2581752</tmdbid>
+  </actor>
+  <actor>
+    <name>Marissa McBride</name>
+    <role>Senior Classmate</role>
+    <type>Actor</type>
+    <tmdbid>3778130</tmdbid>
+  </actor>
+  <director tmdbid="488" imdbid="nm0000229">Steven Spielberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aPPS3gs_wHE</trailer>
+  <rating>7.5</rating>
+  <year>2022</year>
+  <sorttitle>Los Fabelman</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt14208870</imdbid>
+  <tmdbid>804095</tmdbid>
+  <premiered>2022-11-11</premiered>
+  <releasedate>2022-11-11</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>151</runtime>
+  <tagline>Captura cada momento.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Amblin Entertainment</studio>
+  <studio>Reliance Entertainment</studio>
+  <uniqueid type="tmdb">804095</uniqueid>
+  <uniqueid type="imdb">tt14208870</uniqueid>
+  <id>tt14208870</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>831963</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>150</duration>
+        <durationinseconds>9046</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

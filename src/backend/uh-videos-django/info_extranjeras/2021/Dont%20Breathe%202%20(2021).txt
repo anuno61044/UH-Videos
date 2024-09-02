@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El ciego se ha estado escondiendo durante años en una cabaña aislada y ha acogido y criado a una niña que perdió a sus padres en un incendio en una casa. Su tranquila existencia se hace añicos cuando un grupo de secuestradores aparece y se lleva a la niña, lo que obliga al Ciego a dejar su refugio seguro para rescatarla.]]></plot>
+  <outline><![CDATA[A la gente mala le pasan cosas malas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-03 07:23:00</dateadded>
+  <title>No respires 2</title>
+  <originaltitle>Don't Breathe 2</originaltitle>
+  <actor>
+    <name>Stephen Lang</name>
+    <role>The Blind Man</role>
+    <type>Actor</type>
+    <tmdbid>32747</tmdbid>
+    <imdbid>nm0002332</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Sexton III</name>
+    <role>Raylan</role>
+    <type>Actor</type>
+    <tmdbid>2839</tmdbid>
+    <imdbid>nm0786639</imdbid>
+  </actor>
+  <actor>
+    <name>Madelyn Grace</name>
+    <role>Phoenix</role>
+    <type>Actor</type>
+    <tmdbid>2396546</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Arcila</name>
+    <role>Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>2041321</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocci Williams</name>
+    <role>Duke</role>
+    <type>Actor</type>
+    <tmdbid>1629429</tmdbid>
+    <imdbid>nm6875258</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Schofield</name>
+    <role>Jared</role>
+    <type>Actor</type>
+    <tmdbid>1523242</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Young</name>
+    <role>Jim Bob</role>
+    <type>Actor</type>
+    <tmdbid>2223768</tmdbid>
+  </actor>
+  <actor>
+    <name>Fiona O'Shaughnessy</name>
+    <role>The Mother (Josephine)</role>
+    <type>Actor</type>
+    <tmdbid>20279</tmdbid>
+    <imdbid>nm0642605</imdbid>
+  </actor>
+  <actor>
+    <name>Steffan Rhodri</name>
+    <role>The Surgeon</role>
+    <type>Actor</type>
+    <tmdbid>143892</tmdbid>
+    <imdbid>nm0722560</imdbid>
+  </actor>
+  <actor>
+    <name>Diaana Babnicova</name>
+    <role>Billy</role>
+    <type>Actor</type>
+    <tmdbid>2812421</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Zagia</name>
+    <role>Raul</role>
+    <type>Actor</type>
+    <tmdbid>1669337</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Rogell</name>
+    <role>Market Manager</role>
+    <type>Actor</type>
+    <tmdbid>1263960</tmdbid>
+  </actor>
+  <director tmdbid="1046225">Rodo Sayagues</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=en_3ZnETSGE</trailer>
+  <rating>6</rating>
+  <year>2021</year>
+  <sorttitle>No respires 2</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6246322</imdbid>
+  <tmdbid>482373</tmdbid>
+  <premiered>2021-08-12</premiered>
+  <releasedate>2021-08-12</releasedate>
+  <runtime>98</runtime>
+  <tagline>A la gente mala le pasan cosas malas.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Ghost House Pictures</studio>
+  <studio>Stage 6 Films</studio>
+  <studio>Good Universe</studio>
+  <studio>Bad Hombre Films</studio>
+  <studio>Screen Gems</studio>
+  <set tmdbcolid="748919">
+    <name>No Respires - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt6246322</uniqueid>
+  <uniqueid type="tmdb">482373</uniqueid>
+  <id>tt6246322</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1133764</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>192:79</aspect>
+        <aspectratio>192:79</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5893</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

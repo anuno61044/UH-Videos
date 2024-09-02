@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.]]></plot>
+  <outline><![CDATA[Cuando acaba la misión, empieza la redención]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 21:23:55</dateadded>
+  <title>Extraction</title>
+  <originaltitle>Extraction</originaltitle>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Bryon Lerum</name>
+    <type>Actor</type>
+    <tmdbid>2614128</tmdbid>
+    <imdbid>nm11523062</imdbid>
+  </actor>
+  <actor>
+    <name>Ryder Lerum</name>
+    <type>Actor</type>
+    <tmdbid>2614131</tmdbid>
+    <imdbid>nm11523063</imdbid>
+  </actor>
+  <actor>
+    <name>Rudhraksh Jaiswal</name>
+    <type>Actor</type>
+    <tmdbid>2298804</tmdbid>
+    <imdbid>nm7287299</imdbid>
+  </actor>
+  <director tmdbid="1120883" imdbid="nm1092087">Sam Hargrave</director>
+  <writer>Joe Russo (screenplay)</writer>
+  <writer>Ande Parks (based on the graphic novel "Ciudad" by)</writer>
+  <writer>Ande Parks (from a story by)</writer>
+  <writer>Joe Russo (from a story by)</writer>
+  <writer>Anthony Russo (from a story by)</writer>
+  <writer>Fernando León González (with illustrations by)</writer>
+  <credits>Joe Russo (screenplay)</credits>
+  <credits>Ande Parks (based on the graphic novel "Ciudad" by)</credits>
+  <credits>Ande Parks (from a story by)</credits>
+  <credits>Joe Russo (from a story by)</credits>
+  <credits>Anthony Russo (from a story by)</credits>
+  <credits>Fernando León González (with illustrations by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WPQq7fw_XMk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nPmJHmboe00</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=18fMBzX5PdA</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>Extraction</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8936646</imdbid>
+  <tmdbid>545609</tmdbid>
+  <premiered>2020-04-24</premiered>
+  <releasedate>2020-04-24</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>117</runtime>
+  <tagline>Cuando acaba la misión, empieza la redención</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Thriller</genre>
+  <studio>AGBO</studio>
+  <studio>Thematic Entertainment</studio>
+  <studio>TGIM Films</studio>
+  <set tmdbcolid="735127">
+    <name>Tyler Rake - Colección</name>
+  </set>
+  <set>
+    <name>Extracción - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt8936646</uniqueid>
+  <uniqueid type="tmdb">545609</uniqueid>
+  <id>tt8936646</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>948126</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7046</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>735127</collectionnumber>
+</movie>

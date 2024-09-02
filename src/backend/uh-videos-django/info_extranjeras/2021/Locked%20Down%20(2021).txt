@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A couple attempts a high-risk, high-stakes jewelry heist at a department store.]]></plot>
+  <outline><![CDATA[Algunas personas desarrollan más rápido que otras.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-14 20:14:42</dateadded>
+  <title>Locked Down</title>
+  <originaltitle>Locked Down</originaltitle>
+  <actor>
+    <name>Sonic</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chiwetel Ejiofor</name>
+    <type>Actor</type>
+    <tmdbid>5294</tmdbid>
+    <imdbid>nm0252230</imdbid>
+    <tvdbid>310990</tvdbid>
+  </actor>
+  <actor>
+    <name>Dulé Hill</name>
+    <type>Actor</type>
+    <tmdbid>122756</tmdbid>
+    <imdbid>nm0384211</imdbid>
+    <tvdbid>334738</tvdbid>
+  </actor>
+  <actor>
+    <name>Jazmyn Simon</name>
+    <type>Actor</type>
+    <tmdbid>1936814</tmdbid>
+    <imdbid>nm4564885</imdbid>
+    <tvdbid>508243</tvdbid>
+  </actor>
+  <director tmdbid="11694" imdbid="nm0510731">Doug Liman</director>
+  <writer tmdbid="23227">Steven Knight</writer>
+  <credits tmdbid="23227">Steven Knight</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mepeWor5JPk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ecF50t2FHSA</trailer>
+  <rating>5.3</rating>
+  <year>2021</year>
+  <sorttitle>Locked Down</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13061914</imdbid>
+  <tmdbid>741228</tmdbid>
+  <premiered>2021-02-25</premiered>
+  <releasedate>2021-02-25</releasedate>
+  <criticrating>43</criticrating>
+  <runtime>118</runtime>
+  <tagline>Algunas personas desarrollan más rápido que otras.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Romance</genre>
+  <studio>AGC Studios</studio>
+  <studio>Storyteller Productions</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="imdb">tt13061914</uniqueid>
+  <uniqueid type="tmdb">741228</uniqueid>
+  <id>tt13061914</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>599948</bitrate>
+        <width>858</width>
+        <height>482</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.98</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7073</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

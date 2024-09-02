@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.]]></plot>
+  <outline><![CDATA[El universo es mucho más grande de lo que crees.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-18 09:26:26</dateadded>
+  <title>Todo a la vez en todas partes</title>
+  <originaltitle>Everything Everywhere All at Once</originaltitle>
+  <actor>
+    <name>Michelle Yeoh</name>
+    <role>Evelyn Wang</role>
+    <type>Actor</type>
+    <tmdbid>1620</tmdbid>
+    <imdbid>nm0000706</imdbid>
+    <tvdbid>310641</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Ke Quan</name>
+    <role>Waymond Wang</role>
+    <type>Actor</type>
+    <tmdbid>690</tmdbid>
+    <tvdbid>314035</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hsu</name>
+    <role>Joy Wang / Jobu Tupaki</role>
+    <type>Actor</type>
+    <tmdbid>1381186</tmdbid>
+    <tvdbid>468835</tvdbid>
+  </actor>
+  <actor>
+    <name>James Hong</name>
+    <role>Gong Gong</role>
+    <type>Actor</type>
+    <tmdbid>20904</tmdbid>
+    <imdbid>nm0393222</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Lee Curtis</name>
+    <role>Deirdre Beaubeirdra</role>
+    <type>Actor</type>
+    <tmdbid>8944</tmdbid>
+    <imdbid>nm0000130</imdbid>
+  </actor>
+  <actor>
+    <name>Tallie Medel</name>
+    <role>Becky Sregor</role>
+    <type>Actor</type>
+    <tmdbid>1071151</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Slate</name>
+    <role>Debbie the Dog Mom</role>
+    <type>Actor</type>
+    <tmdbid>213001</tmdbid>
+    <imdbid>nm2809577</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Shum Jr.</name>
+    <role>Chad</role>
+    <type>Actor</type>
+    <tmdbid>232499</tmdbid>
+    <imdbid>nm1484270</imdbid>
+  </actor>
+  <actor>
+    <name>Biff Wiff</name>
+    <role>Rick</role>
+    <type>Actor</type>
+    <tmdbid>1367122</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Molinari</name>
+    <role>Police - Confetti</role>
+    <type>Actor</type>
+    <tmdbid>202930</tmdbid>
+    <imdbid>nm1190376</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Banifaz</name>
+    <role>Alpha RV Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>1561485</tmdbid>
+  </actor>
+  <actor>
+    <name>Audrey Wasilewski</name>
+    <role>Alpha RV Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>86170</tmdbid>
+    <imdbid>nm0913585</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Le</name>
+    <role>Alpha Jumper - Bigger Trophy</role>
+    <type>Actor</type>
+    <tmdbid>1068877</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Le</name>
+    <role>Alpha Jumper - Trophy</role>
+    <type>Actor</type>
+    <tmdbid>2410189</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Scheinert</name>
+    <role>District Manager</role>
+    <type>Actor</type>
+    <tmdbid>1317730</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunita Mani</name>
+    <role>TV Musical - Queen</role>
+    <type>Actor</type>
+    <tmdbid>1375002</tmdbid>
+    <imdbid>nm4576371</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Lazar</name>
+    <role>TV Musical - Soldier</role>
+    <type>Actor</type>
+    <tmdbid>964421</tmdbid>
+    <imdbid>nm1594381</imdbid>
+  </actor>
+  <actor>
+    <name>Li Jing</name>
+    <role>Kung Fu Master</role>
+    <type>Actor</type>
+    <tmdbid>3543715</tmdbid>
+  </actor>
+  <actor>
+    <name>Panuvat Anthony Nanakornpanom</name>
+    <role>Police - Luchador</role>
+    <type>Actor</type>
+    <tmdbid>1310386</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Henry Lau</name>
+    <role>Young Boy Waymond</role>
+    <type>Actor</type>
+    <tmdbid>2883298</tmdbid>
+  </actor>
+  <actor>
+    <name>Michiko Nishiwaki</name>
+    <role>Kung Fu Competitor / Co-Star</role>
+    <type>Actor</type>
+    <tmdbid>62426</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Marie Chooljian</name>
+    <role>Alpha Jumper - Jogger</role>
+    <type>Actor</type>
+    <tmdbid>2899647</tmdbid>
+  </actor>
+  <actor>
+    <name>Randall Archer</name>
+    <role>Alpha Jumper - Edgelord</role>
+    <type>Actor</type>
+    <tmdbid>1099428</tmdbid>
+    <imdbid>nm1313581</imdbid>
+  </actor>
+  <actor>
+    <name>Efka Kvaraciejus</name>
+    <role>Alpha Jumper - SWAT</role>
+    <type>Actor</type>
+    <tmdbid>1272901</tmdbid>
+    <imdbid>nm2788450</imdbid>
+  </actor>
+  <actor>
+    <name>Neravana Cabral</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>3444951</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsey Goldsmith</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>3341013</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Henningsen</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1334321</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Hamer</name>
+    <role>Raccacoonie Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>403314</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Ralston</name>
+    <role>Raccacoonie Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>2019612</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroshi Yada</name>
+    <role>Raccacoonie Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1394743</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Lui</name>
+    <role>Opera Evelyn (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3444959</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Eulich</name>
+    <role>Laundromat Police</role>
+    <type>Actor</type>
+    <tmdbid>1367516</tmdbid>
+    <imdbid>nm2361928</imdbid>
+  </actor>
+  <actor>
+    <name>Boon Pin Koh</name>
+    <role>Maternity Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1101375</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Newman</name>
+    <role>Raccacoonie (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>7885</tmdbid>
+  </actor>
+  <actor>
+    <name>Elle Alexander</name>
+    <role>Lunch Lady (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1253106</tmdbid>
+    <imdbid>nm0018400</imdbid>
+  </actor>
+  <actor>
+    <name>Emmett Ferguson</name>
+    <role>Movie Theater Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3840579</tmdbid>
+  </actor>
+  <actor>
+    <name>Waymond Lee</name>
+    <role>Chinese Choir / Movie Producer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1200895</tmdbid>
+    <imdbid>nm3029577</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda MacLeod</name>
+    <role>Dominatrix (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3446125</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Ramos</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1593376</tmdbid>
+  </actor>
+  <actor>
+    <name>D.Y. Sao</name>
+    <role>Chinese Choir (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1466559</tmdbid>
+  </actor>
+  <actor>
+    <name>Freya Fox</name>
+    <role>Mei Li (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3169828</tmdbid>
+  </actor>
+  <director tmdbid="1317730">Daniel Scheinert</director>
+  <director tmdbid="1383612">Daniel Kwan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U3cKYWgl2dU</trailer>
+  <rating>7.8</rating>
+  <year>2022</year>
+  <sorttitle>Todo a la vez en todas partes</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6710474</imdbid>
+  <tmdbid>545611</tmdbid>
+  <premiered>2022-03-24</premiered>
+  <releasedate>2022-03-24</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>139</runtime>
+  <tagline>El universo es mucho más grande de lo que crees.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>IAC Film</studio>
+  <studio>A24</studio>
+  <studio>AGBO</studio>
+  <studio>Ley Line Entertainment</studio>
+  <studio>Year of the Rat Productions</studio>
+  <studio>Hotdog Hands LLC</studio>
+  <uniqueid type="imdb">tt6710474</uniqueid>
+  <uniqueid type="tmdb">545611</uniqueid>
+  <id>tt6710474</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>899769</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8359</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

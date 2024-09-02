@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Two couples rent a vacation home for what should be a celebratory weekend get-away.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-27 08:52:26</dateadded>
+  <title>The Rental</title>
+  <originaltitle>The Rental</originaltitle>
+  <actor>
+    <name>Dan Stevens</name>
+    <type>Actor</type>
+    <tmdbid>221018</tmdbid>
+    <imdbid>nm1405398</imdbid>
+    <tvdbid>296801</tvdbid>
+  </actor>
+  <actor>
+    <name>Alison Brie</name>
+    <type>Actor</type>
+    <tmdbid>88029</tmdbid>
+    <imdbid>nm1555340</imdbid>
+    <tvdbid>310946</tvdbid>
+  </actor>
+  <actor>
+    <name>Sheila Vand</name>
+    <type>Actor</type>
+    <tmdbid>220573</tmdbid>
+    <imdbid>nm2611074</imdbid>
+    <tvdbid>543137</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+    <tvdbid>342048</tvdbid>
+  </actor>
+  <director tmdbid="54697" imdbid="nm2002649" tvdbid="404082">Dave Franco</director>
+  <writer>Dave Franco (screenplay by)</writer>
+  <writer>Joe Swanberg (screenplay by)</writer>
+  <writer>Dave Franco (story by)</writer>
+  <writer>Joe Swanberg (story by)</writer>
+  <writer>Mike Demski (story by)</writer>
+  <credits>Dave Franco (screenplay by)</credits>
+  <credits>Joe Swanberg (screenplay by)</credits>
+  <credits>Dave Franco (story by)</credits>
+  <credits>Joe Swanberg (story by)</credits>
+  <credits>Mike Demski (story by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FYMl2AMdShE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MGdcTUMGxB0</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <sorttitle>Rental</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10003008</imdbid>
+  <tmdbid>587496</tmdbid>
+  <premiered>2020-07-23</premiered>
+  <releasedate>2020-07-23</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>88</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Black Bear Pictures</studio>
+  <studio>Ramona Films</studio>
+  <studio>IFC Films</studio>
+  <uniqueid type="imdb">tt10003008</uniqueid>
+  <uniqueid type="tmdb">587496</uniqueid>
+  <id>tt10003008</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>231183</bitrate>
+        <width>864</width>
+        <height>360</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5297</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96253</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

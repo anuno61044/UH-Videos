@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A woman seeks revenge against those who orchestrated a plane crash that killed her family.]]></plot>
+  <outline><![CDATA[Mira como nace un asesino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:15:05</dateadded>
+  <title>The Rhythm Section</title>
+  <originaltitle>The Rhythm Section</originaltitle>
+  <actor>
+    <name>Blake Lively</name>
+    <type>Actor</type>
+    <tmdbid>59175</tmdbid>
+    <imdbid>nm0515116</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Brake</name>
+    <type>Actor</type>
+    <tmdbid>3901</tmdbid>
+    <imdbid>nm0104114</imdbid>
+  </actor>
+  <actor>
+    <name>Elly Curtis</name>
+    <type>Actor</type>
+    <tmdbid>3636539</tmdbid>
+  </actor>
+  <actor>
+    <name>David Duggan</name>
+    <type>Actor</type>
+    <tmdbid>2948992</tmdbid>
+  </actor>
+  <director tmdbid="67356" imdbid="nm1543747">Reed Morano</director>
+  <writer>Mark Burnell (based on the novel by)</writer>
+  <writer>Mark Burnell (screenplay by)</writer>
+  <credits>Mark Burnell (based on the novel by)</credits>
+  <credits>Mark Burnell (screenplay by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AmOskKnDVQg</trailer>
+  <rating>5.4</rating>
+  <year>2020</year>
+  <sorttitle>Rhythm Section</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7134096</imdbid>
+  <tmdbid>466622</tmdbid>
+  <premiered>2020-01-31</premiered>
+  <releasedate>2020-01-31</releasedate>
+  <criticrating>28</criticrating>
+  <runtime>110</runtime>
+  <tagline>Mira como nace un asesino.</tagline>
+  <country>Ireland</country>
+  <country>Spain</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>IM Global</studio>
+  <studio>Eon Productions</studio>
+  <studio>Global Road Entertainment</studio>
+  <studio>Babieka Films</studio>
+  <studio>Ingenious Media</studio>
+  <studio>Whitebeard Films</studio>
+  <uniqueid type="imdb">tt7134096</uniqueid>
+  <uniqueid type="tmdb">466622</uniqueid>
+  <id>tt7134096</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1883112</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6576</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

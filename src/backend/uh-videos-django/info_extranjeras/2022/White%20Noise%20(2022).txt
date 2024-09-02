@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un accidente industrial causa un terrible incidente medioambiental en una bucólica ciudad del medio-Oeste americano, cubriéndola en una nube tóxica. Jack, un profesor universitario que ha vivido rodeado del ruido blanco de la alta tecnología, las señales electromagnéticas y el consumismo, se ve obligado a enfrentarse a su propia mortalidad.]]></plot>
+  <outline><![CDATA[Si suena todo el tiempo lo dejarás de escuchar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-30 09:21:26</dateadded>
+  <title>Ruido de fondo</title>
+  <originaltitle>White Noise</originaltitle>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Jack Gladney</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Greta Gerwig</name>
+    <role>Babette Gladney</role>
+    <type>Actor</type>
+    <tmdbid>45400</tmdbid>
+    <imdbid>nm1950086</imdbid>
+  </actor>
+  <actor>
+    <name>Don Cheadle</name>
+    <role>Murray Siskind</role>
+    <type>Actor</type>
+    <tmdbid>1896</tmdbid>
+    <imdbid>nm0000332</imdbid>
+    <tvdbid>275685</tvdbid>
+  </actor>
+  <actor>
+    <name>Raffey Cassidy</name>
+    <role>Denise Gladney</role>
+    <type>Actor</type>
+    <tmdbid>1055230</tmdbid>
+    <imdbid>nm3864163</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Nivola</name>
+    <role>Heinrich Gladney</role>
+    <type>Actor</type>
+    <tmdbid>3153829</tmdbid>
+  </actor>
+  <actor>
+    <name>May Nivola</name>
+    <role>Steffie Gladney</role>
+    <type>Actor</type>
+    <tmdbid>3052498</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodie Turner-Smith</name>
+    <role>Winnie Richards</role>
+    <type>Actor</type>
+    <tmdbid>1695989</tmdbid>
+    <imdbid>nm3853652</imdbid>
+  </actor>
+  <actor>
+    <name>André Benjamin</name>
+    <role>Elliot Lasher</role>
+    <type>Actor</type>
+    <tmdbid>37934</tmdbid>
+    <imdbid>nm0071275</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Gold</name>
+    <role>Alfonse</role>
+    <type>Actor</type>
+    <tmdbid>2497974</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Jacott</name>
+    <role>Grappa</role>
+    <type>Actor</type>
+    <tmdbid>52930</tmdbid>
+  </actor>
+  <actor>
+    <name>Lars Eidinger</name>
+    <role>Arlo Shell</role>
+    <type>Actor</type>
+    <tmdbid>111420</tmdbid>
+    <imdbid>nm1955257</imdbid>
+    <tvdbid>301858</tvdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Man With TV</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+    <tvdbid>316986</tvdbid>
+  </actor>
+  <actor>
+    <name>Barbara Sukowa</name>
+    <role>Sister Hermann Marie</role>
+    <type>Actor</type>
+    <tmdbid>23378</tmdbid>
+    <imdbid>nm0837784</imdbid>
+  </actor>
+  <actor>
+    <name>Francis Jue</name>
+    <role>Dr. Lu</role>
+    <type>Actor</type>
+    <tmdbid>1224555</tmdbid>
+  </actor>
+  <actor>
+    <name>J. David Hinze</name>
+    <role>Herr Dokter</role>
+    <type>Actor</type>
+    <tmdbid>1724514</tmdbid>
+  </actor>
+  <actor>
+    <name>Gideon Glick</name>
+    <role>Simuvac Technician</role>
+    <type>Actor</type>
+    <tmdbid>130228</tmdbid>
+    <imdbid>nm1921376</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Gaughan</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820172</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Brodax</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820173</tmdbid>
+  </actor>
+  <actor>
+    <name>Carly Brodax</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820174</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Brodax</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820175</tmdbid>
+  </actor>
+  <actor>
+    <name>Wickham Bermingham</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820176</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Chopra</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820177</tmdbid>
+  </actor>
+  <actor>
+    <name>Santu Chopra</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820178</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Williams</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820180</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Williams</name>
+    <role>College on the Hill</role>
+    <type>Actor</type>
+    <tmdbid>3820181</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Moore</name>
+    <role>Wilder</role>
+    <type>Actor</type>
+    <tmdbid>3820184</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Moore</name>
+    <role>Wilder</role>
+    <type>Actor</type>
+    <tmdbid>3820185</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Weinheimer</name>
+    <role>Student in Jack's Class</role>
+    <type>Actor</type>
+    <tmdbid>3820186</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Wolohan</name>
+    <role>German Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1560237</tmdbid>
+  </actor>
+  <actor>
+    <name>Randall L. Johnson</name>
+    <role>Boarding House Tenant</role>
+    <type>Actor</type>
+    <tmdbid>1364411</tmdbid>
+  </actor>
+  <actor>
+    <name>David Neumann</name>
+    <role>Supermarket Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1534627</tmdbid>
+  </actor>
+  <actor>
+    <name>Starlett Sabo</name>
+    <role>Cashier</role>
+    <type>Actor</type>
+    <tmdbid>3820190</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Moth</name>
+    <role>Store Manager</role>
+    <type>Actor</type>
+    <tmdbid>3082112</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Ditz</name>
+    <role>Stock Boy</role>
+    <type>Actor</type>
+    <tmdbid>3820192</tmdbid>
+  </actor>
+  <actor>
+    <name>George Drakoulias</name>
+    <role>Cotsakis</role>
+    <type>Actor</type>
+    <tmdbid>1192700</tmdbid>
+  </actor>
+  <actor>
+    <name>James DeForest Parker</name>
+    <role>Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1400931</tmdbid>
+    <imdbid>nm1505015</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Barth Feldman</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2914688</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Fitzpatrick</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>1922823</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Bloom</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>56685</tmdbid>
+    <imdbid>nm1318410</imdbid>
+  </actor>
+  <actor>
+    <name>Quincy Tyler Bernstine</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>1465486</tmdbid>
+    <imdbid>nm1736370</imdbid>
+    <tvdbid>394698</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Tober</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>3820207</tmdbid>
+  </actor>
+  <actor>
+    <name>David Myers Gregory</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>2688330</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Marcus</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>164310</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Sheeler</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>1963144</tmdbid>
+    <imdbid>nm5396407</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Weil</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>3524814</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Madison</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>3820217</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Nader</name>
+    <role>Evacuee With Theory</role>
+    <type>Actor</type>
+    <tmdbid>2020171</tmdbid>
+  </actor>
+  <actor>
+    <name>C.C. Boler</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>3820218</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Lou Rader</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>2967101</tmdbid>
+  </actor>
+  <actor>
+    <name>Alphaeus Green, Jr.</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>1951571</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Ashley Berry</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>1636761</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Neff</name>
+    <role>Evacuee with Theory</role>
+    <type>Actor</type>
+    <tmdbid>3820222</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Wareham</name>
+    <role>Boy Scout Camp Singer</role>
+    <type>Actor</type>
+    <tmdbid>66260</tmdbid>
+    <imdbid>nm0999134</imdbid>
+  </actor>
+  <actor>
+    <name>Britta Phillips</name>
+    <role>Boy Scout Camp Singer</role>
+    <type>Actor</type>
+    <tmdbid>66259</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Fineman</name>
+    <role>Simuvac Technician</role>
+    <type>Actor</type>
+    <tmdbid>2000658</tmdbid>
+  </actor>
+  <actor>
+    <name>Janette Torrico-Woo</name>
+    <role>Life Jacket Family</role>
+    <type>Actor</type>
+    <tmdbid>3820224</tmdbid>
+  </actor>
+  <actor>
+    <name>Howard Y. Woo</name>
+    <role>Life Jacket Family</role>
+    <type>Actor</type>
+    <tmdbid>2521486</tmdbid>
+  </actor>
+  <actor>
+    <name>Janellyn Woo</name>
+    <role>Life Jacket Family</role>
+    <type>Actor</type>
+    <tmdbid>2851148</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacquelyn Woo</name>
+    <role>Life Jacket Family</role>
+    <type>Actor</type>
+    <tmdbid>2851332</tmdbid>
+  </actor>
+  <actor>
+    <name>Mei Woo</name>
+    <role>Life Jacket Family</role>
+    <type>Actor</type>
+    <tmdbid>3820231</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Green</name>
+    <role>Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>2533241</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Russell</name>
+    <role>Karate Studio Evacuee</role>
+    <type>Actor</type>
+    <tmdbid>1753218</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Knode</name>
+    <role>Karate Studio Evacuee</role>
+    <type>Actor</type>
+    <tmdbid>3820233</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth D. Early</name>
+    <role>Karate Studio Evacuee</role>
+    <type>Actor</type>
+    <tmdbid>3820234</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Barrett Cooper</name>
+    <role>Karate Studio Evacuee</role>
+    <type>Actor</type>
+    <tmdbid>2381484</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Eddy</name>
+    <role>Karate Studio Evacuee</role>
+    <type>Actor</type>
+    <tmdbid>3410286</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Henderson</name>
+    <role>Karate Studio Volunteer</role>
+    <type>Actor</type>
+    <tmdbid>3164475</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Lonergan</name>
+    <role>Dr. Hookstratten</role>
+    <type>Actor</type>
+    <tmdbid>30711</tmdbid>
+    <imdbid>nm0518836</imdbid>
+  </actor>
+  <actor>
+    <name>Meggie Loughran</name>
+    <role>Sister Hildegard</role>
+    <type>Actor</type>
+    <tmdbid>3820242</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Gassaway</name>
+    <role>Dr. Helms (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>131421</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Gray</name>
+    <role>Professor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2423326</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas W. Wolf</name>
+    <role>Chief Anderson (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3123778</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryant Carroll</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1998577</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Bower</name>
+    <role>Volunteer Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3681900</tmdbid>
+  </actor>
+  <actor>
+    <name>Sierra Chagin</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3459987</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Collier</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2743926</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Dain</name>
+    <role>Professor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3523528</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Dremann</name>
+    <role>German Delegate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480057</tmdbid>
+    <imdbid>nm5316147</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Droge</name>
+    <role>Evacuee / Precision Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3676731</tmdbid>
+  </actor>
+  <actor>
+    <name>Logan Fry</name>
+    <role>Professor Helmet Dackel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1636759</tmdbid>
+    <imdbid>nm2706291</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Haskell</name>
+    <role>Sim-Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3635225</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Hemminger</name>
+    <role>Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3535592</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda Marie Howell</name>
+    <role>Biker Chick (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1764373</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Kolovich</name>
+    <role>Floor Marshall (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3557421</tmdbid>
+  </actor>
+  <actor>
+    <name>Riley Kuse</name>
+    <role>College Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3563911</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Cass McDonnell</name>
+    <role>Technician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1412150</tmdbid>
+    <imdbid>nm2632125</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley McKnight</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3730100</tmdbid>
+  </actor>
+  <actor>
+    <name>Cory Medley-White</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3681871</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Moreland</name>
+    <role>German Delegate Michael (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2977455</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin E. Murphy</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1831632</tmdbid>
+  </actor>
+  <actor>
+    <name>Sue Danna Myer</name>
+    <role>Posture Class Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1593400</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Rauh</name>
+    <role>Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1140200</tmdbid>
+  </actor>
+  <actor>
+    <name>T. Oliver Reid</name>
+    <role>Utility Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2524509</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailey Reinke</name>
+    <role>Teenager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3744853</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Repas</name>
+    <role>Tooth Brush Guy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3123782</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon (B.Rice) Rice</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1169294</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Salas</name>
+    <role>American Red Cross Volunteer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1563273</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Suglio</name>
+    <role>Chemistry Department Technician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3276585</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Sweany</name>
+    <role>Utility Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1437567</tmdbid>
+  </actor>
+  <actor>
+    <name>Marshall Vargas</name>
+    <role>Evacuee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3679208</tmdbid>
+  </actor>
+  <actor>
+    <name>William Wilmoth</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3681877</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Worley</name>
+    <role>Volunteer Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1806411</tmdbid>
+  </actor>
+  <director tmdbid="5656" imdbid="nm0000876">Noah Baumbach</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SgwKZAMx_gM</trailer>
+  <rating>5.7</rating>
+  <year>2022</year>
+  <sorttitle>Ruido de fondo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6160448</imdbid>
+  <tmdbid>744594</tmdbid>
+  <premiered>2022-11-25</premiered>
+  <releasedate>2022-11-25</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>137</runtime>
+  <tagline>Si suena todo el tiempo lo dejarás de escuchar.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Heyday Films</studio>
+  <studio>A24</studio>
+  <studio>NBGG Pictures</studio>
+  <uniqueid type="imdb">tt6160448</uniqueid>
+  <uniqueid type="tmdb">744594</uniqueid>
+  <id>tt6160448</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>920916</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>136</duration>
+        <durationinseconds>8216</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

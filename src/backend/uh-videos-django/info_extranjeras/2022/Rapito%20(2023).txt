@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Bolonia. Año 1858. Los soldados del Papa irrumpen en la casa de los Mortara para secuestrar a su hijo de siete años, Edgardo. La película sigue la lucha de la familia para tratar de recuperar a su hijo ante esta acción de la Iglesia Católica.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-21 11:58:43</dateadded>
+  <title>Rapito</title>
+  <originaltitle>Rapito</originaltitle>
+  <actor>
+    <name>Enea Sala</name>
+    <role>Edgardo Mortara bambino</role>
+    <type>Actor</type>
+    <tmdbid>3649939</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Maltese</name>
+    <role>Edgardo Mortara ragazzo</role>
+    <type>Actor</type>
+    <tmdbid>3638262</tmdbid>
+  </actor>
+  <actor>
+    <name>Paolo Pierobon</name>
+    <role>Papa Pio IX</role>
+    <type>Actor</type>
+    <tmdbid>482503</tmdbid>
+  </actor>
+  <actor>
+    <name>Fausto Russo Alesi</name>
+    <role>Momolo Mortara</role>
+    <type>Actor</type>
+    <tmdbid>105870</tmdbid>
+    <imdbid>nm0751564</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Ronchi</name>
+    <role>Marianna Mortara</role>
+    <type>Actor</type>
+    <tmdbid>1204168</tmdbid>
+    <imdbid>nm4039652</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Gherpelli</name>
+    <role>Angelo Padovani</role>
+    <type>Actor</type>
+    <tmdbid>126451</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuele Teneggi</name>
+    <role>Riccardo Mortara</role>
+    <type>Actor</type>
+    <tmdbid>3896193</tmdbid>
+  </actor>
+  <actor>
+    <name>Corrado Invernizzi</name>
+    <role>Giudice Carboni</role>
+    <type>Actor</type>
+    <tmdbid>105869</tmdbid>
+    <imdbid>nm0969364</imdbid>
+  </actor>
+  <actor>
+    <name>Filippo Timi</name>
+    <role>Cardinal Giacomo Antonelli</role>
+    <type>Actor</type>
+    <tmdbid>105868</tmdbid>
+    <imdbid>nm0863599</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrizio Gifuni</name>
+    <role>Pier Gaetano Feletti</role>
+    <type>Actor</type>
+    <tmdbid>35106</tmdbid>
+    <imdbid>nm0317561</imdbid>
+  </actor>
+  <actor>
+    <name>Paolo Calabresi</name>
+    <role>Sabatino Scazzocchio</role>
+    <type>Actor</type>
+    <tmdbid>27399</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurora Camatti</name>
+    <role>Anna Morisi</role>
+    <type>Actor</type>
+    <tmdbid>4085776</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Cariello</name>
+    <role>Maresciallo Lucidi</role>
+    <type>Actor</type>
+    <tmdbid>1685806</tmdbid>
+  </actor>
+  <actor>
+    <name>Walter Lippa</name>
+    <role>Angelo Moscati</role>
+    <type>Actor</type>
+    <tmdbid>1840132</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Bandini</name>
+    <role>Padre Mariano</role>
+    <type>Actor</type>
+    <tmdbid>3484229</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Bianconi</name>
+    <role>Brigadiere Agostini</role>
+    <type>Actor</type>
+    <tmdbid>4085775</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniele Aldrovandi</name>
+    <role>Bonaiuto Sanguinetti</role>
+    <type>Actor</type>
+    <tmdbid>1996216</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabrizio Contri</name>
+    <role>Avvocato Jussi</role>
+    <type>Actor</type>
+    <tmdbid>1163414</tmdbid>
+  </actor>
+  <actor>
+    <name>Giustiniano Alpi</name>
+    <role>Avvocato Liberale</role>
+    <type>Actor</type>
+    <tmdbid>2064633</tmdbid>
+  </actor>
+  <actor>
+    <name>Orfeo Orlando</name>
+    <role>Rabbino Vita</role>
+    <type>Actor</type>
+    <tmdbid>128753</tmdbid>
+  </actor>
+  <actor>
+    <name>Federica Fracassi</name>
+    <role>Signora anziana</role>
+    <type>Actor</type>
+    <tmdbid>1139380</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulia Quadrelli</name>
+    <role>Signora giovane</role>
+    <type>Actor</type>
+    <tmdbid>3441584</tmdbid>
+  </actor>
+  <actor>
+    <name>Renato Sarti</name>
+    <role>Rettore</role>
+    <type>Actor</type>
+    <tmdbid>1201286</tmdbid>
+  </actor>
+  <actor>
+    <name>Flavia Baiku</name>
+    <role>Madre Simone</role>
+    <type>Actor</type>
+    <tmdbid>4086180</tmdbid>
+  </actor>
+  <actor>
+    <name>Tonino Tosto</name>
+    <role>Tagliacozzo</role>
+    <type>Actor</type>
+    <tmdbid>2929117</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Mudu</name>
+    <role>Elia</role>
+    <type>Actor</type>
+    <tmdbid>4086182</tmdbid>
+  </actor>
+  <actor>
+    <name>Riccardo Bandiera</name>
+    <role>Aronne</role>
+    <type>Actor</type>
+    <tmdbid>4086186</tmdbid>
+  </actor>
+  <director tmdbid="105866">Marco Bellocchio</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mMuqhIEc7bk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oQAK0yBHQZ8</trailer>
+  <rating>7.1</rating>
+  <year>2023</year>
+  <sorttitle>Rapito</sorttitle>
+  <imdbid>tt14137416</imdbid>
+  <tmdbid>801112</tmdbid>
+  <premiered>2023-05-25</premiered>
+  <releasedate>2023-05-25</releasedate>
+  <runtime>134</runtime>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Italy</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>IBC MOvie</studio>
+  <studio>Kavac Film</studio>
+  <studio>Ad Vitam Production</studio>
+  <studio>The Match Factory</studio>
+  <studio>RAI Cinema</studio>
+  <uniqueid type="imdb">tt14137416</uniqueid>
+  <uniqueid type="tmdb">801112</uniqueid>
+  <id>tt14137416</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>913874</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>83:45</aspect>
+        <aspectratio>83:45</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8040</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Epopeya romántica sobre tres amigos que se ven envueltos en una de las tramas secretas más impactantes de la historia de Estados Unidos. Basada en hechos que se mezclan con ficción.]]></plot>
+  <outline><![CDATA[Que comience el amor, el asesinato y la conspiración]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-14 08:50:15</dateadded>
+  <title>Ámsterdam</title>
+  <originaltitle>Amsterdam</originaltitle>
+  <actor>
+    <name>Christian Bale</name>
+    <role>Burt Berendsen</role>
+    <type>Actor</type>
+    <tmdbid>3894</tmdbid>
+    <imdbid>nm0000288</imdbid>
+  </actor>
+  <actor>
+    <name>Margot Robbie</name>
+    <role>Valerie Voze</role>
+    <type>Actor</type>
+    <tmdbid>234352</tmdbid>
+    <imdbid>nm3053338</imdbid>
+    <tvdbid>327479</tvdbid>
+  </actor>
+  <actor>
+    <name>John David Washington</name>
+    <role>Harold Woodman</role>
+    <type>Actor</type>
+    <tmdbid>1117313</tmdbid>
+    <imdbid>nm0913475</imdbid>
+    <tvdbid>524953</tvdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>General Gil Dillenbeck</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+    <tvdbid>311037</tvdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Libby Voze</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Rami Malek</name>
+    <role>Tom Voze</role>
+    <type>Actor</type>
+    <tmdbid>17838</tmdbid>
+    <imdbid>nm1785339</imdbid>
+    <tvdbid>328078</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Rock</name>
+    <role>Milton King</role>
+    <type>Actor</type>
+    <tmdbid>2632</tmdbid>
+    <imdbid>nm0001674</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Saldana</name>
+    <role>Irma St. Clair</role>
+    <type>Actor</type>
+    <tmdbid>8691</tmdbid>
+    <imdbid>nm0757855</imdbid>
+    <tvdbid>327422</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Myers</name>
+    <role>Paul Canterbury</role>
+    <type>Actor</type>
+    <tmdbid>12073</tmdbid>
+    <imdbid>nm0000196</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shannon</name>
+    <role>Henry Norcross</role>
+    <type>Actor</type>
+    <tmdbid>335</tmdbid>
+    <imdbid>nm0788335</imdbid>
+    <tvdbid>262015</tvdbid>
+  </actor>
+  <actor>
+    <name>Timothy Olyphant</name>
+    <role>Taron Milfax</role>
+    <type>Actor</type>
+    <tmdbid>18082</tmdbid>
+    <imdbid>nm0648249</imdbid>
+    <tvdbid>327861</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrea Riseborough</name>
+    <role>Beatrice Vandenheuvel</role>
+    <type>Actor</type>
+    <tmdbid>127558</tmdbid>
+    <imdbid>nm2057859</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor Swift</name>
+    <role>Liz Meekins</role>
+    <type>Actor</type>
+    <tmdbid>212208</tmdbid>
+    <imdbid>nm2357847</imdbid>
+    <tvdbid>255185</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthias Schoenaerts</name>
+    <role>Detective Lem Getweiler</role>
+    <type>Actor</type>
+    <tmdbid>73381</tmdbid>
+    <imdbid>nm0774386</imdbid>
+    <tvdbid>471019</tvdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Detective Hiltz</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+    <tvdbid>388133</tvdbid>
+  </actor>
+  <actor>
+    <name>Mel Fair</name>
+    <role>Patient Wayne</role>
+    <type>Actor</type>
+    <tmdbid>102777</tmdbid>
+    <imdbid>nm1292126</imdbid>
+  </actor>
+  <actor>
+    <name>Vaughn Page</name>
+    <role>Patient Victor</role>
+    <type>Actor</type>
+    <tmdbid>2957030</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Hellman</name>
+    <role>Shirley Pratt</role>
+    <type>Actor</type>
+    <tmdbid>102570</tmdbid>
+    <imdbid>nm0375461</imdbid>
+  </actor>
+  <actor>
+    <name>Max Perlich</name>
+    <role>Morty Baum</role>
+    <type>Actor</type>
+    <tmdbid>7268</tmdbid>
+    <imdbid>nm0001611</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Drake</name>
+    <role>Assistant Mortician</role>
+    <type>Actor</type>
+    <tmdbid>1419114</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Begley Jr.</name>
+    <role>General Bill Meekins</role>
+    <type>Actor</type>
+    <tmdbid>42157</tmdbid>
+    <imdbid>nm0000893</imdbid>
+    <tvdbid>255012</tvdbid>
+  </actor>
+  <actor>
+    <name>Colleen Camp</name>
+    <role>Eva Ott</role>
+    <type>Actor</type>
+    <tmdbid>13023</tmdbid>
+    <imdbid>nm0131974</imdbid>
+  </actor>
+  <actor>
+    <name>Gabé Doppelt</name>
+    <role>Mrs. Minter</role>
+    <type>Actor</type>
+    <tmdbid>3704743</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Shaw</name>
+    <role>Angry Theater Patron</role>
+    <type>Actor</type>
+    <tmdbid>1550831</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Davis</name>
+    <role>Angry Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>74717</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Biggs</name>
+    <role>Augustus Vandenheuvel</role>
+    <type>Actor</type>
+    <tmdbid>62548</tmdbid>
+    <imdbid>nm0081827</imdbid>
+  </actor>
+  <actor>
+    <name>Dey Young</name>
+    <role>Alvelia Vandenheuve</role>
+    <type>Actor</type>
+    <tmdbid>39568</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Avery</name>
+    <role>Battalion Leader</role>
+    <type>Actor</type>
+    <tmdbid>543819</tmdbid>
+  </actor>
+  <actor>
+    <name>Gigi Bermingham</name>
+    <role>Belgian Nurse</role>
+    <type>Actor</type>
+    <tmdbid>167197</tmdbid>
+  </actor>
+  <actor>
+    <name>André Tardieu</name>
+    <role>Church Official</role>
+    <type>Actor</type>
+    <tmdbid>1856989</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Graf</name>
+    <role>Eli Bepp</role>
+    <type>Actor</type>
+    <tmdbid>132470</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Wisocky</name>
+    <role>Mrs. Moran</role>
+    <type>Actor</type>
+    <tmdbid>60632</tmdbid>
+    <imdbid>nm0936607</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Riordan</name>
+    <role>Carlton</role>
+    <type>Actor</type>
+    <tmdbid>188377</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Hack</name>
+    <role>Dr. Malin</role>
+    <type>Actor</type>
+    <tmdbid>1344294</tmdbid>
+  </actor>
+  <actor>
+    <name>Floyd Armstrong</name>
+    <role>Fred Hinson</role>
+    <type>Actor</type>
+    <tmdbid>3704749</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonard A. Tucker Jr.</name>
+    <role>Larry Hinson</role>
+    <type>Actor</type>
+    <tmdbid>3704750</tmdbid>
+  </actor>
+  <actor>
+    <name>Baxter Humby</name>
+    <role>Pinched Nerve Guy</role>
+    <type>Actor</type>
+    <tmdbid>1821500</tmdbid>
+  </actor>
+  <actor>
+    <name>Richie Harrington</name>
+    <role>Waldorf Bellman</role>
+    <type>Actor</type>
+    <tmdbid>3704751</tmdbid>
+  </actor>
+  <actor>
+    <name>John Pirkis</name>
+    <role>British Ornithologist</role>
+    <type>Actor</type>
+    <tmdbid>1214788</tmdbid>
+  </actor>
+  <actor>
+    <name>Shedell</name>
+    <role>Crying Patient</role>
+    <type>Actor</type>
+    <tmdbid>3704752</tmdbid>
+  </actor>
+  <actor>
+    <name>Kindsey Vaughn</name>
+    <role>Sterilization Woman</role>
+    <type>Actor</type>
+    <tmdbid>3704753</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Grant</name>
+    <role>Mrs. Dillenbeck</role>
+    <type>Actor</type>
+    <tmdbid>5151</tmdbid>
+    <imdbid>nm0335275</imdbid>
+    <tvdbid>267950</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher Gehrman</name>
+    <role>Maguire</role>
+    <type>Actor</type>
+    <tmdbid>71686</tmdbid>
+    <imdbid>nm1197231</imdbid>
+  </actor>
+  <actor>
+    <name>Shiree Nelson</name>
+    <role>Voze Secretary</role>
+    <type>Actor</type>
+    <tmdbid>3277460</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Irwin</name>
+    <role>Mr. Belport</role>
+    <type>Actor</type>
+    <tmdbid>27544</tmdbid>
+    <imdbid>nm0410464</imdbid>
+  </actor>
+  <actor>
+    <name>Leland Orser</name>
+    <role>Mr. Nevins</role>
+    <type>Actor</type>
+    <tmdbid>2221</tmdbid>
+    <imdbid>nm0650702</imdbid>
+    <tvdbid>274196</tvdbid>
+  </actor>
+  <actor>
+    <name>David Babbitt</name>
+    <role>Mr. Jeffers</role>
+    <type>Actor</type>
+    <tmdbid>1464046</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Azevedo</name>
+    <role>Gala Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1326263</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Harris</name>
+    <role>Bund Chanter #2</role>
+    <type>Actor</type>
+    <tmdbid>1199292</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Kager</name>
+    <role>Bund Chanter #3</role>
+    <type>Actor</type>
+    <tmdbid>2228984</tmdbid>
+  </actor>
+  <actor>
+    <name>Donovan Hurst</name>
+    <role>Bund Chanter #4</role>
+    <type>Actor</type>
+    <tmdbid>3704754</tmdbid>
+  </actor>
+  <actor>
+    <name>Jarrett Johnson</name>
+    <role>Veteran Singer #1</role>
+    <type>Actor</type>
+    <tmdbid>1765688</tmdbid>
+  </actor>
+  <actor>
+    <name>Kawan DeBose</name>
+    <role>Veteran Singer #2</role>
+    <type>Actor</type>
+    <tmdbid>3704755</tmdbid>
+  </actor>
+  <actor>
+    <name>Deon Sams</name>
+    <role>Singing Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3256832</tmdbid>
+  </actor>
+  <actor>
+    <name>Adolf Hitler</name>
+    <role>Self (Archival Footage)</role>
+    <type>Actor</type>
+    <tmdbid>10279</tmdbid>
+    <imdbid>nm0386944</imdbid>
+  </actor>
+  <actor>
+    <name>Benito Mussolini</name>
+    <role>Self (Archival Footage)</role>
+    <type>Actor</type>
+    <tmdbid>1095786</tmdbid>
+  </actor>
+  <director tmdbid="17883" imdbid="nm0751102">David O. Russell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HLZpTVsVyjc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pa1INAArxjo</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>Amsterdam</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10304142</imdbid>
+  <tmdbid>664469</tmdbid>
+  <premiered>2022-09-27</premiered>
+  <releasedate>2022-09-27</releasedate>
+  <criticrating>33</criticrating>
+  <runtime>135</runtime>
+  <tagline>Que comience el amor, el asesinato y la conspiración</tagline>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Comedia</genre>
+  <genre>Historia</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>New Regency Productions</studio>
+  <studio>Regency Enterprises</studio>
+  <studio>Keep Your Head Productions</studio>
+  <studio>DreamCrew</studio>
+  <studio>Corazon Hayagriva</studio>
+  <uniqueid type="imdb">tt10304142</uniqueid>
+  <uniqueid type="tmdb">664469</uniqueid>
+  <id>tt10304142</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>931103</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8079</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

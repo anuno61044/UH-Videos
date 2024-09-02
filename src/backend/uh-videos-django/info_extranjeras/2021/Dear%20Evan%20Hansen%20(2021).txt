@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una carta que nunca debió ser vista, una mentira que nunca debió ser contada, una vida que nunca soñó que pudiera tener. Evan Hansen está a punto de obtener lo que siempre ha querido: una oportunidad para finalmente encajar.]]></plot>
+  <outline><![CDATA[Hoy va a ser un buen día.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-17 15:13:40</dateadded>
+  <title>Querido Evan Hansen</title>
+  <originaltitle>Dear Evan Hansen</originaltitle>
+  <actor>
+    <name>Ben Platt</name>
+    <role>Evan Hansen</role>
+    <type>Actor</type>
+    <tmdbid>1107296</tmdbid>
+    <imdbid>nm4805317</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Adams</name>
+    <role>Cynthia Murphy</role>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+    <tvdbid>252577</tvdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Zoe Murphy</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+    <tvdbid>452348</tvdbid>
+  </actor>
+  <actor>
+    <name>Danny Pino</name>
+    <role>Larry Mora</role>
+    <type>Actor</type>
+    <tmdbid>72132</tmdbid>
+    <imdbid>nm0992694</imdbid>
+    <tvdbid>332332</tvdbid>
+  </actor>
+  <actor>
+    <name>Julianne Moore</name>
+    <role>Heidi Hansen</role>
+    <type>Actor</type>
+    <tmdbid>1231</tmdbid>
+    <imdbid>nm0000194</imdbid>
+    <tvdbid>255177</tvdbid>
+  </actor>
+  <actor>
+    <name>Amandla Stenberg</name>
+    <role>Alana Beck</role>
+    <type>Actor</type>
+    <tmdbid>561869</tmdbid>
+    <imdbid>nm3964350</imdbid>
+  </actor>
+  <actor>
+    <name>Nik Dodani</name>
+    <role>Jared Kalwani</role>
+    <type>Actor</type>
+    <tmdbid>1466581</tmdbid>
+    <imdbid>nm6516135</imdbid>
+  </actor>
+  <actor>
+    <name>Colton Ryan</name>
+    <role>Connor Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1948602</tmdbid>
+    <tvdbid>8172032</tvdbid>
+  </actor>
+  <actor>
+    <name>DeMarius R. Copes</name>
+    <role>Oliver</role>
+    <type>Actor</type>
+    <tmdbid>2564114</tmdbid>
+  </actor>
+  <actor>
+    <name>Liz Kate</name>
+    <role>Gemma</role>
+    <type>Actor</type>
+    <tmdbid>3264349</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoey Luna</name>
+    <role>Leila</role>
+    <type>Actor</type>
+    <tmdbid>2331330</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Powell</name>
+    <role>Rhys</role>
+    <type>Actor</type>
+    <tmdbid>2564137</tmdbid>
+  </actor>
+  <actor>
+    <name>Marvin Leon</name>
+    <role>Skye</role>
+    <type>Actor</type>
+    <tmdbid>3264360</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadiya Eshe'</name>
+    <role>Cherise</role>
+    <type>Actor</type>
+    <tmdbid>3264361</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Chen Myers</name>
+    <role>Naomi</role>
+    <type>Actor</type>
+    <tmdbid>3264362</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerald Caesar</name>
+    <role>Josh</role>
+    <type>Actor</type>
+    <tmdbid>3151572</tmdbid>
+  </actor>
+  <actor>
+    <name>Avery Bederman</name>
+    <role>Isabelle</role>
+    <type>Actor</type>
+    <tmdbid>1896526</tmdbid>
+  </actor>
+  <actor>
+    <name>Swift Rice</name>
+    <role>Mr. Howard</role>
+    <type>Actor</type>
+    <tmdbid>2232569</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Kane</name>
+    <role>Greg</role>
+    <type>Actor</type>
+    <tmdbid>2231995</tmdbid>
+    <imdbid>nm4753306</imdbid>
+  </actor>
+  <actor>
+    <name>Aymee Garcia</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>3264363</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariana Alvarez</name>
+    <role>Mrs. G</role>
+    <type>Actor</type>
+    <tmdbid>2518634</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia McArthur</name>
+    <role>Partygoer</role>
+    <type>Actor</type>
+    <tmdbid>3264364</tmdbid>
+  </actor>
+  <actor>
+    <name>Dru Reel</name>
+    <role>Partygoer</role>
+    <type>Actor</type>
+    <tmdbid>3264365</tmdbid>
+  </actor>
+  <actor>
+    <name>Tess Aubert</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>2341456</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Segal Skolnik</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264367</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Balagot</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>1630438</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Willis</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>2367007</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Quinton Johnson</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>1552463</tmdbid>
+  </actor>
+  <actor>
+    <name>Raquel McPeek Rodriguez</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>1514397</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Basch</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264369</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Lu</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264370</tmdbid>
+  </actor>
+  <actor>
+    <name>Lio Mehiel</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>2016551</tmdbid>
+  </actor>
+  <actor>
+    <name>Tanushree Sekhri</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264371</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcel Logan</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264372</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominic Lauren</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264373</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Waldstein-McCabe</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>3264374</tmdbid>
+  </actor>
+  <actor>
+    <name>Maccie Margaret Chbosky</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>1950166</tmdbid>
+  </actor>
+  <actor>
+    <name>Naomi Rubin</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>2854585</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron J. Armstrong</name>
+    <role>''You Will Be Found'' Performer</role>
+    <type>Actor</type>
+    <tmdbid>2280557</tmdbid>
+  </actor>
+  <director tmdbid="19311">Stephen Chbosky</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JHxllC4cg1w</trailer>
+  <rating>6.1</rating>
+  <year>2021</year>
+  <sorttitle>Querido Evan Hansen</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9357050</imdbid>
+  <tmdbid>567690</tmdbid>
+  <premiered>2021-09-24</premiered>
+  <releasedate>2021-09-24</releasedate>
+  <criticrating>29</criticrating>
+  <runtime>137</runtime>
+  <tagline>Hoy va a ser un buen día.</tagline>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Marc Platt Productions</studio>
+  <studio>Perfect World Pictures</studio>
+  <uniqueid type="imdb">tt9357050</uniqueid>
+  <uniqueid type="tmdb">567690</uniqueid>
+  <id>tt9357050</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>914902</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8220</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

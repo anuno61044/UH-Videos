@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A lo largo de una mañana en una centralita del servicio de emergencias, el operador Joe Baylor intenta salvar a su interlocutora, que parece estar en grave peligro. Pero pronto descubre que las cosas no son lo que parecen y que solo tiene una escapatoria: afrontar la verdad.]]></plot>
+  <outline><![CDATA[Escucha cuidadosamente.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-12 20:03:05</dateadded>
+  <title>Culpable</title>
+  <originaltitle>The Guilty</originaltitle>
+  <actor>
+    <name>Jake Gyllenhaal</name>
+    <role>Joe Baylor</role>
+    <type>Actor</type>
+    <tmdbid>131</tmdbid>
+    <imdbid>nm0350453</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Hawke</name>
+    <role>Sgt. Bill Miller (voice)</role>
+    <type>Actor</type>
+    <tmdbid>569</tmdbid>
+    <imdbid>nm0000160</imdbid>
+    <tvdbid>311173</tvdbid>
+  </actor>
+  <actor>
+    <name>Riley Keough</name>
+    <role>Emily Lighton (voice)</role>
+    <type>Actor</type>
+    <tmdbid>98522</tmdbid>
+    <imdbid>nm2142336</imdbid>
+    <tvdbid>519604</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Sarsgaard</name>
+    <role>Henry Fisher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>133</tmdbid>
+    <imdbid>nm0765597</imdbid>
+    <tvdbid>340663</tvdbid>
+  </actor>
+  <actor>
+    <name>Christina Vidal</name>
+    <role>Sgt. Denise Wade</role>
+    <type>Actor</type>
+    <tmdbid>61904</tmdbid>
+    <imdbid>nm0896292</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Dano</name>
+    <role>Matthew Fontenot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17142</tmdbid>
+    <imdbid>nm0200452</imdbid>
+    <tvdbid>296973</tvdbid>
+  </actor>
+  <actor>
+    <name>Eli Goree</name>
+    <role>Rick (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1181358</tmdbid>
+    <imdbid>nm2345856</imdbid>
+    <tvdbid>483874</tvdbid>
+  </actor>
+  <actor>
+    <name>Da'Vine Joy Randolph</name>
+    <role>CHP Dispatcher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1180099</tmdbid>
+    <tvdbid>501587</tvdbid>
+  </actor>
+  <actor>
+    <name>David Castañeda</name>
+    <role>Tim Gerachi</role>
+    <type>Actor</type>
+    <tmdbid>1450392</tmdbid>
+    <imdbid>nm3244078</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Martinez</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>94432</tmdbid>
+    <imdbid>nm0553440</imdbid>
+    <tvdbid>257309</tvdbid>
+  </actor>
+  <actor>
+    <name>Christiana Montoya</name>
+    <role>Abby (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3232652</tmdbid>
+  </actor>
+  <actor>
+    <name>Gillian Zinser</name>
+    <role>Jess Baylor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>212766</tmdbid>
+    <imdbid>nm3400330</imdbid>
+  </actor>
+  <actor>
+    <name>Aileen Burdock</name>
+    <role>LA Times Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1648880</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Burr</name>
+    <role>Nightclub Caller (voice)</role>
+    <type>Actor</type>
+    <tmdbid>109708</tmdbid>
+    <imdbid>nm0122987</imdbid>
+  </actor>
+  <actor>
+    <name>Beau Knapp</name>
+    <role>Dru Nashe (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1078613</tmdbid>
+    <imdbid>nm3354041</imdbid>
+    <tvdbid>393530</tvdbid>
+  </actor>
+  <actor>
+    <name>Edi Patterson</name>
+    <role>Katherine Harbor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>205213</tmdbid>
+    <imdbid>nm0666198</imdbid>
+  </actor>
+  <actor>
+    <name>Marlene Forte</name>
+    <role>House on Fire Caller (voice)</role>
+    <type>Actor</type>
+    <tmdbid>146004</tmdbid>
+    <imdbid>nm0287168</imdbid>
+  </actor>
+  <actor>
+    <name>Maurice Webster</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>130777</tmdbid>
+  </actor>
+  <actor>
+    <name>Bret Eric Porter</name>
+    <role>Marion</role>
+    <type>Actor</type>
+    <tmdbid>2017507</tmdbid>
+  </actor>
+  <actor>
+    <name>Sal Lucio</name>
+    <role>CHP Officer</role>
+    <type>Actor</type>
+    <tmdbid>2141043</tmdbid>
+  </actor>
+  <actor>
+    <name>Becky Wu</name>
+    <role>Riva</role>
+    <type>Actor</type>
+    <tmdbid>1186482</tmdbid>
+  </actor>
+  <actor>
+    <name>Terence J. Rotolo</name>
+    <role>CHP Patrolman Rodriguez (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1122360</tmdbid>
+  </actor>
+  <actor>
+    <name>Dillon Lane</name>
+    <role>Crashed Cyclist (voice)</role>
+    <type>Actor</type>
+    <tmdbid>546850</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Balderrama</name>
+    <role>Scott</role>
+    <type>Actor</type>
+    <tmdbid>3235392</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime FitzSimons</name>
+    <role>Rodriguez's Partner (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1138844</tmdbid>
+    <imdbid>nm2968738</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Hunt</name>
+    <role>911 Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3235393</tmdbid>
+  </actor>
+  <director tmdbid="20907" imdbid="nm0298807">Antoine Fuqua</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Se-sQCcyEbE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dMoChghUaUg</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>Culpable</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9421570</imdbid>
+  <tmdbid>567748</tmdbid>
+  <premiered>2021-09-24</premiered>
+  <releasedate>2021-09-24</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>89</runtime>
+  <tagline>Escucha cuidadosamente.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Nine Stories Productions</studio>
+  <studio>Bold Films</studio>
+  <studio>Fuqua Films</studio>
+  <studio>Amet Entertainment</studio>
+  <studio>Endeavor Content</studio>
+  <studio>Capstone Pictures</studio>
+  <uniqueid type="imdb">tt9421570</uniqueid>
+  <uniqueid type="tmdb">567748</uniqueid>
+  <id>tt9421570</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2228591</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5341</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

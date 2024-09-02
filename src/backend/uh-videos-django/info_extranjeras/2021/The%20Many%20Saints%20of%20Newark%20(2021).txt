@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Precuela de la aclamada serie "Los Soprano", centrada en la juventud del gángster de Nueva Jersey, Tony Soprano. El guión de la película ha sido escrito por David Chase, el creador de la serie original de HBO y también director del drama independiente "Not Fade Away".]]></plot>
+  <outline><![CDATA[¿Quién hizo a Tony Soprano?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-01 08:16:09</dateadded>
+  <title>Santos Criminales</title>
+  <originaltitle>The Many Saints of Newark</originaltitle>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Dickie Moltisanti</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+    <tvdbid>388133</tvdbid>
+  </actor>
+  <actor>
+    <name>Leslie Odom Jr.</name>
+    <role>Harold McBrayer</role>
+    <type>Actor</type>
+    <tmdbid>1254614</tmdbid>
+    <imdbid>nm1502434</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Gandolfini</name>
+    <role>Teenage Tony Soprano</role>
+    <type>Actor</type>
+    <tmdbid>1900369</tmdbid>
+    <imdbid>nm6408859</imdbid>
+    <tvdbid>388134</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Liotta</name>
+    <role>"Hollywood Dick" Moltisanti / Salvatore “Sally” Moltisanti</role>
+    <type>Actor</type>
+    <tmdbid>11477</tmdbid>
+    <imdbid>nm0000501</imdbid>
+    <tvdbid>310415</tvdbid>
+  </actor>
+  <actor>
+    <name>Michela De Rossi</name>
+    <role>Giuseppina Moltisanti</role>
+    <type>Actor</type>
+    <tmdbid>1977918</tmdbid>
+    <tvdbid>667262</tvdbid>
+  </actor>
+  <actor>
+    <name>Vera Farmiga</name>
+    <role>Livia Soprano</role>
+    <type>Actor</type>
+    <tmdbid>21657</tmdbid>
+    <imdbid>nm0267812</imdbid>
+    <tvdbid>286924</tvdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Junior Soprano</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+    <imdbid>nm1015684</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Bernthal</name>
+    <role>Johnny Soprano</role>
+    <type>Actor</type>
+    <tmdbid>19498</tmdbid>
+    <imdbid>nm1256532</imdbid>
+    <tvdbid>316117</tvdbid>
+  </actor>
+  <actor>
+    <name>Billy Magnussen</name>
+    <role>Paulie Walnuts</role>
+    <type>Actor</type>
+    <tmdbid>141034</tmdbid>
+    <imdbid>nm2915105</imdbid>
+    <tvdbid>346849</tvdbid>
+  </actor>
+  <actor>
+    <name>John Magaro</name>
+    <role>Silvio Dante</role>
+    <type>Actor</type>
+    <tmdbid>37154</tmdbid>
+    <imdbid>nm1910274</imdbid>
+    <tvdbid>342036</tvdbid>
+  </actor>
+  <actor>
+    <name>Talia Balsam</name>
+    <role>Mrs. Jarecki</role>
+    <type>Actor</type>
+    <tmdbid>140253</tmdbid>
+    <imdbid>nm0051104</imdbid>
+  </actor>
+  <actor>
+    <name>Patina Miller</name>
+    <role>Queen Isola</role>
+    <type>Actor</type>
+    <tmdbid>1366702</tmdbid>
+    <imdbid>nm2694974</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Diaz</name>
+    <role>Buddha</role>
+    <type>Actor</type>
+    <tmdbid>75309</tmdbid>
+    <imdbid>nm0224995</imdbid>
+  </actor>
+  <actor>
+    <name>Germar Terrell Gardner</name>
+    <role>Cyril</role>
+    <type>Actor</type>
+    <tmdbid>2555241</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Imperioli</name>
+    <role>Christopher Moltisanti (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11486</tmdbid>
+    <imdbid>nm0408284</imdbid>
+    <tvdbid>321267</tvdbid>
+  </actor>
+  <actor>
+    <name>Samson Moeakiola</name>
+    <role>Pussy Bonpensiero</role>
+    <type>Actor</type>
+    <tmdbid>3240753</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Intrator</name>
+    <role>Teenage Janice Soprano</role>
+    <type>Actor</type>
+    <tmdbid>1959583</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Piazza</name>
+    <role>Joanne Moltisanti</role>
+    <type>Actor</type>
+    <tmdbid>2823828</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Bleu</name>
+    <role>Leon Overall</role>
+    <type>Actor</type>
+    <tmdbid>3247448</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Joshua</name>
+    <role>Jaleel</role>
+    <type>Actor</type>
+    <tmdbid>1990624</tmdbid>
+  </actor>
+  <actor>
+    <name>Lesli Margherita</name>
+    <role>Iris Balducci</role>
+    <type>Actor</type>
+    <tmdbid>154869</tmdbid>
+    <imdbid>nm0546671</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Kates</name>
+    <role>Angie DeCarlo</role>
+    <type>Actor</type>
+    <tmdbid>1726156</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Vallelonga</name>
+    <role>Carmine Cotuso</role>
+    <type>Actor</type>
+    <tmdbid>78336</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Marinaro</name>
+    <role>Jilly Ruffalo</role>
+    <type>Actor</type>
+    <tmdbid>50707</tmdbid>
+    <imdbid>nm0547544</imdbid>
+  </actor>
+  <actor>
+    <name>William Ludwig</name>
+    <role>Young Tony Soprano</role>
+    <type>Actor</type>
+    <tmdbid>1760025</tmdbid>
+  </actor>
+  <actor>
+    <name>Mattea Conforti</name>
+    <role>Young Janice Soprano</role>
+    <type>Actor</type>
+    <tmdbid>1790376</tmdbid>
+  </actor>
+  <actor>
+    <name>Matteo Russo</name>
+    <role>Young Artie Bucco</role>
+    <type>Actor</type>
+    <tmdbid>2673228</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Vincent Montano</name>
+    <role>Teenage Artie Bucco</role>
+    <type>Actor</type>
+    <tmdbid>3247470</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Vacnin</name>
+    <role>Teenage Jackie Aprile</role>
+    <type>Actor</type>
+    <tmdbid>1305835</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Colletti</name>
+    <role>Julie DeRogatis</role>
+    <type>Actor</type>
+    <tmdbid>3247529</tmdbid>
+  </actor>
+  <actor>
+    <name>De'Jon Watts</name>
+    <role>Landers</role>
+    <type>Actor</type>
+    <tmdbid>2184808</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick DeMatteo</name>
+    <role>Guitarist</role>
+    <type>Actor</type>
+    <tmdbid>2807677</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Grossman</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>3247474</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris LaPanta</name>
+    <role>Army Recruiter</role>
+    <type>Actor</type>
+    <tmdbid>1358980</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Squire</name>
+    <role>Old Auntie</role>
+    <type>Actor</type>
+    <tmdbid>1405915</tmdbid>
+    <imdbid>nm4779905</imdbid>
+  </actor>
+  <actor>
+    <name>Amelia Fowler</name>
+    <role>Candy Store Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1137380</tmdbid>
+  </actor>
+  <actor>
+    <name>Prema Cruz</name>
+    <role>Wynetta</role>
+    <type>Actor</type>
+    <tmdbid>1770577</tmdbid>
+  </actor>
+  <actor>
+    <name>Maliq Johnson</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>2198002</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Labovitz</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>3247475</tmdbid>
+  </actor>
+  <actor>
+    <name>Daryl Edwards</name>
+    <role>Julius</role>
+    <type>Actor</type>
+    <tmdbid>96539</tmdbid>
+    <imdbid>nm0249921</imdbid>
+    <tvdbid>316143</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Elam</name>
+    <role>Ray Ray</role>
+    <type>Actor</type>
+    <tmdbid>2794859</tmdbid>
+    <imdbid>nm5273863</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Angelo Pizza, Jr.</name>
+    <role>Catholic School Boy</role>
+    <type>Actor</type>
+    <tmdbid>1183823</tmdbid>
+  </actor>
+  <actor>
+    <name>Audrey Bennett</name>
+    <role>Catholic School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2878535</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Gabriele</name>
+    <role>Club Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3247486</tmdbid>
+  </actor>
+  <actor>
+    <name>Spenser Granese</name>
+    <role>Man in the Cowboy Hat</role>
+    <type>Actor</type>
+    <tmdbid>1270890</tmdbid>
+    <imdbid>nm5372946</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Zegarski</name>
+    <role>Funeral Director</role>
+    <type>Actor</type>
+    <tmdbid>1907852</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Kaves</name>
+    <role>Funeral Wiseguy #1</role>
+    <type>Actor</type>
+    <tmdbid>1754599</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinnie Costanza</name>
+    <role>Teenage Boy</role>
+    <type>Actor</type>
+    <tmdbid>3247489</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Unterman</name>
+    <role>Softball Parent #1</role>
+    <type>Actor</type>
+    <tmdbid>1388926</tmdbid>
+  </actor>
+  <actor>
+    <name>Lizzy Plimpton</name>
+    <role>Softball Parent #2</role>
+    <type>Actor</type>
+    <tmdbid>3130156</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Weiner</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>80435</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Morf</name>
+    <role>Police HQ Copper</role>
+    <type>Actor</type>
+    <tmdbid>1607560</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryce Burke</name>
+    <role>Ice Cream Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1455498</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Boyd</name>
+    <role>Activist On Stage</role>
+    <type>Actor</type>
+    <tmdbid>3247490</tmdbid>
+  </actor>
+  <actor>
+    <name>William Youmans</name>
+    <role>Judge Lambert</role>
+    <type>Actor</type>
+    <tmdbid>1232513</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Polk</name>
+    <role>Taxi Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1348457</tmdbid>
+  </actor>
+  <actor>
+    <name>Ohene Cornelius</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>1376147</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Geraghty</name>
+    <role>Soprano Kids Copper</role>
+    <type>Actor</type>
+    <tmdbid>2266738</tmdbid>
+  </actor>
+  <actor>
+    <name>Nygel Bush</name>
+    <role>Fallen Son</role>
+    <type>Actor</type>
+    <tmdbid>3247496</tmdbid>
+  </actor>
+  <actor>
+    <name>Carrie Compere</name>
+    <role>Crying Mother</role>
+    <type>Actor</type>
+    <tmdbid>2823808</tmdbid>
+  </actor>
+  <actor>
+    <name>Oberon K.A. Adjepong</name>
+    <role>Frank Lucas</role>
+    <type>Actor</type>
+    <tmdbid>1473137</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexie Foley</name>
+    <role>Barbara Soprano</role>
+    <type>Actor</type>
+    <tmdbid>3247502</tmdbid>
+  </actor>
+  <actor>
+    <name>Phyllis Pastore</name>
+    <role>Aunt Concetta</role>
+    <type>Actor</type>
+    <tmdbid>2673230</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatienne Hendricks-Tellefsen</name>
+    <role>Paulie’s Goomar</role>
+    <type>Actor</type>
+    <tmdbid>2389661</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayodele Olatunji</name>
+    <role>Tabernacle Band #1</role>
+    <type>Actor</type>
+    <tmdbid>3247505</tmdbid>
+  </actor>
+  <actor>
+    <name>CJ Fly</name>
+    <role>Tabernacle Band #2</role>
+    <type>Actor</type>
+    <tmdbid>1658739</tmdbid>
+  </actor>
+  <actor>
+    <name>Dessy Hinds</name>
+    <role>Tabernacle Band #3</role>
+    <type>Actor</type>
+    <tmdbid>3247506</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurie Sheppard</name>
+    <role>Building Manager</role>
+    <type>Actor</type>
+    <tmdbid>3247508</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne Ferrari</name>
+    <role>Female Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>2555598</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Lerner</name>
+    <role>Rico (Tony’s Friend)</role>
+    <type>Actor</type>
+    <tmdbid>1942582</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Chivee</name>
+    <role>Frank Lucas’ Daughter</role>
+    <type>Actor</type>
+    <tmdbid>3247512</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Vanaria</name>
+    <role>Wise Guy</role>
+    <type>Actor</type>
+    <tmdbid>17930</tmdbid>
+    <imdbid>nm0888456</imdbid>
+  </actor>
+  <actor>
+    <name>Latoya Edwards</name>
+    <role>Frank Lucas’ Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2387496</tmdbid>
+  </actor>
+  <actor>
+    <name>John Borras</name>
+    <role>Bishop</role>
+    <type>Actor</type>
+    <tmdbid>1102616</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodi Capeless</name>
+    <role>Aunt Gemma</role>
+    <type>Actor</type>
+    <tmdbid>3247516</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren DiMario</name>
+    <role>Teenage Carmela De Angelis</role>
+    <type>Actor</type>
+    <tmdbid>2450850</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Schoch</name>
+    <role>Chickie Sasso (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2376053</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Schratz</name>
+    <role>Italian Mob Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2216410</tmdbid>
+  </actor>
+  <director tmdbid="47005" imdbid="nm0851930">Alan Taylor</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rAFfeGRbWLQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d9Em4ckh878</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>Santos Criminales</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8110232</imdbid>
+  <tmdbid>524369</tmdbid>
+  <premiered>2021-09-22</premiered>
+  <releasedate>2021-09-22</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>120</runtime>
+  <tagline>¿Quién hizo a Tony Soprano?</tagline>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>HBO Films</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Chase Films</studio>
+  <uniqueid type="imdb">tt8110232</uniqueid>
+  <uniqueid type="tmdb">524369</uniqueid>
+  <id>tt8110232</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>927311</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7214</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

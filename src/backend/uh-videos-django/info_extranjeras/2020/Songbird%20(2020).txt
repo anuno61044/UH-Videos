@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In 2024 a pandemic ravages the world and its cities. Centering on a handful of people as they navigate the obstacles currently hindering society: disease, martial law, quarantine, and vigilantes.]]></plot>
+  <outline><![CDATA[La única salida es juntos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-14 09:51:10</dateadded>
+  <title>Songbird</title>
+  <originaltitle>Songbird</originaltitle>
+  <actor>
+    <name>K.J. Apa</name>
+    <type>Actor</type>
+    <tmdbid>1680339</tmdbid>
+    <imdbid>nm6216001</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Carson</name>
+    <type>Actor</type>
+    <tmdbid>1331457</tmdbid>
+    <imdbid>nm6259860</imdbid>
+    <tvdbid>466102</tvdbid>
+  </actor>
+  <actor>
+    <name>Craig Robinson</name>
+    <type>Actor</type>
+    <tmdbid>64342</tmdbid>
+    <imdbid>nm0732497</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Whitford</name>
+    <type>Actor</type>
+    <tmdbid>11367</tmdbid>
+    <imdbid>nm0925966</imdbid>
+    <tvdbid>274361</tvdbid>
+  </actor>
+  <director tmdbid="62342" imdbid="nm0556573">Adam Mason</director>
+  <writer tmdbid="62342" imdbid="nm0556573">Adam Mason</writer>
+  <writer>Simon Boyes</writer>
+  <credits tmdbid="62342" imdbid="nm0556573">Adam Mason</credits>
+  <credits>Simon Boyes</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IgxXSfto6Vo</trailer>
+  <rating>4.8</rating>
+  <year>2020</year>
+  <sorttitle>Songbird</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12592252</imdbid>
+  <tmdbid>721625</tmdbid>
+  <premiered>2020-12-10</premiered>
+  <releasedate>2020-12-10</releasedate>
+  <criticrating>9</criticrating>
+  <runtime>85</runtime>
+  <tagline>La única salida es juntos.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Invisible Narratives</studio>
+  <studio>Catchlight Films</studio>
+  <studio>Platinum Dunes</studio>
+  <studio>STX Films</studio>
+  <uniqueid type="imdb">tt12592252</uniqueid>
+  <uniqueid type="tmdb">721625</uniqueid>
+  <id>tt12592252</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2287230</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5090</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

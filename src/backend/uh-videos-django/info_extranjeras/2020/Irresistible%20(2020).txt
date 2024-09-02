@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town.]]></plot>
+  <outline><![CDATA[Enviar a los payasos]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:50:04</dateadded>
+  <title>Irresistible</title>
+  <originaltitle>Irresistible</originaltitle>
+  <actor>
+    <name>Steve Carell</name>
+    <type>Actor</type>
+    <tmdbid>4495</tmdbid>
+    <imdbid>nm0136797</imdbid>
+    <tvdbid>296970</tvdbid>
+  </actor>
+  <actor>
+    <name>Rose Byrne</name>
+    <type>Actor</type>
+    <tmdbid>9827</tmdbid>
+    <imdbid>nm0126284</imdbid>
+    <tvdbid>311189</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Cooper</name>
+    <type>Actor</type>
+    <tmdbid>2955</tmdbid>
+    <imdbid>nm0177933</imdbid>
+    <tvdbid>333896</tvdbid>
+  </actor>
+  <actor>
+    <name>Brent Sexton</name>
+    <type>Actor</type>
+    <tmdbid>159261</tmdbid>
+    <imdbid>nm0786641</imdbid>
+  </actor>
+  <director tmdbid="12219" imdbid="nm0829537">Jon Stewart</director>
+  <writer tmdbid="12219" imdbid="nm0829537">Jon Stewart</writer>
+  <credits tmdbid="12219" imdbid="nm0829537">Jon Stewart</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FWY1TtALm0I</trailer>
+  <rating>6.3</rating>
+  <year>2020</year>
+  <sorttitle>Irresistible</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9076562</imdbid>
+  <tmdbid>595148</tmdbid>
+  <premiered>2020-08-06</premiered>
+  <releasedate>2020-08-06</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>102</runtime>
+  <tagline>Enviar a los payasos</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Focus Features</studio>
+  <studio>Plan B Entertainment</studio>
+  <studio>Busboy Productions</studio>
+  <uniqueid type="imdb">tt9076562</uniqueid>
+  <uniqueid type="tmdb">595148</uniqueid>
+  <id>tt9076562</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1836926</bitrate>
+        <width>720</width>
+        <height>432</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6120</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

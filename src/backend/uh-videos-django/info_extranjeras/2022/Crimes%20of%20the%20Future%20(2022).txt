@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un futuro no muy lejano la humanidad está aprendiendo a adaptarse a su entorno sintético, en un mundo donde no existe el dolor. Esta evolución lleva a los humanos más allá de su estado natural y hacia una metamorfosis, alterando su estructura biológica.]]></plot>
+  <outline><![CDATA[La cirugía es el nuevo sexo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-21 08:04:16</dateadded>
+  <title>Crímenes del futuro</title>
+  <originaltitle>Crimes of the Future</originaltitle>
+  <actor>
+    <name>Viggo Mortensen</name>
+    <role>Saul Tenser</role>
+    <type>Actor</type>
+    <tmdbid>110</tmdbid>
+    <imdbid>nm0001557</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>Caprice</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Speedman</name>
+    <role>Lang Dotrice</role>
+    <type>Actor</type>
+    <tmdbid>100</tmdbid>
+    <imdbid>nm0005454</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Stewart</name>
+    <role>Timlin</role>
+    <type>Actor</type>
+    <tmdbid>37917</tmdbid>
+    <imdbid>nm0829576</imdbid>
+  </actor>
+  <actor>
+    <name>Welket Bungué</name>
+    <role>Cope</role>
+    <type>Actor</type>
+    <tmdbid>1285153</tmdbid>
+  </actor>
+  <actor>
+    <name>Don McKellar</name>
+    <role>Wippet</role>
+    <type>Actor</type>
+    <tmdbid>20173</tmdbid>
+    <imdbid>nm0001528</imdbid>
+  </actor>
+  <actor>
+    <name>Tanaya Beatty</name>
+    <role>Berst</role>
+    <type>Actor</type>
+    <tmdbid>1301092</tmdbid>
+    <imdbid>nm4496161</imdbid>
+  </actor>
+  <actor>
+    <name>Nadia Litz</name>
+    <role>Router</role>
+    <type>Actor</type>
+    <tmdbid>560316</tmdbid>
+  </actor>
+  <actor>
+    <name>Lihi Kornowski</name>
+    <role>Djuna</role>
+    <type>Actor</type>
+    <tmdbid>1558520</tmdbid>
+  </actor>
+  <actor>
+    <name>Denise Capezza</name>
+    <role>Odile</role>
+    <type>Actor</type>
+    <tmdbid>1570760</tmdbid>
+  </actor>
+  <actor>
+    <name>Efi Kantza</name>
+    <role>Adrienne Berceau</role>
+    <type>Actor</type>
+    <tmdbid>3608092</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Bitter</name>
+    <role>Tarr</role>
+    <type>Actor</type>
+    <tmdbid>2505581</tmdbid>
+  </actor>
+  <actor>
+    <name>Tassos Karahalios</name>
+    <role>Klinek</role>
+    <type>Actor</type>
+    <tmdbid>3577741</tmdbid>
+  </actor>
+  <actor>
+    <name>Sozos Sotiris</name>
+    <role>Brecken</role>
+    <type>Actor</type>
+    <tmdbid>3577739</tmdbid>
+  </actor>
+  <actor>
+    <name>Penelope Tsilika</name>
+    <role>Beauty Spa Woman</role>
+    <type>Actor</type>
+    <tmdbid>1262855</tmdbid>
+  </actor>
+  <actor>
+    <name>Mihalis Valasoglou</name>
+    <role>NVU Agent</role>
+    <type>Actor</type>
+    <tmdbid>3608090</tmdbid>
+  </actor>
+  <actor>
+    <name>Yorgos Pirpassopoulos</name>
+    <role>Dr. Nasatir</role>
+    <type>Actor</type>
+    <tmdbid>935654</tmdbid>
+  </actor>
+  <director tmdbid="224" imdbid="nm0000343" tvdbid="369211">David Cronenberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v_bbLcJAHEo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3NlKgKpKcgc</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Crimenes del futuro</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14549466</imdbid>
+  <tmdbid>819876</tmdbid>
+  <premiered>2022-05-25</premiered>
+  <releasedate>2022-05-25</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>108</runtime>
+  <tagline>La cirugía es el nuevo sexo.</tagline>
+  <country>Canada</country>
+  <country>France</country>
+  <country>Greece</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Ingenious Media</studio>
+  <studio>Serendipity Point Films</studio>
+  <studio>Téléfilm Canada</studio>
+  <studio>Argonauts Productions S.A.</studio>
+  <studio>Bell Media Studios</studio>
+  <studio>RocketScience</studio>
+  <studio>Ontario Creates</studio>
+  <studio>CBC Films</studio>
+  <uniqueid type="imdb">tt14549466</uniqueid>
+  <uniqueid type="tmdb">819876</uniqueid>
+  <id>tt14549466</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1034317</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>137:74</aspect>
+        <aspectratio>137:74</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6454</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

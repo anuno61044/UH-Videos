@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Drama ambientado en el mundo de las artes marciales mixtas. Un veterano de Vietnam abandona el boxeo para trabajar en una fundición de acero. Sus graves problemas con el alcohol han destrozado a su familia, pero llega un momento en que, arrepentido, deja la bebida y decide entrenar a su hijo más joven para que participe en un torneo de artes marciales, en el que se enfrentará a su hermano mayor.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-04 10:39:58</dateadded>
+  <title>Warrior</title>
+  <originaltitle>Warrior</originaltitle>
+  <actor>
+    <name>Joel Edgerton</name>
+    <role>Brendan Conlon</role>
+    <type>Actor</type>
+    <tmdbid>33192</tmdbid>
+    <imdbid>nm0249291</imdbid>
+    <tvdbid>296971</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Tommy Conlon</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+    <tvdbid>373728</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Morrison</name>
+    <role>Tess Conlon</role>
+    <type>Actor</type>
+    <tmdbid>41421</tmdbid>
+    <imdbid>nm0607185</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Grillo</name>
+    <role>Frank Campana</role>
+    <type>Actor</type>
+    <tmdbid>81685</tmdbid>
+    <imdbid>nm0342029</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Nolte</name>
+    <role>Paddy Conlon</role>
+    <type>Actor</type>
+    <tmdbid>1733</tmdbid>
+    <imdbid>nm0000560</imdbid>
+  </actor>
+  <actor>
+    <name>Denzel Whitaker</name>
+    <role>Stephon</role>
+    <type>Actor</type>
+    <tmdbid>77278</tmdbid>
+    <imdbid>nm1091701</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Callen</name>
+    <role>Bryan Callen</role>
+    <type>Actor</type>
+    <tmdbid>78320</tmdbid>
+    <imdbid>nm0130437</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dunn</name>
+    <role>Principal Zito</role>
+    <type>Actor</type>
+    <tmdbid>14721</tmdbid>
+    <imdbid>nm0242656</imdbid>
+    <tvdbid>270574</tvdbid>
+  </actor>
+  <actor>
+    <name>Maximiliano Hernández</name>
+    <role>Colt Boyd</role>
+    <type>Actor</type>
+    <tmdbid>1018947</tmdbid>
+    <imdbid>nm0380073</imdbid>
+    <tvdbid>7877418</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Sheridan</name>
+    <role>Sam Sheridan</role>
+    <type>Actor</type>
+    <tmdbid>972459</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Chien</name>
+    <role>Fenroy</role>
+    <type>Actor</type>
+    <tmdbid>216782</tmdbid>
+    <imdbid>nm0157312</imdbid>
+  </actor>
+  <actor>
+    <name>Jake McLaughlin</name>
+    <role>Mark Bradford</role>
+    <type>Actor</type>
+    <tmdbid>51683</tmdbid>
+    <imdbid>nm2474864</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Martinez</name>
+    <role>Pilar Fernandez</role>
+    <type>Actor</type>
+    <tmdbid>235782</tmdbid>
+    <imdbid>nm0553737</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Miranda</name>
+    <role>Tito</role>
+    <type>Actor</type>
+    <tmdbid>39007</tmdbid>
+    <imdbid>nm3163793</imdbid>
+    <tvdbid>394986</tvdbid>
+  </actor>
+  <actor>
+    <name>Nick Lehane</name>
+    <role>Nash</role>
+    <type>Actor</type>
+    <tmdbid>1130135</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Chinn</name>
+    <role>KC</role>
+    <type>Actor</type>
+    <tmdbid>225622</tmdbid>
+  </actor>
+  <actor>
+    <name>Capri Thomas</name>
+    <role>Emily Conlon</role>
+    <type>Actor</type>
+    <tmdbid>2625871</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexi Cowan</name>
+    <role>Rosie Conlon</role>
+    <type>Actor</type>
+    <tmdbid>2108923</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Emmerich</name>
+    <role>Dan Taylor</role>
+    <type>Actor</type>
+    <tmdbid>11315</tmdbid>
+    <imdbid>nm0001187</imdbid>
+    <tvdbid>299299</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Caldwell</name>
+    <role>Dan Caldwell</role>
+    <type>Actor</type>
+    <tmdbid>1545961</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy "Skyskrape" Katz</name>
+    <role>Timothy "Skyskrape" Katz</role>
+    <type>Actor</type>
+    <tmdbid>2625873</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Stockstad</name>
+    <role>J.J. Riley's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2625874</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Rosenthal</name>
+    <role>Referee Josh Rosenthal</role>
+    <type>Actor</type>
+    <tmdbid>1783111</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Angle</name>
+    <role>Koba</role>
+    <type>Actor</type>
+    <tmdbid>90031</tmdbid>
+    <imdbid>nm0029875</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Apple</name>
+    <role>Pete "Mad Dog" Grimes</role>
+    <type>Actor</type>
+    <tmdbid>1067629</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Johnson</name>
+    <role>Orlando "Midnight" Le</role>
+    <type>Actor</type>
+    <tmdbid>91525</tmdbid>
+  </actor>
+  <actor>
+    <name>Nate Marquardt</name>
+    <role>Karl Kruller</role>
+    <type>Actor</type>
+    <tmdbid>83447</tmdbid>
+  </actor>
+  <actor>
+    <name>Roan Carneiro</name>
+    <role>Marcos Santos</role>
+    <type>Actor</type>
+    <tmdbid>1681209</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Stevens</name>
+    <role>Francisco Barbosa</role>
+    <type>Actor</type>
+    <tmdbid>1502956</tmdbid>
+    <imdbid>nm1174894</imdbid>
+  </actor>
+  <actor>
+    <name>Panuvat Anthony Nanakornpanom</name>
+    <role>Sun Chu</role>
+    <type>Actor</type>
+    <tmdbid>1310386</tmdbid>
+  </actor>
+  <actor>
+    <name>Hans Marrero</name>
+    <role>Diego Santana</role>
+    <type>Actor</type>
+    <tmdbid>131423</tmdbid>
+    <imdbid>nm3450086</imdbid>
+  </actor>
+  <actor>
+    <name>Yves Edwards</name>
+    <role>Houston Greggs</role>
+    <type>Actor</type>
+    <tmdbid>85253</tmdbid>
+  </actor>
+  <actor>
+    <name>Amir Perets</name>
+    <role>Yosi</role>
+    <type>Actor</type>
+    <tmdbid>2625887</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Tambakis</name>
+    <role>Sparta Official</role>
+    <type>Actor</type>
+    <tmdbid>589613</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Cvetic</name>
+    <role>Tender Trap Promoter</role>
+    <type>Actor</type>
+    <tmdbid>1892012</tmdbid>
+  </actor>
+  <actor>
+    <name>Jace Jeanes</name>
+    <role>Mike "The Mutilator" Moore</role>
+    <type>Actor</type>
+    <tmdbid>131422</tmdbid>
+    <imdbid>nm1030285</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Digman</name>
+    <role>Tender Trap Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2625893</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Fike</name>
+    <role>Tender Trap Referee</role>
+    <type>Actor</type>
+    <tmdbid>2174807</tmdbid>
+  </actor>
+  <actor>
+    <name>Andre' Mason</name>
+    <role>Midnight Corner Man</role>
+    <type>Actor</type>
+    <tmdbid>1205747</tmdbid>
+    <imdbid>nm4592299</imdbid>
+  </actor>
+  <actor>
+    <name>James Houk</name>
+    <role>State Official</role>
+    <type>Actor</type>
+    <tmdbid>2625899</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Kleiber</name>
+    <role>Koba Entourage #1</role>
+    <type>Actor</type>
+    <tmdbid>1099927</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Rowe</name>
+    <role>Koba Entourage #2</role>
+    <type>Actor</type>
+    <tmdbid>1467660</tmdbid>
+  </actor>
+  <actor>
+    <name>Lambert R. Strayer</name>
+    <role>Koba Entourage #3</role>
+    <type>Actor</type>
+    <tmdbid>2625909</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Vasylyshyn</name>
+    <role>Koba Entourage #4</role>
+    <type>Actor</type>
+    <tmdbid>2625910</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Matthew Anik</name>
+    <role>Jonathan Matthew Anik</role>
+    <type>Actor</type>
+    <tmdbid>2625911</tmdbid>
+  </actor>
+  <actor>
+    <name>Rashad Evans</name>
+    <role>Rashad Evans</role>
+    <type>Actor</type>
+    <tmdbid>78809</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephan Bonnar</name>
+    <role>Stephan Bonnar</role>
+    <type>Actor</type>
+    <tmdbid>83379</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Dawn Mooney</name>
+    <role>Michelle Dawn Mooney</role>
+    <type>Actor</type>
+    <tmdbid>2625913</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Bickel</name>
+    <role>A.V. Simers</role>
+    <type>Actor</type>
+    <tmdbid>2625914</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Fisher</name>
+    <role>Platoon Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>2224290</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Hochendoner</name>
+    <role>Marine MP #1</role>
+    <type>Actor</type>
+    <tmdbid>170145</tmdbid>
+    <imdbid>nm0387809</imdbid>
+  </actor>
+  <actor>
+    <name>Armon York Williams</name>
+    <role>Marine MP #2</role>
+    <type>Actor</type>
+    <tmdbid>1739917</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Christian Stanley</name>
+    <role>Marine #1</role>
+    <type>Actor</type>
+    <tmdbid>2625915</tmdbid>
+  </actor>
+  <actor>
+    <name>James Dreussi</name>
+    <role>Marine #2</role>
+    <type>Actor</type>
+    <tmdbid>2625916</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin P. Hanley</name>
+    <role>Inspector</role>
+    <type>Actor</type>
+    <tmdbid>2625917</tmdbid>
+  </actor>
+  <actor>
+    <name>Tammy Townsend</name>
+    <role>Zito's Wife</role>
+    <type>Actor</type>
+    <tmdbid>3608614</tmdbid>
+  </actor>
+  <actor>
+    <name>Etta Cox</name>
+    <role>Zito's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1543858</tmdbid>
+    <imdbid>nm0185016</imdbid>
+  </actor>
+  <actor>
+    <name>Sandy Notaro</name>
+    <role>Diner Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2625918</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Ortenzio</name>
+    <role>Concierge</role>
+    <type>Actor</type>
+    <tmdbid>2625919</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime Sinue Aguirre</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>2625921</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Campbell</name>
+    <role>Desk Girl</role>
+    <type>Actor</type>
+    <tmdbid>2625922</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas McCue</name>
+    <role>Taxi Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>2625925</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin O'Connor</name>
+    <role>J. J. Riley (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>77003</tmdbid>
+    <imdbid>nm0640334</imdbid>
+  </actor>
+  <director tmdbid="77003" imdbid="nm0640334">Gavin O'Connor</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I5kzcwcQA1Q</trailer>
+  <rating>8.1</rating>
+  <year>2011</year>
+  <sorttitle>Warrior</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1291584</imdbid>
+  <tmdbid>59440</tmdbid>
+  <premiered>2011-09-09</premiered>
+  <releasedate>2011-09-09</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>140</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Acción</genre>
+  <studio>Solaris Film</studio>
+  <studio>Lionsgate</studio>
+  <studio>Mimran Schur Pictures</studio>
+  <studio>Filmtribe</studio>
+  <uniqueid type="imdb">tt1291584</uniqueid>
+  <uniqueid type="tmdb">59440</uniqueid>
+  <id>tt1291584</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149457</bitrate>
+        <width>1280</width>
+        <height>522</height>
+        <aspect>120:49</aspect>
+        <aspectratio>120:49</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8394</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128391</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Atrapada en la granja aislada de su familia, Pearl debe atender a su padre enfermo bajo la amarga y dominante vigilancia de su devota madre. Deseosa de una vida glamorosa como la que ha visto en las películas, las ambiciones, tentaciones y represiones de Pearl chocan.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-21 10:54:48</dateadded>
+  <title>Pearl</title>
+  <originaltitle>Pearl</originaltitle>
+  <actor>
+    <name>Mia Goth</name>
+    <role>Pearl</role>
+    <type>Actor</type>
+    <tmdbid>1137824</tmdbid>
+    <imdbid>nm5301405</imdbid>
+  </actor>
+  <actor>
+    <name>David Corenswet</name>
+    <role>The Projectionist</role>
+    <type>Actor</type>
+    <tmdbid>1785590</tmdbid>
+    <imdbid>nm4825178</imdbid>
+    <tvdbid>524352</tvdbid>
+  </actor>
+  <actor>
+    <name>Tandi Wright</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>33310</tmdbid>
+    <imdbid>nm0942858</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Sunderland</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>67119</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Jenkins-Purro</name>
+    <role>Mitsy</role>
+    <type>Actor</type>
+    <tmdbid>3556657</tmdbid>
+  </actor>
+  <actor>
+    <name>Alistair Sewell</name>
+    <role>Howard</role>
+    <type>Actor</type>
+    <tmdbid>2285548</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia Reid</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>2614430</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabe McDonnell</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>2466909</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Stewart</name>
+    <role>Pianist</role>
+    <type>Actor</type>
+    <tmdbid>1339419</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Acheson</name>
+    <role>Ticket Taker</role>
+    <type>Actor</type>
+    <tmdbid>3760518</tmdbid>
+  </actor>
+  <director tmdbid="1336161" imdbid="nm0728119">Todd Rippon</director>
+  <director tmdbid="101542" imdbid="nm1488800">Ti West</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L5PW5r3pEOg</trailer>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>Pearl</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt18925334</imdbid>
+  <tmdbid>949423</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>A24</studio>
+  <studio>Little Lamb Productions</studio>
+  <set tmdbcolid="950289">
+    <name>X Collection</name>
+  </set>
+  <set tmdbcolid="950289">
+    <name>Colección: X</name>
+  </set>
+  <uniqueid type="imdb">tt18925334</uniqueid>
+  <uniqueid type="tmdb">949423</uniqueid>
+  <id>tt18925334</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1090566</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6130</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

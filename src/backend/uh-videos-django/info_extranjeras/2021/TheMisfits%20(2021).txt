@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de ser reclutado por un grupo de ladrones poco convencionales, el renombrado criminal Richard Pace se ve envuelto en un elaborado atraco de oro que promete tener implicaciones de gran alcance en su vida y en la vida de muchos otros.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-18 09:55:05</dateadded>
+  <title>The Misfits</title>
+  <originaltitle>The Misfits</originaltitle>
+  <actor>
+    <name>Pierce Brosnan</name>
+    <role>Richard Pace</role>
+    <type>Actor</type>
+    <tmdbid>517</tmdbid>
+    <imdbid>nm0000112</imdbid>
+    <tvdbid>254202</tvdbid>
+  </actor>
+  <actor>
+    <name>Jamie Chung</name>
+    <role>Violet</role>
+    <type>Actor</type>
+    <tmdbid>78324</tmdbid>
+    <imdbid>nm1512166</imdbid>
+    <tvdbid>295578</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Roth</name>
+    <role>Schultz</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+    <tvdbid>296366</tvdbid>
+  </actor>
+  <actor>
+    <name>Hermione Corfield</name>
+    <role>Hope</role>
+    <type>Actor</type>
+    <tmdbid>1345419</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Cannon</name>
+    <role>Ringo</role>
+    <type>Actor</type>
+    <tmdbid>36811</tmdbid>
+    <imdbid>nm0134244</imdbid>
+    <tvdbid>311146</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Angelo</name>
+    <role>Wick</role>
+    <type>Actor</type>
+    <tmdbid>1292043</tmdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo Menendez</name>
+    <role>FBI Powell</role>
+    <type>Actor</type>
+    <tmdbid>84754</tmdbid>
+    <imdbid>nm0579460</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Stone</name>
+    <role>Prince's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>3120425</tmdbid>
+  </actor>
+  <actor>
+    <name>Rami Jaber</name>
+    <role>The Prince</role>
+    <type>Actor</type>
+    <tmdbid>1576693</tmdbid>
+  </actor>
+  <actor>
+    <name>Rockmond Dunbar</name>
+    <role>Macdonald</role>
+    <type>Actor</type>
+    <tmdbid>17345</tmdbid>
+    <imdbid>nm0241870</imdbid>
+    <tvdbid>305599</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Kalidi</name>
+    <role>Mansoor</role>
+    <type>Actor</type>
+    <tmdbid>1781986</tmdbid>
+  </actor>
+  <actor>
+    <name>David Batchelor</name>
+    <role>Russian Mafia Goon</role>
+    <type>Actor</type>
+    <tmdbid>2325760</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerrod Weston</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>3120430</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernestas Aleksandrovas</name>
+    <role>Schultz thug</role>
+    <type>Actor</type>
+    <tmdbid>3120431</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Chinnery</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>1596939</tmdbid>
+  </actor>
+  <actor>
+    <name>Samer Al-Masry</name>
+    <role>Hassan</role>
+    <type>Actor</type>
+    <tmdbid>2275208</tmdbid>
+  </actor>
+  <director tmdbid="16938" imdbid="nm0001317">Renny Harlin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lxhMLjt83KQ</trailer>
+  <rating>4.4</rating>
+  <year>2021</year>
+  <sorttitle>Misfits</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4876134</imdbid>
+  <tmdbid>581644</tmdbid>
+  <premiered>2021-06-10</premiered>
+  <releasedate>2021-06-10</releasedate>
+  <criticrating>17</criticrating>
+  <runtime>94</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>Kjam Media</studio>
+  <uniqueid type="imdb">tt4876134</uniqueid>
+  <uniqueid type="tmdb">581644</uniqueid>
+  <id>tt4876134</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149877</bitrate>
+        <width>1280</width>
+        <height>522</height>
+        <aspect>120:49</aspect>
+        <aspectratio>120:49</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5662</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128013</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

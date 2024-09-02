@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La Dra. Anna Fox, que sufre de agorafobia, pasa sus días encerrada en su casa de Nueva York, bebiendo vino mientras ve viejas películas y espía a sus vecinos. Un día, mientras mira por la ventana, ve algo que sucede enfrente de su casa, en el hogar de los Russell, una familia a la que todo el barrio toma por ejemplar.]]></plot>
+  <outline><![CDATA[No tiene nada que demostrar más que lo real.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-17 08:56:55</dateadded>
+  <title>La mujer en la ventana</title>
+  <originaltitle>The Woman in the Window</originaltitle>
+  <actor>
+    <name>Amy Adams</name>
+    <role>Anna Fox</role>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+    <tvdbid>252577</tvdbid>
+  </actor>
+  <actor>
+    <name>Gary Oldman</name>
+    <role>Alistair Russell</role>
+    <type>Actor</type>
+    <tmdbid>64</tmdbid>
+    <imdbid>nm0000198</imdbid>
+    <tvdbid>327268</tvdbid>
+  </actor>
+  <actor>
+    <name>Fred Hechinger</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>2099497</tmdbid>
+    <tvdbid>8101542</tvdbid>
+  </actor>
+  <actor>
+    <name>Julianne Moore</name>
+    <role>Jane Russell 1 (Katie)</role>
+    <type>Actor</type>
+    <tmdbid>1231</tmdbid>
+    <imdbid>nm0000194</imdbid>
+    <tvdbid>255177</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Jason Leigh</name>
+    <role>Jane Russell 2</role>
+    <type>Actor</type>
+    <tmdbid>10431</tmdbid>
+    <imdbid>nm0000492</imdbid>
+    <tvdbid>296968</tvdbid>
+  </actor>
+  <actor>
+    <name>Wyatt Russell</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>986808</tmdbid>
+    <imdbid>nm0751518</imdbid>
+    <tvdbid>548649</tvdbid>
+  </actor>
+  <actor>
+    <name>Anthony Mackie</name>
+    <role>Ed Fox</role>
+    <type>Actor</type>
+    <tmdbid>53650</tmdbid>
+    <imdbid>nm1107001</imdbid>
+    <tvdbid>311164</tvdbid>
+  </actor>
+  <actor>
+    <name>Mariah Bozeman</name>
+    <role>Olivia Fox</role>
+    <type>Actor</type>
+    <tmdbid>2187715</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <role>Detective Little</role>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+    <tvdbid>311251</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeanine Serralles</name>
+    <role>Detective Norelli</role>
+    <type>Actor</type>
+    <tmdbid>979432</tmdbid>
+    <imdbid>nm2365404</imdbid>
+  </actor>
+  <actor>
+    <name>Liza Colón-Zayas</name>
+    <role>Bina</role>
+    <type>Actor</type>
+    <tmdbid>59693</tmdbid>
+    <imdbid>nm1154919</imdbid>
+    <tvdbid>7923836</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Cameron</name>
+    <role>Alex (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1396881</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Dehn</name>
+    <role>911 Dispatcher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2095111</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Letts</name>
+    <role>Dr. Landy</role>
+    <type>Actor</type>
+    <tmdbid>72638</tmdbid>
+    <imdbid>nm0504832</imdbid>
+    <tvdbid>312955</tvdbid>
+  </actor>
+  <actor>
+    <name>Haven Burton</name>
+    <role>Shelly (voice)</role>
+    <type>Actor</type>
+    <tmdbid>31635</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Davis</name>
+    <role>Steve (voice)</role>
+    <type>Actor</type>
+    <tmdbid>116622</tmdbid>
+  </actor>
+  <director tmdbid="36588" imdbid="nm0942504">Joe Wright</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aLqn0-JDkJs</trailer>
+  <rating>5.7</rating>
+  <year>2021</year>
+  <sorttitle>mujer en la ventana</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6111574</imdbid>
+  <tmdbid>520663</tmdbid>
+  <premiered>2021-05-14</premiered>
+  <releasedate>2021-05-14</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>102</runtime>
+  <tagline>No tiene nada que demostrar más que lo real.</tagline>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Fox 2000 Pictures</studio>
+  <studio>Scott Rudin Productions</studio>
+  <studio>20th Century Studios</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt6111574</uniqueid>
+  <uniqueid type="tmdb">520663</uniqueid>
+  <id>tt6111574</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1095131</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6114</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

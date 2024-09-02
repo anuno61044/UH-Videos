@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.]]></plot>
+  <outline><![CDATA[Criminales con clase.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:11:10</dateadded>
+  <title>The Gentlemen</title>
+  <originaltitle>The Gentlemen</originaltitle>
+  <actor>
+    <name>Matthew McConaughey</name>
+    <type>Actor</type>
+    <tmdbid>10297</tmdbid>
+    <imdbid>nm0000190</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Hunnam</name>
+    <type>Actor</type>
+    <tmdbid>56365</tmdbid>
+    <imdbid>nm0402271</imdbid>
+    <tvdbid>304096</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Dockery</name>
+    <type>Actor</type>
+    <tmdbid>70904</tmdbid>
+    <imdbid>nm1890784</imdbid>
+    <tvdbid>384849</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Strong</name>
+    <type>Actor</type>
+    <tmdbid>239271</tmdbid>
+    <imdbid>nm0834989</imdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <writer>Guy Ritchie (story by)</writer>
+  <writer>Ivan Atkinson (story by)</writer>
+  <writer>Marn Davies (story by)</writer>
+  <writer>Guy Ritchie (screenplay by)</writer>
+  <writer>Lauren Bond (story editor)</writer>
+  <credits>Guy Ritchie (story by)</credits>
+  <credits>Ivan Atkinson (story by)</credits>
+  <credits>Marn Davies (story by)</credits>
+  <credits>Guy Ritchie (screenplay by)</credits>
+  <credits>Lauren Bond (story editor)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2Ex8KbrDTSI</trailer>
+  <rating>7.8</rating>
+  <year>2020</year>
+  <sorttitle>Gentlemen</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8367814</imdbid>
+  <tmdbid>522627</tmdbid>
+  <premiered>2020-01-01</premiered>
+  <releasedate>2020-01-01</releasedate>
+  <runtime>113</runtime>
+  <tagline>Criminales con clase.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <studio>Miramax</studio>
+  <studio>STX Films</studio>
+  <studio>Toff Guy Films</studio>
+  <uniqueid type="imdb">tt8367814</uniqueid>
+  <uniqueid type="tmdb">522627</uniqueid>
+  <id>tt8367814</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>984011</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6796</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

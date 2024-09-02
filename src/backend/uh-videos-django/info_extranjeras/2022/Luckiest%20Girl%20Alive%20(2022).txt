@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer de Nueva York con gran exito profesional y a punto de casarse con el hombre de sus sueños ve de repente cómo su vida perfecta se tambalea cuando tiene que enfrentarse a las sospechas y al trauma de recordar un trágico evento cuando estaba en el instituto.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-07 10:58:01</dateadded>
+  <title>La chica que lo tenía todo</title>
+  <originaltitle>Luckiest Girl Alive</originaltitle>
+  <actor>
+    <name>Mila Kunis</name>
+    <role>Ani Fanelli</role>
+    <type>Actor</type>
+    <tmdbid>18973</tmdbid>
+    <imdbid>nm0005109</imdbid>
+  </actor>
+  <actor>
+    <name>Chiara Aurelia</name>
+    <role>Young Ani</role>
+    <type>Actor</type>
+    <tmdbid>1590225</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn Wittrock</name>
+    <role>Luke Harrison</role>
+    <type>Actor</type>
+    <tmdbid>168877</tmdbid>
+    <imdbid>nm1587729</imdbid>
+    <tvdbid>394892</tvdbid>
+  </actor>
+  <actor>
+    <name>Connie Britton</name>
+    <role>Dina</role>
+    <type>Actor</type>
+    <tmdbid>86310</tmdbid>
+    <imdbid>nm0110168</imdbid>
+    <tvdbid>286257</tvdbid>
+  </actor>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Andrew Larson</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+    <imdbid>nm1058940</imdbid>
+    <tvdbid>346751</tvdbid>
+  </actor>
+  <actor>
+    <name>Justine Lupe</name>
+    <role>Nell Rutherford</role>
+    <type>Actor</type>
+    <tmdbid>1689289</tmdbid>
+    <imdbid>nm4419771</imdbid>
+    <tvdbid>450421</tvdbid>
+  </actor>
+  <actor>
+    <name>Dalmar Abuzeid</name>
+    <role>Aaron Wickersham</role>
+    <type>Actor</type>
+    <tmdbid>1228278</tmdbid>
+    <imdbid>nm1738014</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Barone</name>
+    <role>Dean Barton</role>
+    <type>Actor</type>
+    <tmdbid>3159395</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Beals</name>
+    <role>Lolo Vincent</role>
+    <type>Actor</type>
+    <tmdbid>3130</tmdbid>
+    <imdbid>nm0000884</imdbid>
+    <tvdbid>335940</tvdbid>
+  </actor>
+  <actor>
+    <name>Carson MacCormac</name>
+    <role>Young Dean</role>
+    <type>Actor</type>
+    <tmdbid>1857464</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Barbusca</name>
+    <role>Arthur Finnerman</role>
+    <type>Actor</type>
+    <tmdbid>1540601</tmdbid>
+    <imdbid>nm4564958</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Kragten</name>
+    <role>Liam Ross</role>
+    <type>Actor</type>
+    <tmdbid>1802079</tmdbid>
+  </actor>
+  <actor>
+    <name>Gage Munroe</name>
+    <role>Peyton Powell</role>
+    <type>Actor</type>
+    <tmdbid>119251</tmdbid>
+    <imdbid>nm2797152</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Beaton</name>
+    <role>Hilary Hutchinson</role>
+    <type>Actor</type>
+    <tmdbid>1089929</tmdbid>
+    <imdbid>nm2542118</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Huff</name>
+    <role>Olivia Kaplan</role>
+    <type>Actor</type>
+    <tmdbid>1723915</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ablack</name>
+    <role>Beth Fuller</role>
+    <type>Actor</type>
+    <tmdbid>2485409</tmdbid>
+  </actor>
+  <actor>
+    <name>David Webster</name>
+    <role>Ben Hunter</role>
+    <type>Actor</type>
+    <tmdbid>2358880</tmdbid>
+    <imdbid>nm6047005</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Robinson</name>
+    <role>Mrs. Harrison</role>
+    <type>Actor</type>
+    <tmdbid>1383012</tmdbid>
+    <imdbid>nm1701089</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Nelson</name>
+    <role>Mr. Harrison</role>
+    <type>Actor</type>
+    <tmdbid>122363</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Pinsent</name>
+    <role>Hallsy Harrison</role>
+    <type>Actor</type>
+    <tmdbid>55575</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Beeksma</name>
+    <role>Elenor Whitman</role>
+    <type>Actor</type>
+    <tmdbid>2129177</tmdbid>
+  </actor>
+  <actor>
+    <name>Kylee Evans</name>
+    <role>Whitney Larson</role>
+    <type>Actor</type>
+    <tmdbid>1603702</tmdbid>
+    <tvdbid>7892584</tvdbid>
+  </actor>
+  <actor>
+    <name>John Beale</name>
+    <role>Headmaster Mayer</role>
+    <type>Actor</type>
+    <tmdbid>85569</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Besharah</name>
+    <role>Mrs. Hurst</role>
+    <type>Actor</type>
+    <tmdbid>190905</tmdbid>
+  </actor>
+  <actor>
+    <name>Jami Tennille</name>
+    <role>Bloomberg Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1291701</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Fernandez-Stoll</name>
+    <role>Salesman W&amp;S</role>
+    <type>Actor</type>
+    <tmdbid>1279082</tmdbid>
+  </actor>
+  <actor>
+    <name>Meher Pavri</name>
+    <role>Bridal Salesgirl #1</role>
+    <type>Actor</type>
+    <tmdbid>1683842</tmdbid>
+  </actor>
+  <actor>
+    <name>Melody Shang</name>
+    <role>Bridal Tailor</role>
+    <type>Actor</type>
+    <tmdbid>2442938</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan Hamann</name>
+    <role>Wealthy Woman</role>
+    <type>Actor</type>
+    <tmdbid>1193942</tmdbid>
+  </actor>
+  <actor>
+    <name>Dani Pagliarello</name>
+    <role>Pizzeria Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3013233</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Lamanna</name>
+    <role>Hostess</role>
+    <type>Actor</type>
+    <tmdbid>3244448</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Duhig</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>2533434</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Abalos</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>1087583</tmdbid>
+  </actor>
+  <actor>
+    <name>Dalien World</name>
+    <role>Uniformed Police #1</role>
+    <type>Actor</type>
+    <tmdbid>3336707</tmdbid>
+  </actor>
+  <actor>
+    <name>Raevv'n Leedham</name>
+    <role>Magazine Intern</role>
+    <type>Actor</type>
+    <tmdbid>2486729</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Sexton</name>
+    <role>The NYC Role Model</role>
+    <type>Actor</type>
+    <tmdbid>3799351</tmdbid>
+  </actor>
+  <actor>
+    <name>James Hicks</name>
+    <role>Ripped Instructor</role>
+    <type>Actor</type>
+    <tmdbid>2782684</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Angleskhan</name>
+    <role>Today Show Host</role>
+    <type>Actor</type>
+    <tmdbid>1909537</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Kray</name>
+    <role>Woman on Subway Stairs</role>
+    <type>Actor</type>
+    <tmdbid>3105315</tmdbid>
+  </actor>
+  <actor>
+    <name>DL Sams</name>
+    <role>Subway Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>2404858</tmdbid>
+  </actor>
+  <actor>
+    <name>Helena Betancourt</name>
+    <role>Subway Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>3750311</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Cortez</name>
+    <role>Subway Woman #3</role>
+    <type>Actor</type>
+    <tmdbid>169293</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Hespe</name>
+    <role>Devon</role>
+    <type>Actor</type>
+    <tmdbid>2450848</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Windsland</name>
+    <role>Landry</role>
+    <type>Actor</type>
+    <tmdbid>1911072</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Klassen</name>
+    <role>Wedding Planner</role>
+    <type>Actor</type>
+    <tmdbid>1381417</tmdbid>
+  </actor>
+  <actor>
+    <name>Rividu Mendis</name>
+    <role>Kirklyn Cashier</role>
+    <type>Actor</type>
+    <tmdbid>3799356</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaylee Harwood</name>
+    <role>Woman #1 at Book Signing</role>
+    <type>Actor</type>
+    <tmdbid>3312129</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Kidder</name>
+    <role>Woman #2 at Book Signing</role>
+    <type>Actor</type>
+    <tmdbid>996606</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Alscher</name>
+    <role>Young White Man on Subway</role>
+    <type>Actor</type>
+    <tmdbid>1995534</tmdbid>
+  </actor>
+  <actor>
+    <name>Nneka Elliott</name>
+    <role>Today Show Host</role>
+    <type>Actor</type>
+    <tmdbid>1746410</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Schisler</name>
+    <role>Woman in Living Room</role>
+    <type>Actor</type>
+    <tmdbid>3197188</tmdbid>
+  </actor>
+  <actor>
+    <name>Alana Pancyr</name>
+    <role>Woman in Airport</role>
+    <type>Actor</type>
+    <tmdbid>3696713</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Isaro</name>
+    <role>Woman in Office</role>
+    <type>Actor</type>
+    <tmdbid>2210741</tmdbid>
+  </actor>
+  <director tmdbid="77964">Mike Barker</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yhVG27FIgAQ</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>chica que lo tenia todo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4595186</imdbid>
+  <tmdbid>799546</tmdbid>
+  <premiered>2022-09-30</premiered>
+  <releasedate>2022-09-30</releasedate>
+  <criticrating>43</criticrating>
+  <runtime>115</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Made Up Stories</studio>
+  <studio>PictureStart</studio>
+  <studio>Orchard Farm Productions</studio>
+  <uniqueid type="imdb">tt4595186</uniqueid>
+  <uniqueid type="tmdb">799546</uniqueid>
+  <id>tt4595186</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>964944</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6916</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

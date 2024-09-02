@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.]]></plot>
+  <outline><![CDATA[Un oscuro cuento de hadas]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:13:53</dateadded>
+  <title>Gretel &amp; Hansel</title>
+  <originaltitle>Gretel &amp; Hansel</originaltitle>
+  <actor>
+    <name>Sophia Lillis</name>
+    <type>Actor</type>
+    <tmdbid>1481238</tmdbid>
+    <imdbid>nm6096118</imdbid>
+    <tvdbid>624805</tvdbid>
+  </actor>
+  <actor>
+    <name>Samuel Leakey</name>
+    <type>Actor</type>
+    <tmdbid>2220157</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Krige</name>
+    <type>Actor</type>
+    <tmdbid>2506</tmdbid>
+    <imdbid>nm0000481</imdbid>
+    <tvdbid>261789</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica De Gouw</name>
+    <type>Actor</type>
+    <tmdbid>1196822</tmdbid>
+    <imdbid>nm2681284</imdbid>
+  </actor>
+  <director tmdbid="90609" imdbid="nm0674020">Oz Perkins</director>
+  <writer>Rob Hayes</writer>
+  <credits>Rob Hayes</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MErsVVNyHwk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pdl0k3unTuk</trailer>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <sorttitle>Gretel &amp; Hansel</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9086228</imdbid>
+  <tmdbid>542224</tmdbid>
+  <premiered>2020-01-30</premiered>
+  <releasedate>2020-01-30</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>87</runtime>
+  <tagline>Un oscuro cuento de hadas</tagline>
+  <country>Canada</country>
+  <country>Ireland</country>
+  <country>South Africa</country>
+  <country>United States of America</country>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Automatik Entertainment</studio>
+  <studio>Bron Studios</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Orion Pictures</studio>
+  <studio>Wild Atlantic Pictures</studio>
+  <uniqueid type="imdb">tt9086228</uniqueid>
+  <uniqueid type="tmdb">542224</uniqueid>
+  <id>tt9086228</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1275423</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5238</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

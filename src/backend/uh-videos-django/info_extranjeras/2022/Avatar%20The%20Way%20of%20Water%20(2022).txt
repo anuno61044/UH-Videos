@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada más de una década después de los acontecimientos de la primera película, 'Avatar: The Way of Water' empieza contando la historia de la familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con vida y las tragedias que sufren.]]></plot>
+  <outline><![CDATA[Esta familia es nuestra fortaleza.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-27 14:39:56</dateadded>
+  <title>Avatar: El sentido del agua</title>
+  <originaltitle>Avatar: The Way of Water</originaltitle>
+  <actor>
+    <name>Sam Worthington</name>
+    <role>Jake Sully</role>
+    <type>Actor</type>
+    <tmdbid>65731</tmdbid>
+    <imdbid>nm0941777</imdbid>
+    <tvdbid>366817</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Saldana</name>
+    <role>Neytiri</role>
+    <type>Actor</type>
+    <tmdbid>8691</tmdbid>
+    <imdbid>nm0757855</imdbid>
+    <tvdbid>327422</tvdbid>
+  </actor>
+  <actor>
+    <name>Sigourney Weaver</name>
+    <role>Kiri / Dr. Grace Augustine</role>
+    <type>Actor</type>
+    <tmdbid>10205</tmdbid>
+    <imdbid>nm0000244</imdbid>
+    <tvdbid>253588</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Lang</name>
+    <role>Colonel Miles Quaritch</role>
+    <type>Actor</type>
+    <tmdbid>32747</tmdbid>
+    <imdbid>nm0002332</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Winslet</name>
+    <role>Ronal</role>
+    <type>Actor</type>
+    <tmdbid>204</tmdbid>
+    <imdbid>nm0000701</imdbid>
+    <tvdbid>278695</tvdbid>
+  </actor>
+  <actor>
+    <name>Cliff Curtis</name>
+    <role>Tonowari</role>
+    <type>Actor</type>
+    <tmdbid>7248</tmdbid>
+    <imdbid>nm0193295</imdbid>
+    <tvdbid>279092</tvdbid>
+  </actor>
+  <actor>
+    <name>Joel David Moore</name>
+    <role>Norm Spellman</role>
+    <type>Actor</type>
+    <tmdbid>59231</tmdbid>
+    <imdbid>nm0601376</imdbid>
+  </actor>
+  <actor>
+    <name>CCH Pounder</name>
+    <role>Mo'at</role>
+    <type>Actor</type>
+    <tmdbid>30485</tmdbid>
+    <imdbid>nm0001634</imdbid>
+    <tvdbid>274207</tvdbid>
+  </actor>
+  <actor>
+    <name>Edie Falco</name>
+    <role>General Frances Ardmore</role>
+    <type>Actor</type>
+    <tmdbid>36190</tmdbid>
+    <imdbid>nm0004908</imdbid>
+    <tvdbid>271460</tvdbid>
+  </actor>
+  <actor>
+    <name>Jemaine Clement</name>
+    <role>Dr. Ian Garvin</role>
+    <type>Actor</type>
+    <tmdbid>55936</tmdbid>
+    <imdbid>nm1318596</imdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Ribisi</name>
+    <role>Parker Selfridge</role>
+    <type>Actor</type>
+    <tmdbid>1771</tmdbid>
+    <imdbid>nm0000610</imdbid>
+    <tvdbid>325080</tvdbid>
+  </actor>
+  <actor>
+    <name>Britain Dalton</name>
+    <role>Lo'ak</role>
+    <type>Actor</type>
+    <tmdbid>1663672</tmdbid>
+    <imdbid>nm6839875</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Flatters</name>
+    <role>Neteyam</role>
+    <type>Actor</type>
+    <tmdbid>1729393</tmdbid>
+  </actor>
+  <actor>
+    <name>Trinity Bliss</name>
+    <role>Tuktirey "Tuk"</role>
+    <type>Actor</type>
+    <tmdbid>1895788</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Champion</name>
+    <role>Miles 'Spider' Socorro</role>
+    <type>Actor</type>
+    <tmdbid>1895760</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Cowell</name>
+    <role>Mick Scoresby</role>
+    <type>Actor</type>
+    <tmdbid>129527</tmdbid>
+  </actor>
+  <actor>
+    <name>Bailey Bass</name>
+    <role>Tsireya</role>
+    <type>Actor</type>
+    <tvdbid>8174491</tvdbid>
+    <tmdbid>1140237</tmdbid>
+  </actor>
+  <actor>
+    <name>Filip Geljo</name>
+    <role>Aonung</role>
+    <type>Actor</type>
+    <tmdbid>1632658</tmdbid>
+  </actor>
+  <actor>
+    <name>Duane Evans Jr.</name>
+    <role>Rotxo</role>
+    <type>Actor</type>
+    <tmdbid>1615098</tmdbid>
+  </actor>
+  <actor>
+    <name>Dileep Rao</name>
+    <role>Dr. Max Patel</role>
+    <type>Actor</type>
+    <tmdbid>95697</tmdbid>
+    <imdbid>nm2438307</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Gerald</name>
+    <role>Recom Wainfleet</role>
+    <type>Actor</type>
+    <tmdbid>98215</tmdbid>
+    <imdbid>nm0313902</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Okumu</name>
+    <role>Ta'unui Olecthan</role>
+    <type>Actor</type>
+    <tmdbid>1452945</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Stafford</name>
+    <role>Ta'unui Tsahik</role>
+    <type>Actor</type>
+    <tmdbid>2328938</tmdbid>
+  </actor>
+  <actor>
+    <name>Keston John</name>
+    <role>Tarsem</role>
+    <type>Actor</type>
+    <tmdbid>1152021</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dorman</name>
+    <role>Recom Mansk</role>
+    <type>Actor</type>
+    <tmdbid>91443</tmdbid>
+    <imdbid>nm1602132</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Vela-Bailey</name>
+    <role>Recom Zdinarsik</role>
+    <type>Actor</type>
+    <tmdbid>1186027</tmdbid>
+    <imdbid>nm2151188</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Anthony Moran</name>
+    <role>Recom Fike</role>
+    <type>Actor</type>
+    <tmdbid>154153</tmdbid>
+    <imdbid>nm1616211</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Arrabito</name>
+    <role>Recom Prager</role>
+    <type>Actor</type>
+    <tmdbid>1436354</tmdbid>
+    <imdbid>nm2741344</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Alexander</name>
+    <role>Recom Ja</role>
+    <type>Actor</type>
+    <tmdbid>3159723</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Do</name>
+    <role>Recom Zhang</role>
+    <type>Actor</type>
+    <tmdbid>1818140</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor T. Lopez</name>
+    <role>Recom Lopez</role>
+    <type>Actor</type>
+    <tmdbid>1077984</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Walker</name>
+    <role>Recom Walker</role>
+    <type>Actor</type>
+    <tmdbid>1390004</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Brown</name>
+    <role>Stringer</role>
+    <type>Actor</type>
+    <tmdbid>1062457</tmdbid>
+  </actor>
+  <actor>
+    <name>Jocelyn Christian</name>
+    <role>Bio Lab Tech</role>
+    <type>Actor</type>
+    <tmdbid>1336765</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Tobeck</name>
+    <role>Neuroscientist</role>
+    <type>Actor</type>
+    <tmdbid>41785</tmdbid>
+    <imdbid>nm0864835</imdbid>
+  </actor>
+  <actor>
+    <name>Moana Ete</name>
+    <role>Female Med-Tech</role>
+    <type>Actor</type>
+    <tmdbid>3819103</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Peleton</name>
+    <role>Male Med-Tech</role>
+    <type>Actor</type>
+    <tmdbid>1399768</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Landau</name>
+    <role>Metkayina Warrior</role>
+    <type>Actor</type>
+    <tmdbid>2144852</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Moore</name>
+    <role>Mako Sub #1 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3819107</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Hoetjes</name>
+    <role>Mako Sub #1 Gunner</role>
+    <type>Actor</type>
+    <tmdbid>1979469</tmdbid>
+    <imdbid>nm4637228</imdbid>
+  </actor>
+  <actor>
+    <name>Nikita Tu Bryant</name>
+    <role>Mako Sub #2 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3819108</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Ahern</name>
+    <role>Mako Sub #2 Gunner</role>
+    <type>Actor</type>
+    <tmdbid>1530806</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Rangi</name>
+    <role>Matador Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>25134</tmdbid>
+    <imdbid>nm1432313</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Lucas</name>
+    <role>Kestrel Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3819110</tmdbid>
+  </actor>
+  <actor>
+    <name>Tanya Drewery</name>
+    <role>Neurotech #1</role>
+    <type>Actor</type>
+    <tmdbid>1848076</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Diakhaby</name>
+    <role>Neurotech #2</role>
+    <type>Actor</type>
+    <tmdbid>2624045</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Te Reina</name>
+    <role>Sea Dragon First Mate</role>
+    <type>Actor</type>
+    <tmdbid>2416383</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Farmer</name>
+    <role>Crabsuit Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3819111</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Mtambo</name>
+    <role>Skel Trooper</role>
+    <type>Actor</type>
+    <tmdbid>3819112</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Lough</name>
+    <role>Spider Double</role>
+    <type>Actor</type>
+    <tmdbid>3819114</tmdbid>
+  </actor>
+  <actor>
+    <name>Cruz Moir</name>
+    <role>Young Spider</role>
+    <type>Actor</type>
+    <tmdbid>3819115</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Lucas</name>
+    <role>Toddler Spider</role>
+    <type>Actor</type>
+    <tmdbid>3819116</tmdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Fernandez</name>
+    <role>Young Kiri</role>
+    <type>Actor</type>
+    <tmdbid>1761615</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Coleman</name>
+    <role>Young Lo'ak</role>
+    <type>Actor</type>
+    <tmdbid>1696016</tmdbid>
+    <imdbid>nm5668548</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Irwin</name>
+    <role>Young Neteyam</role>
+    <type>Actor</type>
+    <tmdbid>2396544</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake McLean</name>
+    <role>Na'vi (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1519702</tmdbid>
+  </actor>
+  <actor>
+    <name>CJ Jones</name>
+    <role>Metkayina Interpreter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1635143</tmdbid>
+  </actor>
+  <director tmdbid="2710" imdbid="nm0000116">James Cameron</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xboEeqWpDHA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wWkPlwNimS4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FSyWAxUg3Go</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-F34Iw_NoUw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uoga3wlZgaU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=inT3MvpxRqE</trailer>
+  <rating>7.6</rating>
+  <year>2022</year>
+  <sorttitle>Avatar: El sentido del agua</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1630029</imdbid>
+  <tmdbid>76600</tmdbid>
+  <premiered>2022-12-14</premiered>
+  <releasedate>2022-12-14</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>193</runtime>
+  <tagline>Esta familia es nuestra fortaleza.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Lightstorm Entertainment</studio>
+  <set tmdbcolid="87096">
+    <name>Avatar - Colección</name>
+  </set>
+  <uniqueid type="tmdb">76600</uniqueid>
+  <uniqueid type="imdb">tt1630029</uniqueid>
+  <id>tt1630029</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>952346</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.809525</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>192</duration>
+        <durationinseconds>11574</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

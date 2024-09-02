@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Inspirada libremente en la vida de Lucio Urtubia, y con elementos ficcionalizados, “Un hombre de acción” explora la figura del denominado "Robin Hood" anarquista, que llevó a cabo una legendaria operación de falsificación en París que le puso en el punto de mira del banco más grande de Estados Unidos, cuando consiguió obtener una enorme cantidad de dinero falsificando cheques de viaje para invertir en causas en las que creía.]]></plot>
+  <outline><![CDATA[Soñaron con robar al banco más grande del mundo... y lo hicieron.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-30 09:14:00</dateadded>
+  <title>Un hombre de acción</title>
+  <originaltitle>Un hombre de acción</originaltitle>
+  <actor>
+    <name>Miki Esparbé</name>
+    <role>Quico</role>
+    <type>Actor</type>
+    <tmdbid>1354964</tmdbid>
+    <imdbid>nm3639136</imdbid>
+    <tvdbid>469103</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan José Ballesta</name>
+    <role>Lucio</role>
+    <type>Actor</type>
+    <tmdbid>6523</tmdbid>
+    <imdbid>nm0050749</imdbid>
+    <tvdbid>552977</tvdbid>
+  </actor>
+  <actor>
+    <name>Ken Appledorn</name>
+    <role>Tony Greko</role>
+    <type>Actor</type>
+    <tmdbid>1276992</tmdbid>
+    <imdbid>nm3240775</imdbid>
+  </actor>
+  <actor>
+    <name>Josean Bengoetxea</name>
+    <role>Germinal</role>
+    <type>Actor</type>
+    <tmdbid>840814</tmdbid>
+    <imdbid>nm1322246</imdbid>
+    <tvdbid>630366</tvdbid>
+  </actor>
+  <actor>
+    <name>Philip Schurer</name>
+    <role>Director Banque Credite Mondiale</role>
+    <type>Actor</type>
+    <tmdbid>1179888</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Chamorro</name>
+    <role>Dueño Coche</role>
+    <type>Actor</type>
+    <tmdbid>2147813</tmdbid>
+    <imdbid>nm1125506</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Cordukes</name>
+    <role>Fiscal</role>
+    <type>Actor</type>
+    <tmdbid>1680993</tmdbid>
+  </actor>
+  <actor>
+    <name>Georges Celestin</name>
+    <role>Bank director</role>
+    <type>Actor</type>
+    <tmdbid>3452587</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Viar</name>
+    <role>Gendarme</role>
+    <type>Actor</type>
+    <tmdbid>2929692</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Jeffries</name>
+    <role>Bank Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>3426369</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñaki Lartigue</name>
+    <role>Anarchiste</role>
+    <type>Actor</type>
+    <tmdbid>3452589</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephan Wiks</name>
+    <role>Empleado City Bank</role>
+    <type>Actor</type>
+    <tmdbid>1907736</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacobo Marrero</name>
+    <role>Lucio jeune</role>
+    <type>Actor</type>
+    <tmdbid>3452590</tmdbid>
+  </actor>
+  <actor>
+    <name>Yann Berriet</name>
+    <role>Gendarme</role>
+    <type>Actor</type>
+    <tmdbid>3452592</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Callejo</name>
+    <role>Asturiano</role>
+    <type>Actor</type>
+    <tmdbid>15598</tmdbid>
+    <imdbid>nm0130429</imdbid>
+    <tvdbid>473689</tvdbid>
+  </actor>
+  <actor>
+    <name>Liah O'Prey</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>1384875</tmdbid>
+    <imdbid>nm4670981</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Blazy</name>
+    <role>Inspecteur Costello</role>
+    <type>Actor</type>
+    <tmdbid>1430460</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Temple</name>
+    <role>Barrow</role>
+    <type>Actor</type>
+    <tmdbid>567333</tmdbid>
+    <imdbid>nm0854676</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Polvorosa</name>
+    <role>Satur</role>
+    <type>Actor</type>
+    <tmdbid>138716</tmdbid>
+    <imdbid>nm1308063</imdbid>
+    <tvdbid>448240</tvdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatien</name>
+    <role>Patrick</role>
+    <type>Actor</type>
+    <tmdbid>3648953</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Olivares</name>
+    <role>Josep</role>
+    <type>Actor</type>
+    <tmdbid>1406647</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Lamberti</name>
+    <role>Petite Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>3782690</tmdbid>
+  </actor>
+  <actor>
+    <name>Bastien Ughetto</name>
+    <role>Thierry</role>
+    <type>Actor</type>
+    <tmdbid>1075115</tmdbid>
+    <imdbid>nm4724320</imdbid>
+    <tvdbid>485238</tvdbid>
+  </actor>
+  <actor>
+    <name>Tomás Pozzi</name>
+    <role>Silvestre</role>
+    <type>Actor</type>
+    <tmdbid>1451816</tmdbid>
+    <imdbid>nm1599394</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriela Blin</name>
+    <role>Juliette (9 ans)</role>
+    <type>Actor</type>
+    <tmdbid>3782692</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Caponnetto</name>
+    <role>Juliette (14 ans)</role>
+    <type>Actor</type>
+    <tmdbid>3195847</tmdbid>
+  </actor>
+  <actor>
+    <name>Yanet Sierra</name>
+    <role>Rosa Simeón</role>
+    <type>Actor</type>
+    <tmdbid>3782108</tmdbid>
+  </actor>
+  <actor>
+    <name>Yaël Belicha</name>
+    <role>Jueza</role>
+    <type>Actor</type>
+    <tmdbid>1507031</tmdbid>
+    <imdbid>nm2188743</imdbid>
+    <tvdbid>585765</tvdbid>
+  </actor>
+  <actor>
+    <name>Endika Landa</name>
+    <role>Endika</role>
+    <type>Actor</type>
+    <tmdbid>3782695</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Ribera</name>
+    <role>Madre Lucio</role>
+    <type>Actor</type>
+    <tmdbid>1378137</tmdbid>
+    <imdbid>nm2058847</imdbid>
+  </actor>
+  <actor>
+    <name>Michel Noher</name>
+    <role>Che</role>
+    <type>Actor</type>
+    <tmdbid>1355765</tmdbid>
+    <imdbid>nm1280636</imdbid>
+  </actor>
+  <actor>
+    <name>Matthieu Duret</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>1047253</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Stanton</name>
+    <role>CEO</role>
+    <type>Actor</type>
+    <tmdbid>2684664</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordi Aguilar</name>
+    <role>Activista Buhardilla</role>
+    <type>Actor</type>
+    <tmdbid>1074927</tmdbid>
+    <imdbid>nm0013542</imdbid>
+    <tvdbid>470637</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Zabala</name>
+    <role>Padre Lucio</role>
+    <type>Actor</type>
+    <tmdbid>1381182</tmdbid>
+    <imdbid>nm0951345</imdbid>
+  </actor>
+  <actor>
+    <name>Alba López</name>
+    <role>Satur Joven</role>
+    <type>Actor</type>
+    <tmdbid>3406747</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Paumier</name>
+    <role>Funcionario Cárcel</role>
+    <type>Actor</type>
+    <tmdbid>3782700</tmdbid>
+  </actor>
+  <actor>
+    <name>Verónica Polo</name>
+    <role>Empleada City Bank</role>
+    <type>Actor</type>
+    <tmdbid>1511463</tmdbid>
+  </actor>
+  <actor>
+    <name>José Carlos Rega</name>
+    <role>Comisario</role>
+    <type>Actor</type>
+    <tmdbid>3782703</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Laorden</name>
+    <role>Director Caja Cascante</role>
+    <type>Actor</type>
+    <tmdbid>1396649</tmdbid>
+    <imdbid>nm1894567</imdbid>
+  </actor>
+  <actor>
+    <name>Montse Gabriel</name>
+    <role>Mujer Policía</role>
+    <type>Actor</type>
+    <tmdbid>1784529</tmdbid>
+  </actor>
+  <actor>
+    <name>Cindy Fuentes</name>
+    <role>Cajera Súper</role>
+    <type>Actor</type>
+    <tmdbid>3782707</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Morenilla</name>
+    <role>Hijo Activista</role>
+    <type>Actor</type>
+    <tmdbid>3351447</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward J. Bentley</name>
+    <role>Ayudante Barrow</role>
+    <type>Actor</type>
+    <tmdbid>2014130</tmdbid>
+  </actor>
+  <actor>
+    <name>David Laferrière</name>
+    <role>Agente Localiza Llamada</role>
+    <type>Actor</type>
+    <tmdbid>3782715</tmdbid>
+  </actor>
+  <actor>
+    <name>Alèx Moreu</name>
+    <role>Policía 1</role>
+    <type>Actor</type>
+    <tmdbid>3340245</tmdbid>
+  </actor>
+  <actor>
+    <name>Chete Guzmán</name>
+    <role>Jefe de Obra</role>
+    <type>Actor</type>
+    <tmdbid>2788540</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathilde Legrand</name>
+    <role>Empleada Banco</role>
+    <type>Actor</type>
+    <tmdbid>2480561</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Hard</name>
+    <role>Mujer CNT</role>
+    <type>Actor</type>
+    <tmdbid>3782725</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Rama</name>
+    <role>Azafata Zona VIP</role>
+    <type>Actor</type>
+    <tmdbid>3782727</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Albertini</name>
+    <role>Antidisturbios Megáfono</role>
+    <type>Actor</type>
+    <tmdbid>3782730</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Paul Szybura</name>
+    <role>Clente Mayor Banco</role>
+    <type>Actor</type>
+    <tmdbid>1693970</tmdbid>
+  </actor>
+  <director tmdbid="114464">Javier Ruiz Caldera</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wkm1Cr4pbMk</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>Un hombre de accion</sorttitle>
+  <imdbid>tt12703292</imdbid>
+  <tmdbid>945897</tmdbid>
+  <premiered>2022-11-30</premiered>
+  <releasedate>2022-11-30</releasedate>
+  <runtime>112</runtime>
+  <tagline>Soñaron con robar al banco más grande del mundo... y lo hicieron.</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Ikiru Films</studio>
+  <studio>La Terraza Films</studio>
+  <studio>La Pulga y el Elefante</studio>
+  <uniqueid type="imdb">tt12703292</uniqueid>
+  <uniqueid type="tmdb">945897</uniqueid>
+  <id>tt12703292</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1052439</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.999702</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6708</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63700</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

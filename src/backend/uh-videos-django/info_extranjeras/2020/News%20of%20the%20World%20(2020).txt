@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A Civil War veteran agrees to deliver a girl, taken by the Kiowa people years ago, to her aunt and uncle, against her will. They travel hundreds of miles and face grave dangers as they search for a place that either can call home.]]></plot>
+  <outline><![CDATA[Encuentra a dónde perteneces.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-19 10:57:43</dateadded>
+  <title>News of the World</title>
+  <originaltitle>News of the World</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Helena Zengel</name>
+    <type>Actor</type>
+    <tmdbid>1756490</tmdbid>
+    <imdbid>nm8023748</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Astor</name>
+    <type>Actor</type>
+    <tmdbid>2410017</tmdbid>
+  </actor>
+  <actor>
+    <name>Travis Johnson</name>
+    <type>Actor</type>
+    <tmdbid>3455917</tmdbid>
+  </actor>
+  <director tmdbid="25598" imdbid="nm0339030">Paul Greengrass</director>
+  <writer>Paul Greengrass (screenplay by)</writer>
+  <writer>Luke Davies (screenplay by)</writer>
+  <writer>Paulette Jiles (based upon the novel by)</writer>
+  <credits>Paul Greengrass (screenplay by)</credits>
+  <credits>Luke Davies (screenplay by)</credits>
+  <credits>Paulette Jiles (based upon the novel by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3Avz4uIz180</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>News of the World</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6878306</imdbid>
+  <tmdbid>581032</tmdbid>
+  <premiered>2020-12-25</premiered>
+  <releasedate>2020-12-25</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>118</runtime>
+  <tagline>Encuentra a dónde perteneces.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Western</genre>
+  <studio>Playtone</studio>
+  <studio>Pretty Pictures</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Perfect World Pictures</studio>
+  <uniqueid type="imdb">tt6878306</uniqueid>
+  <uniqueid type="tmdb">581032</uniqueid>
+  <id>tt6878306</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>942067</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7099</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

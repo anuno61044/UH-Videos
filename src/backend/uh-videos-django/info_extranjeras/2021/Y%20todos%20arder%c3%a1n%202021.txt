@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[María Jos es ajena a un mundo que está llegando a su fin, recluida más de diez años viviendo una pesadilla después de que su hijo Lolo se suicidase, harto del acoso escolar que recibía por su acondroplasia. Lista para marcharse de este mundo, decide ir a saltar por el mismo puente por el que se tiró su hijo cuando es interrumpida por Lucía, una misteriosa niña con la misma condición que su Lolo. María José se apiada de la niña y decide ayudarla a buscar a sus padres para poco a poco descubrir que Lucía no es una niña cualquiera y que ha sido enviada al pueblo con un propósito.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-02 11:52:09</dateadded>
+  <title>Y todos arderán</title>
+  <originaltitle>Y todos arderán</originaltitle>
+  <actor>
+    <name>Macarena Gómez</name>
+    <type>Actor</type>
+    <tmdbid>67052</tmdbid>
+    <imdbid>nm1296762</imdbid>
+    <tvdbid>7948997</tvdbid>
+  </actor>
+  <actor>
+    <name>Rodolfo Sancho</name>
+    <type>Actor</type>
+    <tmdbid>100669</tmdbid>
+    <imdbid>nm0761110</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Milán</name>
+    <type>Actor</type>
+    <tmdbid>1111245</tmdbid>
+    <imdbid>nm0586774</imdbid>
+    <tvdbid>307496</tvdbid>
+  </actor>
+  <actor>
+    <name>Rubén Ochandiano</name>
+    <type>Actor</type>
+    <tmdbid>102221</tmdbid>
+    <imdbid>nm0643679</imdbid>
+  </actor>
+  <actor>
+    <name>Germán Torres</name>
+    <type>Actor</type>
+    <tmdbid>2369922</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Estrella</name>
+    <type>Actor</type>
+    <tmdbid>137921</tmdbid>
+    <imdbid>nm3127008</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía García</name>
+    <type>Actor</type>
+    <tmdbid>2992436</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cayo</name>
+    <type>Actor</type>
+    <tmdbid>51902</tmdbid>
+    <imdbid>nm0147308</imdbid>
+    <tvdbid>456310</tvdbid>
+  </actor>
+  <actor>
+    <name>Saturnino García</name>
+    <type>Actor</type>
+    <tmdbid>93831</tmdbid>
+    <imdbid>nm0306498</imdbid>
+  </actor>
+  <actor>
+    <name>Ella Kweku</name>
+    <type>Actor</type>
+    <tmdbid>1205497</tmdbid>
+    <imdbid>nm2435667</imdbid>
+  </actor>
+  <director tmdbid="2369929">David Hebrero</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sdRBb4ff6A0</trailer>
+  <rating>5.4</rating>
+  <year>2021</year>
+  <sorttitle>Y todos arderan</sorttitle>
+  <imdbid>tt14130690</imdbid>
+  <tmdbid>800989</tmdbid>
+  <premiered>2021-10-16</premiered>
+  <releasedate>2021-10-16</releasedate>
+  <runtime>115</runtime>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <studio>Nostalgia Shop Films</studio>
+  <uniqueid type="tmdb">800989</uniqueid>
+  <uniqueid type="imdb">tt14130690</uniqueid>
+  <id>tt14130690</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1436450</bitrate>
+        <width>1920</width>
+        <height>1032</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6890</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>317375</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

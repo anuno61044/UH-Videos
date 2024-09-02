@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Joaquín, Brujo y Luismi, tres canallas de barrio, vuelven a encontrarse después de veinte años. Brujo y Luismi siguen sin oficio pero con algún que otro beneficio, mientras que Joaquín se ha convertido en un importante empresario. O eso cree él. A sus 47 primaveras sigue viviendo en Orcasitas, en casa de Esther, su madre, junto a Brenda, su hija, campeona de yo-yó, y Chema, su hermano, soldador y maestro ¨Wing-chun¨. Joaquín vive en un 9ºB, a nueve pisos de su realidad, y un día recibe la notificación del juzgado informándoles del embargo de la casa por un préstamo de Joaquín que Esther avaló. Intentará conseguir el dinero necesario para evitar el desahucio, pero las brillantes ideas de Brujo y Luismi acabarán hundiendo a Joaquín aún más en la miseria. Los tres amigos iniciarán entonces una aventura desesperada para solucionar el problema, arrastrando con ello a toda la familia.]]></plot>
+  <outline><![CDATA[Cuando algo va mal, todo puede salir peor]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-10 10:36:11</dateadded>
+  <title>Canallas</title>
+  <originaltitle>Canallas</originaltitle>
+  <actor>
+    <name>Miguel Herrán</name>
+    <type>Actor</type>
+    <tmdbid>1428896</tmdbid>
+    <imdbid>nm5969653</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Tosar</name>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Zahera</name>
+    <type>Actor</type>
+    <tmdbid>28511</tmdbid>
+    <imdbid>nm0951958</imdbid>
+    <tvdbid>520301</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Guzmán</name>
+    <type>Actor</type>
+    <tmdbid>25900</tmdbid>
+    <imdbid>nm0350044</imdbid>
+    <tvdbid>8029878</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Vellido</name>
+    <type>Actor</type>
+    <tmdbid>1089049</tmdbid>
+    <imdbid>nm0892624</imdbid>
+    <tvdbid>531971</tvdbid>
+  </actor>
+  <actor>
+    <name>Gerard Torres</name>
+    <type>Actor</type>
+    <tmdbid>2875008</tmdbid>
+  </actor>
+  <actor>
+    <name>María Jesús Hoyos</name>
+    <type>Actor</type>
+    <tmdbid>1092032</tmdbid>
+    <imdbid>nm0398433</imdbid>
+    <tvdbid>8238016</tvdbid>
+  </actor>
+  <actor>
+    <name>Álex Barahona</name>
+    <type>Actor</type>
+    <tmdbid>592469</tmdbid>
+    <imdbid>nm1974933</imdbid>
+    <tvdbid>513437</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio 'Morris' Durán</name>
+    <type>Actor</type>
+    <tmdbid>15599</tmdbid>
+    <imdbid>nm0244460</imdbid>
+  </actor>
+  <actor>
+    <name>Julián Villagrán</name>
+    <type>Actor</type>
+    <tmdbid>34057</tmdbid>
+    <imdbid>nm1253636</imdbid>
+    <tvdbid>469614</tvdbid>
+  </actor>
+  <director tmdbid="25900" imdbid="nm0350044" tvdbid="8029878">Daniel Guzmán</director>
+  <rating>5.2</rating>
+  <year>2022</year>
+  <sorttitle>Canallas</sorttitle>
+  <imdbid>tt11694374</imdbid>
+  <tmdbid>939892</tmdbid>
+  <premiered>2022-04-01</premiered>
+  <releasedate>2022-04-01</releasedate>
+  <runtime>101</runtime>
+  <tagline>Cuando algo va mal, todo puede salir peor</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>ZircoZine</studio>
+  <studio>El Niño Producciones</studio>
+  <studio>Movistar+</studio>
+  <studio>La Canica Films</studio>
+  <uniqueid type="imdb">tt11694374</uniqueid>
+  <uniqueid type="tmdb">939892</uniqueid>
+  <id>tt11694374</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1085981</bitrate>
+        <width>1672</width>
+        <height>720</height>
+        <aspect>960:413</aspect>
+        <aspectratio>960:413</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6063</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64279</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

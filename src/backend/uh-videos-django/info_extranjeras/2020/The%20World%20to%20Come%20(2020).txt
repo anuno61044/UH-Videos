@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Somewhere along the mid-19th century American East Coast frontier, two neighboring couples battle hardship and isolation, witnessed by a splendid yet testing landscape, challenging them both physically and psychologically.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-08 09:50:34</dateadded>
+  <title>The World to Come</title>
+  <originaltitle>The World to Come</originaltitle>
+  <actor>
+    <name>Katherine Waterston</name>
+    <type>Actor</type>
+    <tmdbid>77795</tmdbid>
+    <imdbid>nm2239702</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Affleck</name>
+    <type>Actor</type>
+    <tmdbid>1893</tmdbid>
+    <imdbid>nm0000729</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Kirby</name>
+    <type>Actor</type>
+    <tmdbid>556356</tmdbid>
+    <imdbid>nm3948952</imdbid>
+    <tvdbid>403805</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher Abbott</name>
+    <type>Actor</type>
+    <tmdbid>984629</tmdbid>
+    <imdbid>nm3571592</imdbid>
+    <tvdbid>453979</tvdbid>
+  </actor>
+  <director tmdbid="1280031" imdbid="nm2178754">Mona Fastvold</director>
+  <writer>Ron Hansen (screenplay by)</writer>
+  <writer>Jim Shepard (screenplay by)</writer>
+  <writer>Jim Shepard (based upon the original story "The World to Come" by)</writer>
+  <credits>Ron Hansen (screenplay by)</credits>
+  <credits>Jim Shepard (screenplay by)</credits>
+  <credits>Jim Shepard (based upon the original story "The World to Come" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4j4UlO9lmWQ</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>World to Come</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9738716</imdbid>
+  <tmdbid>506281</tmdbid>
+  <premiered>2020-09-06</premiered>
+  <releasedate>2020-09-06</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>105</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Sea Change Media</studio>
+  <studio>Sailor Bear</studio>
+  <studio>Killer Films</studio>
+  <studio>Arsia Production</studio>
+  <studio>M.Y.R.A. Entertainment</studio>
+  <studio>Sony Pictures</studio>
+  <studio>Yellow Bear Films</studio>
+  <studio>Hype Film</studio>
+  <studio>Charades</studio>
+  <studio>Bleecker Street Films</studio>
+  <uniqueid type="imdb">tt9738716</uniqueid>
+  <uniqueid type="tmdb">506281</uniqueid>
+  <id>tt9738716</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>600031</bitrate>
+        <width>858</width>
+        <height>514</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.98</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6283</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

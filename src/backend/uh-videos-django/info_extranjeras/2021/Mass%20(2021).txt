@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Años después de que el hijo de Richard (Reed Birney) y Linda (Ann Dowd) causase una enorme tragedia, Jay (Jason Isaacs), y Gail (Martha Plimpton) están por fin dispuestos a hablar en un intento por tratar de seguir adelante con sus vidas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-28 07:50:29</dateadded>
+  <title>Mass</title>
+  <originaltitle>Mass</originaltitle>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>163774</tmdbid>
+    <imdbid>nm0083714</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Isaacs</name>
+    <role>Jay</role>
+    <type>Actor</type>
+    <tmdbid>11355</tmdbid>
+    <imdbid>nm0005042</imdbid>
+    <tvdbid>346159</tvdbid>
+  </actor>
+  <actor>
+    <name>Martha Plimpton</name>
+    <role>Gail</role>
+    <type>Actor</type>
+    <tmdbid>17495</tmdbid>
+    <imdbid>nm0000588</imdbid>
+  </actor>
+  <actor>
+    <name>Breeda Wool</name>
+    <role>Judy</role>
+    <type>Actor</type>
+    <tmdbid>1442829</tmdbid>
+    <imdbid>nm2815589</imdbid>
+    <tvdbid>479624</tvdbid>
+  </actor>
+  <actor>
+    <name>Kagen Albright</name>
+    <role>Anthony</role>
+    <type>Actor</type>
+    <tmdbid>2960195</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle N. Carter</name>
+    <role>Kendra</role>
+    <type>Actor</type>
+    <tmdbid>1349499</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael White</name>
+    <role>Piano Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2960197</tmdbid>
+  </actor>
+  <actor>
+    <name>Campbell Spoor</name>
+    <role>Piano Student</role>
+    <type>Actor</type>
+    <tmdbid>2960196</tmdbid>
+  </actor>
+  <director tmdbid="51533" imdbid="nm0469823">Fran Kranz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oU56Ns1nXsE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WgvsfKhGdgI</trailer>
+  <rating>7.6</rating>
+  <year>2021</year>
+  <sorttitle>Mass</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11389748</imdbid>
+  <tmdbid>423333</tmdbid>
+  <premiered>2021-10-08</premiered>
+  <releasedate>2021-10-08</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>111</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>7 Eccles Street</studio>
+  <studio>Circa 1888</studio>
+  <studio>5B Productions</studio>
+  <uniqueid type="imdb">tt11389748</uniqueid>
+  <uniqueid type="tmdb">423333</uniqueid>
+  <id>tt11389748</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>998813</bitrate>
+        <width>1280</width>
+        <height>638</height>
+        <aspect>479:239</aspect>
+        <aspectratio>479:239</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6680</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

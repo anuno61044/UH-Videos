@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-09 09:04:13</dateadded>
+  <title>Hamilton</title>
+  <originaltitle>Hamilton</originaltitle>
+  <actor>
+    <name>Daveed Diggs</name>
+    <type>Actor</type>
+    <tmdbid>1652371</tmdbid>
+    <imdbid>nm4377526</imdbid>
+    <tvdbid>469857</tvdbid>
+  </actor>
+  <actor>
+    <name>Renée Elise Goldsberry</name>
+    <type>Actor</type>
+    <tmdbid>87932</tmdbid>
+    <imdbid>nm0325989</imdbid>
+    <tvdbid>303652</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Groff</name>
+    <type>Actor</type>
+    <tmdbid>221611</tmdbid>
+    <imdbid>nm2676147</imdbid>
+    <tvdbid>295001</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Jackson</name>
+    <type>Actor</type>
+    <tmdbid>1319057</tmdbid>
+  </actor>
+  <director tmdbid="1485823" imdbid="nm2371802">Thomas Kail</director>
+  <writer>Lin-Manuel Miranda (book)</writer>
+  <writer>Ron Chernow (inspired by the book Alexander Hamilton by)</writer>
+  <credits>Lin-Manuel Miranda (book)</credits>
+  <credits>Ron Chernow (inspired by the book Alexander Hamilton by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=myrlokSAcQM</trailer>
+  <rating>8.3</rating>
+  <year>2020</year>
+  <sorttitle>Hamilton</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8503618</imdbid>
+  <tmdbid>556574</tmdbid>
+  <premiered>2020-07-03</premiered>
+  <releasedate>2020-07-03</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>160</runtime>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Musical</genre>
+  <studio>RadicalMedia</studio>
+  <studio>5000 Broadway Productions</studio>
+  <studio>Nevis Productions</studio>
+  <studio>Old 320 Sycamore</studio>
+  <uniqueid type="imdb">tt8503618</uniqueid>
+  <uniqueid type="tmdb">556574</uniqueid>
+  <id>tt8503618</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>783605</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>160</duration>
+        <durationinseconds>9615</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

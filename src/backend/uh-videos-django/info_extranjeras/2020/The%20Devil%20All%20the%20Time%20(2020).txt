@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sinister characters converge around a young man devoted to protecting those he loves in a postwar backwoods town teeming with corruption and brutality.]]></plot>
+  <outline><![CDATA[Todos terminan en el mismo maldito lugar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-21 08:27:25</dateadded>
+  <title>The Devil All the Time</title>
+  <originaltitle>The Devil All the Time</originaltitle>
+  <actor>
+    <name>Tom Holland</name>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <tvdbid>287561</tvdbid>
+  </actor>
+  <actor>
+    <name>Bill Skarsgård</name>
+    <type>Actor</type>
+    <tmdbid>137905</tmdbid>
+    <imdbid>nm0803889</imdbid>
+  </actor>
+  <actor>
+    <name>Riley Keough</name>
+    <type>Actor</type>
+    <tmdbid>98522</tmdbid>
+    <imdbid>nm2142336</imdbid>
+    <tvdbid>519604</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Clarke</name>
+    <type>Actor</type>
+    <tmdbid>76512</tmdbid>
+    <imdbid>nm0164809</imdbid>
+    <tvdbid>262414</tvdbid>
+  </actor>
+  <director tmdbid="56369" imdbid="nm1290515">Antonio Campos</director>
+  <writer>Antonio Campos (screenplay by)</writer>
+  <writer>Paulo Campos (screenplay by)</writer>
+  <writer>Donald Ray Pollock (based on the novel by)</writer>
+  <credits>Antonio Campos (screenplay by)</credits>
+  <credits>Paulo Campos (screenplay by)</credits>
+  <credits>Donald Ray Pollock (based on the novel by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KtN6fpjRSHs</trailer>
+  <rating>7.1</rating>
+  <year>2020</year>
+  <sorttitle>Devil All the Time</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7395114</imdbid>
+  <tmdbid>499932</tmdbid>
+  <premiered>2020-09-11</premiered>
+  <releasedate>2020-09-11</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>139</runtime>
+  <tagline>Todos terminan en el mismo maldito lugar.</tagline>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Nine Stories Productions</studio>
+  <studio>BorderLine Films</studio>
+  <studio>Bronx Moving Co.</studio>
+  <uniqueid type="imdb">tt7395114</uniqueid>
+  <uniqueid type="tmdb">499932</uniqueid>
+  <id>tt7395114</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>902659</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8332</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

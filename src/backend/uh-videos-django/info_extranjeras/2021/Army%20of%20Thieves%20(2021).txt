@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer recluta a un cajero de banco para que ayude a su banda a robar tres legendarias cajas fuertes de Europa.]]></plot>
+  <outline><![CDATA[Nada es una apuesta segura.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-29 09:27:51</dateadded>
+  <title>Ejército de los ladrones</title>
+  <originaltitle>Army of Thieves</originaltitle>
+  <actor>
+    <name>Matthias Schweighöfer</name>
+    <role>Ludwig Dieter</role>
+    <type>Actor</type>
+    <tmdbid>16808</tmdbid>
+    <imdbid>nm0777788</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Gwendoline</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+    <imdbid>nm2812026</imdbid>
+    <tvdbid>247884</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruby O. Fee</name>
+    <role>Korina</role>
+    <type>Actor</type>
+    <tmdbid>229396</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Martin</name>
+    <role>Brad Cage</role>
+    <type>Actor</type>
+    <tmdbid>1403559</tmdbid>
+    <imdbid>nm3516668</imdbid>
+  </actor>
+  <actor>
+    <name>Guz Khan</name>
+    <role>Rolph</role>
+    <type>Actor</type>
+    <tmdbid>2037501</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cohen</name>
+    <role>Delacroix</role>
+    <type>Actor</type>
+    <tmdbid>129765</tmdbid>
+  </actor>
+  <actor>
+    <name>Noémie Nakai</name>
+    <role>Beatrix</role>
+    <type>Actor</type>
+    <tmdbid>1767809</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Steyer</name>
+    <role>Hans Wagner</role>
+    <type>Actor</type>
+    <tmdbid>11248</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Bradford</name>
+    <role>Big Tough Guy</role>
+    <type>Actor</type>
+    <tmdbid>1781390</tmdbid>
+  </actor>
+  <actor>
+    <name>Tonya Graves</name>
+    <role>Basement McGee</role>
+    <type>Actor</type>
+    <tmdbid>1984784</tmdbid>
+  </actor>
+  <actor>
+    <name>Trent Garrett</name>
+    <role>Mr. Cool Guy</role>
+    <type>Actor</type>
+    <tmdbid>1440179</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Meier</name>
+    <role>Lucy</role>
+    <type>Actor</type>
+    <tmdbid>1404576</tmdbid>
+  </actor>
+  <actor>
+    <name>Ephraim Goldin</name>
+    <role>Competitor #4</role>
+    <type>Actor</type>
+    <tmdbid>1759587</tmdbid>
+  </actor>
+  <actor>
+    <name>Melanie Rada</name>
+    <role>Competitor #5</role>
+    <type>Actor</type>
+    <tmdbid>3289357</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleg Kim</name>
+    <role>Competitor #6</role>
+    <type>Actor</type>
+    <tmdbid>3010605</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Mekibes Meza</name>
+    <role>Competitor #7</role>
+    <type>Actor</type>
+    <tmdbid>3157951</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie McGuire</name>
+    <role>Competitor #8</role>
+    <type>Actor</type>
+    <tmdbid>3289358</tmdbid>
+  </actor>
+  <actor>
+    <name>Trish Osmond</name>
+    <role>Bank Employee Inge</role>
+    <type>Actor</type>
+    <tmdbid>2550492</tmdbid>
+  </actor>
+  <actor>
+    <name>Pavel Gajdoš</name>
+    <role>Barista</role>
+    <type>Actor</type>
+    <tmdbid>1020672</tmdbid>
+  </actor>
+  <actor>
+    <name>Hana Frejková</name>
+    <role>Old Lady</role>
+    <type>Actor</type>
+    <tmdbid>25672</tmdbid>
+    <imdbid>nm0293977</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Hosking</name>
+    <role>Old Security Guard Joe</role>
+    <type>Actor</type>
+    <tmdbid>1239931</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Connolly</name>
+    <role>Old Lady Teller</role>
+    <type>Actor</type>
+    <tmdbid>3289366</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Kusche</name>
+    <role>Angry Bald Guy</role>
+    <type>Actor</type>
+    <tmdbid>42448</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Willoughby</name>
+    <role>Sad Manager</role>
+    <type>Actor</type>
+    <tmdbid>2388196</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreas Nowak</name>
+    <role>Tom CM</role>
+    <type>Actor</type>
+    <tmdbid>1855790</tmdbid>
+  </actor>
+  <actor>
+    <name>Lukáš Duy Anh Tran</name>
+    <role>Techie</role>
+    <type>Actor</type>
+    <tmdbid>2243666</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim High</name>
+    <role>Rooftop Agent 1</role>
+    <type>Actor</type>
+    <tmdbid>1394090</tmdbid>
+    <imdbid>nm3426177</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Wilkie</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1179441</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Pitthan</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>1905701</tmdbid>
+  </actor>
+  <actor>
+    <name>Kateřina Pindejová</name>
+    <role>Teller</role>
+    <type>Actor</type>
+    <tmdbid>1351661</tmdbid>
+  </actor>
+  <actor>
+    <name>Miroslav Lhotka</name>
+    <role>Armed Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>1506768</tmdbid>
+  </actor>
+  <actor>
+    <name>Zdeněk Dvořáček</name>
+    <role>Armed Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1425059</tmdbid>
+    <imdbid>nm0245301</imdbid>
+  </actor>
+  <actor>
+    <name>Jenn Kirk</name>
+    <role>Another Teller</role>
+    <type>Actor</type>
+    <tmdbid>3157960</tmdbid>
+  </actor>
+  <actor>
+    <name>Miroslav Pecháček</name>
+    <role>Young Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2612511</tmdbid>
+  </actor>
+  <actor>
+    <name>Zdeněk Pecháček</name>
+    <role>Old Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1555308</tmdbid>
+  </actor>
+  <actor>
+    <name>Josef Jelinek</name>
+    <role>Man With Bicycle</role>
+    <type>Actor</type>
+    <tmdbid>2296204</tmdbid>
+  </actor>
+  <actor>
+    <name>Tigran Hovakimyan</name>
+    <role>Local Cop</role>
+    <type>Actor</type>
+    <tmdbid>3289384</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Coltofeanu</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>3289386</tmdbid>
+  </actor>
+  <actor>
+    <name>David Bowles</name>
+    <role>Backup</role>
+    <type>Actor</type>
+    <tmdbid>993074</tmdbid>
+  </actor>
+  <actor>
+    <name>Fanette Ronjat</name>
+    <role>Floor Manager</role>
+    <type>Actor</type>
+    <tmdbid>2746387</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Fritz</name>
+    <role>Another Employee</role>
+    <type>Actor</type>
+    <tmdbid>1950912</tmdbid>
+  </actor>
+  <actor>
+    <name>Garrett Marcantel</name>
+    <role>Rooftop Agent #2 Bob</role>
+    <type>Actor</type>
+    <tmdbid>3053932</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Stehlík</name>
+    <role>Rooftop Agent #3</role>
+    <type>Actor</type>
+    <tmdbid>3289396</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonáš Petřík</name>
+    <role>Interpol Agent #1</role>
+    <type>Actor</type>
+    <tmdbid>3289405</tmdbid>
+  </actor>
+  <actor>
+    <name>Petr Kotík</name>
+    <role>Interpol Agent #2</role>
+    <type>Actor</type>
+    <tmdbid>1840653</tmdbid>
+    <imdbid>nm4505927</imdbid>
+  </actor>
+  <actor>
+    <name>Dunja Hayali</name>
+    <role>German News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2125203</tmdbid>
+  </actor>
+  <actor>
+    <name>Sascha Graetz</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>2232549</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucie Grün</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>3289414</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Vano</name>
+    <role>Korina's Brother 5y/o</role>
+    <type>Actor</type>
+    <tmdbid>3289419</tmdbid>
+  </actor>
+  <actor>
+    <name>Ondřej Vetchý</name>
+    <role>Strong Kid</role>
+    <type>Actor</type>
+    <tmdbid>11685</tmdbid>
+  </actor>
+  <actor>
+    <name>Samba Goldin</name>
+    <role>Teenage Boy</role>
+    <type>Actor</type>
+    <tmdbid>3289430</tmdbid>
+  </actor>
+  <actor>
+    <name>John Bubniak</name>
+    <role>Douchey Young Guy Chris</role>
+    <type>Actor</type>
+    <tmdbid>2410745</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Cajzl</name>
+    <role>Man with Skimask</role>
+    <type>Actor</type>
+    <tmdbid>2703533</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Huck</name>
+    <role>Lady Café</role>
+    <type>Actor</type>
+    <tmdbid>12046</tmdbid>
+    <imdbid>nm0399583</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Otis</name>
+    <role>Snob</role>
+    <type>Actor</type>
+    <tmdbid>168059</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Nemejovský</name>
+    <role>Old Gun Guy</role>
+    <type>Actor</type>
+    <tmdbid>183737</tmdbid>
+    <imdbid>nm0625887</imdbid>
+  </actor>
+  <actor>
+    <name>Damian Odess-Gillett</name>
+    <role>Salesclerk</role>
+    <type>Actor</type>
+    <tmdbid>1751605</tmdbid>
+  </actor>
+  <actor>
+    <name>Michaela Pospíšilová</name>
+    <role>Young Couple Female</role>
+    <type>Actor</type>
+    <tmdbid>3289441</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Otis</name>
+    <role>Young Couple Male</role>
+    <type>Actor</type>
+    <tmdbid>25728</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Boudreaux</name>
+    <role>Reporter Gil Pedretti</role>
+    <type>Actor</type>
+    <tmdbid>2044167</tmdbid>
+    <imdbid>nm0099214</imdbid>
+  </actor>
+  <actor>
+    <name>Leonard Treyde</name>
+    <role>Young Dieter 12y/o</role>
+    <type>Actor</type>
+    <tmdbid>3289444</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmina Peña Milian</name>
+    <role>Gwendoline 6y/o</role>
+    <type>Actor</type>
+    <tmdbid>3289447</tmdbid>
+  </actor>
+  <actor>
+    <name>Nandi Sawyers-Hudson</name>
+    <role>Gwendoline 16y/o</role>
+    <type>Actor</type>
+    <tmdbid>3289448</tmdbid>
+  </actor>
+  <actor>
+    <name>Violina Maria Rostami</name>
+    <role>Korina 10-12y/o</role>
+    <type>Actor</type>
+    <tmdbid>3289450</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dvorščík</name>
+    <role>Brad 11y/o</role>
+    <type>Actor</type>
+    <tmdbid>3289452</tmdbid>
+  </actor>
+  <actor>
+    <name>Sinéad Phelps</name>
+    <role>Woman With Bike and Grey Helmet</role>
+    <type>Actor</type>
+    <tmdbid>2656292</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Sanada</name>
+    <role>Bly Tanaka (Archive Footage)</role>
+    <type>Actor</type>
+    <tmdbid>9195</tmdbid>
+    <imdbid>nm0760796</imdbid>
+    <tvdbid>367569</tvdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Scott Ward (Archive Footage)</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Ana de la Reguera</name>
+    <role>María Cruz (Archive Footage)</role>
+    <type>Actor</type>
+    <tmdbid>57409</tmdbid>
+    <imdbid>nm0478886</imdbid>
+    <tvdbid>514379</tvdbid>
+  </actor>
+  <director tmdbid="16808" imdbid="nm0777788">Matthias Schweighöfer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XO8RTGHm-0s</trailer>
+  <rating>6.4</rating>
+  <year>2021</year>
+  <sorttitle>Ejercito de los ladrones</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13024674</imdbid>
+  <tmdbid>796499</tmdbid>
+  <premiered>2021-10-29</premiered>
+  <releasedate>2021-10-29</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>130</runtime>
+  <tagline>Nada es una apuesta segura.</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Comedia</genre>
+  <studio>Pantaleon Films</studio>
+  <studio>The Stone Quarry</studio>
+  <studio>Film United</studio>
+  <set tmdbcolid="809185">
+    <name>Ejército de los muertos - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt13024674</uniqueid>
+  <uniqueid type="tmdb">796499</uniqueid>
+  <id>tt13024674</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>864031</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7774</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

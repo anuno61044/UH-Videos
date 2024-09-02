@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.]]></plot>
+  <outline><![CDATA[Ven aquí]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-26 08:30:44</dateadded>
+  <title>Mortal Kombat</title>
+  <originaltitle>Mortal Kombat</originaltitle>
+  <actor>
+    <name>Lewis Tan</name>
+    <type>Actor</type>
+    <tmdbid>1610940</tmdbid>
+    <imdbid>nm1167985</imdbid>
+    <tvdbid>518633</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica McNamee</name>
+    <type>Actor</type>
+    <tmdbid>136347</tmdbid>
+    <imdbid>nm2537621</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Lawson</name>
+    <type>Actor</type>
+    <tmdbid>189230</tmdbid>
+    <imdbid>nm0493257</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Taslim</name>
+    <type>Actor</type>
+    <tmdbid>592496</tmdbid>
+    <imdbid>nm3029144</imdbid>
+  </actor>
+  <director tmdbid="1828590" imdbid="nm2585406">Simon McQuoid</director>
+  <writer>Greg Russo (screenplay by)</writer>
+  <writer>Dave Callaham (screenplay by)</writer>
+  <writer>Oren Uziel (story by)</writer>
+  <writer>Greg Russo (story by)</writer>
+  <writer>Ed Boon (based on the videogame created by)</writer>
+  <writer>John Tobias (based on the videogame created by)</writer>
+  <credits>Greg Russo (screenplay by)</credits>
+  <credits>Dave Callaham (screenplay by)</credits>
+  <credits>Oren Uziel (story by)</credits>
+  <credits>Greg Russo (story by)</credits>
+  <credits>Ed Boon (based on the videogame created by)</credits>
+  <credits>John Tobias (based on the videogame created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jBa_aHwCbC4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k3StqDN36G0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4J1PN5HfU4Q</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QgRgNFDHvVk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xt6BQKxxdCo</trailer>
+  <rating>6.1</rating>
+  <year>2021</year>
+  <sorttitle>Mortal Kombat</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt0293429</imdbid>
+  <tmdbid>460465</tmdbid>
+  <premiered>2021-04-07</premiered>
+  <releasedate>2021-04-07</releasedate>
+  <criticrating>55</criticrating>
+  <runtime>110</runtime>
+  <tagline>Ven aquí</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Fantasy</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Atomic Monster</studio>
+  <studio>Broken Road Productions</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>South Australian Film Corporation</studio>
+  <studio>NetherRealm Studios</studio>
+  <set tmdbcolid="931431">
+    <name>Mortal Kombat (Reboot) Collection</name>
+  </set>
+  <uniqueid type="imdb">tt0293429</uniqueid>
+  <uniqueid type="tmdb">460465</uniqueid>
+  <id>tt0293429</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1013017</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6600</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

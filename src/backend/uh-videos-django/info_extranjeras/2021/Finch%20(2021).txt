@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tom Hanks interpreta a Finch, un ingeniero especializado en robótica y uno de los pocos supervivientes de un cataclismo solar que ha convertido al mundo en un páramo. Pero Finch, que lleva una década viviendo en un búnker subterráneo, ha construido un mundo propio que comparte con su perro, Goodyear, y con un robot, interpretado por Caleb Landry Jones, que creó para que cuide de Goodyear cuando él ya no pueda hacerlo. Cuando el trío se embarca en un peligroso viaje al desolado oeste americano, Finch se esfuerza por mostrar a su creación, que se bautizó como Jeff, y la alegría y la maravilla que representan estar vivo. Su viaje está plagado de retos y de humor, ya que a Finch le resulta tan difícil lograr que Jeff y Goodyear se lleven bien como a él lidiar con los peligros de este nuevo mundo.]]></plot>
+  <outline><![CDATA[Ármate de coraje, ármate de esperanza, ármate de amor...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-05 09:52:42</dateadded>
+  <title>Finch</title>
+  <originaltitle>Finch</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Finch</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Landry Jones</name>
+    <role>Jeff (voice)</role>
+    <type>Actor</type>
+    <tmdbid>572541</tmdbid>
+    <imdbid>nm2655177</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Avila</name>
+    <role>Truck Driver (Flashback)</role>
+    <type>Actor</type>
+    <tmdbid>1457107</tmdbid>
+  </actor>
+  <actor>
+    <name>Lora Martinez-Cunningham</name>
+    <role>Mother (Flashback)</role>
+    <type>Actor</type>
+    <tmdbid>1151637</tmdbid>
+    <imdbid>nm1254942</imdbid>
+  </actor>
+  <actor>
+    <name>Marie Wagenman</name>
+    <role>Daughter (Flashback)</role>
+    <type>Actor</type>
+    <tmdbid>1912057</tmdbid>
+    <imdbid>nm8037956</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Jones</name>
+    <role>Warning System (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3308163</tmdbid>
+  </actor>
+  <director tmdbid="114404" imdbid="nm0764601">Miguel Sapochnik</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HjNpvOFqb54</trailer>
+  <rating>6.9</rating>
+  <year>2021</year>
+  <sorttitle>Finch</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3420504</imdbid>
+  <tmdbid>522402</tmdbid>
+  <premiered>2021-11-04</premiered>
+  <releasedate>2021-11-04</releasedate>
+  <criticrating>73</criticrating>
+  <runtime>116</runtime>
+  <tagline>Ármate de coraje, ármate de esperanza, ármate de amor...</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Drama</genre>
+  <genre>Aventura</genre>
+  <studio>Amblin Entertainment</studio>
+  <studio>ImageMovers</studio>
+  <studio>Misher Films</studio>
+  <studio>Reliance Entertainment</studio>
+  <uniqueid type="imdb">tt3420504</uniqueid>
+  <uniqueid type="tmdb">522402</uniqueid>
+  <id>tt3420504</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>864015</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.97588</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6939</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

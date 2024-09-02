@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la Navidad de 1877, Isabel de Austria (Sissi), celebra su 40º cumpleaños. Primera dama de Austria, mujer del emperador Francisco José I, no tiene derecho a expresarse y debe mantenerse hermosa y joven para siempre en su papel de emperatriz. Para satisfacer estas expectativas, adopta un estricto régimen de ayuno, ejercicios, peluquería y medición diaria de su cintura. Asfixiada por dichas convenciones, y con un apetito voraz de saber y de vida, Isabel se rebela cada vez más contra esta imagen.]]></plot>
+  <outline><![CDATA[Sin dolor, no hay reinado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-15 12:44:39</dateadded>
+  <title>La emperatriz rebelde</title>
+  <originaltitle>Corsage</originaltitle>
+  <actor>
+    <name>Vicky Krieps</name>
+    <role>Empress Elisabeth</role>
+    <type>Actor</type>
+    <tmdbid>1080195</tmdbid>
+    <imdbid>nm3043279</imdbid>
+  </actor>
+  <actor>
+    <name>Florian Teichtmeister</name>
+    <role>Franz Josef</role>
+    <type>Actor</type>
+    <tmdbid>586677</tmdbid>
+  </actor>
+  <actor>
+    <name>Katharina Lorenz</name>
+    <role>Marie Festetics</role>
+    <type>Actor</type>
+    <tmdbid>33989</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Werner</name>
+    <role>Ida Ferenczy</role>
+    <type>Actor</type>
+    <tmdbid>1694291</tmdbid>
+    <imdbid>nm3554873</imdbid>
+  </actor>
+  <actor>
+    <name>Alma Hasun</name>
+    <role>Fanny Feifalik</role>
+    <type>Actor</type>
+    <tmdbid>1156221</tmdbid>
+  </actor>
+  <actor>
+    <name>Finnegan Oldfield</name>
+    <role>Louis Le Prince</role>
+    <type>Actor</type>
+    <tmdbid>583853</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Rubey</name>
+    <role>Ludwig II</role>
+    <type>Actor</type>
+    <tmdbid>128961</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Friesz</name>
+    <role>Rudolf, Crown Prince of Austria</role>
+    <type>Actor</type>
+    <tmdbid>1818225</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Morgan</name>
+    <role>Bay Middleton</role>
+    <type>Actor</type>
+    <tmdbid>228866</tmdbid>
+    <imdbid>nm2959880</imdbid>
+    <tvdbid>484963</tvdbid>
+  </actor>
+  <actor>
+    <name>Tamás Lengyel</name>
+    <role>Gyula Andrássy</role>
+    <type>Actor</type>
+    <tmdbid>1177074</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivana Urban</name>
+    <role>Mrs. Andrássy</role>
+    <type>Actor</type>
+    <tmdbid>3280631</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Pschill</name>
+    <role>Georg Raab, Painter of the Court</role>
+    <type>Actor</type>
+    <tmdbid>238556</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphael Nicholas</name>
+    <role>Earl of Spencer</role>
+    <type>Actor</type>
+    <tmdbid>1720894</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosa Hajjaj</name>
+    <role>Valerie</role>
+    <type>Actor</type>
+    <tmdbid>3627286</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilly Marie Tschörtner</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>36598</tmdbid>
+  </actor>
+  <actor>
+    <name>May Garzon</name>
+    <role>Lady of Spencer</role>
+    <type>Actor</type>
+    <tmdbid>2082090</tmdbid>
+  </actor>
+  <actor>
+    <name>Norman Hacker</name>
+    <role>Chief Physician Leidesdorf</role>
+    <type>Actor</type>
+    <tmdbid>1408433</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlene Hauser</name>
+    <role>Chambermaid Fini</role>
+    <type>Actor</type>
+    <tmdbid>1950082</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrien Papritz</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2725643</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Rosskopf</name>
+    <role>Eugen Ketterl</role>
+    <type>Actor</type>
+    <tmdbid>1184431</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Faerber</name>
+    <role>Prince of Auersperg</role>
+    <type>Actor</type>
+    <tmdbid>1168349</tmdbid>
+  </actor>
+  <actor>
+    <name>Klaus Huhle</name>
+    <role>Hofarzt von Widerhofer</role>
+    <type>Actor</type>
+    <tmdbid>2900058</tmdbid>
+  </actor>
+  <actor>
+    <name>Johanna Mahaffy</name>
+    <role>Chambermaid Lotti</role>
+    <type>Actor</type>
+    <tmdbid>1962207</tmdbid>
+  </actor>
+  <actor>
+    <name>David Oberkogler</name>
+    <role>Count Latour of Thurmburg</role>
+    <type>Actor</type>
+    <tmdbid>134487</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Prosser</name>
+    <role>Anna Nahowski</role>
+    <type>Actor</type>
+    <tmdbid>2482138</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Puntigam</name>
+    <role>Otto</role>
+    <type>Actor</type>
+    <tmdbid>53424</tmdbid>
+  </actor>
+  <actor>
+    <name>Resi Reiner</name>
+    <role>Chambermaid Lisi</role>
+    <type>Actor</type>
+    <tmdbid>67008</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphael von Bargen</name>
+    <role>Constable Hohenlohe-Schillingfürst</role>
+    <type>Actor</type>
+    <tmdbid>932673</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina Fritsch</name>
+    <role>Countess of Fürstenberg</role>
+    <type>Actor</type>
+    <tmdbid>1142677</tmdbid>
+  </actor>
+  <actor>
+    <name>Johannes Rhomberg</name>
+    <role>Carl Freiherr von Hasenauer</role>
+    <type>Actor</type>
+    <tmdbid>1538141</tmdbid>
+  </actor>
+  <actor>
+    <name>Kajetan Dick</name>
+    <role>Cajetan Felder</role>
+    <type>Actor</type>
+    <tmdbid>1853612</tmdbid>
+  </actor>
+  <actor>
+    <name>Astrid Perz</name>
+    <role>Nanny Minny</role>
+    <type>Actor</type>
+    <tmdbid>3627296</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Spreitzhofer</name>
+    <role>Princess Marie of Hohenlohe</role>
+    <type>Actor</type>
+    <tmdbid>1339094</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Murr</name>
+    <role>Count Holnstein</role>
+    <type>Actor</type>
+    <tmdbid>23181</tmdbid>
+  </actor>
+  <actor>
+    <name>Nils Arztmann</name>
+    <role>Young Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3627278</tmdbid>
+  </actor>
+  <director tmdbid="65062">Marie Kreutzer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W-_zeXssfqM</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>emperatriz rebelde</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt11992694</imdbid>
+  <tmdbid>888321</tmdbid>
+  <premiered>2022-07-07</premiered>
+  <releasedate>2022-07-07</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>114</runtime>
+  <tagline>Sin dolor, no hay reinado.</tagline>
+  <country>Austria</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Hungary</country>
+  <country>Luxembourg</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Samsa Film</studio>
+  <studio>Eurimages</studio>
+  <studio>Komplizen Film</studio>
+  <studio>Vienna Film Financing Fund</studio>
+  <studio>MK2 Films</studio>
+  <studio>Inforg-M&amp;M Film</studio>
+  <studio>ZDF/Arte</studio>
+  <studio>Film Fund Luxembourg</studio>
+  <studio>Kazak Productions</studio>
+  <studio>Playtime</studio>
+  <studio>Film AG</studio>
+  <uniqueid type="imdb">tt11992694</uniqueid>
+  <uniqueid type="tmdb">888321</uniqueid>
+  <id>tt11992694</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100125</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6837</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

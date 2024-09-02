@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Based on the 2014 romance novel of the same name, this follows the love life of two young adults.]]></plot>
+  <outline><![CDATA[¿Puede el amor superar el pasado?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-23 08:32:21</dateadded>
+  <title>After We Collided</title>
+  <originaltitle>After We Collided</originaltitle>
+  <actor>
+    <name>Josephine Langford</name>
+    <type>Actor</type>
+    <tmdbid>1753914</tmdbid>
+    <imdbid>nm6466214</imdbid>
+  </actor>
+  <actor>
+    <name>Hero Fiennes Tiffin</name>
+    <type>Actor</type>
+    <tmdbid>1114487</tmdbid>
+    <imdbid>nm2842005</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Sprouse</name>
+    <type>Actor</type>
+    <tmdbid>95686</tmdbid>
+    <imdbid>nm0819851</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Lombard</name>
+    <type>Actor</type>
+    <tmdbid>20805</tmdbid>
+    <imdbid>nm0518321</imdbid>
+    <tvdbid>312797</tvdbid>
+  </actor>
+  <director tmdbid="11873" imdbid="nm0474955">Roger Kumble</director>
+  <writer>Anna Todd (screenplay by)</writer>
+  <writer>Mario Celaya (screenplay by)</writer>
+  <writer>Anna Todd (based on the novel by)</writer>
+  <credits>Anna Todd (screenplay by)</credits>
+  <credits>Mario Celaya (screenplay by)</credits>
+  <credits>Anna Todd (based on the novel by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8uIpkv1n4_Q</trailer>
+  <rating>5</rating>
+  <year>2020</year>
+  <sorttitle>After We Collided</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10362466</imdbid>
+  <tmdbid>613504</tmdbid>
+  <premiered>2020-09-02</premiered>
+  <releasedate>2020-09-02</releasedate>
+  <criticrating>14</criticrating>
+  <runtime>105</runtime>
+  <tagline>¿Puede el amor superar el pasado?</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Voltage Pictures</studio>
+  <studio>Offspring Entertainment</studio>
+  <studio>Frayed Pages Entertainment</studio>
+  <studio>Wattpad</studio>
+  <set tmdbcolid="702624">
+    <name>After - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10362466</uniqueid>
+  <uniqueid type="tmdb">613504</uniqueid>
+  <id>tt10362466</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1055653</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6321</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>702624</collectionnumber>
+</movie>

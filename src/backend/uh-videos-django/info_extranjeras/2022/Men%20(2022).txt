@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras sufrir una tragedia personal, Harper se retira sola a la hermosa campiña inglesa con la esperanza de encontrar un lugar para cerrar sus heridas. Pero alguien o algo de os bosques que la rodean parece estar acechándola. Lo que comienza como un temor latente se convierte en una auténtica pesadilla, habitada por sus recuerdos y miedos más oscuros.]]></plot>
+  <outline><![CDATA[Lo que te persigue te encontrará.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-26 08:45:58</dateadded>
+  <title>Men</title>
+  <originaltitle>Men</originaltitle>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Harper</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Rory Kinnear</name>
+    <role>Geoffrey</role>
+    <type>Actor</type>
+    <tmdbid>139549</tmdbid>
+    <imdbid>nm1239499</imdbid>
+    <tvdbid>307989</tvdbid>
+  </actor>
+  <actor>
+    <name>Paapa Essiedu</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1611824</tmdbid>
+    <tvdbid>507224</tvdbid>
+  </actor>
+  <actor>
+    <name>Gayle Rankin</name>
+    <role>Riley</role>
+    <type>Actor</type>
+    <tmdbid>1782144</tmdbid>
+    <imdbid>nm4587360</imdbid>
+    <tvdbid>608750</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Twomey</name>
+    <role>Police Officer Frieda</role>
+    <type>Actor</type>
+    <tmdbid>1977143</tmdbid>
+  </actor>
+  <actor>
+    <name>Zak Rothera-Oxley</name>
+    <role>Samuel</role>
+    <type>Actor</type>
+    <tmdbid>2478716</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonoya Mizuno</name>
+    <role>Police Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1457238</tmdbid>
+    <imdbid>nm4420495</imdbid>
+    <tvdbid>520548</tvdbid>
+  </actor>
+  <director tmdbid="2036" imdbid="nm0307497">Alex Garland</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kDqu4OD5a8Q</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=atTZSAz5KMI</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>Men</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13841850</imdbid>
+  <tmdbid>780609</tmdbid>
+  <premiered>2022-05-20</premiered>
+  <releasedate>2022-05-20</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>100</runtime>
+  <tagline>Lo que te persigue te encontrará.</tagline>
+  <country>United Kingdom</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <genre>Fantasía</genre>
+  <studio>DNA Films</studio>
+  <studio>A24</studio>
+  <uniqueid type="imdb">tt13841850</uniqueid>
+  <uniqueid type="tmdb">780609</uniqueid>
+  <id>tt13841850</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1112760</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6008</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

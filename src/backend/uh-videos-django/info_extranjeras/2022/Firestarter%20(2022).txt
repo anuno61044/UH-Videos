@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Andy y Vicky son unos padres que llevan más de una década huyendo en un desesperado intento de esconder a su hija Charlie de una oscura agencia estadounidense empeñada en aprovechar su increíble don para convertir el fuego en un arma de destrucción masiva. Andy enseñó a Charlie cómo dominar su extraño poder, desencadenado normalmente por la ira o el dolor. Pero cuando Charlie cumple 11 años, el fuego es cada vez más difícil de controlar. Después de que un incidente inesperado revele la ubicación de la familia, un misterioso operario sale en busca de Charlie para hacerse con ella de una vez por todas. Pero Charlie tiene otros planes.]]></plot>
+  <outline><![CDATA[Nunca juegues con fuego.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-12 22:22:01</dateadded>
+  <title>Ojos de fuego</title>
+  <originaltitle>Firestarter</originaltitle>
+  <actor>
+    <name>Ryan Kiera Armstrong</name>
+    <role>Charlie McGee</role>
+    <type>Actor</type>
+    <tmdbid>2072566</tmdbid>
+    <imdbid>nm8740834</imdbid>
+    <tvdbid>8178145</tvdbid>
+  </actor>
+  <actor>
+    <name>Zac Efron</name>
+    <role>Andy McGee</role>
+    <type>Actor</type>
+    <tmdbid>29222</tmdbid>
+    <imdbid>nm1374980</imdbid>
+  </actor>
+  <actor>
+    <name>Sydney Lemmon</name>
+    <role>Vicky Tomlinson-McGee</role>
+    <type>Actor</type>
+    <tmdbid>1303156</tmdbid>
+    <imdbid>nm5517526</imdbid>
+  </actor>
+  <actor>
+    <name>Kurtwood Smith</name>
+    <role>Dr. Joseph Wanless</role>
+    <type>Actor</type>
+    <tmdbid>2115</tmdbid>
+    <imdbid>nm0001748</imdbid>
+    <tvdbid>290281</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Greyeyes</name>
+    <role>John Rainbird</role>
+    <type>Actor</type>
+    <tmdbid>154647</tmdbid>
+    <imdbid>nm0340729</imdbid>
+    <tvdbid>268493</tvdbid>
+  </actor>
+  <actor>
+    <name>Gloria Reuben</name>
+    <role>Captain Jane Hollister</role>
+    <type>Actor</type>
+    <tmdbid>21369</tmdbid>
+    <imdbid>nm0005349</imdbid>
+    <tvdbid>273136</tvdbid>
+  </actor>
+  <actor>
+    <name>John Beasley</name>
+    <role>Irv Manders</role>
+    <type>Actor</type>
+    <tmdbid>38571</tmdbid>
+    <imdbid>nm0064040</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Jung</name>
+    <role>Ms. Gardner</role>
+    <type>Actor</type>
+    <tmdbid>1776255</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannan Younis</name>
+    <role>Darla Gurney</role>
+    <type>Actor</type>
+    <tmdbid>2663787</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin MacIver-Wright</name>
+    <role>Gavin</role>
+    <type>Actor</type>
+    <tmdbid>1564457</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Ferdman</name>
+    <role>Eyes Man</role>
+    <type>Actor</type>
+    <tmdbid>1470335</tmdbid>
+    <imdbid>nm2260906</imdbid>
+  </actor>
+  <actor>
+    <name>Jamillah Ross</name>
+    <role>Officer Pierce</role>
+    <type>Actor</type>
+    <tmdbid>1512137</tmdbid>
+  </actor>
+  <actor>
+    <name>Morrissa Nicole</name>
+    <role>Young Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2486728</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Boyd</name>
+    <role>Esmerelda 'Essi' Manders</role>
+    <type>Actor</type>
+    <tmdbid>1888076</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrin Maharaj</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2071059</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Waugh</name>
+    <role>Sheriff Perry</role>
+    <type>Actor</type>
+    <tmdbid>1470381</tmdbid>
+    <imdbid>nm1479104</imdbid>
+  </actor>
+  <actor>
+    <name>Lanette Ware</name>
+    <role>Principal Lewis</role>
+    <type>Actor</type>
+    <tmdbid>164433</tmdbid>
+    <imdbid>nm0710969</imdbid>
+  </actor>
+  <actor>
+    <name>Hunter Smalley</name>
+    <role>First Kid</role>
+    <type>Actor</type>
+    <tmdbid>3548764</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Murray</name>
+    <role>Second Kid</role>
+    <type>Actor</type>
+    <tmdbid>3548765</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Vilord</name>
+    <role>Third Kid</role>
+    <type>Actor</type>
+    <tmdbid>1632664</tmdbid>
+  </actor>
+  <actor>
+    <name>Vas Saranga</name>
+    <role>Agent Jules</role>
+    <type>Actor</type>
+    <tmdbid>1833004</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Marriott</name>
+    <role>Control Room Guard</role>
+    <type>Actor</type>
+    <tmdbid>2801074</tmdbid>
+  </actor>
+  <actor>
+    <name>Moses Nyarko</name>
+    <role>Man in Street Clothes</role>
+    <type>Actor</type>
+    <tmdbid>1366371</tmdbid>
+    <imdbid>nm0638467</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Armstrong</name>
+    <role>Agent Gail</role>
+    <type>Actor</type>
+    <tmdbid>1731492</tmdbid>
+  </actor>
+  <director tmdbid="2381662">Keith Thomas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GkUTq5Ui6DA</trailer>
+  <rating>4.6</rating>
+  <year>2022</year>
+  <sorttitle>Ojos de fuego</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1798632</imdbid>
+  <tmdbid>532710</tmdbid>
+  <premiered>2022-05-12</premiered>
+  <releasedate>2022-05-12</releasedate>
+  <criticrating>10</criticrating>
+  <runtime>94</runtime>
+  <tagline>Nunca juegues con fuego.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Weed Road Pictures</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Dino De Laurentiis Company</studio>
+  <studio>BoulderLight Pictures</studio>
+  <uniqueid type="imdb">tt1798632</uniqueid>
+  <uniqueid type="tmdb">532710</uniqueid>
+  <id>tt1798632</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1181321</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5660</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

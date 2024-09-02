@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una historia de amor ambientada en y alrededor de un antiguo cine, en la costa sur de Inglaterra en la década de 1980.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-08 09:50:44</dateadded>
+  <title>El imperio de la luz</title>
+  <originaltitle>Empire of Light</originaltitle>
+  <actor>
+    <name>Olivia Colman</name>
+    <role>Hilary Small</role>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+    <tvdbid>300806</tvdbid>
+  </actor>
+  <actor>
+    <name>Micheal Ward</name>
+    <role>Stephen</role>
+    <type>Actor</type>
+    <tmdbid>2380397</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Norman</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Firth</name>
+    <role>Mr. Ellis</role>
+    <type>Actor</type>
+    <tmdbid>5472</tmdbid>
+    <imdbid>nm0000147</imdbid>
+    <tvdbid>310383</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Brooke</name>
+    <role>Neil</role>
+    <type>Actor</type>
+    <tmdbid>75066</tmdbid>
+    <imdbid>nm1623508</imdbid>
+  </actor>
+  <actor>
+    <name>Tanya Moodie</name>
+    <role>Delia</role>
+    <type>Actor</type>
+    <tmdbid>31427</tmdbid>
+    <tvdbid>261499</tvdbid>
+  </actor>
+  <actor>
+    <name>Hannah Onslow</name>
+    <role>Janine</role>
+    <type>Actor</type>
+    <tmdbid>3260026</tmdbid>
+  </actor>
+  <actor>
+    <name>Crystal Clarke</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>1371518</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Stewart</name>
+    <role>Brenda</role>
+    <type>Actor</type>
+    <tmdbid>3902</tmdbid>
+    <imdbid>nm0829815</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian McLoughlin</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>1638600</tmdbid>
+  </actor>
+  <actor>
+    <name>Spike Leighton</name>
+    <role>Mikey</role>
+    <type>Actor</type>
+    <tmdbid>2545721</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Field</name>
+    <role>Constable Bramah</role>
+    <type>Actor</type>
+    <tmdbid>2447670</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashleigh Reynolds</name>
+    <role>Trevor</role>
+    <type>Actor</type>
+    <tmdbid>2825348</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Goldthorp</name>
+    <role>Ballroom Instructor</role>
+    <type>Actor</type>
+    <tmdbid>1581702</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Blore</name>
+    <role>Pogo</role>
+    <type>Actor</type>
+    <tmdbid>3496804</tmdbid>
+  </actor>
+  <actor>
+    <name>Eliza Glock</name>
+    <role>Brandy</role>
+    <type>Actor</type>
+    <tmdbid>3621109</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Samuels</name>
+    <role>Receiving Doctor (Dr. John Ames)</role>
+    <type>Actor</type>
+    <tmdbid>2000706</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Whitlow</name>
+    <role>Sean</role>
+    <type>Actor</type>
+    <tmdbid>3765946</tmdbid>
+  </actor>
+  <actor>
+    <name>Dougie Boyall</name>
+    <role>Finn</role>
+    <type>Actor</type>
+    <tmdbid>3765947</tmdbid>
+  </actor>
+  <actor>
+    <name>D.J. Bailey</name>
+    <role>Mr. Podd</role>
+    <type>Actor</type>
+    <tmdbid>1821165</tmdbid>
+  </actor>
+  <actor>
+    <name>George Whitehead</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>1650828</tmdbid>
+  </actor>
+  <director tmdbid="39" imdbid="nm0005222">Sam Mendes</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wI8odSCO38E</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=66jUeZdPlu4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6pH0DDeYeCQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZwYzo5uhqNA</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>imperio de la luz</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14402146</imdbid>
+  <tmdbid>814757</tmdbid>
+  <premiered>2022-12-09</premiered>
+  <releasedate>2022-12-09</releasedate>
+  <criticrating>45</criticrating>
+  <runtime>115</runtime>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Neal Street Productions</studio>
+  <studio>Searchlight Pictures</studio>
+  <uniqueid type="imdb">tt14402146</uniqueid>
+  <uniqueid type="tmdb">814757</uniqueid>
+  <id>tt14402146</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>971417</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6888</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

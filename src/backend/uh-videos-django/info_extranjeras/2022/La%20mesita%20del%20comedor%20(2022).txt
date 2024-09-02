@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja que acaba de ser padres y no pasa por el mejor momento de su relación. Pero lo que no imaginan es que la compra de una mesita para el comedor se convertirá en la peor decisión de sus vidas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2024-05-03 09:41:04</dateadded>
+  <title>La mesita del comedor</title>
+  <originaltitle>La mesita del comedor</originaltitle>
+  <actor>
+    <name>David Pareja</name>
+    <role>Jesus</role>
+    <type>Actor</type>
+    <tmdbid>1282294</tmdbid>
+    <imdbid>nm5207305</imdbid>
+  </actor>
+  <actor>
+    <name>Estefanía de los Santos</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>1103795</tmdbid>
+    <imdbid>nm2059418</imdbid>
+    <tvdbid>469620</tvdbid>
+  </actor>
+  <actor>
+    <name>Josep Maria Riera</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>1588416</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Riera</name>
+    <role>Cristina</role>
+    <type>Actor</type>
+    <tmdbid>2438142</tmdbid>
+    <imdbid>nm9757015</imdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Antuña</name>
+    <role>Vendedor</role>
+    <type>Actor</type>
+    <tmdbid>69528</tmdbid>
+    <imdbid>nm0031612</imdbid>
+  </actor>
+  <actor>
+    <name>Gala Flores</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>3554338</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Dilla</name>
+    <role>Madre de Ruth</role>
+    <type>Actor</type>
+    <tmdbid>1153084</tmdbid>
+    <imdbid>nm1169724</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Castro</name>
+    <role>Amiga Super</role>
+    <type>Actor</type>
+    <tmdbid>1464946</tmdbid>
+    <tvdbid>473686</tvdbid>
+  </actor>
+  <actor>
+    <name>Aitana Garcia</name>
+    <role>Hija Amiga Super</role>
+    <type>Actor</type>
+    <tmdbid>4331845</tmdbid>
+  </actor>
+  <actor>
+    <name>Paco Benjumea</name>
+    <role>Policía 1</role>
+    <type>Actor</type>
+    <tmdbid>2109507</tmdbid>
+  </actor>
+  <actor>
+    <name>Clàudia Font</name>
+    <role>Policía 2</role>
+    <type>Actor</type>
+    <tmdbid>2868296</tmdbid>
+  </actor>
+  <actor>
+    <name>Pere Vall</name>
+    <role>Cliente del Super</role>
+    <type>Actor</type>
+    <tmdbid>1111472</tmdbid>
+    <imdbid>nm2892299</imdbid>
+  </actor>
+  <actor>
+    <name>Emilio Gavira</name>
+    <role>Voz del Super (voice)</role>
+    <type>Actor</type>
+    <tmdbid>962179</tmdbid>
+    <imdbid>nm0310586</imdbid>
+  </actor>
+  <actor>
+    <name>Damià Fustagueras Petit</name>
+    <role>Bebé</role>
+    <type>Actor</type>
+    <tmdbid>4331848</tmdbid>
+  </actor>
+  <director tmdbid="1707578">Caye Casas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oB1lTSxB2j4</trailer>
+  <rating>6.8</rating>
+  <year>2024</year>
+  <sorttitle>mesita del comedor</sorttitle>
+  <imdbid>tt21874760</imdbid>
+  <tmdbid>1056380</tmdbid>
+  <premiered>2024-04-19</premiered>
+  <releasedate>2024-04-19</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>90</runtime>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Comedia</genre>
+  <studio>La Charito Films</studio>
+  <studio>Alhena Production</studio>
+  <studio>Apocalipsis Producciones</studio>
+  <uniqueid type="imdb">tt21874760</uniqueid>
+  <uniqueid type="tmdb">1056380</uniqueid>
+  <id>tt21874760</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>195882</bitrate>
+        <width>640</width>
+        <height>320</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5387</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63822</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

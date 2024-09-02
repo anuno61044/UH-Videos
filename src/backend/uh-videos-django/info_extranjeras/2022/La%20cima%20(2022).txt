@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mateo emprende el ascenso del Annapurna, la montaña más peligrosa del planeta, con el propósito de cumplir una antigua promesa.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-07-25 09:21:19</dateadded>
+  <title>La cima</title>
+  <originaltitle>La cima</originaltitle>
+  <actor>
+    <name>Javier Rey</name>
+    <role>Mateo</role>
+    <type>Actor</type>
+    <tmdbid>96688</tmdbid>
+    <imdbid>nm2626646</imdbid>
+    <tvdbid>463889</tvdbid>
+  </actor>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <role>Ione</role>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Blanca Apilánez</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>132446</tmdbid>
+    <imdbid>nm0032042</imdbid>
+  </actor>
+  <actor>
+    <name>Kandido Uranga</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>24980</tmdbid>
+    <imdbid>nm0881561</imdbid>
+    <tvdbid>729060</tvdbid>
+  </actor>
+  <director tmdbid="1128094" imdbid="nm1028742">Ibon Cormenzana</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-f5qd2xP69o</trailer>
+  <rating>5.3</rating>
+  <year>2022</year>
+  <sorttitle>cima</sorttitle>
+  <imdbid>tt13667044</imdbid>
+  <tmdbid>895953</tmdbid>
+  <premiered>2022-03-25</premiered>
+  <releasedate>2022-03-25</releasedate>
+  <runtime>82</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Aventura</genre>
+  <genre>Suspense</genre>
+  <studio>Arcadia Motion Pictures</studio>
+  <uniqueid type="imdb">tt13667044</uniqueid>
+  <uniqueid type="tmdb">895953</uniqueid>
+  <id>tt13667044</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1050253</bitrate>
+        <width>1656</width>
+        <height>720</height>
+        <aspect>480:209</aspect>
+        <aspectratio>480:209</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>81</duration>
+        <durationinseconds>4898</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64349</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

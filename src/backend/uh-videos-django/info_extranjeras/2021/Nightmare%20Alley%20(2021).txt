@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un buscavidas se compincha con una pitonisa para engañar a la gente y conseguir dinero... Remake del film "El callejón de las almas perdidas" (Nightmare Alley) de 1947.]]></plot>
+  <outline><![CDATA[Hombre o bestia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-01 08:00:07</dateadded>
+  <title>El callejón de las almas perdidas</title>
+  <originaltitle>Nightmare Alley</originaltitle>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Stanton 'Stan' Carlisle</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Rooney Mara</name>
+    <role>Mary Margaret 'Molly' Cahill</role>
+    <type>Actor</type>
+    <tmdbid>108916</tmdbid>
+    <imdbid>nm1913734</imdbid>
+  </actor>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Dr. Lilith Ritter</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+    <tvdbid>255079</tvdbid>
+  </actor>
+  <actor>
+    <name>Toni Collette</name>
+    <role>Zeena 'Zeena the Seer' Krumbein</role>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+    <tvdbid>360423</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard Jenkins</name>
+    <role>Ezra Grindle</role>
+    <type>Actor</type>
+    <tmdbid>28633</tmdbid>
+    <imdbid>nm0420955</imdbid>
+    <tvdbid>319939</tvdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Clement 'Clem' Hoatley</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <actor>
+    <name>David Strathairn</name>
+    <role>Pete</role>
+    <type>Actor</type>
+    <tmdbid>11064</tmdbid>
+    <imdbid>nm0000657</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Perlman</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>2372</tmdbid>
+    <imdbid>nm0000579</imdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Anderson</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Steenburgen</name>
+    <role>Mrs. Kimball</role>
+    <type>Actor</type>
+    <tmdbid>2453</tmdbid>
+    <imdbid>nm0005460</imdbid>
+    <tvdbid>338251</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter MacNeill</name>
+    <role>Judge Kimball</role>
+    <type>Actor</type>
+    <tmdbid>229</tmdbid>
+    <imdbid>nm0534132</imdbid>
+    <tvdbid>258062</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Povinelli</name>
+    <role>The Major</role>
+    <type>Actor</type>
+    <tmdbid>154785</tmdbid>
+    <imdbid>nm0693957</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Beaver</name>
+    <role>Sheriff Jedediah Judd</role>
+    <type>Actor</type>
+    <tmdbid>29862</tmdbid>
+    <imdbid>nm0064769</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Blake Nelson</name>
+    <role>Carny Boss</role>
+    <type>Actor</type>
+    <tmdbid>1462</tmdbid>
+    <imdbid>nm0625789</imdbid>
+    <tvdbid>346749</tvdbid>
+  </actor>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <role>Funhouse Jack</role>
+    <type>Actor</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+    <tvdbid>274756</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Geek #1</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Lara Jean Chorostecki</name>
+    <role>Louise Hoatley</role>
+    <type>Actor</type>
+    <tmdbid>1102260</tmdbid>
+    <imdbid>nm1892299</imdbid>
+    <tvdbid>493581</tvdbid>
+  </actor>
+  <actor>
+    <name>David Hewlett</name>
+    <role>Dr. Elrood</role>
+    <type>Actor</type>
+    <tmdbid>5892</tmdbid>
+    <imdbid>nm0382110</imdbid>
+    <tvdbid>275622</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Mennell</name>
+    <role>Abigail</role>
+    <type>Actor</type>
+    <tmdbid>1890153</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Hill</name>
+    <role>Dogboy Jojo</role>
+    <type>Actor</type>
+    <tmdbid>1674252</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Ellsworth-Clark</name>
+    <role>Drunk #1</role>
+    <type>Actor</type>
+    <tmdbid>1838242</tmdbid>
+  </actor>
+  <actor>
+    <name>Dian Bachar</name>
+    <role>Fee Fee the Birdgirl</role>
+    <type>Actor</type>
+    <tmdbid>55624</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy James</name>
+    <role>The Snake Man</role>
+    <type>Actor</type>
+    <tmdbid>1903319</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew MacCallum</name>
+    <role>Human Skeleton</role>
+    <type>Actor</type>
+    <tmdbid>3244329</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Rodes</name>
+    <role>Zizi the Pinhead</role>
+    <type>Actor</type>
+    <tmdbid>3388019</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Buck</name>
+    <role>Geek #2</role>
+    <type>Actor</type>
+    <tmdbid>88613</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Mucci</name>
+    <role>Hotel Manager</role>
+    <type>Actor</type>
+    <tmdbid>553381</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill MacDonald</name>
+    <role>Stanton’s Dad</role>
+    <type>Actor</type>
+    <tmdbid>236</tmdbid>
+    <imdbid>nm0531628</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Lett</name>
+    <role>Deputy #1</role>
+    <type>Actor</type>
+    <tmdbid>180683</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine McGregor</name>
+    <role>Copa Woman</role>
+    <type>Actor</type>
+    <tmdbid>2271510</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Julien</name>
+    <role>Bus Station Shaving Man</role>
+    <type>Actor</type>
+    <tmdbid>185127</tmdbid>
+    <imdbid>nm0432271</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Brown</name>
+    <role>Lilith’s Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>104635</tmdbid>
+    <imdbid>nm0535019</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Post</name>
+    <role>Armed Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>7009</tmdbid>
+    <imdbid>nm0692874</imdbid>
+  </actor>
+  <actor>
+    <name>Will Conlon</name>
+    <role>Armed Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1330830</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Falk</name>
+    <role>Patron #!</role>
+    <type>Actor</type>
+    <tmdbid>1849371</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen McHattie</name>
+    <role>Hobo #1</role>
+    <type>Actor</type>
+    <tmdbid>230</tmdbid>
+    <imdbid>nm0565569</imdbid>
+    <tvdbid>298316</tvdbid>
+  </actor>
+  <actor>
+    <name>James Collins</name>
+    <role>Train Yard Man</role>
+    <type>Actor</type>
+    <tmdbid>2004237</tmdbid>
+  </actor>
+  <actor>
+    <name>Lili Connor</name>
+    <role>Woman in Floral Dress</role>
+    <type>Actor</type>
+    <tmdbid>2098769</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Waugh</name>
+    <role>Piano Player</role>
+    <type>Actor</type>
+    <tmdbid>1470381</tmdbid>
+    <imdbid>nm1479104</imdbid>
+  </actor>
+  <actor>
+    <name>Walter Rinaldi</name>
+    <role>Drunk</role>
+    <type>Actor</type>
+    <tmdbid>2845213</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Locke</name>
+    <role>Train Worker</role>
+    <type>Actor</type>
+    <tmdbid>3497607</tmdbid>
+  </actor>
+  <actor>
+    <name>Calvin Desautels</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1833006</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Moore</name>
+    <role>Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>3497609</tmdbid>
+  </actor>
+  <actor>
+    <name>Linden Porco</name>
+    <role>Brofo the Small</role>
+    <type>Actor</type>
+    <tmdbid>1552843</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Bradley</name>
+    <role>Deputy #2</role>
+    <type>Actor</type>
+    <tmdbid>3497611</tmdbid>
+  </actor>
+  <actor>
+    <name>Dani Klupsch</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>3334647</tmdbid>
+  </actor>
+  <actor>
+    <name>Vikki Ring</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>3497615</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Botbyl</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>3497616</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bridgeman</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>3497617</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Langille</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>3497620</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Taylor</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>3497621</tmdbid>
+  </actor>
+  <actor>
+    <name>Clyde Whitham</name>
+    <role>Geek Pit Patron</role>
+    <type>Actor</type>
+    <tmdbid>1669510</tmdbid>
+  </actor>
+  <actor>
+    <name>Romina Power</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>565447</tmdbid>
+  </actor>
+  <director tmdbid="10828" imdbid="nm0868219">Guillermo del Toro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8Ths1kLcKd0</trailer>
+  <rating>7</rating>
+  <year>2021</year>
+  <sorttitle>callejon de las almas perdidas</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7740496</imdbid>
+  <tmdbid>597208</tmdbid>
+  <premiered>2021-12-02</premiered>
+  <releasedate>2021-12-02</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>150</runtime>
+  <tagline>Hombre o bestia.</tagline>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Double Dare You Productions</studio>
+  <studio>Searchlight Pictures</studio>
+  <uniqueid type="tmdb">597208</uniqueid>
+  <uniqueid type="imdb">tt7740496</uniqueid>
+  <id>tt7740496</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>835546</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>150</duration>
+        <durationinseconds>9006</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

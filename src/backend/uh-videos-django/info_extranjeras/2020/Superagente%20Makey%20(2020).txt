@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A naive police officer gets caught in the middle of a dangerous international drug operation in the Costa del Sol.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-11 08:53:39</dateadded>
+  <title>Superagente Makey</title>
+  <originaltitle>Superagente Makey</originaltitle>
+  <actor>
+    <name>Leo Harlem</name>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>Jordi Sánchez</name>
+    <type>Actor</type>
+    <tmdbid>560254</tmdbid>
+    <imdbid>nm0844983</imdbid>
+    <tvdbid>7948991</tvdbid>
+  </actor>
+  <actor>
+    <name>Silvia Abril</name>
+    <type>Actor</type>
+    <tmdbid>231486</tmdbid>
+    <imdbid>nm1526347</imdbid>
+    <tvdbid>8107137</tvdbid>
+  </actor>
+  <actor>
+    <name>Mariam Hernández</name>
+    <type>Actor</type>
+    <tmdbid>234531</tmdbid>
+    <imdbid>nm2883665</imdbid>
+  </actor>
+  <director tmdbid="1061663" imdbid="nm1362698">Alfonso Sánchez</director>
+  <writer>Jorge Lara</writer>
+  <writer>Fernando Pérez</writer>
+  <credits>Jorge Lara</credits>
+  <credits>Fernando Pérez</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=COcW_gSqsco</trailer>
+  <rating>4.2</rating>
+  <year>2020</year>
+  <sorttitle>Superagente Makey</sorttitle>
+  <imdbid>tt10419566</imdbid>
+  <tmdbid>651586</tmdbid>
+  <premiered>2020-07-17</premiered>
+  <releasedate>2020-07-17</releasedate>
+  <runtime>96</runtime>
+  <country>Spain</country>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <studio>Mundo Ficción</studio>
+  <studio>Atresmedia</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt10419566</uniqueid>
+  <uniqueid type="tmdb">651586</uniqueid>
+  <id>tt10419566</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>343289</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>959:402</aspect>
+        <aspectratio>959:402</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5740</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63816</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

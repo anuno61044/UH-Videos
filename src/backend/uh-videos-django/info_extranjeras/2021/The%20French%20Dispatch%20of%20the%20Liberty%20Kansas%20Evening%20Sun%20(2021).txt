@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una carta de amor al mundo del periodismo, ambientada en el contexto de la redacción de un periódico americano en el París del siglo XX, con tres historias interconectadas entre sí.]]></plot>
+  <outline><![CDATA[Del Liberty, Kansas Evening Sun]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-13 19:35:38</dateadded>
+  <title>La crónica francesa</title>
+  <originaltitle>The French Dispatch</originaltitle>
+  <actor>
+    <name>Bill Murray</name>
+    <role>Arthur Howitzer, Jr.</role>
+    <type>Actor</type>
+    <tmdbid>1532</tmdbid>
+    <imdbid>nm0000195</imdbid>
+  </actor>
+  <actor>
+    <name>Benicio del Toro</name>
+    <role>Moses Rosenthaler</role>
+    <type>Actor</type>
+    <tmdbid>1121</tmdbid>
+    <imdbid>nm0001125</imdbid>
+    <tvdbid>294163</tvdbid>
+  </actor>
+  <actor>
+    <name>Adrien Brody</name>
+    <role>Julian Cadazio</role>
+    <type>Actor</type>
+    <tmdbid>3490</tmdbid>
+    <imdbid>nm0004778</imdbid>
+    <tvdbid>310424</tvdbid>
+  </actor>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>J. K. L. Berensen</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>Simone</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>Frances McDormand</name>
+    <role>Lucinda Krementz</role>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+    <tvdbid>321262</tvdbid>
+  </actor>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Zeffirelli B.</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Lyna Khoudri</name>
+    <role>Juliette</role>
+    <type>Actor</type>
+    <tmdbid>1886168</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Roebuck Wright</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+    <tvdbid>273450</tvdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Amalric</name>
+    <role>Le Commissaire</role>
+    <type>Actor</type>
+    <tmdbid>8789</tmdbid>
+    <imdbid>nm0023832</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Park</name>
+    <role>Nescaffier</role>
+    <type>Actor</type>
+    <tmdbid>4025</tmdbid>
+    <imdbid>nm0661950</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Wilson</name>
+    <role>Herbsaint Sazerac</role>
+    <type>Actor</type>
+    <tmdbid>887</tmdbid>
+    <imdbid>nm0005562</imdbid>
+    <tvdbid>310578</tvdbid>
+  </actor>
+  <actor>
+    <name>Henry Winkler</name>
+    <role>Uncle Joe</role>
+    <type>Actor</type>
+    <tmdbid>31903</tmdbid>
+    <imdbid>nm0001857</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Balaban</name>
+    <role>Uncle Nick</role>
+    <type>Actor</type>
+    <tmdbid>12438</tmdbid>
+    <imdbid>nm0000837</imdbid>
+    <tvdbid>271550</tvdbid>
+  </actor>
+  <actor>
+    <name>Lois Smith</name>
+    <role>Upshur 'Maw' Clampette</role>
+    <type>Actor</type>
+    <tmdbid>2207</tmdbid>
+    <imdbid>nm0809135</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Revolori</name>
+    <role>Young Rosenthaler</role>
+    <type>Actor</type>
+    <tmdbid>1291350</tmdbid>
+    <imdbid>nm1727825</imdbid>
+    <tvdbid>395375</tvdbid>
+  </actor>
+  <actor>
+    <name>Denis Ménochet</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>81125</tmdbid>
+    <imdbid>nm1616970</imdbid>
+  </actor>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>T.V. Host</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>Alumna</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+    <imdbid>nm0005253</imdbid>
+    <tvdbid>311051</tvdbid>
+  </actor>
+  <actor>
+    <name>Edward Norton</name>
+    <role>The Chauffeur</role>
+    <type>Actor</type>
+    <tmdbid>819</tmdbid>
+    <imdbid>nm0001570</imdbid>
+    <tvdbid>310355</tvdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Albert 'The Abacus'</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <actor>
+    <name>Saoirse Ronan</name>
+    <role>Principal Showgirl</role>
+    <type>Actor</type>
+    <tmdbid>36592</tmdbid>
+    <imdbid>nm1519680</imdbid>
+  </actor>
+  <actor>
+    <name>Christoph Waltz</name>
+    <role>Paul Duval</role>
+    <type>Actor</type>
+    <tmdbid>27319</tmdbid>
+    <imdbid>nm0910607</imdbid>
+    <tvdbid>327559</tvdbid>
+  </actor>
+  <actor>
+    <name>Cécile de France</name>
+    <role>Mrs. B</role>
+    <type>Actor</type>
+    <tmdbid>17522</tmdbid>
+    <imdbid>nm0208426</imdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Gallienne</name>
+    <role>Mr. B</role>
+    <type>Actor</type>
+    <tmdbid>6554</tmdbid>
+    <imdbid>nm0302916</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Schwartzman</name>
+    <role>Hermès Jones</role>
+    <type>Actor</type>
+    <tmdbid>17881</tmdbid>
+    <imdbid>nm0005403</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Friend</name>
+    <role>Drill-Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>36669</tmdbid>
+    <imdbid>nm1670029</imdbid>
+    <tvdbid>465866</tvdbid>
+  </actor>
+  <actor>
+    <name>Hippolyte Girardot</name>
+    <role>Chou-fleur</role>
+    <type>Actor</type>
+    <tmdbid>23388</tmdbid>
+    <imdbid>nm0320762</imdbid>
+  </actor>
+  <actor>
+    <name>Anjelica Huston</name>
+    <role>The Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5657</tmdbid>
+    <imdbid>nm0001378</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Pine</name>
+    <role>Chief Magistrate</role>
+    <type>Actor</type>
+    <tmdbid>19511</tmdbid>
+    <imdbid>nm0683978</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>Morisot</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Lavernhe</name>
+    <role>Toothpowder Spokesman</role>
+    <type>Actor</type>
+    <tmdbid>1159954</tmdbid>
+  </actor>
+  <actor>
+    <name>Félix Moati</name>
+    <role>Head Caterer</role>
+    <type>Actor</type>
+    <tmdbid>930288</tmdbid>
+  </actor>
+  <actor>
+    <name>Wallace Wolodarsky</name>
+    <role>Cheery Writer</role>
+    <type>Actor</type>
+    <tmdbid>486</tmdbid>
+    <imdbid>nm0938645</imdbid>
+  </actor>
+  <actor>
+    <name>Fisher Stevens</name>
+    <role>Story Editor</role>
+    <type>Actor</type>
+    <tmdbid>26473</tmdbid>
+    <imdbid>nm0001770</imdbid>
+  </actor>
+  <actor>
+    <name>Griffin Dunne</name>
+    <role>Legal Advisor</role>
+    <type>Actor</type>
+    <tmdbid>2171</tmdbid>
+    <imdbid>nm0001162</imdbid>
+    <tvdbid>315802</tvdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Bak</name>
+    <role>Communications Specialist</role>
+    <type>Actor</type>
+    <tmdbid>1383898</tmdbid>
+  </actor>
+  <actor>
+    <name>Anjelica Bette Fellini</name>
+    <role>Proof Reader</role>
+    <type>Actor</type>
+    <tmdbid>2201549</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Taïeb</name>
+    <role>Smart Girl</role>
+    <type>Actor</type>
+    <tmdbid>1430853</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Belhadjine</name>
+    <role>Mitch-Mitch</role>
+    <type>Actor</type>
+    <tmdbid>3255919</tmdbid>
+  </actor>
+  <actor>
+    <name>Toheeb Jimoh</name>
+    <role>Cadet 1</role>
+    <type>Actor</type>
+    <tmdbid>2519330</tmdbid>
+    <tvdbid>8175855</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Avinée</name>
+    <role>Vittel</role>
+    <type>Actor</type>
+    <tmdbid>1367236</tmdbid>
+  </actor>
+  <actor>
+    <name>Winsen Ait Hellal</name>
+    <role>Gigi</role>
+    <type>Actor</type>
+    <tmdbid>3255920</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Hudson</name>
+    <role>Mitch-Mitch (On Stage)</role>
+    <type>Actor</type>
+    <tmdbid>1327993</tmdbid>
+    <imdbid>nm4423028</imdbid>
+  </actor>
+  <actor>
+    <name>Jarvis Cocker</name>
+    <role>Tip-Top</role>
+    <type>Actor</type>
+    <tmdbid>107170</tmdbid>
+    <imdbid>nm1006741</imdbid>
+  </actor>
+  <actor>
+    <name>Bruno Delbonnel</name>
+    <role>Tip-Top</role>
+    <type>Actor</type>
+    <tmdbid>2423</tmdbid>
+  </actor>
+  <actor>
+    <name>Grégoire Leprince-Ringuet</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>121530</tmdbid>
+    <imdbid>nm1228072</imdbid>
+  </actor>
+  <actor>
+    <name>Damien Bonnard</name>
+    <role>Police Detective</role>
+    <type>Actor</type>
+    <tmdbid>579211</tmdbid>
+    <imdbid>nm4044784</imdbid>
+  </actor>
+  <director tmdbid="5655" imdbid="nm0027572">Wes Anderson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eTj_S12CVuQ</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <sorttitle>cronica francesa</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8847712</imdbid>
+  <tmdbid>542178</tmdbid>
+  <premiered>2021-10-21</premiered>
+  <releasedate>2021-10-21</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>108</runtime>
+  <tagline>Del Liberty, Kansas Evening Sun</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Searchlight Pictures</studio>
+  <studio>Indian Paintbrush</studio>
+  <studio>American Empirical Pictures</studio>
+  <studio>Studio Babelsberg</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt8847712</uniqueid>
+  <uniqueid type="tmdb">542178</uniqueid>
+  <id>tt8847712</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1732624</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>359:194</aspect>
+        <aspectratio>359:194</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6458</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

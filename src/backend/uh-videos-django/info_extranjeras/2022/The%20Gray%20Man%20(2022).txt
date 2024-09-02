@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El agente de la CIA Court Gentry (Ryan Gosling), alias Sierra Seis, fue sacado de una cárcel federal reclutado por su supervisor, Donald Fitzroy (Billy Bob Thornton) Tras 18 años de servicio, Gentry es uno de los mejores activos autorizados por la Agencia, pero las tornas cambian y se convierte en el objetivo, perseguido por Lloyd Hansen (Chris Evans), un antiguo compañero de la CIA de métodos muy cuestionables. La agente Dani Miranda (Ana de Armas) acaba siendo una inesperada y necesaria aliada que le cubrirá las espaldas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-07-22 09:02:44</dateadded>
+  <title>El agente invisible</title>
+  <originaltitle>The Gray Man</originaltitle>
+  <actor>
+    <name>Ryan Gosling</name>
+    <role>Six</role>
+    <type>Actor</type>
+    <tmdbid>30614</tmdbid>
+    <imdbid>nm0331516</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Lloyd Hansen</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Ana de Armas</name>
+    <role>Dani Miranda</role>
+    <type>Actor</type>
+    <tmdbid>224513</tmdbid>
+    <imdbid>nm1869101</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Bob Thornton</name>
+    <role>Fitzroy</role>
+    <type>Actor</type>
+    <tmdbid>879</tmdbid>
+    <imdbid>nm0000671</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Henwick</name>
+    <role>Suzanne Brewer</role>
+    <type>Actor</type>
+    <tmdbid>1202689</tmdbid>
+    <imdbid>nm3725055</imdbid>
+    <tvdbid>248011</tvdbid>
+  </actor>
+  <actor>
+    <name>Dhanush</name>
+    <role>Avik San</role>
+    <type>Actor</type>
+    <tmdbid>550165</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfre Woodard</name>
+    <role>Margaret Cahill</role>
+    <type>Actor</type>
+    <tmdbid>1981</tmdbid>
+    <imdbid>nm0005569</imdbid>
+    <tvdbid>273563</tvdbid>
+  </actor>
+  <actor>
+    <name>Regé-Jean Page</name>
+    <role>Carmichael</role>
+    <type>Actor</type>
+    <tmdbid>1628687</tmdbid>
+    <imdbid>nm2074546</imdbid>
+  </actor>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Laszlo Sosa</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+    <imdbid>nm0609944</imdbid>
+    <tvdbid>297464</tvdbid>
+  </actor>
+  <actor>
+    <name>Julia Butters</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1651362</tmdbid>
+    <imdbid>nm6253548</imdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Six's Father</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+    <tvdbid>275852</tvdbid>
+  </actor>
+  <actor>
+    <name>Deobia Oparei</name>
+    <role>Dulin</role>
+    <type>Actor</type>
+    <tmdbid>58758</tmdbid>
+    <imdbid>nm0649046</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Kazinsky</name>
+    <role>Perini</role>
+    <type>Actor</type>
+    <tmdbid>1038379</tmdbid>
+    <imdbid>nm2059117</imdbid>
+  </actor>
+  <actor>
+    <name>Daz Crawford</name>
+    <role>Markham</role>
+    <type>Actor</type>
+    <tmdbid>10846</tmdbid>
+    <imdbid>nm0186743</imdbid>
+  </actor>
+  <actor>
+    <name>Callan Mulvey</name>
+    <role>Dining Car</role>
+    <type>Actor</type>
+    <tmdbid>208296</tmdbid>
+    <imdbid>nm0612534</imdbid>
+  </actor>
+  <actor>
+    <name>Charlit Dae</name>
+    <role>The Buyer</role>
+    <type>Actor</type>
+    <tmdbid>2186515</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Crovetti</name>
+    <role>Young Six</role>
+    <type>Actor</type>
+    <tmdbid>1696015</tmdbid>
+    <imdbid>nm7805172</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Castaldi</name>
+    <role>Dawson</role>
+    <type>Actor</type>
+    <tmdbid>1463281</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Tichy</name>
+    <role>Officer Zelezny</role>
+    <type>Actor</type>
+    <tmdbid>3637382</tmdbid>
+  </actor>
+  <actor>
+    <name>Marián Mitaš</name>
+    <role>Ranking Officer</role>
+    <type>Actor</type>
+    <tmdbid>1162341</tmdbid>
+  </actor>
+  <actor>
+    <name>Petr Semerad</name>
+    <role>URNA Captain</role>
+    <type>Actor</type>
+    <tmdbid>2320576</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Aliya Levinson</name>
+    <role>Lead Hansen Tech</role>
+    <type>Actor</type>
+    <tmdbid>2648685</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadiv Molcho</name>
+    <role>Junior Hansen Tech</role>
+    <type>Actor</type>
+    <tmdbid>134499</tmdbid>
+    <imdbid>nm1086150</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Jean-Louis</name>
+    <role>Alex Dumas</role>
+    <type>Actor</type>
+    <tmdbid>105762</tmdbid>
+    <imdbid>nm1097515</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Bartlett</name>
+    <role>Command Center Tech</role>
+    <type>Actor</type>
+    <tmdbid>1030456</tmdbid>
+  </actor>
+  <actor>
+    <name>Eme Ikwuakor</name>
+    <role>Lead Merc</role>
+    <type>Actor</type>
+    <tmdbid>92748</tmdbid>
+    <imdbid>nm2726710</imdbid>
+    <tvdbid>8075508</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick Newall</name>
+    <role>C.I.A. Officer</role>
+    <type>Actor</type>
+    <tmdbid>1193191</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony J. Vorhies</name>
+    <role>C.I.A. Specialist</role>
+    <type>Actor</type>
+    <tmdbid>2079061</tmdbid>
+  </actor>
+  <actor>
+    <name>Quinn R. Somasavachai</name>
+    <role>Young Boy</role>
+    <type>Actor</type>
+    <tmdbid>3637396</tmdbid>
+  </actor>
+  <actor>
+    <name>Siri Schwartzberg</name>
+    <role>Old Woman</role>
+    <type>Actor</type>
+    <tmdbid>3637397</tmdbid>
+  </actor>
+  <actor>
+    <name>Faye Nightingale</name>
+    <role>Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>3599094</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Minajev</name>
+    <role>Russian Orthodox Priest</role>
+    <type>Actor</type>
+    <tmdbid>1253827</tmdbid>
+  </actor>
+  <actor>
+    <name>DJ Shy</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>3637398</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Russo-Otstot</name>
+    <role>C.I.A. Tech</role>
+    <type>Actor</type>
+    <tmdbid>1751775</tmdbid>
+    <imdbid>nm0962600</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Blumberg</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>59172</tmdbid>
+  </actor>
+  <actor>
+    <name>Becky Wu</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1186482</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Darkina</name>
+    <role>Czech Orderly</role>
+    <type>Actor</type>
+    <tmdbid>2427359</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Walker White</name>
+    <role>Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2185196</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaipo Schwab</name>
+    <role>Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3637402</tmdbid>
+  </actor>
+  <actor>
+    <name>Emanuel Felix</name>
+    <role>Chopper Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3637403</tmdbid>
+  </actor>
+  <actor>
+    <name>Kendall Wells</name>
+    <role>Australian Team Leader</role>
+    <type>Actor</type>
+    <tmdbid>1384020</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Anthony Rogers</name>
+    <role>Intense Man</role>
+    <type>Actor</type>
+    <tmdbid>1779567</tmdbid>
+    <imdbid>nm3631621</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Daru</name>
+    <role>Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3061301</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleg Kim</name>
+    <role>Drunken Thai Guy</role>
+    <type>Actor</type>
+    <tmdbid>3010605</tmdbid>
+  </actor>
+  <actor>
+    <name>Irina Aylyarova</name>
+    <role>Czech Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3637406</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Harris</name>
+    <role>Czech Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1199292</tmdbid>
+  </actor>
+  <actor>
+    <name>Karel Heřmánek</name>
+    <role>Czech Injured Man</role>
+    <type>Actor</type>
+    <tmdbid>228136</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Twarowska</name>
+    <role>Czech Injured Woman</role>
+    <type>Actor</type>
+    <tmdbid>1936822</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Carliez</name>
+    <role>Patrol Merc</role>
+    <type>Actor</type>
+    <tmdbid>3637413</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Russo</name>
+    <role>Teenage Girl #1</role>
+    <type>Actor</type>
+    <tmdbid>3637414</tmdbid>
+  </actor>
+  <actor>
+    <name>Lia Russo</name>
+    <role>Teenage Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>2297907</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Marquez</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>3637417</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent McGee</name>
+    <role>Erik Carver</role>
+    <type>Actor</type>
+    <tmdbid>1480044</tmdbid>
+    <imdbid>nm4230395</imdbid>
+  </actor>
+  <actor>
+    <name>Belén Cusí</name>
+    <role>Hansen Exec</role>
+    <type>Actor</type>
+    <tmdbid>3637420</tmdbid>
+  </actor>
+  <actor>
+    <name>Faouzi Brahimi</name>
+    <role>Machine Gun Merc</role>
+    <type>Actor</type>
+    <tmdbid>2224151</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Abell</name>
+    <role>C.I.A. Agent #1</role>
+    <type>Actor</type>
+    <tmdbid>3637421</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Watts</name>
+    <role>C.I.A. Agent #2</role>
+    <type>Actor</type>
+    <tmdbid>3637422</tmdbid>
+  </actor>
+  <actor>
+    <name>Steffen Aaron Dziczek</name>
+    <role>C.I.A. Agent #3</role>
+    <type>Actor</type>
+    <tmdbid>3637423</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Stone</name>
+    <role>C.I.A. Agent #4</role>
+    <type>Actor</type>
+    <tmdbid>3637424</tmdbid>
+  </actor>
+  <actor>
+    <name>R. Ben Parker</name>
+    <role>Medivac EMT #1</role>
+    <type>Actor</type>
+    <tmdbid>3637428</tmdbid>
+  </actor>
+  <actor>
+    <name>Swen Gillberg</name>
+    <role>Medivac EMT #2</role>
+    <type>Actor</type>
+    <tmdbid>2014531</tmdbid>
+  </actor>
+  <actor>
+    <name>William Barkley</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>3637430</tmdbid>
+  </actor>
+  <actor>
+    <name>Stepan Radina</name>
+    <role>Funeral Gunner</role>
+    <type>Actor</type>
+    <tmdbid>3637435</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Russo</name>
+    <role>CIA DDO Fine</role>
+    <type>Actor</type>
+    <tmdbid>19272</tmdbid>
+    <imdbid>nm0751648</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Stephen Montgomery</name>
+    <role>MP #1</role>
+    <type>Actor</type>
+    <tmdbid>1935609</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Bellows</name>
+    <role>MP #2</role>
+    <type>Actor</type>
+    <tmdbid>583885</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Forget</name>
+    <role>Interrogation Subject</role>
+    <type>Actor</type>
+    <tmdbid>1786275</tmdbid>
+  </actor>
+  <actor>
+    <name>Boone Platt</name>
+    <role>Masked Man</role>
+    <type>Actor</type>
+    <tmdbid>2024835</tmdbid>
+  </actor>
+  <actor>
+    <name>Gee Alexander</name>
+    <role>Goon</role>
+    <type>Actor</type>
+    <tmdbid>1401076</tmdbid>
+    <imdbid>nm3699149</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Kunkel</name>
+    <role>CIA Deputy</role>
+    <type>Actor</type>
+    <tmdbid>3394333</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Sievert</name>
+    <role>1995 De-Age Double #1</role>
+    <type>Actor</type>
+    <tmdbid>3637441</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Tarpley</name>
+    <role>2003 De-Age Double #4</role>
+    <type>Actor</type>
+    <tmdbid>2247561</tmdbid>
+  </actor>
+  <actor>
+    <name>Steffen Oziczek</name>
+    <role>2003 De-Age Double #1</role>
+    <type>Actor</type>
+    <tmdbid>3637445</tmdbid>
+  </actor>
+  <director tmdbid="19271" imdbid="nm0751577">Anthony Russo</director>
+  <director tmdbid="19272" imdbid="nm0751648">Joe Russo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BmllggGO4pM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=POLixFkmK9A</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pfLY_2f44pc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fnsb3VuBms8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OryyR6ad2rQ</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>agente invisible</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1649418</imdbid>
+  <tmdbid>725201</tmdbid>
+  <premiered>2022-07-13</premiered>
+  <releasedate>2022-07-13</releasedate>
+  <criticrating>46</criticrating>
+  <runtime>129</runtime>
+  <country>United States of America</country>
+  <country>Czech Republic</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Stillking Films</studio>
+  <studio>Roth-Kirschenbaum Films</studio>
+  <studio>AGBO</studio>
+  <set tmdbcolid="1005134">
+    <name>The Gray Man Collection</name>
+  </set>
+  <uniqueid type="imdb">tt1649418</uniqueid>
+  <uniqueid type="tmdb">725201</uniqueid>
+  <id>tt1649418</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>867414</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7742</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

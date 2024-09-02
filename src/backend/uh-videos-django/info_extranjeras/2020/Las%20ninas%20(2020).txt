@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Celia, una niña de 11 años, estudia en un colegio de monjas de Zaragoza y vive con su madre. Brisa, una nueva compañera recién llegada de Barcelona, la empuja hacia una nueva etapa en su vida: la adolescencia. En este viaje, en la España de la Expo y de las Olimpiadas del año 92, Celia descubre que la vida está hecha de muchas verdades y algunas mentiras.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-08 09:25:56</dateadded>
+  <title>Las niñas</title>
+  <originaltitle>Las niñas</originaltitle>
+  <actor>
+    <name>Andrea Fandos</name>
+    <role>Celia</role>
+    <type>Actor</type>
+    <tmdbid>2374754</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia de Molina</name>
+    <role>Adela</role>
+    <type>Actor</type>
+    <tmdbid>1270686</tmdbid>
+    <imdbid>nm5131296</imdbid>
+    <tvdbid>499261</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Arnao</name>
+    <role>Brisa</role>
+    <type>Actor</type>
+    <tmdbid>2417344</tmdbid>
+    <imdbid>nm10863257</imdbid>
+    <tvdbid>8215626</tvdbid>
+  </actor>
+  <actor>
+    <name>Julia Sierra</name>
+    <role>Cristina</role>
+    <type>Actor</type>
+    <tmdbid>2530104</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Piñón</name>
+    <role>Mother Consuelo</role>
+    <type>Actor</type>
+    <tmdbid>1154734</tmdbid>
+    <imdbid>nm1412926</imdbid>
+    <tvdbid>577076</tvdbid>
+  </actor>
+  <actor>
+    <name>Leonor Bruna</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2991090</tmdbid>
+    <imdbid>nm0116022</imdbid>
+  </actor>
+  <actor>
+    <name>Ainara Nieto</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>2144505</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa Martínez</name>
+    <role>Leyre</role>
+    <type>Actor</type>
+    <tmdbid>2991091</tmdbid>
+    <imdbid>nm9947338</imdbid>
+  </actor>
+  <director tmdbid="2025649">Pilar Palomero</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ttnx4P1lLnE</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>Las ninas</sorttitle>
+  <imdbid>tt10434142</imdbid>
+  <tmdbid>619443</tmdbid>
+  <premiered>2020-09-04</premiered>
+  <releasedate>2020-09-04</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>100</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Aragón Televisión</studio>
+  <studio>BTeam Pictures</studio>
+  <studio>Inicia Films</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt10434142</uniqueid>
+  <uniqueid type="tmdb">619443</uniqueid>
+  <id>tt10434142</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>2088207</bitrate>
+        <width>552</width>
+        <height>400</height>
+        <aspect>69:50</aspect>
+        <aspectratio>69:50</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6022</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

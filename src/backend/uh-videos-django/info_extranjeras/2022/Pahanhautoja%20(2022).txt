@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven gimnasta que intenta desesperadamente complacer a su exigente madre, descubre un extraño huevo. Ella lo esconde y lo mantiene caliente, pero cuando sale del cascarón, lo que emerge los sorprende a todos.]]></plot>
+  <outline><![CDATA[Ella está saliendo de su caparazón.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-11 12:13:10</dateadded>
+  <title>Ego</title>
+  <originaltitle>Pahanhautoja</originaltitle>
+  <actor>
+    <name>Siiri Solalinna</name>
+    <role>Tinja</role>
+    <type>Actor</type>
+    <tmdbid>2335631</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Heikkilä</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>2294255</tmdbid>
+  </actor>
+  <actor>
+    <name>Jani Volanen</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>88856</tmdbid>
+    <tvdbid>476791</tvdbid>
+  </actor>
+  <actor>
+    <name>Reino Nordin</name>
+    <role>Tero</role>
+    <type>Actor</type>
+    <tmdbid>148370</tmdbid>
+  </actor>
+  <actor>
+    <name>Oiva Ollila</name>
+    <role>Matias</role>
+    <type>Actor</type>
+    <tmdbid>2524909</tmdbid>
+  </actor>
+  <actor>
+    <name>Saija Lentonen</name>
+    <role>Coach</role>
+    <type>Actor</type>
+    <tmdbid>148336</tmdbid>
+  </actor>
+  <actor>
+    <name>Ida Määttänen</name>
+    <role>Reetta</role>
+    <type>Actor</type>
+    <tmdbid>2524912</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Leppikorpi</name>
+    <role>Gym friend</role>
+    <type>Actor</type>
+    <tmdbid>3010479</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonna Aaltonen</name>
+    <role>Alli early stages 1</role>
+    <type>Actor</type>
+    <tmdbid>3010483</tmdbid>
+  </actor>
+  <actor>
+    <name>Hertta Karen</name>
+    <role>Alli early stages 2</role>
+    <type>Actor</type>
+    <tmdbid>3010485</tmdbid>
+  </actor>
+  <actor>
+    <name>Hertta Nieminen</name>
+    <role>Gym friend</role>
+    <type>Actor</type>
+    <tmdbid>3779118</tmdbid>
+  </actor>
+  <actor>
+    <name>Aada Punakivi</name>
+    <role>Gym friend</role>
+    <type>Actor</type>
+    <tmdbid>3779119</tmdbid>
+  </actor>
+  <actor>
+    <name>Miroslava Agejeva</name>
+    <role>Helmi</role>
+    <type>Actor</type>
+    <tmdbid>3779121</tmdbid>
+  </actor>
+  <director tmdbid="2020204">Hanna Bergholm</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8b3lkpOKsuA</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>Ego</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt12519030</imdbid>
+  <tmdbid>517302</tmdbid>
+  <premiered>2022-03-04</premiered>
+  <releasedate>2022-03-04</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>91</runtime>
+  <tagline>Ella está saliendo de su caparazón.</tagline>
+  <country>Belgium</country>
+  <country>Finland</country>
+  <country>Latvia</country>
+  <country>Norway</country>
+  <country>Sweden</country>
+  <genre>Terror</genre>
+  <genre>Fantasía</genre>
+  <studio>Film i Väst</studio>
+  <studio>uMedia</studio>
+  <studio>Silva Mysterium Oy</studio>
+  <studio>IFC Midnight</studio>
+  <studio>HOBAB</studio>
+  <uniqueid type="imdb">tt12519030</uniqueid>
+  <uniqueid type="tmdb">517302</uniqueid>
+  <id>tt12519030</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>760796</bitrate>
+        <width>720</width>
+        <height>384</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5442</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

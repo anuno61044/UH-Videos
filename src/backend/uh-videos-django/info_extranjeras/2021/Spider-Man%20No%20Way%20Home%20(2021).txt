@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.]]></plot>
+  <outline><![CDATA[El multiverso desatado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-11 09:30:20</dateadded>
+  <title>Spider-Man: No Way Home</title>
+  <originaltitle>Spider-Man: No Way Home</originaltitle>
+  <actor>
+    <name>Tom Holland</name>
+    <role>Peter Parker / Spider-Man</role>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <tvdbid>287561</tvdbid>
+  </actor>
+  <actor>
+    <name>Zendaya</name>
+    <role>Michelle 'MJ' Jones</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+    <tvdbid>327412</tvdbid>
+  </actor>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Stephen Strange / Doctor Strange</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+    <tvdbid>292578</tvdbid>
+  </actor>
+  <actor>
+    <name>Jacob Batalon</name>
+    <role>Ned Leeds</role>
+    <type>Actor</type>
+    <tmdbid>1649152</tmdbid>
+    <imdbid>nm8188622</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Favreau</name>
+    <role>Harold 'Happy' Hogan</role>
+    <type>Actor</type>
+    <tmdbid>15277</tmdbid>
+    <imdbid>nm0269463</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Foxx</name>
+    <role>Max Dillon / Electro</role>
+    <type>Actor</type>
+    <tmdbid>134</tmdbid>
+    <imdbid>nm0004937</imdbid>
+    <tvdbid>278135</tvdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Norman Osborn / Green Goblin</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <actor>
+    <name>Alfred Molina</name>
+    <role>Dr. Otto Octavius / Doctor Octopus</role>
+    <type>Actor</type>
+    <tmdbid>658</tmdbid>
+    <imdbid>nm0000547</imdbid>
+    <tvdbid>272145</tvdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wong</name>
+    <role>Wong</role>
+    <type>Actor</type>
+    <tmdbid>30082</tmdbid>
+    <imdbid>nm0938950</imdbid>
+    <tvdbid>273957</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Revolori</name>
+    <role>Eugene 'Flash' Thompson</role>
+    <type>Actor</type>
+    <tmdbid>1291350</tmdbid>
+    <imdbid>nm1727825</imdbid>
+    <tvdbid>395375</tvdbid>
+  </actor>
+  <actor>
+    <name>Marisa Tomei</name>
+    <role>May Parker</role>
+    <type>Actor</type>
+    <tmdbid>3141</tmdbid>
+    <imdbid>nm0000673</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Garfield</name>
+    <role>Peter Parker / Spider-Man</role>
+    <type>Actor</type>
+    <tmdbid>37625</tmdbid>
+    <imdbid>nm1940449</imdbid>
+    <tvdbid>303161</tvdbid>
+  </actor>
+  <actor>
+    <name>Tobey Maguire</name>
+    <role>Peter Parker / Spider-Man</role>
+    <type>Actor</type>
+    <tmdbid>2219</tmdbid>
+    <imdbid>nm0001497</imdbid>
+    <tvdbid>327424</tvdbid>
+  </actor>
+  <actor>
+    <name>Angourie Rice</name>
+    <role>Betty Brant</role>
+    <type>Actor</type>
+    <tmdbid>1265629</tmdbid>
+    <imdbid>nm3886028</imdbid>
+    <tvdbid>685631</tvdbid>
+  </actor>
+  <actor>
+    <name>Arian Moayed</name>
+    <role>Agent Cleary</role>
+    <type>Actor</type>
+    <tmdbid>457386</tmdbid>
+    <tvdbid>316718</tvdbid>
+  </actor>
+  <actor>
+    <name>Paula Newsome</name>
+    <role>MIT Assistant Vice Chancellor</role>
+    <type>Actor</type>
+    <tmdbid>17420</tmdbid>
+    <tvdbid>275388</tvdbid>
+  </actor>
+  <actor>
+    <name>Hannibal Buress</name>
+    <role>Coach Wilson</role>
+    <type>Actor</type>
+    <tmdbid>500427</tmdbid>
+    <imdbid>nm2868110</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Starr</name>
+    <role>Mr. Harrington</role>
+    <type>Actor</type>
+    <tmdbid>41089</tmdbid>
+    <imdbid>nm0771414</imdbid>
+    <tvdbid>363029</tvdbid>
+  </actor>
+  <actor>
+    <name>J.B. Smoove</name>
+    <role>Mr. Dell</role>
+    <type>Actor</type>
+    <tmdbid>65920</tmdbid>
+    <imdbid>nm1356578</imdbid>
+    <tvdbid>321334</tvdbid>
+  </actor>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>J. Jonah Jameson</role>
+    <type>Actor</type>
+    <tmdbid>18999</tmdbid>
+    <imdbid>nm0799777</imdbid>
+    <tvdbid>271472</tvdbid>
+  </actor>
+  <actor>
+    <name>Rhys Ifans</name>
+    <role>Dr. Curt Connors / The Lizard</role>
+    <type>Actor</type>
+    <tmdbid>7026</tmdbid>
+    <imdbid>nm0406975</imdbid>
+    <tvdbid>462666</tvdbid>
+  </actor>
+  <actor>
+    <name>Charlie Cox</name>
+    <role>Matt Murdock</role>
+    <type>Actor</type>
+    <tmdbid>23458</tmdbid>
+    <imdbid>nm1214435</imdbid>
+    <tvdbid>475230</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Haden Church</name>
+    <role>Flint Marko / Sandman</role>
+    <type>Actor</type>
+    <tmdbid>19159</tmdbid>
+    <imdbid>nm0002006</imdbid>
+  </actor>
+  <actor>
+    <name>Haroon Kahn</name>
+    <role>Apprentice</role>
+    <type>Actor</type>
+    <tmdbid>2996576</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Fong</name>
+    <role>Apprentice</role>
+    <type>Actor</type>
+    <tmdbid>3462666</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Rivera</name>
+    <role>Ned's Lola</role>
+    <type>Actor</type>
+    <tmdbid>3353015</tmdbid>
+  </actor>
+  <actor>
+    <name>Rudy Eisenzopf</name>
+    <role>Arena Bystander</role>
+    <type>Actor</type>
+    <tmdbid>1651953</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Cardoso</name>
+    <role>Arena Bystander</role>
+    <type>Actor</type>
+    <tmdbid>3353017</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Sam</name>
+    <role>Arena Bystander</role>
+    <type>Actor</type>
+    <tmdbid>3353016</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Dunlap</name>
+    <role>Dad in Car</role>
+    <type>Actor</type>
+    <tmdbid>3353020</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben VanderMey</name>
+    <role>Man in Car</role>
+    <type>Actor</type>
+    <tmdbid>1455813</tmdbid>
+  </actor>
+  <actor>
+    <name>Zany Dunlap</name>
+    <role>Mom in Car</role>
+    <type>Actor</type>
+    <tmdbid>3353021</tmdbid>
+  </actor>
+  <actor>
+    <name>B. Clutch Dunlap</name>
+    <role>Kid in Car</role>
+    <type>Actor</type>
+    <tmdbid>3353022</tmdbid>
+  </actor>
+  <actor>
+    <name>Minnah Dunlap</name>
+    <role>Kid in Car</role>
+    <type>Actor</type>
+    <tmdbid>3353024</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Weeks</name>
+    <role>Agent Foster</role>
+    <type>Actor</type>
+    <tmdbid>168875</tmdbid>
+    <imdbid>nm0917314</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Konow</name>
+    <role>Donut Shop Boss</role>
+    <type>Actor</type>
+    <tmdbid>1460925</tmdbid>
+  </actor>
+  <actor>
+    <name>Carol Anne Dines</name>
+    <role>Donut Shop Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2933171</tmdbid>
+  </actor>
+  <actor>
+    <name>Anisa Nyell Johnson</name>
+    <role>School Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2231998</tmdbid>
+  </actor>
+  <actor>
+    <name>Willie Burton</name>
+    <role>May's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3353038</tmdbid>
+  </actor>
+  <actor>
+    <name>Mallory Hoff</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2486882</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Clarkson</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>146024</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina Ting Chen</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1613974</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Mitchel Owenby</name>
+    <role>Daily Bugle Lackey</role>
+    <type>Actor</type>
+    <tmdbid>3144298</tmdbid>
+  </actor>
+  <actor>
+    <name>Glenn Keogh</name>
+    <role>British Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1347386</tmdbid>
+  </actor>
+  <actor>
+    <name>Paris Benjamin</name>
+    <role>British Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2044224</tmdbid>
+    <imdbid>nm2940434</imdbid>
+  </actor>
+  <actor>
+    <name>Jwaundace Candece</name>
+    <role>Damage Control Agent</role>
+    <type>Actor</type>
+    <tmdbid>1370799</tmdbid>
+    <imdbid>nm1330195</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor St. Clair</name>
+    <role>Protestor</role>
+    <type>Actor</type>
+    <tmdbid>1382356</tmdbid>
+    <imdbid>nm1193262</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Cila</name>
+    <role>Crowd Member</role>
+    <type>Actor</type>
+    <tmdbid>1945694</tmdbid>
+  </actor>
+  <actor>
+    <name>Darnell Appling</name>
+    <role>Crowd Member</role>
+    <type>Actor</type>
+    <tmdbid>3352136</tmdbid>
+  </actor>
+  <actor>
+    <name>Rolando Fernandez</name>
+    <role>Crowd Member</role>
+    <type>Actor</type>
+    <tmdbid>3353039</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Force</name>
+    <role>Donut Shop Patron</role>
+    <type>Actor</type>
+    <tmdbid>3353041</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Le</name>
+    <role>Guy with Phone</role>
+    <type>Actor</type>
+    <tmdbid>3347286</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Meminger</name>
+    <role>NY1 Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3353044</tmdbid>
+  </actor>
+  <actor>
+    <name>Frederick A. Brown</name>
+    <role>Fred the Janitor</role>
+    <type>Actor</type>
+    <tmdbid>3353045</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristo Fernández</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2627590</tmdbid>
+    <tvdbid>8178286</tvdbid>
+  </actor>
+  <actor>
+    <name>Clay Savage</name>
+    <role>Suit Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>190611</tmdbid>
+    <imdbid>nm1383407</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Eddie Brock / Venom (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+    <tvdbid>373728</tvdbid>
+  </actor>
+  <actor>
+    <name>Jake Gyllenhaal</name>
+    <role>Mysterio / Quentin Beck (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>131</tmdbid>
+    <imdbid>nm0350453</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Karales</name>
+    <role>Bodega Customer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3476760</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Aponte</name>
+    <role>Media Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2002674</tmdbid>
+  </actor>
+  <actor>
+    <name>John Barnes</name>
+    <role>School Protester (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3417117</tmdbid>
+  </actor>
+  <director tmdbid="1293994" imdbid="nm1218281">Jon Watts</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Df00ZNYEcAY</trailer>
+  <rating>8.2</rating>
+  <year>2021</year>
+  <sorttitle>Spider-Man: No Way Home</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10872600</imdbid>
+  <tmdbid>634649</tmdbid>
+  <premiered>2021-12-15</premiered>
+  <releasedate>2021-12-15</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>148</runtime>
+  <tagline>El multiverso desatado.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>Marvel Studios</studio>
+  <studio>Pascal Pictures</studio>
+  <set tmdbcolid="531241">
+    <name>Spider-Man (Vengadores) - Colección</name>
+  </set>
+  <uniqueid type="tmdb">634649</uniqueid>
+  <uniqueid type="imdb">tt10872600</uniqueid>
+  <id>tt10872600</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1387707</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>148</duration>
+        <durationinseconds>8889</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

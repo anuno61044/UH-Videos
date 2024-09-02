@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Roma, años 70. Clara y Felice acaban de mudarse a un piso nuevo. Su matrimonio está acabado: ya no se aman, pero son incapaces de separarse. Lo único que los mantiene unidos son sus hijos, en los que Clara vuelca su deseo de libertad. Adriana, la mayor, acaba de cumplir 12 años y presencia muy de cerca los estados de ánimo de Clara y las tensiones cada vez mayores entre sus padres. Adriana rechaza su nombre y su identidad, quiere convencer a todo el mundo de que es un chico, y su obstinación hace que el ya frágil equilibrio familiar alcance un punto de ruptura. Mientras los niños esperan una señal que los guíe, todo cambia a su alrededor y en su interior.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-22 10:34:29</dateadded>
+  <title>L'immensità</title>
+  <originaltitle>L'immensità</originaltitle>
+  <actor>
+    <name>Penélope Cruz</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>955</tmdbid>
+    <imdbid>nm0004851</imdbid>
+  </actor>
+  <actor>
+    <name>Vincenzo Amato</name>
+    <role>Felice</role>
+    <type>Actor</type>
+    <tmdbid>20588</tmdbid>
+    <imdbid>nm0024188</imdbid>
+  </actor>
+  <actor>
+    <name>Luana Giuliani</name>
+    <role>Adri/Andrea</role>
+    <type>Actor</type>
+    <tmdbid>3771418</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurora Quattrocchi</name>
+    <role>Bisnonna</role>
+    <type>Actor</type>
+    <tmdbid>20589</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Arvigo</name>
+    <role>Ada</role>
+    <type>Actor</type>
+    <tmdbid>72244</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Nardi</name>
+    <role>Donna Pía</role>
+    <type>Actor</type>
+    <tmdbid>1356274</tmdbid>
+  </actor>
+  <actor>
+    <name>Filippo Pucillo</name>
+    <type>Actor</type>
+    <tmdbid>20591</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Casisa</name>
+    <type>Actor</type>
+    <tmdbid>20590</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrizio Francioni</name>
+    <role>Gino</role>
+    <type>Actor</type>
+    <tmdbid>3771421</tmdbid>
+  </actor>
+  <actor>
+    <name>Penélope Nieto Conti</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>3771423</tmdbid>
+  </actor>
+  <actor>
+    <name>India Santella</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>3771425</tmdbid>
+  </actor>
+  <actor>
+    <name>María Chiara Goretti</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>3771422</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita de Donato</name>
+    <role>Marina</role>
+    <type>Actor</type>
+    <tmdbid>1509916</tmdbid>
+  </actor>
+  <actor>
+    <name>Alvia Reale</name>
+    <role>Nonna</role>
+    <type>Actor</type>
+    <tmdbid>1331864</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Pattavina</name>
+    <role>Bisnonno</role>
+    <type>Actor</type>
+    <tmdbid>553183</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlo Gallo</name>
+    <role>Alberto</role>
+    <type>Actor</type>
+    <tmdbid>3639988</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariangela Granelli</name>
+    <role>Dottoressa</role>
+    <type>Actor</type>
+    <tmdbid>3616165</tmdbid>
+  </actor>
+  <director tmdbid="20587">Emanuele Crialese</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XFSeAuG2oxQ</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>L'immensita</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt13051724</imdbid>
+  <tmdbid>770724</tmdbid>
+  <premiered>2022-09-15</premiered>
+  <releasedate>2022-09-15</releasedate>
+  <runtime>94</runtime>
+  <country>France</country>
+  <country>Italy</country>
+  <genre>Drama</genre>
+  <studio>Canal+</studio>
+  <studio>Pathé</studio>
+  <studio>France 3</studio>
+  <studio>Warner Bros Pictures Italia</studio>
+  <studio>Chapter 2</studio>
+  <studio>Wildside</studio>
+  <studio>Toscana Film Commission</studio>
+  <studio>Regione Toscana</studio>
+  <uniqueid type="tmdb">770724</uniqueid>
+  <uniqueid type="imdb">tt13051724</uniqueid>
+  <id>tt13051724</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1848983</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5633</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

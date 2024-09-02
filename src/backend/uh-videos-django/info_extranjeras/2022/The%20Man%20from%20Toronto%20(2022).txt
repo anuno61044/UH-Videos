@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El asesino más mortal del mundo es conocido como "El hombre de Toronto", y Teddy es el mayor desastre de Nueva York. Ambos se encontrarán en un Airbnb y el destino les obliga a formar equipo para salvarse. ¿Conseguirán aguantarse el uno al otro?]]></plot>
+  <outline><![CDATA[El sicario se encuentra con el muerto.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-24 11:57:14</dateadded>
+  <title>El hombre de Toronto</title>
+  <originaltitle>The Man from Toronto</originaltitle>
+  <actor>
+    <name>Kevin Hart</name>
+    <role>Teddy</role>
+    <type>Actor</type>
+    <tmdbid>55638</tmdbid>
+    <imdbid>nm0366389</imdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>The Man From Toronto</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+    <tvdbid>248035</tvdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Mathews</name>
+    <role>Lori</role>
+    <type>Actor</type>
+    <tmdbid>1976475</tmdbid>
+  </actor>
+  <actor>
+    <name>Lela Loren</name>
+    <role>Daniela Marin</role>
+    <type>Actor</type>
+    <tmdbid>203781</tmdbid>
+    <imdbid>nm2187457</imdbid>
+  </actor>
+  <actor>
+    <name>Pierson Fodé</name>
+    <role>The Man From Miami</role>
+    <type>Actor</type>
+    <tmdbid>1310521</tmdbid>
+  </actor>
+  <actor>
+    <name>Jencarlos Canela</name>
+    <role>Agent Santoro</role>
+    <type>Actor</type>
+    <tmdbid>564086</tmdbid>
+    <imdbid>nm2808554</imdbid>
+    <tvdbid>7876604</tvdbid>
+  </actor>
+  <actor>
+    <name>Ellen Barkin</name>
+    <role>The Handler</role>
+    <type>Actor</type>
+    <tmdbid>6913</tmdbid>
+    <imdbid>nm0000289</imdbid>
+  </actor>
+  <actor>
+    <name>Ronnie Rowe</name>
+    <role>Agent Davis</role>
+    <type>Actor</type>
+    <tmdbid>2095699</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro De Hoyos</name>
+    <role>Colonel Marin</role>
+    <type>Actor</type>
+    <tmdbid>2768216</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Archer</name>
+    <role>Oscar</role>
+    <type>Actor</type>
+    <tmdbid>1024492</tmdbid>
+    <imdbid>nm1353738</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Drummond</name>
+    <role>Agent Lawrence</role>
+    <type>Actor</type>
+    <tmdbid>984711</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Roach</name>
+    <role>Marty</role>
+    <type>Actor</type>
+    <tmdbid>5921</tmdbid>
+    <imdbid>nm0730045</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Garrow</name>
+    <role>Brennan</role>
+    <type>Actor</type>
+    <tmdbid>190961</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason MacDonald</name>
+    <role>Coughlin</role>
+    <type>Actor</type>
+    <tmdbid>117311</tmdbid>
+    <imdbid>nm0531772</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Gatehouse</name>
+    <role>Todd</role>
+    <type>Actor</type>
+    <tmdbid>131335</tmdbid>
+    <imdbid>nm2497549</imdbid>
+  </actor>
+  <actor>
+    <name>Marqus Bobesich</name>
+    <role>The Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1793716</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Ampudia</name>
+    <role>Green Guy</role>
+    <type>Actor</type>
+    <tmdbid>1807965</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrin Baker</name>
+    <role>Green Guy</role>
+    <type>Actor</type>
+    <tmdbid>171726</tmdbid>
+  </actor>
+  <actor>
+    <name>Vijay Mehta</name>
+    <role>Green Guy</role>
+    <type>Actor</type>
+    <tmdbid>1239635</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Yang</name>
+    <role>Green Guy</role>
+    <type>Actor</type>
+    <tmdbid>3401591</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kash</name>
+    <role>Detective Elkins</role>
+    <type>Actor</type>
+    <tmdbid>10210</tmdbid>
+    <imdbid>nm0440511</imdbid>
+  </actor>
+  <actor>
+    <name>Andres Jaramillo</name>
+    <role>Puerto Rico Tailor</role>
+    <type>Actor</type>
+    <tmdbid>3666110</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Yeboah</name>
+    <role>Junior Cop</role>
+    <type>Actor</type>
+    <tmdbid>3666112</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia-Kay Markson</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>2537383</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Chiu</name>
+    <role>L'Ambassadeur Waiter</role>
+    <type>Actor</type>
+    <tmdbid>2835742</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Oh</name>
+    <role>FBI Tech</role>
+    <type>Actor</type>
+    <tmdbid>2394821</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorly Jean-Louis</name>
+    <role>Maitre d'</role>
+    <type>Actor</type>
+    <tmdbid>1622605</tmdbid>
+  </actor>
+  <actor>
+    <name>Felipe Aukai</name>
+    <role>President Arvito</role>
+    <type>Actor</type>
+    <tmdbid>2434765</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Lall</name>
+    <role>Outside Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3666114</tmdbid>
+  </actor>
+  <actor>
+    <name>Tig Fong</name>
+    <role>Philip</role>
+    <type>Actor</type>
+    <tmdbid>190917</tmdbid>
+    <imdbid>nm0284609</imdbid>
+  </actor>
+  <actor>
+    <name>Al Vrkljan</name>
+    <role>Stuart</role>
+    <type>Actor</type>
+    <tmdbid>1075146</tmdbid>
+    <imdbid>nm1214249</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Abella</name>
+    <role>Gerome</role>
+    <type>Actor</type>
+    <tmdbid>3666115</tmdbid>
+  </actor>
+  <actor>
+    <name>Cherie D'Elia</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2246256</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Abalos</name>
+    <role>Henry</role>
+    <type>Actor</type>
+    <tmdbid>1087583</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Casey</name>
+    <role>Betty</role>
+    <type>Actor</type>
+    <tmdbid>3666116</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Gordin Shore</name>
+    <role>Food Critic</role>
+    <type>Actor</type>
+    <tmdbid>2120213</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomohisa Yamashita</name>
+    <role>The Man From Tokyo</role>
+    <type>Actor</type>
+    <tmdbid>1229895</tmdbid>
+    <tvdbid>7879449</tvdbid>
+  </actor>
+  <actor>
+    <name>Oleg Taktarov</name>
+    <role>The Man From Moscow</role>
+    <type>Actor</type>
+    <tmdbid>77351</tmdbid>
+    <imdbid>nm0847727</imdbid>
+  </actor>
+  <actor>
+    <name>Glenn Ennis</name>
+    <role>The Man From Tacoma</role>
+    <type>Actor</type>
+    <tmdbid>1233165</tmdbid>
+    <imdbid>nm1029283</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Howell</name>
+    <role>The Man From Tacoma</role>
+    <type>Actor</type>
+    <tmdbid>1849385</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Shuker</name>
+    <role>The Man From Tacoma</role>
+    <type>Actor</type>
+    <tmdbid>2781469</tmdbid>
+  </actor>
+  <actor>
+    <name>Dalton Derek</name>
+    <role>Intense Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1802603</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Cruz</name>
+    <role>Intense Waiter</role>
+    <type>Actor</type>
+    <tmdbid>2400479</tmdbid>
+  </actor>
+  <actor>
+    <name>Grisha Pasternak</name>
+    <role>Croupier</role>
+    <type>Actor</type>
+    <tmdbid>1206085</tmdbid>
+  </actor>
+  <actor>
+    <name>Natallia Poliveanii</name>
+    <role>Woman with Gloves</role>
+    <type>Actor</type>
+    <tmdbid>3666120</tmdbid>
+  </actor>
+  <actor>
+    <name>Val Ovtcharov</name>
+    <role>Casino Manager</role>
+    <type>Actor</type>
+    <tmdbid>1888436</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Jaehyun Park</name>
+    <role>Second-in-Command</role>
+    <type>Actor</type>
+    <tmdbid>2588171</tmdbid>
+  </actor>
+  <actor>
+    <name>Tricia Black</name>
+    <role>Car Rental Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2588390</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Yoo</name>
+    <role>Shady CEO</role>
+    <type>Actor</type>
+    <tmdbid>2102505</tmdbid>
+    <imdbid>nm0948580</imdbid>
+  </actor>
+  <actor>
+    <name>Yui Ugai</name>
+    <role>Cute Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3666124</tmdbid>
+  </actor>
+  <director tmdbid="143059" imdbid="nm1449018">Patrick Hughes</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=urqy8DrcGBs</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>hombre de Toronto</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11671006</imdbid>
+  <tmdbid>667739</tmdbid>
+  <premiered>2022-12-23</premiered>
+  <releasedate>2022-12-23</releasedate>
+  <criticrating>23</criticrating>
+  <runtime>112</runtime>
+  <tagline>El sicario se encuentra con el muerto.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <studio>Sony Pictures</studio>
+  <studio>Escape Artists</studio>
+  <studio>Bron Studios</studio>
+  <uniqueid type="imdb">tt11671006</uniqueid>
+  <uniqueid type="tmdb">667739</uniqueid>
+  <id>tt11671006</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>999549</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6723</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.]]></plot>
+  <outline><![CDATA[Todos pagamos por nuestros crímenes al final.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:48:33</dateadded>
+  <title>Capone</title>
+  <originaltitle>Capone</originaltitle>
+  <actor>
+    <name>Tom Hardy</name>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+    <tvdbid>373728</tvdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+    <tvdbid>266557</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Dillon</name>
+    <type>Actor</type>
+    <tmdbid>2876</tmdbid>
+    <imdbid>nm0000369</imdbid>
+    <tvdbid>271579</tvdbid>
+  </actor>
+  <actor>
+    <name>Al Sapienza</name>
+    <type>Actor</type>
+    <tmdbid>154917</tmdbid>
+    <imdbid>nm0002326</imdbid>
+  </actor>
+  <director tmdbid="934803" imdbid="nm2503633">Josh Trank</director>
+  <writer tmdbid="934803" imdbid="nm2503633">Josh Trank</writer>
+  <credits tmdbid="934803" imdbid="nm2503633">Josh Trank</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=X_1j2pyQeYw</trailer>
+  <rating>4.7</rating>
+  <year>2020</year>
+  <sorttitle>Capone</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6199572</imdbid>
+  <tmdbid>429422</tmdbid>
+  <premiered>2020-07-10</premiered>
+  <releasedate>2020-07-10</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>104</runtime>
+  <tagline>Todos pagamos por nuestros crímenes al final.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <studio>Bron Studios</studio>
+  <studio>A Band Apart</studio>
+  <studio>Addictive Pictures</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Lawrence Bender Productions</studio>
+  <studio>Vertical Entertainment</studio>
+  <studio>Redbox Entertainment</studio>
+  <uniqueid type="imdb">tt6199572</uniqueid>
+  <uniqueid type="tmdb">429422</uniqueid>
+  <id>tt6199572</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1072206</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6237</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Basada en hechos reales. En 1950, cuando la Guerra Fría amenaza la paz internacional, dos jóvenes pilotos de diferentes mundos son aceptados en un escuadrón de élite para su entrenamiento: uno es Tom Hudner (Glen Powell), un soldado impecable. El otro es Jesse Brown (Jonathan Majors), un talentoso piloto, que se convertiría en el primer afroamericano en volar en combate para la Marina de los Estados Unidos. Iniciados juntos en el escuadrón VF-32, Tom y Jesse son llevados al límite para convertirse en los mejores pilotos de combate. donde formarán una firme amistad.]]></plot>
+  <outline><![CDATA[En la guerra olvidada de Estados Unidos, hicieron historia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-08 11:24:16</dateadded>
+  <title>Devotion: una historia de héroes</title>
+  <originaltitle>Devotion</originaltitle>
+  <actor>
+    <name>Jonathan Majors</name>
+    <role>Jesse Brown</role>
+    <type>Actor</type>
+    <tmdbid>1674162</tmdbid>
+    <imdbid>nm3718007</imdbid>
+    <tvdbid>533764</tvdbid>
+  </actor>
+  <actor>
+    <name>Glen Powell</name>
+    <role>Thomas J. Hudner Jr.</role>
+    <type>Actor</type>
+    <tmdbid>83271</tmdbid>
+    <imdbid>nm1412974</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Jackson</name>
+    <role>Daisy Brown</role>
+    <type>Actor</type>
+    <tmdbid>1383349</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Sadoski</name>
+    <role>Dick Cevoli</role>
+    <type>Actor</type>
+    <tmdbid>1218218</tmdbid>
+    <imdbid>nm0755603</imdbid>
+  </actor>
+  <actor>
+    <name>Daren Kagasoff</name>
+    <role>Bill Koenig</role>
+    <type>Actor</type>
+    <tmdbid>221115</tmdbid>
+    <imdbid>nm2973326</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Jonas</name>
+    <role>Marty Goode</role>
+    <type>Actor</type>
+    <tmdbid>85757</tmdbid>
+    <imdbid>nm2679438</imdbid>
+    <tvdbid>278132</tvdbid>
+  </actor>
+  <actor>
+    <name>Spencer Neville</name>
+    <role>Bo Lavery</role>
+    <type>Actor</type>
+    <tmdbid>1392534</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Hargrove</name>
+    <role>Carol Mohring</role>
+    <type>Actor</type>
+    <tmdbid>2402107</tmdbid>
+  </actor>
+  <actor>
+    <name>Boone Platt</name>
+    <role>Buddy Gill</role>
+    <type>Actor</type>
+    <tmdbid>2024835</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Denton</name>
+    <role>Captain Sisson</role>
+    <type>Actor</type>
+    <tmdbid>170153</tmdbid>
+  </actor>
+  <actor>
+    <name>Thad Luckinbill</name>
+    <role>Peters</role>
+    <type>Actor</type>
+    <tmdbid>60076</tmdbid>
+    <imdbid>nm0524745</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Cross</name>
+    <role>Charlie Ward</role>
+    <type>Actor</type>
+    <tmdbid>33528</tmdbid>
+    <imdbid>nm0189200</imdbid>
+    <tvdbid>257283</tvdbid>
+  </actor>
+  <actor>
+    <name>Serinda Swan</name>
+    <role>Elizabeth Taylor</role>
+    <type>Actor</type>
+    <tmdbid>86268</tmdbid>
+    <imdbid>nm2100657</imdbid>
+    <tvdbid>335795</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Riedy</name>
+    <role>Sr. Hudner</role>
+    <type>Actor</type>
+    <tmdbid>78665</tmdbid>
+    <imdbid>nm0726164</imdbid>
+  </actor>
+  <actor>
+    <name>Logan Macrae</name>
+    <role>Nicky Hilton</role>
+    <type>Actor</type>
+    <tmdbid>3284240</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Trujillo</name>
+    <role>Dispatcher</role>
+    <type>Actor</type>
+    <tmdbid>2374339</tmdbid>
+  </actor>
+  <actor>
+    <name>Adetinpo Thomas</name>
+    <role>Clara Carroll</role>
+    <type>Actor</type>
+    <tmdbid>2542463</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Brinks</name>
+    <role>French Woman</role>
+    <type>Actor</type>
+    <tmdbid>3218081</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleks Alifirenko Jr.</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>3188448</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Harlow</name>
+    <role>French Woman</role>
+    <type>Actor</type>
+    <tmdbid>3616240</tmdbid>
+  </actor>
+  <actor>
+    <name>Buddy Watkins</name>
+    <role>Plane Captain</role>
+    <type>Actor</type>
+    <tmdbid>2820809</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Whichard</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>2508560</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Bello</name>
+    <role>French Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2475555</tmdbid>
+  </actor>
+  <actor>
+    <name>Darin Toonder</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1352948</tmdbid>
+  </actor>
+  <actor>
+    <name>Christie McLendon</name>
+    <role>Grocery Store Patron</role>
+    <type>Actor</type>
+    <tmdbid>3311302</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadije Aliu</name>
+    <role>French Woman</role>
+    <type>Actor</type>
+    <tmdbid>3160535</tmdbid>
+  </actor>
+  <actor>
+    <name>Arianna Rosario</name>
+    <role>French Woman</role>
+    <type>Actor</type>
+    <tmdbid>3570563</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Andersen</name>
+    <role>Passenger on plane</role>
+    <type>Actor</type>
+    <tmdbid>1321090</tmdbid>
+  </actor>
+  <actor>
+    <name>Akhil Jackson</name>
+    <role>Archie Fambrough</role>
+    <type>Actor</type>
+    <tmdbid>80767</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Roberts</name>
+    <role>J.R. Stevens</role>
+    <type>Actor</type>
+    <tmdbid>3626808</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Henley</name>
+    <role>ENS C. M. Lane</role>
+    <type>Actor</type>
+    <tmdbid>2573726</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Fishman</name>
+    <role>Mary Hudner</role>
+    <type>Actor</type>
+    <tmdbid>3626816</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael P. Walker</name>
+    <role>Mike Calloway</role>
+    <type>Actor</type>
+    <tmdbid>2704013</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Zheng</name>
+    <role>Chinese Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>3626818</tmdbid>
+  </actor>
+  <actor>
+    <name>Percy Bell</name>
+    <role>Black Marine</role>
+    <type>Actor</type>
+    <tmdbid>2300625</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Kessler</name>
+    <role>Jesse's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>1075773</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Bekkers</name>
+    <role>Casino Barman</role>
+    <type>Actor</type>
+    <tmdbid>1918408</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac March</name>
+    <role>Blackjack Dealer</role>
+    <type>Actor</type>
+    <tmdbid>2961561</tmdbid>
+  </actor>
+  <actor>
+    <name>BettyLynn Allison</name>
+    <role>Elderly Woman</role>
+    <type>Actor</type>
+    <tmdbid>2008318</tmdbid>
+  </actor>
+  <actor>
+    <name>Hunter Gray</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>53072</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel García</name>
+    <role>Hagaru Marine</role>
+    <type>Actor</type>
+    <tmdbid>1122419</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Friddle</name>
+    <role>Hagaru Marine</role>
+    <type>Actor</type>
+    <tmdbid>3626826</tmdbid>
+  </actor>
+  <actor>
+    <name>Cedar Moore</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>3626828</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael David Anderson</name>
+    <role>French Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2901393</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Brown</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2932734</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Davidovicz</name>
+    <role>Marine</role>
+    <type>Actor</type>
+    <tmdbid>3626829</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Burhans</name>
+    <role>Airline Passenger / White House guest</role>
+    <type>Actor</type>
+    <tmdbid>2535276</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Ehatt</name>
+    <role>Beachgoer</role>
+    <type>Actor</type>
+    <tmdbid>3626830</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandy Burhans</name>
+    <role>Airline Passenger / White House guest</role>
+    <type>Actor</type>
+    <tmdbid>2535277</tmdbid>
+  </actor>
+  <actor>
+    <name>John King</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3626833</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Michelle Thompson</name>
+    <role>French Woman</role>
+    <type>Actor</type>
+    <tmdbid>3626834</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Catanzareti</name>
+    <role>Marine / Sailor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3626835</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Goldstein</name>
+    <role>Marine / Casino Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3626836</tmdbid>
+  </actor>
+  <director tmdbid="1485406">J.D. Dillard</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q1NRhWUkNck</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>Devotion: una historia de heroes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7693316</imdbid>
+  <tmdbid>653851</tmdbid>
+  <premiered>2022-11-23</premiered>
+  <releasedate>2022-11-23</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>139</runtime>
+  <tagline>En la guerra olvidada de Estados Unidos, hicieron historia.</tagline>
+  <country>United States of America</country>
+  <genre>Bélica</genre>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>Black Label Media</studio>
+  <studio>STX Entertainment</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Stage 6 Films</studio>
+  <uniqueid type="tmdb">653851</uniqueid>
+  <uniqueid type="imdb">tt7693316</uniqueid>
+  <id>tt7693316</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>902133</bitrate>
+        <width>1280</width>
+        <height>580</height>
+        <aspect>959:436</aspect>
+        <aspectratio>959:436</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8341</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

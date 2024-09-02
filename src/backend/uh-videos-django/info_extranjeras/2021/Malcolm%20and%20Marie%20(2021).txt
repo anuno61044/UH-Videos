@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A director and his girlfriend's relationship is tested after they return home from his movie premiere and await critics' responses.]]></plot>
+  <outline><![CDATA[Amar con locura.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-08 09:26:56</dateadded>
+  <title>Malcolm &amp; Marie</title>
+  <originaltitle>Malcolm &amp; Marie</originaltitle>
+  <actor>
+    <name>John David Washington</name>
+    <type>Actor</type>
+    <tmdbid>1117313</tmdbid>
+    <imdbid>nm0913475</imdbid>
+    <tvdbid>524953</tvdbid>
+  </actor>
+  <actor>
+    <name>Zendaya</name>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+    <tvdbid>327412</tvdbid>
+  </actor>
+  <director tmdbid="96172" imdbid="nm0506094">Sam Levinson</director>
+  <writer tmdbid="96172" imdbid="nm0506094">Sam Levinson</writer>
+  <credits tmdbid="96172" imdbid="nm0506094">Sam Levinson</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ConI3NzI7pE</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Malcolm &amp; Marie</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12676326</imdbid>
+  <tmdbid>722913</tmdbid>
+  <premiered>2021-02-05</premiered>
+  <releasedate>2021-02-05</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>106</runtime>
+  <tagline>Amar con locura.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Little Lamb Productions</studio>
+  <studio>FotoKem</studio>
+  <uniqueid type="imdb">tt12676326</uniqueid>
+  <uniqueid type="tmdb">722913</uniqueid>
+  <id>tt12676326</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>599822</bitrate>
+        <width>858</width>
+        <height>482</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6384</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95721</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

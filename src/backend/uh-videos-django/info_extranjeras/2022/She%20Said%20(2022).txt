@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Las reporteras del New York Times, Megan Twohey y Jodi Kantor, publicaron una de las historias más importantes de una generación: una historia que ayudó al lanzamiento del movimiento #MeToo y rompió décadas de silencio sobre el tema de las agresiones sexuales en Hollywood.]]></plot>
+  <outline><![CDATA[¿Te atreverías a declarar?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-06 12:04:21</dateadded>
+  <title>Al descubierto</title>
+  <originaltitle>She Said</originaltitle>
+  <actor>
+    <name>Carey Mulligan</name>
+    <role>Megan Twohey</role>
+    <type>Actor</type>
+    <tmdbid>36662</tmdbid>
+    <imdbid>nm1659547</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Kazan</name>
+    <role>Jodi Kantor</role>
+    <type>Actor</type>
+    <tmdbid>35028</tmdbid>
+    <imdbid>nm1443740</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Rebecca Corbett</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+    <tvdbid>304284</tvdbid>
+  </actor>
+  <actor>
+    <name>Andre Braugher</name>
+    <role>Dean Baquet</role>
+    <type>Actor</type>
+    <tmdbid>6861</tmdbid>
+    <imdbid>nm0105672</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Ehle</name>
+    <role>Laura Madden</role>
+    <type>Actor</type>
+    <tmdbid>49971</tmdbid>
+    <imdbid>nm0000383</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Morton</name>
+    <role>Zelda Perkins</role>
+    <type>Actor</type>
+    <tmdbid>2206</tmdbid>
+    <imdbid>nm0608090</imdbid>
+    <tvdbid>318680</tvdbid>
+  </actor>
+  <actor>
+    <name>Ashley Judd</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>15852</tmdbid>
+    <imdbid>nm0000171</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Grenier</name>
+    <role>Irwin Reiter</role>
+    <type>Actor</type>
+    <tmdbid>7471</tmdbid>
+    <imdbid>nm0340260</imdbid>
+    <tvdbid>270258</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Friedman</name>
+    <role>Lanny Davis</role>
+    <type>Actor</type>
+    <tmdbid>54246</tmdbid>
+    <imdbid>nm0295334</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Pelphrey</name>
+    <role>Vadim Rutman</role>
+    <type>Actor</type>
+    <tmdbid>207442</tmdbid>
+    <imdbid>nm1670601</imdbid>
+    <tvdbid>394944</tvdbid>
+  </actor>
+  <actor>
+    <name>Frank Wood</name>
+    <role>Matt Purdy</role>
+    <type>Actor</type>
+    <tmdbid>52021</tmdbid>
+    <imdbid>nm0939703</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Shapiro</name>
+    <role>Ron Leiber</role>
+    <type>Actor</type>
+    <tmdbid>1255902</tmdbid>
+    <imdbid>nm1995781</imdbid>
+  </actor>
+  <actor>
+    <name>Roxanna Hope</name>
+    <role>Ex-Assistant in Queens</role>
+    <type>Actor</type>
+    <tmdbid>164542</tmdbid>
+    <imdbid>nm1608895</imdbid>
+  </actor>
+  <actor>
+    <name>Lola Petticrew</name>
+    <role>Young Laura</role>
+    <type>Actor</type>
+    <tmdbid>1969732</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Yeoh</name>
+    <role>Rowena Chiu</role>
+    <type>Actor</type>
+    <tmdbid>2113544</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Cullen</name>
+    <role>Lance Maerov</role>
+    <type>Actor</type>
+    <tmdbid>104196</tmdbid>
+    <imdbid>nm1332395</imdbid>
+  </actor>
+  <actor>
+    <name>Gregg Edelman</name>
+    <role>David McCraw</role>
+    <type>Actor</type>
+    <tmdbid>17179</tmdbid>
+    <imdbid>nm0248981</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Laheen</name>
+    <role>Irish Film Crew Woman</role>
+    <type>Actor</type>
+    <tmdbid>3086341</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Clare O'Connor</name>
+    <role>Rachel Crooks</role>
+    <type>Actor</type>
+    <tmdbid>2739543</tmdbid>
+  </actor>
+  <actor>
+    <name>Dalya Knapp</name>
+    <role>Talia</role>
+    <type>Actor</type>
+    <tmdbid>2337520</tmdbid>
+    <imdbid>nm9431221</imdbid>
+  </actor>
+  <actor>
+    <name>Emery Ellis Harper</name>
+    <role>Violet</role>
+    <type>Actor</type>
+    <tmdbid>3827575</tmdbid>
+  </actor>
+  <actor>
+    <name>James Austin Johnson</name>
+    <role>Donald Trump (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1756597</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Nisa</name>
+    <role>Nurse in Clinic</role>
+    <type>Actor</type>
+    <tmdbid>104496</tmdbid>
+    <imdbid>nm1614899</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Ann Masse</name>
+    <role>Emily Steel</role>
+    <type>Actor</type>
+    <tmdbid>1842813</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Spara</name>
+    <role>Michael Schmidt</role>
+    <type>Actor</type>
+    <tmdbid>3827582</tmdbid>
+  </actor>
+  <actor>
+    <name>Traci Wolfe</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>14314</tmdbid>
+  </actor>
+  <actor>
+    <name>Sujata Eyrick</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>3503961</tmdbid>
+  </actor>
+  <actor>
+    <name>Shirley Rumierk</name>
+    <role>Miramax Employee</role>
+    <type>Actor</type>
+    <tmdbid>1100548</tmdbid>
+    <imdbid>nm1948526</imdbid>
+  </actor>
+  <actor>
+    <name>Judith Godrèche</name>
+    <role>Self (voice)</role>
+    <type>Actor</type>
+    <tmdbid>73937</tmdbid>
+    <imdbid>nm0002105</imdbid>
+  </actor>
+  <actor>
+    <name>Dipa Anitia</name>
+    <role>Ultrasound Tech</role>
+    <type>Actor</type>
+    <tmdbid>2823692</tmdbid>
+  </actor>
+  <actor>
+    <name>Tessa Lee</name>
+    <role>Mary</role>
+    <type>Actor</type>
+    <tmdbid>3580747</tmdbid>
+  </actor>
+  <actor>
+    <name>Keilly McQuail</name>
+    <role>Rose McGowan (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1848813</tmdbid>
+  </actor>
+  <actor>
+    <name>Zabryna Guevara</name>
+    <role>Government Official</role>
+    <type>Actor</type>
+    <tmdbid>171955</tmdbid>
+    <imdbid>nm1478285</imdbid>
+  </actor>
+  <actor>
+    <name>Harvey Friedman</name>
+    <role>Investigator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>25661</tmdbid>
+    <imdbid>nm0295227</imdbid>
+  </actor>
+  <actor>
+    <name>Anastasia Barzee</name>
+    <role>Lisa Bloom</role>
+    <type>Actor</type>
+    <tmdbid>1348213</tmdbid>
+  </actor>
+  <actor>
+    <name>John Mazurek</name>
+    <role>John Schmidt</role>
+    <type>Actor</type>
+    <tmdbid>2724909</tmdbid>
+  </actor>
+  <actor>
+    <name>Hilary Greer</name>
+    <role>Mrs. Schmidt</role>
+    <type>Actor</type>
+    <tmdbid>1362743</tmdbid>
+  </actor>
+  <actor>
+    <name>Makia Martin</name>
+    <role>EEOC Woman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2949562</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Kreitz</name>
+    <role>Gwyneth Paltrow's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1841514</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Betancourt</name>
+    <role>Water Mill Woman</role>
+    <type>Actor</type>
+    <tmdbid>1658534</tmdbid>
+  </actor>
+  <actor>
+    <name>Marceline Hugot</name>
+    <role>Linda Fairstein</role>
+    <type>Actor</type>
+    <tmdbid>54124</tmdbid>
+    <imdbid>nm0401091</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Thomas</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1017854</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Hurt</name>
+    <role>Man 1 at Bar</role>
+    <type>Actor</type>
+    <tmdbid>1742861</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Busser</name>
+    <role>Man 2 at Bar</role>
+    <type>Actor</type>
+    <tmdbid>3307037</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Kendall</name>
+    <role>Miramax Executive</role>
+    <type>Actor</type>
+    <tmdbid>177114</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Astor Chin</name>
+    <role>Andrew Cheung</role>
+    <type>Actor</type>
+    <tmdbid>3651099</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Mary Carthy</name>
+    <role>Laura's Doctor</role>
+    <type>Actor</type>
+    <tmdbid>168848</tmdbid>
+  </actor>
+  <actor>
+    <name>Maren Heary</name>
+    <role>Nell</role>
+    <type>Actor</type>
+    <tmdbid>2389660</tmdbid>
+  </actor>
+  <actor>
+    <name>Elle Graham</name>
+    <role>Gracie</role>
+    <type>Actor</type>
+    <tmdbid>1511922</tmdbid>
+  </actor>
+  <actor>
+    <name>Wesley Holloway</name>
+    <role>Hywel</role>
+    <type>Actor</type>
+    <tmdbid>3503959</tmdbid>
+  </actor>
+  <actor>
+    <name>Justine Colan</name>
+    <role>Iris</role>
+    <type>Actor</type>
+    <tmdbid>2906294</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Windsor</name>
+    <role>Young Zelda</role>
+    <type>Actor</type>
+    <tmdbid>1415918</tmdbid>
+    <imdbid>nm2703558</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Chiu</name>
+    <role>Young Rowena</role>
+    <type>Actor</type>
+    <tmdbid>2432481</tmdbid>
+  </actor>
+  <actor>
+    <name>Safia Oakley-Green</name>
+    <role>Club Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2592839</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine LeFrere</name>
+    <role>Pamela Lubell (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2653791</tmdbid>
+  </actor>
+  <actor>
+    <name>Anita Sabherwal</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1343477</tmdbid>
+  </actor>
+  <actor>
+    <name>Makayla Patton</name>
+    <role>Dean's Secretary (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2198839</tmdbid>
+  </actor>
+  <actor>
+    <name>Celia Au</name>
+    <role>Waitress in Hong Kong</role>
+    <type>Actor</type>
+    <tmdbid>1087135</tmdbid>
+    <imdbid>nm2541767</imdbid>
+    <tvdbid>543306</tvdbid>
+  </actor>
+  <actor>
+    <name>Tina WongLu</name>
+    <role>Cashier in Hong Kong</role>
+    <type>Actor</type>
+    <tmdbid>2133250</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren O'Connor</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>3827604</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Aldous</name>
+    <role>Charles Harder</role>
+    <type>Actor</type>
+    <tmdbid>1623241</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Babinsky</name>
+    <role>David Glasser</role>
+    <type>Actor</type>
+    <tmdbid>1401841</tmdbid>
+    <imdbid>nm3389143</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Houston</name>
+    <role>Harvey Weinstein (voice)</role>
+    <type>Actor</type>
+    <tmdbid>205128</tmdbid>
+    <imdbid>nm2005766</imdbid>
+  </actor>
+  <actor>
+    <name>George Walsh</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>3827605</tmdbid>
+  </actor>
+  <actor>
+    <name>Davram Stiefler</name>
+    <role>Rory Tolan</role>
+    <type>Actor</type>
+    <tmdbid>1365447</tmdbid>
+    <imdbid>nm2262808</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Heitman</name>
+    <role>Nurse in Wales</role>
+    <type>Actor</type>
+    <tmdbid>1584129</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Higgins</name>
+    <role>Laura's Friend</role>
+    <type>Actor</type>
+    <tmdbid>3220851</tmdbid>
+  </actor>
+  <actor>
+    <name>Gwyneth Paltrow</name>
+    <role>Self (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12052</tmdbid>
+    <imdbid>nm0000569</imdbid>
+  </actor>
+  <director tmdbid="22686">Maria Schrader</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i5pxUQecM3Y</trailer>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>Al descubierto</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14807308</imdbid>
+  <tmdbid>837881</tmdbid>
+  <premiered>2022-11-17</premiered>
+  <releasedate>2022-11-17</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>129</runtime>
+  <tagline>¿Te atreverías a declarar?</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Plan B Entertainment</studio>
+  <studio>Annapurna Pictures</studio>
+  <uniqueid type="imdb">tt14807308</uniqueid>
+  <uniqueid type="tmdb">837881</uniqueid>
+  <id>tt14807308</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>864679</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7743</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

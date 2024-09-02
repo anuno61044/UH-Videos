@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[An anthology of four stories about very miserable people.]]></plot>
+  <outline><![CDATA[Una Película de Javier Fesser]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-04 10:11:51</dateadded>
+  <title>Historias lamentables</title>
+  <originaltitle>Historias lamentables</originaltitle>
+  <actor>
+    <name>Pol López</name>
+    <type>Actor</type>
+    <tmdbid>1378136</tmdbid>
+    <imdbid>nm2205196</imdbid>
+  </actor>
+  <actor>
+    <name>Chani Martín</name>
+    <type>Actor</type>
+    <tmdbid>560248</tmdbid>
+    <imdbid>nm1476722</imdbid>
+    <tvdbid>667784</tvdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez-Lacueva</name>
+    <type>Actor</type>
+    <tmdbid>1981350</tmdbid>
+  </actor>
+  <actor>
+    <name>Matías Janick</name>
+    <type>Actor</type>
+    <tmdbid>2518163</tmdbid>
+  </actor>
+  <director tmdbid="56470" imdbid="nm0275250">Javier Fesser</director>
+  <writer tmdbid="56470" imdbid="nm0275250">Javier Fesser</writer>
+  <writer>Claro García</writer>
+  <credits tmdbid="56470" imdbid="nm0275250">Javier Fesser</credits>
+  <credits>Claro García</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6zY3pPt5yYs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A3wxbnFt6Lg</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>Historias lamentables</sorttitle>
+  <imdbid>tt11362866</imdbid>
+  <tmdbid>650747</tmdbid>
+  <premiered>2020-11-19</premiered>
+  <releasedate>2020-11-19</releasedate>
+  <runtime>130</runtime>
+  <tagline>Una Película de Javier Fesser</tagline>
+  <country>Spain</country>
+  <genre>Comedy</genre>
+  <studio>Películas Pendelton</studio>
+  <studio>Morena Films</studio>
+  <studio>TVE</studio>
+  <studio>Amazon Studios</studio>
+  <uniqueid type="imdb">tt11362866</uniqueid>
+  <uniqueid type="tmdb">650747</uniqueid>
+  <id>tt11362866</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1931857</bitrate>
+        <width>1696</width>
+        <height>720</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7775</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128436</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

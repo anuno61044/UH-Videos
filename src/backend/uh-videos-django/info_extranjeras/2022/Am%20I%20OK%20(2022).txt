@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lucy y Jane han sido mejores amigas toda su vida. Solo cuando Lucy se embarque en un viaje personal, se enfrentará a una prueba de su amistad y de su sentido de sí misma, en un camino que quizás no esté del todo preparada para tomar.]]></plot>
+  <outline><![CDATA[It's never too late to figure it out.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2024-06-07 09:23:44</dateadded>
+  <title>¿Todo bien?</title>
+  <originaltitle>Am I OK?</originaltitle>
+  <actor>
+    <name>Dakota Johnson</name>
+    <role>Lucy</role>
+    <type>Actor</type>
+    <tmdbid>118545</tmdbid>
+    <imdbid>nm0424848</imdbid>
+  </actor>
+  <actor>
+    <name>Sonoya Mizuno</name>
+    <role>Jane</role>
+    <type>Actor</type>
+    <tmdbid>1457238</tmdbid>
+    <imdbid>nm4420495</imdbid>
+    <tvdbid>520548</tvdbid>
+  </actor>
+  <actor>
+    <name>Jermaine Fowler</name>
+    <role>Danny</role>
+    <type>Actor</type>
+    <tvdbid>469918</tvdbid>
+    <tmdbid>1488960</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiersey Clemons</name>
+    <role>Brittany</role>
+    <type>Actor</type>
+    <tmdbid>1253355</tmdbid>
+    <imdbid>nm4169922</imdbid>
+    <tvdbid>308168</tvdbid>
+  </actor>
+  <actor>
+    <name>Molly Gordon</name>
+    <role>Kat</role>
+    <type>Actor</type>
+    <tmdbid>1782117</tmdbid>
+    <imdbid>nm1094137</imdbid>
+  </actor>
+  <actor>
+    <name>Whitmer Thomas</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>1105322</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Hayes</name>
+    <role>Stu</role>
+    <type>Actor</type>
+    <tmdbid>52601</tmdbid>
+    <imdbid>nm0005003</imdbid>
+    <tvdbid>310602</tvdbid>
+  </actor>
+  <actor>
+    <name>Tig Notaro</name>
+    <role>Sheila</role>
+    <type>Actor</type>
+    <tmdbid>220088</tmdbid>
+    <imdbid>nm0449299</imdbid>
+  </actor>
+  <actor>
+    <name>Odessa A'zion</name>
+    <role>Sky</role>
+    <type>Actor</type>
+    <tmdbid>1972166</tmdbid>
+    <imdbid>nm5570560</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick McDonald</name>
+    <role>Server 1</role>
+    <type>Actor</type>
+    <tmdbid>3342117</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayank Bhatter</name>
+    <role>Server 2</role>
+    <type>Actor</type>
+    <tmdbid>1191953</tmdbid>
+    <imdbid>nm3574485</imdbid>
+  </actor>
+  <actor>
+    <name>Jess Nurse</name>
+    <role>Christine</role>
+    <type>Actor</type>
+    <tmdbid>1772881</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Pasarow</name>
+    <role>Courtney</role>
+    <type>Actor</type>
+    <tmdbid>2675886</tmdbid>
+  </actor>
+  <actor>
+    <name>Rey Herrera</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1781795</tmdbid>
+  </actor>
+  <director tmdbid="220088" imdbid="nm0449299">Tig Notaro</director>
+  <director tmdbid="1003843" imdbid="nm2782402">Stephanie Allynne</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b80FbdimIHs</trailer>
+  <rating>6.1</rating>
+  <year>2024</year>
+  <sorttitle>¿Todo bien?</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11225626</imdbid>
+  <tmdbid>641934</tmdbid>
+  <premiered>2024-06-11</premiered>
+  <releasedate>2024-06-11</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>87</runtime>
+  <tagline>It's never too late to figure it out.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Picturestart</studio>
+  <studio>Gloria Sanchez Productions</studio>
+  <studio>TeaTime Pictures</studio>
+  <studio>Something Fierce Productions</studio>
+  <uniqueid type="imdb">tt11225626</uniqueid>
+  <uniqueid type="tmdb">641934</uniqueid>
+  <id>tt11225626</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1290368</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5192</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>mac</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>srp</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

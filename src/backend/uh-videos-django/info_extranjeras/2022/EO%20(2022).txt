@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El mundo es un lugar misterioso cuando se ve a través de los ojos de un animal. EO, un burro gris de ojos melancólicos, se encuentra con personas buenas y malas en el camino de su vida, experimenta alegría y dolor, soporta la rueda de la fortuna al azar y convierte su suerte en desastre y su desesperación en dicha inesperada. Pero ni por un momento pierde su inocencia.]]></plot>
+  <outline><![CDATA[Que todos tus sueños se hagan realidad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-27 10:55:15</dateadded>
+  <title>EO</title>
+  <originaltitle>IO</originaltitle>
+  <actor>
+    <name>Sandra Drzymalska</name>
+    <role>Kasandra</role>
+    <type>Actor</type>
+    <tmdbid>1873160</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Huppert</name>
+    <role>The Countess</role>
+    <type>Actor</type>
+    <tmdbid>17882</tmdbid>
+    <imdbid>nm0001376</imdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Zurzolo</name>
+    <role>Vito</role>
+    <type>Actor</type>
+    <tmdbid>1526594</tmdbid>
+  </actor>
+  <actor>
+    <name>Mateusz Kościukiewicz</name>
+    <role>Mateo</role>
+    <type>Actor</type>
+    <tmdbid>1482162</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomasz Organek</name>
+    <role>Ziom</role>
+    <type>Actor</type>
+    <tmdbid>3511048</tmdbid>
+  </actor>
+  <actor>
+    <name>Lolita Chammah</name>
+    <role>Dora</role>
+    <type>Actor</type>
+    <tmdbid>56242</tmdbid>
+  </actor>
+  <actor>
+    <name>Agata Sasinowska</name>
+    <role>Kaja</role>
+    <type>Actor</type>
+    <tmdbid>2060188</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Rokita</name>
+    <role>Dorota</role>
+    <type>Actor</type>
+    <tmdbid>3764431</tmdbid>
+  </actor>
+  <actor>
+    <name>Michał Przybysławski</name>
+    <role>Zenek</role>
+    <type>Actor</type>
+    <tmdbid>3764434</tmdbid>
+  </actor>
+  <actor>
+    <name>Gloria Iradukunda</name>
+    <role>Zea</role>
+    <type>Actor</type>
+    <tmdbid>3764435</tmdbid>
+  </actor>
+  <actor>
+    <name>Piotr Szaja</name>
+    <role>Horse-boy</role>
+    <type>Actor</type>
+    <tmdbid>3764437</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleksander Janiszewski</name>
+    <role>Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>2252047</tmdbid>
+  </actor>
+  <actor>
+    <name>Delfina Wilkońska</name>
+    <role>Activist</role>
+    <type>Actor</type>
+    <tmdbid>1603066</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrzej Szeremeta</name>
+    <role>Vet</role>
+    <type>Actor</type>
+    <tmdbid>1803942</tmdbid>
+  </actor>
+  <actor>
+    <name>Wojciech Andrzejuk</name>
+    <role>Hooligan</role>
+    <type>Actor</type>
+    <tmdbid>3423487</tmdbid>
+  </actor>
+  <actor>
+    <name>Mateusz Murański</name>
+    <role>Hooligan</role>
+    <type>Actor</type>
+    <tmdbid>2220531</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcin Drabicki</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>3764442</tmdbid>
+  </actor>
+  <actor>
+    <name>Maciej Stępniak</name>
+    <role>Wasyl</role>
+    <type>Actor</type>
+    <tmdbid>3764443</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Junior Gomes da Silva</name>
+    <role>Murderer</role>
+    <type>Actor</type>
+    <tmdbid>3764445</tmdbid>
+  </actor>
+  <actor>
+    <name>Krzysztof Karczmarz</name>
+    <role>Coach</role>
+    <type>Actor</type>
+    <tmdbid>3764448</tmdbid>
+  </actor>
+  <actor>
+    <name>Waldemar Barwiński</name>
+    <role>Vet</role>
+    <type>Actor</type>
+    <tmdbid>1192149</tmdbid>
+  </actor>
+  <actor>
+    <name>Saverio Fabbri</name>
+    <role>Animal Trader</role>
+    <type>Actor</type>
+    <tmdbid>3254060</tmdbid>
+  </actor>
+  <actor>
+    <name>Katarzyna Russ</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3764454</tmdbid>
+  </actor>
+  <actor>
+    <name>Marietta The Donkey</name>
+    <role>Eo</role>
+    <type>Actor</type>
+    <tmdbid>3936670</tmdbid>
+  </actor>
+  <actor>
+    <name>Tako</name>
+    <role>Eo</role>
+    <type>Actor</type>
+    <tmdbid>3936671</tmdbid>
+  </actor>
+  <actor>
+    <name>Kateřina Holánová</name>
+    <role>Eo</role>
+    <type>Actor</type>
+    <tmdbid>588923</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocco</name>
+    <role>Eo</role>
+    <type>Actor</type>
+    <tmdbid>3936672</tmdbid>
+  </actor>
+  <actor>
+    <name>Mela</name>
+    <role>Eo</role>
+    <type>Actor</type>
+    <tmdbid>3936673</tmdbid>
+  </actor>
+  <actor>
+    <name>Ettore</name>
+    <role>Eo</role>
+    <type>Actor</type>
+    <tmdbid>3936674</tmdbid>
+  </actor>
+  <director tmdbid="43553" imdbid="nm0804592">Jerzy Skolimowski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NdFDlkogqfc</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>EO</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt19652910</imdbid>
+  <tmdbid>785398</tmdbid>
+  <premiered>2022-09-30</premiered>
+  <releasedate>2022-09-30</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>88</runtime>
+  <tagline>Que todos tus sueños se hagan realidad.</tagline>
+  <country>Italy</country>
+  <country>Poland</country>
+  <genre>Drama</genre>
+  <studio>Skopia Film</studio>
+  <studio>PISF</studio>
+  <studio>MiC</studio>
+  <studio>Regione Lazio</studio>
+  <studio>Alien Films</studio>
+  <studio>Moderator Inwestycje</studio>
+  <studio>HAKA Films</studio>
+  <uniqueid type="tmdb">785398</uniqueid>
+  <uniqueid type="imdb">tt19652910</uniqueid>
+  <id>tt19652910</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149524</bitrate>
+        <width>1280</width>
+        <height>890</height>
+        <aspect>194:135</aspect>
+        <aspectratio>194:135</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5296</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128207</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

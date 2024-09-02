@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un ex Navy SEAL convertido en agente de la CIA busca venganza después de que su novia es asesinada por un narcotraficante de Baltimore.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-03 08:12:51</dateadded>
+  <title>Sin remordimientos</title>
+  <originaltitle>Tom Clancy's Without Remorse</originaltitle>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>John Kelly</role>
+    <type>Actor</type>
+    <tmdbid>135651</tmdbid>
+    <imdbid>nm0430107</imdbid>
+    <tvdbid>294945</tvdbid>
+  </actor>
+  <actor>
+    <name>Jamie Bell</name>
+    <role>Robert Ritter</role>
+    <type>Actor</type>
+    <tmdbid>478</tmdbid>
+    <imdbid>nm0068260</imdbid>
+    <tvdbid>278259</tvdbid>
+  </actor>
+  <actor>
+    <name>Jodie Turner-Smith</name>
+    <role>Karen Greer</role>
+    <type>Actor</type>
+    <tmdbid>1695989</tmdbid>
+    <imdbid>nm3853652</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren London</name>
+    <role>Pam Kelly</role>
+    <type>Actor</type>
+    <tmdbid>98772</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Gelman</name>
+    <role>Victor Rykov</role>
+    <type>Actor</type>
+    <tmdbid>224197</tmdbid>
+    <imdbid>nm1443368</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Scipio</name>
+    <role>Hatchet</role>
+    <type>Actor</type>
+    <tmdbid>2256312</tmdbid>
+    <imdbid>nm0778501</imdbid>
+    <tvdbid>7967175</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Kesy</name>
+    <role>Thunder</role>
+    <type>Actor</type>
+    <tmdbid>1292258</tmdbid>
+    <imdbid>nm4477836</imdbid>
+  </actor>
+  <actor>
+    <name>Colman Domingo</name>
+    <role>Pastor West</role>
+    <type>Actor</type>
+    <tmdbid>91671</tmdbid>
+    <imdbid>nm0231458</imdbid>
+    <tvdbid>317205</tvdbid>
+  </actor>
+  <actor>
+    <name>Guy Pearce</name>
+    <role>Thomas Clay</role>
+    <type>Actor</type>
+    <tmdbid>529</tmdbid>
+    <imdbid>nm0001602</imdbid>
+    <tvdbid>360384</tvdbid>
+  </actor>
+  <actor>
+    <name>Todd Lasance</name>
+    <role>Dallas</role>
+    <type>Actor</type>
+    <tmdbid>208907</tmdbid>
+    <imdbid>nm2642892</imdbid>
+  </actor>
+  <actor>
+    <name>Cam Gigandet</name>
+    <role>Keith Webb</role>
+    <type>Actor</type>
+    <tmdbid>55086</tmdbid>
+    <imdbid>nm1544217</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Mitchell</name>
+    <role>Rowdy</role>
+    <type>Actor</type>
+    <tmdbid>1181361</tmdbid>
+    <imdbid>nm1446779</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie McIntyre</name>
+    <role>Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1622606</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Chief of Staff</role>
+    <type>Actor</type>
+    <tmdbid>1643</tmdbid>
+    <imdbid>nm0712628</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Russell</name>
+    <role>CIA Director Dillard</role>
+    <type>Actor</type>
+    <tmdbid>28749</tmdbid>
+    <imdbid>nm0751301</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Maaser</name>
+    <role>Russian SWAT</role>
+    <type>Actor</type>
+    <tmdbid>1464090</tmdbid>
+    <imdbid>nm4130813</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Jun</name>
+    <role>Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>2818526</tmdbid>
+  </actor>
+  <actor>
+    <name>Rae Lim</name>
+    <role>First Sergeant Tran</role>
+    <type>Actor</type>
+    <tmdbid>1988194</tmdbid>
+  </actor>
+  <actor>
+    <name>Merab Ninidze</name>
+    <role>Andrej Vaseliev</role>
+    <type>Actor</type>
+    <tmdbid>17817</tmdbid>
+    <imdbid>nm0632457</imdbid>
+  </actor>
+  <actor>
+    <name>George Asprey</name>
+    <role>Denis Stewart</role>
+    <type>Actor</type>
+    <tmdbid>1243338</tmdbid>
+  </actor>
+  <actor>
+    <name>Mel Fair</name>
+    <role>Hawkish Analyst</role>
+    <type>Actor</type>
+    <tmdbid>102777</tmdbid>
+    <imdbid>nm1292126</imdbid>
+  </actor>
+  <actor>
+    <name>Reza Brojerdi</name>
+    <role>Aleppo Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1552773</tmdbid>
+    <imdbid>nm3610250</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Colley</name>
+    <role>Pentagon Cop</role>
+    <type>Actor</type>
+    <tmdbid>1430712</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Graff</name>
+    <role>Detective Hue</role>
+    <type>Actor</type>
+    <tmdbid>1436512</tmdbid>
+  </actor>
+  <actor>
+    <name>Artjom Gilz</name>
+    <role>Artem</role>
+    <type>Actor</type>
+    <tmdbid>1543541</tmdbid>
+    <imdbid>nm6054463</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Paulo D'Elia</name>
+    <role>Train Station Passenger</role>
+    <type>Actor</type>
+    <tmdbid>2611200</tmdbid>
+  </actor>
+  <actor>
+    <name>Alec Rosenthal</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2435075</tmdbid>
+  </actor>
+  <actor>
+    <name>Rauand Taleb</name>
+    <role>Dalil</role>
+    <type>Actor</type>
+    <tmdbid>1482388</tmdbid>
+  </actor>
+  <actor>
+    <name>David Burnell IV</name>
+    <role>US Marshal</role>
+    <type>Actor</type>
+    <tmdbid>2321048</tmdbid>
+    <imdbid>nm6794853</imdbid>
+  </actor>
+  <director tmdbid="932533" imdbid="nm1356588">Stefano Sollima</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e-rw2cxFVLg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kRpkRkO9KUI</trailer>
+  <rating>5.8</rating>
+  <year>2021</year>
+  <sorttitle>Sin remordimientos</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt0499097</imdbid>
+  <tmdbid>567189</tmdbid>
+  <premiered>2021-04-29</premiered>
+  <releasedate>2021-04-29</releasedate>
+  <criticrating>45</criticrating>
+  <runtime>109</runtime>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Bélica</genre>
+  <studio>Paramount</studio>
+  <studio>Weed Road Pictures</studio>
+  <studio>Skydance Media</studio>
+  <studio>Midnight Radio</studio>
+  <studio>Outlier Society Productions</studio>
+  <studio>New Republic Pictures</studio>
+  <studio>Amazon Studios</studio>
+  <uniqueid type="imdb">tt0499097</uniqueid>
+  <uniqueid type="tmdb">567189</uniqueid>
+  <id>tt0499097</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1022679</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6555</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

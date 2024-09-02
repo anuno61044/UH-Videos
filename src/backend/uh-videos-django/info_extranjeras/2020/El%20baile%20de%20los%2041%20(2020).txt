@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ciudad de México, noviembre de 1901. La policía realiza  una redada en un vivienda particular donde se está celebrando una fiesta secreta. Entre los asistentes se encuentra el yerno del presidente Porfirio Díaz.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-17 08:56:26</dateadded>
+  <title>El baile de los 41</title>
+  <originaltitle>El baile de los 41</originaltitle>
+  <actor>
+    <name>Alfonso Herrera</name>
+    <role>Ignacio de la Torre</role>
+    <type>Actor</type>
+    <tmdbid>220496</tmdbid>
+    <imdbid>nm1270781</imdbid>
+    <tvdbid>470220</tvdbid>
+  </actor>
+  <actor>
+    <name>Emiliano Zurita</name>
+    <role>Evaristo Rivas</role>
+    <type>Actor</type>
+    <tmdbid>1318702</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Becerril</name>
+    <role>Porfirio Díaz</role>
+    <type>Actor</type>
+    <tmdbid>238139</tmdbid>
+    <imdbid>nm0064933</imdbid>
+  </actor>
+  <actor>
+    <name>Mabel Cadena</name>
+    <role>Amada Díaz</role>
+    <type>Actor</type>
+    <tmdbid>2213811</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina Álvarez Muñoz</name>
+    <role>Luz Díaz</role>
+    <type>Actor</type>
+    <tmdbid>2934648</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Virago</name>
+    <role>Felix Díaz</role>
+    <type>Actor</type>
+    <tmdbid>1318740</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Echevarría</name>
+    <role>Carmen Romero Rubio</role>
+    <type>Actor</type>
+    <tmdbid>1488707</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Solís</name>
+    <role>Rafael</role>
+    <type>Actor</type>
+    <tmdbid>1575632</tmdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Guerrero</name>
+    <role>Felipe</role>
+    <type>Actor</type>
+    <tmdbid>262</tmdbid>
+    <imdbid>nm0346270</imdbid>
+  </actor>
+  <actor>
+    <name>Romanni Villicaña</name>
+    <role>Agustín</role>
+    <type>Actor</type>
+    <tmdbid>2089244</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Betancourt</name>
+    <role>Lorenza</role>
+    <type>Actor</type>
+    <tmdbid>1764882</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Duarte</name>
+    <role>Gabriel</role>
+    <type>Actor</type>
+    <tmdbid>2144028</tmdbid>
+  </actor>
+  <actor>
+    <name>Abraham Juárez</name>
+    <role>Mesero</role>
+    <type>Actor</type>
+    <tmdbid>2408886</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Politi</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>1201431</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Oropeza Tapia</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>3378383</tmdbid>
+  </actor>
+  <actor>
+    <name>David Montalvo</name>
+    <role>Reina Isabel</role>
+    <type>Actor</type>
+    <tmdbid>2537440</tmdbid>
+    <imdbid>nm10039877</imdbid>
+  </actor>
+  <actor>
+    <name>Alberto Lomnitz</name>
+    <role>Hacendado 1</role>
+    <type>Actor</type>
+    <tmdbid>1845181</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Dante</name>
+    <role>Joven Dandi</role>
+    <type>Actor</type>
+    <tmdbid>3378389</tmdbid>
+  </actor>
+  <actor>
+    <name>Erwin Berzain</name>
+    <role>Los 41</role>
+    <type>Actor</type>
+    <tmdbid>3378387</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Castilla</name>
+    <role>Los 41</role>
+    <type>Actor</type>
+    <tmdbid>3378388</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Marcos</name>
+    <role>Los 41</role>
+    <type>Actor</type>
+    <tmdbid>3378390</tmdbid>
+  </actor>
+  <director tmdbid="1201582">David Pablos</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LEHpiFZlGcA</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>baile de los 41</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt11525022</imdbid>
+  <tmdbid>660637</tmdbid>
+  <premiered>2020-11-19</premiered>
+  <releasedate>2020-11-19</releasedate>
+  <criticrating>62</criticrating>
+  <country>Brazil</country>
+  <country>Mexico</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Canana</studio>
+  <studio>Bananeira Filmes</studio>
+  <studio>Telecine</studio>
+  <studio>Canal Brasil</studio>
+  <studio>Labo</studio>
+  <studio>El Estudio</studio>
+  <studio>EFD</studio>
+  <uniqueid type="imdb">tt11525022</uniqueid>
+  <uniqueid type="tmdb">660637</uniqueid>
+  <id>tt11525022</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

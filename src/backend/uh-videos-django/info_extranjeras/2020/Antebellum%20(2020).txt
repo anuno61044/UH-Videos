@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Successful author Veronica Henley finds herself trapped in a horrifying reality and must uncover the mind-bending mystery before it's too late.]]></plot>
+  <outline><![CDATA[Si te elige, no podrás escapar]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-21 08:27:12</dateadded>
+  <title>Antebellum</title>
+  <originaltitle>Antebellum</originaltitle>
+  <actor>
+    <name>Arabella Landrum</name>
+    <type>Actor</type>
+    <tmdbid>2783930</tmdbid>
+    <imdbid>nm4959292</imdbid>
+  </actor>
+  <actor>
+    <name>Jena Malone</name>
+    <type>Actor</type>
+    <tmdbid>20089</tmdbid>
+    <imdbid>nm0540441</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Lange</name>
+    <type>Actor</type>
+    <tmdbid>116514</tmdbid>
+    <imdbid>nm1441925</imdbid>
+    <tvdbid>278751</tvdbid>
+  </actor>
+  <actor>
+    <name>Janelle Monáe</name>
+    <type>Actor</type>
+    <tmdbid>1005852</tmdbid>
+    <imdbid>nm1847117</imdbid>
+  </actor>
+  <director tmdbid="2399829">Gerard Bush</director>
+  <director tmdbid="2399830">Christopher Renz</director>
+  <writer tmdbid="2399829">Gerard Bush</writer>
+  <writer tmdbid="2399830">Christopher Renz</writer>
+  <credits tmdbid="2399829">Gerard Bush</credits>
+  <credits tmdbid="2399830">Christopher Renz</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z8OOYSU_0Ec</trailer>
+  <rating>5.8</rating>
+  <year>2020</year>
+  <sorttitle>Antebellum</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10065694</imdbid>
+  <tmdbid>627290</tmdbid>
+  <premiered>2020-09-02</premiered>
+  <releasedate>2020-09-02</releasedate>
+  <criticrating>29</criticrating>
+  <runtime>106</runtime>
+  <tagline>Si te elige, no podrás escapar</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Lionsgate</studio>
+  <studio>QC Entertainment</studio>
+  <studio>Metropolitan Filmexport</studio>
+  <uniqueid type="imdb">tt10065694</uniqueid>
+  <uniqueid type="tmdb">627290</uniqueid>
+  <id>tt10065694</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1051132</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6359</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

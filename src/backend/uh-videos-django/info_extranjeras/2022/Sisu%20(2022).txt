@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En lo profundo de la naturaleza salvaje de Laponia, Aatami Korpi está buscando oro, pero después de tropezar con una patrulla nazi, comienza una persecución impresionante y hambrienta de oro a través de la naturaleza salvaje de Laponia destruida y minada.]]></plot>
+  <outline><![CDATA[La venganza es oro.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-17 08:40:21</dateadded>
+  <title>Sisu</title>
+  <originaltitle>Sisu</originaltitle>
+  <actor>
+    <name>Jorma Tommila</name>
+    <role>Aatami</role>
+    <type>Actor</type>
+    <tmdbid>148012</tmdbid>
+    <imdbid>nm0866918</imdbid>
+  </actor>
+  <actor>
+    <name>Aksel Hennie</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>76547</tmdbid>
+    <imdbid>nm0377336</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Doolan</name>
+    <role>Wolf</role>
+    <type>Actor</type>
+    <tmdbid>116265</tmdbid>
+    <imdbid>nm1660027</imdbid>
+    <tvdbid>604579</tvdbid>
+  </actor>
+  <actor>
+    <name>Mimosa Willamo</name>
+    <role>Aino</role>
+    <type>Actor</type>
+    <tmdbid>1448024</tmdbid>
+    <tvdbid>7866716</tvdbid>
+  </actor>
+  <actor>
+    <name>Onni Tommila</name>
+    <role>Schütze</role>
+    <type>Actor</type>
+    <tmdbid>124870</tmdbid>
+    <imdbid>nm2762369</imdbid>
+  </actor>
+  <actor>
+    <name>Tatu Sinisalo</name>
+    <role>SS Soldier 1</role>
+    <type>Actor</type>
+    <tmdbid>1646708</tmdbid>
+  </actor>
+  <actor>
+    <name>Wilhelm Enckell</name>
+    <role>SS Soldier 3</role>
+    <type>Actor</type>
+    <tmdbid>1207810</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Willestrand</name>
+    <role>SS Soldier 4</role>
+    <type>Actor</type>
+    <tmdbid>3026703</tmdbid>
+  </actor>
+  <actor>
+    <name>Arttu Kapulainen</name>
+    <role>Rower</role>
+    <type>Actor</type>
+    <tmdbid>148353</tmdbid>
+  </actor>
+  <actor>
+    <name>Elina Saarela</name>
+    <role>Saara</role>
+    <type>Actor</type>
+    <tmdbid>1969616</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilkka Koivula</name>
+    <role>Fighter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>16778</tmdbid>
+    <imdbid>nm0463568</imdbid>
+  </actor>
+  <actor>
+    <name>Max Ovaska</name>
+    <role>Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1037333</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Hirvonen</name>
+    <role>Personnel Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1649307</tmdbid>
+  </actor>
+  <actor>
+    <name>Pekka Huotari</name>
+    <role>Pilot</role>
+    <type>Actor</type>
+    <tmdbid>89511</tmdbid>
+  </actor>
+  <actor>
+    <name>Severi Saarinen</name>
+    <role>Troop Leader</role>
+    <type>Actor</type>
+    <tmdbid>1630596</tmdbid>
+  </actor>
+  <actor>
+    <name>Aamu Milonoff</name>
+    <role>Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>2329587</tmdbid>
+  </actor>
+  <actor>
+    <name>Joonas Brilli</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896427</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Francett</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896428</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Francett</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3403707</tmdbid>
+  </actor>
+  <actor>
+    <name>Eemeli Franssi</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896429</tmdbid>
+  </actor>
+  <actor>
+    <name>Jussi Kaila</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896430</tmdbid>
+  </actor>
+  <actor>
+    <name>Jarkko Klemetti</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896431</tmdbid>
+  </actor>
+  <actor>
+    <name>Henri Koljonen</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896432</tmdbid>
+  </actor>
+  <actor>
+    <name>Pekka Laakso</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896433</tmdbid>
+  </actor>
+  <actor>
+    <name>Martti Näätä Leinonen</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896434</tmdbid>
+  </actor>
+  <actor>
+    <name>Joosua Oja</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896435</tmdbid>
+  </actor>
+  <actor>
+    <name>Pietari Paappanen</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896436</tmdbid>
+  </actor>
+  <actor>
+    <name>Oskari Skyttä</name>
+    <role>SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896437</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomi Lampinen</name>
+    <role>Gunner</role>
+    <type>Actor</type>
+    <tmdbid>3403728</tmdbid>
+  </actor>
+  <actor>
+    <name>Mila Leppälä</name>
+    <role>Woman Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>3896438</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmi Mäenpää</name>
+    <role>Woman Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>3896439</tmdbid>
+  </actor>
+  <actor>
+    <name>Nora Nevia</name>
+    <role>Woman Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>3896440</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Tyni</name>
+    <role>Woman Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>3896441</tmdbid>
+  </actor>
+  <actor>
+    <name>Anssi-Pekka Fredriksson</name>
+    <role>Dead SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896442</tmdbid>
+  </actor>
+  <actor>
+    <name>Jarmo Hietamäki</name>
+    <role>Dead SS Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896443</tmdbid>
+  </actor>
+  <actor>
+    <name>Wellu Mikkonen</name>
+    <role>Prisoner Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>2488447</tmdbid>
+  </actor>
+  <actor>
+    <name>Akseli Hakovirta</name>
+    <role>Finnish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896444</tmdbid>
+  </actor>
+  <actor>
+    <name>Juho-Lauri Hakovirta</name>
+    <role>Finnish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896445</tmdbid>
+  </actor>
+  <actor>
+    <name>Iisko Hirvasvuopio</name>
+    <role>Finnish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896446</tmdbid>
+  </actor>
+  <actor>
+    <name>Sakari Maliniemi</name>
+    <role>Finnish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3403730</tmdbid>
+  </actor>
+  <actor>
+    <name>Jukka Vuorela</name>
+    <role>Finnish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3896447</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Joki</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3446199</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikita Makkojev</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3896448</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmin Valjas</name>
+    <role>Assistant Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>3896449</tmdbid>
+  </actor>
+  <actor>
+    <name>Linnea Vilppunen</name>
+    <role>Assistant Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>3896450</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannu Anttila</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896451</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Esposito</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896453</tmdbid>
+  </actor>
+  <actor>
+    <name>Tarmo Hassinen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896454</tmdbid>
+  </actor>
+  <actor>
+    <name>Miia Heikkinen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896455</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimmo Henriksson</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896457</tmdbid>
+  </actor>
+  <actor>
+    <name>Arto Kairajärvi</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896459</tmdbid>
+  </actor>
+  <actor>
+    <name>Risto Korhonen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>2159213</tmdbid>
+  </actor>
+  <actor>
+    <name>Mirva Korvala</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896463</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Madlin</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3714475</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Malmsten</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896464</tmdbid>
+  </actor>
+  <actor>
+    <name>Annika Moisio</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896465</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Parkkinen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3169946</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommi Pelkonen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896467</tmdbid>
+  </actor>
+  <actor>
+    <name>Arto Peltomäki</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896469</tmdbid>
+  </actor>
+  <actor>
+    <name>Leena Sormunen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3482662</tmdbid>
+  </actor>
+  <actor>
+    <name>Pekka Virkkunen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>3896471</tmdbid>
+  </actor>
+  <actor>
+    <name>Jukka Virtanen</name>
+    <role>Bank Customer</role>
+    <type>Actor</type>
+    <tmdbid>2517684</tmdbid>
+  </actor>
+  <actor>
+    <name>Tinwelindon Belbog</name>
+    <role>Ukko</role>
+    <type>Actor</type>
+    <tmdbid>4042546</tmdbid>
+  </actor>
+  <director tmdbid="145228" imdbid="nm1118351">Jalmari Helander</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eGKnowI0Y8A</trailer>
+  <rating>6.9</rating>
+  <year>2023</year>
+  <sorttitle>Sisu</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14846026</imdbid>
+  <tmdbid>840326</tmdbid>
+  <premiered>2023-01-27</premiered>
+  <releasedate>2023-01-27</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>91</runtime>
+  <tagline>La venganza es oro.</tagline>
+  <country>Finland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Bélica</genre>
+  <studio>Subzero Film Entertainment</studio>
+  <studio>Good Chaos</studio>
+  <studio>Stage 6 Films</studio>
+  <studio>Lionsgate</studio>
+  <uniqueid type="imdb">tt14846026</uniqueid>
+  <uniqueid type="tmdb">840326</uniqueid>
+  <id>tt14846026</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1219080</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5481</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

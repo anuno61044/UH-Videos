@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue a Julian, un exitoso diseñador de videojuegos torturado por un oscuro secreto. Cuando Diana aparezca en su vida, Julian comenzará a ver una oportunidad de ser feliz.  Según Vermut, “Mantícora” habita en el mismo universo de terror cotidiano que el resto de sus películas hasta la fecha. “'Mantícora' habla de un verdadero monstruo, ese que vive entre nosotros, algo con lo que te puedes topar en el metro o en la cola de la panadería. Habla de la necesidad de un monstruo de amar y ser amado ". Vermut explicó y agregó: "Es una historia sobre el amor y los monstruos en los tiempos modernos".]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-03 08:12:13</dateadded>
+  <title>Mantícora</title>
+  <originaltitle>Mantícora</originaltitle>
+  <actor>
+    <name>Nacho Sánchez</name>
+    <role>Julián</role>
+    <type>Actor</type>
+    <tmdbid>2388421</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Stein</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tvdbid>9064420</tvdbid>
+    <tmdbid>1657611</tmdbid>
+  </actor>
+  <actor>
+    <name>Catalina Sopelana</name>
+    <role>Chica discoteca</role>
+    <type>Actor</type>
+    <tmdbid>2164904</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Lago</name>
+    <role>Agente inmobiliario</role>
+    <type>Actor</type>
+    <tmdbid>1236753</tmdbid>
+    <imdbid>nm0481336</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Martino</name>
+    <role>Elías</role>
+    <type>Actor</type>
+    <tmdbid>2339860</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángela Boix</name>
+    <role>Madre de Cristian</role>
+    <type>Actor</type>
+    <tmdbid>1106574</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicenta N'Dongo</name>
+    <role>Productora</role>
+    <type>Actor</type>
+    <tmdbid>560251</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Amargós Rubert</name>
+    <role>Doctor videojuego</role>
+    <type>Actor</type>
+    <tmdbid>1344451</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Ausellé</name>
+    <role>Raúl</role>
+    <type>Actor</type>
+    <tmdbid>1499938</tmdbid>
+  </actor>
+  <actor>
+    <name>Miquel Insúa</name>
+    <role>Médico urgencias</role>
+    <type>Actor</type>
+    <tmdbid>1618331</tmdbid>
+  </actor>
+  <actor>
+    <name>Aitziber Garmendia</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+    <tmdbid>1077139</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Ysasi</name>
+    <role>Médico Summa</role>
+    <type>Actor</type>
+    <tmdbid>1639589</tmdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Sanz Rodríguez</name>
+    <role>Cristian</role>
+    <type>Actor</type>
+    <tmdbid>3308069</tmdbid>
+  </actor>
+  <actor>
+    <name>Xabi Tolosa</name>
+    <role>Diseñador videojuego</role>
+    <type>Actor</type>
+    <tmdbid>1262582</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Tejela López</name>
+    <role>Recepcionista urgencias</role>
+    <type>Actor</type>
+    <tmdbid>3924533</tmdbid>
+  </actor>
+  <actor>
+    <name>Violeta Gil</name>
+    <role>Diseñadora videojuego</role>
+    <type>Actor</type>
+    <tmdbid>3924534</tmdbid>
+  </actor>
+  <actor>
+    <name>Araceli Galán</name>
+    <role>Recepcionista</role>
+    <type>Actor</type>
+    <tmdbid>3924536</tmdbid>
+  </actor>
+  <actor>
+    <name>Martine Gutierrez</name>
+    <role>Adela</role>
+    <type>Actor</type>
+    <tmdbid>3166480</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariadna Paniagua</name>
+    <role>Chica pueblo</role>
+    <type>Actor</type>
+    <tmdbid>3924539</tmdbid>
+  </actor>
+  <actor>
+    <name>Arantxa Zambrano</name>
+    <role>Jefa cirugía</role>
+    <type>Actor</type>
+    <tmdbid>3744849</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Arranz</name>
+    <role>Policía 1</role>
+    <type>Actor</type>
+    <tmdbid>3924544</tmdbid>
+  </actor>
+  <actor>
+    <name>Chema Moro</name>
+    <role>Policía 2</role>
+    <type>Actor</type>
+    <tmdbid>3924547</tmdbid>
+  </actor>
+  <director tmdbid="1106577" imdbid="nm4209430">Carlos Vermut</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u04i10WZKdk</trailer>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>Manticora</sorttitle>
+  <imdbid>tt13014746</imdbid>
+  <tmdbid>760158</tmdbid>
+  <premiered>2022-12-09</premiered>
+  <releasedate>2022-12-09</releasedate>
+  <runtime>111</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Aquí y Allí Films</studio>
+  <studio>Cinema 77 Films</studio>
+  <studio>BTeam Pictures</studio>
+  <studio>Movistar+</studio>
+  <studio>Crea SGR</studio>
+  <studio>ICAA</studio>
+  <uniqueid type="tmdb">760158</uniqueid>
+  <uniqueid type="imdb">tt13014746</uniqueid>
+  <id>tt13014746</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>916702</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6676</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63951</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

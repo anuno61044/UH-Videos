@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven pareja viaja a uno de los destinos más exclusivos del mundo para cenar en un restaurante que ofrece una experiencia culinaria única. Sin embargo, el chef ha preparado un ingrediente secreto que tendrá un resultado sorprendente en los dos enamorados.]]></plot>
+  <outline><![CDATA[Les esperan maravillosas sorpresas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-03 14:59:24</dateadded>
+  <title>El menú</title>
+  <originaltitle>The Menu</originaltitle>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Margot</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Fiennes</name>
+    <role>Chef Slowik</role>
+    <type>Actor</type>
+    <tmdbid>5469</tmdbid>
+    <imdbid>nm0000146</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Hoult</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>3292</tmdbid>
+    <imdbid>nm0396558</imdbid>
+  </actor>
+  <actor>
+    <name>Janet McTeer</name>
+    <role>Lillian</role>
+    <type>Actor</type>
+    <tmdbid>47627</tmdbid>
+    <imdbid>nm0005216</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Adelstein</name>
+    <role>Ted</role>
+    <type>Actor</type>
+    <tmdbid>17342</tmdbid>
+    <imdbid>nm0011882</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Yang</name>
+    <role>Bryce</role>
+    <type>Actor</type>
+    <tmdbid>207389</tmdbid>
+    <imdbid>nm2342888</imdbid>
+    <tvdbid>308212</tvdbid>
+  </actor>
+  <actor>
+    <name>Aimee Carrero</name>
+    <role>Felicity</role>
+    <type>Actor</type>
+    <tmdbid>1224238</tmdbid>
+    <imdbid>nm2948025</imdbid>
+    <tvdbid>466959</tvdbid>
+  </actor>
+  <actor>
+    <name>John Leguizamo</name>
+    <role>Movie Star</role>
+    <type>Actor</type>
+    <tmdbid>5723</tmdbid>
+    <imdbid>nm0000491</imdbid>
+    <tvdbid>274194</tvdbid>
+  </actor>
+  <actor>
+    <name>Arturo Castro</name>
+    <role>Soren</role>
+    <type>Actor</type>
+    <tmdbid>1457999</tmdbid>
+    <tvdbid>474795</tvdbid>
+  </actor>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>163774</tmdbid>
+    <imdbid>nm0083714</imdbid>
+  </actor>
+  <actor>
+    <name>Hong Chau</name>
+    <role>Elsa</role>
+    <type>Actor</type>
+    <tmdbid>1360317</tmdbid>
+  </actor>
+  <actor>
+    <name>Judith Light</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>80415</tmdbid>
+    <imdbid>nm0509937</imdbid>
+    <tvdbid>253832</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark St. Cyr</name>
+    <role>Dave</role>
+    <type>Actor</type>
+    <tmdbid>1376148</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Koon</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>174133</tmdbid>
+    <imdbid>nm0465572</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Grosz</name>
+    <role>Sommelier</role>
+    <type>Actor</type>
+    <tmdbid>1154221</tmdbid>
+    <imdbid>nm2003994</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Brucato</name>
+    <role>Katherine</role>
+    <type>Actor</type>
+    <tmdbid>69483</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Aalderks</name>
+    <role>Jeremy</role>
+    <type>Actor</type>
+    <tmdbid>1438261</tmdbid>
+    <tvdbid>524957</tvdbid>
+  </actor>
+  <actor>
+    <name>Jon Paul Allyn</name>
+    <role>Boat Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3793955</tmdbid>
+  </actor>
+  <actor>
+    <name>Mel Fair</name>
+    <role>Boatman</role>
+    <type>Actor</type>
+    <tmdbid>102777</tmdbid>
+    <imdbid>nm1292126</imdbid>
+  </actor>
+  <actor>
+    <name>Cristian Gonzalez</name>
+    <role>Server 1</role>
+    <type>Actor</type>
+    <tmdbid>2357051</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Cornwell</name>
+    <role>Dale / Coast Guard Officer</role>
+    <type>Actor</type>
+    <tmdbid>1068811</tmdbid>
+    <imdbid>nm1494966</imdbid>
+  </actor>
+  <actor>
+    <name>John Wilkins III</name>
+    <role>Server 2</role>
+    <type>Actor</type>
+    <tmdbid>2356660</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cola</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3793959</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael A. Dean</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1860786</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Aveons Duncan</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3793960</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Goldstein</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3626836</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Henley</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2573726</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Herron</name>
+    <role>Front of House (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3793962</tmdbid>
+  </actor>
+  <actor>
+    <name>Elbert Kim</name>
+    <role>Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3405715</tmdbid>
+  </actor>
+  <actor>
+    <name>Melisa Lopez</name>
+    <role>Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3654688</tmdbid>
+  </actor>
+  <actor>
+    <name>A. Jae Michele</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3793965</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Shadix</name>
+    <role>Front of House (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3793966</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Trautmann</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3537686</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Zheng</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3626818</tmdbid>
+  </actor>
+  <director tmdbid="57199" imdbid="nm0617042">Mark Mylod</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e0n8hdMh3-k</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5X8Lu3Jj5D0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mFZiOK_5B4A</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YdlMC-IsmUY</trailer>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>menu</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9764362</imdbid>
+  <tmdbid>593643</tmdbid>
+  <premiered>2022-11-17</premiered>
+  <releasedate>2022-11-17</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>107</runtime>
+  <tagline>Les esperan maravillosas sorpresas.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Hyperobject Industries</studio>
+  <studio>Searchlight Pictures</studio>
+  <studio>Gary Sanchez Productions</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="tmdb">593643</uniqueid>
+  <uniqueid type="imdb">tt9764362</uniqueid>
+  <id>tt9764362</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1039819</bitrate>
+        <width>1280</width>
+        <height>540</height>
+        <aspect>391680:165851</aspect>
+        <aspectratio>391680:165851</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6427</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

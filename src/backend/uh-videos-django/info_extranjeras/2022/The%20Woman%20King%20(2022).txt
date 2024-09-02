@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una epopeya histórica inspirada en los hechos reales que sucedieron en el Reino de Dahomey, uno de los estados más poderosos de África en los siglos XVIII y XIX. La historia sigue a Nanisca (Davis), general de la unidad militar exclusivamente femenina y a Nawi (Mbedu), una recluta ambiciosa. Juntas lucharon contra enemigos que violaron su honor, esclavizaron a su gente y amenazaron con destruir todo por lo que habían vivido.]]></plot>
+  <outline><![CDATA[Su reinado comienza]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-04 12:56:33</dateadded>
+  <title>La mujer rey</title>
+  <originaltitle>The Woman King</originaltitle>
+  <actor>
+    <name>Viola Davis</name>
+    <role>Nanisca</role>
+    <type>Actor</type>
+    <tmdbid>19492</tmdbid>
+    <imdbid>nm0205626</imdbid>
+    <tvdbid>269662</tvdbid>
+  </actor>
+  <actor>
+    <name>Thuso Mbedu</name>
+    <role>Nawi</role>
+    <type>Actor</type>
+    <tmdbid>2286339</tmdbid>
+    <imdbid>nm9096847</imdbid>
+    <tvdbid>7880846</tvdbid>
+  </actor>
+  <actor>
+    <name>Lashana Lynch</name>
+    <role>Izogie</role>
+    <type>Actor</type>
+    <tmdbid>1360281</tmdbid>
+    <imdbid>nm2736476</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Atim</name>
+    <role>Amenza</role>
+    <type>Actor</type>
+    <tmdbid>1851642</tmdbid>
+  </actor>
+  <actor>
+    <name>John Boyega</name>
+    <role>King Ghezo</role>
+    <type>Actor</type>
+    <tmdbid>236695</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Bolger</name>
+    <role>Malik</role>
+    <type>Actor</type>
+    <tmdbid>1674734</tmdbid>
+    <imdbid>nm6304865</imdbid>
+  </actor>
+  <actor>
+    <name>Hero Fiennes Tiffin</name>
+    <role>Santo Ferreira</role>
+    <type>Actor</type>
+    <tmdbid>1114487</tmdbid>
+    <imdbid>nm2842005</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Odukoya</name>
+    <role>Oba Ade</role>
+    <type>Actor</type>
+    <tmdbid>2015187</tmdbid>
+  </actor>
+  <actor>
+    <name>Masali Baduza</name>
+    <role>Fumbe</role>
+    <type>Actor</type>
+    <tmdbid>2538481</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayme Lawson</name>
+    <role>Shante</role>
+    <type>Actor</type>
+    <tmdbid>2455272</tmdbid>
+    <tvdbid>8160957</tvdbid>
+  </actor>
+  <actor>
+    <name>Adrienne Warren</name>
+    <role>Ode</role>
+    <type>Actor</type>
+    <tmdbid>1165923</tmdbid>
+  </actor>
+  <actor>
+    <name>Chioma Antoinette Umeala</name>
+    <role>Tara</role>
+    <type>Actor</type>
+    <tmdbid>3616915</tmdbid>
+  </actor>
+  <actor>
+    <name>Siyamthanda Makakane</name>
+    <role>Cindra</role>
+    <type>Actor</type>
+    <tmdbid>3863454</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaina West</name>
+    <role>Esi</role>
+    <type>Actor</type>
+    <tmdbid>2410230</tmdbid>
+  </actor>
+  <actor>
+    <name>Sivuyile Ngesi</name>
+    <role>The Migan</role>
+    <type>Actor</type>
+    <tmdbid>1331834</tmdbid>
+  </actor>
+  <actor>
+    <name>Riaan Visman</name>
+    <role>Tanonu</role>
+    <type>Actor</type>
+    <tmdbid>2067536</tmdbid>
+  </actor>
+  <actor>
+    <name>Seputla Sebogodi</name>
+    <role>The Meu</role>
+    <type>Actor</type>
+    <tmdbid>23836</tmdbid>
+  </actor>
+  <actor>
+    <name>Angélique Kidjo</name>
+    <role>The Meunon</role>
+    <type>Actor</type>
+    <tmdbid>1231822</tmdbid>
+  </actor>
+  <actor>
+    <name>Wanda Banda</name>
+    <role>Young Nanisca</role>
+    <type>Actor</type>
+    <tmdbid>3719592</tmdbid>
+  </actor>
+  <actor>
+    <name>Lethabo</name>
+    <role>Young Amenza</role>
+    <type>Actor</type>
+    <tmdbid>3719594</tmdbid>
+  </actor>
+  <actor>
+    <name>Kekole Mathabathe</name>
+    <role>Ajahe</role>
+    <type>Actor</type>
+    <tmdbid>3863455</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Hadebe</name>
+    <role>Oyo Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1138169</tmdbid>
+    <imdbid>nm2748615</imdbid>
+  </actor>
+  <actor>
+    <name>Kgomotso Moshia</name>
+    <role>Dayo</role>
+    <type>Actor</type>
+    <tmdbid>3863456</tmdbid>
+  </actor>
+  <actor>
+    <name>Zozibini Tunzi</name>
+    <role>Efe</role>
+    <type>Actor</type>
+    <tmdbid>3863457</tmdbid>
+  </actor>
+  <actor>
+    <name>Makgotso M</name>
+    <role>Iniya</role>
+    <type>Actor</type>
+    <tmdbid>3359863</tmdbid>
+  </actor>
+  <actor>
+    <name>Thando Dlomo</name>
+    <role>Kelu</role>
+    <type>Actor</type>
+    <tmdbid>3303183</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeaf Ejama</name>
+    <role>Fumbe's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3863458</tmdbid>
+  </actor>
+  <actor>
+    <name>Julius Tennon</name>
+    <role>Moru</role>
+    <type>Actor</type>
+    <tmdbid>156405</tmdbid>
+    <imdbid>nm0855132</imdbid>
+  </actor>
+  <actor>
+    <name>Pumla Ndlazi</name>
+    <role>Ydande</role>
+    <type>Actor</type>
+    <tmdbid>1148524</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonko Khoza</name>
+    <role>Boma</role>
+    <type>Actor</type>
+    <tmdbid>1531928</tmdbid>
+  </actor>
+  <actor>
+    <name>Sne Mbatha</name>
+    <role>Okankan</role>
+    <type>Actor</type>
+    <tmdbid>3133908</tmdbid>
+  </actor>
+  <actor>
+    <name>Boitumelo Makgalemele</name>
+    <role>Lida</role>
+    <type>Actor</type>
+    <tmdbid>3863461</tmdbid>
+  </actor>
+  <actor>
+    <name>Bongo Mbutuma</name>
+    <role>Oyo Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1187374</tmdbid>
+    <imdbid>nm2260733</imdbid>
+  </actor>
+  <actor>
+    <name>Kwanda Tim Dlamini</name>
+    <role>Bothi</role>
+    <type>Actor</type>
+    <tmdbid>3863462</tmdbid>
+  </actor>
+  <actor>
+    <name>Nhlanhla Mkhwanazi</name>
+    <role>Master Abade</role>
+    <type>Actor</type>
+    <tmdbid>2441547</tmdbid>
+  </actor>
+  <actor>
+    <name>Didi Ledwaba</name>
+    <role>Teenage Girl</role>
+    <type>Actor</type>
+    <tmdbid>3863463</tmdbid>
+  </actor>
+  <actor>
+    <name>Chumani Pan</name>
+    <role>Abomey Father</role>
+    <type>Actor</type>
+    <tmdbid>1588211</tmdbid>
+  </actor>
+  <actor>
+    <name>Cebelihle Mbambo</name>
+    <role>Curious Abomey Child</role>
+    <type>Actor</type>
+    <tmdbid>3863464</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Ncekana</name>
+    <role>Dahomey Warrior</role>
+    <type>Actor</type>
+    <tmdbid>3863465</tmdbid>
+  </actor>
+  <actor>
+    <name>Tuks Tad Lungu</name>
+    <role>Village Leader</role>
+    <type>Actor</type>
+    <tmdbid>1876329</tmdbid>
+  </actor>
+  <actor>
+    <name>Yannick Brand</name>
+    <role>African Kruman</role>
+    <type>Actor</type>
+    <tmdbid>3863466</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Sekhokoane</name>
+    <role>Shopkeeper</role>
+    <type>Actor</type>
+    <tmdbid>3863468</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Mukadi</name>
+    <role>Young Oba</role>
+    <type>Actor</type>
+    <tmdbid>3863469</tmdbid>
+  </actor>
+  <actor>
+    <name>Princess Elmore</name>
+    <role>Villager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2714815</tmdbid>
+  </actor>
+  <director tmdbid="71947" imdbid="nm0697656">Gina Prince-Bythewood</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hCETJBf8KrQ</trailer>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>mujer rey</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8093700</imdbid>
+  <tmdbid>724495</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>135</runtime>
+  <tagline>Su reinado comienza</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>TriStar Pictures</studio>
+  <studio>Entertainment One</studio>
+  <studio>JuVee Productions</studio>
+  <studio>Jack Blue Productions</studio>
+  <uniqueid type="tmdb">724495</uniqueid>
+  <uniqueid type="imdb">tt8093700</uniqueid>
+  <id>tt8093700</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>929464</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8089</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

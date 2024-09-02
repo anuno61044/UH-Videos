@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Two friends with very different ideals start a beauty company together. One is more practical while the other wants to earn her fortune and live a lavish lifestyle.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:16:54</dateadded>
+  <title>Like a Boss</title>
+  <originaltitle>Like a Boss</originaltitle>
+  <actor>
+    <name>Tiffany Haddish</name>
+    <type>Actor</type>
+    <tmdbid>1230868</tmdbid>
+    <imdbid>nm1840504</imdbid>
+    <tvdbid>311354</tvdbid>
+  </actor>
+  <actor>
+    <name>Rose Byrne</name>
+    <type>Actor</type>
+    <tmdbid>9827</tmdbid>
+    <imdbid>nm0126284</imdbid>
+    <tvdbid>311189</tvdbid>
+  </actor>
+  <actor>
+    <name>Salma Hayek</name>
+    <type>Actor</type>
+    <tmdbid>3136</tmdbid>
+    <imdbid>nm0000161</imdbid>
+  </actor>
+  <actor>
+    <name>Karan Soni</name>
+    <type>Actor</type>
+    <tmdbid>1109702</tmdbid>
+    <imdbid>nm4175221</imdbid>
+    <tvdbid>300202</tvdbid>
+  </actor>
+  <director tmdbid="61069" imdbid="nm0037708">Miguel Arteta</director>
+  <writer>Sam Pitman (story by)</writer>
+  <writer>Adam Cole-Kelly (story by)</writer>
+  <writer>Danielle Sanchez-Witzel (story by)</writer>
+  <writer>Sam Pitman (screenplay by)</writer>
+  <writer>Adam Cole-Kelly (screenplay by)</writer>
+  <credits>Sam Pitman (story by)</credits>
+  <credits>Adam Cole-Kelly (story by)</credits>
+  <credits>Danielle Sanchez-Witzel (story by)</credits>
+  <credits>Sam Pitman (screenplay by)</credits>
+  <credits>Adam Cole-Kelly (screenplay by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9ESkyRFEso4</trailer>
+  <rating>4.7</rating>
+  <year>2020</year>
+  <sorttitle>Like a Boss</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7545266</imdbid>
+  <tmdbid>526019</tmdbid>
+  <premiered>2020-01-09</premiered>
+  <releasedate>2020-01-09</releasedate>
+  <runtime>83</runtime>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <studio>Artists First</studio>
+  <studio>Paramount</studio>
+  <uniqueid type="imdb">tt7545266</uniqueid>
+  <uniqueid type="tmdb">526019</uniqueid>
+  <id>tt7545266</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1335310</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>5005</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

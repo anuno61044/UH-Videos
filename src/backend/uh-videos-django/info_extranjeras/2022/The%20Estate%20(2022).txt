@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos hermanas descubren que su tía rica tiene una enfermedad terminal y planean obtener su herencia, las hermanas planean mejorar su relación, pero pronto descubren que no son las únicas en la familia con un plan similar.]]></plot>
+  <outline><![CDATA[Donde hay testamento hay guerra.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-28 09:59:02</dateadded>
+  <title>Una herencia de muerte</title>
+  <originaltitle>The Estate</originaltitle>
+  <actor>
+    <name>Toni Collette</name>
+    <role>Macey</role>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+    <tvdbid>360423</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Faris</name>
+    <role>Savanna</role>
+    <type>Actor</type>
+    <tmdbid>1772</tmdbid>
+    <imdbid>nm0267506</imdbid>
+  </actor>
+  <actor>
+    <name>David Duchovny</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>12640</tmdbid>
+    <imdbid>nm0000141</imdbid>
+  </actor>
+  <actor>
+    <name>Rosemarie DeWitt</name>
+    <role>Beatrice</role>
+    <type>Actor</type>
+    <tmdbid>14892</tmdbid>
+    <imdbid>nm1679669</imdbid>
+    <tvdbid>327331</tvdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Turner</name>
+    <role>Aunt Hilda</role>
+    <type>Actor</type>
+    <tmdbid>3391</tmdbid>
+    <imdbid>nm0000678</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Livingston</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>17402</tmdbid>
+    <imdbid>nm0515296</imdbid>
+    <tvdbid>310440</tvdbid>
+  </actor>
+  <actor>
+    <name>Keyla Monterroso Mejia</name>
+    <role>Ellen</role>
+    <type>Actor</type>
+    <tmdbid>3106478</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Vinson</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>1074187</tmdbid>
+    <imdbid>nm0899087</imdbid>
+  </actor>
+  <actor>
+    <name>Gichi Gamba</name>
+    <role>Geoff</role>
+    <type>Actor</type>
+    <tmdbid>155767</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia French</name>
+    <role>Diane</role>
+    <type>Actor</type>
+    <tmdbid>128207</tmdbid>
+    <imdbid>nm0294170</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Esteban</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>3811862</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Baptiste</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1473962</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Slaughter</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>62784</tmdbid>
+    <imdbid>nm1551999</imdbid>
+  </actor>
+  <actor>
+    <name>Ronald Chavis</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3696516</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Gaspard</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1514475</tmdbid>
+    <imdbid>nm6140184</imdbid>
+  </actor>
+  <director tmdbid="22807">Dean Craig</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=psbRvkQ8AlY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DqTEVmed0Bc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ITRlOOo_atQ</trailer>
+  <rating>5.2</rating>
+  <year>2022</year>
+  <sorttitle>Una herencia de muerte</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt16302202</imdbid>
+  <tmdbid>910858</tmdbid>
+  <premiered>2022-11-04</premiered>
+  <releasedate>2022-11-04</releasedate>
+  <criticrating>30</criticrating>
+  <runtime>97</runtime>
+  <tagline>Donde hay testamento hay guerra.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Capstone Pictures</studio>
+  <studio>Pretty Matches Productions</studio>
+  <studio>Signature Films</studio>
+  <uniqueid type="imdb">tt16302202</uniqueid>
+  <uniqueid type="tmdb">910858</uniqueid>
+  <id>tt16302202</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1152321</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5795</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

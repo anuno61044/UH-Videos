@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lide discovers that her daughter Ane has gone missing and together with ex-husband Fernando investigates her whereabouts.]]></plot>
+  <outline><![CDATA[¿Realmente conoces a tu hija?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-08 09:51:39</dateadded>
+  <title>Ane Is Missing</title>
+  <originaltitle>Ane</originaltitle>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Jone Laspiur</name>
+    <type>Actor</type>
+    <tmdbid>2480576</tmdbid>
+    <imdbid>nm10678596</imdbid>
+  </actor>
+  <actor>
+    <name>Mikel Losada</name>
+    <type>Actor</type>
+    <tmdbid>1076948</tmdbid>
+    <imdbid>nm1390413</imdbid>
+    <tvdbid>8283299</tvdbid>
+  </actor>
+  <actor>
+    <name>Aia Kruse</name>
+    <type>Actor</type>
+    <tmdbid>1695422</tmdbid>
+  </actor>
+  <director tmdbid="2632889">David Pérez Sañudo</director>
+  <writer>Marina Parés</writer>
+  <writer tmdbid="2632889">David Pérez Sañudo</writer>
+  <credits>Marina Parés</credits>
+  <credits tmdbid="2632889">David Pérez Sañudo</credits>
+  <rating>5.9</rating>
+  <year>2020</year>
+  <sorttitle>Ane Is Missing</sorttitle>
+  <imdbid>tt7960322</imdbid>
+  <tmdbid>736203</tmdbid>
+  <premiered>2020-10-16</premiered>
+  <releasedate>2020-10-16</releasedate>
+  <runtime>95</runtime>
+  <tagline>¿Realmente conoces a tu hija?</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Amania Films</studio>
+  <studio>EiTB</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt7960322</uniqueid>
+  <uniqueid type="tmdb">736203</uniqueid>
+  <id>tt7960322</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>2091572</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5709</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

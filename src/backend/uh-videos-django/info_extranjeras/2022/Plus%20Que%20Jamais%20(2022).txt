@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Hélène, a 33-year-old woman from Bordeaux, France, lives happily as a couple with Mathieu, her husband of many years. Her life turns upside down the day she learns she has a rare lung disease. Thanks to a blog, she discovers Norway and decides to follow her instinct. Despite all the love she has for her life partner Mathieu, who is very supportive through her illness, she leaves him behind in France and will cross all Europe to Norway alone in search of a new path and to meet a blogger named Mister that she found on the internet.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-11 08:31:08</dateadded>
+  <title>Plus que jamais</title>
+  <originaltitle>Plus que jamais</originaltitle>
+  <actor>
+    <name>Vicky Krieps</name>
+    <role>Hélène</role>
+    <type>Actor</type>
+    <tmdbid>1080195</tmdbid>
+    <imdbid>nm3043279</imdbid>
+  </actor>
+  <actor>
+    <name>Gaspard Ulliel</name>
+    <role>Matthieu</role>
+    <type>Actor</type>
+    <tmdbid>16790</tmdbid>
+    <imdbid>nm0880484</imdbid>
+  </actor>
+  <actor>
+    <name>Bjørn Floberg</name>
+    <role>Mister</role>
+    <type>Actor</type>
+    <tmdbid>67988</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Langevin</name>
+    <role>Docteur Girlotto</role>
+    <type>Actor</type>
+    <tmdbid>554272</tmdbid>
+  </actor>
+  <actor>
+    <name>Valérie Bodson</name>
+    <role>Mamm</role>
+    <type>Actor</type>
+    <tmdbid>1147035</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérémy Barbier d'Hiver</name>
+    <role>Luc</role>
+    <type>Actor</type>
+    <tmdbid>3755339</tmdbid>
+  </actor>
+  <actor>
+    <name>Marion Cadeau</name>
+    <role>Audrey</role>
+    <type>Actor</type>
+    <tmdbid>3755341</tmdbid>
+  </actor>
+  <actor>
+    <name>Yacine Sif El Islam</name>
+    <role>Mehdi</role>
+    <type>Actor</type>
+    <tmdbid>3755342</tmdbid>
+  </actor>
+  <actor>
+    <name>Estelle Kerkor</name>
+    <role>Béné</role>
+    <type>Actor</type>
+    <tmdbid>3755343</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Man</name>
+    <role>Zoé</role>
+    <type>Actor</type>
+    <tmdbid>3755344</tmdbid>
+  </actor>
+  <actor>
+    <name>Baptiste Girard</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>3755346</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Linton</name>
+    <role>Olivier</role>
+    <type>Actor</type>
+    <tmdbid>3755347</tmdbid>
+  </actor>
+  <actor>
+    <name>Bess Davies</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>2152486</tmdbid>
+  </actor>
+  <actor>
+    <name>Astrid Overå</name>
+    <role>Marte</role>
+    <type>Actor</type>
+    <tmdbid>1926926</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthieu Chedid</name>
+    <type>Actor</type>
+    <tmdbid>66841</tmdbid>
+  </actor>
+  <director tmdbid="150390">Emily Atef</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m__El3iEmqE</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Plus que jamais</sorttitle>
+  <imdbid>tt14275050</imdbid>
+  <tmdbid>843093</tmdbid>
+  <premiered>2022-11-16</premiered>
+  <releasedate>2022-11-16</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>123</runtime>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Luxembourg</country>
+  <country>Norway</country>
+  <genre>Drama</genre>
+  <studio>Eaux-Vives Productions</studio>
+  <studio>Mer Film AS</studio>
+  <studio>NiKo Film</studio>
+  <studio>Samsa Film</studio>
+  <uniqueid type="imdb">tt14275050</uniqueid>
+  <uniqueid type="tmdb">843093</uniqueid>
+  <id>tt14275050</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>790497</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>314568:131341</aspect>
+        <aspectratio>314568:131341</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7403</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>159996</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

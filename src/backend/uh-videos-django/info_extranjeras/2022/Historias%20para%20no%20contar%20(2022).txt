@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nos contará situaciones en las que nos podemos reconocer y que preferiríamos no explicar, o incluso olvidar. Encuentros inesperados, momentos ridículos o decisiones absurdas, cinco historias con una mirada ácida y compasiva a la incapacidad para gobernar nuestras propias emociones.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-06 17:39:40</dateadded>
+  <title>Historias para no contar</title>
+  <originaltitle>Historias para no contar</originaltitle>
+  <actor>
+    <name>Anna Castillo</name>
+    <role>Laura (segment "Tengo ganas de verte")</role>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Chino Darín</name>
+    <role>Álex (segment "Tengo ganas de verte")</role>
+    <type>Actor</type>
+    <tmdbid>1308586</tmdbid>
+    <imdbid>nm3779182</imdbid>
+    <tvdbid>592234</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Rey</name>
+    <role>Raúl (segment "Tengo ganas de verte")</role>
+    <type>Actor</type>
+    <tmdbid>96688</tmdbid>
+    <imdbid>nm2626646</imdbid>
+    <tvdbid>463889</tvdbid>
+  </actor>
+  <actor>
+    <name>Àlex Brendemühl</name>
+    <role>Luis (segment "Sandra")</role>
+    <type>Actor</type>
+    <tmdbid>28514</tmdbid>
+    <imdbid>nm0107165</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio de la Torre</name>
+    <role>Carlos (segment "Sandra")</role>
+    <type>Actor</type>
+    <tmdbid>3483</tmdbid>
+    <imdbid>nm0209409</imdbid>
+    <tvdbid>592203</tvdbid>
+  </actor>
+  <actor>
+    <name>María León</name>
+    <role>Ana (segment "Sandra")</role>
+    <type>Actor</type>
+    <tmdbid>587931</tmdbid>
+    <imdbid>nm2725254</imdbid>
+    <tvdbid>448255</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Reyes</name>
+    <role>Sandra (segment "Sandra")</role>
+    <type>Actor</type>
+    <tmdbid>1543800</tmdbid>
+  </actor>
+  <actor>
+    <name>Maribel Verdú</name>
+    <role>Blanca (segment "Los martes y los jueves")</role>
+    <type>Actor</type>
+    <tmdbid>16971</tmdbid>
+    <imdbid>nm0893941</imdbid>
+    <tvdbid>473658</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Jiménez</name>
+    <role>Carol (segment "Los martes y los jueves")</role>
+    <type>Actor</type>
+    <tmdbid>114460</tmdbid>
+    <imdbid>nm1411610</imdbid>
+    <tvdbid>7955410</tvdbid>
+  </actor>
+  <actor>
+    <name>Nora Navas</name>
+    <role>Ángela (segment "Los martes y los jueves")</role>
+    <type>Actor</type>
+    <tmdbid>226431</tmdbid>
+    <imdbid>nm1155977</imdbid>
+    <tvdbid>489855</tvdbid>
+  </actor>
+  <actor>
+    <name>José Coronado</name>
+    <role>Andrés (segment "Me has hecho muy feliz estos meses")</role>
+    <type>Actor</type>
+    <tmdbid>110129</tmdbid>
+    <imdbid>nm0180580</imdbid>
+    <tvdbid>487903</tvdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Onieva</name>
+    <role>Bárbara (segment "Me has hecho muy feliz estos meses")</role>
+    <type>Actor</type>
+    <tmdbid>1261491</tmdbid>
+    <imdbid>nm4339693</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Cámara</name>
+    <role>David (segment "Me has hecho muy feliz estos meses")</role>
+    <type>Actor</type>
+    <tmdbid>1610</tmdbid>
+    <imdbid>nm0194572</imdbid>
+    <tvdbid>449344</tvdbid>
+  </actor>
+  <actor>
+    <name>Quim Gutiérrez</name>
+    <role>Edu (segment "París")</role>
+    <type>Actor</type>
+    <tmdbid>34018</tmdbid>
+    <imdbid>nm1273697</imdbid>
+    <tvdbid>450324</tvdbid>
+  </actor>
+  <actor>
+    <name>Brays Efe</name>
+    <role>Jota (segment "París")</role>
+    <type>Actor</type>
+    <tmdbid>1334530</tmdbid>
+    <imdbid>nm5880529</imdbid>
+  </actor>
+  <actor>
+    <name>Verónica Echegui</name>
+    <role>Sofía (segment "París")</role>
+    <type>Actor</type>
+    <tmdbid>114254</tmdbid>
+    <imdbid>nm1531585</imdbid>
+    <tvdbid>7865258</tvdbid>
+  </actor>
+  <director tmdbid="73693" imdbid="nm0310747">Cesc Gay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=InddcNZWTvo</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>Historias para no contar</sorttitle>
+  <imdbid>tt14149544</imdbid>
+  <tmdbid>801860</tmdbid>
+  <premiered>2022-11-25</premiered>
+  <releasedate>2022-11-25</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>100</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Imposible Films</studio>
+  <studio>Movistar+</studio>
+  <studio>TV3</studio>
+  <studio>Filmax</studio>
+  <studio>RTVE</studio>
+  <uniqueid type="imdb">tt14149544</uniqueid>
+  <uniqueid type="tmdb">801860</uniqueid>
+  <id>tt14149544</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>242937</bitrate>
+        <width>640</width>
+        <height>320</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5982</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63813</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

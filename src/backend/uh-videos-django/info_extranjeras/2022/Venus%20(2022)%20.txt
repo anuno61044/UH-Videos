@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lucía, una bailarina de discoteca dada a la fuga, se refugia en un siniestro edificio de la periferia de Madrid donde su hermana Rocío vive con su hija Alba.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-02 08:44:09</dateadded>
+  <title>Venus</title>
+  <originaltitle>Venus</originaltitle>
+  <actor>
+    <name>Ester Expósito</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>2025252</tmdbid>
+    <imdbid>nm7527792</imdbid>
+    <tvdbid>488432</tvdbid>
+  </actor>
+  <actor>
+    <name>Ángela Cremonte</name>
+    <role>Rocío</role>
+    <type>Actor</type>
+    <tmdbid>224517</tmdbid>
+    <imdbid>nm1028780</imdbid>
+  </actor>
+  <actor>
+    <name>Inés Fernández</name>
+    <role>Alba</role>
+    <type>Actor</type>
+    <tmdbid>2619445</tmdbid>
+  </actor>
+  <actor>
+    <name>Magüi Mira</name>
+    <role>Marga</role>
+    <type>Actor</type>
+    <tmdbid>1160748</tmdbid>
+    <imdbid>nm0591942</imdbid>
+  </actor>
+  <actor>
+    <name>Aten Soria</name>
+    <role>Romina</role>
+    <type>Actor</type>
+    <tmdbid>1080794</tmdbid>
+    <tvdbid>8238017</tvdbid>
+  </actor>
+  <actor>
+    <name>María José Sarrate</name>
+    <role>Rosita</role>
+    <type>Actor</type>
+    <tmdbid>1013006</tmdbid>
+    <imdbid>nm3138823</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Reyes</name>
+    <role>Olivia</role>
+    <type>Actor</type>
+    <tmdbid>3824741</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Valdivielso</name>
+    <role>Moro</role>
+    <type>Actor</type>
+    <tmdbid>1367156</tmdbid>
+  </actor>
+  <actor>
+    <name>Federico Aguado</name>
+    <role>Salinas</role>
+    <type>Actor</type>
+    <tmdbid>1506918</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Boira</name>
+    <role>Calvo</role>
+    <type>Actor</type>
+    <tmdbid>1606</tmdbid>
+    <imdbid>nm0092286</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Bachura</name>
+    <role>Arruza</role>
+    <type>Actor</type>
+    <tmdbid>3824743</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Meco</name>
+    <role>Nina</role>
+    <type>Actor</type>
+    <tmdbid>2724699</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocío Andrés Riber</name>
+    <role>Go-go Girl</role>
+    <type>Actor</type>
+    <tmdbid>3894787</tmdbid>
+  </actor>
+  <actor>
+    <name>Said Taibi</name>
+    <role>Cellular Guy</role>
+    <type>Actor</type>
+    <tmdbid>2708249</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonsoles Benedicto</name>
+    <role>Aunt Galga</role>
+    <type>Actor</type>
+    <tmdbid>976597</tmdbid>
+  </actor>
+  <actor>
+    <name>Lourdes Llamas</name>
+    <role>Dancer #1</role>
+    <type>Actor</type>
+    <tmdbid>3894788</tmdbid>
+  </actor>
+  <actor>
+    <name>Nany Reyes</name>
+    <role>Dancer #2</role>
+    <type>Actor</type>
+    <tmdbid>3894789</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Apolonia</name>
+    <role>Dancer #3</role>
+    <type>Actor</type>
+    <tmdbid>3894790</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Piqueras</name>
+    <role>Anchorman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2859998</tmdbid>
+  </actor>
+  <director tmdbid="54525" imdbid="nm0049371">Jaume Balagueró</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qpd-eHlxoM4</trailer>
+  <rating>5.5</rating>
+  <year>2022</year>
+  <sorttitle>Venus</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15676664</imdbid>
+  <tmdbid>931954</tmdbid>
+  <premiered>2022-12-02</premiered>
+  <releasedate>2022-12-02</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>100</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Pokeepsie Films</studio>
+  <uniqueid type="imdb">tt15676664</uniqueid>
+  <uniqueid type="tmdb">931954</uniqueid>
+  <id>tt15676664</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1067239</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.999668</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6021</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64256</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

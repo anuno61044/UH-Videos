@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en Francia, en 1386, cuenta el enfrentamiento entre el caballero Jean de Carrouges y el escudero Jacques LeGris , al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges. El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que venza será el ganador, sin embargo, si lo hace el escudero, la esposa del caballero será quemada como castigo por falsas acusaciones.]]></plot>
+  <outline><![CDATA[La historia real de una mujer que desafió a una nación e hizo historia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-28 20:32:55</dateadded>
+  <title>El último duelo</title>
+  <originaltitle>The Last Duel</originaltitle>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Sir Jean de Carrouges</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Jacques Le Gris</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Marguerite de Carrouges</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+    <tvdbid>522283</tvdbid>
+  </actor>
+  <actor>
+    <name>Harriet Walter</name>
+    <role>Nicole de Carrouges</role>
+    <type>Actor</type>
+    <tmdbid>17477</tmdbid>
+    <imdbid>nm0910040</imdbid>
+    <tvdbid>403783</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Pierre d'Alençon</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>King Charles VI</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+  </actor>
+  <actor>
+    <name>Marton Csokas</name>
+    <role>Crespin</role>
+    <type>Actor</type>
+    <tmdbid>20982</tmdbid>
+    <imdbid>nm0190744</imdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Parker</name>
+    <role>Sir Robert de Thibouville</role>
+    <type>Actor</type>
+    <tmdbid>27631</tmdbid>
+    <imdbid>nm0662511</imdbid>
+    <tvdbid>363050</tvdbid>
+  </actor>
+  <actor>
+    <name>Tallulah Haddon</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>1510974</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Nagaitis</name>
+    <role>Adam Louvel</role>
+    <type>Actor</type>
+    <tmdbid>1435230</tmdbid>
+    <imdbid>nm1835523</imdbid>
+    <tvdbid>645969</tvdbid>
+  </actor>
+  <actor>
+    <name>Zeljko Ivanek</name>
+    <role>Le Coq</role>
+    <type>Actor</type>
+    <tmdbid>6752</tmdbid>
+    <imdbid>nm0411964</imdbid>
+    <tvdbid>257350</tvdbid>
+  </actor>
+  <actor>
+    <name>Serena Kennedy</name>
+    <role>Queen Isabeau</role>
+    <type>Actor</type>
+    <tmdbid>2487635</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Dunne</name>
+    <role>Celia</role>
+    <type>Actor</type>
+    <tmdbid>1851644</tmdbid>
+    <imdbid>nm7434342</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Bernard de Latour</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+    <imdbid>nm0568385</imdbid>
+    <tvdbid>247847</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoé Bruneau</name>
+    <role>Lady Marie Chamallart</role>
+    <type>Actor</type>
+    <tmdbid>1060184</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Pirie</name>
+    <role>Henri</role>
+    <type>Actor</type>
+    <tmdbid>95716</tmdbid>
+    <imdbid>nm1128414</imdbid>
+  </actor>
+  <actor>
+    <name>William Houston</name>
+    <role>Herald at the Duel</role>
+    <type>Actor</type>
+    <tmdbid>84865</tmdbid>
+    <imdbid>nm0396908</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Hazeldine</name>
+    <role>Thomin Dubois</role>
+    <type>Actor</type>
+    <tmdbid>563559</tmdbid>
+    <imdbid>nm1486831</imdbid>
+  </actor>
+  <actor>
+    <name>Brian F. Mulvey</name>
+    <role>Phillippe</role>
+    <type>Actor</type>
+    <tmdbid>1654743</tmdbid>
+  </actor>
+  <actor>
+    <name>Caoimhe O'Malley</name>
+    <role>Elizabeth</role>
+    <type>Actor</type>
+    <tmdbid>1829246</tmdbid>
+  </actor>
+  <actor>
+    <name>Clive Russell</name>
+    <role>King's Uncle</role>
+    <type>Actor</type>
+    <tmdbid>19901</tmdbid>
+    <imdbid>nm0751085</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Firth</name>
+    <role>King's Uncle</role>
+    <type>Actor</type>
+    <tmdbid>93848</tmdbid>
+    <imdbid>nm0278747</imdbid>
+  </actor>
+  <actor>
+    <name>Bosco Hogan</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>33401</tmdbid>
+    <imdbid>nm0389491</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin McGahern</name>
+    <role>Vassal</role>
+    <type>Actor</type>
+    <tmdbid>2710843</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Collins</name>
+    <role>Agatha</role>
+    <type>Actor</type>
+    <tmdbid>2983806</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bandey</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>185402</tmdbid>
+    <imdbid>nm0051720</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Silberstein</name>
+    <role>Palace of Justice Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1588307</tmdbid>
+  </actor>
+  <actor>
+    <name>Florian Hutter</name>
+    <role>Dowry Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>2059234</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Horn</name>
+    <role>Argentan Herald</role>
+    <type>Actor</type>
+    <tmdbid>2927098</tmdbid>
+  </actor>
+  <actor>
+    <name>Corinne Delacour</name>
+    <role>French voice (ADR) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2809997</tmdbid>
+  </actor>
+  <actor>
+    <name>Estelle Baldassin</name>
+    <role>Carrouges Maid</role>
+    <type>Actor</type>
+    <tmdbid>3267177</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Cotton</name>
+    <role>Jean de Carrouges III</role>
+    <type>Actor</type>
+    <tmdbid>24627</tmdbid>
+    <imdbid>nm0183122</imdbid>
+  </actor>
+  <actor>
+    <name>Bryony Hannah</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1254882</tmdbid>
+    <imdbid>nm1492939</imdbid>
+    <tvdbid>467457</tvdbid>
+  </actor>
+  <actor>
+    <name>John Kavanagh</name>
+    <role>Le Gris' Priest</role>
+    <type>Actor</type>
+    <tmdbid>20282</tmdbid>
+    <imdbid>nm0442559</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Erickson</name>
+    <role>Louis the Old Farmer</role>
+    <type>Actor</type>
+    <tmdbid>45849</tmdbid>
+    <imdbid>nm0259027</imdbid>
+  </actor>
+  <actor>
+    <name>Quentin Ogier</name>
+    <role>Clergé</role>
+    <type>Actor</type>
+    <tmdbid>263295</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Vaughan Lewis</name>
+    <role>Clergé</role>
+    <type>Actor</type>
+    <tmdbid>1862604</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Brennan</name>
+    <role>Physicien</role>
+    <type>Actor</type>
+    <tmdbid>17781</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Goodwin</name>
+    <role>Rider</role>
+    <type>Actor</type>
+    <tmdbid>1346437</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvain Lablée</name>
+    <role>Palace of Justice Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>2952575</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloé Lindau</name>
+    <role>Pierre's mistress</role>
+    <type>Actor</type>
+    <tmdbid>3538473</tmdbid>
+  </actor>
+  <director tmdbid="578" imdbid="nm0000631">Ridley Scott</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CAumuCU21Xk</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <sorttitle>ultimo duelo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4244994</imdbid>
+  <tmdbid>617653</tmdbid>
+  <premiered>2021-10-13</premiered>
+  <releasedate>2021-10-13</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>152</runtime>
+  <tagline>La historia real de una mujer que desafió a una nación e hizo historia.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>20th Century Studios</studio>
+  <studio>Scott Free Productions</studio>
+  <studio>Pearl Street Films</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt4244994</uniqueid>
+  <uniqueid type="tmdb">617653</uniqueid>
+  <id>tt4244994</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1487214</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>151</duration>
+        <durationinseconds>9110</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

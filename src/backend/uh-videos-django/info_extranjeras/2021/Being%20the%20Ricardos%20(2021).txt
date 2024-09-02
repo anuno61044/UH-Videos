@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Durante una semana de producción de «Te quiero, Lucy» —desde la lectura del guion del lunes hasta la grabación con público del viernes— Lucille Ball y Desi Arnaz se enfrentan a unas crisis personales y profesionales que amenazan su serie, sus carreras y su matrimonio.]]></plot>
+  <outline><![CDATA[Una historia detrás de uno de los programas más influyentes de todos los tiempos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 19:38:04</dateadded>
+  <title>Ser los Ricardo</title>
+  <originaltitle>Being the Ricardos</originaltitle>
+  <actor>
+    <name>Nicole Kidman</name>
+    <role>Lucille Ball</role>
+    <type>Actor</type>
+    <tmdbid>2227</tmdbid>
+    <imdbid>nm0000173</imdbid>
+    <tvdbid>327381</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>Desi Arnaz</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>William Frawley</role>
+    <type>Actor</type>
+    <tmdbid>18999</tmdbid>
+    <imdbid>nm0799777</imdbid>
+    <tvdbid>271472</tvdbid>
+  </actor>
+  <actor>
+    <name>Nina Arianda</name>
+    <role>Vivian Vance</role>
+    <type>Actor</type>
+    <tmdbid>971329</tmdbid>
+    <imdbid>nm3616206</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Hale</name>
+    <role>Jess Oppenheimer</role>
+    <type>Actor</type>
+    <tmdbid>25147</tmdbid>
+    <imdbid>nm0355024</imdbid>
+    <tvdbid>303466</tvdbid>
+  </actor>
+  <actor>
+    <name>Alia Shawkat</name>
+    <role>Madelyn Pugh</role>
+    <type>Actor</type>
+    <tmdbid>61178</tmdbid>
+    <imdbid>nm0790057</imdbid>
+    <tvdbid>334028</tvdbid>
+  </actor>
+  <actor>
+    <name>Jake Lacy</name>
+    <role>Bob Carroll Jr.</role>
+    <type>Actor</type>
+    <tmdbid>496470</tmdbid>
+    <imdbid>nm3821405</imdbid>
+    <tvdbid>472752</tvdbid>
+  </actor>
+  <actor>
+    <name>Linda Lavin</name>
+    <role>Older Madelyn Pugh</role>
+    <type>Actor</type>
+    <tmdbid>113223</tmdbid>
+    <imdbid>nm0492089</imdbid>
+    <tvdbid>261814</tvdbid>
+  </actor>
+  <actor>
+    <name>Ronny Cox</name>
+    <role>Older Bob Carroll</role>
+    <type>Actor</type>
+    <tmdbid>780</tmdbid>
+    <imdbid>nm0001074</imdbid>
+  </actor>
+  <actor>
+    <name>John Rubinstein</name>
+    <role>Older Jess Oppenheimer</role>
+    <type>Actor</type>
+    <tmdbid>44261</tmdbid>
+    <imdbid>nm0748270</imdbid>
+  </actor>
+  <actor>
+    <name>Clark Gregg</name>
+    <role>Howard Wenke</role>
+    <type>Actor</type>
+    <tmdbid>9048</tmdbid>
+    <imdbid>nm0163988</imdbid>
+    <tvdbid>324295</tvdbid>
+  </actor>
+  <actor>
+    <name>Nelson Franklin</name>
+    <role>Joe Strickland</role>
+    <type>Actor</type>
+    <tmdbid>88928</tmdbid>
+    <imdbid>nm1815689</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Holman</name>
+    <role>Roger Otter</role>
+    <type>Actor</type>
+    <tmdbid>1978713</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonah Platt</name>
+    <role>Tip Tribby</role>
+    <type>Actor</type>
+    <tmdbid>2088457</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Denham</name>
+    <role>Donald Glass</role>
+    <type>Actor</type>
+    <tmdbid>61510</tmdbid>
+    <imdbid>nm1706832</imdbid>
+    <tvdbid>342058</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Howe</name>
+    <role>Charles Koerner</role>
+    <type>Actor</type>
+    <tmdbid>1990</tmdbid>
+    <imdbid>nm0397788</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Perkins</name>
+    <role>Macy</role>
+    <type>Actor</type>
+    <tmdbid>125024</tmdbid>
+    <imdbid>nm0674052</imdbid>
+  </actor>
+  <actor>
+    <name>Baize Buzan</name>
+    <role>Mary Pat</role>
+    <type>Actor</type>
+    <tmdbid>1535932</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Cook</name>
+    <role>1st AD</role>
+    <type>Actor</type>
+    <tmdbid>949241</tmdbid>
+    <imdbid>nm3129512</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Bednarsky</name>
+    <role>PA Bill</role>
+    <type>Actor</type>
+    <tmdbid>132976</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Lyn Baron</name>
+    <role>Miss Rosen</role>
+    <type>Actor</type>
+    <tmdbid>1411485</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Sachoff</name>
+    <role>David Levy</role>
+    <type>Actor</type>
+    <tmdbid>1408766</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Silvestri</name>
+    <role>David Hart</role>
+    <type>Actor</type>
+    <tmdbid>1605781</tmdbid>
+  </actor>
+  <actor>
+    <name>Renee Pezzotta</name>
+    <role>Italian Woman</role>
+    <type>Actor</type>
+    <tmdbid>557590</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Wolfe</name>
+    <role>Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1157109</tmdbid>
+  </actor>
+  <actor>
+    <name>Breanna Wing</name>
+    <role>Chorus Girl Angie</role>
+    <type>Actor</type>
+    <tmdbid>1611031</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Anderson</name>
+    <role>Chorus Girl Daisy</role>
+    <type>Actor</type>
+    <tmdbid>3358799</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Miller</name>
+    <role>Chorus Girl Patty</role>
+    <type>Actor</type>
+    <tmdbid>2584905</tmdbid>
+  </actor>
+  <actor>
+    <name>Gail Rastorfer</name>
+    <role>Dresser</role>
+    <type>Actor</type>
+    <tmdbid>2721256</tmdbid>
+  </actor>
+  <actor>
+    <name>Russ Burd</name>
+    <role>Irwin Gotlieb</role>
+    <type>Actor</type>
+    <tmdbid>3358800</tmdbid>
+  </actor>
+  <actor>
+    <name>Guido Cocomello</name>
+    <role>Italian Bellman</role>
+    <type>Actor</type>
+    <tmdbid>1195618</tmdbid>
+  </actor>
+  <actor>
+    <name>John Funk</name>
+    <role>J. Edgar Hoover (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1527200</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Leib</name>
+    <role>Koerner's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>2261492</tmdbid>
+  </actor>
+  <actor>
+    <name>David Saenz</name>
+    <role>Musician Outside CIro's</role>
+    <type>Actor</type>
+    <tmdbid>2795827</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Lesh-Farrell</name>
+    <role>Radio Show Katy</role>
+    <type>Actor</type>
+    <tmdbid>1365684</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Ostrow</name>
+    <role>Radio Show Man</role>
+    <type>Actor</type>
+    <tmdbid>168400</tmdbid>
+    <imdbid>nm0652555</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Mitchell</name>
+    <role>Radio Show Woman</role>
+    <type>Actor</type>
+    <tmdbid>1866598</tmdbid>
+    <imdbid>nm3654108</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Novikoff</name>
+    <role>Sam Stein</role>
+    <type>Actor</type>
+    <tmdbid>1887893</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Benza</name>
+    <role>Security Guard Bobby</role>
+    <type>Actor</type>
+    <tmdbid>1861856</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Onorati</name>
+    <role>Vittorio</role>
+    <type>Actor</type>
+    <tmdbid>21490</tmdbid>
+    <tvdbid>248164</tvdbid>
+  </actor>
+  <actor>
+    <name>Evie Nicholson</name>
+    <role>Woman Outside Ciro's</role>
+    <type>Actor</type>
+    <tmdbid>1794155</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Batalla</name>
+    <role>Tommy Wardrobe</role>
+    <type>Actor</type>
+    <tmdbid>1647399</tmdbid>
+    <imdbid>nm0060687</imdbid>
+  </actor>
+  <actor>
+    <name>John F. Carpenter</name>
+    <role>Radio Show Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2818046</tmdbid>
+  </actor>
+  <actor>
+    <name>Melinda Sullivan</name>
+    <role>Ann Miller</role>
+    <type>Actor</type>
+    <tmdbid>1792487</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Roberts</name>
+    <role>Camera A Focus Puller</role>
+    <type>Actor</type>
+    <tmdbid>134234</tmdbid>
+  </actor>
+  <actor>
+    <name>Gus Lynch</name>
+    <role>Camera B Focus Puller</role>
+    <type>Actor</type>
+    <tmdbid>1222709</tmdbid>
+  </actor>
+  <actor>
+    <name>Allan Wayne Anderson</name>
+    <role>Camera C Focus Puller</role>
+    <type>Actor</type>
+    <tmdbid>3358805</tmdbid>
+  </actor>
+  <actor>
+    <name>David Jonathan Fine</name>
+    <role>Boom Operator</role>
+    <type>Actor</type>
+    <tmdbid>3358814</tmdbid>
+  </actor>
+  <actor>
+    <name>Val Chmerkovskiy</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1583970</tmdbid>
+  </actor>
+  <actor>
+    <name>Asiel Hardison</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2838234</tmdbid>
+    <imdbid>nm2028901</imdbid>
+  </actor>
+  <actor>
+    <name>Reina Hidalgo</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>557785</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Johnson</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1884630</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Loftis</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2820620</tmdbid>
+  </actor>
+  <actor>
+    <name>Noelle Marsh</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3358811</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Moctezuma</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>101688</tmdbid>
+    <imdbid>nm1159784</imdbid>
+  </actor>
+  <actor>
+    <name>Nayara Núñez</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1463042</tmdbid>
+  </actor>
+  <actor>
+    <name>Britt Stewart</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1600207</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Torres Jr.</name>
+    <role>Ciro's Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3358813</tmdbid>
+  </actor>
+  <actor>
+    <name>James Patrick Duffy</name>
+    <role>Man #1</role>
+    <type>Actor</type>
+    <tmdbid>2884650</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Marsh</name>
+    <role>Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>1384009</tmdbid>
+  </actor>
+  <actor>
+    <name>Cece Camps</name>
+    <role>Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>3358815</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Armella</name>
+    <role>Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>1328457</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Meyer</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1525063</tmdbid>
+  </actor>
+  <actor>
+    <name>Shiree Nelson</name>
+    <role>Studio Staffer</role>
+    <type>Actor</type>
+    <tmdbid>3277460</tmdbid>
+  </actor>
+  <director tmdbid="13520" imdbid="nm0815070">Aaron Sorkin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qVOqLdGRI5Q</trailer>
+  <rating>6.5</rating>
+  <year>2021</year>
+  <sorttitle>Ser los Ricardo</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4995540</imdbid>
+  <tmdbid>517088</tmdbid>
+  <premiered>2021-12-10</premiered>
+  <releasedate>2021-12-10</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>132</runtime>
+  <tagline>Una historia detrás de uno de los programas más influyentes de todos los tiempos.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Amazon Studios</studio>
+  <studio>Big Indie Pictures</studio>
+  <studio>Escape Artists</studio>
+  <uniqueid type="imdb">tt4995540</uniqueid>
+  <uniqueid type="tmdb">517088</uniqueid>
+  <id>tt4995540</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1478956</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>181:75</aspect>
+        <aspectratio>181:75</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7927</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

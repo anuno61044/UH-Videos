@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una historia espantosa sobre la herencia de un chamán en la región de Isan en Tailandia. Pero la diosa que parece haber tomado posesión de un miembro de la familia resulta no ser tan benevolente como parece.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-10 20:44:27</dateadded>
+  <title>The Medium Tai</title>
+  <originaltitle>ร่างทรง</originaltitle>
+  <actor>
+    <name>Narilya Gulmongkolpech</name>
+    <role>Mink</role>
+    <type>Actor</type>
+    <tmdbid>3131642</tmdbid>
+  </actor>
+  <actor>
+    <name>Sawanee Utoomma</name>
+    <role>Nim</role>
+    <type>Actor</type>
+    <tmdbid>2424471</tmdbid>
+  </actor>
+  <actor>
+    <name>Sirani Yankittikan</name>
+    <role>Noi</role>
+    <type>Actor</type>
+    <tmdbid>3131643</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasaka Chaisorn</name>
+    <role>Manit</role>
+    <type>Actor</type>
+    <tmdbid>3131644</tmdbid>
+  </actor>
+  <actor>
+    <name>Boonsong Nakphoo</name>
+    <role>Santi</role>
+    <type>Actor</type>
+    <tmdbid>1272350</tmdbid>
+    <imdbid>nm1403029</imdbid>
+  </actor>
+  <actor>
+    <name>Arunee Wattana</name>
+    <role>Pang</role>
+    <type>Actor</type>
+    <tmdbid>3161926</tmdbid>
+  </actor>
+  <actor>
+    <name>Thanutphon Boonsang</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>3161927</tmdbid>
+  </actor>
+  <actor>
+    <name>Akkaradech Rattanawong</name>
+    <role>Pong</role>
+    <type>Actor</type>
+    <tmdbid>3161929</tmdbid>
+  </actor>
+  <actor>
+    <name>Chatchawat Sanveang</name>
+    <role>Cameraman</role>
+    <type>Actor</type>
+    <tmdbid>3161931</tmdbid>
+  </actor>
+  <actor>
+    <name>Yossawat Sittiwong</name>
+    <role>Cameramen</role>
+    <type>Actor</type>
+    <tmdbid>3346264</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnon Losiripanya</name>
+    <role>Cameramen</role>
+    <type>Actor</type>
+    <tmdbid>3346266</tmdbid>
+  </actor>
+  <actor>
+    <name>Klangchon Chuekham</name>
+    <role>Cameramen</role>
+    <type>Actor</type>
+    <tmdbid>3346267</tmdbid>
+  </actor>
+  <actor>
+    <name>Sayan Phiwchan</name>
+    <role>Santi's Disciples</role>
+    <type>Actor</type>
+    <tmdbid>3346269</tmdbid>
+  </actor>
+  <actor>
+    <name>Poon Mitpakdee</name>
+    <role>Mac</role>
+    <type>Actor</type>
+    <tmdbid>3367062</tmdbid>
+  </actor>
+  <actor>
+    <name>Pakapol Srirongmuang</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <tmdbid>3161928</tmdbid>
+  </actor>
+  <director tmdbid="81251" imdbid="nm1802294">Banjong Pisanthanakun</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bPNT9gefMk4</trailer>
+  <rating>6.5</rating>
+  <year>2021</year>
+  <sorttitle>Medium Tai</sorttitle>
+  <imdbid>tt13446168</imdbid>
+  <tmdbid>745881</tmdbid>
+  <premiered>2021-07-14</premiered>
+  <releasedate>2021-07-14</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>131</runtime>
+  <country>South Korea</country>
+  <country>Thailand</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>GDH 559</studio>
+  <studio>Northern Cross</studio>
+  <studio>Jorkwang Films</studio>
+  <studio>Showbox</studio>
+  <uniqueid type="imdb">tt13446168</uniqueid>
+  <uniqueid type="tmdb">745881</uniqueid>
+  <id>tt13446168</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8192985</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7836</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra la historia de Javier Muñoz, un ejecutivo publicitario de éxito, que tras un año en el paro, él y su familia se ven obligados a dejar el piso que ya no se pueden permitir. Un día, Javier descubre que aún conserva un juego de llaves de su antiguo piso y empieza a espiar a la joven pareja que ahora vive allí. Poco a poco, Javier empezará a infiltrarse en la vida de los nuevos propietarios, decidido a recuperar la vida que ha perdido… aunque eso signifique destruir a quien se ponga en su camino.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:14:06</dateadded>
+  <title>Hogar</title>
+  <originaltitle>Hogar</originaltitle>
+  <actor>
+    <name>Javier Gutiérrez</name>
+    <role>Javier Muñoz</role>
+    <type>Actor</type>
+    <tmdbid>19024</tmdbid>
+    <imdbid>nm0349522</imdbid>
+    <tvdbid>472102</tvdbid>
+  </actor>
+  <actor>
+    <name>Mario Casas</name>
+    <role>Tomás</role>
+    <type>Actor</type>
+    <tmdbid>82700</tmdbid>
+    <imdbid>nm1832584</imdbid>
+  </actor>
+  <actor>
+    <name>Bruna Cusí</name>
+    <role>Lara</role>
+    <type>Actor</type>
+    <tmdbid>1743949</tmdbid>
+    <imdbid>nm4264236</imdbid>
+    <tvdbid>467327</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruth Díaz</name>
+    <role>Marga</role>
+    <type>Actor</type>
+    <tmdbid>79288</tmdbid>
+    <imdbid>nm1699333</imdbid>
+  </actor>
+  <actor>
+    <name>Iris Vallés Torres</name>
+    <role>Mónica</role>
+    <type>Actor</type>
+    <tmdbid>2581189</tmdbid>
+    <imdbid>nm8980801</imdbid>
+  </actor>
+  <actor>
+    <name>Cristian Muñoz</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>2581190</tmdbid>
+    <imdbid>nm6628926</imdbid>
+  </actor>
+  <actor>
+    <name>David Ramírez</name>
+    <role>Damián</role>
+    <type>Actor</type>
+    <tmdbid>1602305</tmdbid>
+    <imdbid>nm1783443</imdbid>
+  </actor>
+  <actor>
+    <name>David Selvas</name>
+    <role>Darío</role>
+    <type>Actor</type>
+    <tmdbid>942100</tmdbid>
+    <imdbid>nm0783591</imdbid>
+  </actor>
+  <actor>
+    <name>David Verdaguer</name>
+    <role>Raul</role>
+    <type>Actor</type>
+    <tmdbid>1149067</tmdbid>
+    <imdbid>nm1992631</imdbid>
+    <tvdbid>544886</tvdbid>
+  </actor>
+  <actor>
+    <name>Vicky Luengo</name>
+    <role>Natalia</role>
+    <type>Actor</type>
+    <tmdbid>1208946</tmdbid>
+    <imdbid>nm2780716</imdbid>
+    <tvdbid>290930</tvdbid>
+  </actor>
+  <actor>
+    <name>Raül Ferre</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>2581194</tmdbid>
+    <imdbid>nm3744914</imdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Collado</name>
+    <role>Profesor</role>
+    <type>Actor</type>
+    <tmdbid>1110724</tmdbid>
+    <imdbid>nm1074212</imdbid>
+  </actor>
+  <actor>
+    <name>Yaneys Cabrera</name>
+    <role>Araceli</role>
+    <type>Actor</type>
+    <tmdbid>2581195</tmdbid>
+    <imdbid>nm5720885</imdbid>
+  </actor>
+  <actor>
+    <name>Eli Iranzo</name>
+    <role>Amparo</role>
+    <type>Actor</type>
+    <tmdbid>4370</tmdbid>
+    <imdbid>nm1257435</imdbid>
+  </actor>
+  <actor>
+    <name>Júlia Molins</name>
+    <role>Chica Joven</role>
+    <type>Actor</type>
+    <tmdbid>1457175</tmdbid>
+    <imdbid>nm6031795</imdbid>
+  </actor>
+  <actor>
+    <name>Frederic Llobregat</name>
+    <role>Hombre Obeso</role>
+    <type>Actor</type>
+    <tmdbid>2583285</tmdbid>
+    <imdbid>nm11446384</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Grösser</name>
+    <role>Veinteañero</role>
+    <type>Actor</type>
+    <tmdbid>1510952</tmdbid>
+    <imdbid>nm5445024</imdbid>
+    <tvdbid>8091351</tvdbid>
+  </actor>
+  <actor>
+    <name>Aleida Torrent</name>
+    <role>Treintañera</role>
+    <type>Actor</type>
+    <tmdbid>1985190</tmdbid>
+    <imdbid>nm3361009</imdbid>
+  </actor>
+  <actor>
+    <name>Mireia Gubianas</name>
+    <role>Mujer Mediana Edad</role>
+    <type>Actor</type>
+    <tmdbid>1378135</tmdbid>
+    <imdbid>nm2015019</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia García</name>
+    <role>Valentina Costa</role>
+    <type>Actor</type>
+    <tmdbid>2583286</tmdbid>
+    <imdbid>nm9882545</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Ruiz</name>
+    <role>Vecino</role>
+    <type>Actor</type>
+    <tmdbid>2583287</tmdbid>
+    <imdbid>nm9379217</imdbid>
+  </actor>
+  <director tmdbid="94220" imdbid="nm1883612">Àlex Pastor</director>
+  <director tmdbid="94222" imdbid="nm0665041">David Pastor</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uwld4RkdW1o</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>Hogar</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9345754</imdbid>
+  <tmdbid>674944</tmdbid>
+  <premiered>2020-03-25</premiered>
+  <releasedate>2020-03-25</releasedate>
+  <criticrating>61</criticrating>
+  <runtime>104</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Nostromo Pictures</studio>
+  <uniqueid type="imdb">tt9345754</uniqueid>
+  <uniqueid type="tmdb">674944</uniqueid>
+  <id>tt9345754</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>291507</bitrate>
+        <width>624</width>
+        <height>352</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6226</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

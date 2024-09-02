@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Paul Baumer y sus amigos Albert y Muller, incitados por sueños románticos de heroísmo, se alistan voluntariamente en el ejército alemán. Llenos de emoción y fervor patriótico, los muchachos marchan con entusiasmo hacia una guerra en la que creen. Pero una vez en el frente occidental, descubren el horror destructor del alma de la Primera Guerra Mundial.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-31 09:40:49</dateadded>
+  <title>Sin novedad en el frente</title>
+  <originaltitle>Im Westen nichts Neues</originaltitle>
+  <actor>
+    <name>Felix Kammerer</name>
+    <role>Paul Bäumer</role>
+    <type>Actor</type>
+    <tmdbid>3631223</tmdbid>
+  </actor>
+  <actor>
+    <name>Albrecht Schuch</name>
+    <role>Stanislaus "Kat" Katczinsky</role>
+    <type>Actor</type>
+    <tmdbid>1111158</tmdbid>
+    <imdbid>nm3477129</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Hilmer</name>
+    <role>Albert Kropp</role>
+    <type>Actor</type>
+    <tmdbid>1820948</tmdbid>
+  </actor>
+  <actor>
+    <name>Moritz Klaus</name>
+    <role>Frantz Müller</role>
+    <type>Actor</type>
+    <tmdbid>1818302</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Grünewald</name>
+    <role>Ludwig Behm</role>
+    <type>Actor</type>
+    <tmdbid>2951325</tmdbid>
+  </actor>
+  <actor>
+    <name>Edin Hasanović</name>
+    <role>Tjaden Stackfleet</role>
+    <type>Actor</type>
+    <tmdbid>212930</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Brühl</name>
+    <role>Matthias Erzberger</role>
+    <type>Actor</type>
+    <tmdbid>3872</tmdbid>
+    <imdbid>nm0117709</imdbid>
+    <tvdbid>595535</tvdbid>
+  </actor>
+  <actor>
+    <name>Thibault de Montalembert</name>
+    <role>General Ferdinand Foch</role>
+    <type>Actor</type>
+    <tmdbid>19361</tmdbid>
+    <tvdbid>537712</tvdbid>
+  </actor>
+  <actor>
+    <name>Devid Striesow</name>
+    <role>General Friedrichs</role>
+    <type>Actor</type>
+    <tmdbid>6086</tmdbid>
+    <imdbid>nm0834479</imdbid>
+  </actor>
+  <actor>
+    <name>Andreas Döhler</name>
+    <role>Lieutenant Hoppe</role>
+    <type>Actor</type>
+    <tmdbid>1411011</tmdbid>
+    <imdbid>nm2435705</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Hülk</name>
+    <role>Major von Brixdorf</role>
+    <type>Actor</type>
+    <tmdbid>550554</tmdbid>
+    <imdbid>nm1389891</imdbid>
+  </actor>
+  <actor>
+    <name>Luc Feit</name>
+    <role>Stabsarzt</role>
+    <type>Actor</type>
+    <tmdbid>235807</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Wittenborn</name>
+    <role>Rektor</role>
+    <type>Actor</type>
+    <tmdbid>20266</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Stange</name>
+    <role>Officer at Muster at School</role>
+    <type>Actor</type>
+    <tmdbid>1502005</tmdbid>
+  </actor>
+  <actor>
+    <name>Sascha Nathan</name>
+    <role>Count von Oberndorff</role>
+    <type>Actor</type>
+    <tmdbid>564809</tmdbid>
+  </actor>
+  <actor>
+    <name>Tobias Langhoff</name>
+    <role>Major General von Winterfeldt</role>
+    <type>Actor</type>
+    <tmdbid>1258564</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton von Lucke</name>
+    <role>Captain Von Helldorf</role>
+    <type>Actor</type>
+    <tmdbid>1576708</tmdbid>
+    <imdbid>nm6077587</imdbid>
+    <tvdbid>584906</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Pitthan</name>
+    <role>Captain Ernst von Vanselow</role>
+    <type>Actor</type>
+    <tmdbid>1905701</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Weintraub</name>
+    <role>Captain Geyer</role>
+    <type>Actor</type>
+    <tmdbid>1759586</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Morillon</name>
+    <role>Captain Laperche</role>
+    <type>Actor</type>
+    <tmdbid>1747036</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Dufay</name>
+    <role>Major General Maxime Weygand</role>
+    <type>Actor</type>
+    <tmdbid>1417038</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Brown</name>
+    <role>Admiral Rosslyn Wemyss</role>
+    <type>Actor</type>
+    <tmdbid>1253821</tmdbid>
+  </actor>
+  <actor>
+    <name>Philipp Schenker</name>
+    <role>Admiral George Hope</role>
+    <type>Actor</type>
+    <tmdbid>2359478</tmdbid>
+  </actor>
+  <actor>
+    <name>Cyril Dobrý</name>
+    <role>Butler General Foch</role>
+    <type>Actor</type>
+    <tmdbid>1570412</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Jacques</name>
+    <role>Butler</role>
+    <type>Actor</type>
+    <tmdbid>2143488</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Gudgeon</name>
+    <role>Farmer</role>
+    <type>Actor</type>
+    <tmdbid>545294</tmdbid>
+  </actor>
+  <actor>
+    <name>Cyril Čechák</name>
+    <role>Farm Boy</role>
+    <type>Actor</type>
+    <tmdbid>2277915</tmdbid>
+  </actor>
+  <actor>
+    <name>Jakob Schmidt</name>
+    <role>Heinrich Gerber</role>
+    <type>Actor</type>
+    <tmdbid>2465739</tmdbid>
+  </actor>
+  <actor>
+    <name>Felix von Bredow</name>
+    <role>Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>1838573</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Dostál</name>
+    <role>Young Recruit</role>
+    <type>Actor</type>
+    <tmdbid>3055073</tmdbid>
+  </actor>
+  <actor>
+    <name>Marek Simbersky</name>
+    <role>Gérard Duval</role>
+    <type>Actor</type>
+    <tmdbid>2899666</tmdbid>
+  </actor>
+  <actor>
+    <name>Jakob Diehl</name>
+    <role>Sergeant Steinberger</role>
+    <type>Actor</type>
+    <tmdbid>56062</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Paliotti</name>
+    <role>Major Grenier</role>
+    <type>Actor</type>
+    <tmdbid>584987</tmdbid>
+    <imdbid>nm0657698</imdbid>
+  </actor>
+  <actor>
+    <name>Nico Ehrenteit</name>
+    <role>Soldier Lemrott</role>
+    <type>Actor</type>
+    <tmdbid>1624048</tmdbid>
+  </actor>
+  <actor>
+    <name>Hendrik Heutmann</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1538910</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kamen</name>
+    <role>Army Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1727943</tmdbid>
+  </actor>
+  <actor>
+    <name>Markus Tomczyk</name>
+    <role>Army Cook</role>
+    <type>Actor</type>
+    <tmdbid>553003</tmdbid>
+    <imdbid>nm2858075</imdbid>
+  </actor>
+  <actor>
+    <name>Wolf Danny Homann</name>
+    <role>Military Police</role>
+    <type>Actor</type>
+    <tmdbid>1533547</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sikorski</name>
+    <role>Sergeant Schützengraben</role>
+    <type>Actor</type>
+    <tmdbid>1819333</tmdbid>
+  </actor>
+  <actor>
+    <name>Alžběta Malá</name>
+    <role>French Girl 1</role>
+    <type>Actor</type>
+    <tmdbid>3412516</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Zielinski</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1438484</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomáš Weber</name>
+    <role>Dying Frenchman</role>
+    <type>Actor</type>
+    <tmdbid>3549254</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Neduha</name>
+    <role>Celebrating Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2741191</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomás Merkl</name>
+    <role>Young Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3329970</tmdbid>
+  </actor>
+  <director tmdbid="221522">Edward Berger</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zZW3gnz2jRw</trailer>
+  <rating>7.8</rating>
+  <year>2022</year>
+  <sorttitle>Sin novedad en el frente</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1016150</imdbid>
+  <tmdbid>49046</tmdbid>
+  <premiered>2022-10-28</premiered>
+  <releasedate>2022-10-28</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>149</runtime>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <genre>Bélica</genre>
+  <studio>Amusement Park Films</studio>
+  <studio>RocketScience</studio>
+  <studio>Sliding Down Rainbows Entertainment</studio>
+  <uniqueid type="tmdb">49046</uniqueid>
+  <uniqueid type="imdb">tt1016150</uniqueid>
+  <id>tt1016150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>845599</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>148</duration>
+        <durationinseconds>8928</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

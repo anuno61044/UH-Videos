@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Vuelven las pesquisas del célebre detective Hércules Poirot. Esta vez, durante un viaje en crucero por el Nilo, Poirot deberá investigar el misterioso asesinato de una joven heredera sin explicación aparente. Esta secuela de Asesinato en el Orient Express (2017) es la adaptación de la novela Muerte en el Nilo (1937) de Agatha Christie.]]></plot>
+  <outline><![CDATA[El asesinato fue solo el comienzo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-26 08:12:40</dateadded>
+  <title>Muerte en el Nilo</title>
+  <originaltitle>Death on the Nile</originaltitle>
+  <actor>
+    <name>Kenneth Branagh</name>
+    <role>Hercule Poirot</role>
+    <type>Actor</type>
+    <tmdbid>11181</tmdbid>
+    <imdbid>nm0000110</imdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Linnet Ridgeway</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Armie Hammer</name>
+    <role>Simon Doyle</role>
+    <type>Actor</type>
+    <tmdbid>53807</tmdbid>
+    <imdbid>nm2309517</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Mackey</name>
+    <role>Jacqueline de Bellefort</role>
+    <type>Actor</type>
+    <tmdbid>2201315</tmdbid>
+    <imdbid>nm8076281</imdbid>
+    <tvdbid>7895747</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Bateman</name>
+    <role>Bouc</role>
+    <type>Actor</type>
+    <tmdbid>1364004</tmdbid>
+    <tvdbid>290935</tvdbid>
+  </actor>
+  <actor>
+    <name>Letitia Wright</name>
+    <role>Rosalie Otterbourne</role>
+    <type>Actor</type>
+    <tmdbid>1083010</tmdbid>
+    <imdbid>nm4004793</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Okonedo</name>
+    <role>Salome Otterbourne</role>
+    <type>Actor</type>
+    <tmdbid>2598</tmdbid>
+    <imdbid>nm0645683</imdbid>
+    <tvdbid>449518</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Saunders</name>
+    <role>Marie Van Schuyler</role>
+    <type>Actor</type>
+    <tmdbid>12094</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Brand</name>
+    <role>Windlesham</role>
+    <type>Actor</type>
+    <tmdbid>59919</tmdbid>
+    <tvdbid>255295</tvdbid>
+  </actor>
+  <actor>
+    <name>Annette Bening</name>
+    <role>Euphemia Bouc</role>
+    <type>Actor</type>
+    <tmdbid>516</tmdbid>
+    <imdbid>nm0000906</imdbid>
+  </actor>
+  <actor>
+    <name>Dawn French</name>
+    <role>Bowers</role>
+    <type>Actor</type>
+    <tmdbid>5539</tmdbid>
+    <imdbid>nm0294067</imdbid>
+  </actor>
+  <actor>
+    <name>Rose Leslie</name>
+    <role>Louise Bourget</role>
+    <type>Actor</type>
+    <tmdbid>1223793</tmdbid>
+    <tvdbid>247852</tvdbid>
+  </actor>
+  <actor>
+    <name>Ali Fazal</name>
+    <role>Andrew Katchadourian</role>
+    <type>Actor</type>
+    <tmdbid>492791</tmdbid>
+    <imdbid>nm3170495</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Rouse</name>
+    <role>Private Laurin</role>
+    <type>Actor</type>
+    <tmdbid>59079</tmdbid>
+    <imdbid>nm1353847</imdbid>
+  </actor>
+  <actor>
+    <name>Alaa Safi</name>
+    <role>Corporal</role>
+    <type>Actor</type>
+    <tmdbid>126802</tmdbid>
+    <imdbid>nm2349733</imdbid>
+  </actor>
+  <actor>
+    <name>Orlando Seale</name>
+    <role>Captain Rens</role>
+    <type>Actor</type>
+    <tmdbid>83405</tmdbid>
+    <imdbid>nm0780539</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Anson</name>
+    <role>Sergeant Verhaeren</role>
+    <type>Actor</type>
+    <tmdbid>578939</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Hughes</name>
+    <role>Soldier 1</role>
+    <type>Actor</type>
+    <tmdbid>2772174</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam James Page</name>
+    <role>Soldier 2</role>
+    <type>Actor</type>
+    <tmdbid>3486069</tmdbid>
+  </actor>
+  <actor>
+    <name>James Schofield</name>
+    <role>German Soldier 1</role>
+    <type>Actor</type>
+    <tmdbid>3325358</tmdbid>
+  </actor>
+  <actor>
+    <name>George Jaques</name>
+    <role>German Soldier 2</role>
+    <type>Actor</type>
+    <tmdbid>3417986</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonah Rzeskiewicz</name>
+    <role>German Soldier 3</role>
+    <type>Actor</type>
+    <tmdbid>2968785</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleanor de Rohan</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2408764</tmdbid>
+  </actor>
+  <actor>
+    <name>Susannah Fielding</name>
+    <role>Katherine</role>
+    <type>Actor</type>
+    <tmdbid>884406</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Garcia</name>
+    <role>Syd</role>
+    <type>Actor</type>
+    <tmdbid>28472</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Warden</name>
+    <role>Monsieur Blondin</role>
+    <type>Actor</type>
+    <tmdbid>2435972</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel White</name>
+    <role>Maître 'D Chez Ma Tente</role>
+    <type>Actor</type>
+    <tmdbid>2776436</tmdbid>
+  </actor>
+  <actor>
+    <name>Niamh Lynch</name>
+    <role>Female Porter</role>
+    <type>Actor</type>
+    <tmdbid>2451439</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Dwyer</name>
+    <role>Hotel Staff 2</role>
+    <type>Actor</type>
+    <tmdbid>2403825</tmdbid>
+  </actor>
+  <actor>
+    <name>Nari Blair-Mangat</name>
+    <role>Hotel Staff 3</role>
+    <type>Actor</type>
+    <tmdbid>229320</tmdbid>
+    <imdbid>nm3335517</imdbid>
+  </actor>
+  <actor>
+    <name>Sid Sagar</name>
+    <role>Concierge</role>
+    <type>Actor</type>
+    <tmdbid>1821649</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenda-Jane Newhouse</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>3486084</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhiannon Clements</name>
+    <role>Hotel Administrator</role>
+    <type>Actor</type>
+    <tmdbid>3284628</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cook</name>
+    <role>Hotel Staff 1</role>
+    <type>Actor</type>
+    <tmdbid>3486085</tmdbid>
+    <tvdbid>8147671</tvdbid>
+  </actor>
+  <actor>
+    <name>Heider Ali</name>
+    <role>Spice Market Merchant</role>
+    <type>Actor</type>
+    <tmdbid>2754713</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayat Kamille</name>
+    <role>Snake Handler</role>
+    <type>Actor</type>
+    <tmdbid>1743875</tmdbid>
+  </actor>
+  <actor>
+    <name>Crispin Letts</name>
+    <role>Officer Besner</role>
+    <type>Actor</type>
+    <tmdbid>45440</tmdbid>
+    <imdbid>nm0504821</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Alli</name>
+    <role>Marc Yves</role>
+    <type>Actor</type>
+    <tmdbid>3417990</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Feeney</name>
+    <role>Maxine Cardiff</role>
+    <type>Actor</type>
+    <tmdbid>2568528</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Eve</name>
+    <role>Hattie Pyne</role>
+    <type>Actor</type>
+    <tmdbid>3486089</tmdbid>
+  </actor>
+  <actor>
+    <name>Aron Julius</name>
+    <role>Will Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>1488240</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Lovehall</name>
+    <role>Allerton McNaught</role>
+    <type>Actor</type>
+    <tmdbid>2361758</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacy Abalogun</name>
+    <role>Elinor Glyn</role>
+    <type>Actor</type>
+    <tmdbid>3063466</tmdbid>
+  </actor>
+  <actor>
+    <name>Naveed Khan</name>
+    <role>Captain Mahmoud</role>
+    <type>Actor</type>
+    <tmdbid>1756556</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Smale</name>
+    <role>Berel Genevese</role>
+    <type>Actor</type>
+    <tmdbid>3486091</tmdbid>
+  </actor>
+  <actor>
+    <name>Kemi Awoderu</name>
+    <role>Allesande Johar</role>
+    <type>Actor</type>
+    <tmdbid>3178831</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Alexandra</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3539081</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikkita Chadha</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1535014</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadine Leon Gobet</name>
+    <role>Mademoiselle Blondin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3016822</tmdbid>
+  </actor>
+  <director tmdbid="11181" imdbid="nm0000110">Kenneth Branagh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LKeBgobAYMQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2HQPNRtMbJ0</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Muerte en el Nilo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7657566</imdbid>
+  <tmdbid>505026</tmdbid>
+  <premiered>2022-02-09</premiered>
+  <releasedate>2022-02-09</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>127</runtime>
+  <tagline>El asesinato fue solo el comienzo.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Scott Free Productions</studio>
+  <studio>The Mark Gordon Company</studio>
+  <studio>Genre Films</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>20th Century Studios</studio>
+  <studio>Agatha Christie Limited</studio>
+  <set tmdbcolid="735384">
+    <name>Hercule Poirot (Kenneth Branagh) - Colección</name>
+  </set>
+  <set tmdbcolid="735384">
+    <name>Hércules Poirot (Kenneth Branagh) - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7657566</uniqueid>
+  <uniqueid type="tmdb">505026</uniqueid>
+  <id>tt7657566</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1497304</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7617</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

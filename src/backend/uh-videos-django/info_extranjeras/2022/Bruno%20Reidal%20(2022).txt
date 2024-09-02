@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Raulhac, Cantal, Francia, 1 de septiembre de 1905. En el bosque que rodea su pueblo natal, el joven seminarista Bruno Reidal asesina a un niño y luego se entrega a las autoridades.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-22 13:03:23</dateadded>
+  <title>Bruno Reidal: confesión de un asesino</title>
+  <originaltitle>Bruno Reidal : confession d'un meurtrier</originaltitle>
+  <actor>
+    <name>Dimitri Doré</name>
+    <role>Bruno Reidal</role>
+    <type>Actor</type>
+    <tmdbid>2503502</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Luc Vincent</name>
+    <role>Professor Lacassagne</role>
+    <type>Actor</type>
+    <tmdbid>1139100</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Villedieu</name>
+    <role>Bruno - 10 Years</role>
+    <type>Actor</type>
+    <tmdbid>2503504</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Fanguin</name>
+    <role>Bruno - 6 Years</role>
+    <type>Actor</type>
+    <tmdbid>2503503</tmdbid>
+  </actor>
+  <actor>
+    <name>Tino Vigier</name>
+    <role>Blondel</role>
+    <type>Actor</type>
+    <tmdbid>3138510</tmdbid>
+  </actor>
+  <actor>
+    <name>Nelly Bruel</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>3138511</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Chiodetti</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>3138513</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Legrand</name>
+    <role>Doctor Papillon</role>
+    <type>Actor</type>
+    <tmdbid>3476057</tmdbid>
+  </actor>
+  <actor>
+    <name>Antoine Brunel</name>
+    <role>Doctor Rousset</role>
+    <type>Actor</type>
+    <tmdbid>3476058</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Chiodetti</name>
+    <role>François</role>
+    <type>Actor</type>
+    <tmdbid>3476059</tmdbid>
+  </actor>
+  <actor>
+    <name>René Loyon</name>
+    <role>Father Superior</role>
+    <type>Actor</type>
+    <tmdbid>1823369</tmdbid>
+  </actor>
+  <actor>
+    <name>Rémy Leboucq</name>
+    <role>Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>3138512</tmdbid>
+  </actor>
+  <actor>
+    <name>André Salson</name>
+    <role>Master</role>
+    <type>Actor</type>
+    <tmdbid>3476080</tmdbid>
+  </actor>
+  <actor>
+    <name>Astrid Vialard</name>
+    <role>Eugénie</role>
+    <type>Actor</type>
+    <tmdbid>3476062</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Fauchier</name>
+    <role>Eugénie</role>
+    <type>Actor</type>
+    <tmdbid>3476063</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Chiodetti</name>
+    <role>Jules</role>
+    <type>Actor</type>
+    <tmdbid>3476064</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fosse</name>
+    <role>Jules</role>
+    <type>Actor</type>
+    <tmdbid>3476095</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Chiodetti</name>
+    <role>Jules</role>
+    <type>Actor</type>
+    <tmdbid>3476097</tmdbid>
+  </actor>
+  <actor>
+    <name>Esteban Dechambre</name>
+    <role>Joseph</role>
+    <type>Actor</type>
+    <tmdbid>3476066</tmdbid>
+  </actor>
+  <actor>
+    <name>Victorien Delpuech</name>
+    <role>Joseph</role>
+    <type>Actor</type>
+    <tmdbid>3476068</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnaud Massol</name>
+    <role>Antoine</role>
+    <type>Actor</type>
+    <tmdbid>3476069</tmdbid>
+  </actor>
+  <actor>
+    <name>Justine Wojtuch-Rodier</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>3476070</tmdbid>
+  </actor>
+  <actor>
+    <name>David Hugon</name>
+    <role>Marie's Husband</role>
+    <type>Actor</type>
+    <tmdbid>3476071</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanine Malleviale</name>
+    <role>Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>3476073</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonin Vidalenc</name>
+    <role>Grandfather</role>
+    <type>Actor</type>
+    <tmdbid>3476074</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlène Veylet</name>
+    <role>Aunt</role>
+    <type>Actor</type>
+    <tmdbid>3476076</tmdbid>
+  </actor>
+  <actor>
+    <name>Aloys Audin</name>
+    <role>Émile</role>
+    <type>Actor</type>
+    <tmdbid>3655062</tmdbid>
+  </actor>
+  <actor>
+    <name>Axel Batut</name>
+    <role>Schoolboy #1</role>
+    <type>Actor</type>
+    <tmdbid>3655063</tmdbid>
+  </actor>
+  <actor>
+    <name>Lénaïck Dalat</name>
+    <role>Schoolboy #3</role>
+    <type>Actor</type>
+    <tmdbid>3655064</tmdbid>
+  </actor>
+  <actor>
+    <name>Rémi Richart</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>3655066</tmdbid>
+  </actor>
+  <actor>
+    <name>Christophe Sureau</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3655067</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Schilling</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>3655068</tmdbid>
+  </actor>
+  <actor>
+    <name>André Versapuech</name>
+    <role>Parish Priest</role>
+    <type>Actor</type>
+    <tmdbid>3655070</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Lampre</name>
+    <role>Gendarme</role>
+    <type>Actor</type>
+    <tmdbid>3655071</tmdbid>
+  </actor>
+  <actor>
+    <name>François Berro</name>
+    <role>Medical Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3655072</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Evrard</name>
+    <role>Priest #1</role>
+    <type>Actor</type>
+    <tmdbid>3655073</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabien Mairey</name>
+    <role>Priest #2</role>
+    <type>Actor</type>
+    <tmdbid>3655074</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Marc Molinier Daures</name>
+    <role>Priest #3</role>
+    <type>Actor</type>
+    <tmdbid>3655075</tmdbid>
+  </actor>
+  <actor>
+    <name>François Pinsault</name>
+    <role>Priest #4</role>
+    <type>Actor</type>
+    <tmdbid>3655076</tmdbid>
+  </actor>
+  <director tmdbid="1627712">Vincent Le Port</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oQvTq3QTTsU</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Bruno Reidal: confesion de un asesino</sorttitle>
+  <imdbid>tt10965850</imdbid>
+  <tmdbid>583556</tmdbid>
+  <premiered>2022-03-23</premiered>
+  <releasedate>2022-03-23</releasedate>
+  <runtime>101</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Stank</studio>
+  <studio>Capricci Films</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Ciné+</studio>
+  <studio>ARTE</studio>
+  <uniqueid type="tmdb">583556</uniqueid>
+  <uniqueid type="imdb">tt10965850</uniqueid>
+  <id>tt10965850</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>985227</bitrate>
+        <width>720</width>
+        <height>432</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6087</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.]]></plot>
+  <outline><![CDATA[Una hermosa proeza]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:49:41</dateadded>
+  <title>Shirley</title>
+  <originaltitle>Shirley</originaltitle>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+    <imdbid>nm0005253</imdbid>
+    <tvdbid>311051</tvdbid>
+  </actor>
+  <actor>
+    <name>Odessa Young</name>
+    <type>Actor</type>
+    <tmdbid>1345495</tmdbid>
+    <imdbid>nm3747611</imdbid>
+    <tvdbid>521388</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+    <tvdbid>317044</tvdbid>
+  </actor>
+  <actor>
+    <name>Logan Lerman</name>
+    <type>Actor</type>
+    <tmdbid>33235</tmdbid>
+    <imdbid>nm0503567</imdbid>
+  </actor>
+  <director tmdbid="1033654" imdbid="nm2528451">Josephine Decker</director>
+  <writer>Sarah Gubbins (screenplay by)</writer>
+  <writer>Susan Scarf Merrell (based on the book written by)</writer>
+  <credits>Sarah Gubbins (screenplay by)</credits>
+  <credits>Susan Scarf Merrell (based on the book written by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wxMtEean_V8</trailer>
+  <rating>6.1</rating>
+  <year>2020</year>
+  <sorttitle>Shirley</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8430598</imdbid>
+  <tmdbid>547017</tmdbid>
+  <premiered>2020-09-11</premiered>
+  <releasedate>2020-09-11</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>107</runtime>
+  <tagline>Una hermosa proeza</tagline>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Killer Films</studio>
+  <studio>Los Angeles Media Fund</studio>
+  <studio>Mechanism Digital</studio>
+  <studio>Neon</studio>
+  <studio>Sikelia Productions</studio>
+  <studio>Curzon Film Distributors</studio>
+  <uniqueid type="imdb">tt8430598</uniqueid>
+  <uniqueid type="tmdb">547017</uniqueid>
+  <id>tt8430598</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1043709</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>479:259</aspect>
+        <aspectratio>479:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6406</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

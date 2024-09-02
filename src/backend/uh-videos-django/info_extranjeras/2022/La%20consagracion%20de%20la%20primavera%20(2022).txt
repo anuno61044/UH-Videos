@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Laura (Valeria Sorolla) acaba de llegar a Madrid para instalarse en un Colegio Mayor y estudiar la carrera de Químicas. Sola y casi sin dinero, intenta adaptarse a su vida universitaria mientras lidia con sus inseguridades. Una noche, por casualidad, conoce a David (Telmo Irureta), un chico con parálisis cerebral que vive con su madre, Isabel (Emma Suárez). Laura inicia con ellos una relación de confianza mutua que le ayuda a superar sus complejos y afrontar una nueva etapa hacia la madurez. La consagración de la primavera es una historia sobre ese momento vital en el que todo es posible y sobre cómo el encuentro más inesperado nos puede cambiar la vida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-07 07:45:56</dateadded>
+  <title>La consagración de la primavera</title>
+  <originaltitle>La consagración de la primavera</originaltitle>
+  <actor>
+    <name>Valèria Sorolla</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>3240522</tmdbid>
+  </actor>
+  <actor>
+    <name>Telmo Irureta</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>2263745</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Suárez</name>
+    <role>Isabel</role>
+    <type>Actor</type>
+    <tmdbid>24974</tmdbid>
+    <imdbid>nm0840772</imdbid>
+  </actor>
+  <director tmdbid="53230">Fernando Franco</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-J1qGiOXta8</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>consagracion de la primavera</sorttitle>
+  <imdbid>tt10602182</imdbid>
+  <tmdbid>1003685</tmdbid>
+  <premiered>2022-09-30</premiered>
+  <releasedate>2022-09-30</releasedate>
+  <runtime>106</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Lazona</studio>
+  <studio>Kowalski Films</studio>
+  <studio>Ferdydurke</studio>
+  <studio>ICAA</studio>
+  <studio>Canal Sur</studio>
+  <studio>Movistar+</studio>
+  <studio>Blizzard Films</studio>
+  <uniqueid type="tmdb">1003685</uniqueid>
+  <uniqueid type="imdb">tt10602182</uniqueid>
+  <id>tt10602182</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>161061</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6356</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63829</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

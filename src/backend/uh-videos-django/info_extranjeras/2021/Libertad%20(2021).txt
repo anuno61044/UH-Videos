@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de mucho tiempo sin coincidir en su casa de verano, la familia Vidal pasa las últimas vacaciones con la abuela Ángela, que sufre Alzheimer avanzado. Por primera vez en su vida, Nora (14), siente que no encuentra su lugar: los juegos de niños le parecen ridículos y las conversaciones de los adultos todavía le van grandes. Pero todo cambia con la llegada de Libertad (15), la hija de Rosana, la mujer colombiana que cuida a Ángela.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-14 12:32:13</dateadded>
+  <title>Libertad</title>
+  <originaltitle>Libertad</originaltitle>
+  <actor>
+    <name>Maria Morera Colomer</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>2480558</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolle García</name>
+    <role>Libertad</role>
+    <type>Actor</type>
+    <tmdbid>2480565</tmdbid>
+  </actor>
+  <actor>
+    <name>Nora Navas</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>226431</tmdbid>
+    <imdbid>nm1155977</imdbid>
+    <tvdbid>489855</tvdbid>
+  </actor>
+  <actor>
+    <name>Carol Hurtado</name>
+    <role>Rosana</role>
+    <type>Actor</type>
+    <tmdbid>2480564</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicky Peña</name>
+    <role>Àngela</role>
+    <type>Actor</type>
+    <tmdbid>980594</tmdbid>
+    <imdbid>nm0679251</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Alcaide</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>2556046</tmdbid>
+  </actor>
+  <actor>
+    <name>David Selvas</name>
+    <role>Santi</role>
+    <type>Actor</type>
+    <tmdbid>942100</tmdbid>
+    <imdbid>nm0783591</imdbid>
+  </actor>
+  <actor>
+    <name>Òscar Muñoz</name>
+    <role>Ricard</role>
+    <type>Actor</type>
+    <tmdbid>1269231</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergi Torrecilla</name>
+    <role>Toni</role>
+    <type>Actor</type>
+    <tmdbid>2244272</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Rodríguez Soto</name>
+    <role>Isa</role>
+    <type>Actor</type>
+    <tmdbid>1881658</tmdbid>
+    <imdbid>nm4078485</imdbid>
+    <tvdbid>8611606</tvdbid>
+  </actor>
+  <actor>
+    <name>Mathilde Legrand</name>
+    <role>Julie</role>
+    <type>Actor</type>
+    <tmdbid>2480561</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucía Seoane</name>
+    <type>Actor</type>
+    <tmdbid>3461512</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafaela Noriega</name>
+    <type>Actor</type>
+    <tmdbid>3461513</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Benaabad</name>
+    <type>Actor</type>
+    <tmdbid>3461514</tmdbid>
+  </actor>
+  <actor>
+    <name>Abel Montes</name>
+    <type>Actor</type>
+    <tmdbid>3461515</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Claveri</name>
+    <type>Actor</type>
+    <tmdbid>3461517</tmdbid>
+  </actor>
+  <actor>
+    <name>Juanjo Boldú</name>
+    <type>Actor</type>
+    <tmdbid>3461519</tmdbid>
+  </actor>
+  <actor>
+    <name>Marín Noriega</name>
+    <type>Actor</type>
+    <tmdbid>3461520</tmdbid>
+  </actor>
+  <director tmdbid="1502664">Clara Roquet</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h-kuLlJbXH0</trailer>
+  <rating>6.5</rating>
+  <year>2021</year>
+  <sorttitle>Libertad</sorttitle>
+  <imdbid>tt10589738</imdbid>
+  <tmdbid>655181</tmdbid>
+  <premiered>2021-10-04</premiered>
+  <releasedate>2021-10-04</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>105</runtime>
+  <country>Belgium</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Avalon</studio>
+  <studio>Lastor Media</studio>
+  <studio>Bulletproof Cupid</studio>
+  <uniqueid type="tmdb">655181</uniqueid>
+  <uniqueid type="imdb">tt10589738</uniqueid>
+  <id>tt10589738</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1035150</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6279</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64149</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

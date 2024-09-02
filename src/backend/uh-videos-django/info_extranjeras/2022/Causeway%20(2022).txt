@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.]]></plot>
+  <outline><![CDATA[Empieza de nuevo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-04 08:10:10</dateadded>
+  <title>Causeway</title>
+  <originaltitle>Causeway</originaltitle>
+  <actor>
+    <name>Jennifer Lawrence</name>
+    <role>Lynsey</role>
+    <type>Actor</type>
+    <tmdbid>72129</tmdbid>
+    <imdbid>nm2225369</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+    <tvdbid>311251</tvdbid>
+  </actor>
+  <actor>
+    <name>Linda Emond</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>58643</tmdbid>
+    <imdbid>nm0256599</imdbid>
+    <tvdbid>316071</tvdbid>
+  </actor>
+  <actor>
+    <name>Jayne Houdyshell</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>1232500</tmdbid>
+    <imdbid>nm1159251</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Henderson</name>
+    <role>Dr. Lucas</role>
+    <type>Actor</type>
+    <tmdbid>196179</tmdbid>
+    <imdbid>nm0376610</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Harvard</name>
+    <role>Justin</role>
+    <type>Actor</type>
+    <tmdbid>221082</tmdbid>
+    <imdbid>nm2341751</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Carvajal</name>
+    <role>Santiago</role>
+    <type>Actor</type>
+    <tmdbid>1043579</tmdbid>
+  </actor>
+  <actor>
+    <name>Frederick Weller</name>
+    <role>Rick</role>
+    <type>Actor</type>
+    <tmdbid>143017</tmdbid>
+    <imdbid>nm0919867</imdbid>
+  </actor>
+  <actor>
+    <name>Will Pullen</name>
+    <role>Bro</role>
+    <type>Actor</type>
+    <tmdbid>1560340</tmdbid>
+  </actor>
+  <actor>
+    <name>Neal Huff</name>
+    <role>Neuropsychologist</role>
+    <type>Actor</type>
+    <tmdbid>58544</tmdbid>
+    <imdbid>nm0400223</imdbid>
+    <tvdbid>340393</tvdbid>
+  </actor>
+  <actor>
+    <name>Danny Wolohan</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>1560237</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Soto</name>
+    <role>Physiotherapist</role>
+    <type>Actor</type>
+    <tmdbid>1116011</tmdbid>
+    <imdbid>nm2404349</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Pilie</name>
+    <role>Physiotherapist</role>
+    <type>Actor</type>
+    <tmdbid>3762285</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzette Stuebben</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>3762288</tmdbid>
+  </actor>
+  <actor>
+    <name>Cynthia LeBlanc</name>
+    <role>Pharmacy Customer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3804313</tmdbid>
+  </actor>
+  <actor>
+    <name>Elton LeBlanc</name>
+    <role>Customer Picking up Precription (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1011212</tmdbid>
+    <imdbid>nm1891863</imdbid>
+  </actor>
+  <director tmdbid="2289991" tvdbid="7961441">Lila Neugebauer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j307q8zMD3Y</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i-iIkeMqXXE</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>Causeway</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10192406</imdbid>
+  <tmdbid>595586</tmdbid>
+  <premiered>2022-10-28</premiered>
+  <releasedate>2022-10-28</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>94</runtime>
+  <tagline>Empieza de nuevo.</tagline>
+  <country>Finland</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>A24</studio>
+  <studio>IAC Films</studio>
+  <studio>Excellent Cadaver</studio>
+  <studio>IPR.VC</studio>
+  <uniqueid type="imdb">tt10192406</uniqueid>
+  <uniqueid type="tmdb">595586</uniqueid>
+  <id>tt10192406</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1183217</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5650</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

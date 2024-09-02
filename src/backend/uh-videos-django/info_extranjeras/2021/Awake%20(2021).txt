@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras un suceso global repentino que acaba con todos los dispositivos electrónicos y con la capacidad para dormir de la humanidad, el caos comienza a consumir el mundo rápidamente. Solo Jill, un exsoldado con un pasado problemático, podría tener la clave de la cura en su propia hija. La cuestión es ¿podrá Jill entregar a su hija de manera segura y salvar al mundo antes de que ella misma pierda la cabeza?]]></plot>
+  <outline><![CDATA[Desorientación. Alucinaciones. Histeria. El sueño es la supervivencia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-18 09:55:07</dateadded>
+  <title>Disomnia</title>
+  <originaltitle>Awake</originaltitle>
+  <actor>
+    <name>Gina Rodriguez</name>
+    <role>Jill</role>
+    <type>Actor</type>
+    <tmdbid>180486</tmdbid>
+    <imdbid>nm1752221</imdbid>
+    <tvdbid>303823</tvdbid>
+  </actor>
+  <actor>
+    <name>Ariana Greenblatt</name>
+    <role>Matilda</role>
+    <type>Actor</type>
+    <tmdbid>1767250</tmdbid>
+    <imdbid>nm7567556</imdbid>
+  </actor>
+  <actor>
+    <name>Lucius Hoyos</name>
+    <role>Noah</role>
+    <type>Actor</type>
+    <tmdbid>1178763</tmdbid>
+  </actor>
+  <actor>
+    <name>Shamier Anderson</name>
+    <role>Dodge</role>
+    <type>Actor</type>
+    <tmdbid>1080969</tmdbid>
+    <imdbid>nm3875456</imdbid>
+    <tvdbid>299834</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Jason Leigh</name>
+    <role>Dr. Murphy</role>
+    <type>Actor</type>
+    <tmdbid>10431</tmdbid>
+    <imdbid>nm0000492</imdbid>
+    <tvdbid>296968</tvdbid>
+  </actor>
+  <actor>
+    <name>Finn Jones</name>
+    <role>Brian</role>
+    <type>Actor</type>
+    <tmdbid>1223787</tmdbid>
+    <imdbid>nm3645691</imdbid>
+    <tvdbid>247867</tvdbid>
+  </actor>
+  <actor>
+    <name>Frances Fisher</name>
+    <role>Doris</role>
+    <type>Actor</type>
+    <tmdbid>3713</tmdbid>
+    <imdbid>nm0004920</imdbid>
+  </actor>
+  <actor>
+    <name>Gil Bellows</name>
+    <role>Dr. Katz</role>
+    <type>Actor</type>
+    <tmdbid>6575</tmdbid>
+    <imdbid>nm0004743</imdbid>
+  </actor>
+  <actor>
+    <name>Sergio Di Zio</name>
+    <role>Dumb Jim</role>
+    <type>Actor</type>
+    <tmdbid>54193</tmdbid>
+    <imdbid>nm0224391</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Pepper</name>
+    <role>Pastor</role>
+    <type>Actor</type>
+    <tmdbid>12834</tmdbid>
+    <imdbid>nm0001608</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Robinson</name>
+    <role>Marcy</role>
+    <type>Actor</type>
+    <tmdbid>1383012</tmdbid>
+    <imdbid>nm1701089</imdbid>
+  </actor>
+  <actor>
+    <name>Elias Edraki</name>
+    <role>Petty Officer Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1557408</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex House</name>
+    <role>Scarred Soldier</role>
+    <type>Actor</type>
+    <tmdbid>168776</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Garrow</name>
+    <role>Neck Tattoo</role>
+    <type>Actor</type>
+    <tmdbid>190961</tmdbid>
+  </actor>
+  <actor>
+    <name>Edsson Morales</name>
+    <role>Lazy</role>
+    <type>Actor</type>
+    <tmdbid>1793734</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Gregson</name>
+    <role>Sleeper</role>
+    <type>Actor</type>
+    <tmdbid>168765</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Beirne</name>
+    <role>Gregg</role>
+    <type>Actor</type>
+    <tmdbid>1166834</tmdbid>
+    <imdbid>nm1222461</imdbid>
+    <tvdbid>8005984</tvdbid>
+  </actor>
+  <actor>
+    <name>Trevor Hayes</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>82646</tmdbid>
+    <imdbid>nm1592061</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Ahmed</name>
+    <role>Hub Technician</role>
+    <type>Actor</type>
+    <tmdbid>1649211</tmdbid>
+    <imdbid>nm2125645</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Lake</name>
+    <role>Sheriff</role>
+    <type>Actor</type>
+    <tmdbid>166489</tmdbid>
+  </actor>
+  <actor>
+    <name>Martha Girvin</name>
+    <role>Church Member</role>
+    <type>Actor</type>
+    <tmdbid>1701433</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ablack</name>
+    <role>Student Protestor</role>
+    <type>Actor</type>
+    <tmdbid>2485409</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Dyan-Porter</name>
+    <role>Hub Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2773218</tmdbid>
+  </actor>
+  <actor>
+    <name>Chai Valladares</name>
+    <role>Male Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2182058</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Blakely</name>
+    <role>Pharmacist</role>
+    <type>Actor</type>
+    <tmdbid>209151</tmdbid>
+  </actor>
+  <actor>
+    <name>Khadijah Roberts-Abdullah</name>
+    <role>New Researcher</role>
+    <type>Actor</type>
+    <tmdbid>2302885</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Hayden</name>
+    <role>Carrillo</role>
+    <type>Actor</type>
+    <tmdbid>2951223</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Marriott</name>
+    <role>Military Guard</role>
+    <type>Actor</type>
+    <tmdbid>2801074</tmdbid>
+  </actor>
+  <actor>
+    <name>Katerina Taxia</name>
+    <role>Greek Mother</role>
+    <type>Actor</type>
+    <tmdbid>2299712</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Pigott</name>
+    <role>Clarence</role>
+    <type>Actor</type>
+    <tmdbid>224144</tmdbid>
+    <imdbid>nm2477204</imdbid>
+  </actor>
+  <actor>
+    <name>Liz Adjei</name>
+    <role>V.A. Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2502700</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Chantrey</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1239372</tmdbid>
+    <imdbid>nm0030404</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Bazzocchi</name>
+    <role>Seaman Dismas</role>
+    <type>Actor</type>
+    <tmdbid>2563032</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Jara</name>
+    <role>Campus Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1669361</tmdbid>
+  </actor>
+  <director tmdbid="1286519">Mark Raso</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2fuowcxdrYc</trailer>
+  <rating>4.9</rating>
+  <year>2021</year>
+  <sorttitle>Disomnia</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt10418662</imdbid>
+  <tmdbid>615658</tmdbid>
+  <premiered>2021-06-09</premiered>
+  <releasedate>2021-06-09</releasedate>
+  <criticrating>34</criticrating>
+  <runtime>97</runtime>
+  <tagline>Desorientación. Alucinaciones. Histeria. El sueño es la supervivencia.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Drama</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Suspense</genre>
+  <studio>Entertainment One</studio>
+  <studio>Paul Schiff Productions</studio>
+  <uniqueid type="imdb">tt10418662</uniqueid>
+  <uniqueid type="tmdb">615658</uniqueid>
+  <id>tt10418662</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149577</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5840</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>126214</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un grupo de mujeres en una colonia religiosa aislada lucha por reconciliar su fe con una serie de agresiones sexuales cometidas por los hombres de la colonia.]]></plot>
+  <outline><![CDATA[No hacer nada. Quedarse y luchar. Irse.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-22 10:30:53</dateadded>
+  <title>Ellas hablan</title>
+  <originaltitle>Women Talking</originaltitle>
+  <actor>
+    <name>Rooney Mara</name>
+    <role>Ona</role>
+    <type>Actor</type>
+    <tmdbid>108916</tmdbid>
+    <imdbid>nm1913734</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Foy</name>
+    <role>Salome</role>
+    <type>Actor</type>
+    <tmdbid>120932</tmdbid>
+    <imdbid>nm2946516</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Mariche</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Whishaw</name>
+    <role>August</role>
+    <type>Actor</type>
+    <tmdbid>17064</tmdbid>
+    <imdbid>nm0924210</imdbid>
+  </actor>
+  <actor>
+    <name>Frances McDormand</name>
+    <role>Scarface Janz</role>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+    <tvdbid>321262</tvdbid>
+  </actor>
+  <actor>
+    <name>Judith Ivey</name>
+    <role>Agata</role>
+    <type>Actor</type>
+    <tmdbid>19239</tmdbid>
+    <imdbid>nm0412382</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila McCarthy</name>
+    <role>Greta</role>
+    <type>Actor</type>
+    <tmdbid>29384</tmdbid>
+    <imdbid>nm0565319</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Hallett</name>
+    <role>Autje</role>
+    <type>Actor</type>
+    <tmdbid>3126870</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle McLeod</name>
+    <role>Mejal</role>
+    <type>Actor</type>
+    <tmdbid>1871793</tmdbid>
+  </actor>
+  <actor>
+    <name>Liv McNeil</name>
+    <role>Neitje</role>
+    <type>Actor</type>
+    <tmdbid>3688528</tmdbid>
+  </actor>
+  <actor>
+    <name>August Winter</name>
+    <role>Melvin</role>
+    <type>Actor</type>
+    <tmdbid>3126868</tmdbid>
+  </actor>
+  <actor>
+    <name>Shayla Brown</name>
+    <role>Helena</role>
+    <type>Actor</type>
+    <tmdbid>3275569</tmdbid>
+  </actor>
+  <actor>
+    <name>Kira Guloien</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>2512529</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Mitchell</name>
+    <role>Miep</role>
+    <type>Actor</type>
+    <tmdbid>3543561</tmdbid>
+  </actor>
+  <actor>
+    <name>Eli Ham</name>
+    <role>Klaus</role>
+    <type>Actor</type>
+    <tmdbid>1819780</tmdbid>
+  </actor>
+  <actor>
+    <name>Lochlan Ray Miller</name>
+    <role>Julius</role>
+    <type>Actor</type>
+    <tmdbid>3320729</tmdbid>
+  </actor>
+  <actor>
+    <name>Vivien Endicott Douglas</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>227571</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel McParland</name>
+    <role>Aaron</role>
+    <type>Actor</type>
+    <tmdbid>3244335</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Craig</name>
+    <role>Cornelius</role>
+    <type>Actor</type>
+    <tmdbid>2813766</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Bowes</name>
+    <role>Census Driver</role>
+    <type>Actor</type>
+    <tmdbid>224724</tmdbid>
+    <imdbid>nm2012029</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Drake</name>
+    <role>Dark Haired Woman</role>
+    <type>Actor</type>
+    <tmdbid>3703037</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Gillis</name>
+    <role>Woman on the Path</role>
+    <type>Actor</type>
+    <tmdbid>1512135</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Widdis</name>
+    <role>Girl on porch (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3566715</tmdbid>
+  </actor>
+  <director tmdbid="98" imdbid="nm0001631">Sarah Polley</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yfDAcKguj3Q</trailer>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>Ellas hablan</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13669038</imdbid>
+  <tmdbid>777245</tmdbid>
+  <premiered>2022-12-23</premiered>
+  <releasedate>2022-12-23</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>104</runtime>
+  <tagline>No hacer nada. Quedarse y luchar. Irse.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Orion Pictures</studio>
+  <studio>Plan B Entertainment</studio>
+  <studio>Hear/Say Productions</studio>
+  <uniqueid type="tmdb">777245</uniqueid>
+  <uniqueid type="imdb">tt13669038</uniqueid>
+  <id>tt13669038</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1069514</bitrate>
+        <width>1280</width>
+        <height>464</height>
+        <aspect>80:29</aspect>
+        <aspectratio>80:29</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6256</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

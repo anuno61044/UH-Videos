@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lucio, un prestigioso profesor de literatura en la universidad, toma un curso en una escuela del barrio donde creció, en los suburbios de Buenos Aires. Allí intentará ayudar a su padre a salvar a Dilan, un estudiante perseguido por un grupo de narcos.]]></plot>
+  <outline><![CDATA[Nadie se salva solo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-20 09:19:19</dateadded>
+  <title>El suplente</title>
+  <originaltitle>El suplente</originaltitle>
+  <actor>
+    <name>Juan Minujín</name>
+    <role>Lucio</role>
+    <type>Actor</type>
+    <tmdbid>140538</tmdbid>
+    <imdbid>nm1375877</imdbid>
+  </actor>
+  <actor>
+    <name>Bárbara Lennie</name>
+    <role>Mariela</role>
+    <type>Actor</type>
+    <tmdbid>724188</tmdbid>
+    <imdbid>nm1036659</imdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Castro</name>
+    <role>El Chileno</role>
+    <type>Actor</type>
+    <tmdbid>225011</tmdbid>
+    <imdbid>nm0998846</imdbid>
+  </actor>
+  <actor>
+    <name>Rita Cortese</name>
+    <role>Amalia</role>
+    <type>Actor</type>
+    <tmdbid>99113</tmdbid>
+    <imdbid>nm0181300</imdbid>
+    <tvdbid>513348</tvdbid>
+  </actor>
+  <actor>
+    <name>María Merlino</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>1493052</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Arrúa</name>
+    <role>Dilan</role>
+    <type>Actor</type>
+    <tmdbid>3678272</tmdbid>
+  </actor>
+  <actor>
+    <name>Renata Lerman</name>
+    <role>Sol</role>
+    <type>Actor</type>
+    <tmdbid>3678273</tmdbid>
+  </actor>
+  <actor>
+    <name>Martín Kohan</name>
+    <type>Actor</type>
+    <tmdbid>145023</tmdbid>
+  </actor>
+  <actor>
+    <name>Agustín Rittano</name>
+    <role>El Perro Olmos</role>
+    <type>Actor</type>
+    <tmdbid>2114683</tmdbid>
+  </actor>
+  <actor>
+    <name>Belen Enguidanos</name>
+    <role>Vanesa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4110225</tmdbid>
+  </actor>
+  <director tmdbid="145022" imdbid="nm1195308">Diego Lerman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UcP7QmdM2VU</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>suplente</sorttitle>
+  <imdbid>tt15941636</imdbid>
+  <tmdbid>886755</tmdbid>
+  <premiered>2022-10-20</premiered>
+  <releasedate>2022-10-20</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>112</runtime>
+  <tagline>Nadie se salva solo.</tagline>
+  <country>Argentina</country>
+  <country>Spain</country>
+  <country>France</country>
+  <country>Italy</country>
+  <country>Mexico</country>
+  <country>United Kingdom</country>
+  <country>Switzerland</country>
+  <genre>Drama</genre>
+  <genre>Crimen</genre>
+  <studio>Campo Cine</studio>
+  <studio>Arcadia</studio>
+  <studio>Bord Cadre Films</studio>
+  <studio>Esperanto Kino</studio>
+  <studio>Pimienta Films</studio>
+  <studio>Sovereign Films</studio>
+  <studio>Vivo Film</studio>
+  <uniqueid type="tmdb">886755</uniqueid>
+  <uniqueid type="imdb">tt15941636</uniqueid>
+  <id>tt15941636</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>233817</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6694</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63839</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

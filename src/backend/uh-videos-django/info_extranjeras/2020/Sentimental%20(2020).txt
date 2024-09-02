@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Julio y Ana hace más de quince años que están juntos. Forman una pareja que ya no se mira ni se toca, y que ha hecho del combate diario la esencia de su relación. Esta noche Ana ha invitado a casa a sus vecinos del piso de arriba, Salva y Laura, una pareja más joven que ellos, amable y simpática, pero cuyos “ruidos” se han convertido en una molestia para Julio y Ana...¿o quizás en un estímulo? Los vecinos de arriba les harán una inusual y sorprendente propuesta que convertirá la velada en una experiencia excesiva y catártica para los cuatro... Adaptación cinematográfica de 'Los vecinos de arriba', la obra teatral debut de Cesc Gay.]]></plot>
+  <outline><![CDATA[Una comedia orgásmica]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-01 09:42:58</dateadded>
+  <title>Sentimental</title>
+  <originaltitle>Sentimental</originaltitle>
+  <actor>
+    <name>Javier Cámara</name>
+    <role>Julio</role>
+    <type>Actor</type>
+    <tmdbid>1610</tmdbid>
+    <imdbid>nm0194572</imdbid>
+    <tvdbid>449344</tvdbid>
+  </actor>
+  <actor>
+    <name>Belén Cuesta</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1423493</tmdbid>
+    <imdbid>nm3177382</imdbid>
+    <tvdbid>473696</tvdbid>
+  </actor>
+  <actor>
+    <name>Alberto San Juan</name>
+    <role>Salva</role>
+    <type>Actor</type>
+    <tmdbid>27462</tmdbid>
+    <imdbid>nm0760664</imdbid>
+  </actor>
+  <actor>
+    <name>Griselda Siciliani</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>1020042</tmdbid>
+    <imdbid>nm2155527</imdbid>
+  </actor>
+  <director tmdbid="73693" imdbid="nm0310747">Cesc Gay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a_cya2Q5n6w</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>Sentimental</sorttitle>
+  <imdbid>tt11028768</imdbid>
+  <tmdbid>717675</tmdbid>
+  <premiered>2020-10-30</premiered>
+  <releasedate>2020-10-30</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>78</runtime>
+  <tagline>Una comedia orgásmica</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Imposible Films</studio>
+  <studio>ICEC</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt11028768</uniqueid>
+  <uniqueid type="tmdb">717675</uniqueid>
+  <id>tt11028768</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1499035</bitrate>
+        <width>720</width>
+        <height>404</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>78</duration>
+        <durationinseconds>4694</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

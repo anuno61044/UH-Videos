@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Paula y su marido regresan en coche de una cena. Repentinamente, se topan con una niña deambulando sola por la carretera. Dos semanas más tarde, tras conocer que nadie la reclama, deciden acogerla en su casa temporalmente y así también dar un giro a su vida de pareja. No será fácil, ya que la niña vive obsesionada con la fantasía de un monstruo que la castigará si sale de un cuadrado de tiza pintado en el suelo. Tras el fuerte vínculo que crean ambas, Paula iniciará un viaje por caminos oscuros para intentar descubrir el enigma del pasado de la niña.]]></plot>
+  <outline><![CDATA[Sal si te atreves.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-24 12:58:18</dateadded>
+  <title>Jaula</title>
+  <originaltitle>Jaula</originaltitle>
+  <actor>
+    <name>Elena Anaya</name>
+    <role>Paula</role>
+    <type>Actor</type>
+    <tmdbid>3623</tmdbid>
+    <imdbid>nm0025745</imdbid>
+    <tvdbid>8151678</tvdbid>
+  </actor>
+  <actor>
+    <name>Pablo Molinero</name>
+    <role>Simón</role>
+    <type>Actor</type>
+    <tmdbid>1209572</tmdbid>
+    <imdbid>nm1944825</imdbid>
+    <tvdbid>7868369</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Santos</name>
+    <role>Eduardo</role>
+    <type>Actor</type>
+    <tmdbid>1050908</tmdbid>
+    <imdbid>nm1685281</imdbid>
+    <tvdbid>8169269</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Llorach</name>
+    <role>Maite</role>
+    <type>Actor</type>
+    <tmdbid>1102408</tmdbid>
+    <imdbid>nm4650038</imdbid>
+    <tvdbid>499254</tvdbid>
+  </actor>
+  <actor>
+    <name>Esther Acebo</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>1972707</tmdbid>
+    <imdbid>nm4223458</imdbid>
+    <tvdbid>561400</tvdbid>
+  </actor>
+  <actor>
+    <name>Tara Linke</name>
+    <role>Ingrid's mother</role>
+    <type>Actor</type>
+    <tmdbid>1819887</tmdbid>
+  </actor>
+  <actor>
+    <name>Eloy Azorín</name>
+    <role>Beltrán</role>
+    <type>Actor</type>
+    <tmdbid>964</tmdbid>
+    <imdbid>nm0044376</imdbid>
+    <tvdbid>448257</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Tennear</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>3500966</tmdbid>
+  </actor>
+  <actor>
+    <name>Mona Martínez</name>
+    <role>Sargento Arana</role>
+    <type>Actor</type>
+    <tmdbid>1744390</tmdbid>
+    <imdbid>nm2409796</imdbid>
+    <tvdbid>585764</tvdbid>
+  </actor>
+  <actor>
+    <name>Pau Roca</name>
+    <role>Cabo Bedoya</role>
+    <type>Actor</type>
+    <tmdbid>1040651</tmdbid>
+    <imdbid>nm1778836</imdbid>
+  </actor>
+  <actor>
+    <name>Sonia Almarcha</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>929712</tmdbid>
+    <imdbid>nm0971346</imdbid>
+    <tvdbid>450325</tvdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Sáenz de Heredia</name>
+    <role>Médico</role>
+    <type>Actor</type>
+    <tmdbid>229233</tmdbid>
+    <imdbid>nm2969773</imdbid>
+  </actor>
+  <director tmdbid="1489421">Ignacio Tatay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TMQT7GaIQZw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_bvHVdhYXjU</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>Jaula</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12683756</imdbid>
+  <tmdbid>960875</tmdbid>
+  <premiered>2022-09-09</premiered>
+  <releasedate>2022-09-09</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>106</runtime>
+  <tagline>Sal si te atreves.</tagline>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Pokeepsie Films</studio>
+  <uniqueid type="imdb">tt12683756</uniqueid>
+  <uniqueid type="tmdb">960875</uniqueid>
+  <id>tt12683756</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1039465</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.999685</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6371</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63989</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

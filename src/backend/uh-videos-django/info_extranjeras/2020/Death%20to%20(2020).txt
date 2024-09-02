@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Take a look back at the mad glory of the year 2020 in this comedic retrospective.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-27 09:23:19</dateadded>
+  <title>Death to 2020</title>
+  <originaltitle>Death to 2020</originaltitle>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+    <tvdbid>287826</tvdbid>
+  </actor>
+  <actor>
+    <name>Hugh Grant</name>
+    <type>Actor</type>
+    <tmdbid>3291</tmdbid>
+    <imdbid>nm0000424</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Kudrow</name>
+    <type>Actor</type>
+    <tmdbid>14406</tmdbid>
+    <imdbid>nm0001435</imdbid>
+    <tvdbid>321165</tvdbid>
+  </actor>
+  <actor>
+    <name>Kumail Nanjiani</name>
+    <type>Actor</type>
+    <tmdbid>466505</tmdbid>
+    <imdbid>nm3529685</imdbid>
+    <tvdbid>294919</tvdbid>
+  </actor>
+  <director tmdbid="1277101">Al Campbell</director>
+  <director tmdbid="2517497" imdbid="nm3634291">Alice Mathias</director>
+  <writer>Charlie Brooker (created by)</writer>
+  <writer>Annabel Jones (created by)</writer>
+  <writer tmdbid="211845" imdbid="nm0111765">Charlie Brooker</writer>
+  <writer tmdbid="44865">Tom Baker</writer>
+  <writer>Kemah Bob</writer>
+  <writer>Ken Bordell</writer>
+  <writer tmdbid="2916055">Munya Chawawa</writer>
+  <writer>Constance Cheng</writer>
+  <writer>Alan Connor</writer>
+  <writer>Erika Ehler</writer>
+  <writer>Charlie George</writer>
+  <writer>Eli Goldstone</writer>
+  <writer>Mollie Goodfellow</writer>
+  <writer>Jason Hazeley</writer>
+  <writer tmdbid="2913390">Angelo Irving</writer>
+  <writer>Kae Kurd</writer>
+  <writer>Alison Marlow</writer>
+  <writer>Thanyia Moore</writer>
+  <writer tmdbid="148141">Joel Morris</writer>
+  <writer>Michael Odewale</writer>
+  <credits>Charlie Brooker (created by)</credits>
+  <credits>Annabel Jones (created by)</credits>
+  <credits tmdbid="211845" imdbid="nm0111765">Charlie Brooker</credits>
+  <credits tmdbid="44865">Tom Baker</credits>
+  <credits>Kemah Bob</credits>
+  <credits>Ken Bordell</credits>
+  <credits tmdbid="2916055">Munya Chawawa</credits>
+  <credits>Constance Cheng</credits>
+  <credits>Alan Connor</credits>
+  <credits>Erika Ehler</credits>
+  <credits>Charlie George</credits>
+  <credits>Eli Goldstone</credits>
+  <credits>Mollie Goodfellow</credits>
+  <credits>Jason Hazeley</credits>
+  <credits tmdbid="2913390">Angelo Irving</credits>
+  <credits>Kae Kurd</credits>
+  <credits>Alison Marlow</credits>
+  <credits>Thanyia Moore</credits>
+  <credits tmdbid="148141">Joel Morris</credits>
+  <credits>Michael Odewale</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BxR9Zo36rbo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=veUqfcyZ_Bo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oy60vl0_PrU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=86NxlmJQT4g</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Jn_xQU_41FI</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>Death to 2020</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt13567480</imdbid>
+  <tmdbid>773655</tmdbid>
+  <premiered>2020-12-27</premiered>
+  <releasedate>2020-12-27</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>71</runtime>
+  <country>United Kingdom</country>
+  <genre>Comedy</genre>
+  <studio>House of Tomorrow</studio>
+  <studio>Broke and Bones</studio>
+  <set tmdbcolid="916696">
+    <name>Death to Collection</name>
+  </set>
+  <uniqueid type="imdb">tt13567480</uniqueid>
+  <uniqueid type="tmdb">773655</uniqueid>
+  <id>tt13567480</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1571522</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>70</duration>
+        <durationinseconds>4252</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

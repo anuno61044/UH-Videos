@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Julia es una joven de 22 años y madre de dos niños que se enamora de Óscar, con el que inicia una relación intensa y tortuosa. Julia empieza a dudar sobre la conveniencia de Óscar como modelo masculino para sus hijos. Un incidente dará lugar a una huida hacia delante en busca de un futuro mejor.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-03 11:01:33</dateadded>
+  <title>Girasoles silvestres</title>
+  <originaltitle>Girasoles silvestres</originaltitle>
+  <actor>
+    <name>Anna Castillo</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Oriol Pla</name>
+    <role>Oscar</role>
+    <type>Actor</type>
+    <tmdbid>1074587</tmdbid>
+    <imdbid>nm2724795</imdbid>
+    <tvdbid>465420</tvdbid>
+  </actor>
+  <actor>
+    <name>Carolina Yuste</name>
+    <role>Maite</role>
+    <type>Actor</type>
+    <tmdbid>2025663</tmdbid>
+    <imdbid>nm8188533</imdbid>
+    <tvdbid>8189878</tvdbid>
+  </actor>
+  <actor>
+    <name>Manolo Solo</name>
+    <role>Roberto</role>
+    <type>Actor</type>
+    <tmdbid>592709</tmdbid>
+    <imdbid>nm1254805</imdbid>
+    <tvdbid>294463</tvdbid>
+  </actor>
+  <actor>
+    <name>Neus Pàmies</name>
+    <role>Muriel</role>
+    <type>Actor</type>
+    <tmdbid>3277368</tmdbid>
+  </actor>
+  <actor>
+    <name>Lluís Marquès</name>
+    <role>Àlex</role>
+    <type>Actor</type>
+    <tmdbid>1839270</tmdbid>
+    <tvdbid>8188057</tvdbid>
+  </actor>
+  <actor>
+    <name>Quim Àvila Conde</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>1376625</tmdbid>
+  </actor>
+  <director tmdbid="936718">Jaime Rosales</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WE6ZrFezQRk</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Girasoles silvestres</sorttitle>
+  <imdbid>tt13774830</imdbid>
+  <tmdbid>766804</tmdbid>
+  <premiered>2022-10-21</premiered>
+  <releasedate>2022-10-21</releasedate>
+  <runtime>106</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>TVE</studio>
+  <studio>Fresdeval Films</studio>
+  <studio>Oberón Cinematográfica</studio>
+  <studio>A Contracorriente Films</studio>
+  <uniqueid type="imdb">tt13774830</uniqueid>
+  <uniqueid type="tmdb">766804</uniqueid>
+  <id>tt13774830</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1499270</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6384</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

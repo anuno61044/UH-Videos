@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En noviembre de 2015, una serie de ataques mortales y sin precedentes golpea París. La policía antiterrorista dirigida por Heloise y su comandante en jefe Fred - se enfrenta a un nivel de presión sin precedentes: en una carrera contrarreloj, deben encontrar a los autores de los ataques lo antes posible antes de que puedan atacar de nuevo, viajando por Europa y más allá en una de las mayores cacerías humanas de la historia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-16 11:25:44</dateadded>
+  <title>Novembre</title>
+  <originaltitle>Novembre</originaltitle>
+  <actor>
+    <name>Jean Dujardin</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>56024</tmdbid>
+    <imdbid>nm0241121</imdbid>
+  </actor>
+  <actor>
+    <name>Anaïs Demoustier</name>
+    <role>Inès</role>
+    <type>Actor</type>
+    <tmdbid>123989</tmdbid>
+    <imdbid>nm1326732</imdbid>
+  </actor>
+  <actor>
+    <name>Sandrine Kiberlain</name>
+    <role>Héloïse</role>
+    <type>Actor</type>
+    <tmdbid>81821</tmdbid>
+    <imdbid>nm0452161</imdbid>
+  </actor>
+  <actor>
+    <name>Jérémie Renier</name>
+    <role>Marco</role>
+    <type>Actor</type>
+    <tmdbid>51325</tmdbid>
+    <imdbid>nm0753737</imdbid>
+  </actor>
+  <actor>
+    <name>Lyna Khoudri</name>
+    <role>Samia</role>
+    <type>Actor</type>
+    <tmdbid>1886168</tmdbid>
+  </actor>
+  <actor>
+    <name>Cédric Kahn</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>93903</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofian Khammes</name>
+    <role>Foued</role>
+    <type>Actor</type>
+    <tmdbid>1558157</tmdbid>
+  </actor>
+  <actor>
+    <name>Sami Outalbali</name>
+    <role>Kader</role>
+    <type>Actor</type>
+    <tmdbid>544687</tmdbid>
+    <tvdbid>7945571</tvdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Bak</name>
+    <role>Djibril</role>
+    <type>Actor</type>
+    <tmdbid>1383898</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphaël Quenard</name>
+    <role>Rudy</role>
+    <type>Actor</type>
+    <tmdbid>2185414</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérémy Lopez</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>1643364</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoire Du Bois</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>1592949</tmdbid>
+    <imdbid>nm4973460</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Cattani</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>124072</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Afchain</name>
+    <role>Hasna</role>
+    <type>Actor</type>
+    <tmdbid>3206655</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyes Kaouah</name>
+    <type>Actor</type>
+    <tmdbid>2614542</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Dillon</name>
+    <type>Actor</type>
+    <tmdbid>1613218</tmdbid>
+  </actor>
+  <actor>
+    <name>Darren Muselet</name>
+    <type>Actor</type>
+    <tmdbid>2199922</tmdbid>
+  </actor>
+  <actor>
+    <name>Annabelle Lengronne</name>
+    <type>Actor</type>
+    <tmdbid>1183007</tmdbid>
+  </actor>
+  <actor>
+    <name>Quentin Faure</name>
+    <role>Benoît</role>
+    <type>Actor</type>
+    <tmdbid>1829905</tmdbid>
+  </actor>
+  <actor>
+    <name>Hocine Choutri</name>
+    <role>Oncle Abaaoud</role>
+    <type>Actor</type>
+    <tmdbid>1160281</tmdbid>
+  </actor>
+  <actor>
+    <name>Alain Cauchi</name>
+    <role>Général Armée</role>
+    <type>Actor</type>
+    <tmdbid>543835</tmdbid>
+    <imdbid>nm0146436</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Yves Berteloot</name>
+    <role>Chef DGSE</role>
+    <type>Actor</type>
+    <tmdbid>34259</tmdbid>
+    <imdbid>nm0077873</imdbid>
+  </actor>
+  <actor>
+    <name>Laurent Maurel</name>
+    <role>Policier Préfecture</role>
+    <type>Actor</type>
+    <tmdbid>238416</tmdbid>
+    <imdbid>nm1092208</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Benedetti</name>
+    <role>Représentant Santé</role>
+    <type>Actor</type>
+    <tmdbid>6023</tmdbid>
+    <imdbid>nm0070694</imdbid>
+  </actor>
+  <actor>
+    <name>Julien Sibre</name>
+    <role>Jérôme</role>
+    <type>Actor</type>
+    <tmdbid>2096670</tmdbid>
+  </actor>
+  <director tmdbid="1002647" imdbid="nm1473428">Cédric Jimenez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WqaLSBG4XBA</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Novembre</sorttitle>
+  <imdbid>tt14542254</imdbid>
+  <tmdbid>823951</tmdbid>
+  <premiered>2022-10-05</premiered>
+  <releasedate>2022-10-05</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>107</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <studio>France 2 Cinéma</studio>
+  <studio>Canal+</studio>
+  <studio>Récifilms</studio>
+  <studio>uMedia</studio>
+  <studio>uFund</studio>
+  <studio>Chi-Fou-Mi Productions</studio>
+  <studio>La Banque Postale Image</studio>
+  <uniqueid type="tmdb">823951</uniqueid>
+  <uniqueid type="imdb">tt14542254</uniqueid>
+  <id>tt14542254</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>914110</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6390</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1175</width>
+        <height>1600</height>
+        <aspect>47:64</aspect>
+        <aspectratio>47:64</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

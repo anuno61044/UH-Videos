@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En una carrera contra el reloj, Alexandra se verá obligada a elegir cómo pasar las próximas horas: enfrentándose a un drama familiar crítico o tratando de dar respuesta a una de las preguntas más importantes de la humanidad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-07-24 20:24:59</dateadded>
+  <title>La Paradoja de Antares</title>
+  <originaltitle>La Paradoja de Antares</originaltitle>
+  <actor>
+    <name>Andrea Trepat</name>
+    <role>Alexandra Baeza</role>
+    <type>Actor</type>
+    <tmdbid>1455959</tmdbid>
+    <imdbid>nm2977191</imdbid>
+  </actor>
+  <actor>
+    <name>Aleida Torrent</name>
+    <role>Ana Baeza</role>
+    <type>Actor</type>
+    <tmdbid>1985190</tmdbid>
+    <imdbid>nm3361009</imdbid>
+  </actor>
+  <actor>
+    <name>Jaume de Sans</name>
+    <role>Manel Baeza</role>
+    <type>Actor</type>
+    <tmdbid>1460273</tmdbid>
+  </actor>
+  <actor>
+    <name>David Ramírez</name>
+    <role>Fernando Lopez</role>
+    <type>Actor</type>
+    <tmdbid>1602305</tmdbid>
+    <imdbid>nm1783443</imdbid>
+  </actor>
+  <actor>
+    <name>Ferran Vilajosana</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>1479796</tmdbid>
+    <imdbid>nm2386456</imdbid>
+  </actor>
+  <actor>
+    <name>Dermot Arrigan</name>
+    <role>Científico Irlandés</role>
+    <type>Actor</type>
+    <tmdbid>3400184</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduard Gibert</name>
+    <role>Poveda</role>
+    <type>Actor</type>
+    <tmdbid>2374022</tmdbid>
+  </actor>
+  <actor>
+    <name>Helena Carrión</name>
+    <role>Enfermera</role>
+    <type>Actor</type>
+    <tmdbid>45554</tmdbid>
+    <imdbid>nm2072242</imdbid>
+  </actor>
+  <actor>
+    <name>Jan Dumont</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>3632582</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Avilés</name>
+    <role>Técnico Lanzarote</role>
+    <type>Actor</type>
+    <tmdbid>3504710</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis de Sannta</name>
+    <role>Alfredo</role>
+    <type>Actor</type>
+    <tmdbid>3502489</tmdbid>
+  </actor>
+  <director tmdbid="1367435">Luís Tinoco</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oJ4VsMNoLyk</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Paradoja de Antares</sorttitle>
+  <imdbid>tt19846330</imdbid>
+  <tmdbid>1002515</tmdbid>
+  <premiered>2023-06-27</premiered>
+  <releasedate>2023-06-27</releasedate>
+  <runtime>97</runtime>
+  <genre>Ciencia ficción</genre>
+  <genre>Drama</genre>
+  <studio>Onirikal Studio</studio>
+  <uniqueid type="imdb">tt19846330</uniqueid>
+  <uniqueid type="tmdb">1002515</uniqueid>
+  <id>tt19846330</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>913036</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5826</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

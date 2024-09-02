@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kenneth Feinberg (Michael Keaton), un poderoso abogado de Washington D. C. que recibe el reconocimiento de "Special Master" por la fundación 9/11, se dedica a luchar contra el cinismo, la burocracia y la política relacionada con la administración de fondos públicos. Su batalla le lleva a descubrir el verdadero significado de la vida. Basada en hechos reales.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-03 09:36:07</dateadded>
+  <title>Worth</title>
+  <originaltitle>Worth</originaltitle>
+  <actor>
+    <name>Michael Keaton</name>
+    <role>Kenneth Feinberg</role>
+    <type>Actor</type>
+    <tmdbid>2232</tmdbid>
+    <imdbid>nm0000474</imdbid>
+    <tvdbid>253664</tvdbid>
+  </actor>
+  <actor>
+    <name>Stanley Tucci</name>
+    <role>Charles Wolf</role>
+    <type>Actor</type>
+    <tmdbid>2283</tmdbid>
+    <imdbid>nm0001804</imdbid>
+    <tvdbid>274195</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Ryan</name>
+    <role>Camille Biros</role>
+    <type>Actor</type>
+    <tmdbid>39388</tmdbid>
+    <imdbid>nm0752407</imdbid>
+    <tvdbid>269720</tvdbid>
+  </actor>
+  <actor>
+    <name>Tate Donovan</name>
+    <type>Actor</type>
+    <tmdbid>15455</tmdbid>
+    <imdbid>nm0004883</imdbid>
+  </actor>
+  <actor>
+    <name>Talia Balsam</name>
+    <type>Actor</type>
+    <tmdbid>140253</tmdbid>
+    <imdbid>nm0051104</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Benanti</name>
+    <type>Actor</type>
+    <tmdbid>60034</tmdbid>
+    <tvdbid>394870</tvdbid>
+  </actor>
+  <actor>
+    <name>Marc Maron</name>
+    <type>Actor</type>
+    <tmdbid>1231717</tmdbid>
+    <imdbid>nm0549505</imdbid>
+    <tvdbid>309919</tvdbid>
+  </actor>
+  <actor>
+    <name>Bruce Soscia</name>
+    <type>Actor</type>
+    <tmdbid>3173587</tmdbid>
+  </actor>
+  <director tmdbid="1279519">Sara Colangelo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ib83yh-r6is</trailer>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <sorttitle>Worth</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8009744</imdbid>
+  <tmdbid>649394</tmdbid>
+  <premiered>2021-08-27</premiered>
+  <releasedate>2021-08-27</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>119</runtime>
+  <country>United States of America</country>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>MadRiver Pictures</studio>
+  <studio>Anonymous Content</studio>
+  <studio>Sugar23</studio>
+  <studio>Royal Viking Entertainment</studio>
+  <studio>Steeplechase Amusements</studio>
+  <uniqueid type="imdb">tt8009744</uniqueid>
+  <uniqueid type="tmdb">649394</uniqueid>
+  <id>tt8009744</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>939407</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7127</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

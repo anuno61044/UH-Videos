@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-12 08:15:16</dateadded>
+  <title>Háblame</title>
+  <originaltitle>Talk to Me</originaltitle>
+  <actor>
+    <name>Sophie Wilde</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>3115932</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Jensen</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>2644232</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Bird</name>
+    <role>Riley</role>
+    <type>Actor</type>
+    <tmdbid>3047804</tmdbid>
+  </actor>
+  <actor>
+    <name>Otis Dhanji</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1822223</tmdbid>
+  </actor>
+  <actor>
+    <name>Miranda Otto</name>
+    <role>Sue</role>
+    <type>Actor</type>
+    <tmdbid>502</tmdbid>
+    <imdbid>nm0001584</imdbid>
+    <tvdbid>411695</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Terakes</name>
+    <role>Hayley</role>
+    <type>Actor</type>
+    <tmdbid>2659518</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Alosio</name>
+    <role>Joss</role>
+    <type>Actor</type>
+    <tmdbid>2467788</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Johnson</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>213070</tmdbid>
+    <imdbid>nm3930375</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandria Steffensen</name>
+    <role>Rhea</role>
+    <type>Actor</type>
+    <tmdbid>3281952</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari McCarthy</name>
+    <role>Cole</role>
+    <type>Actor</type>
+    <tmdbid>2131239</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunny Johnson</name>
+    <role>Duckett</role>
+    <type>Actor</type>
+    <tmdbid>3648542</tmdbid>
+  </actor>
+  <actor>
+    <name>James Oliver</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>3648543</tmdbid>
+  </actor>
+  <actor>
+    <name>Cass Comerford</name>
+    <role>Quain / Quain Spirit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1734185</tmdbid>
+  </actor>
+  <actor>
+    <name>Jett Gazley</name>
+    <role>Alex Varolli</role>
+    <type>Actor</type>
+    <tmdbid>3648546</tmdbid>
+  </actor>
+  <actor>
+    <name>Kitt Erhart-Bruce</name>
+    <role>Peck</role>
+    <type>Actor</type>
+    <tmdbid>3648547</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamish Phillips</name>
+    <role>Tyson</role>
+    <type>Actor</type>
+    <tmdbid>3648548</tmdbid>
+  </actor>
+  <actor>
+    <name>Kidaan Zelleke</name>
+    <role>Aunty Lee</role>
+    <type>Actor</type>
+    <tmdbid>2786562</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Brokensha</name>
+    <role>Fiona</role>
+    <type>Actor</type>
+    <tmdbid>3648550</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayden Davison</name>
+    <role>Jayden</role>
+    <type>Actor</type>
+    <tmdbid>3648551</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodie Dry</name>
+    <role>Mrs. Falk</role>
+    <type>Actor</type>
+    <tmdbid>1229579</tmdbid>
+  </actor>
+  <actor>
+    <name>Frances Cassar</name>
+    <role>Olmen</role>
+    <type>Actor</type>
+    <tmdbid>3648553</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Butler</name>
+    <role>Olmen Spirit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>152545</tmdbid>
+    <imdbid>nm0125007</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Stenta</name>
+    <role>Little Girl Audrey</role>
+    <type>Actor</type>
+    <tmdbid>4187104</tmdbid>
+  </actor>
+  <actor>
+    <name>Harli Ames</name>
+    <role>The Sad Man</role>
+    <type>Actor</type>
+    <tmdbid>1530759</tmdbid>
+  </actor>
+  <actor>
+    <name>Leeanna Walsman</name>
+    <role>Elizabeth Spirit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>93114</tmdbid>
+    <imdbid>nm0909944</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Reid</name>
+    <role>Hungry Woman</role>
+    <type>Actor</type>
+    <tmdbid>3648554</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Northover</name>
+    <role>Eerie Man</role>
+    <type>Actor</type>
+    <tmdbid>2649831</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacek Koman</name>
+    <role>Burke Spirit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12210</tmdbid>
+    <imdbid>nm0464522</imdbid>
+  </actor>
+  <actor>
+    <name>Helene Philippou</name>
+    <role>Possessed Girl on Phone</role>
+    <type>Actor</type>
+    <tmdbid>4187087</tmdbid>
+  </actor>
+  <actor>
+    <name>Jude Turner</name>
+    <role>Possessed Boy on Phone</role>
+    <type>Actor</type>
+    <tmdbid>3879249</tmdbid>
+  </actor>
+  <actor>
+    <name>Zac Scott</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187089</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess Kuss</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>2095155</tmdbid>
+  </actor>
+  <actor>
+    <name>David Roberts</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>2807388</tmdbid>
+  </actor>
+  <actor>
+    <name>Demi Van Kasteren</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187093</tmdbid>
+  </actor>
+  <actor>
+    <name>Pia Gillings</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187095</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Wangel</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>3648552</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtlan Gordan</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187097</tmdbid>
+  </actor>
+  <actor>
+    <name>Louisa Giameos</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187098</tmdbid>
+  </actor>
+  <actor>
+    <name>Jem O'Callaghan</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>3040858</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Romeo</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>2321660</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Noel McCarthy</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187099</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Morkunas</name>
+    <role>Teen at First Possession Party</role>
+    <type>Actor</type>
+    <tmdbid>4187100</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Haycock</name>
+    <role>Old Lady in Hospital</role>
+    <type>Actor</type>
+    <tmdbid>4187102</tmdbid>
+  </actor>
+  <actor>
+    <name>Murray Haycock</name>
+    <role>Old Man in Hospital</role>
+    <type>Actor</type>
+    <tmdbid>4187103</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Purling</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3088180</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Thiele</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>3648559</tmdbid>
+  </actor>
+  <actor>
+    <name>David Simmons</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>3648557</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph House Baker</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222363</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Scheid</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>3350573</tmdbid>
+  </actor>
+  <actor>
+    <name>Anita Kimber</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222364</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Bullock</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>3067619</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Godfrey</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222366</tmdbid>
+  </actor>
+  <actor>
+    <name>Cooper Duncan</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222368</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Pitt</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>2749125</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Ruggiero-Prior</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222369</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Warren</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>1923071</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Fogg</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222372</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Gun</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222375</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Moore</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222377</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Homewood</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222378</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Portus</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222379</tmdbid>
+  </actor>
+  <actor>
+    <name>Lelum Rathnayake</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222380</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Goldwyn</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222382</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Gilmore</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222385</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Maynard</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222386</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Baber</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>3547196</tmdbid>
+  </actor>
+  <actor>
+    <name>Saravjit Singh</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222387</tmdbid>
+  </actor>
+  <actor>
+    <name>Shadrack Kamau</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222388</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Gardner</name>
+    <role>Predator Spirit</role>
+    <type>Actor</type>
+    <tmdbid>4222389</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Duncan</name>
+    <role>Husband in Car Crash</role>
+    <type>Actor</type>
+    <tmdbid>1487967</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Fenwick</name>
+    <role>Wife in Car Crash</role>
+    <type>Actor</type>
+    <tmdbid>3044290</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Harpas</name>
+    <role>Stranger in Greece</role>
+    <type>Actor</type>
+    <tmdbid>2442554</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikolas Gelios</name>
+    <role>Young Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222395</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Philippou</name>
+    <role>Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222396</tmdbid>
+  </actor>
+  <actor>
+    <name>Con Lipapis</name>
+    <role>Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222398</tmdbid>
+  </actor>
+  <actor>
+    <name>Con Patelias</name>
+    <role>Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222399</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Vavaroutsos</name>
+    <role>Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222400</tmdbid>
+  </actor>
+  <actor>
+    <name>Uncle Mars</name>
+    <role>Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222402</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Lipapis</name>
+    <role>Man in Greece</role>
+    <type>Actor</type>
+    <tmdbid>4222403</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Piper</name>
+    <role>Pool Party Teen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4221584</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Dantès</name>
+    <role>Pool Party Teen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4052656</tmdbid>
+  </actor>
+  <actor>
+    <name>KSI</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1513866</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Lewis</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2464464</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Minter</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2464458</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Bradley</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2464459</tmdbid>
+  </actor>
+  <actor>
+    <name>Vik Barn</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2464460</tmdbid>
+  </actor>
+  <actor>
+    <name>Tobi Brown</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2464462</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Payne</name>
+    <role>Self (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2464461</tmdbid>
+  </actor>
+  <director tmdbid="2070452">Michael Philippou</director>
+  <director tmdbid="2070453">Danny Philippou</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g_ND5pnSkJ4</trailer>
+  <rating>7.2</rating>
+  <year>2023</year>
+  <sorttitle>Hablame</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10638522</imdbid>
+  <tmdbid>1008042</tmdbid>
+  <premiered>2023-07-26</premiered>
+  <releasedate>2023-07-26</releasedate>
+  <runtime>95</runtime>
+  <country>Australia</country>
+  <country>United Kingdom</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Causeway Films</studio>
+  <studio>Metrol Technology</studio>
+  <studio>Screen Australia</studio>
+  <studio>South Australian Film Corporation</studio>
+  <studio>Bankside Films</studio>
+  <studio>Head Gear Films</studio>
+  <studio>A24</studio>
+  <set tmdbcolid="1162328">
+    <name>Talk to Me Collection</name>
+  </set>
+  <uniqueid type="imdb">tt10638522</uniqueid>
+  <uniqueid type="tmdb">1008042</uniqueid>
+  <id>tt10638522</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1174250</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5692</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

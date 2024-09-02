@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Based on the real-life prison break of two political captives, Escape From Pretoria is a race-against-time thriller set in the tumultuous apartheid days of South Africa.]]></plot>
+  <outline><![CDATA[Sobrevivir es la clave.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-10 09:30:46</dateadded>
+  <title>Escape from Pretoria</title>
+  <originaltitle>Escape From Pretoria</originaltitle>
+  <actor>
+    <name>Daniel Radcliffe</name>
+    <type>Actor</type>
+    <tmdbid>10980</tmdbid>
+    <imdbid>nm0705356</imdbid>
+    <tvdbid>310820</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Webber</name>
+    <type>Actor</type>
+    <tmdbid>234548</tmdbid>
+    <imdbid>nm3206486</imdbid>
+    <tvdbid>459092</tvdbid>
+  </actor>
+  <actor>
+    <name>Ian Hart</name>
+    <type>Actor</type>
+    <tmdbid>10985</tmdbid>
+    <imdbid>nm0001324</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Leonard Winter</name>
+    <type>Actor</type>
+    <tmdbid>107477</tmdbid>
+    <imdbid>nm2413529</imdbid>
+  </actor>
+  <director tmdbid="2606846">Francis Annan</director>
+  <writer>Francis Annan (screenplay by)</writer>
+  <writer>L.H. Adams (screenplay by)</writer>
+  <writer>Tim Jenkin (inspired by the book "Escape from Pretoria" by)</writer>
+  <writer>Karol Griffiths (Story Development)</writer>
+  <credits>Francis Annan (screenplay by)</credits>
+  <credits>L.H. Adams (screenplay by)</credits>
+  <credits>Tim Jenkin (inspired by the book "Escape from Pretoria" by)</credits>
+  <credits>Karol Griffiths (Story Development)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5-hSCma8v0A</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>Escape from Pretoria</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5797184</imdbid>
+  <tmdbid>502425</tmdbid>
+  <premiered>2020-03-06</premiered>
+  <releasedate>2020-03-06</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>106</runtime>
+  <tagline>Sobrevivir es la clave.</tagline>
+  <country>Australia</country>
+  <country>Canada</country>
+  <country>South Africa</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Thriller</genre>
+  <studio>MEP Capital</studio>
+  <studio>Momentum Pictures</studio>
+  <studio>Hamilton Entertainment</studio>
+  <studio>South Australian Film Corporation</studio>
+  <studio>Arclight Films</studio>
+  <studio>Particular Crowd</studio>
+  <studio>Spier Films</studio>
+  <studio>Enriched Media Group</studio>
+  <studio>Premiere Picture</studio>
+  <studio>Footprint Films</studio>
+  <studio>Beagle Pug Films</studio>
+  <uniqueid type="imdb">tt5797184</uniqueid>
+  <uniqueid type="tmdb">502425</uniqueid>
+  <id>tt5797184</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1050096</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6368</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

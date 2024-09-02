@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Diego quiere divorciarse de Lucía, pero no sabe cómo decírselo. Sin poder decírselo a la cara, recurre a Cuervo Flores, un famoso seductor que intentará enamorar a Lucía para que sea ella quien ponga fin a su matrimonio.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-12 08:34:40</dateadded>
+  <title>Un novio para mi mujer</title>
+  <originaltitle>Un novio para mi mujer</originaltitle>
+  <actor>
+    <name>Belén Cuesta</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>1423493</tmdbid>
+    <imdbid>nm3177382</imdbid>
+    <tvdbid>473696</tvdbid>
+  </actor>
+  <actor>
+    <name>Hugo Silva</name>
+    <role>Cuervo</role>
+    <type>Actor</type>
+    <tmdbid>112901</tmdbid>
+    <imdbid>nm1281229</imdbid>
+    <tvdbid>306708</tvdbid>
+  </actor>
+  <actor>
+    <name>Diego Martín</name>
+    <role>Diego</role>
+    <type>Actor</type>
+    <tmdbid>126771</tmdbid>
+    <imdbid>nm0554614</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Reyes</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>114462</tmdbid>
+    <imdbid>nm1238701</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Masip</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>2587055</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángela Cervantes</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>2999682</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreu Castro</name>
+    <role>Gaby</role>
+    <type>Actor</type>
+    <tmdbid>1076947</tmdbid>
+    <imdbid>nm1410289</imdbid>
+  </actor>
+  <actor>
+    <name>Anatoly Chugunov</name>
+    <type>Actor</type>
+    <tmdbid>2357781</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Minguell</name>
+    <role>Paula</role>
+    <type>Actor</type>
+    <tmdbid>2786041</tmdbid>
+    <imdbid>nm7770716</imdbid>
+  </actor>
+  <actor>
+    <name>Maykel Ortega</name>
+    <role>Jugador de fútbol rival</role>
+    <type>Actor</type>
+    <tmdbid>3617299</tmdbid>
+  </actor>
+  <actor>
+    <name>Júlia Bonjoch</name>
+    <role>Lorena</role>
+    <type>Actor</type>
+    <tmdbid>2838693</tmdbid>
+  </actor>
+  <director tmdbid="133526" imdbid="nm0563760">Laura Mañá</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yU_ms32GeRw</trailer>
+  <rating>5.517</rating>
+  <year>2022</year>
+  <sorttitle>Un novio para mi mujer</sorttitle>
+  <imdbid>tt15092772</imdbid>
+  <tmdbid>932339</tmdbid>
+  <premiered>2022-07-22</premiered>
+  <releasedate>2022-07-22</releasedate>
+  <runtime>93</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Pol-Ka Producciones</studio>
+  <uniqueid type="imdb">tt15092772</uniqueid>
+  <uniqueid type="tmdb">932339</uniqueid>
+  <id>tt15092772</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1005420</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5577</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64248</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

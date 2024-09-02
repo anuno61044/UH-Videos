@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Halim lleva mucho tiempo casado con Mina, con quien regenta una tienda tradicional de caftanes en la medina de Salé, una de las más antiguas de Marruecos. La pareja vive desde siempre con un secreto que Halim ha aprendido a ocultar, pero la enfermedad de Mina y la llegada a la tienda de un joven aprendiz amenazan con perturbar este equilibrio. Unidos por el amor, cada uno tratará de ayudar al otro a enfrentarse a sus miedos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-15 16:43:28</dateadded>
+  <title>El caftán azul</title>
+  <originaltitle>Le bleu du caftan</originaltitle>
+  <actor>
+    <name>Lubna Azabal</name>
+    <role>Mina</role>
+    <type>Actor</type>
+    <tmdbid>77498</tmdbid>
+    <imdbid>nm0044073</imdbid>
+    <tvdbid>7895457</tvdbid>
+  </actor>
+  <actor>
+    <name>Saleh Bakri</name>
+    <role>Halim</role>
+    <type>Actor</type>
+    <tmdbid>42442</tmdbid>
+    <imdbid>nm2759746</imdbid>
+  </actor>
+  <actor>
+    <name>Ayoub Messioui</name>
+    <role>Youssef</role>
+    <type>Actor</type>
+    <tmdbid>3492164</tmdbid>
+  </actor>
+  <actor>
+    <name>Zakaria Atifi</name>
+    <role>Bachir</role>
+    <type>Actor</type>
+    <tmdbid>2215967</tmdbid>
+  </actor>
+  <actor>
+    <name>Mounia Lamkimel</name>
+    <role>Blue Caftan Client</role>
+    <type>Actor</type>
+    <tmdbid>3088307</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelhamid Zoughi</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>4058969</tmdbid>
+  </actor>
+  <actor>
+    <name>Fatima Hilal</name>
+    <role>Boutique Customer</role>
+    <type>Actor</type>
+    <tmdbid>4058970</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariam Lalouaz</name>
+    <role>Boutique Customer</role>
+    <type>Actor</type>
+    <tmdbid>1963988</tmdbid>
+  </actor>
+  <actor>
+    <name>Kholoud El Ouehabi</name>
+    <role>Boutique Customer</role>
+    <type>Actor</type>
+    <tmdbid>4058973</tmdbid>
+  </actor>
+  <actor>
+    <name>Amira Tiouli</name>
+    <role>Boutique Customer</role>
+    <type>Actor</type>
+    <tmdbid>4058974</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanaa Laidi</name>
+    <role>Boutique Customer</role>
+    <type>Actor</type>
+    <tmdbid>4058975</tmdbid>
+  </actor>
+  <actor>
+    <name>Aymane El Oarrari</name>
+    <role>Boutique Customer's Child</role>
+    <type>Actor</type>
+    <tmdbid>4058976</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilyass El Ouahdani</name>
+    <role>Boutique Customer's Child</role>
+    <type>Actor</type>
+    <tmdbid>3716213</tmdbid>
+  </actor>
+  <actor>
+    <name>Fouzia Ejjawi</name>
+    <role>Fatna</role>
+    <type>Actor</type>
+    <tmdbid>4058978</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Naimane</name>
+    <role>Bathhouse Employee</role>
+    <type>Actor</type>
+    <tmdbid>1749000</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Tahri Joutey Hassani</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>4058981</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdellah Lebkiri</name>
+    <role>Man in Bathhouse</role>
+    <type>Actor</type>
+    <tmdbid>4058982</tmdbid>
+  </actor>
+  <actor>
+    <name>Driss Diouri</name>
+    <role>Man in Bathhouse</role>
+    <type>Actor</type>
+    <tmdbid>3741892</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilham Chakib</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>4058983</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelrhafor Essolh</name>
+    <role>Tangerine Vendor</role>
+    <type>Actor</type>
+    <tmdbid>4058984</tmdbid>
+  </actor>
+  <actor>
+    <name>Nourredine Aim</name>
+    <role>Tangerine Vendor</role>
+    <type>Actor</type>
+    <tmdbid>4058985</tmdbid>
+  </actor>
+  <actor>
+    <name>Hassan Boudour</name>
+    <role>Moha</role>
+    <type>Actor</type>
+    <tmdbid>4058986</tmdbid>
+  </actor>
+  <actor>
+    <name>Naima Boudra</name>
+    <role>Saleswoman</role>
+    <type>Actor</type>
+    <tmdbid>4058987</tmdbid>
+  </actor>
+  <actor>
+    <name>Fatima Laaraj</name>
+    <role>Mortuary Washer</role>
+    <type>Actor</type>
+    <tmdbid>4058988</tmdbid>
+  </actor>
+  <actor>
+    <name>Kahija Toufik</name>
+    <role>Mortuary Washer</role>
+    <type>Actor</type>
+    <tmdbid>4058989</tmdbid>
+  </actor>
+  <director tmdbid="1680263">Maryam Touzani</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CRAHt9PFv0E</trailer>
+  <rating>7.6</rating>
+  <year>2023</year>
+  <sorttitle>caftan azul</sorttitle>
+  <imdbid>tt17679584</imdbid>
+  <tmdbid>958279</tmdbid>
+  <premiered>2023-02-10</premiered>
+  <releasedate>2023-02-10</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>122</runtime>
+  <country>Belgium</country>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Morocco</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Les Films du Nouveau Monde</studio>
+  <studio>Ali'n Productions</studio>
+  <studio>Velvet Films</studio>
+  <studio>Snowglobe</studio>
+  <uniqueid type="imdb">tt17679584</uniqueid>
+  <uniqueid type="tmdb">958279</uniqueid>
+  <id>tt17679584</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1839301</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7335</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

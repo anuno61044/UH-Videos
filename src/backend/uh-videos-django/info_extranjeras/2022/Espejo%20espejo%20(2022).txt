@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuatro empleados de una oficina se preparan para la celebración de los 50 años de la empresa mientras intentan resolver ciertos problemas. Álvaro (Santi Millán), Cristina (Malena Alterio), Paula (Natalia de Molina) y Alberto (Carlos Areces) son cuatro personas en crisis que trabajan para la misma empresa de cosmética. Luchan por lo que quieren mientras se enfrentan a sus propios reflejos ante el espejo. Ambición, miedo, amor y traición se mezclan en una historia sobre la identidad. A veces tu peor enemigo eres tú mismo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-14 17:53:09</dateadded>
+  <title>Espejo, espejo</title>
+  <originaltitle>Espejo, espejo</originaltitle>
+  <actor>
+    <name>Malena Alterio</name>
+    <role>Cristina / Cristian</role>
+    <type>Actor</type>
+    <tmdbid>96428</tmdbid>
+    <imdbid>nm0968559</imdbid>
+    <tvdbid>518487</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalia de Molina</name>
+    <role>Paula</role>
+    <type>Actor</type>
+    <tmdbid>1270686</tmdbid>
+    <imdbid>nm5131296</imdbid>
+    <tvdbid>499261</tvdbid>
+  </actor>
+  <actor>
+    <name>Santi Millán</name>
+    <role>Álvaro</role>
+    <type>Actor</type>
+    <tmdbid>43322</tmdbid>
+    <imdbid>nm0590298</imdbid>
+    <tvdbid>449345</tvdbid>
+  </actor>
+  <actor>
+    <name>Verónica Forqué</name>
+    <role>Merce (Madre Álvaro)</role>
+    <type>Actor</type>
+    <tmdbid>54146</tmdbid>
+    <imdbid>nm0286579</imdbid>
+    <tvdbid>499263</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Areces</name>
+    <role>Alberto</role>
+    <type>Actor</type>
+    <tmdbid>114461</tmdbid>
+    <imdbid>nm1693112</imdbid>
+    <tvdbid>294451</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Bardem</name>
+    <role>Ernesto</role>
+    <type>Actor</type>
+    <tmdbid>78882</tmdbid>
+    <imdbid>nm0054214</imdbid>
+    <tvdbid>474425</tvdbid>
+  </actor>
+  <actor>
+    <name>Silvia Abascal</name>
+    <type>Actor</type>
+    <tmdbid>100667</tmdbid>
+    <imdbid>nm0007711</imdbid>
+    <tvdbid>301820</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Loles León</name>
+    <role>Rosa (Psicóloga)</role>
+    <type>Actor</type>
+    <tmdbid>6536</tmdbid>
+    <imdbid>nm0508249</imdbid>
+    <tvdbid>534162</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Bermejo</name>
+    <type>Actor</type>
+    <tmdbid>27471</tmdbid>
+    <imdbid>nm1084399</imdbid>
+    <tvdbid>499262</tvdbid>
+  </actor>
+  <actor>
+    <name>Xesc Cabot</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>1621791</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Tomasa</name>
+    <role>Youtuber</role>
+    <type>Actor</type>
+    <tmdbid>2773428</tmdbid>
+  </actor>
+  <actor>
+    <name>Bàrbara Mestanza</name>
+    <role>Youtuber</role>
+    <type>Actor</type>
+    <tmdbid>1436711</tmdbid>
+    <imdbid>nm5256678</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Bertran</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1110501</tmdbid>
+  </actor>
+  <director tmdbid="1598657">Marc Crehuet</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jSnw50csfCU</trailer>
+  <rating>5</rating>
+  <year>2022</year>
+  <sorttitle>Espejo, espejo</sorttitle>
+  <imdbid>tt12358208</imdbid>
+  <tmdbid>929449</tmdbid>
+  <premiered>2022-05-20</premiered>
+  <releasedate>2022-05-20</releasedate>
+  <runtime>82</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Rodar y Rodar</studio>
+  <uniqueid type="imdb">tt12358208</uniqueid>
+  <uniqueid type="tmdb">929449</uniqueid>
+  <id>tt12358208</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>225990</bitrate>
+        <width>640</width>
+        <height>320</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>82</duration>
+        <durationinseconds>4949</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63829</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

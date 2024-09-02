@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Two old friends reconnect at their friend's funeral, and decide to exact revenge on the widower who wronged all three of them decades earlier.]]></plot>
+  <outline><![CDATA[Nunca es demasiado tarde para desquitarse.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-22 09:11:35</dateadded>
+  <title>Moving On</title>
+  <originaltitle>Moving On</originaltitle>
+  <actor>
+    <name>Jane Fonda</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>6352</tmdbid>
+    <imdbid>nm0000404</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Tomlin</name>
+    <role>Evvie</role>
+    <type>Actor</type>
+    <tmdbid>10437</tmdbid>
+    <imdbid>nm0005499</imdbid>
+    <tvdbid>253975</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard Roundtree</name>
+    <role>Ralph</role>
+    <type>Actor</type>
+    <tmdbid>6487</tmdbid>
+    <imdbid>nm0745780</imdbid>
+  </actor>
+  <actor>
+    <name>Malcolm McDowell</name>
+    <role>Howard</role>
+    <type>Actor</type>
+    <tmdbid>56890</tmdbid>
+    <imdbid>nm0000532</imdbid>
+    <tvdbid>298565</tvdbid>
+  </actor>
+  <actor>
+    <name>Catherine Dent</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>65797</tmdbid>
+    <imdbid>nm0219748</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Martinez</name>
+    <role>James' Dad</role>
+    <type>Actor</type>
+    <tmdbid>172166</tmdbid>
+    <imdbid>nm1603145</imdbid>
+    <tvdbid>341813</tvdbid>
+  </actor>
+  <actor>
+    <name>Nancy De Mayo</name>
+    <role>Head Caterer</role>
+    <type>Actor</type>
+    <tmdbid>1514927</tmdbid>
+    <imdbid>nm1125705</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Herman</name>
+    <role>Mourner In Heels</role>
+    <type>Actor</type>
+    <tmdbid>1523211</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcel Nahapetian</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>3187710</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah King</name>
+    <role>Older Grandson</role>
+    <type>Actor</type>
+    <tmdbid>3727684</tmdbid>
+  </actor>
+  <director tmdbid="3289" imdbid="nm0919369">Paul Weitz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RCSKI5nO9V0</trailer>
+  <rating>5.9</rating>
+  <year>2023</year>
+  <sorttitle>Moving On</sorttitle>
+  <imdbid>tt15488088</imdbid>
+  <tmdbid>953365</tmdbid>
+  <premiered>2023-03-17</premiered>
+  <releasedate>2023-03-17</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>85</runtime>
+  <tagline>Nunca es demasiado tarde para desquitarse.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Limelight</studio>
+  <studio>Depth of Field</studio>
+  <studio>Boies/Schiller Film Group</studio>
+  <uniqueid type="tmdb">953365</uniqueid>
+  <uniqueid type="imdb">tt15488088</uniqueid>
+  <id>tt15488088</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2249342</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5094</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>384000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

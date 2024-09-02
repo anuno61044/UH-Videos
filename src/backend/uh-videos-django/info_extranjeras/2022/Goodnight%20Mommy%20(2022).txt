@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En una casa solitaria en el campo, entre bosques y maizales, viven dos hermanos gemelos de nueve años que esperan a su madre. Cuando llega a casa, vendada tras la cirugía estética, nada es como antes. Los niños empiezan a dudar de que esta mujer sea realmente su madre. De esta forma, surge una lucha existencial por la identidad y la confianza en el seno de la familia.]]></plot>
+  <outline><![CDATA[Los asuntos familiares deben quedar en secreto]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-16 10:43:53</dateadded>
+  <title>Buenas noches, mamá</title>
+  <originaltitle>Goodnight Mommy</originaltitle>
+  <actor>
+    <name>Naomi Watts</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>3489</tmdbid>
+    <imdbid>nm0915208</imdbid>
+    <tvdbid>308902</tvdbid>
+  </actor>
+  <actor>
+    <name>Cameron Crovetti</name>
+    <role>Elias</role>
+    <type>Actor</type>
+    <tmdbid>1696015</tmdbid>
+    <imdbid>nm7805172</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Crovetti</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>1696014</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Hermann</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>50117</tmdbid>
+    <imdbid>nm0379282</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Bobb</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>74961</tmdbid>
+    <imdbid>nm2205243</imdbid>
+    <tvdbid>486359</tvdbid>
+  </actor>
+  <actor>
+    <name>Crystal Lucas-Perry</name>
+    <role>Sandy</role>
+    <type>Actor</type>
+    <tmdbid>2127658</tmdbid>
+  </actor>
+  <director tmdbid="1396430" imdbid="nm3241497">Matt Sobel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iDBJ5u1R6Wo</trailer>
+  <rating>5.7</rating>
+  <year>2022</year>
+  <sorttitle>Buenas noches, mama</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9000184</imdbid>
+  <tmdbid>814800</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>92</runtime>
+  <tagline>Los asuntos familiares deben quedar en secreto</tagline>
+  <country>France</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Playtime</studio>
+  <studio>Animal Kingdom</studio>
+  <uniqueid type="imdb">tt9000184</uniqueid>
+  <uniqueid type="tmdb">814800</uniqueid>
+  <id>tt9000184</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1208726</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5529</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

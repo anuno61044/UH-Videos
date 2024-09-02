@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El forajido Nat Love (Jonathan Majors) descubre que su enemigo, Rufus Buck (Idris Elba) ha salido de prisión, por lo que reúne a su banda para perseguir a Rufus y buscar venganza.]]></plot>
+  <outline><![CDATA[Amanece un nuevo día.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-08 11:50:33</dateadded>
+  <title>Más dura será la caída</title>
+  <originaltitle>The Harder They Fall</originaltitle>
+  <actor>
+    <name>Jonathan Majors</name>
+    <role>Nat Love</role>
+    <type>Actor</type>
+    <tmdbid>1674162</tmdbid>
+    <imdbid>nm3718007</imdbid>
+    <tvdbid>533764</tvdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Rufus Buck</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+    <tvdbid>269501</tvdbid>
+  </actor>
+  <actor>
+    <name>Regina King</name>
+    <role>Trudy Smith</role>
+    <type>Actor</type>
+    <tmdbid>9788</tmdbid>
+    <imdbid>nm0005093</imdbid>
+  </actor>
+  <actor>
+    <name>Zazie Beetz</name>
+    <role>Stagecoach Mary</role>
+    <type>Actor</type>
+    <tmdbid>1545693</tmdbid>
+    <imdbid>nm5939164</imdbid>
+    <tvdbid>492843</tvdbid>
+  </actor>
+  <actor>
+    <name>Delroy Lindo</name>
+    <role>Bass Reeves</role>
+    <type>Actor</type>
+    <tmdbid>18792</tmdbid>
+    <imdbid>nm0005148</imdbid>
+    <tvdbid>321399</tvdbid>
+  </actor>
+  <actor>
+    <name>Lakeith Stanfield</name>
+    <role>Cherokee Bill</role>
+    <type>Actor</type>
+    <tmdbid>1200864</tmdbid>
+    <imdbid>nm3147751</imdbid>
+    <tvdbid>292503</tvdbid>
+  </actor>
+  <actor>
+    <name>Danielle Deadwyler</name>
+    <role>Cuffee</role>
+    <type>Actor</type>
+    <tmdbid>1853909</tmdbid>
+  </actor>
+  <actor>
+    <name>Edi Gathegi</name>
+    <role>Bill Pickett</role>
+    <type>Actor</type>
+    <tmdbid>39391</tmdbid>
+    <imdbid>nm1346230</imdbid>
+    <tvdbid>346715</tvdbid>
+  </actor>
+  <actor>
+    <name>Deon Cole</name>
+    <role>Wiley Escoe</role>
+    <type>Actor</type>
+    <tmdbid>216140</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Cedillo</name>
+    <type>Actor</type>
+    <tmdbid>36634</tmdbid>
+    <imdbid>nm0147814</imdbid>
+  </actor>
+  <actor>
+    <name>Woody McClain</name>
+    <type>Actor</type>
+    <tmdbid>1748947</tmdbid>
+    <imdbid>nm7882673</imdbid>
+    <tvdbid>464866</tvdbid>
+  </actor>
+  <actor>
+    <name>RJ Cyler</name>
+    <role>Jim Beckwourth</role>
+    <type>Actor</type>
+    <tmdbid>1394670</tmdbid>
+  </actor>
+  <actor>
+    <name>Damon Wayans Jr.</name>
+    <type>Actor</type>
+    <tmdbid>87822</tmdbid>
+    <imdbid>nm0915458</imdbid>
+  </actor>
+  <actor>
+    <name>Ntare Guma Mbaho Mwine</name>
+    <type>Actor</type>
+    <tmdbid>16760</tmdbid>
+    <imdbid>nm0616543</imdbid>
+  </actor>
+  <actor>
+    <name>Jacobi Howard</name>
+    <role>Angel</role>
+    <type>Actor</type>
+    <tmdbid>1932125</tmdbid>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Biggest Man on the Train</role>
+    <type>Actor</type>
+    <tmdbid>1105706</tmdbid>
+    <imdbid>nm1324884</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Kenin</name>
+    <role>General Abbott</role>
+    <type>Actor</type>
+    <tmdbid>85419</tmdbid>
+    <imdbid>nm0961185</imdbid>
+  </actor>
+  <actor>
+    <name>Andria B Langston</name>
+    <role>Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>3106484</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernest Marsh</name>
+    <role>Cowboy</role>
+    <type>Actor</type>
+    <tmdbid>2955721</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanel Mack</name>
+    <role>Lady of the Night</role>
+    <type>Actor</type>
+    <tmdbid>3262822</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Obonna</name>
+    <role>Lady of the Night</role>
+    <type>Actor</type>
+    <tmdbid>3262823</tmdbid>
+  </actor>
+  <actor>
+    <name>Howard Ferguson Jr.</name>
+    <role>Prison Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1654003</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonita King</name>
+    <role>Bank Patron</role>
+    <type>Actor</type>
+    <tmdbid>3262825</tmdbid>
+  </actor>
+  <actor>
+    <name>Mickey Dolan</name>
+    <role>Jake Abbott</role>
+    <type>Actor</type>
+    <tmdbid>2090188</tmdbid>
+  </actor>
+  <actor>
+    <name>Marissa Freeman</name>
+    <role>Lady of the Night</role>
+    <type>Actor</type>
+    <tmdbid>3262826</tmdbid>
+  </actor>
+  <actor>
+    <name>Sadiqua Bynum</name>
+    <role>Eleanor Love</role>
+    <type>Actor</type>
+    <tmdbid>2636814</tmdbid>
+  </actor>
+  <actor>
+    <name>Zacciah Hanson</name>
+    <role>Prisoner Guard</role>
+    <type>Actor</type>
+    <tmdbid>1794858</tmdbid>
+  </actor>
+  <actor>
+    <name>DyNiesha Lysette Whitfield</name>
+    <role>Lady of the Night</role>
+    <type>Actor</type>
+    <tmdbid>3262829</tmdbid>
+  </actor>
+  <actor>
+    <name>David Hight</name>
+    <role>Train Server</role>
+    <type>Actor</type>
+    <tmdbid>1929564</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hill</name>
+    <role>Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1719634</tmdbid>
+  </actor>
+  <actor>
+    <name>Vic Browder</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>1006144</tmdbid>
+    <imdbid>nm2002316</imdbid>
+  </actor>
+  <actor>
+    <name>Ivan Lee Holmes</name>
+    <role>Shopkeeper</role>
+    <type>Actor</type>
+    <tmdbid>3262832</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael E. Stogner</name>
+    <role>Maysville Citizen</role>
+    <type>Actor</type>
+    <tmdbid>1527964</tmdbid>
+    <imdbid>nm5877528</imdbid>
+  </actor>
+  <actor>
+    <name>Angie Jenkins</name>
+    <role>Lady of the Night</role>
+    <type>Actor</type>
+    <tmdbid>3262833</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Corona</name>
+    <role>Maysville Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>1452636</tmdbid>
+    <imdbid>nm2788802</imdbid>
+  </actor>
+  <actor>
+    <name>Peyton Jackson</name>
+    <role>Woody</role>
+    <type>Actor</type>
+    <tmdbid>2170322</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Nathan Simmons</name>
+    <role>Maysville Citizen</role>
+    <type>Actor</type>
+    <tmdbid>1204226</tmdbid>
+    <imdbid>nm0799776</imdbid>
+  </actor>
+  <actor>
+    <name>Terrence Clowe</name>
+    <role>Zeke</role>
+    <type>Actor</type>
+    <tmdbid>2801417</tmdbid>
+  </actor>
+  <actor>
+    <name>Manny Rubio</name>
+    <role>Father Esparza</role>
+    <type>Actor</type>
+    <tmdbid>2442159</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas G. Sims</name>
+    <type>Actor</type>
+    <tmdbid>2832816</tmdbid>
+  </actor>
+  <director tmdbid="1059578">Jeymes Samuel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Poc55U2RPMw</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Mas dura sera la caida</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10696784</imdbid>
+  <tmdbid>618162</tmdbid>
+  <premiered>2021-10-22</premiered>
+  <releasedate>2021-10-22</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>139</runtime>
+  <tagline>Amanece un nuevo día.</tagline>
+  <country>United States of America</country>
+  <genre>Western</genre>
+  <studio>Overbrook Entertainment</studio>
+  <uniqueid type="imdb">tt10696784</uniqueid>
+  <uniqueid type="tmdb">618162</uniqueid>
+  <id>tt10696784</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>902655</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8342</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

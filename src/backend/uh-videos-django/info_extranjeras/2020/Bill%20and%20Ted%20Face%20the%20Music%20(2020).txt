@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Once told they'd save the universe during a time-traveling adventure, 2 would-be rockers from San Dimas, California find themselves as middle-aged dads still trying to crank out a hit song and fulfill their destiny.]]></plot>
+  <outline><![CDATA[El futuro espera]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-31 09:31:10</dateadded>
+  <title>Bill &amp; Ted Face the Music</title>
+  <originaltitle>Bill &amp; Ted Face the Music</originaltitle>
+  <actor>
+    <name>Keanu Reeves</name>
+    <type>Actor</type>
+    <tmdbid>6384</tmdbid>
+    <imdbid>nm0000206</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Winter</name>
+    <type>Actor</type>
+    <tmdbid>18355</tmdbid>
+    <imdbid>nm0935664</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Schaal</name>
+    <type>Actor</type>
+    <tmdbid>109869</tmdbid>
+    <imdbid>nm1102891</imdbid>
+  </actor>
+  <actor>
+    <name>Samara Weaving</name>
+    <type>Actor</type>
+    <tmdbid>1372369</tmdbid>
+    <imdbid>nm3034977</imdbid>
+    <tvdbid>533955</tvdbid>
+  </actor>
+  <director tmdbid="15002" imdbid="nm0661751">Dean Parisot</director>
+  <writer tmdbid="18382" imdbid="nm0558533">Chris Matheson</writer>
+  <writer tmdbid="9612" imdbid="nm0004412">Ed Solomon</writer>
+  <writer>Chris Matheson (based on characters created by)</writer>
+  <writer>Ed Solomon (based on characters created by)</writer>
+  <credits tmdbid="18382" imdbid="nm0558533">Chris Matheson</credits>
+  <credits tmdbid="9612" imdbid="nm0004412">Ed Solomon</credits>
+  <credits>Chris Matheson (based on characters created by)</credits>
+  <credits>Ed Solomon (based on characters created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0hAL7emClFM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1gPGeAYo3yU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yevysSJlRdQ</trailer>
+  <rating>5.9</rating>
+  <year>2020</year>
+  <sorttitle>Bill &amp; Ted Face the Music</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1086064</imdbid>
+  <tmdbid>501979</tmdbid>
+  <premiered>2020-08-27</premiered>
+  <releasedate>2020-08-27</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>92</runtime>
+  <tagline>El futuro espera</tagline>
+  <country>United States of America</country>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Music</genre>
+  <genre>Sci-Fi</genre>
+  <studio>FGM Entertainment</studio>
+  <studio>Bloom</studio>
+  <studio>Endeavor Content</studio>
+  <studio>Hammerstone Studios</studio>
+  <studio>Lakeview Entertainment</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>TinRes Entertainment</studio>
+  <studio>Orion Pictures</studio>
+  <studio>Many Rivers Productions</studio>
+  <set>
+    <name>La más excelente colección de Bill &amp;amp;amp;amp;amp;amp; Ted - Colección</name>
+  </set>
+  <set tmdbcolid="91746">
+    <name>La más excelente colección de Bill &amp; Ted - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt1086064</uniqueid>
+  <uniqueid type="tmdb">501979</uniqueid>
+  <id>tt1086064</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1212071</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5514</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>91746</collectionnumber>
+</movie>

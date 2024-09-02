@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Juan, un agente del servicio secreto, se acerca a Wendy, una joven filipina que trabaja como criada para una pareja sospechosa.]]></plot>
+  <outline><![CDATA[¿Qué es el poder?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-15 09:04:23</dateadded>
+  <title>Código Emperador</title>
+  <originaltitle>Código Emperador</originaltitle>
+  <actor>
+    <name>Luis Tosar</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Masangkay</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>1640347</tmdbid>
+    <imdbid>nm4724329</imdbid>
+  </actor>
+  <actor>
+    <name>Georgina Amorós</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>1294749</tmdbid>
+    <tvdbid>465011</tvdbid>
+  </actor>
+  <actor>
+    <name>Denis Gómez</name>
+    <role>Ángel</role>
+    <type>Actor</type>
+    <tmdbid>1534889</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Domínguez</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>16871</tmdbid>
+  </actor>
+  <actor>
+    <name>María Botto</name>
+    <role>Charo</role>
+    <type>Actor</type>
+    <tmdbid>46856</tmdbid>
+    <imdbid>nm0098710</imdbid>
+    <tvdbid>575040</tvdbid>
+  </actor>
+  <actor>
+    <name>Miguel Rellán</name>
+    <role>Galán</role>
+    <type>Actor</type>
+    <tmdbid>81848</tmdbid>
+    <imdbid>nm0718829</imdbid>
+  </actor>
+  <actor>
+    <name>Santi Prego</name>
+    <role>Llorente</role>
+    <type>Actor</type>
+    <tmdbid>1071971</tmdbid>
+    <imdbid>nm1139204</imdbid>
+  </actor>
+  <actor>
+    <name>Arón Piper</name>
+    <role>Fernando</role>
+    <type>Actor</type>
+    <tmdbid>1162998</tmdbid>
+    <imdbid>nm1422693</imdbid>
+    <tvdbid>301002</tvdbid>
+  </actor>
+  <actor>
+    <name>Fran Lareu</name>
+    <role>Chema</role>
+    <type>Actor</type>
+    <tmdbid>1987953</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Vellido</name>
+    <role>Azcona</role>
+    <type>Actor</type>
+    <tmdbid>1089049</tmdbid>
+    <imdbid>nm0892624</imdbid>
+    <tvdbid>531971</tvdbid>
+  </actor>
+  <actor>
+    <name>Mirela Balik</name>
+    <role>Bramka</role>
+    <type>Actor</type>
+    <tmdbid>3724186</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayax Pedrosa</name>
+    <role>Goyito</role>
+    <type>Actor</type>
+    <tmdbid>2710517</tmdbid>
+  </actor>
+  <actor>
+    <name>Patirke Mendiguren</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>3724191</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime Newball</name>
+    <role>Naranjo</role>
+    <type>Actor</type>
+    <tmdbid>1681399</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Novák</name>
+    <role>László</role>
+    <type>Actor</type>
+    <tmdbid>1307632</tmdbid>
+  </actor>
+  <actor>
+    <name>Xabier Álvarez</name>
+    <role>Dealer</role>
+    <type>Actor</type>
+    <tmdbid>3724194</tmdbid>
+  </actor>
+  <actor>
+    <name>Marian Dumistracu</name>
+    <role>Romanian Man #1</role>
+    <type>Actor</type>
+    <tmdbid>3724199</tmdbid>
+  </actor>
+  <actor>
+    <name>John Barros</name>
+    <role>Chalet Man</role>
+    <type>Actor</type>
+    <tmdbid>3046637</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Nerger</name>
+    <role>Chalet Woman</role>
+    <type>Actor</type>
+    <tmdbid>3724203</tmdbid>
+  </actor>
+  <actor>
+    <name>Óscar Allo</name>
+    <role>Malasaña Boy</role>
+    <type>Actor</type>
+    <tmdbid>3724206</tmdbid>
+  </actor>
+  <actor>
+    <name>Xabier Fortes</name>
+    <role>TV Presenter</role>
+    <type>Actor</type>
+    <tmdbid>3724207</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Ferrín</name>
+    <role>Bilbao Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>3724208</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Rodríguez</name>
+    <role>Harbor Worker</role>
+    <type>Actor</type>
+    <tmdbid>1447741</tmdbid>
+  </actor>
+  <actor>
+    <name>Xosé M. Cendán</name>
+    <role>Sentry Guard</role>
+    <type>Actor</type>
+    <tmdbid>3724213</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Figueroa</name>
+    <role>Journalist #1</role>
+    <type>Actor</type>
+    <tmdbid>3724214</tmdbid>
+  </actor>
+  <actor>
+    <name>Álvaro von Richetti</name>
+    <role>Journalist #2</role>
+    <type>Actor</type>
+    <tmdbid>3724215</tmdbid>
+  </actor>
+  <actor>
+    <name>Lourdes Silvoso</name>
+    <role>Ángel's Wife</role>
+    <type>Actor</type>
+    <tmdbid>3724216</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita Gutiérrez</name>
+    <role>Social Media Photos Girl</role>
+    <type>Actor</type>
+    <tmdbid>3724223</tmdbid>
+  </actor>
+  <director tmdbid="588125">Jorge Coira</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PfuO6_3gFmc</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Codigo Emperador</sorttitle>
+  <imdbid>tt13660916</imdbid>
+  <tmdbid>769636</tmdbid>
+  <premiered>2022-03-18</premiered>
+  <releasedate>2022-03-18</releasedate>
+  <runtime>106</runtime>
+  <tagline>¿Qué es el poder?</tagline>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Vaca Films</studio>
+  <studio>Playtime</studio>
+  <studio>TVE</studio>
+  <studio>TVG</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <uniqueid type="tmdb">769636</uniqueid>
+  <uniqueid type="imdb">tt13660916</uniqueid>
+  <id>tt13660916</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>982833</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6352</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63886</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -20,20 +20,19 @@ HIGH_SCORE_RANGE = (4, 5)  # Rango de puntuaciones altas
 LOW_SCORE_RANGE = (1, 3)  # Rango de puntuaciones bajas
 RATING_VARIATION = [-1, 0, 1]  # Variación de calificación en grupos similares
 
-def populate(num_users=30, num_movies=20, num_ratings=150):
+def populate(num_users=20, num_ratings=120):
     """
     Pobla la base de datos con usuarios, películas y calificaciones para ejemplificar
     los casos cubiertos por el filtrado colaborativo y basado en contenido.
 
     Parámetros:
     - num_users (int): Número de usuarios a crear.
-    - num_movies (int): Número de películas a crear.
     - num_ratings (int): Número total de calificaciones a crear.
 
     Este script realiza los siguientes pasos:
     1. Borra los datos existentes en las tablas `Rating`, `Movie` y `User`.
     2. Crea usuarios con nombres y correos electrónicos generados aleatoriamente.
-    3. Crea películas con diversos géneros y directores.
+    3. Carga las películas.
     4. Genera calificaciones similares para grupos de usuarios específicos (para probar el filtrado colaborativo).
     5. Genera calificaciones adicionales con sesgos hacia ciertos géneros o directores (para probar el filtrado basado en contenido).
     """
@@ -58,7 +57,7 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
 
     movies = []
     # Cargar información de las películas
-    years = ['2024', '2023', '2022']
+    years = ['2024']
     for year in years:
         for archivo in os.listdir(f'./info_extranjeras/{year}'):
             if archivo.endswith('.txt'):
@@ -68,13 +67,10 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
                 root = tree.getroot()
                 
                 movie_title = root.find('originaltitle').text
-                # movie_year = root.find('year').text
                 movie_director = root.find('director').text
-                # movie_language = root.find('fileinfo').find('streamdetails').find('audio').find('language').text
-                # movie_countries = [country.text for country in root.findall('country')]
                 movie_genres = [genre.text for genre in root.findall('genre')]
-                # movie_actors = [actor.find('name').text for actor in root.findall('actor')[:3]]
                 movie_description = root.find('plot').text
+                
                 if movie_description is None:
                     movie_description = 'No description'
                 

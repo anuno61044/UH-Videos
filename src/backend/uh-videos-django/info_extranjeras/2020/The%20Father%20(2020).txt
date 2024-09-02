@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-29 08:59:05</dateadded>
+  <title>The Father</title>
+  <originaltitle>The Father</originaltitle>
+  <actor>
+    <name>Olivia Colman</name>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+    <tvdbid>300806</tvdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+    <tvdbid>254194</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Williams</name>
+    <type>Actor</type>
+    <tmdbid>11616</tmdbid>
+    <imdbid>nm0931404</imdbid>
+  </actor>
+  <director tmdbid="1150548" imdbid="nm1725469">Florian Zeller</director>
+  <writer>Christopher Hampton (screenplay by)</writer>
+  <writer>Florian Zeller (play)</writer>
+  <writer>Florian Zeller (screenplay)</writer>
+  <credits>Christopher Hampton (screenplay by)</credits>
+  <credits>Florian Zeller (play)</credits>
+  <credits>Florian Zeller (screenplay)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GvcW2ArYpwY</trailer>
+  <rating>8.2</rating>
+  <year>2020</year>
+  <sorttitle>Father</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10272386</imdbid>
+  <tmdbid>600354</tmdbid>
+  <premiered>2020-12-23</premiered>
+  <releasedate>2020-12-23</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>97</runtime>
+  <country>France</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <studio>Trademark Films</studio>
+  <studio>F Comme Film</studio>
+  <studio>Ciné@</studio>
+  <studio>Embankment Films</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>Orange Studio</studio>
+  <uniqueid type="imdb">tt10272386</uniqueid>
+  <uniqueid type="tmdb">600354</uniqueid>
+  <id>tt10272386</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>600091</bitrate>
+        <width>858</width>
+        <height>482</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.98</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5817</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95938</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

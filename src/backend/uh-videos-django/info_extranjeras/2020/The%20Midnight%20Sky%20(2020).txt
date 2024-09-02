@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[This post-apocalyptic tale follows Augustine, a lonely scientist in the Arctic, as he races to stop Sully and her fellow astronauts from returning home to a mysterious global catastrophe.]]></plot>
+  <outline><![CDATA[Hay un universo entre todos nosotros.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-28 09:07:40</dateadded>
+  <title>The Midnight Sky</title>
+  <originaltitle>The Midnight Sky</originaltitle>
+  <actor>
+    <name>George Clooney</name>
+    <type>Actor</type>
+    <tmdbid>1461</tmdbid>
+    <imdbid>nm0000123</imdbid>
+    <tvdbid>274178</tvdbid>
+  </actor>
+  <actor>
+    <name>Felicity Jones</name>
+    <type>Actor</type>
+    <tmdbid>72855</tmdbid>
+    <imdbid>nm0428065</imdbid>
+  </actor>
+  <actor>
+    <name>David Oyelowo</name>
+    <type>Actor</type>
+    <tmdbid>35013</tmdbid>
+    <imdbid>nm0654648</imdbid>
+    <tvdbid>396447</tvdbid>
+  </actor>
+  <actor>
+    <name>Caoilinn Springall</name>
+    <type>Actor</type>
+    <tmdbid>2424535</tmdbid>
+    <tvdbid>8182257</tvdbid>
+  </actor>
+  <director tmdbid="1461" imdbid="nm0000123" tvdbid="274178">George Clooney</director>
+  <writer>Lily Brooks-Dalton (based on the book 'Good Morning</writer>
+  <writer>Midnight' by)</writer>
+  <writer>Mark L. Smith (screenplay by)</writer>
+  <credits>Lily Brooks-Dalton (based on the book 'Good Morning</credits>
+  <credits>Midnight' by)</credits>
+  <credits>Mark L. Smith (screenplay by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_3WajD_OME8</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <sorttitle>Midnight Sky</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10539608</imdbid>
+  <tmdbid>614911</tmdbid>
+  <premiered>2020-12-10</premiered>
+  <releasedate>2020-12-10</releasedate>
+  <criticrating>50</criticrating>
+  <runtime>119</runtime>
+  <tagline>Hay un universo entre todos nosotros.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Smoke House Pictures</studio>
+  <studio>Syndicate Films</studio>
+  <studio>Anonymous Content</studio>
+  <studio>Truenorth Productions</studio>
+  <uniqueid type="imdb">tt10539608</uniqueid>
+  <uniqueid type="tmdb">614911</uniqueid>
+  <id>tt10539608</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>939240</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7112</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

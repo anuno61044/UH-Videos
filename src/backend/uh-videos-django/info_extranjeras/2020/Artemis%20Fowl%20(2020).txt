@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Artemis Fowl, a young criminal prodigy, hunts down a secret society of fairies to find his missing father.]]></plot>
+  <outline><![CDATA[Artemis Fowl, un joven prodigio criminal, persigue a una sociedad secreta de hadas para encontrar a su padre desaparecido.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-30 10:51:35</dateadded>
+  <title>Artemis Fowl</title>
+  <originaltitle>Artemis Fowl</originaltitle>
+  <actor>
+    <name>Michael Rouse</name>
+    <type>Actor</type>
+    <tmdbid>59079</tmdbid>
+    <imdbid>nm1353847</imdbid>
+  </actor>
+  <actor>
+    <name>Racheal Ofori</name>
+    <type>Actor</type>
+    <tmdbid>2553625</tmdbid>
+    <imdbid>nm6906799</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Gad</name>
+    <type>Actor</type>
+    <tmdbid>54415</tmdbid>
+    <imdbid>nm1265802</imdbid>
+    <tvdbid>308164</tvdbid>
+  </actor>
+  <actor>
+    <name>Ferdia Shaw</name>
+    <type>Actor</type>
+    <tmdbid>1996905</tmdbid>
+    <imdbid>nm9500254</imdbid>
+  </actor>
+  <director tmdbid="11181" imdbid="nm0000110">Kenneth Branagh</director>
+  <writer>Hamish McColl (screenplay by)</writer>
+  <writer>Conor McPherson (screenplay by)</writer>
+  <writer>Eoin Colfer (based on the novel by)</writer>
+  <credits>Hamish McColl (screenplay by)</credits>
+  <credits>Conor McPherson (screenplay by)</credits>
+  <credits>Eoin Colfer (based on the novel by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y6olen_sjH4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8NNfTCByltQ</trailer>
+  <rating>4.3</rating>
+  <year>2020</year>
+  <sorttitle>Artemis Fowl</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt3089630</imdbid>
+  <tmdbid>475430</tmdbid>
+  <premiered>2020-06-12</premiered>
+  <releasedate>2020-06-12</releasedate>
+  <criticrating>8</criticrating>
+  <runtime>94</runtime>
+  <tagline>Artemis Fowl, un joven prodigio criminal, persigue a una sociedad secreta de hadas para encontrar a su padre desaparecido.</tagline>
+  <country>United States of America</country>
+  <genre>Adventure</genre>
+  <genre>Family</genre>
+  <genre>Fantasy</genre>
+  <genre>Sci-Fi</genre>
+  <studio>Tribeca Productions</studio>
+  <studio>Walt Disney Pictures</studio>
+  <studio>TKBC</studio>
+  <uniqueid type="imdb">tt3089630</uniqueid>
+  <uniqueid type="tmdb">475430</uniqueid>
+  <id>tt3089630</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149823</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5623</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128510</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

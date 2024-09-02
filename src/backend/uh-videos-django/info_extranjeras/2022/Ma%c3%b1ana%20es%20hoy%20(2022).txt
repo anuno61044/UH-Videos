@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En el verano de 1991, la familia Gaspar comienza sus vacaciones en la playa, pero tras discutir con su padre, Lucía, la hija adolescente, decide fugarse con su novio. Una tormenta eléctrica pilla al resto de la familia a bordo de una barca a pedales y cuando consiguen volver a la costa descubren ¡que han viajado al 2022! Un descabellado futuro lleno de smartphones, selfies y música trap. ¿Conseguirán volver a los plácidos noventa?]]></plot>
+  <outline><![CDATA[Una Película de Nacho G. Velilla]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-02 09:48:50</dateadded>
+  <title>Mañana es hoy</title>
+  <originaltitle>Mañana es hoy</originaltitle>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Pilar</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Gutiérrez</name>
+    <role>José Luis</role>
+    <type>Actor</type>
+    <tmdbid>19024</tmdbid>
+    <imdbid>nm0349522</imdbid>
+    <tvdbid>472102</tvdbid>
+  </actor>
+  <actor>
+    <name>Asier Rikarte</name>
+    <role>Rodrigo</role>
+    <type>Actor</type>
+    <tmdbid>2168576</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepón Nieto</name>
+    <role>Quique (2022)</role>
+    <type>Actor</type>
+    <tmdbid>118206</tmdbid>
+    <imdbid>nm0631326</imdbid>
+    <tvdbid>555407</tvdbid>
+  </actor>
+  <actor>
+    <name>Carla Díaz</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>1580650</tmdbid>
+    <imdbid>nm3718425</imdbid>
+  </actor>
+  <actor>
+    <name>Silvia Abril</name>
+    <role>Ana Clara</role>
+    <type>Actor</type>
+    <tmdbid>231486</tmdbid>
+    <imdbid>nm1526347</imdbid>
+    <tvdbid>8107137</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonia San Juan</name>
+    <role>Elvirita</role>
+    <type>Actor</type>
+    <tmdbid>961</tmdbid>
+    <imdbid>nm0760665</imdbid>
+    <tvdbid>594869</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta Fernández Muro</name>
+    <role>Fina</role>
+    <type>Actor</type>
+    <tmdbid>37520</tmdbid>
+    <imdbid>nm0273312</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Pagudo</name>
+    <role>Charly (2022)</role>
+    <type>Actor</type>
+    <tmdbid>1075029</tmdbid>
+    <imdbid>nm1813393</imdbid>
+    <tvdbid>594871</tvdbid>
+  </actor>
+  <actor>
+    <name>Aixa Villagrán</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>146300</tmdbid>
+    <imdbid>nm1938814</imdbid>
+    <tvdbid>8046421</tvdbid>
+  </actor>
+  <actor>
+    <name>Mina El Hammani</name>
+    <role>Andrea</role>
+    <type>Actor</type>
+    <tmdbid>2025253</tmdbid>
+    <imdbid>nm7263767</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Guevara</name>
+    <role>Charly (1991)</role>
+    <type>Actor</type>
+    <tmdbid>2786960</tmdbid>
+    <imdbid>nm10140379</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Garrido</name>
+    <role>Quique (1991)</role>
+    <type>Actor</type>
+    <tmdbid>3529320</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena De Lara</name>
+    <role>Ana Clara (1991)</role>
+    <type>Actor</type>
+    <tmdbid>3306733</tmdbid>
+  </actor>
+  <actor>
+    <name>Blanca Tamarit</name>
+    <role>Elvirita (1991)</role>
+    <type>Actor</type>
+    <tmdbid>3814212</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia García</name>
+    <role>Abril</role>
+    <type>Actor</type>
+    <tmdbid>3487343</tmdbid>
+  </actor>
+  <director tmdbid="79002">Nacho G. Velilla</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=msLWIaNuFP4</trailer>
+  <rating>5.4</rating>
+  <year>2022</year>
+  <sorttitle>Manana es hoy</sorttitle>
+  <imdbid>tt16347374</imdbid>
+  <tmdbid>1029528</tmdbid>
+  <premiered>2022-11-29</premiered>
+  <releasedate>2022-11-29</releasedate>
+  <runtime>108</runtime>
+  <tagline>Una Película de Nacho G. Velilla</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Aparte Producciones</studio>
+  <studio>Atresmedia</studio>
+  <uniqueid type="imdb">tt16347374</uniqueid>
+  <uniqueid type="tmdb">1029528</uniqueid>
+  <id>tt16347374</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1091638</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.999693</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6493</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64058</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>
