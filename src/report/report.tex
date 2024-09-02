@@ -12,20 +12,20 @@
 	\maketitle
 	
 	\begin{abstract}
-		En este proyecto se desarrollar un sistema híbrido de recomendación de películas utilizando un enfoque monolítico que combina filtrado colaborativo y filtrado basado en contenido. Se emplea el diseño "feature combination", lo cual se aprovecha para proporcionar explicaciones en lenguaje natural sobre las recomendaciones. El sistema se alimenta de un repositorio público de películas de la Universidad Marta Abreu, y se complementa con un sistema de recuperación de películas. La implementación se ha realizado utilizando Vite y React para el 	\textit{frontend} y Django para el 	\textit{backend}. 
+		En este proyecto se desarrollar un sistema híbrido de recomendación de películas utilizando un enfoque monolítico que combina filtrado colaborativo y filtrado basado en contenido. Se emplea el diseño \textit{feature combination}, lo cual se aprovecha para proporcionar explicaciones en lenguaje natural sobre las recomendaciones. El sistema se alimenta de un repositorio público de películas de la Universidad Marta Abreu, y se complementa con un sistema de recuperación de películas. La implementación se ha realizado utilizando Vite y React para el 	\textit{frontend} y Django para el 	\textit{backend}. 
 		
 		\textbf{Palabras clave}: Sistemas de Recomendación, Filtrado Colaborativo, Filtrado Basado en Contenido, Feature Combination, Python, Django, Vite, React
 	\end{abstract}
 	
 	\section{Introducción}
-	En la era actual, los sistemas de recomendación son esenciales para mejorar la experiencia del usuario en diversas plataformas, especialmente en el ámbito del entretenimiento. Este proyecto tiene como objetivo desarrollar un sistema híbrido de recomendación de películas que combine técnicas de filtrado colaborativo y basado en contenido, proporcionando así recomendaciones personalizadas a los usuarios. A lo largo de este informe, se detallarán los aspectos técnicos, la metodología utilizada y los resultados obtenidos en el desarrollo de este sistema.
+	En la era actual, los sistemas de recomendación son esenciales para mejorar la experiencia del usuario en diversas plataformas, especialmente en el ámbito del entretenimiento. Este proyecto tiene como objetivo desarrollar un sistema híbrido de recomendación de películas que combine técnicas de filtrado colaborativo y basado en contenido, proporcionando así recomendaciones personalizadas a los usuarios. A lo largo de este informe, se detallarán los aspectos técnicos y la metodología utilizada para el desarrollo de este sistema.
 	
 	\section{Antecedentes y Estado del Arte}
 	Los sistemas de recomendación tradicionales se dividen en tres categorías principales: filtrado colaborativo, filtrado basado en contenido y filtrado basado en conocimiento. Esta categorización es ampliamente aceptada en la literatura, siendo presentada de manera clara en la taxonomía de sistemas de recomendación de Robin Burke \cite{burke2002hybrid}. 
 	
 	El \textit{filtrado colaborativo} se basa en las preferencias de usuarios similares, utilizando técnicas como la similitud de vectores o la factorización de matrices para predecir las preferencias de un usuario basado en comportamientos de otros usuarios con intereses similares \cite{jannach2010recommender} Este enfoque tiene la ventaja de no requerir información explícita sobre los ítems, pero puede sufrir de problemas como la escasez de datos (\textit{cold start problem}) y la falta de diversidad en las recomendaciones.
 	
-	Por otro lado, el \textit{filtrado basado en contenido} utiliza las características de los ítems para hacer recomendaciones. Esta técnica analiza atributos como el género, el director o los actores de una película, y compara estas características con las preferencias históricas del usuario. El filtrado basado en contenido es especialmente útil en contextos donde el historial de comportamiento del usuario es limitado o cuando se busca recomendar ítems que son nuevos en el sistema \cite{jannach2010recommender}.
+	Por otro lado, el \textit{filtrado basado en contenido} utiliza las características de los ítems para hacer recomendaciones. Esta técnica analiza atributos como el género, el director o el año de estreno de una película, y compara estas características con las preferencias históricas del usuario. El filtrado basado en contenido es especialmente útil en contextos donde el historial de comportamiento del usuario es limitado o cuando se busca recomendar ítems que son nuevos en el sistema \cite{jannach2010recommender}.
 	
 	Finalmente, el \textit{filtrado basado en conocimiento} utiliza reglas explícitas sobre las necesidades y preferencias del usuario, junto con el conocimiento del dominio, para realizar recomendaciones. Este enfoque es menos común que los anteriores, pero es especialmente útil en sistemas donde es crucial entender el contexto o en dominios donde las preferencias son altamente especializadas y no pueden inferirse fácilmente a partir de datos históricos \cite{burke2002hybrid}
 	
@@ -40,7 +40,7 @@
 	\textit{Diseño por Pipelines}.
 	En el diseño por \textit{pipelines}, las técnicas de recomendación se aplican en una secuencia, donde la salida de una técnica sirve como entrada para la siguiente. Este enfoque permite refinar las recomendaciones en cada paso, lo que puede resultar en una mayor precisión. Por ejemplo, un sistema puede primero aplicar filtrado colaborativo para identificar un conjunto de ítems recomendados y luego utilizar filtrado basado en contenido para ajustar esas recomendaciones según las características específicas de los ítems. La principal desventaja de este enfoque es que puede ser computacionalmente costoso y complicado de optimizar \cite{jannach2010recommender}.
 	
-	En este proyecto, se ha optado por un enfoque híbrido, combinando las técnicas de filtrado colaborativo y filtrado basado en contenido en un sistema monolítico utilizando el diseño de combinación de características (\textit{feature combination}). Este diseño permite aprovechar las ventajas de ambos enfoques y mitigar sus desventajas. Además, la combinación de características permitió proporcionar explicaciones claras en lenguaje natural sobre las recomendaciones, lo que mejora la transparencia y la confianza del usuario en el sistema.
+	En este proyecto, se ha optado por un enfoque híbrido, combinando las técnicas de filtrado colaborativo y filtrado basado en contenido en un sistema monolítico utilizando el diseño de combinación de características (\textit{feature combination}). Este diseño permite aprovechar las ventajas de ambos enfoques y mitigar sus desventajas. Además, la combinación de características permitió proporcionar explicaciones en lenguaje natural sobre las recomendaciones, lo que mejora la transparencia del sistema.
 	
 	
 	
@@ -142,10 +142,6 @@
 	
 	\subsection{Desarrollo del Sistema}
 	La implementación incluyó el desarrollo de varias funcionalidades clave, incluyendo el sistema de búsqueda en la base de datos por nombre, la gestión de usuarios y la integración del sistema de calificación con el motor de recomendaciones.
-	
-	\section{Resultados}
-	\subsection{Evaluación del Sistema}
-	El sistema desarrollado es funcional y capaz de proporcionar recomendaciones personalizadas de películas. 
 	
 	\section{Conclusiones y Trabajo Futuro}
 	El proyecto presentado ha logrado cumplir con los objetivos propuestos, desarrollando un sistema híbrido de recomendación de películas que integra de manera efectiva técnicas de filtrado colaborativo y filtrado basado en contenido mediante un enfoque monolítico. La implementación del sistema ha demostrado ser funcional y capaz de ofrecer recomendaciones personalizadas con un nivel satisfactorio de precisión. Este éxito se debe en gran medida a la combinación de características (\textit{feature combination}) que permite al sistema proporcionar recomendaciones basadas en la integración de múltiples fuentes de datos, mejorando así la experiencia del usuario.
