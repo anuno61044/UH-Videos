@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cansada de su vida de jubilada, y de compararse con sus amigas que son abuelas, Marisa (Carmen Machi) decide viajar a un campo de refugiados griego donde, a su parecer, necesitan a gente exactamente como ella. Al llegar allí, descubre una realidad que no habría podido imaginar y que le lleva a explorar los límites entre el amor y la necesidad de sentirse útil.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-03 12:28:27</dateadded>
+  <title>La voluntaria</title>
+  <originaltitle>La voluntaria</originaltitle>
+  <actor>
+    <name>Carmen Machi</name>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Itsaso Arana</name>
+    <type>Actor</type>
+    <tmdbid>1382606</tmdbid>
+    <imdbid>nm3188127</imdbid>
+    <tvdbid>562630</tvdbid>
+  </actor>
+  <actor>
+    <name>Arnau Comas Quirante</name>
+    <type>Actor</type>
+    <tmdbid>2555193</tmdbid>
+  </actor>
+  <actor>
+    <name>Dèlia Brufau</name>
+    <type>Actor</type>
+    <tmdbid>2887551</tmdbid>
+    <tvdbid>8109162</tvdbid>
+  </actor>
+  <actor>
+    <name>Yohan Lévy</name>
+    <type>Actor</type>
+    <tmdbid>2403099</tmdbid>
+  </actor>
+  <actor>
+    <name>Henrietta Rauth</name>
+    <type>Actor</type>
+    <tmdbid>1853623</tmdbid>
+  </actor>
+  <director tmdbid="1677698">Nely Reguera</director>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>voluntaria</sorttitle>
+  <imdbid>tt10270204</imdbid>
+  <tmdbid>816705</tmdbid>
+  <premiered>2022-06-10</premiered>
+  <releasedate>2022-06-10</releasedate>
+  <runtime>97</runtime>
+  <country>Spain</country>
+  <country>Greece</country>
+  <genre>Drama</genre>
+  <studio>Homemade Films</studio>
+  <studio>BTeam Pictures</studio>
+  <studio>Fasten Films</studio>
+  <uniqueid type="imdb">tt10270204</uniqueid>
+  <uniqueid type="tmdb">816705</uniqueid>
+  <id>tt10270204</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1048723</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.999313</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5825</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63964</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

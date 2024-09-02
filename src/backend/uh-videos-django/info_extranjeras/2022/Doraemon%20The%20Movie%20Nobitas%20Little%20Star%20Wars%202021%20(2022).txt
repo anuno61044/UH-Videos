@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[One day during summer vacation, a palm-sized alien named Papi appears from a small rocket that Nobita picks up. He is the president of Pirika, a small planet in outer space, and has come to Earth to escape the rebels. Doraemon and his friends are puzzled by Papi’s small size, but as they play together using the secret tool “Small Light”, they gradually become friends. However, a whale-shaped space battleship comes to earth and attacks Doraemon, Nobita and the others in order to capture Papi. Feeling responsible for getting everyone involved, Papi tries to stand up to the rebels. Doraemon and his friends leave for the planet Pirika to protect their dear friend and his home.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-11-11 21:48:49</dateadded>
+  <title>映画ドラえもん のび太の宇宙小戦争 2021</title>
+  <originaltitle>映画ドラえもん のび太の宇宙小戦争 2021</originaltitle>
+  <actor>
+    <name>Wasabi Mizuta</name>
+    <role>Doraemon (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1241939</tmdbid>
+  </actor>
+  <actor>
+    <name>Megumi Oohara</name>
+    <role>Nobita (voice)</role>
+    <type>Actor</type>
+    <tmdbid>932986</tmdbid>
+  </actor>
+  <actor>
+    <name>Yumi Kakazu</name>
+    <role>Shizuka (voice)</role>
+    <type>Actor</type>
+    <tmdbid>9715</tmdbid>
+  </actor>
+  <actor>
+    <name>Subaru Kimura</name>
+    <role>Gian (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1142780</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Suneo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>90567</tmdbid>
+    <imdbid>nm0782840</imdbid>
+  </actor>
+  <actor>
+    <name>Shihoko Hagino</name>
+    <role>Dekisugi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1502631</tmdbid>
+  </actor>
+  <actor>
+    <name>Teruyuki Kagawa</name>
+    <role>Gilmore (voice)</role>
+    <type>Actor</type>
+    <tmdbid>46691</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Rokoroko (voice)</role>
+    <type>Actor</type>
+    <tmdbid>149894</tmdbid>
+    <imdbid>nm2569233</imdbid>
+  </actor>
+  <actor>
+    <name>Takashi Komaba</name>
+    <role>Pilot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3496249</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayu Matsuoka</name>
+    <role>Piina (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1130611</tmdbid>
+    <imdbid>nm3640154</imdbid>
+    <tvdbid>484001</tvdbid>
+  </actor>
+  <director tmdbid="1327767">Susumu Yamaguchi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7MGNOmpTm-E</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>映画トラえもん のひ太の宇宙小戦争 2021</sorttitle>
+  <imdbid>tt13740078</imdbid>
+  <tmdbid>782054</tmdbid>
+  <premiered>2022-03-04</premiered>
+  <releasedate>2022-03-04</releasedate>
+  <runtime>109</runtime>
+  <country>Japan</country>
+  <genre>Animación</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <genre>Familia</genre>
+  <studio>Shin-Ei Animation</studio>
+  <studio>Fujiko Productions</studio>
+  <studio>Shogakukan</studio>
+  <studio>TV Asahi</studio>
+  <studio>ADK Emotions</studio>
+  <studio>Shogakukan-Shueisha Productions</studio>
+  <set tmdbcolid="148065">
+    <name>Doraemon - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt13740078</uniqueid>
+  <uniqueid type="tmdb">782054</uniqueid>
+  <id>tt13740078</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149988</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6523</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129723</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La Dra. en literatura Alithea Binnie (Tilda Swinton) parece estar feliz con su vida aunque se enfrenta al mundo con cierto escepticismo. De repente, se encuentra con un genio (Idris Elba) que ofrece concederle tres deseos a cambio de su libertad. En un principio, Alithea se niega a aceptar la oferta ya que sabe que todos los cuentos sobre conceder deseos acaban mal. El genio defiende su posición contándole diversas historias fantásticas de su pasado. Finalmente, ella se deja persuadir y pedirá un deseo que sorprenderá a ambos.]]></plot>
+  <outline><![CDATA[¿Cuáles son tus 3 deseos?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-13 07:51:27</dateadded>
+  <title>Tres mil años esperándote</title>
+  <originaltitle>Three Thousand Years of Longing</originaltitle>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>Alithea Binnie</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Djinn</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+    <tvdbid>269501</tvdbid>
+  </actor>
+  <actor>
+    <name>Ece Yüksel</name>
+    <role>Gülten</role>
+    <type>Actor</type>
+    <tmdbid>1425008</tmdbid>
+  </actor>
+  <actor>
+    <name>Zerrin Tekindor</name>
+    <role>Kösem</role>
+    <type>Actor</type>
+    <tmdbid>1246608</tmdbid>
+  </actor>
+  <actor>
+    <name>Erdil Yaşaroğlu</name>
+    <role>Prof. Günhan</role>
+    <type>Actor</type>
+    <tmdbid>3549226</tmdbid>
+  </actor>
+  <actor>
+    <name>Lachy Hulme</name>
+    <role>Sultan Suleiman</role>
+    <type>Actor</type>
+    <tmdbid>75122</tmdbid>
+    <imdbid>nm0401522</imdbid>
+  </actor>
+  <actor>
+    <name>Ogulcan Arman Uslu</name>
+    <role>Murad IV</role>
+    <type>Actor</type>
+    <tmdbid>2781869</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaan Guldur</name>
+    <role>Young Murad IV</role>
+    <type>Actor</type>
+    <tmdbid>1877487</tmdbid>
+  </actor>
+  <actor>
+    <name>Alyla Browne</name>
+    <role>Young Alithea</role>
+    <type>Actor</type>
+    <tmdbid>2431565</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Mouawad</name>
+    <role>King Solomon</role>
+    <type>Actor</type>
+    <tmdbid>1926537</tmdbid>
+  </actor>
+  <actor>
+    <name>Angie Tricker</name>
+    <role>Narratologist</role>
+    <type>Actor</type>
+    <tmdbid>1922025</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayley Gia Hughes</name>
+    <role>London Uni. Student</role>
+    <type>Actor</type>
+    <tmdbid>2626574</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Jago</name>
+    <role>London Uni. Student</role>
+    <type>Actor</type>
+    <tmdbid>3549238</tmdbid>
+  </actor>
+  <actor>
+    <name>Seyithan Özdemir</name>
+    <type>Actor</type>
+    <tmdbid>1734532</tmdbid>
+  </actor>
+  <actor>
+    <name>Burcu Gölgedar</name>
+    <role>Zefir</role>
+    <type>Actor</type>
+    <tmdbid>3246756</tmdbid>
+  </actor>
+  <actor>
+    <name>Berk Ozturk</name>
+    <role>Semih The Driver / Bazar Young Shopkeeper</role>
+    <type>Actor</type>
+    <tmdbid>3549249</tmdbid>
+  </actor>
+  <actor>
+    <name>Pia Thunderbolt</name>
+    <role>Ezgi</role>
+    <type>Actor</type>
+    <tmdbid>3549281</tmdbid>
+  </actor>
+  <actor>
+    <name>Matteo Bocelli</name>
+    <role>Prince Mustafa</role>
+    <type>Actor</type>
+    <tmdbid>2200413</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Gale</name>
+    <role>Hürrem</role>
+    <type>Actor</type>
+    <tmdbid>1232126</tmdbid>
+    <imdbid>nm0301885</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Braddy</name>
+    <role>Ibrahim</role>
+    <type>Actor</type>
+    <tmdbid>3280454</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Jaffer</name>
+    <role>Clementine</role>
+    <type>Actor</type>
+    <tmdbid>82437</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Charleston</name>
+    <role>Fanny</role>
+    <type>Actor</type>
+    <tmdbid>1220131</tmdbid>
+  </actor>
+  <actor>
+    <name>Aamito Lagum</name>
+    <role>Queen of Sheba</role>
+    <type>Actor</type>
+    <tmdbid>3553907</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiden Mckenzie</name>
+    <role>Airport Passenger</role>
+    <type>Actor</type>
+    <tmdbid>3549242</tmdbid>
+  </actor>
+  <actor>
+    <name>Aska Karem</name>
+    <role>Airport Security Officer</role>
+    <type>Actor</type>
+    <tmdbid>3549244</tmdbid>
+  </actor>
+  <actor>
+    <name>Shakriya Tarinyawat</name>
+    <role>Businessman</role>
+    <type>Actor</type>
+    <tmdbid>3435712</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Vella</name>
+    <role>Young Ibrahim</role>
+    <type>Actor</type>
+    <tmdbid>3549268</tmdbid>
+  </actor>
+  <actor>
+    <name>John Puckeridge-Webb</name>
+    <role>London Uni. Student</role>
+    <type>Actor</type>
+    <tmdbid>2272458</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Adams</name>
+    <role>Sugar Lump</role>
+    <type>Actor</type>
+    <tmdbid>3549271</tmdbid>
+  </actor>
+  <actor>
+    <name>James Dobbins Jones</name>
+    <role>Narratology Student</role>
+    <type>Actor</type>
+    <tmdbid>3549273</tmdbid>
+  </actor>
+  <actor>
+    <name>Tendai Dzwairo</name>
+    <role>London Uni. Student</role>
+    <type>Actor</type>
+    <tmdbid>2060257</tmdbid>
+  </actor>
+  <actor>
+    <name>Randolph Fields</name>
+    <role>Airport Passenger</role>
+    <type>Actor</type>
+    <tmdbid>2507048</tmdbid>
+    <imdbid>nm11008409</imdbid>
+  </actor>
+  <actor>
+    <name>Amelia Patomaki</name>
+    <role>Airport Commuter</role>
+    <type>Actor</type>
+    <tmdbid>3283775</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Houbolt</name>
+    <role>Unsettling Man</role>
+    <type>Actor</type>
+    <tmdbid>1182880</tmdbid>
+  </actor>
+  <actor>
+    <name>Callum Moran</name>
+    <role>Lurking Bystander</role>
+    <type>Actor</type>
+    <tmdbid>3549283</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Miller</name>
+    <role>London Uni. Student</role>
+    <type>Actor</type>
+    <tmdbid>1580306</tmdbid>
+  </actor>
+  <actor>
+    <name>Feride Eralp</name>
+    <role>Female Hands</role>
+    <type>Actor</type>
+    <tmdbid>3579556</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgiou Thomas</name>
+    <role>Rüstem Pasha</role>
+    <type>Actor</type>
+    <tmdbid>3579557</tmdbid>
+  </actor>
+  <actor>
+    <name>Arshia Dehghani</name>
+    <role>Prince Cihangir</role>
+    <type>Actor</type>
+    <tmdbid>3579558</tmdbid>
+  </actor>
+  <actor>
+    <name>Talia Tulin Sert</name>
+    <role>Seraglio Concubine</role>
+    <type>Actor</type>
+    <tmdbid>3579559</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Kahraman</name>
+    <role>Airport Security Technician</role>
+    <type>Actor</type>
+    <tmdbid>3579560</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Susskind</name>
+    <role>Young Man Soccer Player</role>
+    <type>Actor</type>
+    <tmdbid>3579561</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronny Mouawad</name>
+    <role>Mustafa Janissary / Airport Surly Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>3054725</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelotti Edoardo</name>
+    <role>Mustafa Janissary</role>
+    <type>Actor</type>
+    <tmdbid>3579576</tmdbid>
+  </actor>
+  <actor>
+    <name>Prakash Paul</name>
+    <role>Mustafa Janissary</role>
+    <type>Actor</type>
+    <tmdbid>1858261</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Elba</name>
+    <role>The Watcher</role>
+    <type>Actor</type>
+    <tmdbid>2606660</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Porter</name>
+    <role>Juggler</role>
+    <type>Actor</type>
+    <tmdbid>3579578</tmdbid>
+  </actor>
+  <actor>
+    <name>Burwaiss Ahmed</name>
+    <role>Byzantium Labourer</role>
+    <type>Actor</type>
+    <tmdbid>3579579</tmdbid>
+  </actor>
+  <actor>
+    <name>Quaden Bayles</name>
+    <role>Quick Change Boy</role>
+    <type>Actor</type>
+    <tmdbid>3579580</tmdbid>
+  </actor>
+  <actor>
+    <name>Botan Ozer</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>3579582</tmdbid>
+  </actor>
+  <actor>
+    <name>David Collins</name>
+    <role>Ozmet the Jocular</role>
+    <type>Actor</type>
+    <tmdbid>150030</tmdbid>
+  </actor>
+  <actor>
+    <name>David Paulsen</name>
+    <role>Yael De Silva, Scholar of Narratology (Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>163641</tmdbid>
+  </actor>
+  <actor>
+    <name>Tahlia Crinis</name>
+    <role>Istbl Lecture Theatre Female (Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3549318</tmdbid>
+  </actor>
+  <director tmdbid="20629">George Miller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sTl4L3xj2x0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v93cgX_bhHw</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Tres mil anos esperandote</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9198364</imdbid>
+  <tmdbid>556694</tmdbid>
+  <premiered>2022-08-24</premiered>
+  <releasedate>2022-08-24</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>109</runtime>
+  <tagline>¿Cuáles son tus 3 deseos?</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Kennedy Miller Productions</studio>
+  <studio>FilmNation Entertainment</studio>
+  <studio>CAA Media Finance</studio>
+  <studio>Elevate Production Finance</studio>
+  <uniqueid type="tmdb">556694</uniqueid>
+  <uniqueid type="imdb">tt9198364</uniqueid>
+  <id>tt9198364</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1025300</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>959:400</aspect>
+        <aspectratio>959:400</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6518</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

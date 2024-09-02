@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Convencida de que las extrañas muertes de sus familiares fueron orquestadas por un novelista para quien trabajaba, Luciana recurre a un periodista para exponer su verdad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-15 09:20:09</dateadded>
+  <title>La ira de Dios</title>
+  <originaltitle>La ira de Dios</originaltitle>
+  <actor>
+    <name>Diego Peretti</name>
+    <role>Kloster</role>
+    <type>Actor</type>
+    <tmdbid>96429</tmdbid>
+    <imdbid>nm0673391</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Minujín</name>
+    <role>Esteban</role>
+    <type>Actor</type>
+    <tmdbid>140538</tmdbid>
+    <imdbid>nm1375877</imdbid>
+  </actor>
+  <actor>
+    <name>Macarena Achaga</name>
+    <role>Luciana</role>
+    <type>Actor</type>
+    <tmdbid>1415545</tmdbid>
+    <tvdbid>7916846</tvdbid>
+  </actor>
+  <actor>
+    <name>Mónica Antonópulos</name>
+    <role>Mercedes</role>
+    <type>Actor</type>
+    <tmdbid>1372508</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Arengo</name>
+    <role>Padre</role>
+    <type>Actor</type>
+    <tmdbid>50927</tmdbid>
+    <imdbid>nm1297986</imdbid>
+  </actor>
+  <actor>
+    <name>Romina Pinto</name>
+    <role>Madre</role>
+    <type>Actor</type>
+    <tmdbid>1082014</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Merlo</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>1094741</tmdbid>
+    <imdbid>nm3788480</imdbid>
+  </actor>
+  <actor>
+    <name>Ornella D'Elía</name>
+    <role>Valentina (17)</role>
+    <type>Actor</type>
+    <tmdbid>2406327</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Achaga</name>
+    <role>Ramiro</role>
+    <type>Actor</type>
+    <tmdbid>2126332</tmdbid>
+  </actor>
+  <actor>
+    <name>Juanita Reale</name>
+    <role>Pauli</role>
+    <type>Actor</type>
+    <tmdbid>3590400</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Lapadula</name>
+    <role>Barrios</role>
+    <type>Actor</type>
+    <tmdbid>2737277</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisandro Fiks</name>
+    <role>Fiscal Ramoneda</role>
+    <type>Actor</type>
+    <tmdbid>3084573</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Waisbein</name>
+    <role>Camila</role>
+    <type>Actor</type>
+    <tmdbid>2022320</tmdbid>
+  </actor>
+  <actor>
+    <name>Germán de Silva</name>
+    <role>Jefe de redacción</role>
+    <type>Actor</type>
+    <tmdbid>50928</tmdbid>
+    <imdbid>nm1253955</imdbid>
+  </actor>
+  <actor>
+    <name>Silvina Sabater</name>
+    <role>Abogada</role>
+    <type>Actor</type>
+    <tmdbid>1908266</tmdbid>
+  </actor>
+  <actor>
+    <name>Briana Patino</name>
+    <role>Valentina (9)</role>
+    <type>Actor</type>
+    <tmdbid>3620470</tmdbid>
+  </actor>
+  <actor>
+    <name>Agostina Parreira</name>
+    <role>Valentina (5)</role>
+    <type>Actor</type>
+    <tmdbid>3620472</tmdbid>
+  </actor>
+  <director tmdbid="1321245" imdbid="nm0994416">Sebastián Schindel</director>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>ira de Dios</sorttitle>
+  <imdbid>tt15189534</imdbid>
+  <tmdbid>880313</tmdbid>
+  <premiered>2022-06-15</premiered>
+  <releasedate>2022-06-15</releasedate>
+  <criticrating>29</criticrating>
+  <runtime>98</runtime>
+  <country>Argentina</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Buffalo Films</studio>
+  <uniqueid type="imdb">tt15189534</uniqueid>
+  <uniqueid type="tmdb">880313</uniqueid>
+  <id>tt15189534</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>923561</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5908</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63414</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

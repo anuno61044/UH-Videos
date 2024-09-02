@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Vicky vive con sus padres, Joanne y Jimmie. Si padre es un hombre que trata de dejar el pasado atrás y encontrar su camino y su lugar en la familia. Cuando la tía de Vicky, Julia, llega de nuevo a sus vidas después de salir de prisión, su presencia remueva viejos recuerdos familiares que descuadrarán la estructura del hogar en el que vive Vicky.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-30 09:21:56</dateadded>
+  <title>Los cinco diablos</title>
+  <originaltitle>Les Cinq diables</originaltitle>
+  <actor>
+    <name>Adèle Exarchopoulos</name>
+    <role>Joanne</role>
+    <type>Actor</type>
+    <tmdbid>586757</tmdbid>
+    <imdbid>nm2650819</imdbid>
+  </actor>
+  <actor>
+    <name>Sally Dramé</name>
+    <role>Vicky</role>
+    <type>Actor</type>
+    <tmdbid>3060146</tmdbid>
+  </actor>
+  <actor>
+    <name>Swala Emati</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>3060147</tmdbid>
+  </actor>
+  <actor>
+    <name>Moustapha Mbengue</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1995157</tmdbid>
+  </actor>
+  <actor>
+    <name>Daphne Patakia</name>
+    <role>Nadine</role>
+    <type>Actor</type>
+    <tmdbid>1527148</tmdbid>
+    <imdbid>nm7346682</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Bouchitey</name>
+    <role>Jean-Yvon</role>
+    <type>Actor</type>
+    <tmdbid>35911</tmdbid>
+  </actor>
+  <actor>
+    <name>Noée Abita</name>
+    <role>La serveuse (caméo)</role>
+    <type>Actor</type>
+    <tmdbid>1800818</tmdbid>
+  </actor>
+  <actor>
+    <name>Merwan Rim</name>
+    <role>Disc jockey</role>
+    <type>Actor</type>
+    <tmdbid>572476</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonia Buresi</name>
+    <role>Une mère d'élève (caméo)</role>
+    <type>Actor</type>
+    <tmdbid>1956832</tmdbid>
+  </actor>
+  <director tmdbid="1702466">Léa Mysius</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3HMIPbqT58g</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Los cinco diablos</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt13391708</imdbid>
+  <tmdbid>820697</tmdbid>
+  <premiered>2022-08-31</premiered>
+  <releasedate>2022-08-31</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>96</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Fantasía</genre>
+  <studio>Canal+</studio>
+  <studio>CNC</studio>
+  <studio>Ciné+</studio>
+  <studio>F Comme Film</studio>
+  <studio>Cinéventure</studio>
+  <studio>Trois Brigands Productions</studio>
+  <studio>Division</studio>
+  <studio>Auvergne-Rhône-Alpes Cinéma</studio>
+  <uniqueid type="imdb">tt13391708</uniqueid>
+  <uniqueid type="tmdb">820697</uniqueid>
+  <id>tt13391708</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2625013</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5763</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

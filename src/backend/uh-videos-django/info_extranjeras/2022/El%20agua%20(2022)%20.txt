@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Es verano en un pequeño pueblo del sureste de España. Una tormenta amenaza con volver a desbordar el río que lo atraviesa. Una vieja creencia popular afirma que algunas mujeres están predestinadas a desaparecer con cada nueva inundación porque tienen "el agua adentro". Ana (Luna Pamies) vive con su madre (Bárbara Lennie) y con su abuela (Nieve de Medina) en una casa a la que el resto del pueblo mira con suspicacia. En medio de la atmósfera eléctrica que precede a la lluvia, Ana conoce a José (Alberto Olmo) a la vez que lucha por aventar a los fantasmas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-03 11:25:36</dateadded>
+  <title>El agua</title>
+  <originaltitle>El agua</originaltitle>
+  <actor>
+    <name>Bárbara Lennie</name>
+    <role>Isabella</role>
+    <type>Actor</type>
+    <tmdbid>724188</tmdbid>
+    <imdbid>nm1036659</imdbid>
+  </actor>
+  <actor>
+    <name>Nieve de Medina</name>
+    <role>La Grand-mère d’Ana</role>
+    <type>Actor</type>
+    <tmdbid>16869</tmdbid>
+    <imdbid>nm0210221</imdbid>
+  </actor>
+  <actor>
+    <name>Luna Pamiés</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>3492069</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Olmo</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>3492070</tmdbid>
+  </actor>
+  <actor>
+    <name>Irene Pellicer</name>
+    <role>Cristina</role>
+    <type>Actor</type>
+    <tmdbid>3660161</tmdbid>
+  </actor>
+  <actor>
+    <name>Nayara Garcia</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>3660162</tmdbid>
+  </actor>
+  <actor>
+    <name>Lidia Maria Canovas</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>3660163</tmdbid>
+  </actor>
+  <actor>
+    <name>Pascual Valero</name>
+    <role>Le père de José</role>
+    <type>Actor</type>
+    <tmdbid>3660164</tmdbid>
+  </actor>
+  <director tmdbid="1659438">Elena López Riera</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ugL5yqKExOM</trailer>
+  <rating>6</rating>
+  <year>2022</year>
+  <sorttitle>agua</sorttitle>
+  <imdbid>tt14300504</imdbid>
+  <tmdbid>936386</tmdbid>
+  <premiered>2022-11-04</premiered>
+  <releasedate>2022-11-04</releasedate>
+  <runtime>105</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <country>Switzerland</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Les films du Worso</studio>
+  <studio>Suica Films</studio>
+  <studio>Alina Film</studio>
+  <uniqueid type="imdb">tt14300504</uniqueid>
+  <uniqueid type="tmdb">936386</uniqueid>
+  <id>tt14300504</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1499258</bitrate>
+        <width>720</width>
+        <height>404</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6287</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Peter von Kant es un director de cine de éxito. Vive con su asistente Karl, a quien le gusta maltratar y humillar. Sidonie es la gran actriz que fue su musa durante muchos años. Ella es quien le presenta a Amir, un apuesto joven de escasos recursos. Peter se enamora de Amir al instante, le ofrece alojamiento en su apartamento y ayudarle a entrar en la industria del cine. El plan funciona, pero en cuanto adquiere fama, Amir rompe con Peter, dejándole solo enfrentandose a sus demonios. Adaptación libre de 'Las amargas lágrimas de Petra von Kant' de Rainer Werner Fassbinder.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-10 22:35:34</dateadded>
+  <title>Peter von Kant</title>
+  <originaltitle>Peter von Kant</originaltitle>
+  <actor>
+    <name>Denis Ménochet</name>
+    <role>Peter von Kant</role>
+    <type>Actor</type>
+    <tmdbid>81125</tmdbid>
+    <imdbid>nm1616970</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Adjani</name>
+    <role>Sidonie</role>
+    <type>Actor</type>
+    <tmdbid>6553</tmdbid>
+  </actor>
+  <actor>
+    <name>Khalil Ben Gharbia</name>
+    <role>Amir</role>
+    <type>Actor</type>
+    <tmdbid>2725175</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanna Schygulla</name>
+    <role>Rosemarie</role>
+    <type>Actor</type>
+    <tmdbid>3734</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Crepon</name>
+    <role>Karl</role>
+    <type>Actor</type>
+    <tmdbid>2601088</tmdbid>
+  </actor>
+  <actor>
+    <name>Aminthe Audiard</name>
+    <role>Gabrielle</role>
+    <type>Actor</type>
+    <tmdbid>1558105</tmdbid>
+  </actor>
+  <director tmdbid="4387" imdbid="nm0654830">François Ozon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-H9LU1mSJ94</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Peter von Kant</sorttitle>
+  <imdbid>tt14336174</imdbid>
+  <tmdbid>807862</tmdbid>
+  <premiered>2022-07-06</premiered>
+  <releasedate>2022-07-06</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>85</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>France 2 Cinéma</studio>
+  <studio>SCOPE Pictures</studio>
+  <studio>Playtime</studio>
+  <uniqueid type="imdb">tt14336174</uniqueid>
+  <uniqueid type="tmdb">807862</uniqueid>
+  <id>tt14336174</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>880817</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>85</duration>
+        <durationinseconds>5115</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

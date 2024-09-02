@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-12 07:59:19</dateadded>
+  <title>Close</title>
+  <originaltitle>Close</originaltitle>
+  <actor>
+    <name>Eden Dambrine</name>
+    <role>Léo</role>
+    <type>Actor</type>
+    <tmdbid>3505950</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustav De Waele</name>
+    <role>Rémi</role>
+    <type>Actor</type>
+    <tmdbid>3553983</tmdbid>
+  </actor>
+  <actor>
+    <name>Émilie Dequenne</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>23671</tmdbid>
+    <imdbid>nm0220183</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Drucker</name>
+    <role>Nathalie</role>
+    <type>Actor</type>
+    <tmdbid>19360</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Janssens</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>220990</tmdbid>
+  </actor>
+  <actor>
+    <name>Igor van Dessel</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1553327</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Weiss</name>
+    <role>Yves</role>
+    <type>Actor</type>
+    <tmdbid>3198127</tmdbid>
+  </actor>
+  <actor>
+    <name>Léon Bataille</name>
+    <role>Baptiste</role>
+    <type>Actor</type>
+    <tmdbid>3747704</tmdbid>
+  </actor>
+  <actor>
+    <name>Elodie Barthels</name>
+    <role>Parent at the school doors</role>
+    <type>Actor</type>
+    <tmdbid>3654143</tmdbid>
+  </actor>
+  <director tmdbid="1274468">Lukas Dhont</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LT_D52cCdVQ</trailer>
+  <rating>7.8</rating>
+  <year>2022</year>
+  <sorttitle>Close</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9660502</imdbid>
+  <tmdbid>901563</tmdbid>
+  <premiered>2022-11-01</premiered>
+  <releasedate>2022-11-01</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>104</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>Netherlands</country>
+  <genre>Drama</genre>
+  <studio>Agat Films &amp; Cie / Ex Nihilo</studio>
+  <studio>Diaphana Films</studio>
+  <studio>Eurimages</studio>
+  <studio>Versus Production</studio>
+  <studio>Menuet</studio>
+  <studio>Les Films Velvet</studio>
+  <studio>The Match Factory</studio>
+  <studio>Topkapi Films</studio>
+  <uniqueid type="imdb">tt9660502</uniqueid>
+  <uniqueid type="tmdb">901563</uniqueid>
+  <id>tt9660502</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1667216</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.935438</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6236</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>194667</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

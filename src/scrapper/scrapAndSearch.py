@@ -1,93 +1,55 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import time
 import re
 
+
 class Principal:
-    """
-    Clase Principal para realizar scraping de archivos de video desde un sitio web específico.
-
-    Atributos:
-    ----------
-    s : str
-        Almacena las URLs de los archivos de video encontrados.
-    base_url : str
-        La URL base desde la cual se inicia el proceso de scraping.
-
-    Métodos:
-    --------
-    run():
-        Ejecuta el proceso completo de scraping, desde la búsqueda hasta la escritura en un archivo.
-    search_files():
-        Inicia el proceso de scraping llamando al método recursivo que busca en la URL base.
-    search_recursive(url):
-        Realiza el scraping recursivo en una URL dada, buscando archivos de video y subdirectorios.
-    """
 
     def __init__(self):
-        """
-        Inicializa la clase Principal con la URL base y una cadena vacía para almacenar los resultados.
-        """
-        self.s = ""  # Almacena las URLs de los archivos de video encontrados
-        self.base_url = "https://visuales.uclv.cu/Peliculas/Extranjeras/"
+        self.year = 2021
+        self.base_url = f'https://visuales.uclv.cu/Peliculas/Extranjeras/{self.year}/'
 
     def run(self):
-        """
-        Ejecuta el proceso completo de scraping.
-        Mide el tiempo que demora el proceso y escribe los resultados en un archivo de texto.
-        """
+
         start = time.time()
 
-        # Obtener el nombre del directorio final de la URL base para usarlo como nombre de archivo
         x = self.base_url.split("/")[-2]
-        file = open(f"./{x}.txt", "w")
         
         print('🏃 Scrapping...')
         self.search_files()
 
-        # Escribir los resultados en el archivo y cerrarlo
-        file.write(self.s)
-        file.close()
-
         print(f"⏰ Demoró {(time.time() - start)/60} minutos")
 
     def search_files(self):
-        """
-        Inicia el proceso de scraping desde la URL base.
-        Llama al método recursivo para buscar archivos y subdirectorios.
-        """
+
         print(f'Comienza el scrappeo en {self.base_url}...')
         self.search_recursive(self.base_url)
 
     def search_recursive(self, url):
-        """
-        Realiza el scraping recursivo en una URL dada.
-        Busca archivos de video y subdirectorios, y maneja errores de conexión.
 
-        Parámetros:
-        -----------
-        url : str
-            La URL en la que se realizará la búsqueda de archivos y subdirectorios.
-        """
         intime = True
         while intime:
             try:
                 response = requests.get(url, timeout=15)
                 intime = False
             except requests.exceptions.Timeout:
-                print("❌ Fallo de conexión por tiempo de espera")
+                print("❌ Fallo de conexión")
             except requests.exceptions.ConnectionError:
                 print("💣 Fallo de conexión")
 
         if response.status_code == 200:
+
             soup = BeautifulSoup(response.text, "html.parser")
 
-            falses = 5  # El primer enlace busca al padre, se ignoran los primeros 5 enlaces
+            falses = 5 # Pq el primer enlace busca al padre
 
             for link in soup.find_all("a"):
+
                 if falses:
-                    falses -= 1
+                    falses-=1
                     continue
 
                 href = link.get("href")
@@ -98,10 +60,44 @@ class Principal:
                     self.search_recursive(subdirectory_url)
                 else:
                     filename = href.split("/")[-1]
-                    if re.search(r'(mpg|avi|mkv|mp4|3gp)$', filename):
-                        self.s += url + filename + '\n'
-                        print(f'🟢 Encontrado: {url + filename}')  
+                    if re.search(r'(nfo)$', filename):
+                        subdirectory_url = urljoin(url, href)
+                        print(f'🕵️  Buscando en la pagina {subdirectory_url}...')
+                        self.get_info(subdirectory_url)
+                        return
                     else:
                         print(f'🗑️  Archivo no interesante: {url + filename}')
+
         else:
-            print("❌ URL incorrecta") 
+            print("❌ URL incorrecta")             
+
+    def get_info(self, url):
+        name = url.split("/")[-2]
+        
+        if not os.path.exists(f'../backend/uh-videos-django/info_extranjeras/{self.year}/{name}.txt'):
+            # Hacer una solicitud a la página web
+            response = requests.get(url, timeout=15)
+
+            # Obtener el contenido HTML
+            html_content = response.text
+
+            # Guardar el HTML en un archivo .txt
+            with open(f'../backend/uh-videos-django/info_extranjeras/{self.year}/{name}.txt', 'w', encoding='utf-8') as file:
+                file.write(html_content)
+                
+            # # Guardar el HTML en un archivo .txt
+            # with open(f'./info_extranjeras/2022/{name}.txt', 'w', encoding='utf-8') as file:
+            #     file.write(html_content)
+
+            print(f'El archivo ha sido guardado en {name}.txt')
+        else:
+            print(f'El archivo ya había sido guardado en {name}.txt')
+            
+        
+def main():
+    search_extranjeras = Principal()
+    search_extranjeras.run()
+
+
+if __name__ == "__main__":
+    main()

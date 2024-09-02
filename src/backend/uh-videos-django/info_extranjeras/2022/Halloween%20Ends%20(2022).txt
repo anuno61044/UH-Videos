@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuatro años después de los eventos de Halloween en 2018, Laurie ha decidido liberarse del miedo y la ira y abrazar la vida. Pero cuando un joven es acusado de matar a un niño que estaba cuidando, se enciende una cascada de violencia y terror que obligará a Laurie a enfrentarse finalmente al mal que no puede controlar, de una vez por todas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-14 15:47:32</dateadded>
+  <title>Halloween: El final</title>
+  <originaltitle>Halloween Ends</originaltitle>
+  <actor>
+    <name>Jamie Lee Curtis</name>
+    <role>Laurie Strode</role>
+    <type>Actor</type>
+    <tmdbid>8944</tmdbid>
+    <imdbid>nm0000130</imdbid>
+  </actor>
+  <actor>
+    <name>Andi Matichak</name>
+    <role>Allyson Nelson</role>
+    <type>Actor</type>
+    <tmdbid>1511997</tmdbid>
+    <imdbid>nm5506858</imdbid>
+  </actor>
+  <actor>
+    <name>Rohan Campbell</name>
+    <role>Corey Cunningham</role>
+    <type>Actor</type>
+    <tmdbid>1196041</tmdbid>
+    <imdbid>nm3340982</imdbid>
+  </actor>
+  <actor>
+    <name>Will Patton</name>
+    <role>Frank Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>883</tmdbid>
+    <imdbid>nm0001599</imdbid>
+    <tvdbid>333716</tvdbid>
+  </actor>
+  <actor>
+    <name>James Jude Courtney</name>
+    <role>The Shape</role>
+    <type>Actor</type>
+    <tmdbid>1267684</tmdbid>
+    <imdbid>nm0183921</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Richards</name>
+    <role>Lindsey Wallace</role>
+    <type>Actor</type>
+    <tmdbid>15503</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar J. Dorsey</name>
+    <role>Sheriff Barker</role>
+    <type>Actor</type>
+    <tmdbid>59844</tmdbid>
+    <imdbid>nm0234174</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse C. Boyd</name>
+    <role>Officer Doug Mulaney</role>
+    <type>Actor</type>
+    <tmdbid>180300</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanne Baron</name>
+    <role>Joan Cunningham</role>
+    <type>Actor</type>
+    <tmdbid>59846</tmdbid>
+    <imdbid>nm0056249</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Moose</name>
+    <role>Ronald</role>
+    <type>Actor</type>
+    <tmdbid>2053001</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Barbieri</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>1551547</tmdbid>
+  </actor>
+  <actor>
+    <name>Destiny Mone</name>
+    <role>Stacy</role>
+    <type>Actor</type>
+    <tmdbid>3740402</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Harris</name>
+    <role>Margo</role>
+    <type>Actor</type>
+    <tmdbid>3740404</tmdbid>
+  </actor>
+  <actor>
+    <name>Marteen</name>
+    <role>Billy</role>
+    <type>Actor</type>
+    <tmdbid>3740408</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael O'Leary</name>
+    <role>Dr. Mathis</role>
+    <type>Actor</type>
+    <tmdbid>2494620</tmdbid>
+  </actor>
+  <actor>
+    <name>Michele Dawson</name>
+    <role>Nurse Deb</role>
+    <type>Actor</type>
+    <tmdbid>3408430</tmdbid>
+  </actor>
+  <actor>
+    <name>Keraun Harris</name>
+    <role>Willy the Kid</role>
+    <type>Actor</type>
+    <tmdbid>1679488</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaxon Goldenberg</name>
+    <role>Jeremy</role>
+    <type>Actor</type>
+    <tmdbid>3039091</tmdbid>
+  </actor>
+  <actor>
+    <name>Candice Rose</name>
+    <role>Mrs. Allen</role>
+    <type>Actor</type>
+    <tmdbid>171525</tmdbid>
+    <imdbid>nm0741288</imdbid>
+  </actor>
+  <actor>
+    <name>Jack William Marshall</name>
+    <role>Mr. Allen</role>
+    <type>Actor</type>
+    <tmdbid>2729395</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Prince</name>
+    <role>Radio Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1175215</tmdbid>
+  </actor>
+  <actor>
+    <name>Turcotte Nancy</name>
+    <role>Gas Station Proprietor</role>
+    <type>Actor</type>
+    <tmdbid>3740436</tmdbid>
+  </actor>
+  <actor>
+    <name>Diva Tyler</name>
+    <role>Sondra</role>
+    <type>Actor</type>
+    <tmdbid>1546659</tmdbid>
+    <imdbid>nm3818686</imdbid>
+  </actor>
+  <actor>
+    <name>Leila Wilson</name>
+    <role>Sondra's Sister</role>
+    <type>Actor</type>
+    <tmdbid>2071548</tmdbid>
+  </actor>
+  <actor>
+    <name>Blaque Fowler</name>
+    <role>Vagabond</role>
+    <type>Actor</type>
+    <tmdbid>1527775</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Demil</name>
+    <role>Terry's Father</role>
+    <type>Actor</type>
+    <tmdbid>1410768</tmdbid>
+  </actor>
+  <actor>
+    <name>Holli Saperstein</name>
+    <role>Oscar's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1205390</tmdbid>
+    <imdbid>nm5079660</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Meece</name>
+    <role>Detective #1</role>
+    <type>Actor</type>
+    <tmdbid>3740440</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmie Cummings</name>
+    <role>Detective #2</role>
+    <type>Actor</type>
+    <tmdbid>1957267</tmdbid>
+  </actor>
+  <actor>
+    <name>Montarius Dailey</name>
+    <role>Detective #3</role>
+    <type>Actor</type>
+    <tmdbid>3740442</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Williby</name>
+    <role>Responding Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>3740443</tmdbid>
+  </actor>
+  <actor>
+    <name>Jibrail Nantambu</name>
+    <role>Julian</role>
+    <type>Actor</type>
+    <tmdbid>2019566</tmdbid>
+  </actor>
+  <actor>
+    <name>Javanna Rogers</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3740445</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Bruce</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3740447</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Brown</name>
+    <role>Coroner</role>
+    <type>Actor</type>
+    <tmdbid>1227419</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Brinkley</name>
+    <role>The Butcher</role>
+    <type>Actor</type>
+    <tmdbid>3740449</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Castle</name>
+    <role>Flasher</role>
+    <type>Actor</type>
+    <tmdbid>14692</tmdbid>
+    <imdbid>nm0145309</imdbid>
+  </actor>
+  <actor>
+    <name>Robbie Johnson</name>
+    <role>Haddonfield Resident (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3891980</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie McIntyre</name>
+    <role>Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1622606</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Brinks</name>
+    <role>Dead Lover (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3218081</tmdbid>
+  </actor>
+  <actor>
+    <name>William Brooks Perez</name>
+    <role>Warren County Deputy #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3611918</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Lemmon</name>
+    <role>Warren County Deputy #4 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3394529</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicky Lawrence</name>
+    <role>Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1963304</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph D. Webb</name>
+    <role>Bar Nun (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3442408</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawn Lasusky</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3611919</tmdbid>
+  </actor>
+  <actor>
+    <name>Dillon Belisle</name>
+    <role>Drunk Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3702041</tmdbid>
+  </actor>
+  <actor>
+    <name>Russel Bryan Winstead</name>
+    <role>Off Duty Deputy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3702043</tmdbid>
+  </actor>
+  <actor>
+    <name>Judy Greer</name>
+    <role>Karen Nelson (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>20750</tmdbid>
+    <imdbid>nm0339460</imdbid>
+    <tvdbid>248132</tvdbid>
+  </actor>
+  <actor>
+    <name>Drew Scheid</name>
+    <role>Oscar (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1944274</tmdbid>
+    <imdbid>nm5902264</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Arnold</name>
+    <role>Cameron Elam (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1039523</tmdbid>
+    <imdbid>nm4003553</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Smallwood</name>
+    <role>Marcus (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1874944</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmela McNeal</name>
+    <role>Vanessa (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1832264</tmdbid>
+  </actor>
+  <actor>
+    <name>Nedim Jahić</name>
+    <role>Logan Visser</role>
+    <type>Actor</type>
+    <tmdbid>3750574</tmdbid>
+  </actor>
+  <director tmdbid="64141" imdbid="nm0337773">David Gordon Green</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=81hDmURBqts</trailer>
+  <rating>5</rating>
+  <year>2022</year>
+  <sorttitle>Halloween: El final</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10665342</imdbid>
+  <tmdbid>616820</tmdbid>
+  <premiered>2022-10-12</premiered>
+  <releasedate>2022-10-12</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>111</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Miramax</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Trancas International Films</studio>
+  <studio>Rough House Pictures</studio>
+  <set tmdbcolid="91361">
+    <name>Halloween - Colección</name>
+  </set>
+  <uniqueid type="tmdb">616820</uniqueid>
+  <uniqueid type="imdb">tt10665342</uniqueid>
+  <id>tt10665342</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1004991</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6653</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

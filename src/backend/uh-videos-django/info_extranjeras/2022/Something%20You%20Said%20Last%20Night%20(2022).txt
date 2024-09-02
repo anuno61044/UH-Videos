@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA["Aquello que me contaste" es un drama existencialista que se centra en la vida de Ren, una joven trans que se enfrenta al complejo desafío de encontrar un equilibrio entre su anhelo de independencia y la comodidad de la vida familiar. La serie profundiza en las dinámicas de las relaciones familiares, explorando temas de afecto, apego y, simultáneamente, la búsqueda de la autonomía personal. A través de Ren, se abordan sus inseguridades, contradicciones y los conflictos internos y con su entorno, especialmente en su relación con sus hermanas. Es una historia conmovedora y reveladora que refleja las luchas y descubrimientos de una joven en su camino hacia la autoaceptación y la realización personal.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-12-29 07:50:20</dateadded>
+  <title>Aquello que me contaste</title>
+  <originaltitle>Something You Said Last Night</originaltitle>
+  <actor>
+    <name>Carmen Madonia</name>
+    <role>Ren</role>
+    <type>Actor</type>
+    <tmdbid>3770072</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramona Milano</name>
+    <role>Mona</role>
+    <type>Actor</type>
+    <tmdbid>1225402</tmdbid>
+  </actor>
+  <actor>
+    <name>Paige Evans</name>
+    <role>Sienna</role>
+    <type>Actor</type>
+    <tmdbid>3203290</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Parro</name>
+    <role>Guido</role>
+    <type>Actor</type>
+    <tmdbid>1423376</tmdbid>
+  </actor>
+  <actor>
+    <name>Xxavier Woon-A-Tai</name>
+    <role>Lani</role>
+    <type>Actor</type>
+    <tmdbid>3770080</tmdbid>
+  </actor>
+  <actor>
+    <name>Augustus Oicle</name>
+    <type>Actor</type>
+    <tmdbid>2210263</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Balen</name>
+    <type>Actor</type>
+    <tmdbid>3770081</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Catherine</name>
+    <type>Actor</type>
+    <tmdbid>2226963</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmelo Nelson</name>
+    <type>Actor</type>
+    <tmdbid>3770084</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Starnino</name>
+    <type>Actor</type>
+    <tmdbid>1627228</tmdbid>
+  </actor>
+  <director tmdbid="1968260">Luis De Filippis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L1UZxFspzpQ</trailer>
+  <rating>6.4</rating>
+  <year>2023</year>
+  <sorttitle>Aquello que me contaste</sorttitle>
+  <imdbid>tt21413834</imdbid>
+  <tmdbid>1008408</tmdbid>
+  <premiered>2023-07-07</premiered>
+  <releasedate>2023-07-07</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>96</runtime>
+  <country>Canada</country>
+  <country>Switzerland</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <uniqueid type="tmdb">1008408</uniqueid>
+  <uniqueid type="imdb">tt21413834</uniqueid>
+  <id>tt21413834</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149552</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>13:7</aspect>
+        <aspectratio>13:7</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5778</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129039</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>bg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>mk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

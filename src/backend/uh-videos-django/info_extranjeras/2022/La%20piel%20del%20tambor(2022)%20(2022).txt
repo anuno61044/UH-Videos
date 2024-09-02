@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras hackear el ordenador del Papa, un hacker desconocido deja un mensaje sobre unos misteriosos sucesos que tuvieron lugar en una antigua iglesia de Sevilla. El Vaticano instruye al padre Kuart para que investigue este caso en secreto. Pero, ¿el antiguo templo aceptará compartir sus secretos o castigará a cualquiera que se atreva a llegar a ellos?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-30 09:19:41</dateadded>
+  <title>La piel del tambor</title>
+  <originaltitle>The Man from Rome</originaltitle>
+  <actor>
+    <name>Richard Armitage</name>
+    <role>Father Quart</role>
+    <type>Actor</type>
+    <tmdbid>30315</tmdbid>
+    <imdbid>nm0035514</imdbid>
+    <tvdbid>304773</tvdbid>
+  </actor>
+  <actor>
+    <name>Franco Nero</name>
+    <role>The Pope</role>
+    <type>Actor</type>
+    <tmdbid>22383</tmdbid>
+    <imdbid>nm0626259</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Freeman</name>
+    <role>Father Ferro</role>
+    <type>Actor</type>
+    <tmdbid>652</tmdbid>
+    <imdbid>nm0293550</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Cuevas</name>
+    <role>Father Cooey</role>
+    <type>Actor</type>
+    <tmdbid>1261476</tmdbid>
+    <imdbid>nm1507717</imdbid>
+    <tvdbid>295045</tvdbid>
+  </actor>
+  <actor>
+    <name>Fionnula Flanagan</name>
+    <role>Duchess Cruz Bruner</role>
+    <type>Actor</type>
+    <tmdbid>58068</tmdbid>
+    <imdbid>nm0001217</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Guilfoyle</name>
+    <role>Monsignor Spada</role>
+    <type>Actor</type>
+    <tmdbid>925</tmdbid>
+    <tvdbid>267370</tvdbid>
+  </actor>
+  <actor>
+    <name>Will Keen</name>
+    <role>Archbishop Corvo</role>
+    <type>Actor</type>
+    <tmdbid>51119</tmdbid>
+    <imdbid>nm1652308</imdbid>
+    <tvdbid>361335</tvdbid>
+  </actor>
+  <actor>
+    <name>Amaia Salamanca</name>
+    <role>Macarena Bruner</role>
+    <type>Actor</type>
+    <tmdbid>125854</tmdbid>
+    <imdbid>nm2319146</imdbid>
+    <tvdbid>522023</tvdbid>
+  </actor>
+  <actor>
+    <name>Jorge Sanz</name>
+    <role>Fazil</role>
+    <type>Actor</type>
+    <tmdbid>145414</tmdbid>
+    <imdbid>nm0764450</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Vives</name>
+    <role>Father Oscar Lobato</role>
+    <type>Actor</type>
+    <tmdbid>484391</tmdbid>
+    <imdbid>nm2140346</imdbid>
+  </actor>
+  <actor>
+    <name>Unax Ugalde</name>
+    <role>Father Arregui</role>
+    <type>Actor</type>
+    <tmdbid>50994</tmdbid>
+    <imdbid>nm0880054</imdbid>
+    <tvdbid>550126</tvdbid>
+  </actor>
+  <actor>
+    <name>Féodor Atkine</name>
+    <role>Cardenal Iwaszkiewicz</role>
+    <type>Actor</type>
+    <tmdbid>20285</tmdbid>
+    <imdbid>nm0040545</imdbid>
+  </actor>
+  <actor>
+    <name>Rodolfo Sancho</name>
+    <role>Pencho Gavira</role>
+    <type>Actor</type>
+    <tmdbid>100669</tmdbid>
+    <imdbid>nm0761110</imdbid>
+  </actor>
+  <actor>
+    <name>Simón Andreu</name>
+    <role>Octavio Machuca</role>
+    <type>Actor</type>
+    <tmdbid>24496</tmdbid>
+    <imdbid>nm0028487</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Borrachero</name>
+    <role>Gris Marsala</role>
+    <type>Actor</type>
+    <tmdbid>25132</tmdbid>
+    <imdbid>nm0097304</imdbid>
+    <tvdbid>527285</tvdbid>
+  </actor>
+  <actor>
+    <name>Joe Manjón</name>
+    <role>Priest Geek</role>
+    <type>Actor</type>
+    <tmdbid>1971914</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Mallarino</name>
+    <role>Navajo</role>
+    <type>Actor</type>
+    <tmdbid>3720376</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ruano</name>
+    <role>Balaguer</role>
+    <type>Actor</type>
+    <tmdbid>2570300</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Palka</name>
+    <role>Cardinal Elio</role>
+    <type>Actor</type>
+    <tmdbid>1051059</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Zawisza</name>
+    <role>Father Kolja</role>
+    <type>Actor</type>
+    <tmdbid>3698906</tmdbid>
+  </actor>
+  <director tmdbid="2628918">Sergio Dow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y0GuhEP6kT4</trailer>
+  <rating>5.1</rating>
+  <year>2022</year>
+  <sorttitle>piel del tambor</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt4194974</imdbid>
+  <tmdbid>1029862</tmdbid>
+  <premiered>2022-10-21</premiered>
+  <releasedate>2022-10-21</releasedate>
+  <criticrating>13</criticrating>
+  <runtime>120</runtime>
+  <country>Colombia</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <studio>Enrique Cerezo</studio>
+  <studio>Spal Films</studio>
+  <studio>North by Northwest</studio>
+  <uniqueid type="imdb">tt4194974</uniqueid>
+  <uniqueid type="tmdb">1029862</uniqueid>
+  <id>tt4194974</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1060042</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.999722</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7200</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64357</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

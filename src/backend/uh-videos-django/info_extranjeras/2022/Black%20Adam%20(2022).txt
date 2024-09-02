@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Casi 5.000 años después de haber sido dotado de los poderes omnipotentes de los antiguos dioses y encarcelado con la misma rapidez, Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno.]]></plot>
+  <outline><![CDATA[Un poder nacido de la ira]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-22 08:29:40</dateadded>
+  <title>Black Adam</title>
+  <originaltitle>Black Adam</originaltitle>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Black Adam / Teth Adam</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+    <tvdbid>255089</tvdbid>
+  </actor>
+  <actor>
+    <name>Aldis Hodge</name>
+    <role>Hawkman / Carter Hall</role>
+    <type>Actor</type>
+    <tmdbid>83860</tmdbid>
+    <imdbid>nm0388038</imdbid>
+    <tvdbid>252469</tvdbid>
+  </actor>
+  <actor>
+    <name>Noah Centineo</name>
+    <role>Atom Smasher / Al Rothstein</role>
+    <type>Actor</type>
+    <tmdbid>1253353</tmdbid>
+    <imdbid>nm3170207</imdbid>
+    <tvdbid>466038</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Shahi</name>
+    <role>Adrianna Tomaz</role>
+    <type>Actor</type>
+    <tmdbid>164945</tmdbid>
+    <imdbid>nm1083404</imdbid>
+  </actor>
+  <actor>
+    <name>Quintessa Swindell</name>
+    <role>Cyclone / Maxine Hunkel</role>
+    <type>Actor</type>
+    <tmdbid>2042690</tmdbid>
+    <imdbid>nm9165599</imdbid>
+  </actor>
+  <actor>
+    <name>Marwan Kenzari</name>
+    <role>Ishmael / Sabbac / King Ahk-Ton</role>
+    <type>Actor</type>
+    <tmdbid>935235</tmdbid>
+    <imdbid>nm3092471</imdbid>
+  </actor>
+  <actor>
+    <name>Mo Amer</name>
+    <role>Karim</role>
+    <type>Actor</type>
+    <tmdbid>1293978</tmdbid>
+  </actor>
+  <actor>
+    <name>Bodhi Sabongui</name>
+    <role>Amon Tomaz</role>
+    <type>Actor</type>
+    <tmdbid>2426321</tmdbid>
+    <tvdbid>8127053</tvdbid>
+  </actor>
+  <actor>
+    <name>Pierce Brosnan</name>
+    <role>Dr. Fate / Kent Nelson</role>
+    <type>Actor</type>
+    <tmdbid>517</tmdbid>
+    <imdbid>nm0000112</imdbid>
+    <tvdbid>254202</tvdbid>
+  </actor>
+  <actor>
+    <name>James Cusati-Moyer</name>
+    <role>Samir</role>
+    <type>Actor</type>
+    <tmdbid>2430192</tmdbid>
+    <tvdbid>8191203</tvdbid>
+  </actor>
+  <actor>
+    <name>Jalon Christian</name>
+    <role>Hurut</role>
+    <type>Actor</type>
+    <tmdbid>1925441</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Patterson</name>
+    <role>Skinny Teth Adam</role>
+    <type>Actor</type>
+    <tmdbid>1230371</tmdbid>
+  </actor>
+  <actor>
+    <name>Odelya Halevi</name>
+    <role>Shiruta</role>
+    <type>Actor</type>
+    <tmdbid>1639904</tmdbid>
+  </actor>
+  <actor>
+    <name>Uli Latukefu</name>
+    <role>The Champion</role>
+    <type>Actor</type>
+    <tmdbid>1384511</tmdbid>
+    <imdbid>nm5937328</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Holland</name>
+    <role>Emilia Harcourt</role>
+    <type>Actor</type>
+    <tmdbid>87165</tmdbid>
+    <imdbid>nm1684744</imdbid>
+    <tvdbid>393463</tvdbid>
+  </actor>
+  <actor>
+    <name>Henry Winkler</name>
+    <role>Uncle Al</role>
+    <type>Actor</type>
+    <tmdbid>31903</tmdbid>
+    <imdbid>nm0001857</imdbid>
+  </actor>
+  <actor>
+    <name>Chaim Girafi</name>
+    <role>Djau</role>
+    <type>Actor</type>
+    <tmdbid>59350</tmdbid>
+    <imdbid>nm0320581</imdbid>
+  </actor>
+  <actor>
+    <name>Sharon Gee</name>
+    <role>Mrs. Farmer</role>
+    <type>Actor</type>
+    <tmdbid>1634619</tmdbid>
+    <imdbid>nm2587609</imdbid>
+  </actor>
+  <actor>
+    <name>Stephan Jones</name>
+    <role>Commander</role>
+    <type>Actor</type>
+    <tmdbid>6909</tmdbid>
+    <imdbid>nm1035580</imdbid>
+  </actor>
+  <actor>
+    <name>A. Manuel Miranda</name>
+    <role>Ancient Mine Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3763400</tmdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>Wizard</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Raj Kala</name>
+    <role>Wizard #1</role>
+    <type>Actor</type>
+    <tmdbid>1431483</tmdbid>
+    <imdbid>nm4360199</imdbid>
+  </actor>
+  <actor>
+    <name>E. Lloyd Napier</name>
+    <role>Wizard #2</role>
+    <type>Actor</type>
+    <tmdbid>2295515</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiara Rashawn</name>
+    <role>Wizard #3</role>
+    <type>Actor</type>
+    <tmdbid>3763403</tmdbid>
+  </actor>
+  <actor>
+    <name>Onye Eme-Akwari</name>
+    <role>Wizard #4</role>
+    <type>Actor</type>
+    <tmdbid>3016275</tmdbid>
+  </actor>
+  <actor>
+    <name>Sanna Erica</name>
+    <role>Wizard #5</role>
+    <type>Actor</type>
+    <tmdbid>2465248</tmdbid>
+  </actor>
+  <actor>
+    <name>Vince Canlas</name>
+    <role>Wizard #6</role>
+    <type>Actor</type>
+    <tmdbid>196934</tmdbid>
+  </actor>
+  <actor>
+    <name>Tonea Stewart</name>
+    <role>Wizard #7</role>
+    <type>Actor</type>
+    <tmdbid>18347</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghna Nagarajan</name>
+    <role>Apartment Resident</role>
+    <type>Actor</type>
+    <tmdbid>3763404</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Sabongui</name>
+    <role>Rami</role>
+    <type>Actor</type>
+    <tmdbid>102742</tmdbid>
+    <imdbid>nm1150775</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Parkinson</name>
+    <role>Chauffeur</role>
+    <type>Actor</type>
+    <tmdbid>3433788</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Gatt</name>
+    <role>Intergang Squad Leader</role>
+    <type>Actor</type>
+    <tmdbid>58508</tmdbid>
+    <imdbid>nm1395532</imdbid>
+  </actor>
+  <actor>
+    <name>Kamen Casey</name>
+    <role>Intergang Pilot #2</role>
+    <type>Actor</type>
+    <tmdbid>1923367</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Dawson</name>
+    <role>Intergang Pilot #3</role>
+    <type>Actor</type>
+    <tmdbid>3764469</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Senior</name>
+    <role>Intergang Pilot #4</role>
+    <type>Actor</type>
+    <tmdbid>1559690</tmdbid>
+    <imdbid>nm1911280</imdbid>
+  </actor>
+  <actor>
+    <name>Jermaine Rivers</name>
+    <role>Intergang Sniper</role>
+    <type>Actor</type>
+    <tmdbid>1838518</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina Ting Chen</name>
+    <role>Helicopter #1 Pilot #1</role>
+    <type>Actor</type>
+    <tmdbid>1613974</tmdbid>
+  </actor>
+  <actor>
+    <name>Sekou Laidlow</name>
+    <role>Helicopter #2 Pilot #1</role>
+    <type>Actor</type>
+    <tmdbid>172046</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Moir</name>
+    <role>Helicopter #2 Pilot #2</role>
+    <type>Actor</type>
+    <tmdbid>1310853</tmdbid>
+    <imdbid>nm3535043</imdbid>
+  </actor>
+  <actor>
+    <name>Donny Carrington</name>
+    <role>Checkpoint Mercenary #1</role>
+    <type>Actor</type>
+    <tmdbid>1769802</tmdbid>
+  </actor>
+  <actor>
+    <name>Boone Platt</name>
+    <role>Checkpoint Mercenary #2</role>
+    <type>Actor</type>
+    <tmdbid>2024835</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Fornah</name>
+    <role>Squad Mercenary #1</role>
+    <type>Actor</type>
+    <tmdbid>1310179</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Russo</name>
+    <role>Squad Mercenary #2</role>
+    <type>Actor</type>
+    <tmdbid>1628383</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Rosario Jr.</name>
+    <role>Squad Mercenary #3</role>
+    <type>Actor</type>
+    <tmdbid>3192942</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Nguyen</name>
+    <role>Squad Mercenary #13</role>
+    <type>Actor</type>
+    <tmdbid>587237</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Matthew Cook</name>
+    <role>Stairwell Mercenary #1</role>
+    <type>Actor</type>
+    <tmdbid>1358061</tmdbid>
+    <imdbid>nm4232922</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Ellie</name>
+    <role>Stairwell Mercenary #2</role>
+    <type>Actor</type>
+    <tmdbid>3764471</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Danca</name>
+    <role>Stairwell Mercenary #3</role>
+    <type>Actor</type>
+    <tmdbid>2874031</tmdbid>
+  </actor>
+  <actor>
+    <name>Yssa Mei Panganiban</name>
+    <role>Stairwell Mercenary #4</role>
+    <type>Actor</type>
+    <tmdbid>3348191</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Jenkin</name>
+    <role>Intergang Mercenary #8</role>
+    <type>Actor</type>
+    <tmdbid>1203115</tmdbid>
+  </actor>
+  <actor>
+    <name>Viola Davis</name>
+    <role>Amanda Waller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>19492</tmdbid>
+    <imdbid>nm0205626</imdbid>
+    <tvdbid>269662</tvdbid>
+  </actor>
+  <actor>
+    <name>Henry Cavill</name>
+    <role>Clark Kent / Superman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>73968</tmdbid>
+    <imdbid>nm0147147</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Burn</name>
+    <role>Revolutionary Mercenary #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>237445</tmdbid>
+    <imdbid>nm2238248</imdbid>
+  </actor>
+  <actor>
+    <name>Maurice T. Johnson</name>
+    <role>Ancient Slave (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3666830</tmdbid>
+  </actor>
+  <actor>
+    <name>Rahiem Riley</name>
+    <role>Foreign Resident (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2985280</tmdbid>
+  </actor>
+  <actor>
+    <name>Tre Ryan</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2825627</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Szilagyi</name>
+    <role>Mercenary 0 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3782773</tmdbid>
+  </actor>
+  <director tmdbid="59521" imdbid="nm1429471">Jaume Collet-Serra</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d6l24QSn2ww</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>Black Adam</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6443346</imdbid>
+  <tmdbid>436270</tmdbid>
+  <premiered>2022-10-19</premiered>
+  <releasedate>2022-10-19</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>125</runtime>
+  <tagline>Un poder nacido de la ira</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Fantasía</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Flynn Picture Company</studio>
+  <studio>Seven Bucks Productions</studio>
+  <studio>DC Films</studio>
+  <uniqueid type="imdb">tt6443346</uniqueid>
+  <uniqueid type="tmdb">436270</uniqueid>
+  <id>tt6443346</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>892538</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7490</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

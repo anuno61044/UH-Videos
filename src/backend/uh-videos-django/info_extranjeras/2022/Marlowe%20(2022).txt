@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In late 1930's Bay City, a brooding, down on his luck detective is hired to find the ex-lover of a glamorous heiress.]]></plot>
+  <outline><![CDATA[Los Ángeles 1939.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-08 07:59:30</dateadded>
+  <title>Marlowe</title>
+  <originaltitle>Marlowe</originaltitle>
+  <actor>
+    <name>Liam Neeson</name>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Kruger</name>
+    <type>Actor</type>
+    <tmdbid>9824</tmdbid>
+    <imdbid>nm1208167</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Lange</name>
+    <type>Actor</type>
+    <tmdbid>4431</tmdbid>
+    <imdbid>nm0001448</imdbid>
+    <tvdbid>327364</tvdbid>
+  </actor>
+  <director tmdbid="17016" imdbid="nm0001403">Neil Jordan</director>
+  <writer>William Monahan</writer>
+  <writer tmdbid="17016" imdbid="nm0001403">Neil Jordan</writer>
+  <writer>John Banville</writer>
+  <credits>William Monahan</credits>
+  <credits tmdbid="17016" imdbid="nm0001403">Neil Jordan</credits>
+  <credits>John Banville</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vGv9zk6roDM</trailer>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Marlowe</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6722802</imdbid>
+  <tmdbid>844417</tmdbid>
+  <premiered>2023-02-15</premiered>
+  <releasedate>2023-02-15</releasedate>
+  <criticrating>21</criticrating>
+  <runtime>110</runtime>
+  <tagline>Los Ángeles 1939.</tagline>
+  <country>France</country>
+  <country>Ireland</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Parallel Films</studio>
+  <studio>H2L Media Group</studio>
+  <studio>Nickel City Pictures</studio>
+  <studio>StoryBoard Media</studio>
+  <studio>Davis Films</studio>
+  <studio>Aperture Media Partners</studio>
+  <studio>Elipsis Capital</studio>
+  <studio>Fís Éireann/Screen Ireland</studio>
+  <studio>Jeff Rice Films</studio>
+  <studio>The Foley Lab</studio>
+  <studio>Briarcliff Entertainment</studio>
+  <uniqueid type="imdb">tt6722802</uniqueid>
+  <uniqueid type="tmdb">844417</uniqueid>
+  <id>tt6722802</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100134</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6581</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

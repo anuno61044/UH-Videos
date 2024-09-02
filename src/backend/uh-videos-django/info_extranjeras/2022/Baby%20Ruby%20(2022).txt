@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[After welcoming her baby, Ruby, home, the tightly scripted world of lifestyle influencer Jo starts to unravel. As increasingly sinister happenings mount, Jo is plunged into a waking fever dream where everyone is a threat and nothing is what it seems.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-04 17:25:41</dateadded>
+  <title>Baby Ruby</title>
+  <originaltitle>Baby Ruby</originaltitle>
+  <actor>
+    <name>Noémie Merlant</name>
+    <role>Jo</role>
+    <type>Actor</type>
+    <tmdbid>1385600</tmdbid>
+    <imdbid>nm4374524</imdbid>
+  </actor>
+  <actor>
+    <name>Kit Harington</name>
+    <role>Spencer</role>
+    <type>Actor</type>
+    <tmdbid>239019</tmdbid>
+    <imdbid>nm3229685</imdbid>
+    <tvdbid>247909</tvdbid>
+  </actor>
+  <actor>
+    <name>Meredith Hagner</name>
+    <role>Shelly</role>
+    <type>Actor</type>
+    <tmdbid>449513</tmdbid>
+    <imdbid>nm2993517</imdbid>
+    <tvdbid>326934</tvdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Doris</role>
+    <type>Actor</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+    <tvdbid>254745</tvdbid>
+  </actor>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Dr. Rosenbaum</role>
+    <type>Actor</type>
+    <tmdbid>163774</tmdbid>
+    <imdbid>nm0083714</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Beveridge</name>
+    <role>Ginger</role>
+    <type>Actor</type>
+    <tmdbid>3026331</tmdbid>
+  </actor>
+  <actor>
+    <name>Camila Canó-Flaviá</name>
+    <role>Caroline</role>
+    <type>Actor</type>
+    <tmdbid>3298933</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Janea</name>
+    <role>Farah</role>
+    <type>Actor</type>
+    <tmdbid>3097784</tmdbid>
+  </actor>
+  <actor>
+    <name>Emerald Rose Sullivan</name>
+    <role>Pam</role>
+    <type>Actor</type>
+    <tmdbid>1544754</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Wilhelmi</name>
+    <type>Actor</type>
+    <tmdbid>1053419</tmdbid>
+  </actor>
+  <director tmdbid="62762">Bess Wohl</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4dhrL0MpJhE</trailer>
+  <rating>4.8</rating>
+  <year>2023</year>
+  <sorttitle>Baby Ruby</sorttitle>
+  <imdbid>tt21448540</imdbid>
+  <tmdbid>1008374</tmdbid>
+  <premiered>2023-02-03</premiered>
+  <releasedate>2023-02-03</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>94</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Page Fifty-Four Pictures</studio>
+  <studio>Point Productions</studio>
+  <uniqueid type="tmdb">1008374</uniqueid>
+  <uniqueid type="imdb">tt21448540</uniqueid>
+  <id>tt21448540</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100941</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5620</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Durante la pandemia de COVID-19 en Seattle, una trabajadora tecnológica agorafóbica descubre evidencia de un crimen violento mientras revisa un flujo de datos, y se encuentra con resistencia y burocracia cuando intenta informarlo a su empresa. Para involucrarse, se da cuenta de que debe enfrentar su mayor miedo y aventurarse a salir de su apartamento y adentrarse en las calles de la ciudad, que están llenas de manifestantes luego de que el ayuntamiento aprobara una ley que restringe los movimientos de la población sin hogar.]]></plot>
+  <outline><![CDATA[Ella no es la única que escucha.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-10 08:18:17</dateadded>
+  <title>Kimi</title>
+  <originaltitle>Kimi</originaltitle>
+  <actor>
+    <name>Zoë Kravitz</name>
+    <role>Angela Childs</role>
+    <type>Actor</type>
+    <tmdbid>37153</tmdbid>
+    <imdbid>nm2368789</imdbid>
+  </actor>
+  <actor>
+    <name>Byron Bowers</name>
+    <role>Terry Hughes</role>
+    <type>Actor</type>
+    <tmdbid>1687573</tmdbid>
+    <imdbid>nm2720892</imdbid>
+    <tvdbid>628775</tvdbid>
+  </actor>
+  <actor>
+    <name>Jaime Camil</name>
+    <role>Antonio Rivas</role>
+    <type>Actor</type>
+    <tmdbid>545087</tmdbid>
+    <imdbid>nm0131781</imdbid>
+    <tvdbid>417102</tvdbid>
+  </actor>
+  <actor>
+    <name>Erika Christensen</name>
+    <role>Samantha Gerrity</role>
+    <type>Actor</type>
+    <tmdbid>21711</tmdbid>
+    <imdbid>nm0159776</imdbid>
+  </actor>
+  <actor>
+    <name>Derek DelGaudio</name>
+    <role>Bradley Hasling</role>
+    <type>Actor</type>
+    <tmdbid>2141051</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Givens</name>
+    <role>Angela's Mother</role>
+    <type>Actor</type>
+    <tmdbid>59153</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Halford</name>
+    <role>Tall Thug</role>
+    <type>Actor</type>
+    <tmdbid>134424</tmdbid>
+  </actor>
+  <actor>
+    <name>Devin Ratray</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>11516</tmdbid>
+    <imdbid>nm0711864</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Vargas</name>
+    <role>Glasses Thug</role>
+    <type>Actor</type>
+    <tmdbid>16429</tmdbid>
+    <imdbid>nm0889846</imdbid>
+  </actor>
+  <actor>
+    <name>Rita Wilson</name>
+    <role>Natalie Chowdhury</role>
+    <type>Actor</type>
+    <tmdbid>12931</tmdbid>
+    <imdbid>nm0001854</imdbid>
+  </actor>
+  <actor>
+    <name>India de Beaufort</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>53364</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarai Koo</name>
+    <role>Jessica Hasling</role>
+    <type>Actor</type>
+    <tmdbid>2972458</tmdbid>
+  </actor>
+  <actor>
+    <name>Koya Harada</name>
+    <role>Bradley's Son</role>
+    <type>Actor</type>
+    <tmdbid>3420607</tmdbid>
+  </actor>
+  <actor>
+    <name>George Evans</name>
+    <role>Neighbor Husband</role>
+    <type>Actor</type>
+    <tmdbid>3420610</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Evans</name>
+    <role>Neighbor Wife</role>
+    <type>Actor</type>
+    <tmdbid>2735278</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Evans</name>
+    <role>Neighbor Kid</role>
+    <type>Actor</type>
+    <tmdbid>3420612</tmdbid>
+  </actor>
+  <actor>
+    <name>Henrich Evans</name>
+    <role>Neighbor Kid</role>
+    <type>Actor</type>
+    <tmdbid>3420615</tmdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brantley</name>
+    <role>Kimi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12831</tmdbid>
+  </actor>
+  <actor>
+    <name>Alyana Gomez</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>3420616</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Flores</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1836986</tmdbid>
+  </actor>
+  <actor>
+    <name>Lakin Valdez</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>1709422</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrika Darbo</name>
+    <role>Southern Woman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54044</tmdbid>
+    <imdbid>nm0004858</imdbid>
+  </actor>
+  <actor>
+    <name>Cheyenne Nguyen</name>
+    <role>Teenage Girl (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2433254</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Daymer</name>
+    <role>Young Boy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3149100</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Dobrenko</name>
+    <role>Darius Popescu</role>
+    <type>Actor</type>
+    <tmdbid>1288787</tmdbid>
+  </actor>
+  <actor>
+    <name>David Wain</name>
+    <role>Angela's Dentist</role>
+    <type>Actor</type>
+    <tmdbid>22214</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Daly</name>
+    <role>Christian Holloway</role>
+    <type>Actor</type>
+    <tmdbid>95875</tmdbid>
+    <imdbid>nm0198408</imdbid>
+  </actor>
+  <actor>
+    <name>Noelle E. Parker</name>
+    <role>Tween</role>
+    <type>Actor</type>
+    <tmdbid>1903660</tmdbid>
+  </actor>
+  <actor>
+    <name>Finnegan George</name>
+    <role>Tween</role>
+    <type>Actor</type>
+    <tmdbid>2564027</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Baer</name>
+    <role>Chowdhury's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3245176</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Kuroda</name>
+    <role>Dr. Sarah Burns</role>
+    <type>Actor</type>
+    <tmdbid>156511</tmdbid>
+  </actor>
+  <actor>
+    <name>Alina Gatti</name>
+    <role>Amygdala Intercom</role>
+    <type>Actor</type>
+    <tmdbid>1463282</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Emery</name>
+    <role>Tech Hub Worker</role>
+    <type>Actor</type>
+    <tmdbid>1523924</tmdbid>
+  </actor>
+  <actor>
+    <name>Beka Sikharulidze</name>
+    <role>Yuri</role>
+    <type>Actor</type>
+    <tmdbid>1891990</tmdbid>
+  </actor>
+  <actor>
+    <name>Aviona Rodriguez Brown</name>
+    <role>Boisterous Woman</role>
+    <type>Actor</type>
+    <tmdbid>3420618</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Matthews</name>
+    <role>Boisterous Woman</role>
+    <type>Actor</type>
+    <tmdbid>3420620</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Gotz</name>
+    <role>Boisterous Woman</role>
+    <type>Actor</type>
+    <tmdbid>3420621</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Power</name>
+    <role>Guy in Suit</role>
+    <type>Actor</type>
+    <tmdbid>3420622</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenna Wagner</name>
+    <role>Blonde Woman</role>
+    <type>Actor</type>
+    <tmdbid>3420623</tmdbid>
+  </actor>
+  <actor>
+    <name>Conner Marx</name>
+    <role>Man with Umbrella</role>
+    <type>Actor</type>
+    <tmdbid>1177995</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauryn Scoon</name>
+    <role>Girl at Burrito Truck</role>
+    <type>Actor</type>
+    <tmdbid>3420624</tmdbid>
+  </actor>
+  <director tmdbid="1884" imdbid="nm0001752">Steven Soderbergh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=67S8ru4K4x4</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Kimi</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14128670</imdbid>
+  <tmdbid>800510</tmdbid>
+  <premiered>2022-02-10</premiered>
+  <releasedate>2022-02-10</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>89</runtime>
+  <tagline>Ella no es la única que escucha.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>New Line Cinema</studio>
+  <studio>HBO Max</studio>
+  <uniqueid type="imdb">tt14128670</uniqueid>
+  <uniqueid type="tmdb">800510</uniqueid>
+  <id>tt14128670</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1250231</bitrate>
+        <width>1280</width>
+        <height>624</height>
+        <aspect>80:39</aspect>
+        <aspectratio>80:39</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5346</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

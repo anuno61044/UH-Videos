@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sigue a Marina, una joven que ha estado tratando de escapar de los fantasmas que la siguen después de un trágico evento. Acude a Edén, una empresa clandestina ubicada en plena naturaleza para acabar con su sufrimiento.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-27 07:42:03</dateadded>
+  <title>Edén</title>
+  <originaltitle>Edén</originaltitle>
+  <actor>
+    <name>Charlotte Vega</name>
+    <role>Marina</role>
+    <type>Actor</type>
+    <tmdbid>1262750</tmdbid>
+    <imdbid>nm5256984</imdbid>
+    <tvdbid>624718</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta Nieto</name>
+    <role>Lidia</role>
+    <type>Actor</type>
+    <tmdbid>588636</tmdbid>
+    <imdbid>nm1910857</imdbid>
+  </actor>
+  <actor>
+    <name>Israel Elejalde</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>1313220</tmdbid>
+    <imdbid>nm1990986</imdbid>
+    <tvdbid>295048</tvdbid>
+  </actor>
+  <actor>
+    <name>Ramón Barea</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>24987</tmdbid>
+    <imdbid>nm0054381</imdbid>
+    <tvdbid>493593</tvdbid>
+  </actor>
+  <director tmdbid="1986797">Estefanía Cortes</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cy6L-NHGC8k</trailer>
+  <rating>6.222</rating>
+  <year>2022</year>
+  <sorttitle>Eden</sorttitle>
+  <imdbid>tt6636962</imdbid>
+  <tmdbid>1006176</tmdbid>
+  <premiered>2022-10-28</premiered>
+  <releasedate>2022-10-28</releasedate>
+  <runtime>90</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>La Caña Brothers</studio>
+  <studio>La Colmena Producciones</studio>
+  <studio>Montreux Entertainment</studio>
+  <uniqueid type="imdb">tt6636962</uniqueid>
+  <uniqueid type="tmdb">1006176</uniqueid>
+  <id>tt6636962</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>851714</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5426</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64458</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

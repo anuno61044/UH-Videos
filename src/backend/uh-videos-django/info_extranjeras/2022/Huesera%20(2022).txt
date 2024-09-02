@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia gira entorno a Valeria y su anhelo por tener un hijo. La misma noche en la que por fin se confirma su embarazo le visita una extraña presencia. Esta extraña entidad le persigue a sol y sombra para acabar con ella y su  bebé.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-17 10:44:27</dateadded>
+  <title>Huesera</title>
+  <originaltitle>Huesera</originaltitle>
+  <actor>
+    <name>Natalia Solián</name>
+    <role>Valeria</role>
+    <type>Actor</type>
+    <tmdbid>3514938</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Dosal</name>
+    <role>Raúl</role>
+    <type>Actor</type>
+    <tmdbid>1149129</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayra Batalla</name>
+    <role>Octavia</role>
+    <type>Actor</type>
+    <tmdbid>2385744</tmdbid>
+    <imdbid>nm2614149</imdbid>
+  </actor>
+  <actor>
+    <name>Mercedes Hernández</name>
+    <role>Isabel</role>
+    <type>Actor</type>
+    <tmdbid>1486120</tmdbid>
+    <imdbid>nm2543344</imdbid>
+  </actor>
+  <actor>
+    <name>Aida López</name>
+    <role>Maricarmen</role>
+    <type>Actor</type>
+    <tmdbid>1043823</tmdbid>
+    <imdbid>nm0529989</imdbid>
+    <tvdbid>463740</tvdbid>
+  </actor>
+  <actor>
+    <name>Martha Claudia Moreno</name>
+    <role>Ursula</role>
+    <type>Actor</type>
+    <tmdbid>238141</tmdbid>
+  </actor>
+  <actor>
+    <name>Enoc Leaño</name>
+    <role>Luis</role>
+    <type>Actor</type>
+    <tmdbid>589123</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Guisa Koestinger</name>
+    <role>Vecino (cameo)</role>
+    <type>Actor</type>
+    <tmdbid>1299876</tmdbid>
+    <imdbid>nm3240781</imdbid>
+  </actor>
+  <actor>
+    <name>Sonia Couoh</name>
+    <role>Vero</role>
+    <type>Actor</type>
+    <tmdbid>979449</tmdbid>
+    <imdbid>nm2579244</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Castillo</name>
+    <role>Carolina</role>
+    <type>Actor</type>
+    <tmdbid>1198776</tmdbid>
+  </actor>
+  <actor>
+    <name>Anahí Allue</name>
+    <role>Norma</role>
+    <type>Actor</type>
+    <tmdbid>3563806</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriela Velarde</name>
+    <role>Young Valeria</role>
+    <type>Actor</type>
+    <tmdbid>3844699</tmdbid>
+  </actor>
+  <director tmdbid="1659084">Michelle Garza Cervera</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4VYvhw-0U_o</trailer>
+  <rating>6.1</rating>
+  <year>2023</year>
+  <sorttitle>Huesera</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt11718516</imdbid>
+  <tmdbid>772515</tmdbid>
+  <premiered>2023-02-10</premiered>
+  <releasedate>2023-02-10</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>97</runtime>
+  <country>Mexico</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Machete Producciones</studio>
+  <studio>Terminal</studio>
+  <studio>Disruptiva Films</studio>
+  <studio>Maligno Gorehouse</studio>
+  <uniqueid type="tmdb">772515</uniqueid>
+  <uniqueid type="imdb">tt11718516</uniqueid>
+  <id>tt11718516</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>196604</bitrate>
+        <width>640</width>
+        <height>344</height>
+        <aspect>479:258</aspect>
+        <aspectratio>479:258</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5834</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63815</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

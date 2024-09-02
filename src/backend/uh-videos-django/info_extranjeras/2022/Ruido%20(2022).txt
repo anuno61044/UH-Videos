@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La búsqueda de su hija desaparecida conduce a una madre a una red de apoyo, donde establece vínculos con otras mujeres cuyas vidas han sido destruidas por la violencia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-11 12:25:14</dateadded>
+  <title>Ruido</title>
+  <originaltitle>Ruido</originaltitle>
+  <actor>
+    <name>Julieta Egurrola</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>1044027</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Ruiz</name>
+    <role>Abril Escobedo</role>
+    <type>Actor</type>
+    <tmdbid>589722</tmdbid>
+    <imdbid>nm1840708</imdbid>
+  </actor>
+  <actor>
+    <name>Adrián Vázquez</name>
+    <role>Fiscal Zamudio Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1413394</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo Beristáin</name>
+    <role>Arturo</role>
+    <type>Actor</type>
+    <tmdbid>553141</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro de Tavira</name>
+    <type>Actor</type>
+    <tmdbid>2061882</tmdbid>
+    <tvdbid>8262807</tvdbid>
+  </actor>
+  <actor>
+    <name>Mariana Giménez</name>
+    <role>Commander</role>
+    <type>Actor</type>
+    <tmdbid>2559904</tmdbid>
+  </actor>
+  <actor>
+    <name>Erick Israel Consuelo</name>
+    <role>Fiscal Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1476671</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriela Núñez</name>
+    <role>Adriana</role>
+    <type>Actor</type>
+    <tmdbid>3071521</tmdbid>
+  </actor>
+  <actor>
+    <name>Priscela Izquierdo</name>
+    <role>Protestadora (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3887834</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauricio Calderón Mora</name>
+    <role>Secretary Cassandra</role>
+    <type>Actor</type>
+    <tmdbid>2834063</tmdbid>
+  </actor>
+  <director tmdbid="1069832">Natalia Beristáin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yzvrpm9bDT8</trailer>
+  <rating>7.173</rating>
+  <year>2022</year>
+  <sorttitle>Ruido</sorttitle>
+  <imdbid>tt11306932</imdbid>
+  <tmdbid>960519</tmdbid>
+  <premiered>2022-10-13</premiered>
+  <releasedate>2022-10-13</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>106</runtime>
+  <country>Argentina</country>
+  <country>Mexico</country>
+  <genre>Drama</genre>
+  <studio>PUCARÁ cine</studio>
+  <studio>PASTO</studio>
+  <studio>Chamaca Films</studio>
+  <studio>Agencia Bengala</studio>
+  <studio>Woo Films</studio>
+  <uniqueid type="tmdb">960519</uniqueid>
+  <uniqueid type="imdb">tt11306932</uniqueid>
+  <id>tt11306932</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>226964</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6368</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63830</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

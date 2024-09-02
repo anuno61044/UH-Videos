@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Irán, 2001. Una periodista de Teherán se sumerge en los barrios con peor reputación de la ciudad santa de Mashhad para investigar una serie de feminicidios. Pronto se dará cuenta de que las autoridades locales no tienen ninguna prisa por resolver el asunto. Los crímenes son obra de un solo hombre, que asegura purificar la ciudad de sus pecados y que ataca a prostitutas por la noche.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-29 20:13:52</dateadded>
+  <title>عنکبوت مقدس</title>
+  <originaltitle>عنکبوت مقدس</originaltitle>
+  <actor>
+    <name>Zar Amir Ebrahimi</name>
+    <role>Rahimi</role>
+    <type>Actor</type>
+    <tmdbid>1236122</tmdbid>
+  </actor>
+  <actor>
+    <name>Mehdi Bajestani</name>
+    <role>Saeed</role>
+    <type>Actor</type>
+    <tmdbid>3494273</tmdbid>
+  </actor>
+  <actor>
+    <name>Arash Ashtiani</name>
+    <role>Sharifi</role>
+    <type>Actor</type>
+    <tmdbid>2295116</tmdbid>
+  </actor>
+  <actor>
+    <name>Forouzan Jamshidnejad</name>
+    <role>Fatima</role>
+    <type>Actor</type>
+    <tmdbid>3514166</tmdbid>
+  </actor>
+  <actor>
+    <name>Sina Parvaneh</name>
+    <role>Rostami</role>
+    <type>Actor</type>
+    <tmdbid>3514167</tmdbid>
+  </actor>
+  <actor>
+    <name>Nima Akbarpour</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>2722139</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Fazilat</name>
+    <role>Zinab</role>
+    <type>Actor</type>
+    <tmdbid>1200347</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Rahimi</name>
+    <role>Somayeh</role>
+    <type>Actor</type>
+    <tmdbid>3174084</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Nazarian</name>
+    <type>Actor</type>
+    <tmdbid>3514169</tmdbid>
+  </actor>
+  <actor>
+    <name>Sima Seyed</name>
+    <type>Actor</type>
+    <tmdbid>3296617</tmdbid>
+  </actor>
+  <actor>
+    <name>Firouz Ageli</name>
+    <role>Hagi</role>
+    <type>Actor</type>
+    <tmdbid>3514171</tmdbid>
+  </actor>
+  <actor>
+    <name>Farhad Faghih Habibi</name>
+    <type>Actor</type>
+    <tmdbid>1688001</tmdbid>
+  </actor>
+  <actor>
+    <name>Mesbah Taleb</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>3543407</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariane Naziri</name>
+    <type>Actor</type>
+    <tmdbid>2050903</tmdbid>
+  </actor>
+  <actor>
+    <name>M. Ali Nazarian</name>
+    <type>Actor</type>
+    <tmdbid>3553677</tmdbid>
+  </actor>
+  <actor>
+    <name>Majd Eid</name>
+    <type>Actor</type>
+    <tmdbid>3553678</tmdbid>
+  </actor>
+  <director tmdbid="1574550">Ali Abbasi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=djtAE8Op-zs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=27wZZ6O1IBc</trailer>
+  <rating>7.3</rating>
+  <year>2022</year>
+  <sorttitle>عنکبوت مقدس</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt18550140</imdbid>
+  <tmdbid>889699</tmdbid>
+  <premiered>2022-07-13</premiered>
+  <releasedate>2022-07-13</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>118</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Sweden</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Why Not Productions</studio>
+  <studio>Wild Bunch</studio>
+  <studio>Film i Väst</studio>
+  <studio>ZDF/Arte</studio>
+  <studio>The Imaginarium</studio>
+  <studio>One Two Films</studio>
+  <studio>Profile Pictures</studio>
+  <studio>Rotor Film</studio>
+  <uniqueid type="imdb">tt18550140</uniqueid>
+  <uniqueid type="tmdb">889699</uniqueid>
+  <id>tt18550140</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>373854</bitrate>
+        <width>640</width>
+        <height>266</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7066</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>per</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

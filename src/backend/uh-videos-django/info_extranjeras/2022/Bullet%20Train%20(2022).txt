@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.]]></plot>
+  <outline><![CDATA[El final de la línea es solo en principio.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-26 09:40:44</dateadded>
+  <title>Bullet Train</title>
+  <originaltitle>Bullet Train</originaltitle>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>Ladybug</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Joey King</name>
+    <role>Prince</role>
+    <type>Actor</type>
+    <tmdbid>125025</tmdbid>
+    <imdbid>nm1428821</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Taylor-Johnson</name>
+    <role>Tangerine</role>
+    <type>Actor</type>
+    <tmdbid>27428</tmdbid>
+    <imdbid>nm1093951</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <role>Lemon</role>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+    <tvdbid>311251</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Koji</name>
+    <role>Kimura</role>
+    <type>Actor</type>
+    <tmdbid>1658375</tmdbid>
+    <imdbid>nm4010671</imdbid>
+    <tvdbid>8073313</tvdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Sanada</name>
+    <role>The Elder</role>
+    <type>Actor</type>
+    <tmdbid>9195</tmdbid>
+    <imdbid>nm0760796</imdbid>
+    <tvdbid>367569</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Shannon</name>
+    <role>White Death</role>
+    <type>Actor</type>
+    <tmdbid>335</tmdbid>
+    <imdbid>nm0788335</imdbid>
+    <tvdbid>262015</tvdbid>
+  </actor>
+  <actor>
+    <name>Bad Bunny</name>
+    <role>The Wolf</role>
+    <type>Actor</type>
+    <tmdbid>2550161</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Bullock</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>18277</tmdbid>
+    <imdbid>nm0000113</imdbid>
+  </actor>
+  <actor>
+    <name>Zazie Beetz</name>
+    <role>The Hornet</role>
+    <type>Actor</type>
+    <tmdbid>1545693</tmdbid>
+    <imdbid>nm5939164</imdbid>
+    <tvdbid>492843</tvdbid>
+  </actor>
+  <actor>
+    <name>Logan Lerman</name>
+    <role>The Son</role>
+    <type>Actor</type>
+    <tmdbid>33235</tmdbid>
+    <imdbid>nm0503567</imdbid>
+  </actor>
+  <actor>
+    <name>Masi Oka</name>
+    <role>Conductor</role>
+    <type>Actor</type>
+    <tmdbid>17273</tmdbid>
+    <imdbid>nm1199811</imdbid>
+    <tvdbid>272032</tvdbid>
+  </actor>
+  <actor>
+    <name>Karen Fukuhara</name>
+    <role>Kayda Izumi Concession Girl</role>
+    <type>Actor</type>
+    <tmdbid>1461608</tmdbid>
+    <imdbid>nm7250922</imdbid>
+    <tvdbid>554367</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Akiyoshi Ching</name>
+    <role>Wataru</role>
+    <type>Actor</type>
+    <tmdbid>3687347</tmdbid>
+  </actor>
+  <actor>
+    <name>Minchi Murakami</name>
+    <role>Tokyo Zookeeper</role>
+    <type>Actor</type>
+    <tmdbid>1709726</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaori Taketani</name>
+    <role>Asami Akiyama</role>
+    <type>Actor</type>
+    <tmdbid>2264206</tmdbid>
+  </actor>
+  <actor>
+    <name>Toshitaka Katsumi</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>3687348</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Garrity</name>
+    <role>Senator</role>
+    <type>Actor</type>
+    <tmdbid>962603</tmdbid>
+    <imdbid>nm1896175</imdbid>
+  </actor>
+  <actor>
+    <name>Emelina Adams</name>
+    <role>Angelina Young</role>
+    <type>Actor</type>
+    <tmdbid>2672331</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenson Cheng</name>
+    <role>Hospital Thug</role>
+    <type>Actor</type>
+    <tmdbid>1746630</tmdbid>
+  </actor>
+  <actor>
+    <name>Nobuaki Shimamoto</name>
+    <role>Minegishi</role>
+    <type>Actor</type>
+    <tmdbid>1687370</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoshi Sudarso</name>
+    <role>Young Elder</role>
+    <type>Actor</type>
+    <tmdbid>1406627</tmdbid>
+  </actor>
+  <actor>
+    <name>Johanna Watts</name>
+    <role>White Death's Wife</role>
+    <type>Actor</type>
+    <tmdbid>168931</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Martinez</name>
+    <role>Wolf (9 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>3687349</tmdbid>
+  </actor>
+  <actor>
+    <name>Tania Verafield</name>
+    <role>Wolf's Mother</role>
+    <type>Actor</type>
+    <tmdbid>53251</tmdbid>
+  </actor>
+  <actor>
+    <name>Pancho Cardena</name>
+    <role>Cartel Enforcer</role>
+    <type>Actor</type>
+    <tmdbid>2596740</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Gabay</name>
+    <role>El Saguaro</role>
+    <type>Actor</type>
+    <tmdbid>2402973</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Muñoz</name>
+    <role>Mrs. Wolf</role>
+    <type>Actor</type>
+    <tmdbid>3646335</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Daly</name>
+    <role>Annoyed Passenger</role>
+    <type>Actor</type>
+    <tmdbid>200999</tmdbid>
+    <imdbid>nm0198489</imdbid>
+  </actor>
+  <actor>
+    <name>Arnold Chun</name>
+    <role>Takashi Ito</role>
+    <type>Actor</type>
+    <tmdbid>1749473</tmdbid>
+  </actor>
+  <actor>
+    <name>Naomi Matsuda</name>
+    <role>Impatient Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1403647</tmdbid>
+  </actor>
+  <actor>
+    <name>Benmio McCrea</name>
+    <role>Cardiovascular Surgeon</role>
+    <type>Actor</type>
+    <tmdbid>2074106</tmdbid>
+  </actor>
+  <actor>
+    <name>Pasha D. Lychnikoff</name>
+    <role>Alexei Ilyin</role>
+    <type>Actor</type>
+    <tmdbid>52762</tmdbid>
+    <imdbid>nm0527945</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Johnson-Payne</name>
+    <role>Young Lemon</role>
+    <type>Actor</type>
+    <tmdbid>3687350</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Marz</name>
+    <role>Young Tangerine</role>
+    <type>Actor</type>
+    <tmdbid>3687351</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Lee</name>
+    <role>Watchful Nurse</role>
+    <type>Actor</type>
+    <tmdbid>101065</tmdbid>
+    <imdbid>nm1685477</imdbid>
+  </actor>
+  <actor>
+    <name>Parker Lin</name>
+    <role>Young Kimura</role>
+    <type>Actor</type>
+    <tmdbid>3687354</tmdbid>
+  </actor>
+  <actor>
+    <name>Garland Scott</name>
+    <role>Angry Merc</role>
+    <type>Actor</type>
+    <tmdbid>1518784</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Matthew Smith</name>
+    <role>Curious Merc</role>
+    <type>Actor</type>
+    <tmdbid>154702</tmdbid>
+    <imdbid>nm0808843</imdbid>
+  </actor>
+  <actor>
+    <name>Zooey Miyoshi</name>
+    <role>Okimi (Water Kid)</role>
+    <type>Actor</type>
+    <tmdbid>3687356</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamil Aydin</name>
+    <role>White Death Thug</role>
+    <type>Actor</type>
+    <tmdbid>3687358</tmdbid>
+  </actor>
+  <actor>
+    <name>David Leitch</name>
+    <role>Jeff Zufelt</role>
+    <type>Actor</type>
+    <tmdbid>40684</tmdbid>
+    <imdbid>nm0500610</imdbid>
+  </actor>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Train Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Carver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>M.G. Gong</name>
+    <role>Gangster on Shizuoka station</role>
+    <type>Actor</type>
+    <tmdbid>2570031</tmdbid>
+  </actor>
+  <actor>
+    <name>Alonso Saravia</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>3688511</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Su</name>
+    <role>Passenger</role>
+    <type>Actor</type>
+    <tmdbid>3688512</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco M Torres</name>
+    <role>Paramedic 1</role>
+    <type>Actor</type>
+    <tmdbid>3305976</tmdbid>
+  </actor>
+  <actor>
+    <name>Ebaa AbuAmmar</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688514</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Aemond</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688515</tmdbid>
+  </actor>
+  <actor>
+    <name>Naomi Amante</name>
+    <role>Cartel Girlfriend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3255983</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayne Aoun</name>
+    <role>SOC Cartel Wife (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688516</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Aponte</name>
+    <role>Train Station Booth Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2002674</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Buffer</name>
+    <role>Russian Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1699143</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Cabanting</name>
+    <role>Tokyo Station Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688517</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Carina</name>
+    <role>Momomon (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688518</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Chen</name>
+    <role>Tokyo Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688519</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Cruze</name>
+    <role>Bartender (Uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4665</tmdbid>
+    <imdbid>nm0190357</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Delavenne</name>
+    <role>International Traveler (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1738122</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Ferguson</name>
+    <role>Russian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2091809</tmdbid>
+  </actor>
+  <actor>
+    <name>Reut Fish</name>
+    <role>Cantina Waitress (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688520</tmdbid>
+  </actor>
+  <actor>
+    <name>Rolando Gonzalez</name>
+    <role>Cartel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3512029</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Halvorsen</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3236112</tmdbid>
+  </actor>
+  <actor>
+    <name>Masashi Ishizuka</name>
+    <role>Oden Food Stand chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688521</tmdbid>
+  </actor>
+  <actor>
+    <name>Reyna Kajino</name>
+    <role>Passenger (Student) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688522</tmdbid>
+  </actor>
+  <actor>
+    <name>Shota Kakibata</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3075461</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Ko</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1576369</tmdbid>
+  </actor>
+  <actor>
+    <name>David Kuahiwinui</name>
+    <role>Gangster (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688523</tmdbid>
+  </actor>
+  <actor>
+    <name>Waymond Lee</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1200895</tmdbid>
+    <imdbid>nm3029577</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Masuda</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2773368</tmdbid>
+  </actor>
+  <actor>
+    <name>Ego Mikitas</name>
+    <role>Man in Black (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1809216</tmdbid>
+  </actor>
+  <actor>
+    <name>Shoko Rice</name>
+    <role>Rail Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2731556</tmdbid>
+  </actor>
+  <actor>
+    <name>RiRia</name>
+    <role>Harajuku girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1942319</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyonne Sakamoto</name>
+    <role>Sleeping child (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688524</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezra Samson</name>
+    <role>Watura #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688525</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose J. Santana</name>
+    <role>Bodyguard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1820382</tmdbid>
+  </actor>
+  <actor>
+    <name>Sakura Sugihara</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688526</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Taratko</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3688527</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Xia</name>
+    <role>Japanese girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2305390</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Xu</name>
+    <role>Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1596271</tmdbid>
+  </actor>
+  <director tmdbid="40684" imdbid="nm0500610">David Leitch</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=seXT447JDfo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C1rWd1iQfd0</trailer>
+  <rating>7.3</rating>
+  <year>2022</year>
+  <sorttitle>Bullet Train</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12593682</imdbid>
+  <tmdbid>718930</tmdbid>
+  <premiered>2022-07-03</premiered>
+  <releasedate>2022-07-03</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>126</runtime>
+  <tagline>El final de la línea es solo en principio.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Suspense</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>87North Productions</studio>
+  <uniqueid type="imdb">tt12593682</uniqueid>
+  <uniqueid type="tmdb">718930</uniqueid>
+  <id>tt12593682</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>881886</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7589</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

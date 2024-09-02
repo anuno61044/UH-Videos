@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un sábado por la noche, en otoño, Mia queda atrapada en un atentado terrorista en un bistró parisino. Tres meses después, sin poder retomar su vida y recordando sólo fragmentos de aquella noche, Mia decide investigar sus recuerdos para encontrar un camino de vuelta a la felicidad.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-22 20:29:13</dateadded>
+  <title>Memorias de París</title>
+  <originaltitle>Revoir Paris</originaltitle>
+  <actor>
+    <name>Virginie Efira</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>118178</tmdbid>
+  </actor>
+  <actor>
+    <name>Benoît Magimel</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>5442</tmdbid>
+    <imdbid>nm0536095</imdbid>
+  </actor>
+  <actor>
+    <name>Grégoire Colin</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>136170</tmdbid>
+    <tvdbid>537711</tvdbid>
+  </actor>
+  <actor>
+    <name>Maya Sansa</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>54230</tmdbid>
+    <imdbid>nm0763022</imdbid>
+  </actor>
+  <actor>
+    <name>Nastya Golubeva Carax</name>
+    <role>Félicia</role>
+    <type>Actor</type>
+    <tmdbid>1102328</tmdbid>
+  </actor>
+  <actor>
+    <name>Amadou Mbow</name>
+    <role>Assane</role>
+    <type>Actor</type>
+    <tmdbid>2313239</tmdbid>
+  </actor>
+  <actor>
+    <name>Souleymane Touré</name>
+    <role>Épicier</role>
+    <type>Actor</type>
+    <tmdbid>2598829</tmdbid>
+  </actor>
+  <actor>
+    <name>Ema Zampa</name>
+    <role>Invitée mariage</role>
+    <type>Actor</type>
+    <tmdbid>3292354</tmdbid>
+  </actor>
+  <actor>
+    <name>Clarisse Makundul</name>
+    <role>Anjali</role>
+    <type>Actor</type>
+    <tmdbid>3558285</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Pierre Horcholle</name>
+    <role>L'homme à la sortie de métro</role>
+    <type>Actor</type>
+    <tmdbid>3558286</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne-Lise Heimburger</name>
+    <role>Camille</role>
+    <type>Actor</type>
+    <tmdbid>1172628</tmdbid>
+  </actor>
+  <actor>
+    <name>Sokem "Kemso" Ringuet</name>
+    <role>Hakim</role>
+    <type>Actor</type>
+    <tmdbid>3697970</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Lasaffre</name>
+    <role>Nour</role>
+    <type>Actor</type>
+    <tmdbid>3697971</tmdbid>
+  </actor>
+  <actor>
+    <name>Pascal Fonta</name>
+    <role>Touriste Tour Eiffel</role>
+    <type>Actor</type>
+    <tmdbid>3367439</tmdbid>
+  </actor>
+  <director tmdbid="1051327" imdbid="nm1356951">Alice Winocour</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1p6H2FoLlvM</trailer>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>Memorias de Paris</sorttitle>
+  <imdbid>tt15329224</imdbid>
+  <tmdbid>915931</tmdbid>
+  <premiered>2022-09-07</premiered>
+  <releasedate>2022-09-07</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>103</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>Dharamsala</studio>
+  <studio>France 3 Cinéma</studio>
+  <studio>Pathé</studio>
+  <studio>Darius Films</studio>
+  <uniqueid type="tmdb">915931</uniqueid>
+  <uniqueid type="imdb">tt15329224</uniqueid>
+  <id>tt15329224</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2290115</bitrate>
+        <width>1044</width>
+        <height>562</height>
+        <aspect>522:281</aspect>
+        <aspectratio>522:281</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6191</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

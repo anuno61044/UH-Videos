@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alice (Kristen Bell), su hermano Paul (Ben Platt) y su siempre optimista madre (Allison Janney) viajan desde Estados Unidos hasta el Reino Unido para acudir a la boda de su media hermana Eloise (Cynthia Addai-Robinson) con la intención de retomar su relación como personas más o menos adultas y quererse como lo hacían antes.]]></plot>
+  <outline><![CDATA[Guarda el odio.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-19 19:00:11</dateadded>
+  <title>La boda más odiosa</title>
+  <originaltitle>The People We Hate at the Wedding</originaltitle>
+  <actor>
+    <name>Allison Janney</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>19</tmdbid>
+    <imdbid>nm0005049</imdbid>
+    <tvdbid>303573</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Platt</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>1107296</tmdbid>
+    <imdbid>nm4805317</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Addai-Robinson</name>
+    <role>Eloise</role>
+    <type>Actor</type>
+    <tmdbid>182272</tmdbid>
+    <imdbid>nm1870963</imdbid>
+    <tvdbid>317006</tvdbid>
+  </actor>
+  <actor>
+    <name>Kristen Bell</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>40462</tmdbid>
+    <imdbid>nm0068338</imdbid>
+    <tvdbid>257291</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Godley</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23429</tmdbid>
+    <imdbid>nm0324134</imdbid>
+  </actor>
+  <actor>
+    <name>Isaach De Bankolé</name>
+    <role>Henrique</role>
+    <type>Actor</type>
+    <tmdbid>4812</tmdbid>
+    <imdbid>nm0207218</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Daly</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>95875</tmdbid>
+    <imdbid>nm0198408</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnston</name>
+    <role>Elf Photo Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2152613</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexi Janicek</name>
+    <role>Young Alice</role>
+    <type>Actor</type>
+    <tmdbid>2557939</tmdbid>
+  </actor>
+  <actor>
+    <name>Milakale Kember</name>
+    <role>Young Eloise</role>
+    <type>Actor</type>
+    <tmdbid>3796242</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaxon Goldenberg</name>
+    <role>Young Paul</role>
+    <type>Actor</type>
+    <tmdbid>3039091</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Davies</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>1232063</tmdbid>
+    <imdbid>nm0203696</imdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Mok</name>
+    <role>Dressing Room Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2355291</tmdbid>
+    <imdbid>nm7554674</imdbid>
+  </actor>
+  <actor>
+    <name>Jorma Taccone</name>
+    <role>Jonathan</role>
+    <type>Actor</type>
+    <tmdbid>62863</tmdbid>
+    <imdbid>nm1672246</imdbid>
+  </actor>
+  <actor>
+    <name>Judith Amsenga</name>
+    <role>Lisbet</role>
+    <type>Actor</type>
+    <tmdbid>1798374</tmdbid>
+  </actor>
+  <actor>
+    <name>Karan Soni</name>
+    <role>Dominic</role>
+    <type>Actor</type>
+    <tmdbid>1109702</tmdbid>
+    <imdbid>nm4175221</imdbid>
+    <tvdbid>300202</tvdbid>
+  </actor>
+  <actor>
+    <name>Jesus Revers Ortiz</name>
+    <role>Crosby</role>
+    <type>Actor</type>
+    <tmdbid>3796246</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Barnett</name>
+    <role>Preston</role>
+    <type>Actor</type>
+    <tmdbid>2746112</tmdbid>
+  </actor>
+  <actor>
+    <name>Randall Park</name>
+    <role>Russell</role>
+    <type>Actor</type>
+    <tmdbid>79082</tmdbid>
+    <imdbid>nm1320827</imdbid>
+    <tvdbid>308086</tvdbid>
+  </actor>
+  <actor>
+    <name>Lizzy Caplan</name>
+    <role>Marissa</role>
+    <type>Actor</type>
+    <tmdbid>51988</tmdbid>
+    <imdbid>nm0135221</imdbid>
+    <tvdbid>303576</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Goldwyn</name>
+    <role>Dr. Goulding</role>
+    <type>Actor</type>
+    <tmdbid>3417</tmdbid>
+    <imdbid>nm0001282</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Ovenden</name>
+    <role>Alcott</role>
+    <type>Actor</type>
+    <tmdbid>167831</tmdbid>
+    <imdbid>nm1099188</imdbid>
+  </actor>
+  <actor>
+    <name>Janine Harouni</name>
+    <role>Young Woman at Airport</role>
+    <type>Actor</type>
+    <tmdbid>1850089</tmdbid>
+  </actor>
+  <actor>
+    <name>Nerissa Bradley</name>
+    <role>Juliet (Gate Agent)</role>
+    <type>Actor</type>
+    <tmdbid>3796267</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Milligan</name>
+    <role>Dennis</role>
+    <type>Actor</type>
+    <tmdbid>53117</tmdbid>
+    <imdbid>nm1682420</imdbid>
+    <tvdbid>330915</tvdbid>
+  </actor>
+  <actor>
+    <name>John Macmillan</name>
+    <role>Ollie</role>
+    <type>Actor</type>
+    <tmdbid>550549</tmdbid>
+    <imdbid>nm3025293</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Small</name>
+    <role>Alcott's Driver</role>
+    <type>Actor</type>
+    <tmdbid>1359450</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Brittain</name>
+    <role>Charlotte (Concierge)</role>
+    <type>Actor</type>
+    <tmdbid>3796265</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Russell</name>
+    <role>Nicholas (Room Service)</role>
+    <type>Actor</type>
+    <tmdbid>2605995</tmdbid>
+  </actor>
+  <actor>
+    <name>Davina Moon</name>
+    <role>Daniella</role>
+    <type>Actor</type>
+    <tmdbid>2641101</tmdbid>
+  </actor>
+  <actor>
+    <name>Rufus Jones</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>429541</tmdbid>
+    <imdbid>nm1257480</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Lloyd-Saini</name>
+    <role>Moffy</role>
+    <type>Actor</type>
+    <tmdbid>1870466</tmdbid>
+  </actor>
+  <actor>
+    <name>Jemima Rooper</name>
+    <role>Mimzy</role>
+    <type>Actor</type>
+    <tmdbid>62932</tmdbid>
+    <imdbid>nm0740383</imdbid>
+  </actor>
+  <actor>
+    <name>Annie McGrath</name>
+    <role>Bits</role>
+    <type>Actor</type>
+    <tmdbid>2045592</tmdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wolf</name>
+    <role>Captain</role>
+    <type>Actor</type>
+    <tmdbid>2246723</tmdbid>
+  </actor>
+  <actor>
+    <name>Moray Treadwell</name>
+    <role>Farmer</role>
+    <type>Actor</type>
+    <tmdbid>1791599</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra James-Young</name>
+    <role>Marjory</role>
+    <type>Actor</type>
+    <tmdbid>1997513</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Kitto</name>
+    <role>Frederic Destry-Courtenay</role>
+    <type>Actor</type>
+    <tmdbid>2853896</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonny Weldon</name>
+    <role>Will (Caterer)</role>
+    <type>Actor</type>
+    <tmdbid>3688810</tmdbid>
+  </actor>
+  <actor>
+    <name>Lloyd Griffith</name>
+    <role>PC Fox</role>
+    <type>Actor</type>
+    <tmdbid>2303312</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Keeble</name>
+    <role>Rich Setting Candles</role>
+    <type>Actor</type>
+    <tmdbid>2029275</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Roscoe</name>
+    <role>Martha</role>
+    <type>Actor</type>
+    <tmdbid>105440</tmdbid>
+    <imdbid>nm0741192</imdbid>
+  </actor>
+  <actor>
+    <name>April Rock</name>
+    <role>Photo Clerk #2</role>
+    <type>Actor</type>
+    <tmdbid>1973759</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Minas</name>
+    <role>Dallas</role>
+    <type>Actor</type>
+    <tmdbid>3812606</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzy Kohane</name>
+    <role>Queen Lear</role>
+    <type>Actor</type>
+    <tmdbid>3812608</tmdbid>
+  </actor>
+  <actor>
+    <name>Nas Ganev</name>
+    <role>Club Guy</role>
+    <type>Actor</type>
+    <tmdbid>3678118</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Alboukharey</name>
+    <role>Shopper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2433119</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre Bergman</name>
+    <role>Boat Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2355283</tmdbid>
+    <imdbid>nm10533370</imdbid>
+  </actor>
+  <actor>
+    <name>Doug Berry</name>
+    <role>Driver Greeting Airport Arrival (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2057332</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Susan Burke</name>
+    <role>Wedding Vicar (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812619</tmdbid>
+  </actor>
+  <actor>
+    <name>D'Arcy Carden</name>
+    <role>Martha (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1561264</tmdbid>
+    <tvdbid>474812</tvdbid>
+  </actor>
+  <actor>
+    <name>Liam Edwards</name>
+    <role>Concierge (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2939069</tmdbid>
+  </actor>
+  <actor>
+    <name>Miriam Engelbert</name>
+    <role>Tully (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812626</tmdbid>
+  </actor>
+  <actor>
+    <name>Lesley Ewen</name>
+    <role>Barbara (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>158609</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Glass</name>
+    <role>V (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812627</tmdbid>
+  </actor>
+  <actor>
+    <name>Gracella Green</name>
+    <role>British kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3734187</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliet Guiness</name>
+    <role>Clown Phobic (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812629</tmdbid>
+  </actor>
+  <actor>
+    <name>Mara Huf</name>
+    <role>Billie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812630</tmdbid>
+  </actor>
+  <actor>
+    <name>Adnan Kundi</name>
+    <role>Board Meeting Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3654711</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Labey</name>
+    <role>Giles (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1901374</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Li Gotti</name>
+    <role>Boat Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812633</tmdbid>
+  </actor>
+  <actor>
+    <name>Marvin Montoute</name>
+    <role>Wedding Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812634</tmdbid>
+  </actor>
+  <actor>
+    <name>Richa Prakash</name>
+    <role>Restaurant guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812636</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Thomas</name>
+    <role>Airport Customs officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812638</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Wennington</name>
+    <role>Taxi driver at Airport (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1516367</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Whelan</name>
+    <role>Airport passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1840384</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Wiley</name>
+    <role>Bill (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1611250</tmdbid>
+    <imdbid>nm4776189</imdbid>
+  </actor>
+  <actor>
+    <name>Joanna Zwierzynska</name>
+    <role>Waitress (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3812639</tmdbid>
+  </actor>
+  <director tmdbid="1296522">Claire Scanlon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mXeS6ELErIs</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>boda mas odiosa</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9071456</imdbid>
+  <tmdbid>802372</tmdbid>
+  <premiered>2022-11-17</premiered>
+  <releasedate>2022-11-17</releasedate>
+  <criticrating>23</criticrating>
+  <runtime>101</runtime>
+  <tagline>Guarda el odio.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Amazon Studios</studio>
+  <studio>Wishmore</studio>
+  <uniqueid type="imdb">tt9071456</uniqueid>
+  <uniqueid type="tmdb">802372</uniqueid>
+  <id>tt9071456</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1114815</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6030</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

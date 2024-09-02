@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Manuel (Zorion Eguileor) tiene que mudarse a la casa de su hijo Mario (Gustavo Salmerón) y la familia de éste después de que un terrible suceso acabe con la vida de su anciana mujer. Poco a poco, la realidad se impone: algo incomprensible ocurre con Manuel. Las voces que dice escuchar, las presencias con las que dice hablar. Lena (Irene Anula), la mujer de Mario, quiere echarle de la casa: está segura de que algo espantoso puede ocurrir. Solo Naia (Paula Gallego), la hija adolescente, está de su parte, pero incluso ella empieza a dudar a medida que los fenómenos extraños se suceden en torno a su abuelo, cada vez más perturbado. Es el verano más caluroso de la historia, ha empezado una cuenta atrás y ya es demasiado tarde para pararla.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-21 08:30:38</dateadded>
+  <title>Viejos</title>
+  <originaltitle>Viejos</originaltitle>
+  <actor>
+    <name>Irene Anula</name>
+    <role>Lena</role>
+    <type>Actor</type>
+    <tmdbid>41869</tmdbid>
+    <imdbid>nm2564634</imdbid>
+  </actor>
+  <actor>
+    <name>Zorion Eguileor</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>970993</tmdbid>
+    <imdbid>nm1445349</imdbid>
+  </actor>
+  <actor>
+    <name>Josele Román</name>
+    <role>Vecina Anciana</role>
+    <type>Actor</type>
+    <tmdbid>234644</tmdbid>
+    <imdbid>nm0739811</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Gallego</name>
+    <role>Naia</role>
+    <type>Actor</type>
+    <tmdbid>1561072</tmdbid>
+    <imdbid>nm6224152</imdbid>
+    <tvdbid>8124091</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Acedo</name>
+    <type>Actor</type>
+    <tmdbid>3525701</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Salmerón</name>
+    <role>Mario</role>
+    <type>Actor</type>
+    <tmdbid>1036581</tmdbid>
+    <imdbid>nm0758687</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Ibeas</name>
+    <type>Actor</type>
+    <tmdbid>2757971</tmdbid>
+  </actor>
+  <director tmdbid="1679853">Fernando González Gómez</director>
+  <director tmdbid="2596472">Raúl Cerezo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ym-l8Ws11Cg</trailer>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>Viejos</sorttitle>
+  <imdbid>tt13968380</imdbid>
+  <tmdbid>994128</tmdbid>
+  <premiered>2023-04-21</premiered>
+  <releasedate>2023-04-21</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>95</runtime>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <genre>Fantasía</genre>
+  <studio>La Dalia Films</studio>
+  <studio>Persons Films</studio>
+  <uniqueid type="tmdb">994128</uniqueid>
+  <uniqueid type="imdb">tt13968380</uniqueid>
+  <id>tt13968380</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>899888</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5721</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64214</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

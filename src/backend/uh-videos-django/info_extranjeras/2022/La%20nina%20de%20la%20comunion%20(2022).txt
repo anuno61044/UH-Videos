@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Finales de los 80, en un pueblo no determinado. Sara (Carla Campra) acaba de llegar al pueblo y no encuentra su lugar en ese espacio cerrado. Su mejor amiga es Rebe (Aina Quiñones), mucho más extrovertida. Una noche van a una discoteca, toman drogas y durante el trayecto a casa encontrarán una muñeca vestida de comunión. A partir de ese momento, comenzará la pesadilla.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-08 09:35:11</dateadded>
+  <title>La niña de la comunión</title>
+  <originaltitle>La niña de la comunión</originaltitle>
+  <actor>
+    <name>Carla Campra</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>1712994</tmdbid>
+    <imdbid>nm2907059</imdbid>
+    <tvdbid>612097</tvdbid>
+  </actor>
+  <actor>
+    <name>Aina Quiñones</name>
+    <role>Rebe</role>
+    <type>Actor</type>
+    <tmdbid>2988148</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Soler</name>
+    <role>Pedro</role>
+    <type>Actor</type>
+    <tmdbid>3582598</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Oviedo</name>
+    <role>Chivo</role>
+    <type>Actor</type>
+    <tmdbid>3648364</tmdbid>
+  </actor>
+  <actor>
+    <name>Olimpia Roch</name>
+    <role>Judith</role>
+    <type>Actor</type>
+    <tmdbid>3535280</tmdbid>
+  </actor>
+  <actor>
+    <name>María Molins</name>
+    <role>Amparo</role>
+    <type>Actor</type>
+    <tmdbid>1062012</tmdbid>
+    <imdbid>nm1296882</imdbid>
+  </actor>
+  <actor>
+    <name>Xavier Lite</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>1462123</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Alarcón</name>
+    <role>Remedios</role>
+    <type>Actor</type>
+    <tmdbid>1141781</tmdbid>
+    <imdbid>nm1921636</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Solé</name>
+    <role>Santiago</role>
+    <type>Actor</type>
+    <tmdbid>1434242</tmdbid>
+    <imdbid>nm5079616</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Rived</name>
+    <role>Tano</role>
+    <type>Actor</type>
+    <tmdbid>3778996</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Torres</name>
+    <role>Jaime</role>
+    <type>Actor</type>
+    <tmdbid>19825</tmdbid>
+  </actor>
+  <actor>
+    <name>Manel Barceló</name>
+    <role>Padre Manuel</role>
+    <type>Actor</type>
+    <tmdbid>1062005</tmdbid>
+    <imdbid>nm0053965</imdbid>
+  </actor>
+  <actor>
+    <name>Mercè Llorens</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>230210</tmdbid>
+    <imdbid>nm1257719</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Riera</name>
+    <role>Sonia</role>
+    <type>Actor</type>
+    <tmdbid>2438142</tmdbid>
+    <imdbid>nm9757015</imdbid>
+  </actor>
+  <actor>
+    <name>Mariona Lucas</name>
+    <role>Vane</role>
+    <type>Actor</type>
+    <tmdbid>3130541</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Carrión Samaniego</name>
+    <role>Pepa</role>
+    <type>Actor</type>
+    <tmdbid>3993369</tmdbid>
+  </actor>
+  <actor>
+    <name>María Fontcuberta</name>
+    <role>Madre 1</role>
+    <type>Actor</type>
+    <tmdbid>3993370</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosa Rovira</name>
+    <role>Madre 2</role>
+    <type>Actor</type>
+    <tmdbid>3993372</tmdbid>
+  </actor>
+  <director tmdbid="74661" imdbid="nm1414579">Víctor García</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8KXWIuVjqso</trailer>
+  <rating>5.3</rating>
+  <year>2023</year>
+  <sorttitle>nina de la comunion</sorttitle>
+  <imdbid>tt18072540</imdbid>
+  <tmdbid>1008005</tmdbid>
+  <premiered>2023-02-10</premiered>
+  <releasedate>2023-02-10</releasedate>
+  <runtime>99</runtime>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <studio>Ikiru Films</studio>
+  <studio>Atresmedia</studio>
+  <studio>Warner Bros. Entertainment España</studio>
+  <uniqueid type="imdb">tt18072540</uniqueid>
+  <uniqueid type="tmdb">1008005</uniqueid>
+  <id>tt18072540</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>211172</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5929</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

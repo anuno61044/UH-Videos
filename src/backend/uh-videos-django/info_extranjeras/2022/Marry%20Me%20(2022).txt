@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una estrella del pop es abandonada por su prometido, una estrella del rock, momentos antes de su boda en el Madison Square Garden, por lo que decide casarse con un hombre que selecciona aleatoriamente entre el público.]]></plot>
+  <outline><![CDATA[Dí que sí]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-14 12:50:53</dateadded>
+  <title>Cásate conmigo</title>
+  <originaltitle>Marry Me</originaltitle>
+  <actor>
+    <name>Jennifer Lopez</name>
+    <role>Kat Valdez</role>
+    <type>Actor</type>
+    <tmdbid>16866</tmdbid>
+    <imdbid>nm0000182</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Wilson</name>
+    <role>Charlie Gilbert</role>
+    <type>Actor</type>
+    <tmdbid>887</tmdbid>
+    <imdbid>nm0005562</imdbid>
+    <tvdbid>310578</tvdbid>
+  </actor>
+  <actor>
+    <name>Maluma</name>
+    <role>Bastian</role>
+    <type>Actor</type>
+    <tmdbid>2362790</tmdbid>
+  </actor>
+  <actor>
+    <name>John Bradley</name>
+    <role>Colin</role>
+    <type>Actor</type>
+    <tmdbid>1010135</tmdbid>
+    <imdbid>nm4263213</imdbid>
+    <tvdbid>247899</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Silverman</name>
+    <role>Parker Debbs</role>
+    <type>Actor</type>
+    <tmdbid>7404</tmdbid>
+    <imdbid>nm0798971</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Coleman</name>
+    <role>Lou Gilbert</role>
+    <type>Actor</type>
+    <tmdbid>1696016</tmdbid>
+    <imdbid>nm5668548</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Buteau</name>
+    <role>Melissa</role>
+    <type>Actor</type>
+    <tmdbid>1475128</tmdbid>
+    <imdbid>nm2345104</imdbid>
+    <tvdbid>360689</tvdbid>
+  </actor>
+  <actor>
+    <name>Khalil Middleton</name>
+    <role>Kofi</role>
+    <type>Actor</type>
+    <tmdbid>3430524</tmdbid>
+  </actor>
+  <actor>
+    <name>Kat Cunning</name>
+    <role>Tyra</role>
+    <type>Actor</type>
+    <tmdbid>2126621</tmdbid>
+  </actor>
+  <actor>
+    <name>Taliyah Whitaker</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>1684143</tmdbid>
+  </actor>
+  <actor>
+    <name>Brady Noon</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>2239159</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Lucano</name>
+    <role>Jose</role>
+    <type>Actor</type>
+    <tmdbid>2006019</tmdbid>
+  </actor>
+  <actor>
+    <name>Utkarsh Ambudkar</name>
+    <role>Coach Manny</role>
+    <type>Actor</type>
+    <tmdbid>929511</tmdbid>
+    <imdbid>nm2064295</imdbid>
+    <tvdbid>297623</tvdbid>
+  </actor>
+  <actor>
+    <name>Jameela Jamil</name>
+    <role>Anikah</role>
+    <type>Actor</type>
+    <tmdbid>1624816</tmdbid>
+    <tvdbid>368523</tvdbid>
+  </actor>
+  <actor>
+    <name>Connor Noon</name>
+    <role>Not George (Spencer)</role>
+    <type>Actor</type>
+    <tmdbid>3423822</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Fallon</name>
+    <role>Jimmy Fallon</role>
+    <type>Actor</type>
+    <tmdbid>11669</tmdbid>
+    <imdbid>nm0266422</imdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Honulik</name>
+    <role>French Girl</role>
+    <type>Actor</type>
+    <tmdbid>1614420</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Wallem</name>
+    <role>Jonathan Pitts</role>
+    <type>Actor</type>
+    <tmdbid>1246800</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex D. Jennings</name>
+    <role>Prom Date</role>
+    <type>Actor</type>
+    <tmdbid>2594848</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyndra Sanchez</name>
+    <role>Student (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2852422</tmdbid>
+    <tvdbid>8172911</tvdbid>
+  </actor>
+  <actor>
+    <name>Oliver Stern</name>
+    <role>Algebro</role>
+    <type>Actor</type>
+    <tmdbid>2852425</tmdbid>
+  </actor>
+  <actor>
+    <name>Raina Cheng</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2852428</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan M. Parisen</name>
+    <type>Actor</type>
+    <tmdbid>3407998</tmdbid>
+  </actor>
+  <actor>
+    <name>Hoda Kotb</name>
+    <role>Hoda Kotb</role>
+    <type>Actor</type>
+    <tmdbid>1237537</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Sylvester</name>
+    <role>Justin Sylvester</role>
+    <type>Actor</type>
+    <tmdbid>2829184</tmdbid>
+  </actor>
+  <director tmdbid="59218">Kat Coiro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8hXboMXWavE</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>Casate conmigo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10223460</imdbid>
+  <tmdbid>615904</tmdbid>
+  <premiered>2022-02-09</premiered>
+  <releasedate>2022-02-09</releasedate>
+  <criticrating>60</criticrating>
+  <runtime>112</runtime>
+  <tagline>Dí que sí</tagline>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <genre>Música</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Nuyorican Productions</studio>
+  <studio>Perfect World Pictures</studio>
+  <uniqueid type="imdb">tt10223460</uniqueid>
+  <uniqueid type="tmdb">615904</uniqueid>
+  <id>tt10223460</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>893498</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.975874</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6725</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Para poner fin a una guerra apocalíptica y salvar a su hija, una soldado emprende una misión desesperada: transportar un cargamento ultrasecreto por un mar helado.]]></plot>
+  <outline><![CDATA[La esperanza arde más en el frío.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-18 07:53:58</dateadded>
+  <title>Cangrejo negro</title>
+  <originaltitle>Svart krabba</originaltitle>
+  <actor>
+    <name>Noomi Rapace</name>
+    <role>Caroline Edh</role>
+    <type>Actor</type>
+    <tmdbid>87722</tmdbid>
+    <imdbid>nm0636426</imdbid>
+    <tvdbid>360661</tvdbid>
+  </actor>
+  <actor>
+    <name>Jakob Oftebro</name>
+    <role>Nylund</role>
+    <type>Actor</type>
+    <tmdbid>76555</tmdbid>
+  </actor>
+  <actor>
+    <name>Dar Salim</name>
+    <role>Malik</role>
+    <type>Actor</type>
+    <tmdbid>234907</tmdbid>
+    <tvdbid>247917</tvdbid>
+  </actor>
+  <actor>
+    <name>Erik Enge</name>
+    <role>Granvik</role>
+    <type>Actor</type>
+    <tmdbid>1377204</tmdbid>
+  </actor>
+  <actor>
+    <name>Ardalan Esmaili</name>
+    <role>Karimi</role>
+    <type>Actor</type>
+    <tmdbid>1601435</tmdbid>
+  </actor>
+  <actor>
+    <name>Aliette Opheim</name>
+    <role>Forsberg</role>
+    <type>Actor</type>
+    <tmdbid>570784</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan Taslimi</name>
+    <role>Admiral Nordh</role>
+    <type>Actor</type>
+    <tmdbid>1154827</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Colonel Raad</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Nora Rios</name>
+    <role>Deidre</role>
+    <type>Actor</type>
+    <tmdbid>2331958</tmdbid>
+  </actor>
+  <actor>
+    <name>Gunilla Abrahamsson</name>
+    <role>Old woman</role>
+    <type>Actor</type>
+    <tmdbid>1177609</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Edding</name>
+    <role>Old man</role>
+    <type>Actor</type>
+    <tmdbid>1989673</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Marcimain Klintberg</name>
+    <role>Vanja</role>
+    <type>Actor</type>
+    <tmdbid>3470554</tmdbid>
+  </actor>
+  <actor>
+    <name>Joachim Sällquist</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>3470556</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilir Latifi</name>
+    <role>Head centry</role>
+    <type>Actor</type>
+    <tmdbid>568627</tmdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Bäverman</name>
+    <role>Female robber</role>
+    <type>Actor</type>
+    <tmdbid>2755587</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikail Akalin</name>
+    <role>Young soldier</role>
+    <type>Actor</type>
+    <tmdbid>3470560</tmdbid>
+  </actor>
+  <actor>
+    <name>Matar Samba</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2174447</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Keller</name>
+    <role>Male researcher</role>
+    <type>Actor</type>
+    <tmdbid>1751011</tmdbid>
+  </actor>
+  <actor>
+    <name>Sanna Krepper</name>
+    <role>Female researcher</role>
+    <type>Actor</type>
+    <tmdbid>1131576</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcel Khouri</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3363301</tmdbid>
+  </actor>
+  <actor>
+    <name>Mostafa Alshawi</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3470562</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Wärnhjälm</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3470563</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Hendrikse</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1899135</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Miiro</name>
+    <role>Armed guard</role>
+    <type>Actor</type>
+    <tmdbid>3470564</tmdbid>
+  </actor>
+  <director tmdbid="140283">Adam Berg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w3MXBceDCAo</trailer>
+  <rating>5.7</rating>
+  <year>2022</year>
+  <sorttitle>Cangrejo negro</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6708668</imdbid>
+  <tmdbid>760868</tmdbid>
+  <premiered>2022-03-18</premiered>
+  <releasedate>2022-03-18</releasedate>
+  <criticrating>53</criticrating>
+  <runtime>114</runtime>
+  <tagline>La esperanza arde más en el frío.</tagline>
+  <country>Sweden</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Indio</studio>
+  <uniqueid type="imdb">tt6708668</uniqueid>
+  <uniqueid type="tmdb">760868</uniqueid>
+  <id>tt6708668</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>976134</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6869</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

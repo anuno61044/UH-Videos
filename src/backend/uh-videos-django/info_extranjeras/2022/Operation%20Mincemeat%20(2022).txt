@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Año 1943, en plena II Guerra Mundial. Las fuerzas aliadas están decididas a lanzar un asalto definitivo en Europa. Pero se enfrentan un desafío importante: proteger durante la invasión a sus tropas de la potencia de fuego alemana, y así evitar una posible masacre. Dos brillantes oficiales de inteligencia, Ewen Montagu (Firth) y Charles Cholmondeley, son los encargados de establecer la estrategia de desinformación más inspirada e improbable de la guerra... Una historia inspirada en hechos reales basada en un 'bestseller' de Ben Macintyre.]]></plot>
+  <outline><![CDATA[La mentira que cambió el rumbo de la Segunda Guerra Mundial.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-11 08:31:07</dateadded>
+  <title>El arma del engaño</title>
+  <originaltitle>Operation Mincemeat</originaltitle>
+  <actor>
+    <name>Colin Firth</name>
+    <role>Ewen Montagu</role>
+    <type>Actor</type>
+    <tmdbid>5472</tmdbid>
+    <imdbid>nm0000147</imdbid>
+    <tvdbid>310383</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Macfadyen</name>
+    <role>Charles Cholmondeley</role>
+    <type>Actor</type>
+    <tmdbid>15576</tmdbid>
+    <imdbid>nm0532193</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Macdonald</name>
+    <role>Jean Leslie</role>
+    <type>Actor</type>
+    <tmdbid>9015</tmdbid>
+    <imdbid>nm0531808</imdbid>
+  </actor>
+  <actor>
+    <name>Penelope Wilton</name>
+    <role>Hester Leggett</role>
+    <type>Actor</type>
+    <tmdbid>1249</tmdbid>
+    <imdbid>nm0934362</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Flynn</name>
+    <role>Ian Fleming</role>
+    <type>Actor</type>
+    <tmdbid>137108</tmdbid>
+    <imdbid>nm1926865</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Isaacs</name>
+    <role>Admiral John Godfrey</role>
+    <type>Actor</type>
+    <tmdbid>11355</tmdbid>
+    <imdbid>nm0005042</imdbid>
+    <tvdbid>346159</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>Ivor Montazac</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Hattie Morahan</name>
+    <role>Iris Montazac</role>
+    <type>Actor</type>
+    <tmdbid>56103</tmdbid>
+    <imdbid>nm0602455</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Bentley Purchase</role>
+    <type>Actor</type>
+    <tmdbid>52888</tmdbid>
+    <imdbid>nm0728795</imdbid>
+    <tvdbid>503454</tvdbid>
+  </actor>
+  <actor>
+    <name>Simon Russell Beale</name>
+    <role>Winston Churchill</role>
+    <type>Actor</type>
+    <tmdbid>57461</tmdbid>
+    <imdbid>nm0750971</imdbid>
+  </actor>
+  <actor>
+    <name>Lorne MacFadyen</name>
+    <role>Sgt. Roger Dearborn / Glyndwr Michael</role>
+    <type>Actor</type>
+    <tmdbid>1034703</tmdbid>
+    <imdbid>nm4461976</imdbid>
+  </actor>
+  <actor>
+    <name>Markus von Lingen</name>
+    <role>Adolf Clauss</role>
+    <type>Actor</type>
+    <tmdbid>32448</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Bentall</name>
+    <role>Connie Bukes</role>
+    <type>Actor</type>
+    <tmdbid>226083</tmdbid>
+    <imdbid>nm2182161</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Jennings</name>
+    <role>John Masterman</role>
+    <type>Actor</type>
+    <tmdbid>15739</tmdbid>
+    <imdbid>nm0421105</imdbid>
+  </actor>
+  <actor>
+    <name>Ellie Haddington</name>
+    <role>Hilda Georgina Cholmondeley</role>
+    <type>Actor</type>
+    <tmdbid>1228995</tmdbid>
+    <imdbid>nm0352705</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Rowe</name>
+    <role>Capt. David Ainsworth</role>
+    <type>Actor</type>
+    <tmdbid>984</tmdbid>
+    <imdbid>nm0746583</imdbid>
+  </actor>
+  <actor>
+    <name>Will Keen</name>
+    <role>Salvador Gomez-Beare</role>
+    <type>Actor</type>
+    <tmdbid>51119</tmdbid>
+    <imdbid>nm1652308</imdbid>
+    <tvdbid>361335</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Bonnar</name>
+    <role>Jock Horsfall</role>
+    <type>Actor</type>
+    <tmdbid>1231402</tmdbid>
+    <tvdbid>273811</tvdbid>
+  </actor>
+  <actor>
+    <name>James Fleet</name>
+    <role>Charles Fraser-Smith</role>
+    <type>Actor</type>
+    <tmdbid>10726</tmdbid>
+    <imdbid>nm0281424</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Beyer</name>
+    <role>Karl Kuhlenthal</role>
+    <type>Actor</type>
+    <tmdbid>4796</tmdbid>
+    <imdbid>nm0079890</imdbid>
+  </actor>
+  <actor>
+    <name>Nico Birnbaum</name>
+    <role>Colonel Alexis von Roenne</role>
+    <type>Actor</type>
+    <tmdbid>1675277</tmdbid>
+  </actor>
+  <actor>
+    <name>Pep Tosar</name>
+    <role>Admiral Moreno</role>
+    <type>Actor</type>
+    <tmdbid>935934</tmdbid>
+    <imdbid>nm0869089</imdbid>
+    <tvdbid>561405</tvdbid>
+  </actor>
+  <actor>
+    <name>Alba Brunet</name>
+    <role>Ana Flores</role>
+    <type>Actor</type>
+    <tmdbid>1336463</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <role>Dr. Del Torno</role>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>Óscar Zafra</name>
+    <role>Colonel Cerruti</role>
+    <type>Actor</type>
+    <tmdbid>1491227</tmdbid>
+    <imdbid>nm0971334</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Godino</name>
+    <role>Judge Pascual del Pobil</role>
+    <type>Actor</type>
+    <tmdbid>93649</tmdbid>
+    <imdbid>nm1024390</imdbid>
+  </actor>
+  <actor>
+    <name>Jonjo O'Neill</name>
+    <role>Teddy</role>
+    <type>Actor</type>
+    <tmdbid>215460</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Marston</name>
+    <role>Nurse Tate</role>
+    <type>Actor</type>
+    <tmdbid>1241137</tmdbid>
+    <imdbid>nm0551349</imdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Creevy</name>
+    <role>Doris Michael</role>
+    <type>Actor</type>
+    <tmdbid>2189993</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Rouse</name>
+    <role>Coroner Birtwistle</role>
+    <type>Actor</type>
+    <tmdbid>186061</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Lancaster</name>
+    <role>Coroner Pinfield</role>
+    <type>Actor</type>
+    <tmdbid>1786454</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bott</name>
+    <role>Frank Sawyer (Churchill Butler)</role>
+    <type>Actor</type>
+    <tmdbid>1134282</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Hamblin</name>
+    <role>Patricia Trehearne</role>
+    <type>Actor</type>
+    <tmdbid>1739728</tmdbid>
+  </actor>
+  <actor>
+    <name>Rufus Wright</name>
+    <role>Lt. Bill Jewell</role>
+    <type>Actor</type>
+    <tmdbid>1299719</tmdbid>
+  </actor>
+  <director tmdbid="18844" imdbid="nm0006960">John Madden</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YQ7ZXOXHZ20</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zwkSyrN0mvY</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>arma del engano</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1879016</imdbid>
+  <tmdbid>661231</tmdbid>
+  <premiered>2022-04-01</premiered>
+  <releasedate>2022-04-01</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>128</runtime>
+  <tagline>La mentira que cambió el rumbo de la Segunda Guerra Mundial.</tagline>
+  <country>Spain</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Bélica</genre>
+  <genre>Historia</genre>
+  <genre>Drama</genre>
+  <studio>See-Saw Films</studio>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Cohen Media Group</studio>
+  <studio>Archery Pictures</studio>
+  <studio>A Film Location Company</studio>
+  <uniqueid type="imdb">tt1879016</uniqueid>
+  <uniqueid type="tmdb">661231</uniqueid>
+  <id>tt1879016</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>874582</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7656</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

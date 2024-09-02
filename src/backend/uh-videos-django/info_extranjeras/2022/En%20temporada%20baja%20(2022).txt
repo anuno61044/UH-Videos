@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un camping en otoño y cuatro módulos ocupados por cuatro hombres y sus circunstancias. Patéticas éstas y patéticos ellos, aunque también entrañables. Diversión asegurada.]]></plot>
+  <outline><![CDATA[Un camping en otoño y cuatro módulos ocupados por cuatro hombres y sus circunstancias. Patéticas éstas y patéticos ellos, aunque también entrañables. Diversión asegurada.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-10 09:00:32</dateadded>
+  <title>En temporada baja</title>
+  <originaltitle>En temporada baja</originaltitle>
+  <actor>
+    <name>Antonio Resines</name>
+    <role>Alberto</role>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Coque Malla</name>
+    <role>Raúl</role>
+    <type>Actor</type>
+    <tmdbid>563825</tmdbid>
+  </actor>
+  <actor>
+    <name>Edu Soto</name>
+    <role>Charly</role>
+    <type>Actor</type>
+    <tmdbid>118209</tmdbid>
+    <imdbid>nm1518128</imdbid>
+    <tvdbid>509393</tvdbid>
+  </actor>
+  <actor>
+    <name>Fele Martínez</name>
+    <role>Martín</role>
+    <type>Actor</type>
+    <tmdbid>1602</tmdbid>
+    <imdbid>nm0555093</imdbid>
+    <tvdbid>562000</tvdbid>
+  </actor>
+  <actor>
+    <name>Nacho Fresneda</name>
+    <type>Actor</type>
+    <tmdbid>961990</tmdbid>
+    <imdbid>nm1241314</imdbid>
+    <tvdbid>572310</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Milán</name>
+    <type>Actor</type>
+    <tmdbid>1111245</tmdbid>
+    <imdbid>nm0586774</imdbid>
+    <tvdbid>307496</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta Belenguer</name>
+    <type>Actor</type>
+    <tmdbid>1023515</tmdbid>
+    <imdbid>nm0067724</imdbid>
+  </actor>
+  <actor>
+    <name>María Almudéver</name>
+    <type>Actor</type>
+    <tmdbid>1001401</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Francés</name>
+    <type>Actor</type>
+    <tmdbid>1031130</tmdbid>
+    <imdbid>nm1352548</imdbid>
+  </actor>
+  <actor>
+    <name>Héctor Montoliu</name>
+    <type>Actor</type>
+    <tmdbid>2909776</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanesa Romero</name>
+    <type>Actor</type>
+    <tmdbid>1253381</tmdbid>
+    <imdbid>nm1734323</imdbid>
+    <tvdbid>7948984</tvdbid>
+  </actor>
+  <actor>
+    <name>Sergio Olmo</name>
+    <type>Actor</type>
+    <tmdbid>2138504</tmdbid>
+  </actor>
+  <director tmdbid="1031128">David Marqués</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fqcUD7wSWT4</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>En temporada baja</sorttitle>
+  <imdbid>tt15477794</imdbid>
+  <tmdbid>1025962</tmdbid>
+  <premiered>2022-09-17</premiered>
+  <releasedate>2022-09-17</releasedate>
+  <runtime>93</runtime>
+  <tagline>Un camping en otoño y cuatro módulos ocupados por cuatro hombres y sus circunstancias. Patéticas éstas y patéticos ellos, aunque también entrañables. Diversión asegurada.</tagline>
+  <genre>Comedia</genre>
+  <studio>À Punt</studio>
+  <uniqueid type="imdb">tt15477794</uniqueid>
+  <uniqueid type="tmdb">1025962</uniqueid>
+  <id>tt15477794</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1073497</bitrate>
+        <width>1696</width>
+        <height>720</height>
+        <aspect>737233:313708</aspect>
+        <aspectratio>737233:313708</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5578</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63971</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

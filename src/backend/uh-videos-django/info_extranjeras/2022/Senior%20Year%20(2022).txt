@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer de treinta y siete años se despierta de un coma de veinte años y regresa a la escuela secundaria donde una vez fue una popular animadora.]]></plot>
+  <outline><![CDATA[La escuela secundaria ha cambiado. Pero ella no lo ha hecho.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-13 08:22:59</dateadded>
+  <title>Vuelta al insti</title>
+  <originaltitle>Senior Year</originaltitle>
+  <actor>
+    <name>Rebel Wilson</name>
+    <role>Stephanie Conway</role>
+    <type>Actor</type>
+    <tmdbid>221581</tmdbid>
+    <imdbid>nm2313103</imdbid>
+  </actor>
+  <actor>
+    <name>Angourie Rice</name>
+    <role>Young Stephanie Conway</role>
+    <type>Actor</type>
+    <tmdbid>1265629</tmdbid>
+    <imdbid>nm3886028</imdbid>
+    <tvdbid>685631</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Richardson</name>
+    <role>Seth Novacelik</role>
+    <type>Actor</type>
+    <tmdbid>1429453</tmdbid>
+    <imdbid>nm3931538</imdbid>
+    <tvdbid>308191</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Chao</name>
+    <role>Tiffany Balboa</role>
+    <type>Actor</type>
+    <tmdbid>1432528</tmdbid>
+    <imdbid>nm3856316</imdbid>
+    <tvdbid>534135</tvdbid>
+  </actor>
+  <actor>
+    <name>Mary Holland</name>
+    <role>Martha Reiser</role>
+    <type>Actor</type>
+    <tmdbid>1488952</tmdbid>
+    <tvdbid>300203</tvdbid>
+  </actor>
+  <actor>
+    <name>Justin Hartley</name>
+    <role>Blaine Balboa</role>
+    <type>Actor</type>
+    <tmdbid>1222596</tmdbid>
+    <imdbid>nm1261997</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jim Conway</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+    <imdbid>nm0663177</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Silverstone</name>
+    <role>Deanna Russo</role>
+    <type>Actor</type>
+    <tmdbid>5588</tmdbid>
+    <imdbid>nm0000224</imdbid>
+    <tvdbid>334704</tvdbid>
+  </actor>
+  <actor>
+    <name>Brandon Scott Jones</name>
+    <role>Mr. T</role>
+    <type>Actor</type>
+    <tmdbid>1561268</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Ray Taylor</name>
+    <role>Neil Chudd</role>
+    <type>Actor</type>
+    <tmdbid>1559689</tmdbid>
+    <imdbid>nm5582294</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Cimino</name>
+    <role>Lance</role>
+    <type>Actor</type>
+    <tmdbid>2342988</tmdbid>
+    <imdbid>nm7630848</imdbid>
+    <tvdbid>8036260</tvdbid>
+  </actor>
+  <actor>
+    <name>Tyler Barnhardt</name>
+    <role>Young Blaine</role>
+    <type>Actor</type>
+    <tmdbid>1985604</tmdbid>
+    <tvdbid>8067768</tvdbid>
+  </actor>
+  <actor>
+    <name>Molly Brown</name>
+    <role>Young Martha</role>
+    <type>Actor</type>
+    <tmdbid>1877932</tmdbid>
+  </actor>
+  <actor>
+    <name>Jul Kohler</name>
+    <role>Russian Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3495646</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex D. Jennings</name>
+    <role>Prom Attendee</role>
+    <type>Actor</type>
+    <tmdbid>2594848</tmdbid>
+  </actor>
+  <actor>
+    <name>Avantika Vandanapu</name>
+    <role>Janet</role>
+    <type>Actor</type>
+    <tmdbid>2749024</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Denise Hobbs</name>
+    <role>Dr. Johnson</role>
+    <type>Actor</type>
+    <tmdbid>2145647</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Taylor</name>
+    <role>Lydia Conway</role>
+    <type>Actor</type>
+    <tmdbid>3495648</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Pittman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3495649</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Colley</name>
+    <role>Yaz</role>
+    <type>Actor</type>
+    <tmdbid>2611805</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyriq Withers</name>
+    <role>Basketball Bro</role>
+    <type>Actor</type>
+    <tmdbid>3052321</tmdbid>
+  </actor>
+  <actor>
+    <name>Wes Jetton</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2149576</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Charleston</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>3495650</tmdbid>
+  </actor>
+  <actor>
+    <name>Jade Bender</name>
+    <role>Bri Luvs</role>
+    <type>Actor</type>
+    <tmdbid>1498995</tmdbid>
+  </actor>
+  <actor>
+    <name>Daphne Matthews</name>
+    <role>Graduation Attendee</role>
+    <type>Actor</type>
+    <tmdbid>2470021</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Cravens</name>
+    <role>Tik-Tok Performer</role>
+    <type>Actor</type>
+    <tmdbid>1163714</tmdbid>
+  </actor>
+  <actor>
+    <name>Merrick McCartha</name>
+    <role>Principal Young</role>
+    <type>Actor</type>
+    <tmdbid>1650452</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Yi Puig</name>
+    <role>Young Tiffany</role>
+    <type>Actor</type>
+    <tmdbid>3495653</tmdbid>
+  </actor>
+  <actor>
+    <name>Zaire Adams</name>
+    <role>Young Seth</role>
+    <type>Actor</type>
+    <tmdbid>2684483</tmdbid>
+  </actor>
+  <actor>
+    <name>Grayson Brooke</name>
+    <role>Student / Blaine's Best Friends</role>
+    <type>Actor</type>
+    <tmdbid>3313837</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerome Beazer</name>
+    <role>Stoner Bro</role>
+    <type>Actor</type>
+    <tmdbid>2976688</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Ruth Davis</name>
+    <role>Ex Fiancé</role>
+    <type>Actor</type>
+    <tmdbid>3495655</tmdbid>
+  </actor>
+  <actor>
+    <name>Vee Bhakta</name>
+    <role>Janet's Dad</role>
+    <type>Actor</type>
+    <tmdbid>2240199</tmdbid>
+  </actor>
+  <actor>
+    <name>Allie Nicole Szatmary</name>
+    <role>Kaylee</role>
+    <type>Actor</type>
+    <tmdbid>3495656</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Shutters</name>
+    <role>Onewheel Rider</role>
+    <type>Actor</type>
+    <tmdbid>3515608</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Aoki</name>
+    <role>Steve Aoki</role>
+    <type>Actor</type>
+    <tmdbid>1101349</tmdbid>
+  </actor>
+  <actor>
+    <name>Grayson Brooks</name>
+    <role>Student / Blaine’s Best Friend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704160</tmdbid>
+  </actor>
+  <director tmdbid="1223146">Alex Hardcastle</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l8MFAdRm1PQ</trailer>
+  <rating>5.5</rating>
+  <year>2022</year>
+  <sorttitle>Vuelta al insti</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5315212</imdbid>
+  <tmdbid>800937</tmdbid>
+  <premiered>2022-05-11</premiered>
+  <releasedate>2022-05-11</releasedate>
+  <criticrating>24</criticrating>
+  <runtime>114</runtime>
+  <tagline>La escuela secundaria ha cambiado. Pero ella no lo ha hecho.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Broken Road Productions</studio>
+  <studio>Paramount Players</studio>
+  <uniqueid type="imdb">tt5315212</uniqueid>
+  <uniqueid type="tmdb">800937</uniqueid>
+  <id>tt5315212</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>987043</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6810</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

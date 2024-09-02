@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un ingeniero en robótica de una empresa de juguetes construye una muñeca realista que comienza a cobrar vida propia.]]></plot>
+  <outline><![CDATA[La amistad ha evolucionado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-24 10:54:42</dateadded>
+  <title>M3GAN</title>
+  <originaltitle>M3GAN</originaltitle>
+  <actor>
+    <name>Allison Williams</name>
+    <role>Gemma</role>
+    <type>Actor</type>
+    <tmdbid>1255540</tmdbid>
+    <imdbid>nm4129745</imdbid>
+    <tvdbid>271353</tvdbid>
+  </actor>
+  <actor>
+    <name>Violet McGraw</name>
+    <role>Cady</role>
+    <type>Actor</type>
+    <tmdbid>2131391</tmdbid>
+    <imdbid>nm8627157</imdbid>
+  </actor>
+  <actor>
+    <name>Ronny Chieng</name>
+    <role>David Lin</role>
+    <type>Actor</type>
+    <tmdbid>1319469</tmdbid>
+  </actor>
+  <actor>
+    <name>Amie Donald</name>
+    <role>M3GAN</role>
+    <type>Actor</type>
+    <tmdbid>3444018</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Davis</name>
+    <role>M3GAN (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2043430</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Jordan Alvarez</name>
+    <role>Cole</role>
+    <type>Actor</type>
+    <tmdbid>1071699</tmdbid>
+    <tvdbid>324390</tvdbid>
+  </actor>
+  <actor>
+    <name>Jen Van Epps</name>
+    <role>Tess</role>
+    <type>Actor</type>
+    <tmdbid>2089274</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephane Garneau-Monten</name>
+    <role>Kurt</role>
+    <type>Actor</type>
+    <tmdbid>1023465</tmdbid>
+  </actor>
+  <actor>
+    <name>Lori Dungey</name>
+    <role>Celia</role>
+    <type>Actor</type>
+    <tmdbid>1237628</tmdbid>
+    <imdbid>nm0242256</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Usherwood</name>
+    <role>Lydia</role>
+    <type>Actor</type>
+    <tmdbid>2618000</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Cassidy</name>
+    <role>Brandon</role>
+    <type>Actor</type>
+    <tmdbid>3740423</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Saccente</name>
+    <role>Greg</role>
+    <type>Actor</type>
+    <tmdbid>1182667</tmdbid>
+  </actor>
+  <actor>
+    <name>Samson Chan-Boon</name>
+    <role>Officer Carter</role>
+    <type>Actor</type>
+    <tmdbid>2533135</tmdbid>
+  </actor>
+  <actor>
+    <name>Kira Josephson</name>
+    <role>Ava</role>
+    <type>Actor</type>
+    <tmdbid>2984755</tmdbid>
+  </actor>
+  <actor>
+    <name>Renee Lyons</name>
+    <role>Holly</role>
+    <type>Actor</type>
+    <tmdbid>1615759</tmdbid>
+  </actor>
+  <actor>
+    <name>Millen Baird</name>
+    <role>Police Detective</role>
+    <type>Actor</type>
+    <tmdbid>1300290</tmdbid>
+    <imdbid>nm1434450</imdbid>
+  </actor>
+  <actor>
+    <name>Chelsie Preston Crayford</name>
+    <role>Nicole</role>
+    <type>Actor</type>
+    <tmdbid>1211193</tmdbid>
+    <imdbid>nm2642787</imdbid>
+  </actor>
+  <actor>
+    <name>Arlo Green</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tmdbid>2301800</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Daniel</name>
+    <role>Shelley</role>
+    <type>Actor</type>
+    <tmdbid>2997165</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaya Beach-Robertson</name>
+    <role>Screaming Woman</role>
+    <type>Actor</type>
+    <tmdbid>2034711</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Randell</name>
+    <role>Purrpetual Petz Daughter</role>
+    <type>Actor</type>
+    <tmdbid>4211317</tmdbid>
+  </actor>
+  <actor>
+    <name>Clinton Randell</name>
+    <role>Purrpetual Petz Father</role>
+    <type>Actor</type>
+    <tmdbid>1351853</tmdbid>
+  </actor>
+  <actor>
+    <name>Marley Sharpe</name>
+    <role>Purrpetual Petz Friend</role>
+    <type>Actor</type>
+    <tmdbid>4211318</tmdbid>
+  </actor>
+  <actor>
+    <name>Coco Poole</name>
+    <role>Furzees Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4211319</tmdbid>
+  </actor>
+  <actor>
+    <name>Mila Leith</name>
+    <role>Furzees Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4211321</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Qereqeretabua</name>
+    <role>Furzees Dancer</role>
+    <type>Actor</type>
+    <tmdbid>4211322</tmdbid>
+  </actor>
+  <director tmdbid="1288796" imdbid="nm2067421">Gerard Johnstone</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e_6JPqOCH3c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1vTbhymPSA4</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>M3GAN</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8760708</imdbid>
+  <tmdbid>536554</tmdbid>
+  <premiered>2022-12-28</premiered>
+  <releasedate>2022-12-28</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>102</runtime>
+  <tagline>La amistad ha evolucionado.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Terror</genre>
+  <studio>Atomic Monster</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Divide / Conquer</studio>
+  <studio>Universal Pictures</studio>
+  <set tmdbcolid="1071588">
+    <name>M3GAN - Colección</name>
+  </set>
+  <set tmdbcolid="1071588">
+    <name>M3GAN Collection</name>
+  </set>
+  <uniqueid type="tmdb">536554</uniqueid>
+  <uniqueid type="imdb">tt8760708</uniqueid>
+  <id>tt8760708</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1091921</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6124</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El Dios del Trueno emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses. Para hacer frente a la amenaza, Thor solicita la ayuda de Valkiria, de Korg y de su ex novia Jane Foster que, para sorpresa de Thor, empuña su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde.]]></plot>
+  <outline><![CDATA[Él no es el único.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-07 09:20:19</dateadded>
+  <title>Thor: Love and Thunder</title>
+  <originaltitle>Thor: Love and Thunder</originaltitle>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <role>Thor Odinson</role>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Portman</name>
+    <role>Jane Foster / The Mighty Thor</role>
+    <type>Actor</type>
+    <tmdbid>524</tmdbid>
+    <imdbid>nm0000204</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Bale</name>
+    <role>Gorr</role>
+    <type>Actor</type>
+    <tmdbid>3894</tmdbid>
+    <imdbid>nm0000288</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>King Valkyrie</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+    <tvdbid>332925</tvdbid>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>Korg / Old Kronan God (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55934</tmdbid>
+    <imdbid>nm0169806</imdbid>
+    <tvdbid>490689</tvdbid>
+  </actor>
+  <actor>
+    <name>Jaimie Alexander</name>
+    <role>Sif</role>
+    <type>Actor</type>
+    <tmdbid>59817</tmdbid>
+    <imdbid>nm1526352</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Crowe</name>
+    <role>Zeus</role>
+    <type>Actor</type>
+    <tmdbid>934</tmdbid>
+    <imdbid>nm0000128</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Pratt</name>
+    <role>Peter Quill / Star-Lord</role>
+    <type>Actor</type>
+    <tmdbid>73457</tmdbid>
+    <imdbid>nm0695435</imdbid>
+    <tvdbid>312388</tvdbid>
+  </actor>
+  <actor>
+    <name>Karen Gillan</name>
+    <role>Nebula</role>
+    <type>Actor</type>
+    <tmdbid>543261</tmdbid>
+    <imdbid>nm2394794</imdbid>
+    <tvdbid>360589</tvdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Drax</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <role>Mantis</role>
+    <type>Actor</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Gunn</name>
+    <role>Kraglin / On-Set Rocket</role>
+    <type>Actor</type>
+    <tmdbid>51663</tmdbid>
+    <imdbid>nm0348231</imdbid>
+  </actor>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Groot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+    <tvdbid>310526</tvdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Rocket (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Heimdall</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+    <tvdbid>269501</tvdbid>
+  </actor>
+  <actor>
+    <name>Carly Rees</name>
+    <role>Miek</role>
+    <type>Actor</type>
+    <tmdbid>1910683</tmdbid>
+  </actor>
+  <actor>
+    <name>Kat Dennings</name>
+    <role>Darcy Lewis</role>
+    <type>Actor</type>
+    <tmdbid>52852</tmdbid>
+    <imdbid>nm0993507</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Goldstein</name>
+    <role>Hercules</role>
+    <type>Actor</type>
+    <tmdbid>21422</tmdbid>
+    <imdbid>nm2073429</imdbid>
+    <tvdbid>460656</tvdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Erik Selvig</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+    <tvdbid>378106</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Actor Thor</role>
+    <type>Actor</type>
+    <tmdbid>216986</tmdbid>
+    <imdbid>nm1292661</imdbid>
+    <tvdbid>392109</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Actor Loki</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>Actor Odin</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+    <tvdbid>292016</tvdbid>
+  </actor>
+  <actor>
+    <name>Melissa McCarthy</name>
+    <role>Actor Hela</role>
+    <type>Actor</type>
+    <tmdbid>55536</tmdbid>
+    <imdbid>nm0565250</imdbid>
+    <tvdbid>296532</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Falcone</name>
+    <role>Asgardian Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>170820</tmdbid>
+    <imdbid>nm1229520</imdbid>
+    <tvdbid>297675</tvdbid>
+  </actor>
+  <actor>
+    <name>Suren Jayemanne</name>
+    <role>Asgardian Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>3203691</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Cheng</name>
+    <role>Asgardian Stagehand</role>
+    <type>Actor</type>
+    <tmdbid>3616998</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Curry</name>
+    <role>King Yakan</role>
+    <type>Actor</type>
+    <tmdbid>49360</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Holland Hanton</name>
+    <role>Habooska The Horrible</role>
+    <type>Actor</type>
+    <tmdbid>1381548</tmdbid>
+    <imdbid>nm3479192</imdbid>
+  </actor>
+  <actor>
+    <name>Daley Pearson</name>
+    <role>Darryl The Tour Guide</role>
+    <type>Actor</type>
+    <tmdbid>1672488</tmdbid>
+  </actor>
+  <actor>
+    <name>Dianne Close</name>
+    <role>Asgard Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3617002</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Mitchell</name>
+    <role>Asgard Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3617004</tmdbid>
+  </actor>
+  <actor>
+    <name>Briegh Winderbaum</name>
+    <role>Ship Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3617007</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayzie Winderbaum</name>
+    <role>Ship Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3617008</tmdbid>
+  </actor>
+  <actor>
+    <name>Izaac Winderbaum</name>
+    <role>Ship Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3617009</tmdbid>
+  </actor>
+  <actor>
+    <name>Alanis Long Borrello</name>
+    <role>Ship Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3617011</tmdbid>
+  </actor>
+  <actor>
+    <name>Luka Bale</name>
+    <role>Infinity Conez Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2949656</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieron L. Dyer</name>
+    <role>Axl</role>
+    <type>Actor</type>
+    <tmdbid>2855818</tmdbid>
+  </actor>
+  <actor>
+    <name>India Rose Hemsworth</name>
+    <role>Gorr's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>3613218</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Russell Beale</name>
+    <role>Dionysus</role>
+    <type>Actor</type>
+    <tmdbid>57461</tmdbid>
+    <imdbid>nm0750971</imdbid>
+  </actor>
+  <actor>
+    <name>Manny Spero</name>
+    <role>Chemo Ward Patient</role>
+    <type>Actor</type>
+    <tmdbid>2905572</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonny Brugh</name>
+    <role>Rapu</role>
+    <type>Actor</type>
+    <tmdbid>586951</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Crawford</name>
+    <role>Flower God</role>
+    <type>Actor</type>
+    <tmdbid>1792879</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanique Greyling</name>
+    <role>Young Frigga</role>
+    <type>Actor</type>
+    <tmdbid>3617019</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Satchwell</name>
+    <role>Indigarrian Woman Glenda</role>
+    <type>Actor</type>
+    <tmdbid>1229578</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Pataky</name>
+    <role>Wolf Woman</role>
+    <type>Actor</type>
+    <tmdbid>73269</tmdbid>
+    <imdbid>nm0665235</imdbid>
+  </actor>
+  <actor>
+    <name>Zia Kelly</name>
+    <role>Pirate Woman</role>
+    <type>Actor</type>
+    <tmdbid>2872781</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosangela Fasano</name>
+    <role>Alien Woman</role>
+    <type>Actor</type>
+    <tmdbid>3617021</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Chapek</name>
+    <role>Baby Thor</role>
+    <type>Actor</type>
+    <tmdbid>3617022</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Hemsworth</name>
+    <role>Kid Thor</role>
+    <type>Actor</type>
+    <tmdbid>3617023</tmdbid>
+  </actor>
+  <actor>
+    <name>Samson Alston</name>
+    <role>Teenage Thor</role>
+    <type>Actor</type>
+    <tmdbid>3617024</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Spies</name>
+    <role>Asgardian Pan Flute Player</role>
+    <type>Actor</type>
+    <tmdbid>3617025</tmdbid>
+  </actor>
+  <actor>
+    <name>Eliza D'Souza</name>
+    <role>Grace (Axl's Mother)</role>
+    <type>Actor</type>
+    <tmdbid>1416789</tmdbid>
+    <imdbid>nm3987250</imdbid>
+  </actor>
+  <actor>
+    <name>Shari Sebbens</name>
+    <role>Asgardian</role>
+    <type>Actor</type>
+    <tmdbid>1058106</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Zerbst</name>
+    <role>Asgardian</role>
+    <type>Actor</type>
+    <tmdbid>2855844</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Nasser</name>
+    <role>Asgardian</role>
+    <type>Actor</type>
+    <tmdbid>2621666</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenna Owen</name>
+    <role>Asgardian</role>
+    <type>Actor</type>
+    <tmdbid>3617026</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Dart</name>
+    <role>Asgardian</role>
+    <type>Actor</type>
+    <tmdbid>2324314</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Ferrara</name>
+    <role>Falligarian Kid</role>
+    <type>Actor</type>
+    <tmdbid>2420787</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Rodrigo-Porter</name>
+    <role>Pink Alien Sister</role>
+    <type>Actor</type>
+    <tmdbid>3617027</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Rodrigo-Porter</name>
+    <role>Pink Alien Sister</role>
+    <type>Actor</type>
+    <tmdbid>3617028</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaan Guldur</name>
+    <role>Lycan Kid</role>
+    <type>Actor</type>
+    <tmdbid>1877487</tmdbid>
+  </actor>
+  <actor>
+    <name>Indeia Booc</name>
+    <role>Blue Girl</role>
+    <type>Actor</type>
+    <tmdbid>3617030</tmdbid>
+  </actor>
+  <actor>
+    <name>Indiana Ierano</name>
+    <role>Blue Girl</role>
+    <type>Actor</type>
+    <tmdbid>3617032</tmdbid>
+  </actor>
+  <actor>
+    <name>Cayla Sutherland</name>
+    <role>Cocoon Girl</role>
+    <type>Actor</type>
+    <tmdbid>3617035</tmdbid>
+  </actor>
+  <actor>
+    <name>Tui Vincent</name>
+    <role>Alien Child</role>
+    <type>Actor</type>
+    <tmdbid>3617037</tmdbid>
+  </actor>
+  <actor>
+    <name>Garth Wood</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3617039</tmdbid>
+  </actor>
+  <actor>
+    <name>Yure Covich</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1361556</tmdbid>
+  </actor>
+  <actor>
+    <name>Matatia Foa'i</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3617040</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Dukes</name>
+    <role>US Delegate</role>
+    <type>Actor</type>
+    <tmdbid>1331901</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Tsibulya</name>
+    <role>Sycophant God</role>
+    <type>Actor</type>
+    <tmdbid>3617041</tmdbid>
+  </actor>
+  <actor>
+    <name>Arka Das</name>
+    <role>Sycophant God</role>
+    <type>Actor</type>
+    <tmdbid>1496153</tmdbid>
+  </actor>
+  <actor>
+    <name>Simona Paparelli</name>
+    <role>Bao, God of Dumplings (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3194304</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico Cortez</name>
+    <role>Aztec God</role>
+    <type>Actor</type>
+    <tmdbid>1414764</tmdbid>
+  </actor>
+  <actor>
+    <name>Priscilla Doueihy</name>
+    <role>Artemis God</role>
+    <type>Actor</type>
+    <tmdbid>2102960</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Milinkovic</name>
+    <role>Elche Goddess</role>
+    <type>Actor</type>
+    <tmdbid>3617043</tmdbid>
+  </actor>
+  <actor>
+    <name>Chayla Korewha</name>
+    <role>Maori Princess</role>
+    <type>Actor</type>
+    <tmdbid>3617044</tmdbid>
+  </actor>
+  <actor>
+    <name>Imaan Hadchiti</name>
+    <role>Mayan God</role>
+    <type>Actor</type>
+    <tmdbid>3617045</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Foon</name>
+    <role>Minerva</role>
+    <type>Actor</type>
+    <tmdbid>3617046</tmdbid>
+  </actor>
+  <actor>
+    <name>Clariza Vicente</name>
+    <role>Goddess Of The Dead</role>
+    <type>Actor</type>
+    <tmdbid>3069512</tmdbid>
+  </actor>
+  <actor>
+    <name>Kuni Hashimoto</name>
+    <role>Jademurai God</role>
+    <type>Actor</type>
+    <tmdbid>1004719</tmdbid>
+    <imdbid>nm0368058</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Hunter</name>
+    <role>Fur God</role>
+    <type>Actor</type>
+    <tmdbid>1193834</tmdbid>
+    <imdbid>nm1053536</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Paul Hitchcock</name>
+    <role>Masked God</role>
+    <type>Actor</type>
+    <tmdbid>3617048</tmdbid>
+  </actor>
+  <actor>
+    <name>Nazih Kheir</name>
+    <role>Masked God</role>
+    <type>Actor</type>
+    <tmdbid>3617049</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatyana Gillam</name>
+    <role>Zeusette</role>
+    <type>Actor</type>
+    <tmdbid>3617050</tmdbid>
+  </actor>
+  <actor>
+    <name>Indiana Evans</name>
+    <role>Zeusette</role>
+    <type>Actor</type>
+    <tmdbid>214556</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Allsop</name>
+    <role>Zeusette</role>
+    <type>Actor</type>
+    <tmdbid>3617054</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Vasquez</name>
+    <role>Zeusette</role>
+    <type>Actor</type>
+    <tmdbid>3617056</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Todd</name>
+    <role>Zeus Pretty Boy</role>
+    <type>Actor</type>
+    <tmdbid>3606249</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Heuston</name>
+    <role>Zeus Pretty Boy</role>
+    <type>Actor</type>
+    <tmdbid>3428893</tmdbid>
+  </actor>
+  <actor>
+    <name>David Hambly</name>
+    <role>Zeus Harpist</role>
+    <type>Actor</type>
+    <tmdbid>3617062</tmdbid>
+  </actor>
+  <actor>
+    <name>Janessa Dufty</name>
+    <role>Dancing God</role>
+    <type>Actor</type>
+    <tmdbid>3617063</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Caryofyllis</name>
+    <role>Young Jane</role>
+    <type>Actor</type>
+    <tmdbid>2272457</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloé Gouneau</name>
+    <role>Jane's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3545802</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Sinclair</name>
+    <role>Science Friend</role>
+    <type>Actor</type>
+    <tmdbid>1410040</tmdbid>
+    <imdbid>nm4161154</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Yubin Kim</name>
+    <role>Asgardian Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3617066</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Cory</name>
+    <role>Kronan Dwayne</role>
+    <type>Actor</type>
+    <tmdbid>1194885</tmdbid>
+  </actor>
+  <actor>
+    <name>Te Kainga O'Te Hinekahu Waititi</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617067</tmdbid>
+  </actor>
+  <actor>
+    <name>Matewa Kiritapu Waititi</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617084</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Hemsworth</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617068</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleph Millepied</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617085</tmdbid>
+  </actor>
+  <actor>
+    <name>Amalia Millepied</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617069</tmdbid>
+  </actor>
+  <actor>
+    <name>Rex Bale</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617087</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Moriarty</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3317575</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Gray</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617088</tmdbid>
+  </actor>
+  <actor>
+    <name>Luc Barrett</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617071</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Darda</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617089</tmdbid>
+  </actor>
+  <actor>
+    <name>Bo Chambers</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617072</tmdbid>
+  </actor>
+  <actor>
+    <name>Zali Mae Harrison</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617090</tmdbid>
+  </actor>
+  <actor>
+    <name>Leeton Alan Ingrey</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617074</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Stanhope</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617092</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica May Lynne</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617075</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaimee Rose Lynn</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617093</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Thien Doan</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>1973030</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Landers</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617094</tmdbid>
+  </actor>
+  <actor>
+    <name>Sienna Ngeru</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617076</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafael Siemer</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617095</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Siemer</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617078</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronin Fabi</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617097</tmdbid>
+  </actor>
+  <actor>
+    <name>Arias Vang</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617079</tmdbid>
+  </actor>
+  <actor>
+    <name>Corban Ierano</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617098</tmdbid>
+  </actor>
+  <actor>
+    <name>Xander Mouradian</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617082</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Yee</name>
+    <role>Asgardian Kid</role>
+    <type>Actor</type>
+    <tmdbid>3617099</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Levi</name>
+    <role>Fandral (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>69899</tmdbid>
+    <imdbid>nm1157048</imdbid>
+    <tvdbid>8166478</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Stevenson</name>
+    <role>Volstagg (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>56614</tmdbid>
+    <imdbid>nm0829032</imdbid>
+    <tvdbid>361293</tvdbid>
+  </actor>
+  <actor>
+    <name>Tadanobu Asano</name>
+    <role>Hogun (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>13275</tmdbid>
+    <imdbid>nm0038355</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hiddleston</name>
+    <role>Loki (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>91606</tmdbid>
+    <imdbid>nm1089991</imdbid>
+    <tvdbid>311136</tvdbid>
+  </actor>
+  <director tmdbid="55934" imdbid="nm0169806" tvdbid="490689">Taika Waititi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9jrffoywRUU</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>Thor: Love and Thunder</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10648342</imdbid>
+  <tmdbid>616037</tmdbid>
+  <premiered>2022-07-06</premiered>
+  <releasedate>2022-07-06</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>119</runtime>
+  <tagline>Él no es el único.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <set tmdbcolid="131296">
+    <name>Thor - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10648342</uniqueid>
+  <uniqueid type="tmdb">616037</uniqueid>
+  <id>tt10648342</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1700774</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7124</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

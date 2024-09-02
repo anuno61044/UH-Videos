@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Aisha, una niñera inmigrante, se construye una nueva vida en la ciudad de Nueva York mientras cuida al hijo de una familia del Upper East Side, ella se ve obligada a enfrentarse a una verdad oculta que amenaza con destruir su precario sueño americano.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-16 09:52:34</dateadded>
+  <title>La niñera</title>
+  <originaltitle>Nanny</originaltitle>
+  <actor>
+    <name>Anna Diop</name>
+    <role>Aisha</role>
+    <type>Actor</type>
+    <tmdbid>1425924</tmdbid>
+    <imdbid>nm2993012</imdbid>
+    <tvdbid>455938</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Monaghan</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>11705</tmdbid>
+    <imdbid>nm1157358</imdbid>
+    <tvdbid>269484</tvdbid>
+  </actor>
+  <actor>
+    <name>Sinqua Walls</name>
+    <role>Malik</role>
+    <type>Actor</type>
+    <tmdbid>967617</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Spector</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>937913</tmdbid>
+    <imdbid>nm1767528</imdbid>
+    <tvdbid>428612</tvdbid>
+  </actor>
+  <actor>
+    <name>Rose Decker</name>
+    <role>Rose</role>
+    <type>Actor</type>
+    <tmdbid>3062739</tmdbid>
+  </actor>
+  <actor>
+    <name>Leslie Uggams</name>
+    <role>Kathleen</role>
+    <type>Actor</type>
+    <tmdbid>122750</tmdbid>
+    <imdbid>nm0880081</imdbid>
+    <tvdbid>287253</tvdbid>
+  </actor>
+  <actor>
+    <name>Olamide Candide-Johnson</name>
+    <role>Mariatou</role>
+    <type>Actor</type>
+    <tmdbid>2979176</tmdbid>
+  </actor>
+  <actor>
+    <name>Jahleel Kamara</name>
+    <role>Lamine</role>
+    <type>Actor</type>
+    <tmdbid>3594874</tmdbid>
+  </actor>
+  <actor>
+    <name>Princess Adenike</name>
+    <role>Nikki</role>
+    <type>Actor</type>
+    <tmdbid>3229841</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitzie Pratt</name>
+    <role>Florence</role>
+    <type>Actor</type>
+    <tmdbid>3167268</tmdbid>
+  </actor>
+  <actor>
+    <name>Keturah Hamilton</name>
+    <role>Cynthia</role>
+    <type>Actor</type>
+    <tmdbid>1519476</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Quirino</name>
+    <role>Filipina Nanny</role>
+    <type>Actor</type>
+    <tmdbid>3839226</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Jae Park</name>
+    <role>Christie</role>
+    <type>Actor</type>
+    <tmdbid>3839227</tmdbid>
+  </actor>
+  <actor>
+    <name>Zephani Idoko</name>
+    <role>Sallay</role>
+    <type>Actor</type>
+    <tmdbid>2091480</tmdbid>
+  </actor>
+  <actor>
+    <name>Ebbe Bassey</name>
+    <role>Aunt Sarah</role>
+    <type>Actor</type>
+    <tmdbid>177213</tmdbid>
+  </actor>
+  <actor>
+    <name>Alina Carson</name>
+    <role>Annoyed American Girl</role>
+    <type>Actor</type>
+    <tmdbid>2015457</tmdbid>
+  </actor>
+  <actor>
+    <name>Nate Archibald</name>
+    <role>Red Headed Boy</role>
+    <type>Actor</type>
+    <tmdbid>1810281</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Cuomo</name>
+    <role>Bob</role>
+    <type>Actor</type>
+    <tmdbid>95372</tmdbid>
+  </actor>
+  <actor>
+    <name>Gisela Adisa</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+    <tmdbid>1777300</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Graff</name>
+    <role>Friend #1</role>
+    <type>Actor</type>
+    <tmdbid>1436512</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghan Noone</name>
+    <role>Friend #2</role>
+    <type>Actor</type>
+    <tmdbid>2080052</tmdbid>
+  </actor>
+  <actor>
+    <name>Landrea Murray</name>
+    <role>Counselor</role>
+    <type>Actor</type>
+    <tmdbid>3839228</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina Ohashi</name>
+    <role>Airline Representative</role>
+    <type>Actor</type>
+    <tmdbid>2531090</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Divad</name>
+    <role>Yasmine</role>
+    <type>Actor</type>
+    <tmdbid>3839229</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Griffith</name>
+    <role>Cook</role>
+    <type>Actor</type>
+    <tmdbid>163866</tmdbid>
+    <imdbid>nm1064091</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Powell</name>
+    <role>Hostess</role>
+    <type>Actor</type>
+    <tmdbid>1046546</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Haddad</name>
+    <role>Passerby at Pier</role>
+    <type>Actor</type>
+    <tmdbid>3398982</tmdbid>
+  </actor>
+  <actor>
+    <name>Niahlah Hope</name>
+    <role>Mami Wata</role>
+    <type>Actor</type>
+    <tmdbid>2011794</tmdbid>
+  </actor>
+  <actor>
+    <name>Kairo Jayesinghe</name>
+    <role>Baby Boy</role>
+    <type>Actor</type>
+    <tmdbid>3839236</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaia Durosinmi</name>
+    <role>Baby Girl</role>
+    <type>Actor</type>
+    <tmdbid>3839237</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Chateauvert</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2948495</tmdbid>
+  </actor>
+  <director tmdbid="1077578">Nikyatu Jusu</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jW-XKkSC63k</trailer>
+  <rating>5.3</rating>
+  <year>2022</year>
+  <sorttitle>ninera</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10931784</imdbid>
+  <tmdbid>843932</tmdbid>
+  <premiered>2022-11-23</premiered>
+  <releasedate>2022-11-23</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>99</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <studio>Blumhouse Productions</studio>
+  <studio>Amazon Studios</studio>
+  <studio>Stay Gold Features</studio>
+  <studio>Topic Studios</studio>
+  <studio>LinLay Productions</studio>
+  <uniqueid type="tmdb">843932</uniqueid>
+  <uniqueid type="imdb">tt10931784</uniqueid>
+  <id>tt10931784</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1099927</bitrate>
+        <width>720</width>
+        <height>360</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5962</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>no</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>11_fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>de</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>te</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ta</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>15_Greek</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>zh</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Helena e Iván se proponen construir una nueva vida en los bosques de alcornoques, pero sus diferentes puntos de vista sobre cómo vivir en la tierra emergen, desafiando su futuro como pareja.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-24 12:00:40</dateadded>
+  <title>Suro</title>
+  <originaltitle>Suro</originaltitle>
+  <actor>
+    <name>Pol López</name>
+    <role>Iván</role>
+    <type>Actor</type>
+    <tmdbid>1378136</tmdbid>
+    <imdbid>nm2205196</imdbid>
+  </actor>
+  <actor>
+    <name>Vicky Luengo</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>1208946</tmdbid>
+    <imdbid>nm2780716</imdbid>
+    <tvdbid>290930</tvdbid>
+  </actor>
+  <actor>
+    <name>Ilyass El Ouahdani</name>
+    <type>Actor</type>
+    <tmdbid>3716213</tmdbid>
+  </actor>
+  <actor>
+    <name>Josep Estragués</name>
+    <role>Enric</role>
+    <type>Actor</type>
+    <tmdbid>3956193</tmdbid>
+  </actor>
+  <actor>
+    <name>David Parcet</name>
+    <role>Maurici</role>
+    <type>Actor</type>
+    <tmdbid>3956195</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicente Botella</name>
+    <role>Chema</role>
+    <type>Actor</type>
+    <tmdbid>3956196</tmdbid>
+  </actor>
+  <actor>
+    <name>Josep Maria Gómez</name>
+    <role>Manel</role>
+    <type>Actor</type>
+    <tmdbid>3956197</tmdbid>
+  </actor>
+  <actor>
+    <name>Irina Moradell</name>
+    <role>Filla Helena i Ivan</role>
+    <type>Actor</type>
+    <tmdbid>3956198</tmdbid>
+  </actor>
+  <director tmdbid="3109392">Mikel Gurrea</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ibZq3Mv5S6k</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>Suro</sorttitle>
+  <imdbid>tt11069038</imdbid>
+  <tmdbid>835268</tmdbid>
+  <premiered>2022-12-02</premiered>
+  <releasedate>2022-12-02</releasedate>
+  <runtime>116</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Lastor Media</studio>
+  <studio>Irusoin</studio>
+  <studio>Malmo Pictures</studio>
+  <uniqueid type="tmdb">835268</uniqueid>
+  <uniqueid type="imdb">tt11069038</uniqueid>
+  <id>tt11069038</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>315107</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6987</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63835</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

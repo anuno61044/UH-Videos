@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La vida cuidadosamente construida de una mujer da un vuelco cuando regresa una sombra no deseada de su pasado, obligándola a enfrentarse al monstruo que ha evadido durante dos décadas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-05 07:49:23</dateadded>
+  <title>Resurrección</title>
+  <originaltitle>Resurrection</originaltitle>
+  <actor>
+    <name>Rebecca Hall</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>15556</tmdbid>
+    <imdbid>nm0356017</imdbid>
+    <tvdbid>360718</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Roth</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+    <tvdbid>296366</tvdbid>
+  </actor>
+  <actor>
+    <name>Grace Kaufman</name>
+    <role>Abbie</role>
+    <type>Actor</type>
+    <tmdbid>1366083</tmdbid>
+    <imdbid>nm4272103</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Esper</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>6183</tmdbid>
+    <imdbid>nm1092022</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Wong Carbone</name>
+    <role>Gwyn</role>
+    <type>Actor</type>
+    <tmdbid>1478924</tmdbid>
+  </actor>
+  <actor>
+    <name>Winsome Brown</name>
+    <role>Tess</role>
+    <type>Actor</type>
+    <tmdbid>149724</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Drennen</name>
+    <role>Officer Geary</role>
+    <type>Actor</type>
+    <tmdbid>1480514</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Howard</name>
+    <role>Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>130843</tmdbid>
+    <imdbid>nm2674188</imdbid>
+  </actor>
+  <actor>
+    <name>Jaime Zevallos</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>1517536</tmdbid>
+    <tvdbid>449416</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick Klein</name>
+    <role>Biomatix Executive</role>
+    <type>Actor</type>
+    <tmdbid>3080602</tmdbid>
+  </actor>
+  <actor>
+    <name>Bradley Lewis</name>
+    <role>BioMatix Employee</role>
+    <type>Actor</type>
+    <tmdbid>3574578</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocco Palmieri</name>
+    <role>Employee #9</role>
+    <type>Actor</type>
+    <tmdbid>2039445</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Comstock Reynolds</name>
+    <role>Locksmith</role>
+    <type>Actor</type>
+    <tmdbid>2765089</tmdbid>
+  </actor>
+  <actor>
+    <name>Zarra Kaahn</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+    <tmdbid>3574583</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Finnegan</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>3574585</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Johnson</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>1321950</tmdbid>
+  </actor>
+  <director tmdbid="1175482">Andrew Semans</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=59RjB4m2KSQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n6uIvEpxQ9o</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>Resurreccion</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11540726</imdbid>
+  <tmdbid>872497</tmdbid>
+  <premiered>2022-07-29</premiered>
+  <releasedate>2022-07-29</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>104</runtime>
+  <country>United States of America</country>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>Secret Engine</studio>
+  <studio>Square Peg</studio>
+  <studio>Tango Entertainment</studio>
+  <studio>Rosetory</studio>
+  <uniqueid type="imdb">tt11540726</uniqueid>
+  <uniqueid type="tmdb">872497</uniqueid>
+  <id>tt11540726</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070271</bitrate>
+        <width>1198</width>
+        <height>720</height>
+        <aspect>898:539</aspect>
+        <aspectratio>898:539</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6245</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

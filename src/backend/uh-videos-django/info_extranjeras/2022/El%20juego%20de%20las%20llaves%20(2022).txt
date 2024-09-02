@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Laura, Raquel y Cris, íntimas amigas desde hace años convencen a sus respectivos maridos para jugar a un juego que les propone Siena: el juego de las llaves. El juego consiste en que todos ponen sus llaves en un cuenco. Al azar, cada uno escoge unas llaves, y este debe ir a pasar la noche con el dueño o la dueña de las llaves.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-10 09:32:59</dateadded>
+  <title>El juego de las llaves</title>
+  <originaltitle>El juego de las llaves</originaltitle>
+  <actor>
+    <name>Fernando Guallar</name>
+    <role>Sergio</role>
+    <type>Actor</type>
+    <tmdbid>1960046</tmdbid>
+    <imdbid>nm5274367</imdbid>
+    <tvdbid>522026</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Ugarte</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1155088</tmdbid>
+    <imdbid>nm3993669</imdbid>
+  </actor>
+  <actor>
+    <name>Miren Ibarguren</name>
+    <role>Raquel</role>
+    <type>Actor</type>
+    <tmdbid>560247</tmdbid>
+    <imdbid>nm2009186</imdbid>
+    <tvdbid>448248</tvdbid>
+  </actor>
+  <actor>
+    <name>Tamar Novas</name>
+    <role>Quique</role>
+    <type>Actor</type>
+    <tmdbid>33411</tmdbid>
+    <imdbid>nm0636991</imdbid>
+    <tvdbid>526010</tvdbid>
+  </actor>
+  <actor>
+    <name>Alina Nastase</name>
+    <role>Natasha</role>
+    <type>Actor</type>
+    <tmdbid>1682627</tmdbid>
+  </actor>
+  <actor>
+    <name>María Castro</name>
+    <role>Cris</role>
+    <type>Actor</type>
+    <tmdbid>1017115</tmdbid>
+    <imdbid>nm1695705</imdbid>
+    <tvdbid>533836</tvdbid>
+  </actor>
+  <actor>
+    <name>Justina Bustos</name>
+    <role>Siena</role>
+    <type>Actor</type>
+    <tmdbid>1441997</tmdbid>
+    <imdbid>nm4575283</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Farré</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>3403499</tmdbid>
+  </actor>
+  <actor>
+    <name>Cintia García</name>
+    <role>Gala</role>
+    <type>Actor</type>
+    <tmdbid>2896667</tmdbid>
+  </actor>
+  <director tmdbid="1035833">Vicente Villanueva</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ASd2DeS6wmw</trailer>
+  <rating>4.9</rating>
+  <year>2022</year>
+  <sorttitle>juego de las llaves</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14935038</imdbid>
+  <tmdbid>901908</tmdbid>
+  <premiered>2022-04-13</premiered>
+  <releasedate>2022-04-13</releasedate>
+  <runtime>103</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <uniqueid type="imdb">tt14935038</uniqueid>
+  <uniqueid type="tmdb">901908</uniqueid>
+  <id>tt14935038</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1009905</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.999353</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6191</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64337</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

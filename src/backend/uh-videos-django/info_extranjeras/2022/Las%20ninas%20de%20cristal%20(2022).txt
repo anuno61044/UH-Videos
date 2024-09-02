@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Irene es una bailarina que trabaja en el Ballet Clásico Nacional como sustituta de la estrella protagonista. Sin embargo, un día esta fallece y es cuando la joven tendrá que estar bajo las órdenes del coreógrafo Antonio Ruz.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-08 10:13:12</dateadded>
+  <title>Las niñas de cristal</title>
+  <originaltitle>Las niñas de cristal</originaltitle>
+  <actor>
+    <name>María Pedraza</name>
+    <role>Irene</role>
+    <type>Actor</type>
+    <tmdbid>1757167</tmdbid>
+    <imdbid>nm8061858</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Losada</name>
+    <type>Actor</type>
+    <tmdbid>2990289</tmdbid>
+  </actor>
+  <actor>
+    <name>Mona Martínez</name>
+    <type>Actor</type>
+    <tmdbid>1744390</tmdbid>
+    <imdbid>nm2409796</imdbid>
+    <tvdbid>585764</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta Hazas</name>
+    <type>Actor</type>
+    <tmdbid>970027</tmdbid>
+    <imdbid>nm1799971</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Wagener</name>
+    <type>Actor</type>
+    <tmdbid>34053</tmdbid>
+    <imdbid>nm0905676</imdbid>
+    <tvdbid>612098</tvdbid>
+  </actor>
+  <actor>
+    <name>Juanjo Almeida</name>
+    <type>Actor</type>
+    <tmdbid>2269563</tmdbid>
+  </actor>
+  <actor>
+    <name>Jota Castellano</name>
+    <type>Actor</type>
+    <tmdbid>2707831</tmdbid>
+  </actor>
+  <actor>
+    <name>Iria del Río</name>
+    <type>Actor</type>
+    <tmdbid>2264694</tmdbid>
+    <tvdbid>8061060</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica Rookeward</name>
+    <role>Irene (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3474760</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Baglivi</name>
+    <type>Actor</type>
+    <tmdbid>1507350</tmdbid>
+    <tvdbid>630365</tvdbid>
+  </actor>
+  <actor>
+    <name>Hannah Taylor</name>
+    <type>Actor</type>
+    <tmdbid>3474771</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvia Kal</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>3474773</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Delgado</name>
+    <type>Actor</type>
+    <tmdbid>147498</tmdbid>
+  </actor>
+  <actor>
+    <name>Paqui Horcajo</name>
+    <role>Sastra</role>
+    <type>Actor</type>
+    <tmdbid>1651931</tmdbid>
+    <imdbid>nm1914396</imdbid>
+  </actor>
+  <director tmdbid="1534502" imdbid="nm4352422">Jota Linares</director>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>Las ninas de cristal</sorttitle>
+  <imdbid>tt14118046</imdbid>
+  <tmdbid>800407</tmdbid>
+  <premiered>2022-04-08</premiered>
+  <releasedate>2022-04-08</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>139</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Federation Spain</studio>
+  <uniqueid type="imdb">tt14118046</uniqueid>
+  <uniqueid type="tmdb">800407</uniqueid>
+  <id>tt14118046</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1052324</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8346</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>190370</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

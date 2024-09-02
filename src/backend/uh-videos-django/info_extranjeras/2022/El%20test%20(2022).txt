@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Qué elegirías: ¿ser un poco rico ahora, o esperar diez años y ser inmensamente rico? ¿Podrías esperar este tiempo? ¿Por qué? Y lo más importante, ¿podrías llegar a un acuerdo con tu compañero de vida? Los protagonistas tendrán que elegir entre la posibilidad de optar a 100.000 euros en el momento actual o conseguir un millón de euros cuando pasen diez años... Adaptación de la obra de Jordi Vallejo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-28 12:51:37</dateadded>
+  <title>El test</title>
+  <originaltitle>El test</originaltitle>
+  <actor>
+    <name>Alberto San Juan</name>
+    <type>Actor</type>
+    <tmdbid>27462</tmdbid>
+    <imdbid>nm0760664</imdbid>
+  </actor>
+  <actor>
+    <name>Miren Ibarguren</name>
+    <type>Actor</type>
+    <tmdbid>560247</tmdbid>
+    <imdbid>nm2009186</imdbid>
+    <tvdbid>448248</tvdbid>
+  </actor>
+  <actor>
+    <name>Blanca Suárez</name>
+    <type>Actor</type>
+    <tmdbid>106817</tmdbid>
+    <imdbid>nm2848198</imdbid>
+    <tvdbid>306705</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Santos</name>
+    <type>Actor</type>
+    <tmdbid>1050908</tmdbid>
+    <imdbid>nm1685281</imdbid>
+    <tvdbid>8169269</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <director tmdbid="1200444" imdbid="nm1738082">Dani de la Orden</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=02jG4yRXZtk</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>test</sorttitle>
+  <imdbid>tt15502648</imdbid>
+  <tmdbid>901944</tmdbid>
+  <premiered>2022-09-02</premiered>
+  <releasedate>2022-09-02</releasedate>
+  <runtime>101</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Warner Bros. Entertainment España</studio>
+  <studio>Atresmedia</studio>
+  <studio>El Álamo Producciones Cinematográficas S.L.</studio>
+  <uniqueid type="imdb">tt15502648</uniqueid>
+  <uniqueid type="tmdb">901944</uniqueid>
+  <id>tt15502648</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1034730</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6075</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64300</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

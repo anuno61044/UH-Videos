@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Abril de 1940. Los ojos del mundo están puestos en Narvik, un pequeño pueblo en el norte de Noruega, una fuente del mineral de hierro necesario para la maquinaria de guerra de Hitler. A través de dos meses de feroz guerra de invierno, el líder alemán se enfrenta a su primera derrota.]]></plot>
+  <outline><![CDATA[La primera derrota de Hitler]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-10 10:02:37</dateadded>
+  <title>Narvik</title>
+  <originaltitle>Kampen om Narvik</originaltitle>
+  <actor>
+    <name>Kristine Cornelie M. Hartgen</name>
+    <role>Ingrid Tofte</role>
+    <type>Actor</type>
+    <tmdbid>2674084</tmdbid>
+  </actor>
+  <actor>
+    <name>Carl Martin Eggesbø</name>
+    <role>Gunnar Tofte</role>
+    <type>Actor</type>
+    <tmdbid>1593915</tmdbid>
+  </actor>
+  <actor>
+    <name>Christoph Gelfert Mathiesen</name>
+    <role>Ole Tofte</role>
+    <type>Actor</type>
+    <tmdbid>3857934</tmdbid>
+  </actor>
+  <actor>
+    <name>Henrik Mestad</name>
+    <role>Majoren</role>
+    <type>Actor</type>
+    <tmdbid>73550</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathilde Holtedahl Cuhra</name>
+    <role>Bjørg</role>
+    <type>Actor</type>
+    <tmdbid>2543727</tmdbid>
+  </actor>
+  <actor>
+    <name>Stig Henrik Hoff</name>
+    <role>Aslak Tofte</role>
+    <type>Actor</type>
+    <tmdbid>76611</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Bremnes</name>
+    <role>Hotelldirektøren</role>
+    <type>Actor</type>
+    <tmdbid>1750952</tmdbid>
+  </actor>
+  <actor>
+    <name>Christoph Bach</name>
+    <role>Den tyske konsulen</role>
+    <type>Actor</type>
+    <tmdbid>71514</tmdbid>
+    <imdbid>nm1047726</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Campbell</name>
+    <role>Den britiske konsulen</role>
+    <type>Actor</type>
+    <tmdbid>20215</tmdbid>
+  </actor>
+  <actor>
+    <name>Holger Handtke</name>
+    <role>Den tyske generalen</role>
+    <type>Actor</type>
+    <tmdbid>1050916</tmdbid>
+    <imdbid>nm0359675</imdbid>
+  </actor>
+  <actor>
+    <name>Magnus Dugdale</name>
+    <role>Den britiske diplomaten</role>
+    <type>Actor</type>
+    <tmdbid>2374889</tmdbid>
+  </actor>
+  <actor>
+    <name>Edvard Lie Aalstad</name>
+    <role>Menig Hansen</role>
+    <type>Actor</type>
+    <tmdbid>3857929</tmdbid>
+  </actor>
+  <actor>
+    <name>Øyvind Trøite</name>
+    <role>Menig Præstnes</role>
+    <type>Actor</type>
+    <tmdbid>3857930</tmdbid>
+  </actor>
+  <actor>
+    <name>Torfinn Nag</name>
+    <role>Obersten</role>
+    <type>Actor</type>
+    <tmdbid>224579</tmdbid>
+  </actor>
+  <actor>
+    <name>Isak Bakli Aglen</name>
+    <role>Korporal Larsen</role>
+    <type>Actor</type>
+    <tmdbid>2147451</tmdbid>
+  </actor>
+  <actor>
+    <name>Emil Johnsen</name>
+    <role>Ordføreren</role>
+    <type>Actor</type>
+    <tmdbid>1010903</tmdbid>
+  </actor>
+  <actor>
+    <name>Ole Christopher Holth</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>3857931</tmdbid>
+  </actor>
+  <actor>
+    <name>Phénix Brossard</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>1566670</tmdbid>
+  </actor>
+  <actor>
+    <name>Carsten Brocker</name>
+    <role>Tysk lege</role>
+    <type>Actor</type>
+    <tmdbid>3887214</tmdbid>
+  </actor>
+  <actor>
+    <name>Johannes Kurt Schultz</name>
+    <role>Tysk lege</role>
+    <type>Actor</type>
+    <tmdbid>3887215</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Noble</name>
+    <role>Britisk marineoffiser</role>
+    <type>Actor</type>
+    <tmdbid>1337448</tmdbid>
+    <imdbid>nm2906563</imdbid>
+  </actor>
+  <actor>
+    <name>Øyvind Mørk</name>
+    <role>Sofistikert gjest</role>
+    <type>Actor</type>
+    <tmdbid>2553898</tmdbid>
+  </actor>
+  <actor>
+    <name>Leif Arno Hofheinz</name>
+    <role>Tysk soldat</role>
+    <type>Actor</type>
+    <tmdbid>3605055</tmdbid>
+  </actor>
+  <actor>
+    <name>Niels Lian Mildes</name>
+    <role>Tysk soldat</role>
+    <type>Actor</type>
+    <tmdbid>3857941</tmdbid>
+  </actor>
+  <actor>
+    <name>Gøran Lian Mildes</name>
+    <role>Tysk soldat</role>
+    <type>Actor</type>
+    <tmdbid>3857948</tmdbid>
+  </actor>
+  <actor>
+    <name>Bjørn Iversen</name>
+    <role>Løytnant Harald Hegge</role>
+    <type>Actor</type>
+    <tmdbid>1853982</tmdbid>
+  </actor>
+  <actor>
+    <name>Anders Wang</name>
+    <role>Kaptein Arthur Bjørnson</role>
+    <type>Actor</type>
+    <tmdbid>1851081</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Espen Pedersen</name>
+    <role>Sivil</role>
+    <type>Actor</type>
+    <tmdbid>3857936</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy Boquist Hestdahl</name>
+    <role>Fransk soldat</role>
+    <type>Actor</type>
+    <tmdbid>3857940</tmdbid>
+  </actor>
+  <actor>
+    <name>Jørn Magnus Karlsen</name>
+    <role>Norsk soldat</role>
+    <type>Actor</type>
+    <tmdbid>1851086</tmdbid>
+  </actor>
+  <actor>
+    <name>Lars Oddmund Sandvik</name>
+    <role>Norsk soldat</role>
+    <type>Actor</type>
+    <tmdbid>3857937</tmdbid>
+  </actor>
+  <actor>
+    <name>Morten Skillingstad Larsen</name>
+    <role>Norsk soldat</role>
+    <type>Actor</type>
+    <tmdbid>3857945</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Egil Ramslie</name>
+    <role>Norsk soldat</role>
+    <type>Actor</type>
+    <tmdbid>2136174</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Vareide</name>
+    <role>Norsk soldat</role>
+    <type>Actor</type>
+    <tmdbid>1806682</tmdbid>
+  </actor>
+  <director tmdbid="95760">Erik Skjoldbjærg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aF2G_3jGkiM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EXl7aVH4IOM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mr46Twz-BII</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>Narvik</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9737876</imdbid>
+  <tmdbid>619930</tmdbid>
+  <premiered>2022-12-25</premiered>
+  <releasedate>2022-12-25</releasedate>
+  <runtime>109</runtime>
+  <tagline>La primera derrota de Hitler</tagline>
+  <country>Norway</country>
+  <genre>Bélica</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <genre>Acción</genre>
+  <studio>Nordisk Film Norway</studio>
+  <uniqueid type="tmdb">619930</uniqueid>
+  <uniqueid type="imdb">tt9737876</uniqueid>
+  <id>tt9737876</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1024278</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6546</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

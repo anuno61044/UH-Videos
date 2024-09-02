@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando la gerente de una cadena de restaurantes italianos gana la oportunidad de asistir al programa de inmersión educativa de la franquicia en Italia, lo que pensó que sería una escapada romántica se convierte en caos y catástrofe.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-19 07:56:17</dateadded>
+  <title>Spin Me Round</title>
+  <originaltitle>Spin Me Round</originaltitle>
+  <actor>
+    <name>Alison Brie</name>
+    <role>Amber</role>
+    <type>Actor</type>
+    <tmdbid>88029</tmdbid>
+    <imdbid>nm1555340</imdbid>
+    <tvdbid>310946</tvdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Plaza</name>
+    <role>Kat</role>
+    <type>Actor</type>
+    <tmdbid>119592</tmdbid>
+    <imdbid>nm2201555</imdbid>
+    <tvdbid>289995</tvdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Nick</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+    <tvdbid>388133</tvdbid>
+  </actor>
+  <actor>
+    <name>Fred Armisen</name>
+    <role>Ricky</role>
+    <type>Actor</type>
+    <tmdbid>61110</tmdbid>
+    <imdbid>nm0035488</imdbid>
+    <tvdbid>295282</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Heidecker</name>
+    <role>Fran</role>
+    <type>Actor</type>
+    <tmdbid>132856</tmdbid>
+    <imdbid>nm1727367</imdbid>
+  </actor>
+  <actor>
+    <name>Tricia Helfer</name>
+    <role>Sofia</role>
+    <type>Actor</type>
+    <tmdbid>74423</tmdbid>
+    <imdbid>nm1065454</imdbid>
+  </actor>
+  <actor>
+    <name>Ayden Mayeri</name>
+    <role>Jen</role>
+    <type>Actor</type>
+    <tmdbid>1607789</tmdbid>
+  </actor>
+  <actor>
+    <name>Ego Nwodim</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>1726786</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Picking</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>1456280</tmdbid>
+    <imdbid>nm4917623</imdbid>
+    <tvdbid>497631</tvdbid>
+  </actor>
+  <actor>
+    <name>Debby Ryan</name>
+    <role>Susie</role>
+    <type>Actor</type>
+    <tmdbid>123846</tmdbid>
+    <imdbid>nm2913275</imdbid>
+    <tvdbid>301502</tvdbid>
+  </actor>
+  <actor>
+    <name>Molly Shannon</name>
+    <role>Deb</role>
+    <type>Actor</type>
+    <tmdbid>28640</tmdbid>
+    <imdbid>nm0788340</imdbid>
+    <tvdbid>266949</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Sinclair</name>
+    <role>Craig</role>
+    <type>Actor</type>
+    <tmdbid>1410040</tmdbid>
+    <imdbid>nm4161154</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Weedman</name>
+    <role>Liz Bence</role>
+    <type>Actor</type>
+    <tmdbid>1375338</tmdbid>
+    <imdbid>nm1017348</imdbid>
+    <tvdbid>310228</tvdbid>
+  </actor>
+  <actor>
+    <name>Zach Woods</name>
+    <role>Dana</role>
+    <type>Actor</type>
+    <tmdbid>464993</tmdbid>
+    <imdbid>nm2046855</imdbid>
+    <tvdbid>358475</tvdbid>
+  </actor>
+  <actor>
+    <name>Lil Rel Howery</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>1488961</tmdbid>
+    <imdbid>nm2577076</imdbid>
+  </actor>
+  <actor>
+    <name>Stella Chestnut</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>2833631</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Bertucci</name>
+    <role>Vendor</role>
+    <type>Actor</type>
+    <tmdbid>3671105</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Chisci</name>
+    <role>Saleswoman</role>
+    <type>Actor</type>
+    <tmdbid>3671107</tmdbid>
+  </actor>
+  <actor>
+    <name>Camillo Pardi</name>
+    <role>Giorgio</role>
+    <type>Actor</type>
+    <tmdbid>3422616</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Oteri</name>
+    <role>Vale</role>
+    <type>Actor</type>
+    <tmdbid>1955122</tmdbid>
+  </actor>
+  <actor>
+    <name>Mileece I'Anson</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>3758517</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Bertolucci</name>
+    <role>Sous Chef</role>
+    <type>Actor</type>
+    <tmdbid>27423</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Fazio</name>
+    <role>Goth Guy</role>
+    <type>Actor</type>
+    <tmdbid>2495963</tmdbid>
+  </actor>
+  <director tmdbid="17884" imdbid="nm1337885">Jeff Baena</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZrfmRnCs5SQ</trailer>
+  <rating>5.2</rating>
+  <year>2022</year>
+  <sorttitle>Spin Me Round</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14596320</imdbid>
+  <tmdbid>826942</tmdbid>
+  <premiered>2022-08-19</premiered>
+  <releasedate>2022-08-19</releasedate>
+  <criticrating>47</criticrating>
+  <runtime>104</runtime>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Duplass Brothers Productions</studio>
+  <studio>Limelight</studio>
+  <uniqueid type="imdb">tt14596320</uniqueid>
+  <uniqueid type="tmdb">826942</uniqueid>
+  <id>tt14596320</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070633</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>137:74</aspect>
+        <aspectratio>137:74</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6240</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

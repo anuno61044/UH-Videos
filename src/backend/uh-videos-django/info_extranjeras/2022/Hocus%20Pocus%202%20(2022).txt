@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Han pasado 29 años desde que alguien encendió la Vela de la Llama Negra y resucitó a las hermanas Sanderson del siglo XVII, y ahora buscan venganza. De tres estudiantes de secundaria depende impedir que las voraces brujas causen un nuevo tipo de estrago en Salem antes del amanecer el día de Halloween.]]></plot>
+  <outline><![CDATA[Hemos vuelto, brujas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-03 12:27:49</dateadded>
+  <title>El retorno de las brujas 2</title>
+  <originaltitle>Hocus Pocus 2</originaltitle>
+  <actor>
+    <name>Bette Midler</name>
+    <role>Winifred Sanderson</role>
+    <type>Actor</type>
+    <tmdbid>73931</tmdbid>
+    <imdbid>nm0000541</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Jessica Parker</name>
+    <role>Sarah Sanderson</role>
+    <type>Actor</type>
+    <tmdbid>520</tmdbid>
+    <imdbid>nm0000572</imdbid>
+    <tvdbid>254067</tvdbid>
+  </actor>
+  <actor>
+    <name>Kathy Najimy</name>
+    <role>Mary Sanderson</role>
+    <type>Actor</type>
+    <tmdbid>11074</tmdbid>
+    <imdbid>nm0001562</imdbid>
+  </actor>
+  <actor>
+    <name>Whitney Peak</name>
+    <role>Becca</role>
+    <type>Actor</type>
+    <tmdbid>1842860</tmdbid>
+    <tvdbid>549329</tvdbid>
+  </actor>
+  <actor>
+    <name>Belissa Escobedo</name>
+    <role>Izzy</role>
+    <type>Actor</type>
+    <tmdbid>2381442</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilia Buckingham</name>
+    <role>Cassie</role>
+    <type>Actor</type>
+    <tmdbid>2129491</tmdbid>
+  </actor>
+  <actor>
+    <name>Froy Gutierrez</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>1798797</tmdbid>
+    <tvdbid>583802</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Richardson</name>
+    <role>Gilbert</role>
+    <type>Actor</type>
+    <tmdbid>1429453</tmdbid>
+    <imdbid>nm3931538</imdbid>
+    <tvdbid>308191</tvdbid>
+  </actor>
+  <actor>
+    <name>Doug Jones</name>
+    <role>Billy Butcherson</role>
+    <type>Actor</type>
+    <tmdbid>17005</tmdbid>
+    <imdbid>nm0427964</imdbid>
+    <tvdbid>252499</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Hale</name>
+    <role>Mayor / Reverend Traske</role>
+    <type>Actor</type>
+    <tmdbid>25147</tmdbid>
+    <imdbid>nm0355024</imdbid>
+    <tvdbid>303466</tvdbid>
+  </actor>
+  <actor>
+    <name>Hannah Waddingham</name>
+    <role>The Witch Mother</role>
+    <type>Actor</type>
+    <tmdbid>1278487</tmdbid>
+    <imdbid>nm1821446</imdbid>
+    <tvdbid>283520</tvdbid>
+  </actor>
+  <actor>
+    <name>Taylor Henderson</name>
+    <role>Young Winifred</role>
+    <type>Actor</type>
+    <tmdbid>3292787</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Kitchen</name>
+    <role>Young Mary</role>
+    <type>Actor</type>
+    <tmdbid>3292783</tmdbid>
+  </actor>
+  <actor>
+    <name>Juju Journey Brener</name>
+    <role>Young Sarah</role>
+    <type>Actor</type>
+    <tmdbid>2425569</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Fitzgerald</name>
+    <role>John Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>3810220</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Cramp</name>
+    <role>Mr. Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>1865738</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Niemi</name>
+    <role>Townsperson</role>
+    <type>Actor</type>
+    <tmdbid>3797184</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Weller</name>
+    <role>Townsperson</role>
+    <type>Actor</type>
+    <tmdbid>3797134</tmdbid>
+  </actor>
+  <actor>
+    <name>Holly Cinnamon</name>
+    <role>Townsperson</role>
+    <type>Actor</type>
+    <tmdbid>2150549</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick French</name>
+    <role>Townsperson</role>
+    <type>Actor</type>
+    <tmdbid>3810236</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Peed</name>
+    <role>Mrs. Smith</role>
+    <type>Actor</type>
+    <tmdbid>2807378</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Peed</name>
+    <role>Mr. Smith</role>
+    <type>Actor</type>
+    <tmdbid>3255361</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin J. Ryan</name>
+    <role>Young Billy Butcherson</role>
+    <type>Actor</type>
+    <tmdbid>1913991</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Tow</name>
+    <role>Mr. Wilke</role>
+    <type>Actor</type>
+    <tmdbid>1593000</tmdbid>
+  </actor>
+  <actor>
+    <name>Brina</name>
+    <role>School Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1657440</tmdbid>
+    <imdbid>nm3587960</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Wiles</name>
+    <role>Rob</role>
+    <type>Actor</type>
+    <tmdbid>1296108</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Earls</name>
+    <role>Liam</role>
+    <type>Actor</type>
+    <tmdbid>3810226</tmdbid>
+  </actor>
+  <actor>
+    <name>Skyla Sousa</name>
+    <role>Teen Winifred</role>
+    <type>Actor</type>
+    <tmdbid>3715177</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiden Torres</name>
+    <role>Teen Mary</role>
+    <type>Actor</type>
+    <tmdbid>3715178</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Kaufman</name>
+    <role>Teen Sarah</role>
+    <type>Actor</type>
+    <tmdbid>3715173</tmdbid>
+  </actor>
+  <actor>
+    <name>Chhoyang Cheshatsang</name>
+    <role>Thom</role>
+    <type>Actor</type>
+    <tmdbid>3810228</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaylin Pryor</name>
+    <role>Teen Gilbert</role>
+    <type>Actor</type>
+    <tmdbid>3810229</tmdbid>
+  </actor>
+  <actor>
+    <name>Marissa Carpio</name>
+    <role>Food Stall Woman</role>
+    <type>Actor</type>
+    <tmdbid>2148697</tmdbid>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>1745909</tmdbid>
+    <imdbid>nm3608877</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Finnerty</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>151121</tmdbid>
+    <imdbid>nm0278248</imdbid>
+  </actor>
+  <actor>
+    <name>Ginger Minj</name>
+    <role>Drag Queen Winifred</role>
+    <type>Actor</type>
+    <tmdbid>1877692</tmdbid>
+  </actor>
+  <actor>
+    <name>Kornbread Jeté</name>
+    <role>Drag Queen Mary</role>
+    <type>Actor</type>
+    <tmdbid>3291495</tmdbid>
+  </actor>
+  <actor>
+    <name>Kahmora Hall</name>
+    <role>Drag Queen Sarah</role>
+    <type>Actor</type>
+    <tmdbid>2992571</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Rosenthal</name>
+    <role>Glenn</role>
+    <type>Actor</type>
+    <tmdbid>3810216</tmdbid>
+  </actor>
+  <actor>
+    <name>Juvan Elisma</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <tmdbid>2882243</tmdbid>
+  </actor>
+  <actor>
+    <name>Jen D'Angelo</name>
+    <role>Liam's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1506135</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Fichera</name>
+    <role>Scary Scarecrow</role>
+    <type>Actor</type>
+    <tmdbid>1544395</tmdbid>
+    <imdbid>nm2795735</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan von Netzer</name>
+    <role>Roman Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3232728</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Hawker</name>
+    <role>Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1530712</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Dzicek</name>
+    <role>Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>3732655</tmdbid>
+  </actor>
+  <actor>
+    <name>CJ Walsh</name>
+    <role>Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>3810231</tmdbid>
+  </actor>
+  <actor>
+    <name>David Torres Jr.</name>
+    <role>Teacher (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3343355</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Shepherd</name>
+    <role>Emily (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2175565</tmdbid>
+  </actor>
+  <director tmdbid="29214" imdbid="nm0281945">Anne Fletcher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v5lPpRM5psw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YQKkDuTVRbE</trailer>
+  <rating>6</rating>
+  <year>2022</year>
+  <sorttitle>retorno de las brujas 2</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt11909878</imdbid>
+  <tmdbid>642885</tmdbid>
+  <premiered>2022-09-27</premiered>
+  <releasedate>2022-09-27</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>104</runtime>
+  <tagline>Hemos vuelto, brujas.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Weimaraner Republic Pictures</studio>
+  <set tmdbcolid="751156">
+    <name>El retorno de las Brujas - Colección</name>
+  </set>
+  <uniqueid type="tmdb">642885</uniqueid>
+  <uniqueid type="imdb">tt11909878</uniqueid>
+  <id>tt11909878</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1074737</bitrate>
+        <width>1280</width>
+        <height>580</height>
+        <aspect>240:109</aspect>
+        <aspectratio>240:109</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6219</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

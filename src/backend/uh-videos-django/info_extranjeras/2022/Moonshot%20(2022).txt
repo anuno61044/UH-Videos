@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un futuro en que la élite humana ha hecho habitable y colonizado Marte, dos estudiantes universitarios se unen y embarcan en una lanzadera espacial para viajar al Planeta Rojo y reunirse con sus seres queridos.]]></plot>
+  <outline><![CDATA[Encuentra el espacio para conectarte.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-31 09:35:30</dateadded>
+  <title>Moonshot</title>
+  <originaltitle>Moonshot</originaltitle>
+  <actor>
+    <name>Cole Sprouse</name>
+    <role>Walt</role>
+    <type>Actor</type>
+    <tmdbid>56730</tmdbid>
+    <imdbid>nm0819850</imdbid>
+  </actor>
+  <actor>
+    <name>Lana Condor</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>1452046</tmdbid>
+    <imdbid>nm7093076</imdbid>
+    <tvdbid>461815</tvdbid>
+  </actor>
+  <actor>
+    <name>Mason Gooding</name>
+    <role>Calvin Riggins</role>
+    <type>Actor</type>
+    <tmdbid>2174509</tmdbid>
+    <tvdbid>8055554</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Rudd</name>
+    <role>Ginny</role>
+    <type>Actor</type>
+    <tmdbid>1568101</tmdbid>
+    <tvdbid>614174</tvdbid>
+  </actor>
+  <actor>
+    <name>Christine Adams</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>87194</tmdbid>
+    <imdbid>nm0010837</imdbid>
+    <tvdbid>343566</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Buteau</name>
+    <role>Captain Tarter</role>
+    <type>Actor</type>
+    <tmdbid>1475128</tmdbid>
+    <imdbid>nm2345104</imdbid>
+    <tvdbid>360689</tvdbid>
+  </actor>
+  <actor>
+    <name>Zach Braff</name>
+    <role>Leon Kovi</role>
+    <type>Actor</type>
+    <tmdbid>5367</tmdbid>
+    <imdbid>nm0103785</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Esposito</name>
+    <role>Tabby</role>
+    <type>Actor</type>
+    <tmdbid>1492327</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunita Deshpande</name>
+    <role>Celeste</role>
+    <type>Actor</type>
+    <tmdbid>3169511</tmdbid>
+  </actor>
+  <actor>
+    <name>Davey Johnson</name>
+    <role>Earl</role>
+    <type>Actor</type>
+    <tmdbid>1198725</tmdbid>
+  </actor>
+  <actor>
+    <name>Lukas Gage</name>
+    <role>Dalton</role>
+    <type>Actor</type>
+    <tmdbid>1371509</tmdbid>
+    <tvdbid>459805</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Woodward</name>
+    <role>Gary (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20817</tmdbid>
+    <imdbid>nm0940974</imdbid>
+  </actor>
+  <actor>
+    <name>Henson Milam</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>3487921</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Stipe</name>
+    <role>Girl #1</role>
+    <type>Actor</type>
+    <tmdbid>3418880</tmdbid>
+  </actor>
+  <actor>
+    <name>Kabby Borders</name>
+    <role>Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>1466540</tmdbid>
+  </actor>
+  <actor>
+    <name>Drez Ryan</name>
+    <role>Brandon</role>
+    <type>Actor</type>
+    <tmdbid>2239477</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Rivera</name>
+    <role>Drunk Girl</role>
+    <type>Actor</type>
+    <tmdbid>2720295</tmdbid>
+  </actor>
+  <actor>
+    <name>Jac Huberman</name>
+    <role>Angie / Cornelia (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3487930</tmdbid>
+  </actor>
+  <actor>
+    <name>Najah Bradley</name>
+    <role>Gate Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2806735</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathrine Barnes</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2801423</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason MacDonald</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>117311</tmdbid>
+    <imdbid>nm0531772</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Nunez</name>
+    <role>Edgar</role>
+    <type>Actor</type>
+    <tmdbid>3487938</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Tiede</name>
+    <role>Alan / Victor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>963939</tmdbid>
+  </actor>
+  <actor>
+    <name>Grayson Brooks</name>
+    <role>Science Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704160</tmdbid>
+  </actor>
+  <director tmdbid="1780451">Christopher Winterbauer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oHqfe3LcOOE</trailer>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>Moonshot</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12585076</imdbid>
+  <tmdbid>767825</tmdbid>
+  <premiered>2022-05-05</premiered>
+  <releasedate>2022-05-05</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>104</runtime>
+  <tagline>Encuentra el espacio para conectarte.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Berlanti Productions</studio>
+  <studio>Entertainment 360</studio>
+  <uniqueid type="tmdb">767825</uniqueid>
+  <uniqueid type="imdb">tt12585076</uniqueid>
+  <id>tt12585076</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070136</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6250</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

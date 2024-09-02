@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una solitaria novelista romántica de gira con el modelo de la portada de su último libro se ve envuelta en un intento de secuestro que llevará a ambos a una feroz aventura en la jungla.]]></plot>
+  <outline><![CDATA[La aventura será real, los héroes no...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-09 21:00:39</dateadded>
+  <title>La ciudad perdida</title>
+  <originaltitle>The Lost City</originaltitle>
+  <actor>
+    <name>Sandra Bullock</name>
+    <role>Loretta Sage / Angela</role>
+    <type>Actor</type>
+    <tmdbid>18277</tmdbid>
+    <imdbid>nm0000113</imdbid>
+  </actor>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Alan / Dash</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Radcliffe</name>
+    <role>Abigail Fairfax</role>
+    <type>Actor</type>
+    <tmdbid>10980</tmdbid>
+    <imdbid>nm0705356</imdbid>
+    <tvdbid>310820</tvdbid>
+  </actor>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>Jack Trainer</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Da'Vine Joy Randolph</name>
+    <role>Beth Hatten</role>
+    <type>Actor</type>
+    <tmdbid>1180099</tmdbid>
+    <tvdbid>501587</tvdbid>
+  </actor>
+  <actor>
+    <name>Patti Harrison</name>
+    <role>Allison</role>
+    <type>Actor</type>
+    <tmdbid>2079729</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Nunez</name>
+    <role>Adrian Austin</role>
+    <type>Actor</type>
+    <tmdbid>76094</tmdbid>
+    <imdbid>nm1386645</imdbid>
+  </actor>
+  <actor>
+    <name>Bowen Yang</name>
+    <role>Ray the Moderator</role>
+    <type>Actor</type>
+    <tmdbid>1564920</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Lang</name>
+    <role>Fantasy Villain</role>
+    <type>Actor</type>
+    <tmdbid>32747</tmdbid>
+    <imdbid>nm0002332</imdbid>
+  </actor>
+  <actor>
+    <name>Héctor Aníbal</name>
+    <role>Rafi</role>
+    <type>Actor</type>
+    <tmdbid>1676666</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Forbes-Johnson</name>
+    <role>Julian</role>
+    <type>Actor</type>
+    <tmdbid>2023514</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Nee</name>
+    <role>Officer Sawyer</role>
+    <type>Actor</type>
+    <tmdbid>174313</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Lee</name>
+    <role>Officer Gomez</role>
+    <type>Actor</type>
+    <tmdbid>1321411</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Montes</name>
+    <role>Fan</role>
+    <type>Actor</type>
+    <tmdbid>2728131</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Radhames Vasquez Castillo</name>
+    <role>Henchman</role>
+    <type>Actor</type>
+    <tmdbid>3443002</tmdbid>
+  </actor>
+  <actor>
+    <name>Sli Lewis</name>
+    <role>Shades</role>
+    <type>Actor</type>
+    <tmdbid>1746961</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Buccarelli</name>
+    <role>Woman Singing in Village</role>
+    <type>Actor</type>
+    <tmdbid>228203</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Patin</name>
+    <role>Limo Driver</role>
+    <type>Actor</type>
+    <tmdbid>2097023</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Alvarez</name>
+    <role>Cigar Man</role>
+    <type>Actor</type>
+    <tmdbid>232236</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Orr</name>
+    <role>Biker</role>
+    <type>Actor</type>
+    <tmdbid>2587826</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Schoenauer</name>
+    <role>Biker</role>
+    <type>Actor</type>
+    <tmdbid>1217721</tmdbid>
+  </actor>
+  <actor>
+    <name>Edwin Polanco</name>
+    <role>Chef</role>
+    <type>Actor</type>
+    <tmdbid>3520786</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcy Jarreau</name>
+    <role>Barb</role>
+    <type>Actor</type>
+    <tmdbid>1625230</tmdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Oroz</name>
+    <role>Audience Member</role>
+    <type>Actor</type>
+    <tmdbid>3454245</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Rohana</name>
+    <role>Nerdy Teenage Girl</role>
+    <type>Actor</type>
+    <tmdbid>2079135</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Lev</name>
+    <role>Airline Employee</role>
+    <type>Actor</type>
+    <tmdbid>3520788</tmdbid>
+  </actor>
+  <actor>
+    <name>Toussaint Merionne</name>
+    <role>Uniformed Man</role>
+    <type>Actor</type>
+    <tmdbid>2744450</tmdbid>
+  </actor>
+  <actor>
+    <name>Luinis Olaverria</name>
+    <role>Villager</role>
+    <type>Actor</type>
+    <tmdbid>3319955</tmdbid>
+  </actor>
+  <actor>
+    <name>Emerson Gonzalez</name>
+    <role>Local</role>
+    <type>Actor</type>
+    <tmdbid>2032241</tmdbid>
+  </actor>
+  <actor>
+    <name>Wilson Ureña</name>
+    <role>Consular Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3520789</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Wasserman</name>
+    <role>Sound Person</role>
+    <type>Actor</type>
+    <tmdbid>2069444</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Judd</name>
+    <role>PA Announcer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>116477</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Steel</name>
+    <role>Meditation Leader (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3520790</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcos Sánchez</name>
+    <role>Local Policeman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3520792</tmdbid>
+  </actor>
+  <actor>
+    <name>Zain Ullah</name>
+    <role>Assistant TV</role>
+    <type>Actor</type>
+    <tmdbid>3553696</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Pringle</name>
+    <role>Nana</role>
+    <type>Actor</type>
+    <tmdbid>21144</tmdbid>
+    <imdbid>nm0697824</imdbid>
+  </actor>
+  <director tmdbid="174313">Adam Nee</director>
+  <director tmdbid="931525" imdbid="nm1887480">Aaron Nee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EIvwajM1ooE</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>ciudad perdida</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13320622</imdbid>
+  <tmdbid>752623</tmdbid>
+  <premiered>2022-03-24</premiered>
+  <releasedate>2022-03-24</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>112</runtime>
+  <tagline>La aventura será real, los héroes no...</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Comedia</genre>
+  <studio>Paramount</studio>
+  <studio>Fortis Films</studio>
+  <studio>Exhibit A Film</studio>
+  <studio>3dot Productions</studio>
+  <uniqueid type="tmdb">752623</uniqueid>
+  <uniqueid type="imdb">tt13320622</uniqueid>
+  <id>tt13320622</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>996582</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6709</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

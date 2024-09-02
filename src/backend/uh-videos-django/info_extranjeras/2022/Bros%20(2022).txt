@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos hombres con problemas para comprometerse intentan una relación.]]></plot>
+  <outline><![CDATA[Una comedia romántica que te hará disfrutar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-18 12:26:00</dateadded>
+  <title>Bros: Más que amigos</title>
+  <originaltitle>Bros</originaltitle>
+  <actor>
+    <name>Billy Eichner</name>
+    <role>Bobby Leiber</role>
+    <type>Actor</type>
+    <tmdbid>973651</tmdbid>
+    <imdbid>nm2813994</imdbid>
+    <tvdbid>292097</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Macfarlane</name>
+    <role>Aaron</role>
+    <type>Actor</type>
+    <tmdbid>432040</tmdbid>
+    <imdbid>nm1682832</imdbid>
+    <tvdbid>303911</tvdbid>
+  </actor>
+  <actor>
+    <name>Guy Branum</name>
+    <role>Henry</role>
+    <type>Actor</type>
+    <tmdbid>1519685</tmdbid>
+  </actor>
+  <actor>
+    <name>Miss Lawrence</name>
+    <role>Wanda</role>
+    <type>Actor</type>
+    <tmdbid>2129564</tmdbid>
+  </actor>
+  <actor>
+    <name>Ts Madison</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>2330664</tmdbid>
+  </actor>
+  <actor>
+    <name>Dot-Marie Jones</name>
+    <role>Cherry</role>
+    <type>Actor</type>
+    <tmdbid>1219312</tmdbid>
+    <imdbid>nm0427963</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Rash</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>161932</tmdbid>
+    <imdbid>nm0711110</imdbid>
+    <tvdbid>280806</tvdbid>
+  </actor>
+  <actor>
+    <name>Eve Lindley</name>
+    <role>Tamara</role>
+    <type>Actor</type>
+    <tmdbid>1538801</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Raymund</name>
+    <role>Tina</role>
+    <type>Actor</type>
+    <tmdbid>221600</tmdbid>
+    <imdbid>nm2834669</imdbid>
+    <tvdbid>395076</tvdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Díaz</name>
+    <role>Edgar</role>
+    <type>Actor</type>
+    <tmdbid>8695</tmdbid>
+    <imdbid>nm0246585</imdbid>
+  </actor>
+  <actor>
+    <name>Jai Rodriguez</name>
+    <role>Jason</role>
+    <type>Actor</type>
+    <tmdbid>200709</tmdbid>
+    <imdbid>nm1177213</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Bearse</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>18981</tmdbid>
+  </actor>
+  <actor>
+    <name>Debra Messing</name>
+    <role>Debra Messing</role>
+    <type>Actor</type>
+    <tmdbid>23959</tmdbid>
+    <imdbid>nm0005226</imdbid>
+    <tvdbid>324139</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Y. Kim</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>65143</tmdbid>
+    <imdbid>nm0453637</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Covington</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>3696117</tmdbid>
+  </actor>
+  <actor>
+    <name>Symone</name>
+    <role>Marty</role>
+    <type>Actor</type>
+    <tmdbid>2992580</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Faucett</name>
+    <role>Josh Evans</role>
+    <type>Actor</type>
+    <tmdbid>2223359</tmdbid>
+  </actor>
+  <actor>
+    <name>Becca Blackwell</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>1725576</tmdbid>
+  </actor>
+  <actor>
+    <name>D'Lo</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>3095810</tmdbid>
+  </actor>
+  <actor>
+    <name>Bowen Yang</name>
+    <role>Lawrence Grape</role>
+    <type>Actor</type>
+    <tmdbid>1564920</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvey Fierstein</name>
+    <role>Lewis</role>
+    <type>Actor</type>
+    <tmdbid>7420</tmdbid>
+  </actor>
+  <actor>
+    <name>Brock Ciarlelli</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>1409952</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristin Chenoweth</name>
+    <role>Kristin Chenoweth</role>
+    <type>Actor</type>
+    <tmdbid>52775</tmdbid>
+    <imdbid>nm0155693</imdbid>
+    <tvdbid>255077</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Wilkas</name>
+    <role>Handsome Grindr Guy</role>
+    <type>Actor</type>
+    <tmdbid>1066111</tmdbid>
+  </actor>
+  <actor>
+    <name>Dahlia Rodriguez</name>
+    <role>Hannah</role>
+    <type>Actor</type>
+    <tmdbid>3696118</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Delgado</name>
+    <role>Brian</role>
+    <type>Actor</type>
+    <tmdbid>3158180</tmdbid>
+  </actor>
+  <actor>
+    <name>George Dvorsky</name>
+    <role>Bruce</role>
+    <type>Actor</type>
+    <tmdbid>2007735</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamyl Dobson</name>
+    <role>Joel</role>
+    <type>Actor</type>
+    <tmdbid>2137001</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Stiller</name>
+    <role>Ben Stiller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>7399</tmdbid>
+    <imdbid>nm0001774</imdbid>
+  </actor>
+  <actor>
+    <name>Kenan Thompson</name>
+    <role>James Baldwin</role>
+    <type>Actor</type>
+    <tmdbid>77330</tmdbid>
+    <imdbid>nm0860380</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Schumer</name>
+    <role>Eleanor Roosevelt</role>
+    <type>Actor</type>
+    <tmdbid>440414</tmdbid>
+    <tvdbid>311117</tvdbid>
+  </actor>
+  <actor>
+    <name>Seth Meyers</name>
+    <role>Harvey Milk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>62856</tmdbid>
+    <imdbid>nm1024878</imdbid>
+  </actor>
+  <actor>
+    <name>Jillian Gottlieb</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>2666353</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Crom</name>
+    <role>Grape's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>215883</tmdbid>
+  </actor>
+  <actor>
+    <name>Everett Quinton</name>
+    <role>Melvin Funk</role>
+    <type>Actor</type>
+    <tmdbid>3199</tmdbid>
+    <imdbid>nm0704276</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Devito</name>
+    <role>Liberal Dad</role>
+    <type>Actor</type>
+    <tmdbid>1454315</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Ringler</name>
+    <role>Baseball Player's Man</role>
+    <type>Actor</type>
+    <tmdbid>2205400</tmdbid>
+  </actor>
+  <director tmdbid="52934" imdbid="nm0831557">Nicholas Stoller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vuF6yYvPI1A</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>Bros: Mas que amigos</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9731598</imdbid>
+  <tmdbid>614939</tmdbid>
+  <premiered>2022-09-30</premiered>
+  <releasedate>2022-09-30</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>115</runtime>
+  <tagline>Una comedia romántica que te hará disfrutar.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Apatow Productions</studio>
+  <studio>Stoller Global Solutions</studio>
+  <uniqueid type="imdb">tt9731598</uniqueid>
+  <uniqueid type="tmdb">614939</uniqueid>
+  <id>tt9731598</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>964689</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>239:100</aspect>
+        <aspectratio>239:100</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6927</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

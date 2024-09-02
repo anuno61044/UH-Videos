@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Adam Reed es un piloto de caza que viaja en el tiempo. Cuando se estrella en el año 2022, conoce a su yo de 12 años y juntos emprenden una misión para salvar el futuro.]]></plot>
+  <outline><![CDATA[El pasado se encuentra con el futuro.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-11 08:15:30</dateadded>
+  <title>El Proyecto Adam</title>
+  <originaltitle>The Adam Project</originaltitle>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Adam Reed</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>Walker Scobell</name>
+    <role>Young Adam</role>
+    <type>Actor</type>
+    <tmdbid>2867506</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Louis Reed</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+    <tvdbid>296974</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Garner</name>
+    <role>Ellie Reed</role>
+    <type>Actor</type>
+    <tmdbid>9278</tmdbid>
+    <imdbid>nm0004950</imdbid>
+    <tvdbid>294268</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Saldana</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>8691</tmdbid>
+    <imdbid>nm0757855</imdbid>
+    <tvdbid>327422</tvdbid>
+  </actor>
+  <actor>
+    <name>Catherine Keener</name>
+    <role>Maya Sorian</role>
+    <type>Actor</type>
+    <tmdbid>2229</tmdbid>
+    <imdbid>nm0001416</imdbid>
+    <tvdbid>310294</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Mallari Jr.</name>
+    <role>Christos</role>
+    <type>Actor</type>
+    <tmdbid>1020687</tmdbid>
+  </actor>
+  <actor>
+    <name>Braxton Bjerken</name>
+    <role>Ray Dollarhyde</role>
+    <type>Actor</type>
+    <tmdbid>2004111</tmdbid>
+  </actor>
+  <actor>
+    <name>Kasra Wong</name>
+    <role>Chuck</role>
+    <type>Actor</type>
+    <tmdbid>3047827</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucie Guest</name>
+    <role>Young Sorian Body Double</role>
+    <type>Actor</type>
+    <tmdbid>172428</tmdbid>
+  </actor>
+  <actor>
+    <name>Donald Sales</name>
+    <role>Paul the Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1882899</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Li</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>2560616</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Wilkinson</name>
+    <role>Derek</role>
+    <type>Actor</type>
+    <tmdbid>51940</tmdbid>
+    <imdbid>nm1649128</imdbid>
+  </actor>
+  <actor>
+    <name>Milo Shandel</name>
+    <role>Professor</role>
+    <type>Actor</type>
+    <tmdbid>1674262</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaiah Haegert</name>
+    <role>8-year-old Adam</role>
+    <type>Actor</type>
+    <tmdbid>3487782</tmdbid>
+  </actor>
+  <director tmdbid="17825" imdbid="nm0506613">Shawn Levy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ewrZh1kfDH0</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Proyecto Adam</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2463208</imdbid>
+  <tmdbid>696806</tmdbid>
+  <premiered>2022-03-11</premiered>
+  <releasedate>2022-03-11</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>107</runtime>
+  <tagline>El pasado se encuentra con el futuro.</tagline>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>21 Laps Entertainment</studio>
+  <studio>Skydance Media</studio>
+  <studio>Maximum Effort</studio>
+  <uniqueid type="imdb">tt2463208</uniqueid>
+  <uniqueid type="tmdb">696806</uniqueid>
+  <id>tt2463208</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1047116</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6397</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

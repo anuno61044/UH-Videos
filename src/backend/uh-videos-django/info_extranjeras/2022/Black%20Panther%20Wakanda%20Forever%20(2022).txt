@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje, luchan para proteger su nación de la injerencia de potencias mundiales a raíz de la muerte del rey T’Challa. Mientras los wakandianos se esfuerzan por adaptarse a su nueva etapa, los héroes deben actuar unidos, con la ayuda del Perro de la Guerra Nakia y Everett Ross, y forzar un nuevo destino para el reino de Wakanda.]]></plot>
+  <outline><![CDATA[Siempre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-30 20:47:20</dateadded>
+  <title>Black Panther: Wakanda Forever</title>
+  <originaltitle>Black Panther: Wakanda Forever</originaltitle>
+  <actor>
+    <name>Letitia Wright</name>
+    <role>Shuri</role>
+    <type>Actor</type>
+    <tmdbid>1083010</tmdbid>
+    <imdbid>nm4004793</imdbid>
+  </actor>
+  <actor>
+    <name>Lupita Nyong'o</name>
+    <role>Nakia</role>
+    <type>Actor</type>
+    <tmdbid>1267329</tmdbid>
+    <imdbid>nm2143282</imdbid>
+  </actor>
+  <actor>
+    <name>Danai Gurira</name>
+    <role>Okoye</role>
+    <type>Actor</type>
+    <tmdbid>82104</tmdbid>
+    <imdbid>nm1775091</imdbid>
+    <tvdbid>331141</tvdbid>
+  </actor>
+  <actor>
+    <name>Winston Duke</name>
+    <role>M'Baku</role>
+    <type>Actor</type>
+    <tmdbid>1447932</tmdbid>
+    <imdbid>nm6328300</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Thorne</name>
+    <role>Riri Williams / Ironheart</role>
+    <type>Actor</type>
+    <tmdbid>2133996</tmdbid>
+  </actor>
+  <actor>
+    <name>Tenoch Huerta</name>
+    <role>Namor</role>
+    <type>Actor</type>
+    <tmdbid>87265</tmdbid>
+    <imdbid>nm2204178</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Bassett</name>
+    <role>Ramonda</role>
+    <type>Actor</type>
+    <tmdbid>9780</tmdbid>
+    <imdbid>nm0000291</imdbid>
+    <tvdbid>274193</tvdbid>
+  </actor>
+  <actor>
+    <name>Florence Kasumba</name>
+    <role>Ayo</role>
+    <type>Actor</type>
+    <tmdbid>139900</tmdbid>
+    <imdbid>nm0441042</imdbid>
+  </actor>
+  <actor>
+    <name>Michaela Coel</name>
+    <role>Aneka</role>
+    <type>Actor</type>
+    <tmdbid>1368012</tmdbid>
+    <imdbid>nm3948190</imdbid>
+    <tvdbid>534628</tvdbid>
+  </actor>
+  <actor>
+    <name>Mabel Cadena</name>
+    <role>Namora</role>
+    <type>Actor</type>
+    <tmdbid>2213811</tmdbid>
+  </actor>
+  <actor>
+    <name>Lake Bell</name>
+    <role>Dr. Graham</role>
+    <type>Actor</type>
+    <tmdbid>25703</tmdbid>
+    <imdbid>nm1128572</imdbid>
+    <tvdbid>275698</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Livinalli</name>
+    <role>Attuma</role>
+    <type>Actor</type>
+    <tmdbid>992386</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert John Burke</name>
+    <role>Smitty</role>
+    <type>Actor</type>
+    <tmdbid>31512</tmdbid>
+    <imdbid>nm0121559</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Sapani</name>
+    <role>Border Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>165424</tmdbid>
+    <imdbid>nm0764527</imdbid>
+    <tvdbid>320058</tvdbid>
+  </actor>
+  <actor>
+    <name>Isaach De Bankolé</name>
+    <role>River Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>4812</tmdbid>
+    <imdbid>nm0207218</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Chiume</name>
+    <role>Zawavari</role>
+    <type>Actor</type>
+    <tmdbid>1181397</tmdbid>
+    <imdbid>nm0158448</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>Everett Ross</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Louis-Dreyfus</name>
+    <role>Valentina Allegra de Fontaine</role>
+    <type>Actor</type>
+    <tmdbid>15886</tmdbid>
+    <imdbid>nm0000506</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Schiff</name>
+    <role>U.S. Secretary of State</role>
+    <type>Actor</type>
+    <tmdbid>31028</tmdbid>
+    <imdbid>nm0771493</imdbid>
+    <tvdbid>274576</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>N'Jadaka / Erik 'Killmonger' Stevens</role>
+    <type>Actor</type>
+    <tmdbid>135651</tmdbid>
+    <imdbid>nm0430107</imdbid>
+    <tvdbid>294945</tvdbid>
+  </actor>
+  <actor>
+    <name>Dorothy  Steel</name>
+    <role>Merchant Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>1979169</tmdbid>
+  </actor>
+  <actor>
+    <name>Zainab Jah</name>
+    <role>Mining Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>1187540</tmdbid>
+    <tvdbid>312700</tvdbid>
+  </actor>
+  <actor>
+    <name>Sope Aluko</name>
+    <role>Sope the Shaman</role>
+    <type>Actor</type>
+    <tmdbid>1431508</tmdbid>
+    <imdbid>nm3571491</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Noah</name>
+    <role>Griot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>131133</tmdbid>
+    <imdbid>nm3696388</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Roberts</name>
+    <role>WDG Scientist</role>
+    <type>Actor</type>
+    <tmdbid>81097</tmdbid>
+    <imdbid>nm0731575</imdbid>
+  </actor>
+  <actor>
+    <name>Zola Williams</name>
+    <role>Zola</role>
+    <type>Actor</type>
+    <tmdbid>1979176</tmdbid>
+    <imdbid>nm6880265</imdbid>
+  </actor>
+  <actor>
+    <name>Janeshia Adams-Ginyard</name>
+    <role>Nomble</role>
+    <type>Actor</type>
+    <tmdbid>1580160</tmdbid>
+    <imdbid>nm3821861</imdbid>
+  </actor>
+  <actor>
+    <name>Jemini Powell</name>
+    <role>Jemini</role>
+    <type>Actor</type>
+    <tmdbid>3783370</tmdbid>
+  </actor>
+  <actor>
+    <name>Marija Abney</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1979170</tmdbid>
+    <imdbid>nm6112965</imdbid>
+  </actor>
+  <actor>
+    <name>Keisha Tucker</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>2639668</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivy Haralson</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>3271487</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Macatumpag</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>2721476</tmdbid>
+  </actor>
+  <actor>
+    <name>Baaba Maal</name>
+    <role>Funeral Singer</role>
+    <type>Actor</type>
+    <tmdbid>1200635</tmdbid>
+  </actor>
+  <actor>
+    <name>Jabari Exum</name>
+    <role>Drummer / Naval Guard</role>
+    <type>Actor</type>
+    <tmdbid>3783366</tmdbid>
+  </actor>
+  <actor>
+    <name>Massamba Diop</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>3783367</tmdbid>
+  </actor>
+  <actor>
+    <name>Magatte Saw</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>3009829</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Aldana</name>
+    <role>Assembly Chairperson</role>
+    <type>Actor</type>
+    <tmdbid>3783374</tmdbid>
+  </actor>
+  <actor>
+    <name>Gigi Bermingham</name>
+    <role>French Secretary of State</role>
+    <type>Actor</type>
+    <tmdbid>167197</tmdbid>
+  </actor>
+  <actor>
+    <name>Rudolph Massanga</name>
+    <role>Young Mali Technician</role>
+    <type>Actor</type>
+    <tmdbid>3783383</tmdbid>
+  </actor>
+  <actor>
+    <name>Judd Wild</name>
+    <role>Jackson</role>
+    <type>Actor</type>
+    <tmdbid>1554064</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Harrington</name>
+    <role>Rita Salazar</role>
+    <type>Actor</type>
+    <tmdbid>3272149</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Blake Kruse</name>
+    <role>Henderson</role>
+    <type>Actor</type>
+    <tmdbid>1936486</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin James Boykin</name>
+    <role>Cargo Ship Helo Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2145383</tmdbid>
+  </actor>
+  <actor>
+    <name>Anderson Cooper</name>
+    <role>Anderson Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1217309</tmdbid>
+    <imdbid>nm0177846</imdbid>
+  </actor>
+  <actor>
+    <name>Mackenro Alexander</name>
+    <role>River Barrier Naval Guard</role>
+    <type>Actor</type>
+    <tmdbid>3783392</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamaru Usman</name>
+    <role>Naval Officer</role>
+    <type>Actor</type>
+    <tmdbid>1655358</tmdbid>
+  </actor>
+  <actor>
+    <name>Travis Love</name>
+    <role>M'Bele</role>
+    <type>Actor</type>
+    <tmdbid>1367313</tmdbid>
+    <imdbid>nm5344589</imdbid>
+  </actor>
+  <actor>
+    <name>Floyd Anthony Johns Jr.</name>
+    <role>Jabari Warrior</role>
+    <type>Actor</type>
+    <tmdbid>1718655</tmdbid>
+  </actor>
+  <actor>
+    <name>Jermaine Brantley</name>
+    <role>Jabari Warrior</role>
+    <type>Actor</type>
+    <tmdbid>1934535</tmdbid>
+  </actor>
+  <actor>
+    <name>Granger Summerset II</name>
+    <role>Jabari Warrior</role>
+    <type>Actor</type>
+    <tmdbid>3783396</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Lenza</name>
+    <role>MIT Student</role>
+    <type>Actor</type>
+    <tmdbid>3783398</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Wells</name>
+    <role>Federal Agent</role>
+    <type>Actor</type>
+    <tmdbid>121204</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Barrett</name>
+    <role>FBI Special Agent</role>
+    <type>Actor</type>
+    <tmdbid>3063865</tmdbid>
+  </actor>
+  <actor>
+    <name>Lieiry J. Perez Escalera</name>
+    <role>Haitian School Kid</role>
+    <type>Actor</type>
+    <tmdbid>3783401</tmdbid>
+  </actor>
+  <actor>
+    <name>Sevyn Hill</name>
+    <role>Haitian School Kid</role>
+    <type>Actor</type>
+    <tmdbid>3783403</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Macon</name>
+    <role>Haitian School Kid</role>
+    <type>Actor</type>
+    <tmdbid>3783404</tmdbid>
+  </actor>
+  <actor>
+    <name>Skylar Ebron</name>
+    <role>Haitian School Kid</role>
+    <type>Actor</type>
+    <tmdbid>3783405</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Holmes</name>
+    <role>Haitian School Kid</role>
+    <type>Actor</type>
+    <tmdbid>3783406</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Cipra</name>
+    <role>Talokanil Guard</role>
+    <type>Actor</type>
+    <tmdbid>3783407</tmdbid>
+  </actor>
+  <actor>
+    <name>Faya Madrid</name>
+    <role>Talokanil Guard</role>
+    <type>Actor</type>
+    <tmdbid>3783408</tmdbid>
+  </actor>
+  <actor>
+    <name>María Telón</name>
+    <role>Female Mayan Elder</role>
+    <type>Actor</type>
+    <tmdbid>1460794</tmdbid>
+  </actor>
+  <actor>
+    <name>María Mercedes Coroy</name>
+    <role>Namor's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1460792</tmdbid>
+  </actor>
+  <actor>
+    <name>Josué Maychi</name>
+    <role>Shaman</role>
+    <type>Actor</type>
+    <tmdbid>3577420</tmdbid>
+  </actor>
+  <actor>
+    <name>Sal Lopez</name>
+    <role>Yucatan Elder</role>
+    <type>Actor</type>
+    <tmdbid>8666</tmdbid>
+  </actor>
+  <actor>
+    <name>Irma Estella La Guerre</name>
+    <role>Namor's Mother (Older)</role>
+    <type>Actor</type>
+    <tmdbid>2113850</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Chavez</name>
+    <role>Young Namor</role>
+    <type>Actor</type>
+    <tmdbid>3720013</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Castro</name>
+    <role>Hacienda Owner</role>
+    <type>Actor</type>
+    <tmdbid>3320451</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Cantu</name>
+    <role>Friar</role>
+    <type>Actor</type>
+    <tmdbid>168147</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawntae Hughes</name>
+    <role>Fisherman</role>
+    <type>Actor</type>
+    <tmdbid>2557488</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Hibbert</name>
+    <role>Terrified Man</role>
+    <type>Actor</type>
+    <tmdbid>2700648</tmdbid>
+  </actor>
+  <actor>
+    <name>Zaiden James</name>
+    <role>Wakandan Kid</role>
+    <type>Actor</type>
+    <tmdbid>3783409</tmdbid>
+  </actor>
+  <actor>
+    <name>Aba Arthur</name>
+    <role>Naval Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1510786</tmdbid>
+  </actor>
+  <actor>
+    <name>Délé Ogundiran</name>
+    <role>Flower Shop Owner</role>
+    <type>Actor</type>
+    <tmdbid>1496728</tmdbid>
+    <imdbid>nm1894152</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Changaris</name>
+    <role>Pete</role>
+    <type>Actor</type>
+    <tmdbid>2303244</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerio Dorvillen</name>
+    <role>Haitian Taxi Passenger</role>
+    <type>Actor</type>
+    <tmdbid>3783410</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Castor</name>
+    <role>Haitian Taxi Passenger</role>
+    <type>Actor</type>
+    <tmdbid>3783411</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan González Collins</name>
+    <role>Haitian Taxi Passenger</role>
+    <type>Actor</type>
+    <tmdbid>3783412</tmdbid>
+  </actor>
+  <actor>
+    <name>Divine Love Konadu-Sun</name>
+    <role>Toussaint</role>
+    <type>Actor</type>
+    <tmdbid>3783413</tmdbid>
+  </actor>
+  <actor>
+    <name>Chadwick Boseman</name>
+    <role>T'Challa / Black Panther (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>172069</tmdbid>
+    <imdbid>nm1569276</imdbid>
+  </actor>
+  <director tmdbid="1056121" imdbid="nm3363032">Ryan Coogler</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Sog5AgxPwu0</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Black Panther: Wakanda Forever</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9114286</imdbid>
+  <tmdbid>505642</tmdbid>
+  <premiered>2022-11-09</premiered>
+  <releasedate>2022-11-09</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>161</runtime>
+  <tagline>Siempre.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Marvel Studios</studio>
+  <set tmdbcolid="529892">
+    <name>Black Panther - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt9114286</uniqueid>
+  <uniqueid type="tmdb">505642</uniqueid>
+  <id>tt9114286</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>491179</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>23.976</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>161</duration>
+        <durationinseconds>9678</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Thriller sobre los horrores de las citas modernas vistos a través de la desafiante batalla de una joven para sobrevivir a los inusuales apetitos de su nuevo novio.]]></plot>
+  <outline><![CDATA[No es para todos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-07 12:24:40</dateadded>
+  <title>Fresh</title>
+  <originaltitle>Fresh</originaltitle>
+  <actor>
+    <name>Daisy Edgar-Jones</name>
+    <role>Noa</role>
+    <type>Actor</type>
+    <tmdbid>2230991</tmdbid>
+    <tvdbid>7937685</tvdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+    <tvdbid>341591</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonica T. Gibbs</name>
+    <role>Mollie</role>
+    <type>Actor</type>
+    <tmdbid>2135069</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Bang</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>1689089</tmdbid>
+  </actor>
+  <actor>
+    <name>Dayo Okeniyi</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>1030512</tmdbid>
+    <imdbid>nm3912883</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Le Bon</name>
+    <role>Ann</role>
+    <type>Actor</type>
+    <tmdbid>1021684</tmdbid>
+    <imdbid>nm3114649</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Dier</name>
+    <role>Chad</role>
+    <type>Actor</type>
+    <tmdbid>110475</tmdbid>
+    <imdbid>nm2322192</imdbid>
+  </actor>
+  <actor>
+    <name>Alina Maris</name>
+    <role>Melissa</role>
+    <type>Actor</type>
+    <tmdbid>3400259</tmdbid>
+  </actor>
+  <actor>
+    <name>William Belleau</name>
+    <role>Man</role>
+    <type>Actor</type>
+    <tmdbid>222562</tmdbid>
+    <imdbid>nm1372589</imdbid>
+  </actor>
+  <actor>
+    <name>Lachlan Quarmby</name>
+    <role>Instructor</role>
+    <type>Actor</type>
+    <tmdbid>3309871</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunghee Lapell</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3054659</tmdbid>
+  </actor>
+  <actor>
+    <name>Arggy Jenati</name>
+    <role>Cashier</role>
+    <type>Actor</type>
+    <tmdbid>2675172</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Ingram</name>
+    <role>Grocery Man</role>
+    <type>Actor</type>
+    <tmdbid>1647599</tmdbid>
+  </actor>
+  <actor>
+    <name>Frances Leigh</name>
+    <role>Mannequin Woman</role>
+    <type>Actor</type>
+    <tmdbid>2674933</tmdbid>
+  </actor>
+  <actor>
+    <name>Lance Birley</name>
+    <role>Shirtless Guy</role>
+    <type>Actor</type>
+    <tmdbid>3400269</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Costa</name>
+    <role>Hunter</role>
+    <type>Actor</type>
+    <tmdbid>2640051</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Hoe</name>
+    <role>Business Man</role>
+    <type>Actor</type>
+    <tmdbid>1718817</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott McGrath</name>
+    <role>Politician</role>
+    <type>Actor</type>
+    <tmdbid>1929541</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Corness</name>
+    <role>Older Man</role>
+    <type>Actor</type>
+    <tmdbid>1499023</tmdbid>
+  </actor>
+  <director tmdbid="1675644">Mimi Cave</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wKk5VAK1GZQ</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Fresh</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13403046</imdbid>
+  <tmdbid>787752</tmdbid>
+  <premiered>2022-03-03</premiered>
+  <releasedate>2022-03-03</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>114</runtime>
+  <tagline>No es para todos.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <genre>Comedia</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>Hyperobject Industries</studio>
+  <uniqueid type="imdb">tt13403046</uniqueid>
+  <uniqueid type="tmdb">787752</uniqueid>
+  <id>tt13403046</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>976110</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6851</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

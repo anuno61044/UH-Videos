@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de ser dado de baja involuntariamente de las Fuerzas Especiales de EE. UU., James Harper decide apoyar a su familia uniéndose a una organización de contratación privada junto a su mejor amigo y bajo el mando de un compañero veterano. En el extranjero en una misión encubierta, Harper debe evadir a quienes intentan matarlo mientras regresa a casa.]]></plot>
+  <outline><![CDATA[La misión no es lo que parece.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-02 15:52:28</dateadded>
+  <title>The Contractor</title>
+  <originaltitle>The Contractor</originaltitle>
+  <actor>
+    <name>Chris Pine</name>
+    <role>James Harper</role>
+    <type>Actor</type>
+    <tmdbid>62064</tmdbid>
+    <imdbid>nm1517976</imdbid>
+    <tvdbid>255166</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Foster</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>11107</tmdbid>
+    <imdbid>nm0004936</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Jacobs</name>
+    <role>Brianne</role>
+    <type>Actor</type>
+    <tmdbid>94098</tmdbid>
+    <imdbid>nm1843026</imdbid>
+    <tvdbid>303461</tvdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Virgil</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+    <tvdbid>259360</tvdbid>
+  </actor>
+  <actor>
+    <name>Kiefer Sutherland</name>
+    <role>Rusty</role>
+    <type>Actor</type>
+    <tmdbid>2628</tmdbid>
+    <imdbid>nm0000662</imdbid>
+    <tvdbid>255205</tvdbid>
+  </actor>
+  <actor>
+    <name>Florian Munteanu</name>
+    <role>Kaufman</role>
+    <type>Actor</type>
+    <tmdbid>1998541</tmdbid>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Dalton</role>
+    <type>Actor</type>
+    <tmdbid>1105706</tmdbid>
+    <imdbid>nm1324884</imdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Salim</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+    <imdbid>nm0267241</imdbid>
+    <tvdbid>473725</tvdbid>
+  </actor>
+  <actor>
+    <name>Nina Hoss</name>
+    <role>Katia</role>
+    <type>Actor</type>
+    <tmdbid>681</tmdbid>
+    <imdbid>nm0396125</imdbid>
+    <tvdbid>662965</tvdbid>
+  </actor>
+  <actor>
+    <name>J. D. Pardo</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>81391</tmdbid>
+    <imdbid>nm1238555</imdbid>
+  </actor>
+  <actor>
+    <name>Amira Casar</name>
+    <role>Sylvie</role>
+    <type>Actor</type>
+    <tmdbid>20577</tmdbid>
+    <imdbid>nm0142972</imdbid>
+  </actor>
+  <actor>
+    <name>Alexej Manvelov</name>
+    <role>Asset</role>
+    <type>Actor</type>
+    <tmdbid>1073425</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyner Rushing</name>
+    <role>Christine Denton</role>
+    <type>Actor</type>
+    <tmdbid>2163724</tmdbid>
+    <tvdbid>472084</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Dixon</name>
+    <role>Young James</role>
+    <type>Actor</type>
+    <tmdbid>2992962</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Lafontaine</name>
+    <role>Captain</role>
+    <type>Actor</type>
+    <tmdbid>590183</tmdbid>
+    <imdbid>nm0480961</imdbid>
+  </actor>
+  <director tmdbid="119293">Tarik Saleh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e7glvM8Xh0w</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Contractor</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10323676</imdbid>
+  <tmdbid>628900</tmdbid>
+  <premiered>2022-03-10</premiered>
+  <releasedate>2022-03-10</releasedate>
+  <runtime>104</runtime>
+  <tagline>La misión no es lo que parece.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Thunder Road</studio>
+  <studio>30WEST</studio>
+  <studio>STX Entertainment</studio>
+  <studio>Ingenious Media</studio>
+  <uniqueid type="imdb">tt10323676</uniqueid>
+  <uniqueid type="tmdb">628900</uniqueid>
+  <id>tt10323676</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>974235</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>16256:6783</aspect>
+        <aspectratio>16256:6783</aspectratio>
+        <framerate>23.975859</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6218</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

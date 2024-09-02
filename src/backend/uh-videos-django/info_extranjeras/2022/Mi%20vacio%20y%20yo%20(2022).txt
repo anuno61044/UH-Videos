@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Raphi es una persona joven, andrógina y algo naíf. Escribe poemas y sueña con enamorarse de un príncipe azul. De su Francia natal se traslada a Barcelona, donde la realidad está muy lejos de ser como la proyecta. Tras ser diagnosticada de disforia de género, comenzará un arduo viaje para asumir su verdadera identidad. Médicos, compañeras, artistas y hombres que va conociendo le darán sus propios consejos, pero solo el tiempo y la experiencia ayudarán a Raphi a encontrar su lugar en el mundo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-11 10:20:36</dateadded>
+  <title>Mi vacío y yo</title>
+  <originaltitle>Mi vacío y yo</originaltitle>
+  <actor>
+    <name>Raphaëlle Perez</name>
+    <role>Raphi</role>
+    <type>Actor</type>
+    <tmdbid>3389899</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Díaz</name>
+    <type>Actor</type>
+    <tmdbid>3088794</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Ribera</name>
+    <type>Actor</type>
+    <tmdbid>2794862</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Rocatti</name>
+    <type>Actor</type>
+    <tmdbid>1057247</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Fernández Guía</name>
+    <type>Actor</type>
+    <tmdbid>3389902</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Moreno</name>
+    <type>Actor</type>
+    <tmdbid>192105</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Reverón</name>
+    <type>Actor</type>
+    <tmdbid>3389903</tmdbid>
+  </actor>
+  <director tmdbid="1367159">Adrián Silvestre</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WX_mj1p1KEs</trailer>
+  <rating>6.8</rating>
+  <year>2022</year>
+  <sorttitle>Mi vacio y yo</sorttitle>
+  <imdbid>tt16965198</imdbid>
+  <tmdbid>924125</tmdbid>
+  <premiered>2022-01-28</premiered>
+  <releasedate>2022-01-28</releasedate>
+  <runtime>100</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="imdb">tt16965198</uniqueid>
+  <uniqueid type="tmdb">924125</uniqueid>
+  <id>tt16965198</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1565904</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5997</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un veterano de guerra de la Marina enfrenta desafíos mentales y emocionales cuando intenta reintegrarse a la vida civil.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-13 07:50:12</dateadded>
+  <title>Breaking</title>
+  <originaltitle>Breaking</originaltitle>
+  <actor>
+    <name>John Boyega</name>
+    <role>Brian Brown-Easley</role>
+    <type>Actor</type>
+    <tmdbid>236695</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Kenneth Williams</name>
+    <role>Eli Bernard</role>
+    <type>Actor</type>
+    <tmdbid>39390</tmdbid>
+    <imdbid>nm0931324</imdbid>
+    <tvdbid>346769</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicole Beharie</name>
+    <role>Estel Valerie</role>
+    <type>Actor</type>
+    <tmdbid>87243</tmdbid>
+    <imdbid>nm2718512</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Britton</name>
+    <role>Lisa Larson</role>
+    <type>Actor</type>
+    <tmdbid>86310</tmdbid>
+    <imdbid>nm0110168</imdbid>
+    <tvdbid>286257</tvdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Rosa Diaz</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Donovan</name>
+    <role>Major Riddick</role>
+    <type>Actor</type>
+    <tmdbid>52886</tmdbid>
+    <imdbid>nm0232998</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Washington</name>
+    <role>Cassandra Brown-Easley</role>
+    <type>Actor</type>
+    <tmdbid>1688100</tmdbid>
+  </actor>
+  <actor>
+    <name>London Covington</name>
+    <role>Kiah Easley</role>
+    <type>Actor</type>
+    <tmdbid>3632393</tmdbid>
+  </actor>
+  <actor>
+    <name>Robb Derringer</name>
+    <role>Chief Jack Quail</role>
+    <type>Actor</type>
+    <tmdbid>1311361</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmine Giovinazzo</name>
+    <role>Ken Pierce</role>
+    <type>Actor</type>
+    <tmdbid>12800</tmdbid>
+    <imdbid>nm0320547</imdbid>
+    <tvdbid>252124</tvdbid>
+  </actor>
+  <actor>
+    <name>Kate Burton</name>
+    <role>Tami Stackhouse</role>
+    <type>Actor</type>
+    <tmdbid>20879</tmdbid>
+    <imdbid>nm0123632</imdbid>
+    <tvdbid>312595</tvdbid>
+  </actor>
+  <actor>
+    <name>Albert Kong</name>
+    <role>Steve Yen</role>
+    <type>Actor</type>
+    <tmdbid>1449141</tmdbid>
+  </actor>
+  <actor>
+    <name>Elise Neal</name>
+    <role>Juanita</role>
+    <type>Actor</type>
+    <tmdbid>21215</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelli Dawn Hancock</name>
+    <role>Briefing Officer</role>
+    <type>Actor</type>
+    <tmdbid>996826</tmdbid>
+    <imdbid>nm1631127</imdbid>
+  </actor>
+  <actor>
+    <name>Mel Fair</name>
+    <role>Mark Cavanaugh</role>
+    <type>Actor</type>
+    <tmdbid>102777</tmdbid>
+    <imdbid>nm1292126</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Ewell</name>
+    <role>Keith James</role>
+    <type>Actor</type>
+    <tmdbid>946637</tmdbid>
+  </actor>
+  <actor>
+    <name>Miriam Silverman</name>
+    <role>Hana</role>
+    <type>Actor</type>
+    <tmdbid>2537213</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Maree Walsh</name>
+    <role>911 Julie</role>
+    <type>Actor</type>
+    <tmdbid>1423837</tmdbid>
+    <imdbid>nm3836667</imdbid>
+  </actor>
+  <actor>
+    <name>Kim D'Armond</name>
+    <role>911 Wendy</role>
+    <type>Actor</type>
+    <tmdbid>2993223</tmdbid>
+    <imdbid>nm1158722</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Groh</name>
+    <role>Lazy-Eyed Manager</role>
+    <type>Actor</type>
+    <tmdbid>938029</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Aho</name>
+    <role>FBI Agent 1</role>
+    <type>Actor</type>
+    <tmdbid>1425229</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Avila</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2090763</tmdbid>
+  </actor>
+  <actor>
+    <name>John Zderko</name>
+    <role>Vet</role>
+    <type>Actor</type>
+    <tmdbid>1195454</tmdbid>
+  </actor>
+  <actor>
+    <name>Kacey Montoya</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1904419</tmdbid>
+  </actor>
+  <actor>
+    <name>Aries Sanders</name>
+    <role>Bomb Squad Command</role>
+    <type>Actor</type>
+    <tmdbid>2704068</tmdbid>
+  </actor>
+  <actor>
+    <name>William Marquart</name>
+    <role>FBI Agent 2</role>
+    <type>Actor</type>
+    <tmdbid>2157888</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Keene</name>
+    <role>Diana Stuart</role>
+    <type>Actor</type>
+    <tmdbid>1604439</tmdbid>
+  </actor>
+  <actor>
+    <name>Bourke Floyd</name>
+    <role>Bomb Tech</role>
+    <type>Actor</type>
+    <tmdbid>1479883</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Bailey</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>2556821</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Bernard</name>
+    <role>Barricade Cop</role>
+    <type>Actor</type>
+    <tmdbid>1616016</tmdbid>
+    <imdbid>nm0076328</imdbid>
+  </actor>
+  <actor>
+    <name>Malcolm Smith</name>
+    <role>Trevor Easley</role>
+    <type>Actor</type>
+    <tmdbid>3632398</tmdbid>
+  </actor>
+  <actor>
+    <name>Joyce Greenleaf</name>
+    <role>Ida Jones</role>
+    <type>Actor</type>
+    <tmdbid>2115408</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelina Ramirez</name>
+    <role>Station Attendant</role>
+    <type>Actor</type>
+    <tmdbid>3632399</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony D. Washington</name>
+    <role>Mobile Dispatcher</role>
+    <type>Actor</type>
+    <tmdbid>1467896</tmdbid>
+  </actor>
+  <actor>
+    <name>Frantz Durand</name>
+    <role>Police Supervisor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3100215</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Gatewood</name>
+    <role>Veteran (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2813317</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvey B. Jackson</name>
+    <role>Veteran (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2089925</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne-Marie Olsen</name>
+    <role>News Editor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2666755</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Sinacore</name>
+    <role>Paul (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3410786</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Lawrence Singer</name>
+    <role>SWAT Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3632402</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Stephens-Miller</name>
+    <role>Bridget Maxwell (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1593378</tmdbid>
+  </actor>
+  <actor>
+    <name>John Un</name>
+    <role>Eric (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3632403</tmdbid>
+  </actor>
+  <director tmdbid="1663682">Abi Damaris Corbin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5Vi3EhaNOII</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>Breaking</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12311620</imdbid>
+  <tmdbid>801965</tmdbid>
+  <premiered>2022-08-25</premiered>
+  <releasedate>2022-08-25</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>103</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>UpperRoom Productions</studio>
+  <studio>Little Lamb Productions</studio>
+  <studio>Salmira Productions</studio>
+  <studio>Epic</studio>
+  <uniqueid type="imdb">tt12311620</uniqueid>
+  <uniqueid type="tmdb">801965</uniqueid>
+  <id>tt12311620</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1077440</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6202</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

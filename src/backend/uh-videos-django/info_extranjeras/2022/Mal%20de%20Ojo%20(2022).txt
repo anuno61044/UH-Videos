@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La misteriosa enfermedad de su hermana pequeña hará que Nala y su familia viajen a la casa de su abuela para encontrar la cura. En este lugar, ella aprenderá sobre leyendas locales de brujas que se alimentan de la sangre de los niños para permanecer por siempre jóvenes. Mientras más conoce Nala sobre estos seres diabólicos, más se convencerá de que su abuela podría ser una bruja.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-17 13:19:23</dateadded>
+  <title>Mal de ojo</title>
+  <originaltitle>Mal de ojo</originaltitle>
+  <actor>
+    <name>Ofelia Medina</name>
+    <role>Josefa</role>
+    <type>Actor</type>
+    <tmdbid>104982</tmdbid>
+    <imdbid>nm0575754</imdbid>
+  </actor>
+  <actor>
+    <name>Arap Bethke</name>
+    <role>Guillermo</role>
+    <type>Actor</type>
+    <tmdbid>1233729</tmdbid>
+    <imdbid>nm1376964</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Castillo</name>
+    <role>Vecina</role>
+    <type>Actor</type>
+    <tmdbid>1198776</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauro González</name>
+    <role>Pedro</role>
+    <type>Actor</type>
+    <tmdbid>2255014</tmdbid>
+  </actor>
+  <actor>
+    <name>Mildred Motta</name>
+    <type>Actor</type>
+    <tmdbid>3442514</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivanna Sofia Ferro</name>
+    <type>Actor</type>
+    <tmdbid>3442515</tmdbid>
+  </actor>
+  <actor>
+    <name>Paloma Alvamar</name>
+    <role>Abigail</role>
+    <type>Actor</type>
+    <tmdbid>3442516</tmdbid>
+  </actor>
+  <actor>
+    <name>Paola Miguel</name>
+    <role>Nala</role>
+    <type>Actor</type>
+    <tmdbid>2537951</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Guisa Koestinger</name>
+    <role>Mercader</role>
+    <type>Actor</type>
+    <tmdbid>1299876</tmdbid>
+    <imdbid>nm3240781</imdbid>
+  </actor>
+  <director tmdbid="1309478">Isaac Ezban</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TXtAhO72KqM</trailer>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>Mal de ojo</sorttitle>
+  <imdbid>tt15847880</imdbid>
+  <tmdbid>943221</tmdbid>
+  <premiered>2022-09-22</premiered>
+  <releasedate>2022-09-22</releasedate>
+  <runtime>100</runtime>
+  <country>Mexico</country>
+  <genre>Terror</genre>
+  <studio>Film Tank</studio>
+  <studio>Cinépolis Producciones</studio>
+  <studio>Cinema Máquina</studio>
+  <uniqueid type="tmdb">943221</uniqueid>
+  <uniqueid type="imdb">tt15847880</uniqueid>
+  <id>tt15847880</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1074008</bitrate>
+        <width>1704</width>
+        <height>720</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6009</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64269</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

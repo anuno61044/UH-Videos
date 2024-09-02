@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A fines de la década de 1990, la llegada del anciano inválido Patrick a la casa de Marion y Tom desencadena la exploración de eventos sísmicos de 40 años antes: la relación apasionada entre Tom y Patrick en un momento en que la homosexualidad era ilegal.]]></plot>
+  <outline><![CDATA[Deja que se apodere de ti.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-04 08:11:06</dateadded>
+  <title>My Policeman</title>
+  <originaltitle>My Policeman</originaltitle>
+  <actor>
+    <name>Harry Styles</name>
+    <role>Tom Burgess</role>
+    <type>Actor</type>
+    <tmdbid>1052109</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Corrin</name>
+    <role>Marion Taylor</role>
+    <type>Actor</type>
+    <tmdbid>2324569</tmdbid>
+    <imdbid>nm10128408</imdbid>
+  </actor>
+  <actor>
+    <name>David Dawson</name>
+    <role>Patrick Hazlewood</role>
+    <type>Actor</type>
+    <tmdbid>1244412</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina McKee</name>
+    <role>Older Marion</role>
+    <type>Actor</type>
+    <tmdbid>18022</tmdbid>
+    <imdbid>nm0571160</imdbid>
+    <tvdbid>260544</tvdbid>
+  </actor>
+  <actor>
+    <name>Rupert Everett</name>
+    <role>Older Patrick</role>
+    <type>Actor</type>
+    <tmdbid>4757</tmdbid>
+    <imdbid>nm0000391</imdbid>
+  </actor>
+  <actor>
+    <name>Linus Roache</name>
+    <role>Older Tom</role>
+    <type>Actor</type>
+    <tmdbid>3900</tmdbid>
+    <imdbid>nm0730070</imdbid>
+    <tvdbid>339968</tvdbid>
+  </actor>
+  <actor>
+    <name>Kadiff Kirwan</name>
+    <role>Nigel</role>
+    <type>Actor</type>
+    <tmdbid>1411379</tmdbid>
+    <tvdbid>496045</tvdbid>
+  </actor>
+  <actor>
+    <name>Dora Davis</name>
+    <role>Sylvie</role>
+    <type>Actor</type>
+    <tmdbid>3280236</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Tiernan</name>
+    <role>Bert</role>
+    <type>Actor</type>
+    <tmdbid>17290</tmdbid>
+    <imdbid>nm0862907</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Bandeira</name>
+    <role>Leonard</role>
+    <type>Actor</type>
+    <tmdbid>2448692</tmdbid>
+    <tvdbid>9101711</tvdbid>
+  </actor>
+  <actor>
+    <name>Tristan Sturrock</name>
+    <role>Defence Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>24267</tmdbid>
+    <imdbid>nm0836435</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Drysdale</name>
+    <role>Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>1441182</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Dempsey</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>69773</tmdbid>
+  </actor>
+  <actor>
+    <name>Maddie Rice</name>
+    <role>Jackie Stewart</role>
+    <type>Actor</type>
+    <tmdbid>2304549</tmdbid>
+  </actor>
+  <actor>
+    <name>Róisín Monaghan</name>
+    <role>Teacher #1</role>
+    <type>Actor</type>
+    <tmdbid>3542156</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Lockett</name>
+    <role>Teacher #2</role>
+    <type>Actor</type>
+    <tmdbid>2954786</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre Bergman</name>
+    <role>Grandfather</role>
+    <type>Actor</type>
+    <tmdbid>2355283</tmdbid>
+    <imdbid>nm10533370</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Candelent</name>
+    <role>Main Workman</role>
+    <type>Actor</type>
+    <tmdbid>3542157</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Potter</name>
+    <role>Roy</role>
+    <type>Actor</type>
+    <tmdbid>3542158</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Cant</name>
+    <role>Rudy</role>
+    <type>Actor</type>
+    <tmdbid>1220111</tmdbid>
+  </actor>
+  <actor>
+    <name>James Hare</name>
+    <role>Pier Visitor</role>
+    <type>Actor</type>
+    <tmdbid>3542159</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Attwell</name>
+    <role>Prison Officer</role>
+    <type>Actor</type>
+    <tmdbid>1502462</tmdbid>
+    <imdbid>nm4222038</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Ayala-Cole</name>
+    <role>Teddy Boy</role>
+    <type>Actor</type>
+    <tmdbid>3740365</tmdbid>
+  </actor>
+  <actor>
+    <name>Freya Mavor</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>1185769</tmdbid>
+    <imdbid>nm4087606</imdbid>
+  </actor>
+  <director tmdbid="1187130">Michael Grandage</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9XLPyPTWCJA</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>My Policeman</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13139228</imdbid>
+  <tmdbid>744114</tmdbid>
+  <premiered>2022-10-21</premiered>
+  <releasedate>2022-10-21</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>114</runtime>
+  <tagline>Deja que se apodere de ti.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Independent</studio>
+  <studio>Amazon Studios</studio>
+  <studio>Berlanti Productions</studio>
+  <uniqueid type="imdb">tt13139228</uniqueid>
+  <uniqueid type="tmdb">744114</uniqueid>
+  <id>tt13139228</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>978742</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6850</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

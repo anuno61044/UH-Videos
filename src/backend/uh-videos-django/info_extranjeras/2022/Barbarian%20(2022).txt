@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven que viaja a Detroit para una entrevista de trabajo alquila una casa para pasar la noche. Pero cuando llega a altas horas de la noche, descubre que la casa está doblemente reservada y que un hombre extraño ya se está quedando allí. En contra de su buen juicio, decide pasar la noche allí, pero pronto descubre que hay mucho más que temer que un invitado inesperado.]]></plot>
+  <outline><![CDATA[Algunos se quedan una noche. Algunos se quedan una semana. Algunos nunca se van.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-27 11:28:09</dateadded>
+  <title>Barbarian</title>
+  <originaltitle>Barbarian</originaltitle>
+  <actor>
+    <name>Georgina Campbell</name>
+    <role>Tess</role>
+    <type>Actor</type>
+    <tmdbid>1335315</tmdbid>
+    <imdbid>nm3569284</imdbid>
+    <tvdbid>540352</tvdbid>
+  </actor>
+  <actor>
+    <name>Bill Skarsgård</name>
+    <role>Keith</role>
+    <type>Actor</type>
+    <tmdbid>137905</tmdbid>
+    <imdbid>nm0803889</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Long</name>
+    <role>AJ</role>
+    <type>Actor</type>
+    <tmdbid>15033</tmdbid>
+    <imdbid>nm0519043</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Patrick Davis</name>
+    <role>The Mother</role>
+    <type>Actor</type>
+    <tmdbid>1446860</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Brake</name>
+    <role>Frank</role>
+    <type>Actor</type>
+    <tmdbid>3901</tmdbid>
+    <imdbid>nm0104114</imdbid>
+  </actor>
+  <actor>
+    <name>Kurt Braunohler</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>1059412</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaymes Butler</name>
+    <role>Andre</role>
+    <type>Actor</type>
+    <tmdbid>74225</tmdbid>
+    <imdbid>nm0124964</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Sörensen</name>
+    <role>Bonnie Zane</role>
+    <type>Actor</type>
+    <tmdbid>3340764</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Fowler</name>
+    <role>Meg</role>
+    <type>Actor</type>
+    <tmdbid>3646608</tmdbid>
+  </actor>
+  <actor>
+    <name>J.R. Esposito</name>
+    <role>Jeff</role>
+    <type>Actor</type>
+    <tmdbid>1453290</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Nichols</name>
+    <role>Catherine</role>
+    <type>Actor</type>
+    <tmdbid>1685018</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Bosworth</name>
+    <role>Melisa</role>
+    <type>Actor</type>
+    <tmdbid>7517</tmdbid>
+    <imdbid>nm0098378</imdbid>
+  </actor>
+  <actor>
+    <name>Brooke Dillman</name>
+    <role>AJ's Mom</role>
+    <type>Actor</type>
+    <tmdbid>54718</tmdbid>
+    <imdbid>nm1006868</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Paxton</name>
+    <role>Nursing Video Narration / Assistant / Megan</role>
+    <type>Actor</type>
+    <tmdbid>60072</tmdbid>
+    <imdbid>nm0668139</imdbid>
+  </actor>
+  <actor>
+    <name>Will Greenberg</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>203750</tmdbid>
+    <imdbid>nm1435603</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Morse</name>
+    <role>Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>1419292</tmdbid>
+  </actor>
+  <actor>
+    <name>Trevor Van Uden</name>
+    <role>Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>2589498</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cregger</name>
+    <role>Everett</role>
+    <type>Actor</type>
+    <tmdbid>84833</tmdbid>
+    <imdbid>nm1199107</imdbid>
+  </actor>
+  <actor>
+    <name>Devina Vassileva</name>
+    <role>Property Manager Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3646617</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalina Stancheva</name>
+    <role>Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>3118173</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Stanishkov</name>
+    <role>Gas Station Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2575281</tmdbid>
+  </actor>
+  <director tmdbid="84833" imdbid="nm1199107">Zach Cregger</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dQHXMMGeAZ4</trailer>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>Barbarian</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15791034</imdbid>
+  <tmdbid>913290</tmdbid>
+  <premiered>2022-09-08</premiered>
+  <releasedate>2022-09-08</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>103</runtime>
+  <tagline>Algunos se quedan una noche. Algunos se quedan una semana. Algunos nunca se van.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Regency Enterprises</studio>
+  <studio>Vertigo Entertainment</studio>
+  <studio>BoulderLight Pictures</studio>
+  <studio>Hammerstone Studios</studio>
+  <studio>Almost Never Films</studio>
+  <studio>20th Century Studios</studio>
+  <uniqueid type="imdb">tt15791034</uniqueid>
+  <uniqueid type="tmdb">913290</uniqueid>
+  <id>tt15791034</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1085746</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>137:74</aspect>
+        <aspectratio>137:74</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6157</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

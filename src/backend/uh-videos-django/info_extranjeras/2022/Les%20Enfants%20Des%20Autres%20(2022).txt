@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Rachel tiene 40 años, no tiene hijos. Ella ama su vida: sus estudiantes de secundaria, sus amigos, sus ex, sus lecciones de guitarra. Al enamorarse de Ali, se encariña con Leila, su hija de 4 años. Ella la arropa y la ama como si fuera suya. Pero amar a los hijos de otras personas es un riesgo que vale la pena correr...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-10 09:58:38</dateadded>
+  <title>Los hijos de otros</title>
+  <originaltitle>Les Enfants des autres</originaltitle>
+  <actor>
+    <name>Virginie Efira</name>
+    <role>Rachel Friedmann</role>
+    <type>Actor</type>
+    <tmdbid>118178</tmdbid>
+  </actor>
+  <actor>
+    <name>Roschdy Zem</name>
+    <role>Ali Ben Attia</role>
+    <type>Actor</type>
+    <tmdbid>20442</tmdbid>
+    <imdbid>nm0954704</imdbid>
+  </actor>
+  <actor>
+    <name>Chiara Mastroianni</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>20710</tmdbid>
+  </actor>
+  <actor>
+    <name>Callie Ferreira-Goncalves</name>
+    <role>Leïla</role>
+    <type>Actor</type>
+    <tmdbid>3667088</tmdbid>
+  </actor>
+  <actor>
+    <name>Yamée Couture</name>
+    <role>Louana Friedmann</role>
+    <type>Actor</type>
+    <tmdbid>2064272</tmdbid>
+  </actor>
+  <actor>
+    <name>Henri-Noël Tabary</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>1965934</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Lefebvre</name>
+    <role>Dylan Leklou</role>
+    <type>Actor</type>
+    <tmdbid>2981579</tmdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Pouderoux</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>1318257</tmdbid>
+    <imdbid>nm3540169</imdbid>
+  </actor>
+  <actor>
+    <name>Michel Zlotowski</name>
+    <role>Monsieur Friedmann</role>
+    <type>Actor</type>
+    <tmdbid>2255261</tmdbid>
+  </actor>
+  <actor>
+    <name>Mireille Perrier</name>
+    <role>Madame Roucheray</role>
+    <type>Actor</type>
+    <tmdbid>53905</tmdbid>
+  </actor>
+  <actor>
+    <name>Frederick Wiseman</name>
+    <role>Doctor Wiseman</role>
+    <type>Actor</type>
+    <tmdbid>138006</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonia Buresi</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>1956832</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlène Saldana</name>
+    <role>Soraya</role>
+    <type>Actor</type>
+    <tmdbid>1345996</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Berest</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>1325586</tmdbid>
+  </actor>
+  <actor>
+    <name>Marwen Okbi</name>
+    <role>Tarik</role>
+    <type>Actor</type>
+    <tmdbid>3667089</tmdbid>
+  </actor>
+  <actor>
+    <name>Fadila Belkebla</name>
+    <role>La professeure principale</role>
+    <type>Actor</type>
+    <tmdbid>180962</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Kolinka</name>
+    <role>L'homme de la synagogue</role>
+    <type>Actor</type>
+    <tmdbid>1186111</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Verdier</name>
+    <role>Le père de Dylan</role>
+    <type>Actor</type>
+    <tmdbid>51112</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Riehl</name>
+    <role>Le serveur de la brasserie</role>
+    <type>Actor</type>
+    <tmdbid>3053824</tmdbid>
+  </actor>
+  <actor>
+    <name>Affif Benaouda</name>
+    <role>Le pizzaiolo</role>
+    <type>Actor</type>
+    <tmdbid>3910430</tmdbid>
+  </actor>
+  <actor>
+    <name>Yann Féry</name>
+    <role>Le professeur de guitare</role>
+    <type>Actor</type>
+    <tmdbid>3910431</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Léonian</name>
+    <role>Le gardien de l'immeuble de Rachel</role>
+    <type>Actor</type>
+    <tmdbid>2486989</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Pardo</name>
+    <role>La passagère du train</role>
+    <type>Actor</type>
+    <tmdbid>3884627</tmdbid>
+  </actor>
+  <actor>
+    <name>Joël Dupré La Tour</name>
+    <role>Le client du restaurant avec Paul</role>
+    <type>Actor</type>
+    <tmdbid>3910432</tmdbid>
+  </actor>
+  <actor>
+    <name>Lydie Muller</name>
+    <role>Une professeure du lycée</role>
+    <type>Actor</type>
+    <tmdbid>1710670</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvain Saint-Jalmes</name>
+    <role>Le proviseur adjoint</role>
+    <type>Actor</type>
+    <tmdbid>3910433</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Alopé</name>
+    <role>Le petit ami de Louana</role>
+    <type>Actor</type>
+    <tmdbid>3910434</tmdbid>
+  </actor>
+  <actor>
+    <name>Véréna Paravel</name>
+    <role>Miriama</role>
+    <type>Actor</type>
+    <tmdbid>1081448</tmdbid>
+  </actor>
+  <actor>
+    <name>Oumar Diawara</name>
+    <role>Oumar</role>
+    <type>Actor</type>
+    <tmdbid>3910435</tmdbid>
+  </actor>
+  <director tmdbid="236889">Rebecca Zlotowski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qmCJ4lqzCVg</trailer>
+  <rating>6.8</rating>
+  <year>2022</year>
+  <sorttitle>Los hijos de otros</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt15403712</imdbid>
+  <tmdbid>803694</tmdbid>
+  <premiered>2022-09-21</premiered>
+  <releasedate>2022-09-21</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>104</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>France 3 Cinéma</studio>
+  <studio>Les Films Velvet</studio>
+  <uniqueid type="tmdb">803694</uniqueid>
+  <uniqueid type="imdb">tt15403712</uniqueid>
+  <id>tt15403712</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>717214</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6223</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

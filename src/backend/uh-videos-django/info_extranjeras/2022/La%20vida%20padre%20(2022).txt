@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mikel, un joven y ambicioso chef, recibe la visita inesperada de su padre, desaparecido hace treinta años. En un momento crítico para el futuro de su restaurante, Mikel deberá hacerse cargo del alocado e imprevisible Juan, un verdadero huracán de vitalidad que pondrá a prueba todas sus ideas sobre la cocina y la vida.]]></plot>
+  <outline><![CDATA[Solo hay algo peor que vivir sin padre, que vuelva...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-01 21:57:18</dateadded>
+  <title>La vida padre</title>
+  <originaltitle>La vida padre</originaltitle>
+  <actor>
+    <name>Karra Elejalde</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>24977</tmdbid>
+    <imdbid>nm0253216</imdbid>
+  </actor>
+  <actor>
+    <name>Enric Auquer</name>
+    <role>Mikel</role>
+    <type>Actor</type>
+    <tmdbid>1436707</tmdbid>
+    <imdbid>nm3606001</imdbid>
+    <tvdbid>8159706</tvdbid>
+  </actor>
+  <actor>
+    <name>Megan Montaner</name>
+    <role>Nagore</role>
+    <type>Actor</type>
+    <tmdbid>1298489</tmdbid>
+    <imdbid>nm3816157</imdbid>
+    <tvdbid>520382</tvdbid>
+  </actor>
+  <actor>
+    <name>Lander Otaola</name>
+    <role>Ander</role>
+    <type>Actor</type>
+    <tmdbid>544008</tmdbid>
+    <imdbid>nm3085379</imdbid>
+  </actor>
+  <actor>
+    <name>Maribel Salas</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>1428816</tmdbid>
+    <imdbid>nm1645550</imdbid>
+  </actor>
+  <actor>
+    <name>Gorka Aguinagalde</name>
+    <role>Ignacio</role>
+    <type>Actor</type>
+    <tmdbid>590309</tmdbid>
+    <imdbid>nm0013660</imdbid>
+  </actor>
+  <actor>
+    <name>Yanet Sierra</name>
+    <role>Altagracia</role>
+    <type>Actor</type>
+    <tmdbid>3782108</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Buarque</name>
+    <role>Inspector Michelin</role>
+    <type>Actor</type>
+    <tmdbid>3782113</tmdbid>
+  </actor>
+  <actor>
+    <name>Óscar Reyes</name>
+    <role>Subchef Margarito</role>
+    <type>Actor</type>
+    <tmdbid>1221826</tmdbid>
+    <imdbid>nm1616179</imdbid>
+    <tvdbid>448245</tvdbid>
+  </actor>
+  <actor>
+    <name>Unax Hayden</name>
+    <role>Mikel child</role>
+    <type>Actor</type>
+    <tmdbid>3782119</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo de Santos</name>
+    <role>Ander child</role>
+    <type>Actor</type>
+    <tmdbid>3782120</tmdbid>
+  </actor>
+  <director tmdbid="1701864">Joaquín Mazón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nJxcQmYeVg4</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>vida padre</sorttitle>
+  <imdbid>tt14465708</imdbid>
+  <tmdbid>855810</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <runtime>89</runtime>
+  <tagline>Solo hay algo peor que vivir sin padre, que vuelva...</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Mod Producciones</studio>
+  <studio>Kowalski Films</studio>
+  <uniqueid type="imdb">tt14465708</uniqueid>
+  <uniqueid type="tmdb">855810</uniqueid>
+  <id>tt14465708</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1077319</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5335</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64239</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

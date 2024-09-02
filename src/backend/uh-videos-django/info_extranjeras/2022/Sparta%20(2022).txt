@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ewald se mudó en su día a Rumanía. Años después y entrado ya en los 40, busca comenzar de nuevo. Deja a su novia y se muda al interior. Con la ayuda de jóvenes de la zona, transforma una escuela en ruinas en una fortaleza. Los niños disfrutan de una existencia nueva y sin preocupaciones. Pero la llama de la desconfianza no tardará en surgir entre los habitantes. Y a Ewald no le quedará otra opción que enfrentarse a una verdad que ha mantenido oculta durante mucho tiempo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-15 10:47:47</dateadded>
+  <title>Sparta</title>
+  <originaltitle>Sparta</originaltitle>
+  <actor>
+    <name>Georg Friedrich</name>
+    <role>Ewald</role>
+    <type>Actor</type>
+    <tmdbid>40526</tmdbid>
+    <imdbid>nm0295429</imdbid>
+    <tvdbid>8163750</tvdbid>
+  </actor>
+  <actor>
+    <name>Florentina Elena Pop</name>
+    <role>Aurica</role>
+    <type>Actor</type>
+    <tmdbid>3703021</tmdbid>
+  </actor>
+  <actor>
+    <name>Hans-Michael Rehberg</name>
+    <role>Vater</role>
+    <type>Actor</type>
+    <tmdbid>35263</tmdbid>
+    <imdbid>nm0716795</imdbid>
+  </actor>
+  <actor>
+    <name>Marius Ignat</name>
+    <role>Stiefvater</role>
+    <type>Actor</type>
+    <tmdbid>137754</tmdbid>
+  </actor>
+  <actor>
+    <name>Octavian-Nicolae Cocis</name>
+    <role>Vlad</role>
+    <type>Actor</type>
+    <tmdbid>3703022</tmdbid>
+  </actor>
+  <actor>
+    <name>Ecaterina Gramaticu</name>
+    <role>La mère d'Octavian</role>
+    <type>Actor</type>
+    <tmdbid>4040714</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianni Gramaticu</name>
+    <role>Le frère d'Octavian</role>
+    <type>Actor</type>
+    <tmdbid>4040716</tmdbid>
+  </actor>
+  <director tmdbid="40506">Ulrich Seidl</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1z4a-h7Hv3c</trailer>
+  <rating>6.8</rating>
+  <year>2023</year>
+  <sorttitle>Sparta</sorttitle>
+  <imdbid>tt18162296</imdbid>
+  <tmdbid>937633</tmdbid>
+  <premiered>2023-03-24</premiered>
+  <releasedate>2023-03-24</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>99</runtime>
+  <country>Austria</country>
+  <country>France</country>
+  <country>Germany</country>
+  <genre>Drama</genre>
+  <studio>Ulrich Seidl Filmproduktion</studio>
+  <studio>Société Parisienne de Production</studio>
+  <studio>BR</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Coproduction Office</studio>
+  <studio>Essential Filmproduktion</studio>
+  <set tmdbcolid="1164594">
+    <name>Böse Spiele Collection</name>
+  </set>
+  <uniqueid type="imdb">tt18162296</uniqueid>
+  <uniqueid type="tmdb">937633</uniqueid>
+  <id>tt18162296</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>905545</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5919</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>160000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos parejas de amigos se reencuentran. Escuchan música, hablan, leen, comen, pasean, juegan al ping-pong... Puede parecer poco para una película, por eso TENÉIS QUE VENIR A VERLA.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-24 16:16:29</dateadded>
+  <title>Tenéis que venir a verla</title>
+  <originaltitle>Tenéis que venir a verla</originaltitle>
+  <actor>
+    <name>Itsaso Arana</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>1382606</tmdbid>
+    <imdbid>nm3188127</imdbid>
+    <tvdbid>562630</tvdbid>
+  </actor>
+  <actor>
+    <name>Francesco Carril</name>
+    <role>Guillermo</role>
+    <type>Actor</type>
+    <tmdbid>1442194</tmdbid>
+  </actor>
+  <actor>
+    <name>Vito Sanz</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1442192</tmdbid>
+    <imdbid>nm5229490</imdbid>
+  </actor>
+  <actor>
+    <name>Irene Escolar</name>
+    <role>Susana</role>
+    <type>Actor</type>
+    <tmdbid>962249</tmdbid>
+    <imdbid>nm1354955</imdbid>
+  </actor>
+  <actor>
+    <name>Chano Domínguez</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>1300909</tmdbid>
+  </actor>
+  <director tmdbid="937769">Jonás Trueba</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tO7f9Wc5jwg</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>Teneis que venir a verla</sorttitle>
+  <imdbid>tt14766636</imdbid>
+  <tmdbid>837602</tmdbid>
+  <premiered>2022-06-03</premiered>
+  <releasedate>2022-06-03</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>65</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Los Ilusos Films</studio>
+  <uniqueid type="imdb">tt14766636</uniqueid>
+  <uniqueid type="tmdb">837602</uniqueid>
+  <id>tt14766636</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1027625</bitrate>
+        <width>1000</width>
+        <height>720</height>
+        <aspect>25:18</aspect>
+        <aspectratio>25:18</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>64</duration>
+        <durationinseconds>3876</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64323</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

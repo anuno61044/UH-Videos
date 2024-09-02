@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[At an institute devoted to culinary and alimentary performance, a collective finds themselves embroiled in power struggles, artistic vendettas and gastrointestinal disorders.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-24 08:09:47</dateadded>
+  <title>Flux Gourmet</title>
+  <originaltitle>Flux Gourmet</originaltitle>
+  <actor>
+    <name>Asa Butterfield</name>
+    <role>Billy Rubin</role>
+    <type>Actor</type>
+    <tmdbid>77996</tmdbid>
+    <imdbid>nm2633535</imdbid>
+    <tvdbid>469889</tvdbid>
+  </actor>
+  <actor>
+    <name>Gwendoline Christie</name>
+    <role>Jan Stevens</role>
+    <type>Actor</type>
+    <tmdbid>1011904</tmdbid>
+    <imdbid>nm3729225</imdbid>
+    <tvdbid>247874</tvdbid>
+  </actor>
+  <actor>
+    <name>Ariane Labed</name>
+    <role>Lamina Propria</role>
+    <type>Actor</type>
+    <tmdbid>235125</tmdbid>
+    <imdbid>nm3987673</imdbid>
+  </actor>
+  <actor>
+    <name>Fatma Mohamed</name>
+    <role>Elle di Elle</role>
+    <type>Actor</type>
+    <tmdbid>1102366</tmdbid>
+    <imdbid>nm3272744</imdbid>
+  </actor>
+  <actor>
+    <name>Makis Papadimitriou</name>
+    <role>Stones</role>
+    <type>Actor</type>
+    <tmdbid>1118662</tmdbid>
+    <imdbid>nm2810482</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Bremmer</name>
+    <role>Dr. Glock</role>
+    <type>Actor</type>
+    <tmdbid>19903</tmdbid>
+    <imdbid>nm0107101</imdbid>
+  </actor>
+  <actor>
+    <name>Leo Bill</name>
+    <role>Technical Assistant</role>
+    <type>Actor</type>
+    <tmdbid>29237</tmdbid>
+    <imdbid>nm1095324</imdbid>
+    <tvdbid>281099</tvdbid>
+  </actor>
+  <actor>
+    <name>Parvinder Kaur</name>
+    <role>Specrator</role>
+    <type>Actor</type>
+    <tmdbid>3595299</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastien Kapps</name>
+    <type>Actor</type>
+    <tmdbid>3700407</tmdbid>
+  </actor>
+  <director tmdbid="583857" imdbid="nm3270827">Peter Strickland</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oHraElR_v60</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>Flux Gourmet</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt15010292</imdbid>
+  <tmdbid>848818</tmdbid>
+  <premiered>2022-06-24</premiered>
+  <releasedate>2022-06-24</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>111</runtime>
+  <country>Hungary</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <genre>Terror</genre>
+  <studio>Head Gear Films</studio>
+  <studio>Metrol Technology</studio>
+  <studio>Bankside Films</studio>
+  <studio>IFC Midnight</studio>
+  <studio>Blue Bear Pictures</studio>
+  <studio>Lunapark Pictures</studio>
+  <studio>Red Breast Productions</studio>
+  <uniqueid type="imdb">tt15010292</uniqueid>
+  <uniqueid type="tmdb">848818</uniqueid>
+  <id>tt15010292</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1002062</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>137:74</aspect>
+        <aspectratio>137:74</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6675</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una nueva entrega de la saga de terror 'Scream' que seguirá a una mujer que regresa a su ciudad natal para intentar descubrir quién ha estado cometiendo una serie de crímenes atroces.]]></plot>
+  <outline><![CDATA[Siempre es alguien que conoces.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-16 13:36:44</dateadded>
+  <title>Scream</title>
+  <originaltitle>Scream</originaltitle>
+  <actor>
+    <name>Neve Campbell</name>
+    <role>Sidney Prescott</role>
+    <type>Actor</type>
+    <tmdbid>9206</tmdbid>
+    <imdbid>nm0000117</imdbid>
+    <tvdbid>296367</tvdbid>
+  </actor>
+  <actor>
+    <name>Courteney Cox</name>
+    <role>Gale Weathers</role>
+    <type>Actor</type>
+    <tmdbid>14405</tmdbid>
+    <imdbid>nm0001073</imdbid>
+    <tvdbid>254682</tvdbid>
+  </actor>
+  <actor>
+    <name>David Arquette</name>
+    <role>Dewey Riley</role>
+    <type>Actor</type>
+    <tmdbid>15234</tmdbid>
+    <imdbid>nm0000274</imdbid>
+    <tvdbid>327299</tvdbid>
+  </actor>
+  <actor>
+    <name>Melissa Barrera</name>
+    <role>Sam Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>1373659</tmdbid>
+    <tvdbid>511876</tvdbid>
+  </actor>
+  <actor>
+    <name>Jenna Ortega</name>
+    <role>Tara Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>974169</tmdbid>
+    <imdbid>nm4911194</imdbid>
+    <tvdbid>474051</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Quaid</name>
+    <role>Richie Kirsch</role>
+    <type>Actor</type>
+    <tmdbid>1030513</tmdbid>
+    <imdbid>nm4425051</imdbid>
+    <tvdbid>503175</tvdbid>
+  </actor>
+  <actor>
+    <name>Mikey Madison</name>
+    <role>Amber Freeman</role>
+    <type>Actor</type>
+    <tmdbid>1640439</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmin Savoy Brown</name>
+    <role>Mindy Meeks-Martin</role>
+    <type>Actor</type>
+    <tmdbid>1508653</tmdbid>
+    <imdbid>nm5506401</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Minnette</name>
+    <role>Wes Hicks</role>
+    <type>Actor</type>
+    <tmdbid>112476</tmdbid>
+    <imdbid>nm1910255</imdbid>
+    <tvdbid>336119</tvdbid>
+  </actor>
+  <actor>
+    <name>Mason Gooding</name>
+    <role>Chad Meeks-Martin</role>
+    <type>Actor</type>
+    <tmdbid>2174509</tmdbid>
+    <tvdbid>8055554</tvdbid>
+  </actor>
+  <actor>
+    <name>Sonia Ammar</name>
+    <role>Liv Mckenzie</role>
+    <type>Actor</type>
+    <tmdbid>1159576</tmdbid>
+  </actor>
+  <actor>
+    <name>Marley Shelton</name>
+    <role>Sheriff Judy Hicks</role>
+    <type>Actor</type>
+    <tmdbid>6407</tmdbid>
+    <imdbid>nm0005420</imdbid>
+    <tvdbid>280895</tvdbid>
+  </actor>
+  <actor>
+    <name>Kyle Gallner</name>
+    <role>Vince Schneider</role>
+    <type>Actor</type>
+    <tmdbid>59219</tmdbid>
+    <imdbid>nm0973177</imdbid>
+  </actor>
+  <actor>
+    <name>Skeet Ulrich</name>
+    <role>Billy Loomis</role>
+    <type>Actor</type>
+    <tmdbid>22108</tmdbid>
+  </actor>
+  <actor>
+    <name>Heather Matarazzo</name>
+    <role>Martha Meeks</role>
+    <type>Actor</type>
+    <tmdbid>33656</tmdbid>
+    <imdbid>nm0000525</imdbid>
+  </actor>
+  <actor>
+    <name>Reggie Conquest</name>
+    <role>Deputy Farney</role>
+    <type>Actor</type>
+    <tmdbid>2853784</tmdbid>
+  </actor>
+  <actor>
+    <name>Chester Tam</name>
+    <role>Deputy Vinson</role>
+    <type>Actor</type>
+    <tmdbid>62864</tmdbid>
+  </actor>
+  <actor>
+    <name>James A. Janisse</name>
+    <role>Film Fails Host</role>
+    <type>Actor</type>
+    <tmdbid>1766087</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Rebecca</name>
+    <role>Film Fails Host</role>
+    <type>Actor</type>
+    <tmdbid>1766086</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Barnhill</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2582608</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen West-Rogers</name>
+    <role>EMT</role>
+    <type>Actor</type>
+    <tmdbid>1820122</tmdbid>
+  </actor>
+  <actor>
+    <name>Milli M.</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2231997</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Speed</name>
+    <role>Movie Randy</role>
+    <type>Actor</type>
+    <tmdbid>2767336</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayton Frank</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>3266270</tmdbid>
+  </actor>
+  <actor>
+    <name>Boomer Mays</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>2966886</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger L. Jackson</name>
+    <role>Ghostface (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51957</tmdbid>
+    <imdbid>nm0413996</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Barrymore</name>
+    <role>Principal (voice) / Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>69597</tmdbid>
+    <imdbid>nm0000106</imdbid>
+    <tvdbid>254457</tvdbid>
+  </actor>
+  <actor>
+    <name>Adam Brody</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11702</tmdbid>
+    <imdbid>nm0111013</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Winkler</name>
+    <role>Party Guest  (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>31903</tmdbid>
+    <imdbid>nm0001857</imdbid>
+  </actor>
+  <actor>
+    <name>Hayden Panettiere</name>
+    <role>Party Guest  (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>17265</tmdbid>
+    <imdbid>nm0659363</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Kennedy</name>
+    <role>Party Guest  (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>6213</tmdbid>
+    <imdbid>nm0005085</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Lillard</name>
+    <role>Flame Thrower Ghostface / Party Guest  (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>26457</tmdbid>
+    <imdbid>nm0000498</imdbid>
+    <tvdbid>308901</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Bettinelli-Olpin</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>66681</tmdbid>
+    <imdbid>nm2366012</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Gillett</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1039527</tmdbid>
+    <imdbid>nm2419470</imdbid>
+  </actor>
+  <actor>
+    <name>Iya Labunka</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1312509</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Williamson</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>26458</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Beltrami</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>7229</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Lussier</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>27226</tmdbid>
+    <imdbid>nm0527261</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Plec</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1214616</tmdbid>
+  </actor>
+  <actor>
+    <name>Rian Johnson</name>
+    <role>Party Guest (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>67367</tmdbid>
+    <imdbid>nm0426059</imdbid>
+  </actor>
+  <director tmdbid="66681" imdbid="nm2366012">Matt Bettinelli-Olpin</director>
+  <director tmdbid="1039527" imdbid="nm2419470">Tyler Gillett</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=beToTslH17s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nRwLyKIBNU8</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Scream</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11245972</imdbid>
+  <tmdbid>646385</tmdbid>
+  <premiered>2022-01-12</premiered>
+  <releasedate>2022-01-12</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>114</runtime>
+  <tagline>Siempre es alguien que conoces.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Paramount</studio>
+  <studio>Project X Entertainment</studio>
+  <studio>Radio Silence</studio>
+  <studio>Spyglass Media Group</studio>
+  <set tmdbcolid="2602">
+    <name>Scream - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt11245972</uniqueid>
+  <uniqueid type="tmdb">646385</uniqueid>
+  <id>tt11245972</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1690677</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6850</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

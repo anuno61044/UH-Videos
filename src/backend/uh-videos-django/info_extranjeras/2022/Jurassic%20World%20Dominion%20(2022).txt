@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.]]></plot>
+  <outline><![CDATA[El épico final de la era Jurassic.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-07-06 08:42:26</dateadded>
+  <title>Jurassic World: Dominion</title>
+  <originaltitle>Jurassic World Dominion</originaltitle>
+  <actor>
+    <name>Chris Pratt</name>
+    <role>Owen Grady</role>
+    <type>Actor</type>
+    <tmdbid>73457</tmdbid>
+    <imdbid>nm0695435</imdbid>
+    <tvdbid>312388</tvdbid>
+  </actor>
+  <actor>
+    <name>Bryce Dallas Howard</name>
+    <role>Claire Dearing</role>
+    <type>Actor</type>
+    <tmdbid>18997</tmdbid>
+    <imdbid>nm0397171</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Dern</name>
+    <role>Dr. Ellie Sattler</role>
+    <type>Actor</type>
+    <tmdbid>4784</tmdbid>
+    <imdbid>nm0000368</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Goldblum</name>
+    <role>Dr. Ian Malcolm</role>
+    <type>Actor</type>
+    <tmdbid>4785</tmdbid>
+    <imdbid>nm0000156</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>Dr. Alan Grant</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+    <tvdbid>292016</tvdbid>
+  </actor>
+  <actor>
+    <name>DeWanda Wise</name>
+    <role>Kayla Watts</role>
+    <type>Actor</type>
+    <tmdbid>206425</tmdbid>
+    <imdbid>nm1986622</imdbid>
+    <tvdbid>317293</tvdbid>
+  </actor>
+  <actor>
+    <name>Mamoudou Athie</name>
+    <role>Ramsay Cole</role>
+    <type>Actor</type>
+    <tmdbid>1639848</tmdbid>
+    <imdbid>nm6974206</imdbid>
+    <tvdbid>622073</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabella Sermon</name>
+    <role>Maisie Lockwood</role>
+    <type>Actor</type>
+    <tmdbid>2058708</tmdbid>
+  </actor>
+  <actor>
+    <name>Campbell Scott</name>
+    <role>Lewis Dodgson</role>
+    <type>Actor</type>
+    <tmdbid>55152</tmdbid>
+    <imdbid>nm0001714</imdbid>
+  </actor>
+  <actor>
+    <name>BD Wong</name>
+    <role>Dr. Henry Wu</role>
+    <type>Actor</type>
+    <tmdbid>14592</tmdbid>
+    <imdbid>nm0000703</imdbid>
+    <tvdbid>394868</tvdbid>
+  </actor>
+  <actor>
+    <name>Omar Sy</name>
+    <role>Barry Sembène</role>
+    <type>Actor</type>
+    <tmdbid>78423</tmdbid>
+    <imdbid>nm1082477</imdbid>
+  </actor>
+  <actor>
+    <name>Justice Smith</name>
+    <role>Franklin Webb</role>
+    <type>Actor</type>
+    <tmdbid>1029934</tmdbid>
+    <imdbid>nm6819854</imdbid>
+  </actor>
+  <actor>
+    <name>Daniella Pineda</name>
+    <role>Zia Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1257819</tmdbid>
+    <imdbid>nm4427331</imdbid>
+    <tvdbid>533295</tvdbid>
+  </actor>
+  <actor>
+    <name>Scott Haze</name>
+    <role>Rainn Delacourt</role>
+    <type>Actor</type>
+    <tmdbid>87954</tmdbid>
+    <imdbid>nm2020278</imdbid>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Soyona Santos</role>
+    <type>Actor</type>
+    <tmdbid>94797</tmdbid>
+    <imdbid>nm1901842</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Hearon</name>
+    <role>Jeremy Bernier</role>
+    <type>Actor</type>
+    <tmdbid>2817558</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristoffer Polaha</name>
+    <role>Wyatt Huntley</role>
+    <type>Actor</type>
+    <tmdbid>159386</tmdbid>
+    <imdbid>nm1119340</imdbid>
+  </actor>
+  <actor>
+    <name>Freya Parker</name>
+    <role>Denise Roberts</role>
+    <type>Actor</type>
+    <tmdbid>1791508</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Owen</name>
+    <role>Angus Hetbury</role>
+    <type>Actor</type>
+    <tmdbid>1488081</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Elferink</name>
+    <role>Jeffrey</role>
+    <type>Actor</type>
+    <tmdbid>3126155</tmdbid>
+  </actor>
+  <actor>
+    <name>Elva Trill</name>
+    <role>Charlotte Lockwood</role>
+    <type>Actor</type>
+    <tmdbid>1490863</tmdbid>
+  </actor>
+  <actor>
+    <name>Lillia Langley</name>
+    <role>Drive in Movie Theatre Kid</role>
+    <type>Actor</type>
+    <tmdbid>3107735</tmdbid>
+  </actor>
+  <actor>
+    <name>Glynis Davies</name>
+    <role>Carolyn O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>129984</tmdbid>
+    <imdbid>nm0203728</imdbid>
+  </actor>
+  <actor>
+    <name>Dimitri Vegas</name>
+    <role>Maltese Smuggler</role>
+    <type>Actor</type>
+    <tmdbid>1566387</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Kiani</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>3144882</tmdbid>
+  </actor>
+  <actor>
+    <name>Enzo Squillino Jr.</name>
+    <role>Wigi</role>
+    <type>Actor</type>
+    <tmdbid>71073</tmdbid>
+    <imdbid>nm0820076</imdbid>
+    <tvdbid>9099046</tvdbid>
+  </actor>
+  <actor>
+    <name>Bastian Antonio Fuentes</name>
+    <role>Ramon</role>
+    <type>Actor</type>
+    <tmdbid>3144892</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Santos</name>
+    <role>Biosyn Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1655621</tmdbid>
+    <imdbid>nm7441016</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Donnelly</name>
+    <role>Washington Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>3144894</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuela Mora</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>3144896</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Cendon-Garcia</name>
+    <role>Farmer</role>
+    <type>Actor</type>
+    <tmdbid>3144901</tmdbid>
+  </actor>
+  <actor>
+    <name>Metin Hassan</name>
+    <role>Maltese Gangster</role>
+    <type>Actor</type>
+    <tmdbid>3041319</tmdbid>
+  </actor>
+  <actor>
+    <name>Cokey Falkow</name>
+    <role>Hunter</role>
+    <type>Actor</type>
+    <tmdbid>950125</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Chiu</name>
+    <role>Gemma Zhao</role>
+    <type>Actor</type>
+    <tmdbid>3579484</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilie Jumeaux</name>
+    <role>Rosa Delgado</role>
+    <type>Actor</type>
+    <tmdbid>2059200</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleanor Tata</name>
+    <role>EMT</role>
+    <type>Actor</type>
+    <tmdbid>3579485</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynn Hunter</name>
+    <role>Hog Farmer</role>
+    <type>Actor</type>
+    <tmdbid>1132566</tmdbid>
+  </actor>
+  <actor>
+    <name>Cathleen Summers</name>
+    <role>Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3579487</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Loungway</name>
+    <role>Paleontologist</role>
+    <type>Actor</type>
+    <tmdbid>12575</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bendib</name>
+    <role>T-Bone Car Driver</role>
+    <type>Actor</type>
+    <tmdbid>3579489</tmdbid>
+  </actor>
+  <actor>
+    <name>Ahir Shah</name>
+    <role>Sundar Kumar</role>
+    <type>Actor</type>
+    <tmdbid>2315555</tmdbid>
+  </actor>
+  <director tmdbid="930707" imdbid="nm1119880">Colin Trevorrow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RJ4b1ZQxPmE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9m9yRauMJIQ</trailer>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>Jurassic World: Dominion</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8041270</imdbid>
+  <tmdbid>507086</tmdbid>
+  <premiered>2022-06-01</premiered>
+  <releasedate>2022-06-01</releasedate>
+  <criticrating>29</criticrating>
+  <runtime>148</runtime>
+  <tagline>El épico final de la era Jurassic.</tagline>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Amblin Entertainment</studio>
+  <set tmdbcolid="328">
+    <name>Jurassic Park - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt8041270</uniqueid>
+  <uniqueid type="tmdb">507086</uniqueid>
+  <id>tt8041270</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>849508</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>147</duration>
+        <durationinseconds>8851</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El inspector Manuel Bianquetti es trasladado a Cádiz, un destino tranquilo al que está obligado a aceptar. Un día, el asesinato de una joven de 18 años rompe esa calma y embarca al inspector en uno de los casos más impactantes de su carrera. Desoyendo las órdenes de sus superiores, Bianquetti comienza a seguir pistas que quizá no sean reales y sigue la investigación por su cuenta.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-02 09:34:09</dateadded>
+  <title>La maniobra de la tortuga</title>
+  <originaltitle>La maniobra de la tortuga</originaltitle>
+  <actor>
+    <name>Fred Adenis</name>
+    <role>Manuel Bianquetti</role>
+    <type>Actor</type>
+    <tmdbid>1656995</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia de Molina</name>
+    <type>Actor</type>
+    <tmdbid>1270686</tmdbid>
+    <imdbid>nm5131296</imdbid>
+    <tvdbid>499261</tvdbid>
+  </actor>
+  <director tmdbid="1442569">Juan Miguel del Castillo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PCKIecWC4wA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S_iuDScjWtM</trailer>
+  <rating>5.3</rating>
+  <year>2022</year>
+  <sorttitle>maniobra de la tortuga</sorttitle>
+  <imdbid>tt6378536</imdbid>
+  <tmdbid>820427</tmdbid>
+  <premiered>2022-05-13</premiered>
+  <releasedate>2022-05-13</releasedate>
+  <runtime>99</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Áralan Films S.L.</studio>
+  <uniqueid type="imdb">tt6378536</uniqueid>
+  <uniqueid type="tmdb">820427</uniqueid>
+  <id>tt6378536</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>970276</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5950</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62176</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

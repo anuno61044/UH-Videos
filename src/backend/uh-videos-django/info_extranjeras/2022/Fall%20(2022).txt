@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?]]></plot>
+  <outline><![CDATA[El miedo alcanza nuevas alturas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-01 12:01:51</dateadded>
+  <title>Fall</title>
+  <originaltitle>Fall</originaltitle>
+  <actor>
+    <name>Grace Caroline Currey</name>
+    <role>Becky</role>
+    <type>Actor</type>
+    <tmdbid>54633</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Gardner</name>
+    <role>Hunter</role>
+    <type>Actor</type>
+    <tmdbid>1279279</tmdbid>
+    <imdbid>nm4722966</imdbid>
+    <tvdbid>295882</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Dean Morgan</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>47296</tmdbid>
+    <imdbid>nm0604742</imdbid>
+    <tvdbid>267366</tvdbid>
+  </actor>
+  <actor>
+    <name>Mason Gooding</name>
+    <role>Dan Connor</role>
+    <type>Actor</type>
+    <tmdbid>2174509</tmdbid>
+    <tvdbid>8055554</tvdbid>
+  </actor>
+  <actor>
+    <name>Jasper Cole</name>
+    <role>Dog Walker Dan</role>
+    <type>Actor</type>
+    <tmdbid>945542</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrell Dennis</name>
+    <role>Randy</role>
+    <type>Actor</type>
+    <tmdbid>1232204</tmdbid>
+    <imdbid>nm0219438</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Pace Mitchell</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>82168</tmdbid>
+  </actor>
+  <director tmdbid="90812">Scott Mann</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qx1ucPIQNNk</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>Fall</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15325794</imdbid>
+  <tmdbid>985939</tmdbid>
+  <premiered>2022-08-11</premiered>
+  <releasedate>2022-08-11</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>102</runtime>
+  <tagline>El miedo alcanza nuevas alturas.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>Lionsgate</studio>
+  <studio>Capstone Pictures</studio>
+  <studio>BuzzFeed Studios</studio>
+  <studio>Tea Shop Productions</studio>
+  <studio>Capstone Studios</studio>
+  <set tmdbcolid="1102372">
+    <name>Fall Collection</name>
+  </set>
+  <uniqueid type="imdb">tt15325794</uniqueid>
+  <uniqueid type="tmdb">985939</uniqueid>
+  <id>tt15325794</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1087529</bitrate>
+        <width>1280</width>
+        <height>662</height>
+        <aspect>479:248</aspect>
+        <aspectratio>479:248</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6144</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

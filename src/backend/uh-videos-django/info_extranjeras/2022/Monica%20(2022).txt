@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A woman reconnects with her ailing mother to find acceptance.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-02 11:14:36</dateadded>
+  <title>Monica</title>
+  <originaltitle>Monica</originaltitle>
+  <actor>
+    <name>Trace Lysette</name>
+    <role>Monica</role>
+    <type>Actor</type>
+    <tmdbid>1472754</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Eugenia</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+    <tvdbid>304284</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Browning</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>70456</tmdbid>
+    <imdbid>nm0115161</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Close</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>81096</tmdbid>
+    <imdbid>nm1208725</imdbid>
+  </actor>
+  <actor>
+    <name>Adriana Barraza</name>
+    <role>Leticia</role>
+    <type>Actor</type>
+    <tmdbid>270</tmdbid>
+    <imdbid>nm0056770</imdbid>
+    <tvdbid>503860</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Easley</name>
+    <role>Trucker</role>
+    <type>Actor</type>
+    <tmdbid>1670724</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham Caldwell</name>
+    <role>Brody</role>
+    <type>Actor</type>
+    <tmdbid>2848762</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Amine</name>
+    <role>The Massage Man</role>
+    <type>Actor</type>
+    <tmdbid>1304664</tmdbid>
+    <imdbid>nm5366786</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Zarzour</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1764383</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby James Fraser</name>
+    <role>Britney</role>
+    <type>Actor</type>
+    <tmdbid>3205845</tmdbid>
+  </actor>
+  <director tmdbid="1202302" imdbid="nm1761524">Andrea Pallaoro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=os8xbNzqA2I</trailer>
+  <rating>6.3</rating>
+  <year>2023</year>
+  <sorttitle>Monica</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6337816</imdbid>
+  <tmdbid>540549</tmdbid>
+  <premiered>2023-05-12</premiered>
+  <releasedate>2023-05-12</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>113</runtime>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>RAI</studio>
+  <studio>Propaganda Italia</studio>
+  <studio>Fenix Entertainment</studio>
+  <studio>Alacran Pictures</studio>
+  <studio>Varient</studio>
+  <studio>Solo Five Productions</studio>
+  <studio>Melograno Films</studio>
+  <studio>The Exchange</studio>
+  <studio>Cinetrain</studio>
+  <studio>Hudson Entertainment</studio>
+  <uniqueid type="imdb">tt6337816</uniqueid>
+  <uniqueid type="tmdb">540549</uniqueid>
+  <id>tt6337816</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100431</bitrate>
+        <width>488</width>
+        <height>400</height>
+        <aspect>329:270</aspect>
+        <aspectratio>329:270</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6802</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
