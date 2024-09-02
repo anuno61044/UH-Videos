@@ -23,22 +23,22 @@ def generate_explanation(trace, recommended_movie_idx, movies, user_id, collabor
     if collaborative_score > content_score * 1.5:  # Si el enfoque colaborativo tiene significativamente más peso
         similar_users = collaborative_explanation(trace, user_id, recommended_movie_idx)
         if similar_users > 0:
-            return f"Te recomendamos esta película porque {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien."
+            return f"Te recomendamos esta película porque {similar_users} usuario(s) que vieron películas similares a las tuyas la calificaron bien."
         return "Te recomendamos esta película basada en las preferencias de usuarios similares a ti."
     elif content_score > collaborative_score * 1.5:  # Si el enfoque basado en contenido tiene significativamente más peso
         similar_movies, characteristics = content_based_explanation(trace, recommended_movie_idx, movies, user_id)
         if similar_movies and characteristics:
-            return f"Esta película es similar a otras que te han gustado como {similar_movies} en cuanto al {', '.join(characteristics)}."
+            return f"Esta película es similar a otras que te han gustado como {', '.join(similar_movies)} en cuanto al {', '.join(characteristics)}."
         return "Esta película se basa en tus preferencias pasadas."
     else:  # Si ambos enfoques tienen peso similar, usar una explicación combinada
         similar_users = collaborative_explanation(trace, user_id, recommended_movie_idx)
         similar_movies, characteristics = content_based_explanation(trace, recommended_movie_idx, movies, user_id)
         if similar_users > 0 and similar_movies and characteristics:
-            return f"Te recomendamos esta película porque es similar a otras que has visto como {similar_movies} en cuanto a {characteristics}. Además {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien."
+            return f"Te recomendamos esta película porque es similar a otras que has visto como {', '.join(similar_movies)} en cuanto a {', '.join(characteristics)}. Además {similar_users} usuario(s) que vieron películas similares a las tuyas la calificaron bien."
         elif similar_movies and characteristics:
-            return f"Te recomendamos esta película porque es similar a otras que has visto como {similar_movies} en cuanto a {characteristics}. Además algunos usuarios que vieron películas similares a las tuyas la calificaron bien."
+            return f"Te recomendamos esta película porque es similar a otras que has visto como {', '.join(similar_movies)} en cuanto a {', '.join(characteristics)}. Además algunos usuarios que vieron películas similares a las tuyas la calificaron bien."
         elif similar_users > 0:
-            return f"Te recomendamos esta película {similar_users} usuarios que vieron películas similares a las tuyas la calificaron bien. Y basado en tus preferencias pasadas."
+            return f"Te recomendamos esta película {similar_users} usuario(s) que vieron películas similares a las tuyas la calificaron bien. Y basado en tus preferencias pasadas."
         else:
             return f"Te recomendamos esta película porque es similar a otras que has visto. Además algunos usuarios que vieron películas similares a las tuyas la calificaron bien."
         
