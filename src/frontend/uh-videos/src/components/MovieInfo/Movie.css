@@ -2,6 +2,10 @@
     padding: 15px;
 }
 
+.card-movie {
+    text-decoration: none;
+}
+
 .movie .info{
     margin: 0;
     padding-left: 10px;

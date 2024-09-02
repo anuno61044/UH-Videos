@@ -126,18 +126,18 @@ function App() {
   };
 
   return (
-    <div className="relative">
+    <div className="relative bg-color">
       {loading ? (
         <div>Cargando...</div>
       ) : (
         <div>
           {
             user &&
-            <div className='user-name'>Hola {user?.username}</div>
+            <div className='user-name'>Hola, {user?.username}</div>
           }
           <div className="d-flex align-items-center justify-content-center">
             <img className="main-icon" src="../public/R (1).jpg" alt="" />
-            <h1>UH-VIDEOS</h1>
+            <h2>UH-videos</h2>
           </div>
           <div className="user-admin">
             {user ?
@@ -173,23 +173,27 @@ function App() {
           </nav>
 
           <div className='movies-container'>
-            {error ? (
-              <div className="error-message">Cargando...</div>
-            ) : (
-              movies.map((movie, index) => (
-                <Movie
-                  title={movie.title}
-                  director={movie.director}
-                  genre={movie.genre}
-                  date={movie.release_date}
-                  description={movie.description}
-                  explanation={trace[index]}
-                  onRate={handleRateMovie}
-                  key={movie.id}
-                  id={movie.id}
-                />
-              ))
-            )}
+            {error ?
+              !user ?
+                <div className="error-message">Debe autenticarse para darle una recomendación.</div>
+                :
+                <div className="error-message">Cargando...</div>
+              : (
+                movies.map((movie, index) => (
+                  <Movie
+                    title={movie.title}
+                    director={movie.director}
+                    genre={movie.genre}
+                    date={movie.release_date}
+                    url={movie.url}
+                    description={movie.description}
+                    explanation={trace[index]}
+                    onRate={handleRateMovie}
+                    key={movie.id}
+                    id={movie.id}
+                  />
+                ))
+              )}
           </div>
         </div>
       )}

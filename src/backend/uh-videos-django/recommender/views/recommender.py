@@ -2,7 +2,7 @@ import random
 from .content_based_filtering import content_based_filtering
 from .generate_explanation import generate_explanation
 from .collaborative_filtering import collaborative_filtering
-from .models import Movie, Rating
+from ..models import Movie, Rating
 
 def get_recommendations(user_id):
     """
@@ -35,8 +35,6 @@ def get_recommendations(user_id):
     trace['content_based_filtering'] = content_trace
 
     # Combinación de ambos enfoques (Feature Combination)
-    print(collaborative_scores)
-    print(content_scores)
     final_scores = 0.5 * collaborative_scores + 0.5 * content_scores
 
     # Filtrar y ordenar películas no vistas por la puntuación final

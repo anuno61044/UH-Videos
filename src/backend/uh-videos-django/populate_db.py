@@ -56,8 +56,6 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
         users.append(user)
     print(f"{num_users} usuarios creados.")
 
-    # Crear películas de prueba con diversidad en géneros y directores
-    directors = [fake.name() for _ in range(NUM_DIRECTORS)]
     movies = []
     # Cargar información de las películas
     years = ['2024', '2023', '2022']
@@ -76,14 +74,17 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
                 # movie_countries = [country.text for country in root.findall('country')]
                 movie_genres = [genre.text for genre in root.findall('genre')]
                 # movie_actors = [actor.find('name').text for actor in root.findall('actor')[:3]]
-                movie_description = root.find('plot')
+                movie_description = root.find('plot').text
+                if movie_description is None:
+                    movie_description = 'No description'
                 
                 movie = Movie.objects.create(
                     title=movie_title,
                     genre=movie_genres[0],
                     director=movie_director,
+                    url=f'https://visuales.uclv.cu/Peliculas/Extranjeras/{year}/{archivo[:-4]}/',
                     description=movie_description,
-                    release_date=fake.date_between(start_date='-50y', end_date='today')
+                    release_date=root.find('releasedate').text
                 )
                 movies.append(movie)
     
