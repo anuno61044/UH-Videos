@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ana es una joven sevillana harta de su familia y del conflictivo barrio en el que viven. Todo irá a peor cuando su madre, para evitar el desahucio, decide engañar a una agencia para acoger en su casa a Ariel Brooklyn, un estudiante afroamericano de familia adinerada, a cambio de 700 euros. A pesar de sus diferencias y de las situaciones esperpénticas que provoca el fraude, Ana y Ariel se verán obligados a convivir bajo el mismo techo. Y ya se sabe que el roce hace cariño.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-10 09:06:33</dateadded>
+  <title>Sevillanas de Brooklyn</title>
+  <originaltitle>Sevillanas de Brooklyn</originaltitle>
+  <actor>
+    <name>Carolina Yuste</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>2025663</tmdbid>
+    <imdbid>nm8188533</imdbid>
+    <tvdbid>8189878</tvdbid>
+  </actor>
+  <actor>
+    <name>Sergio Momo</name>
+    <role>Ariel</role>
+    <type>Actor</type>
+    <tmdbid>2481952</tmdbid>
+    <tvdbid>8159110</tvdbid>
+  </actor>
+  <actor>
+    <name>Estefanía de los Santos</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>1103795</tmdbid>
+    <imdbid>nm2059418</imdbid>
+    <tvdbid>469620</tvdbid>
+  </actor>
+  <actor>
+    <name>Manolo Solo</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>592709</tmdbid>
+    <imdbid>nm1254805</imdbid>
+    <tvdbid>294463</tvdbid>
+  </actor>
+  <actor>
+    <name>Canco Rodríguez</name>
+    <role>Jesús</role>
+    <type>Actor</type>
+    <tmdbid>1444942</tmdbid>
+    <imdbid>nm0735947</imdbid>
+    <tvdbid>448246</tvdbid>
+  </actor>
+  <actor>
+    <name>María Alfonsa Rosso</name>
+    <role>Abuela</role>
+    <type>Actor</type>
+    <tmdbid>954664</tmdbid>
+    <imdbid>nm0743133</imdbid>
+    <tvdbid>598992</tvdbid>
+  </actor>
+  <actor>
+    <name>Asier Gago</name>
+    <role>Bolo</role>
+    <type>Actor</type>
+    <tmdbid>3383973</tmdbid>
+  </actor>
+  <actor>
+    <name>Neizan Fernández</name>
+    <role>Wisconsin</role>
+    <type>Actor</type>
+    <tmdbid>3383975</tmdbid>
+  </actor>
+  <actor>
+    <name>José Ramón Rodríguez</name>
+    <role>Brayan</role>
+    <type>Actor</type>
+    <tmdbid>3383974</tmdbid>
+  </actor>
+  <actor>
+    <name>Adelfa Calvo</name>
+    <role>Directora</role>
+    <type>Actor</type>
+    <tmdbid>1331728</tmdbid>
+    <imdbid>nm2431367</imdbid>
+  </actor>
+  <actor>
+    <name>Clare Durant</name>
+    <role>Megan</role>
+    <type>Actor</type>
+    <tmdbid>1892144</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Haro</name>
+    <role>Auxi</role>
+    <type>Actor</type>
+    <tmdbid>1567578</tmdbid>
+  </actor>
+  <director tmdbid="1035833">Vicente Villanueva</director>
+  <rating>5.4</rating>
+  <year>2021</year>
+  <sorttitle>Sevillanas de Brooklyn</sorttitle>
+  <imdbid>tt12300276</imdbid>
+  <tmdbid>793158</tmdbid>
+  <premiered>2021-09-17</premiered>
+  <releasedate>2021-09-17</releasedate>
+  <runtime>97</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <uniqueid type="imdb">tt12300276</uniqueid>
+  <uniqueid type="tmdb">793158</uniqueid>
+  <id>tt12300276</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1094290</bitrate>
+        <width>1720</width>
+        <height>720</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5835</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64267</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

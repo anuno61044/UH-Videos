@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la naturaleza existe vínculo indisoluble entre la belleza y la muerte. El ser humano, deudor de su entorno, imita lo que observa. Como mosquitos atraídos por el faro más brillante, los turistas están apagando la luz de la ciudad más hermosa del planeta. La agonía de las últimas décadas ha desatado la ira entre los venecianos. Para frenar la invasión, algunos se han organizado, dando rienda suelta a su instinto de supervivencia. Nuestros protagonistas, un sencillo grupo de turistas españoles, viajan a Venecia con la intención de divertirse, ajenos a los problemas que les rodean. Allí se verán obligados a luchar por salvar sus propias vidas.]]></plot>
+  <outline><![CDATA[Veneciafrenia]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-27 09:43:29</dateadded>
+  <title>Veneciafrenia</title>
+  <originaltitle>Veneciafrenia</originaltitle>
+  <actor>
+    <name>Ingrid García-Jonsson</name>
+    <role>Isa</role>
+    <type>Actor</type>
+    <tmdbid>1223239</tmdbid>
+    <imdbid>nm4201461</imdbid>
+    <tvdbid>7912323</tvdbid>
+  </actor>
+  <actor>
+    <name>Cosimo Fusco</name>
+    <role>Dottore / Bufón</role>
+    <type>Actor</type>
+    <tmdbid>74488</tmdbid>
+    <imdbid>nm0299289</imdbid>
+    <tvdbid>399943</tvdbid>
+  </actor>
+  <actor>
+    <name>Caterina Murino</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>10916</tmdbid>
+    <imdbid>nm1166528</imdbid>
+    <tvdbid>542567</tvdbid>
+  </actor>
+  <actor>
+    <name>Nico Romero</name>
+    <role>Alfonso</role>
+    <type>Actor</type>
+    <tmdbid>1330941</tmdbid>
+    <imdbid>nm4586250</imdbid>
+    <tvdbid>8061055</tvdbid>
+  </actor>
+  <actor>
+    <name>Silvia Alonso</name>
+    <role>Susana</role>
+    <type>Actor</type>
+    <tmdbid>588183</tmdbid>
+    <imdbid>nm4001535</imdbid>
+    <tvdbid>561998</tvdbid>
+  </actor>
+  <actor>
+    <name>Enrico Lo Verso</name>
+    <role>Giacomo</role>
+    <type>Actor</type>
+    <tmdbid>27392</tmdbid>
+    <imdbid>nm0516272</imdbid>
+  </actor>
+  <actor>
+    <name>Armando De Razza</name>
+    <role>Brunelli</role>
+    <type>Actor</type>
+    <tmdbid>66815</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolás Illoro</name>
+    <role>Javi</role>
+    <type>Actor</type>
+    <tmdbid>2221708</tmdbid>
+    <tvdbid>8074011</tvdbid>
+  </actor>
+  <actor>
+    <name>Goize Blanco</name>
+    <role>Arantza</role>
+    <type>Actor</type>
+    <tmdbid>2695935</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Bang</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>2131824</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Pagotto</name>
+    <role>Salesman</role>
+    <type>Actor</type>
+    <tmdbid>128754</tmdbid>
+    <imdbid>nm3185766</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Bressanello</name>
+    <role>Colonna</role>
+    <type>Actor</type>
+    <tmdbid>48377</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulia Pagnacco</name>
+    <role>Gina</role>
+    <type>Actor</type>
+    <tmdbid>2302672</tmdbid>
+  </actor>
+  <director tmdbid="57865" imdbid="nm0407067">Álex de la Iglesia</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uT-0OIVwLmQ</trailer>
+  <rating>5.2</rating>
+  <year>2022</year>
+  <sorttitle>Veneciafrenia</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12412166</imdbid>
+  <tmdbid>756681</tmdbid>
+  <premiered>2022-04-22</premiered>
+  <releasedate>2022-04-22</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>99</runtime>
+  <tagline>Veneciafrenia</tagline>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <studio>Sony Pictures</studio>
+  <studio>TLM. The Last Monkey</studio>
+  <studio>Amazon Studios</studio>
+  <studio>Pokeepsie Films</studio>
+  <studio>Mogambo Films</studio>
+  <studio>The Fear Collection II, A.I.E.</studio>
+  <studio>Eliofilm</studio>
+  <uniqueid type="tmdb">756681</uniqueid>
+  <uniqueid type="imdb">tt12412166</uniqueid>
+  <id>tt12412166</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1084219</bitrate>
+        <width>1752</width>
+        <height>720</height>
+        <aspect>478807:199380</aspect>
+        <aspectratio>478807:199380</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5942</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64254</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

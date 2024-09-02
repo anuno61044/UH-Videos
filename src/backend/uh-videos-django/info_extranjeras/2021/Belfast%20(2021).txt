@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La película, un drama de madurez ambientado en los tumultos de la Irlanda del Norte de finales de los años 60, sigue al joven Buddy mientras navega por un paisaje de lucha obrera, cambios culturales radicales y violencia sectaria. Buddy sueña con un futuro glamuroso que lo aleje de los problemas, pero, mientras tanto, encuentra consuelo en su carismático padre y su madre, y en sus alegres abuelos.]]></plot>
+  <outline><![CDATA[Nuestros recuerdos nos hacen]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-02 08:16:37</dateadded>
+  <title>Belfast</title>
+  <originaltitle>Belfast</originaltitle>
+  <actor>
+    <name>Jude Hill</name>
+    <role>Buddy</role>
+    <type>Actor</type>
+    <tmdbid>3232669</tmdbid>
+  </actor>
+  <actor>
+    <name>Caitriona Balfe</name>
+    <role>Ma</role>
+    <type>Actor</type>
+    <tmdbid>147056</tmdbid>
+    <imdbid>nm2928020</imdbid>
+    <tvdbid>465725</tvdbid>
+  </actor>
+  <actor>
+    <name>Jamie Dornan</name>
+    <role>Pa</role>
+    <type>Actor</type>
+    <tmdbid>1254583</tmdbid>
+    <imdbid>nm1946193</imdbid>
+    <tvdbid>331181</tvdbid>
+  </actor>
+  <actor>
+    <name>Judi Dench</name>
+    <role>Granny</role>
+    <type>Actor</type>
+    <tmdbid>5309</tmdbid>
+    <imdbid>nm0001132</imdbid>
+  </actor>
+  <actor>
+    <name>Ciarán Hinds</name>
+    <role>Pop</role>
+    <type>Actor</type>
+    <tmdbid>8785</tmdbid>
+    <imdbid>nm0001354</imdbid>
+    <tvdbid>247861</tvdbid>
+  </actor>
+  <actor>
+    <name>Colin Morgan</name>
+    <role>Billy Clanton</role>
+    <type>Actor</type>
+    <tmdbid>228866</tmdbid>
+    <imdbid>nm2959880</imdbid>
+    <tvdbid>484963</tvdbid>
+  </actor>
+  <actor>
+    <name>Lara McDonnell</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1726976</tmdbid>
+    <imdbid>nm7107447</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis McAskie</name>
+    <role>Will</role>
+    <type>Actor</type>
+    <tmdbid>3065081</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerard Horan</name>
+    <role>Mackie</role>
+    <type>Actor</type>
+    <tmdbid>56101</tmdbid>
+    <imdbid>nm0394531</imdbid>
+  </actor>
+  <actor>
+    <name>Josie Walker</name>
+    <role>Auntie Violet</role>
+    <type>Actor</type>
+    <tmdbid>1709739</tmdbid>
+  </actor>
+  <actor>
+    <name>Olive Tennant</name>
+    <role>Catherine</role>
+    <type>Actor</type>
+    <tmdbid>2893134</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Maloney</name>
+    <role>Frankie West</role>
+    <type>Actor</type>
+    <tmdbid>17483</tmdbid>
+    <imdbid>nm0540585</imdbid>
+    <tvdbid>261742</tvdbid>
+  </actor>
+  <actor>
+    <name>Turlough Convery</name>
+    <role>Minister</role>
+    <type>Actor</type>
+    <tmdbid>1474032</tmdbid>
+    <imdbid>nm6100857</imdbid>
+    <tvdbid>482261</tvdbid>
+  </actor>
+  <actor>
+    <name>Conor MacNeill</name>
+    <role>McLaury</role>
+    <type>Actor</type>
+    <tmdbid>82149</tmdbid>
+    <imdbid>nm2736817</imdbid>
+  </actor>
+  <actor>
+    <name>Chris McCurry</name>
+    <role>Mr Stewart</role>
+    <type>Actor</type>
+    <tmdbid>2163883</tmdbid>
+  </actor>
+  <actor>
+    <name>Elly Condron</name>
+    <role>Mrs Kavanagh</role>
+    <type>Actor</type>
+    <tmdbid>1517871</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Menhinick</name>
+    <role>Paddy Kavanagh</role>
+    <type>Actor</type>
+    <tmdbid>3197731</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Ifediora</name>
+    <role>Miss Lewis</role>
+    <type>Actor</type>
+    <tmdbid>2946871</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerard McCarthy</name>
+    <role>Bobby Frank</role>
+    <type>Actor</type>
+    <tmdbid>1287074</tmdbid>
+  </actor>
+  <actor>
+    <name>Sid Sagar</name>
+    <role>Mr Singh</role>
+    <type>Actor</type>
+    <tmdbid>1821649</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Hadfield</name>
+    <role>George Malpass as Scrooge</role>
+    <type>Actor</type>
+    <tmdbid>195309</tmdbid>
+  </actor>
+  <actor>
+    <name>John Sessions</name>
+    <role>Joseph Tomelty as Marley</role>
+    <type>Actor</type>
+    <tmdbid>26860</tmdbid>
+    <imdbid>nm0785938</imdbid>
+  </actor>
+  <actor>
+    <name>Mairéad Tyers</name>
+    <role>Auntie Eileen</role>
+    <type>Actor</type>
+    <tmdbid>3432200</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Dillon</name>
+    <role>Mr Kavanagh</role>
+    <type>Actor</type>
+    <tmdbid>3432201</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonard Buckley</name>
+    <role>Mickey Clanton</role>
+    <type>Actor</type>
+    <tmdbid>3432204</tmdbid>
+  </actor>
+  <actor>
+    <name>Kit Rakusen</name>
+    <role>Billy Clanton Jr</role>
+    <type>Actor</type>
+    <tmdbid>3432209</tmdbid>
+  </actor>
+  <actor>
+    <name>Freya Yates</name>
+    <role>Cousin Frances</role>
+    <type>Actor</type>
+    <tmdbid>3448285</tmdbid>
+  </actor>
+  <actor>
+    <name>Nessa Eriksson</name>
+    <role>Cousin Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>3448286</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Barnard</name>
+    <role>Cousin Charlie</role>
+    <type>Actor</type>
+    <tmdbid>3448288</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Hastings</name>
+    <role>Auntie Mary</role>
+    <type>Actor</type>
+    <tmdbid>3448289</tmdbid>
+  </actor>
+  <actor>
+    <name>Caolan McCarthy</name>
+    <role>Uncle Sammie</role>
+    <type>Actor</type>
+    <tmdbid>3448291</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Dunnett Jnr</name>
+    <role>Uncle Tony</role>
+    <type>Actor</type>
+    <tmdbid>3448293</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Savell</name>
+    <role>Ronnie Boyd</role>
+    <type>Actor</type>
+    <tmdbid>3448294</tmdbid>
+  </actor>
+  <actor>
+    <name>Orla McDonagh</name>
+    <role>Karen Lambert</role>
+    <type>Actor</type>
+    <tmdbid>3448296</tmdbid>
+  </actor>
+  <actor>
+    <name>Ross O'Donnellan</name>
+    <role>Walter (Policeman)</role>
+    <type>Actor</type>
+    <tmdbid>3448298</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Flanagan</name>
+    <role>Mary Kavanagh</role>
+    <type>Actor</type>
+    <tmdbid>3448299</tmdbid>
+  </actor>
+  <actor>
+    <name>Serrana Su-Ling Bliss</name>
+    <role>Sharon Nicholas</role>
+    <type>Actor</type>
+    <tmdbid>3251452</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Feeney</name>
+    <role>Mrs Ford</role>
+    <type>Actor</type>
+    <tmdbid>2568528</tmdbid>
+  </actor>
+  <actor>
+    <name>Estelle Cousins</name>
+    <role>Darlene Clanton</role>
+    <type>Actor</type>
+    <tmdbid>3448300</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Gutteridge</name>
+    <role>Fancy Clanton</role>
+    <type>Actor</type>
+    <tmdbid>3448308</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Branagh</name>
+    <role>Young Bill</role>
+    <type>Actor</type>
+    <tmdbid>3448313</tmdbid>
+  </actor>
+  <actor>
+    <name>Joyce Branagh</name>
+    <role>Supermarket Manager</role>
+    <type>Actor</type>
+    <tmdbid>3427615</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy O'Dee</name>
+    <role>Rioter</role>
+    <type>Actor</type>
+    <tmdbid>3472653</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Alli</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3417990</tmdbid>
+  </actor>
+  <director tmdbid="11181" imdbid="nm0000110">Kenneth Branagh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ja3PPOnJQ2k</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C658p987SQI</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <sorttitle>Belfast</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12789558</imdbid>
+  <tmdbid>777270</tmdbid>
+  <premiered>2021-11-12</premiered>
+  <releasedate>2021-11-12</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>98</runtime>
+  <tagline>Nuestros recuerdos nos hacen</tagline>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <studio>Northern Ireland Screen</studio>
+  <studio>TKBC</studio>
+  <studio>Focus Features</studio>
+  <uniqueid type="imdb">tt12789558</uniqueid>
+  <uniqueid type="tmdb">777270</uniqueid>
+  <id>tt12789558</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1134306</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5895</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

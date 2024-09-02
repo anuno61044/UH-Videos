@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Los adolescentes Tony y María, a pesar de tener afiliaciones con pandillas callejeras rivales, los Jets y los Sharks, se enamoran en la ciudad de Nueva York en la década de los 50. Nueva versión del legendario musical 'West Side Story', a su vez adaptación de una famosa obra de teatro de Broadway, que modernizaba la historia de 'Romeo y Julieta', de Shakespeare.]]></plot>
+  <outline><![CDATA[Un Film de Steven Spielberg]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-23 18:05:06</dateadded>
+  <title>West Side Story</title>
+  <originaltitle>West Side Story</originaltitle>
+  <actor>
+    <name>Ansel Elgort</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>1159982</tmdbid>
+    <imdbid>nm5052065</imdbid>
+    <tvdbid>465701</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel Zegler</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>2217977</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariana DeBose</name>
+    <role>Anita</role>
+    <type>Actor</type>
+    <tmdbid>1437491</tmdbid>
+    <tvdbid>8163444</tvdbid>
+  </actor>
+  <actor>
+    <name>David Alvarez</name>
+    <role>Bernardo</role>
+    <type>Actor</type>
+    <tmdbid>2225865</tmdbid>
+    <tvdbid>625550</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Faist</name>
+    <role>Riff</role>
+    <type>Actor</type>
+    <tmdbid>1423520</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian d'Arcy James</name>
+    <role>Officer Krupke</role>
+    <type>Actor</type>
+    <tmdbid>175829</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Lieutenant Schrank</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+    <imdbid>nm1015684</imdbid>
+  </actor>
+  <actor>
+    <name>Rita Moreno</name>
+    <role>Valentina</role>
+    <type>Actor</type>
+    <tmdbid>13299</tmdbid>
+    <imdbid>nm0001549</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Andrés Rivera</name>
+    <role>Chino</role>
+    <type>Actor</type>
+    <tmdbid>2269067</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Isabelle</name>
+    <role>Rosalía</role>
+    <type>Actor</type>
+    <tmdbid>1636954</tmdbid>
+    <imdbid>nm3677062</imdbid>
+  </actor>
+  <actor>
+    <name>Ilda Mason</name>
+    <role>Luz</role>
+    <type>Actor</type>
+    <tmdbid>2840908</tmdbid>
+  </actor>
+  <actor>
+    <name>iris menas</name>
+    <role>Anybodys</role>
+    <type>Actor</type>
+    <tmdbid>2531140</tmdbid>
+  </actor>
+  <actor>
+    <name>Julius Anthony Rubio</name>
+    <role>Quique</role>
+    <type>Actor</type>
+    <tmdbid>2531143</tmdbid>
+  </actor>
+  <actor>
+    <name>Tanairi Sade Vazquez</name>
+    <role>Charita</role>
+    <type>Actor</type>
+    <tmdbid>2721914</tmdbid>
+  </actor>
+  <actor>
+    <name>David Aviles Morales</name>
+    <role>Aníbal</role>
+    <type>Actor</type>
+    <tmdbid>3441020</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Serra</name>
+    <role>Braulio</role>
+    <type>Actor</type>
+    <tmdbid>2531146</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Zayas</name>
+    <role>Chago</role>
+    <type>Actor</type>
+    <tmdbid>2531145</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Ubeda</name>
+    <role>Flaco</role>
+    <type>Actor</type>
+    <tmdbid>3340199</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrei Chagas</name>
+    <role>Jochi</role>
+    <type>Actor</type>
+    <tmdbid>3340200</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriel Flete</name>
+    <role>Julito</role>
+    <type>Actor</type>
+    <tmdbid>3318188</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Guzman</name>
+    <role>Junior</role>
+    <type>Actor</type>
+    <tmdbid>2524500</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelvin Delgado</name>
+    <role>Manolo</role>
+    <type>Actor</type>
+    <tmdbid>3570525</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Sánchez Falú</name>
+    <role>Pipo</role>
+    <type>Actor</type>
+    <tmdbid>2531148</tmdbid>
+  </actor>
+  <actor>
+    <name>Yurel Echezarreta</name>
+    <role>Sebas</role>
+    <type>Actor</type>
+    <tmdbid>2958277</tmdbid>
+  </actor>
+  <actor>
+    <name>David Guzman</name>
+    <role>Tino</role>
+    <type>Actor</type>
+    <tmdbid>2524501</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Harrison Jones</name>
+    <role>Action</role>
+    <type>Actor</type>
+    <tmdbid>2531138</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess LeProtto</name>
+    <role>A-Rab</role>
+    <type>Actor</type>
+    <tmdbid>3570526</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Higgins</name>
+    <role>Baby John</role>
+    <type>Actor</type>
+    <tmdbid>2531142</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Allen</name>
+    <role>Balkan</role>
+    <type>Actor</type>
+    <tmdbid>1562074</tmdbid>
+    <imdbid>nm6563873</imdbid>
+    <tvdbid>640604</tvdbid>
+  </actor>
+  <actor>
+    <name>John Michael Fiumara</name>
+    <role>Big Deal</role>
+    <type>Actor</type>
+    <tmdbid>3570527</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Csolak</name>
+    <role>Diesel</role>
+    <type>Actor</type>
+    <tmdbid>1094567</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Coffman</name>
+    <role>Ice</role>
+    <type>Actor</type>
+    <tmdbid>1782149</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Cook</name>
+    <role>Mouthpiece</role>
+    <type>Actor</type>
+    <tmdbid>1984115</tmdbid>
+    <tvdbid>353287</tvdbid>
+  </actor>
+  <actor>
+    <name>Harrison Coll</name>
+    <role>Numbers</role>
+    <type>Actor</type>
+    <tmdbid>2394264</tmdbid>
+  </actor>
+  <actor>
+    <name>Garett Hawe</name>
+    <role>Skink</role>
+    <type>Actor</type>
+    <tmdbid>2524507</tmdbid>
+  </actor>
+  <actor>
+    <name>Myles Erlick</name>
+    <role>Snowboy</role>
+    <type>Actor</type>
+    <tmdbid>1622776</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Elia</name>
+    <role>Tiger</role>
+    <type>Actor</type>
+    <tmdbid>3570528</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos E. Gonzalez</name>
+    <role>Chucho</role>
+    <type>Actor</type>
+    <tmdbid>3570532</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Patrick Russell</name>
+    <role>Little Moly</role>
+    <type>Actor</type>
+    <tmdbid>3570533</tmdbid>
+  </actor>
+  <actor>
+    <name>Yesenia Ayala</name>
+    <role>Clary</role>
+    <type>Actor</type>
+    <tmdbid>2647018</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriela M. Soto</name>
+    <role>Conchi</role>
+    <type>Actor</type>
+    <tmdbid>3570534</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliette Feliciano Ortiz</name>
+    <role>Cuca</role>
+    <type>Actor</type>
+    <tmdbid>3570535</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanette Delgado</name>
+    <role>Ili</role>
+    <type>Actor</type>
+    <tmdbid>3570536</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Alexis Rodriguez</name>
+    <role>Isa</role>
+    <type>Actor</type>
+    <tmdbid>3570537</tmdbid>
+  </actor>
+  <actor>
+    <name>Edriz E. Rosa Pérez</name>
+    <role>Jacinta</role>
+    <type>Actor</type>
+    <tmdbid>3570538</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Florentino</name>
+    <role>Montse</role>
+    <type>Actor</type>
+    <tmdbid>3570539</tmdbid>
+  </actor>
+  <actor>
+    <name>Melody Martí</name>
+    <role>Pili</role>
+    <type>Actor</type>
+    <tmdbid>3570540</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaby Diaz</name>
+    <role>Tati</role>
+    <type>Actor</type>
+    <tmdbid>3318127</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Ward</name>
+    <role>Tere</role>
+    <type>Actor</type>
+    <tmdbid>3570541</tmdbid>
+  </actor>
+  <actor>
+    <name>Eloise Kropp</name>
+    <role>Jet</role>
+    <type>Actor</type>
+    <tmdbid>2923329</tmdbid>
+  </actor>
+  <actor>
+    <name>Paloma Garcia-Lee</name>
+    <role>Graziella</role>
+    <type>Actor</type>
+    <tmdbid>2290310</tmdbid>
+  </actor>
+  <actor>
+    <name>Leigh-Ann Esty</name>
+    <role>Gussie</role>
+    <type>Actor</type>
+    <tmdbid>3570542</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Leach</name>
+    <role>Karen</role>
+    <type>Actor</type>
+    <tmdbid>3570545</tmdbid>
+  </actor>
+  <actor>
+    <name>Brittany Pollack</name>
+    <role>Mack</role>
+    <type>Actor</type>
+    <tmdbid>2988275</tmdbid>
+  </actor>
+  <actor>
+    <name>Kellie Drobnick</name>
+    <role>Mamie</role>
+    <type>Actor</type>
+    <tmdbid>3370468</tmdbid>
+  </actor>
+  <actor>
+    <name>Skye Mattox</name>
+    <role>Maxie</role>
+    <type>Actor</type>
+    <tmdbid>3570551</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriana Pierce</name>
+    <role>Natalie</role>
+    <type>Actor</type>
+    <tmdbid>3570552</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonalyn Saxer</name>
+    <role>Rhonda</role>
+    <type>Actor</type>
+    <tmdbid>1921320</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianna Abruzzo</name>
+    <role>Sorella</role>
+    <type>Actor</type>
+    <tmdbid>3570556</tmdbid>
+  </actor>
+  <actor>
+    <name>Halli Toland</name>
+    <role>Sweden</role>
+    <type>Actor</type>
+    <tmdbid>3570558</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Esty</name>
+    <role>Tat</role>
+    <type>Actor</type>
+    <tmdbid>3570559</tmdbid>
+  </actor>
+  <actor>
+    <name>Talia Ryder</name>
+    <role>Tessa</role>
+    <type>Actor</type>
+    <tmdbid>2475409</tmdbid>
+  </actor>
+  <actor>
+    <name>Maddie Ziegler</name>
+    <role>Velma</role>
+    <type>Actor</type>
+    <tmdbid>1483976</tmdbid>
+    <imdbid>nm4675650</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Burns</name>
+    <role>Fausta</role>
+    <type>Actor</type>
+    <tmdbid>1363622</tmdbid>
+    <imdbid>nm2426382</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Iveson</name>
+    <role>Glad Hand</role>
+    <type>Actor</type>
+    <tmdbid>2644245</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamila Velazquez</name>
+    <role>Meche</role>
+    <type>Actor</type>
+    <tmdbid>1473232</tmdbid>
+  </actor>
+  <actor>
+    <name>Annelise Cepero</name>
+    <role>Provi</role>
+    <type>Actor</type>
+    <tmdbid>2242772</tmdbid>
+  </actor>
+  <actor>
+    <name>Yassmin Alers</name>
+    <role>Lluvia</role>
+    <type>Actor</type>
+    <tmdbid>1182472</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Harris</name>
+    <role>Rory</role>
+    <type>Actor</type>
+    <tmdbid>111195</tmdbid>
+    <imdbid>nm0364807</imdbid>
+  </actor>
+  <actor>
+    <name>Curtiss Cook</name>
+    <role>Abe</role>
+    <type>Actor</type>
+    <tmdbid>2254</tmdbid>
+    <imdbid>nm1478007</imdbid>
+  </actor>
+  <actor>
+    <name>Nadia Quinn</name>
+    <role>Streetwalker</role>
+    <type>Actor</type>
+    <tmdbid>1722268</tmdbid>
+  </actor>
+  <actor>
+    <name>Arianna Rosario</name>
+    <role>Puertorriqueña #1</role>
+    <type>Actor</type>
+    <tmdbid>3570563</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Toro</name>
+    <role>Puertorriqueña #2</role>
+    <type>Actor</type>
+    <tmdbid>2468124</tmdbid>
+  </actor>
+  <actor>
+    <name>María Alejandra Castillo</name>
+    <role>Pachanga Shark Woman</role>
+    <type>Actor</type>
+    <tmdbid>3570564</tmdbid>
+  </actor>
+  <actor>
+    <name>Mannelly Gonzalez Abreu</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570570</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Haghighi Guliani</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570571</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Myers</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570572</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesseudi Marcelino</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570573</tmdbid>
+  </actor>
+  <actor>
+    <name>German M. Castillo</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570574</tmdbid>
+  </actor>
+  <actor>
+    <name>Ciara Calderon</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570575</tmdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Mills</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570576</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Ro</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570577</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Castillo</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570578</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Joseph Fuentes Duculan</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570579</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail R. Valdez</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570580</tmdbid>
+  </actor>
+  <actor>
+    <name>Navio Lopez</name>
+    <role>Pachanga Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3570581</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Cruz</name>
+    <role>Restaurant Owner</role>
+    <type>Actor</type>
+    <tmdbid>979216</tmdbid>
+    <imdbid>nm1497615</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Charlston</name>
+    <role>Gym Band (Band Leader)</role>
+    <type>Actor</type>
+    <tmdbid>3570583</tmdbid>
+  </actor>
+  <actor>
+    <name>Clint de Ganon</name>
+    <role>Gym Band (Drums)</role>
+    <type>Actor</type>
+    <tmdbid>3570584</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Phillips</name>
+    <role>Gym Band (Bass)</role>
+    <type>Actor</type>
+    <tmdbid>3570585</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvano Monasterios</name>
+    <role>Gym Band (Piano)</role>
+    <type>Actor</type>
+    <tmdbid>3570586</tmdbid>
+  </actor>
+  <actor>
+    <name>Ric Molina</name>
+    <role>Gym Band (Guitar)</role>
+    <type>Actor</type>
+    <tmdbid>3570587</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Pearson</name>
+    <role>Gym Band (Sax)</role>
+    <type>Actor</type>
+    <tmdbid>3570589</tmdbid>
+  </actor>
+  <actor>
+    <name>Hommy Ramos</name>
+    <role>Gym Band (Trombone)</role>
+    <type>Actor</type>
+    <tmdbid>3570591</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Ruiz</name>
+    <role>Gym Band (Trumpet 1)</role>
+    <type>Actor</type>
+    <tmdbid>3570595</tmdbid>
+  </actor>
+  <actor>
+    <name>Jumaane Smith</name>
+    <role>Gym Band (Trumpet 2)</role>
+    <type>Actor</type>
+    <tmdbid>3570597</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Noland</name>
+    <role>Gym Band (Reed Player)</role>
+    <type>Actor</type>
+    <tmdbid>3570600</tmdbid>
+  </actor>
+  <actor>
+    <name>Roland Morales</name>
+    <role>Gym Band (Percussionist 1)</role>
+    <type>Actor</type>
+    <tmdbid>3570602</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Diaz</name>
+    <role>Gym Band (Percussionist 2)</role>
+    <type>Actor</type>
+    <tmdbid>3570605</tmdbid>
+  </actor>
+  <actor>
+    <name>Chryssie Whitehead</name>
+    <role>Female Social Worker</role>
+    <type>Actor</type>
+    <tmdbid>931876</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Stroman</name>
+    <role>Custodian</role>
+    <type>Actor</type>
+    <tmdbid>3570607</tmdbid>
+  </actor>
+  <actor>
+    <name>Rene Ojeda</name>
+    <role>Elderly Man</role>
+    <type>Actor</type>
+    <tmdbid>1473511</tmdbid>
+  </actor>
+  <actor>
+    <name>Feiga Martinez</name>
+    <role>Elderly Woman</role>
+    <type>Actor</type>
+    <tmdbid>3002009</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Massimino</name>
+    <role>Cop #1</role>
+    <type>Actor</type>
+    <tmdbid>1669956</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Woodle</name>
+    <role>Cop #2</role>
+    <type>Actor</type>
+    <tmdbid>210007</tmdbid>
+  </actor>
+  <actor>
+    <name>David Bean</name>
+    <role>Fabric Store Owner</role>
+    <type>Actor</type>
+    <tmdbid>1824462</tmdbid>
+  </actor>
+  <actor>
+    <name>Bert Michaels</name>
+    <role>Gimbels Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1161044</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Lanza</name>
+    <role>Detective in Morgue</role>
+    <type>Actor</type>
+    <tmdbid>1370985</tmdbid>
+    <imdbid>nm2677789</imdbid>
+  </actor>
+  <actor>
+    <name>Savannah Renée Rodriguez</name>
+    <role>Young Girl María</role>
+    <type>Actor</type>
+    <tmdbid>3570609</tmdbid>
+  </actor>
+  <actor>
+    <name>Denia Brache</name>
+    <role>Old Lady María</role>
+    <type>Actor</type>
+    <tmdbid>120694</tmdbid>
+    <imdbid>nm0102726</imdbid>
+  </actor>
+  <actor>
+    <name>Lesley Bilingslea</name>
+    <role>Boxing Promoter</role>
+    <type>Actor</type>
+    <tmdbid>3570612</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Powers</name>
+    <role>Cop in Salt Shed</role>
+    <type>Actor</type>
+    <tmdbid>1216011</tmdbid>
+    <imdbid>nm1022918</imdbid>
+  </actor>
+  <actor>
+    <name>Reginald L. Barnes</name>
+    <role>Detective #2</role>
+    <type>Actor</type>
+    <tmdbid>1466172</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Noonan</name>
+    <role>Detective #3</role>
+    <type>Actor</type>
+    <tmdbid>1709197</tmdbid>
+    <imdbid>nm1121459</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Ward</name>
+    <role>Grizzled Trainer</role>
+    <type>Actor</type>
+    <tmdbid>1253648</tmdbid>
+    <imdbid>nm0911604</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Thomas</name>
+    <role>Hardware Store Owner</role>
+    <type>Actor</type>
+    <tmdbid>3570615</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Niebanck</name>
+    <role>Taxi Passenger</role>
+    <type>Actor</type>
+    <tmdbid>209227</tmdbid>
+  </actor>
+  <actor>
+    <name>Ixchel Cuellar</name>
+    <role>Demonstrator</role>
+    <type>Actor</type>
+    <tmdbid>3570617</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Garcia</name>
+    <role>Demonstrator</role>
+    <type>Actor</type>
+    <tmdbid>115981</tmdbid>
+    <imdbid>nm2049403</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Antonio Rodriguez</name>
+    <role>Demonstrator</role>
+    <type>Actor</type>
+    <tmdbid>3570619</tmdbid>
+  </actor>
+  <actor>
+    <name>José Ramón Rosario</name>
+    <role>Demonstrator</role>
+    <type>Actor</type>
+    <tmdbid>130735</tmdbid>
+    <imdbid>nm0741045</imdbid>
+  </actor>
+  <actor>
+    <name>Doreen Montalvo</name>
+    <role>Demonstrator</role>
+    <type>Actor</type>
+    <tmdbid>1681734</tmdbid>
+  </actor>
+  <actor>
+    <name>Shade Rupe</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>1691382</tmdbid>
+    <imdbid>nm0750419</imdbid>
+  </actor>
+  <director tmdbid="488" imdbid="nm0000229">Steven Spielberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q2Pg67Hfz3Q</trailer>
+  <rating>7.2</rating>
+  <year>2021</year>
+  <sorttitle>West Side Story</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3581652</imdbid>
+  <tmdbid>511809</tmdbid>
+  <premiered>2021-12-08</premiered>
+  <releasedate>2021-12-08</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>156</runtime>
+  <tagline>Un Film de Steven Spielberg</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Crimen</genre>
+  <studio>Amblin Entertainment</studio>
+  <studio>20th Century Studios</studio>
+  <uniqueid type="tmdb">511809</uniqueid>
+  <uniqueid type="imdb">tt3581652</uniqueid>
+  <id>tt3581652</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>897631</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>156</duration>
+        <durationinseconds>9380</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

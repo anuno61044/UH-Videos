@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A Jessica (Tilda Swinton), botánica británica establecida en Colombia, la despierta una noche un sonido como de otro mundo. La protagonista emprende un viaje hasta el corazón de la selva en busca del origen de este ruido que solo ella parece oír.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-16 10:50:56</dateadded>
+  <title>Memoria</title>
+  <originaltitle>Memoria</originaltitle>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>Jessica Holland</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Agnes Brekke</name>
+    <role>Karen Holland</role>
+    <type>Actor</type>
+    <tmdbid>2126734</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Giménez Cacho</name>
+    <role>Juan Ospina</role>
+    <type>Actor</type>
+    <tmdbid>1603</tmdbid>
+    <imdbid>nm0319843</imdbid>
+  </actor>
+  <actor>
+    <name>Jerónimo Barón</name>
+    <role>Mateo Ospina</role>
+    <type>Actor</type>
+    <tmdbid>2893050</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Urrego</name>
+    <role>Young Hernán Bedoya</role>
+    <type>Actor</type>
+    <tmdbid>1919397</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Balibar</name>
+    <role>Agnes Cerkinsky</role>
+    <type>Actor</type>
+    <tmdbid>77191</tmdbid>
+    <imdbid>nm0050210</imdbid>
+    <tvdbid>472266</tvdbid>
+  </actor>
+  <actor>
+    <name>Aída Morales</name>
+    <role>Vendor</role>
+    <type>Actor</type>
+    <tmdbid>931250</tmdbid>
+  </actor>
+  <actor>
+    <name>Constanza Guitérrez</name>
+    <role>Doctor Constanza</role>
+    <type>Actor</type>
+    <tmdbid>3127566</tmdbid>
+  </actor>
+  <actor>
+    <name>Elkin Díaz</name>
+    <role>Older Hernán Bedoya</role>
+    <type>Actor</type>
+    <tmdbid>943035</tmdbid>
+    <imdbid>nm0246565</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Toro</name>
+    <role>Anthropologist Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3852572</tmdbid>
+  </actor>
+  <director tmdbid="69759" imdbid="nm0917405">Apichatpong Weerasethakul</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PDU6B93ltds</trailer>
+  <rating>6.5</rating>
+  <year>2021</year>
+  <sorttitle>Memoria</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt8399288</imdbid>
+  <tmdbid>511819</tmdbid>
+  <premiered>2021-09-30</premiered>
+  <releasedate>2021-09-30</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>136</runtime>
+  <country>Germany</country>
+  <country>Qatar</country>
+  <country>China</country>
+  <country>Colombia</country>
+  <country>United States of America</country>
+  <country>France</country>
+  <country>Mexico</country>
+  <country>United Kingdom</country>
+  <country>Switzerland</country>
+  <country>Thailand</country>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Fantasía</genre>
+  <studio>CNC</studio>
+  <studio>Medienboard Berlin-Brandenburg</studio>
+  <studio>Xstream Pictures</studio>
+  <studio>The Match Factory</studio>
+  <studio>Bord Cadre Films</studio>
+  <studio>DFI</studio>
+  <studio>Louverture Films</studio>
+  <studio>ZDF/Arte</studio>
+  <studio>Hubert Bals Fund</studio>
+  <studio>Burning Blue</studio>
+  <studio>Piano</studio>
+  <studio>Illuminations Films</studio>
+  <studio>Sovereign Films</studio>
+  <studio>Labo</studio>
+  <studio>Kick the Machine</studio>
+  <studio>Anna Sanders Films</studio>
+  <studio>Proimagenes Colombia</studio>
+  <studio>L'Aide aux Cinémas du Monde</studio>
+  <studio>Ministère des Affaires étrangères et du Développement International</studio>
+  <studio>Eficine</studio>
+  <studio>185 Films</studio>
+  <studio>Purin Pictures</studio>
+  <studio>Rediance</studio>
+  <studio>Beijing Contemporary Art Foundation</studio>
+  <uniqueid type="tmdb">511819</uniqueid>
+  <uniqueid type="imdb">tt8399288</uniqueid>
+  <id>tt8399288</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1065730</bitrate>
+        <width>1336</width>
+        <height>720</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8154</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64225</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

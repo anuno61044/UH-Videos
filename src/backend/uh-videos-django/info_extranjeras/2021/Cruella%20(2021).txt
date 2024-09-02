@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.]]></plot>
+  <outline><![CDATA[Brillante. Malvada. Un poco loca.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-31 08:48:34</dateadded>
+  <title>Cruella</title>
+  <originaltitle>Cruella</originaltitle>
+  <actor>
+    <name>Emma Stone</name>
+    <role>Estella / Cruella</role>
+    <type>Actor</type>
+    <tmdbid>54693</tmdbid>
+    <imdbid>nm1297015</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Thompson</name>
+    <role>The Baroness</role>
+    <type>Actor</type>
+    <tmdbid>7056</tmdbid>
+    <imdbid>nm0000668</imdbid>
+    <tvdbid>254313</tvdbid>
+  </actor>
+  <actor>
+    <name>Joel Fry</name>
+    <role>Jasper</role>
+    <type>Actor</type>
+    <tmdbid>54811</tmdbid>
+    <imdbid>nm2181128</imdbid>
+    <tvdbid>496285</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Walter Hauser</name>
+    <role>Horace</role>
+    <type>Actor</type>
+    <tmdbid>1294982</tmdbid>
+    <imdbid>nm3236159</imdbid>
+    <tvdbid>527298</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Strong</name>
+    <role>John the Valet</role>
+    <type>Actor</type>
+    <tmdbid>2983</tmdbid>
+    <imdbid>nm0835016</imdbid>
+    <tvdbid>301469</tvdbid>
+  </actor>
+  <actor>
+    <name>Tipper Seifert-Cleveland</name>
+    <role>Estella (12 yrs)</role>
+    <type>Actor</type>
+    <tmdbid>2163852</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Anita Darling</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+    <tvdbid>501993</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Beecham</name>
+    <role>Catherine</role>
+    <type>Actor</type>
+    <tmdbid>130414</tmdbid>
+    <imdbid>nm2387806</imdbid>
+    <tvdbid>501727</tvdbid>
+  </actor>
+  <actor>
+    <name>John McCrea</name>
+    <role>Artie</role>
+    <type>Actor</type>
+    <tmdbid>1819918</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayvan Novak</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>2959</tmdbid>
+    <imdbid>nm1315378</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Demetriou</name>
+    <role>Gerald</role>
+    <type>Actor</type>
+    <tmdbid>1470911</tmdbid>
+    <imdbid>nm5857152</imdbid>
+    <tvdbid>302142</tvdbid>
+  </actor>
+  <actor>
+    <name>Abraham Popoola</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>1432064</tmdbid>
+    <tvdbid>8285585</tvdbid>
+  </actor>
+  <actor>
+    <name>Leo Bill</name>
+    <role>Headmaster</role>
+    <type>Actor</type>
+    <tmdbid>29237</tmdbid>
+    <imdbid>nm1095324</imdbid>
+    <tvdbid>281099</tvdbid>
+  </actor>
+  <actor>
+    <name>Javone Prince</name>
+    <role>Ipswich Manor Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1333631</tmdbid>
+    <imdbid>nm1574883</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Edge</name>
+    <role>Steven the Jewellery Shop Assistant</role>
+    <type>Actor</type>
+    <tmdbid>62973</tmdbid>
+    <imdbid>nm1222917</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chowdhry</name>
+    <role>Restaurant Owner</role>
+    <type>Actor</type>
+    <tmdbid>1123187</tmdbid>
+  </actor>
+  <actor>
+    <name>Ziggy Gardner</name>
+    <role>Jasper (12 yrs)</role>
+    <type>Actor</type>
+    <tmdbid>3106896</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph MacDonald</name>
+    <role>Horace (12 yrs)</role>
+    <type>Actor</type>
+    <tmdbid>3106897</tmdbid>
+  </actor>
+  <actor>
+    <name>Niamh Lynch</name>
+    <role>Liberty Shop Girl</role>
+    <type>Actor</type>
+    <tmdbid>2451439</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Leung</name>
+    <role>Jeffrey</role>
+    <type>Actor</type>
+    <tmdbid>1312526</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Birch</name>
+    <role>Baroness Head of Security</role>
+    <type>Actor</type>
+    <tmdbid>1349801</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Lowe</name>
+    <role>Mean Ginger</role>
+    <type>Actor</type>
+    <tmdbid>1503746</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bazely</name>
+    <role>Police Commissioner</role>
+    <type>Actor</type>
+    <tmdbid>110075</tmdbid>
+    <imdbid>nm0063311</imdbid>
+  </actor>
+  <actor>
+    <name>Ninette Finch</name>
+    <role>Lady</role>
+    <type>Actor</type>
+    <tmdbid>2160734</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Crowden</name>
+    <role>Beehive Lady</role>
+    <type>Actor</type>
+    <tmdbid>1356007</tmdbid>
+    <imdbid>nm0189562</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Willmott</name>
+    <role>Mean Kid</role>
+    <type>Actor</type>
+    <tmdbid>3107557</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Barry</name>
+    <role>Restaurant Valet</role>
+    <type>Actor</type>
+    <tmdbid>2426997</tmdbid>
+    <tvdbid>424949</tvdbid>
+  </actor>
+  <actor>
+    <name>Asmara Gabrielle</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2486152</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Turner</name>
+    <role>The Baron</role>
+    <type>Actor</type>
+    <tmdbid>1593293</tmdbid>
+    <imdbid>nm1467291</imdbid>
+  </actor>
+  <director tmdbid="50767" imdbid="nm0318916">Craig Gillespie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1DMmsFz6hj8</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <sorttitle>Cruella</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3228774</imdbid>
+  <tmdbid>337404</tmdbid>
+  <premiered>2021-05-26</premiered>
+  <releasedate>2021-05-26</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>134</runtime>
+  <tagline>Brillante. Malvada. Un poco loca.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>Walt Disney Pictures</studio>
+  <set tmdbcolid="837007">
+    <name>Cruella - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt3228774</uniqueid>
+  <uniqueid type="tmdb">337404</uniqueid>
+  <id>tt3228774</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>938012</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8035</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

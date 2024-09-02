@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cada mañana, sea el día que sea, cuatro amigos, Fernando, el Negro, Jesús y Benavente, se reúnen en un bar a tomar unas cañas y arreglar el mundo a su manera: criticando y despotricando contra todo y contra todos. Tienen algo en común, están en paro, bueno… todos, menos uno.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-08 17:59:33</dateadded>
+  <title>El club del paro</title>
+  <originaltitle>El club del paro</originaltitle>
+  <actor>
+    <name>Carlos Areces</name>
+    <role>Fernando</role>
+    <type>Actor</type>
+    <tmdbid>114461</tmdbid>
+    <imdbid>nm1693112</imdbid>
+    <tvdbid>294451</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Tejero</name>
+    <role>Jesús</role>
+    <type>Actor</type>
+    <tmdbid>43321</tmdbid>
+    <imdbid>nm1234572</imdbid>
+    <tvdbid>534146</tvdbid>
+  </actor>
+  <actor>
+    <name>Adrià Collado</name>
+    <role>Benavente</role>
+    <type>Actor</type>
+    <tmdbid>81473</tmdbid>
+    <imdbid>nm0171630</imdbid>
+    <tvdbid>534152</tvdbid>
+  </actor>
+  <actor>
+    <name>Eric Francés</name>
+    <role>El Negro</role>
+    <type>Actor</type>
+    <tmdbid>1031130</tmdbid>
+    <imdbid>nm1352548</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Botet</name>
+    <type>Actor</type>
+    <tmdbid>111090</tmdbid>
+    <imdbid>nm2306701</imdbid>
+    <tvdbid>499252</tvdbid>
+  </actor>
+  <actor>
+    <name>María Isasi</name>
+    <type>Actor</type>
+    <tmdbid>16956</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Ruiz</name>
+    <type>Actor</type>
+    <tmdbid>1143886</tmdbid>
+    <imdbid>nm0749715</imdbid>
+  </actor>
+  <actor>
+    <name>Veki G. Velilla</name>
+    <type>Actor</type>
+    <tmdbid>2049870</tmdbid>
+    <tvdbid>8097145</tvdbid>
+  </actor>
+  <director tmdbid="1031128">David Marqués</director>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>club del paro</sorttitle>
+  <imdbid>tt14308474</imdbid>
+  <tmdbid>809778</tmdbid>
+  <premiered>2021-09-17</premiered>
+  <releasedate>2021-09-17</releasedate>
+  <runtime>83</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Vértice 360</studio>
+  <studio>Sunrise Pictures</studio>
+  <uniqueid type="imdb">tt14308474</uniqueid>
+  <uniqueid type="tmdb">809778</uniqueid>
+  <id>tt14308474</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1091679</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>959:402</aspect>
+        <aspectratio>959:402</aspectratio>
+        <framerate>23.999598</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>82</duration>
+        <durationinseconds>4971</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64333</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

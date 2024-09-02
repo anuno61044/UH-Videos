@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos actores de muy diferentes trayectorias chocarán por sus métodos contrapuestos durante la preparación de una película financiada por un millonario ávido de notoriedad y dirigida por una prestigiosa y algo excéntrica directora.]]></plot>
+  <outline><![CDATA[¿El mejor director, los mejores actores, la mejor idea?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-20 09:10:36</dateadded>
+  <title>Competencia oficial</title>
+  <originaltitle>Competencia oficial</originaltitle>
+  <actor>
+    <name>Antonio Banderas</name>
+    <role>Félix Rivero</role>
+    <type>Actor</type>
+    <tmdbid>3131</tmdbid>
+    <imdbid>nm0000104</imdbid>
+    <tvdbid>264545</tvdbid>
+  </actor>
+  <actor>
+    <name>Penélope Cruz</name>
+    <role>Lola Cuevas</role>
+    <type>Actor</type>
+    <tmdbid>955</tmdbid>
+    <imdbid>nm0004851</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Martínez</name>
+    <role>Iván Torres</role>
+    <type>Actor</type>
+    <tmdbid>1457004</tmdbid>
+  </actor>
+  <actor>
+    <name>José Luis Gómez</name>
+    <role>Humberto Suárez</role>
+    <type>Actor</type>
+    <tmdbid>72631</tmdbid>
+    <imdbid>nm0351133</imdbid>
+  </actor>
+  <actor>
+    <name>Manolo Solo</name>
+    <role>Matías</role>
+    <type>Actor</type>
+    <tmdbid>592709</tmdbid>
+    <imdbid>nm1254805</imdbid>
+    <tvdbid>294463</tvdbid>
+  </actor>
+  <actor>
+    <name>Nagore Aranburu</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>1303016</tmdbid>
+    <imdbid>nm1084844</imdbid>
+  </actor>
+  <actor>
+    <name>Irene Escolar</name>
+    <role>Diana Suárez</role>
+    <type>Actor</type>
+    <tmdbid>962249</tmdbid>
+    <imdbid>nm1354955</imdbid>
+  </actor>
+  <actor>
+    <name>Pilar Castro</name>
+    <role>Violeta</role>
+    <type>Actor</type>
+    <tmdbid>138701</tmdbid>
+    <imdbid>nm0145673</imdbid>
+    <tvdbid>550128</tvdbid>
+  </actor>
+  <actor>
+    <name>Koldo Olabarri</name>
+    <role>Darío</role>
+    <type>Actor</type>
+    <tmdbid>2526591</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Grandinetti</name>
+    <role>Ariel</role>
+    <type>Actor</type>
+    <tmdbid>1748715</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Dominikowski</name>
+    <role>Coach defensa personal Félix</role>
+    <type>Actor</type>
+    <tmdbid>3224244</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Goldsmith</name>
+    <role>Novias Félix</role>
+    <type>Actor</type>
+    <tmdbid>3224245</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Ruiz</name>
+    <role>Novias Félix</role>
+    <type>Actor</type>
+    <tmdbid>3224246</tmdbid>
+  </actor>
+  <actor>
+    <name>María Guinea</name>
+    <role>Novias Félix</role>
+    <type>Actor</type>
+    <tmdbid>1691349</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel García Lorca</name>
+    <role>Directora de arte</role>
+    <type>Actor</type>
+    <tmdbid>144270</tmdbid>
+  </actor>
+  <actor>
+    <name>Xana del Mar</name>
+    <role>Asistente de arte</role>
+    <type>Actor</type>
+    <tmdbid>3224247</tmdbid>
+  </actor>
+  <actor>
+    <name>Melina Matthews</name>
+    <role>Directora de fotografía</role>
+    <type>Actor</type>
+    <tmdbid>1289925</tmdbid>
+    <imdbid>nm3172796</imdbid>
+    <tvdbid>470121</tvdbid>
+  </actor>
+  <actor>
+    <name>Sue Flack</name>
+    <role>Directora de vestuario</role>
+    <type>Actor</type>
+    <tmdbid>26287</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucía Arestegui</name>
+    <role>Asistente de vestuario</role>
+    <type>Actor</type>
+    <tmdbid>3224248</tmdbid>
+  </actor>
+  <actor>
+    <name>Pilar Bergés</name>
+    <role>Empleadas limpieza fundación</role>
+    <type>Actor</type>
+    <tmdbid>1488928</tmdbid>
+    <imdbid>nm6875339</imdbid>
+  </actor>
+  <actor>
+    <name>Myriam Diego</name>
+    <role>Empleadas limpieza fundación</role>
+    <type>Actor</type>
+    <tmdbid>3224249</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Chamorro</name>
+    <role>Cóctel</role>
+    <type>Actor</type>
+    <tmdbid>2147813</tmdbid>
+    <imdbid>nm1125506</imdbid>
+  </actor>
+  <actor>
+    <name>Mónica Bardem</name>
+    <role>Cóctel</role>
+    <type>Actor</type>
+    <tmdbid>22372</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Belén</name>
+    <role>Cóctel</role>
+    <type>Actor</type>
+    <tmdbid>227395</tmdbid>
+    <imdbid>nm0006702</imdbid>
+    <tvdbid>501346</tvdbid>
+  </actor>
+  <actor>
+    <name>Ken Appledorn</name>
+    <role>Invitada cóctel</role>
+    <type>Actor</type>
+    <tmdbid>1276992</tmdbid>
+    <imdbid>nm3240775</imdbid>
+  </actor>
+  <director tmdbid="584191">Gastón Duprat</director>
+  <director tmdbid="584193">Mariano Cohn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B15dDTwGsfU</trailer>
+  <rating>7</rating>
+  <year>2021</year>
+  <sorttitle>Competencia oficial</sorttitle>
+  <imdbid>tt11700260</imdbid>
+  <tmdbid>668640</tmdbid>
+  <premiered>2021-09-04</premiered>
+  <releasedate>2021-09-04</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>114</runtime>
+  <tagline>¿El mejor director, los mejores actores, la mejor idea?</tagline>
+  <country>Argentina</country>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>TVE</studio>
+  <studio>TV3</studio>
+  <studio>Orange</studio>
+  <studio>The Mediapro Studio</studio>
+  <uniqueid type="tmdb">668640</uniqueid>
+  <uniqueid type="imdb">tt11700260</uniqueid>
+  <id>tt11700260</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>957080</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6858</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63950</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

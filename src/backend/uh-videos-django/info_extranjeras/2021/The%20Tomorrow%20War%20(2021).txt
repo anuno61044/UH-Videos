@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un día el mundo se paraliza cuando un grupo de viajeros en el tiempo se transporta desde el año 2051 para entregar un mensaje urgente: La humanidad está perdiendo la guerra mundial contra una especie alienígena letal. La única esperanza de supervivencia es que los soldados y los ciudadanos del presente sean transportados al futuro y se unan a la lucha. Entre los reclutados está el profesor de instituto y padre de familia Dan Forester (Chris Pratt) quien, decidido a salvar el mundo por su hija, se une a una brillante científica (Yvonne Strahovski) y a su padre (J.K. Simmons) en una búsqueda desesperada por reescribir el destino del planeta.]]></plot>
+  <outline><![CDATA[La lucha por el mañana comienza hoy.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-07 08:29:09</dateadded>
+  <title>La guerra del mañana</title>
+  <originaltitle>The Tomorrow War</originaltitle>
+  <actor>
+    <name>Chris Pratt</name>
+    <role>Dan Forester</role>
+    <type>Actor</type>
+    <tmdbid>73457</tmdbid>
+    <imdbid>nm0695435</imdbid>
+    <tvdbid>312388</tvdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Colonel Muri Forester</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+    <tvdbid>327254</tvdbid>
+  </actor>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>James Forester</role>
+    <type>Actor</type>
+    <tmdbid>18999</tmdbid>
+    <imdbid>nm0799777</imdbid>
+    <tvdbid>271472</tvdbid>
+  </actor>
+  <actor>
+    <name>Betty Gilpin</name>
+    <role>Emmy Forester</role>
+    <type>Actor</type>
+    <tmdbid>92572</tmdbid>
+    <imdbid>nm2365811</imdbid>
+    <tvdbid>303583</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Richardson</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1429453</tmdbid>
+    <imdbid>nm3931538</imdbid>
+    <tvdbid>308191</tvdbid>
+  </actor>
+  <actor>
+    <name>Edwin Hodge</name>
+    <role>Dorian</role>
+    <type>Actor</type>
+    <tmdbid>56679</tmdbid>
+    <imdbid>nm0388064</imdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Mathews</name>
+    <role>Lt. Hart</role>
+    <type>Actor</type>
+    <tmdbid>1976475</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Kiera Armstrong</name>
+    <role>Young Muri Forester</role>
+    <type>Actor</type>
+    <tmdbid>2072566</tmdbid>
+    <imdbid>nm8740834</imdbid>
+    <tvdbid>8178145</tvdbid>
+  </actor>
+  <actor>
+    <name>Keith Powers</name>
+    <role>Major Greenwood</role>
+    <type>Actor</type>
+    <tmdbid>1442955</tmdbid>
+    <imdbid>nm5469428</imdbid>
+    <tvdbid>464869</tvdbid>
+  </actor>
+  <actor>
+    <name>Mary Lynn Rajskub</name>
+    <role>Norah</role>
+    <type>Actor</type>
+    <tmdbid>25884</tmdbid>
+    <imdbid>nm0707476</imdbid>
+    <tvdbid>296674</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Mitchell</name>
+    <role>Cowan</role>
+    <type>Actor</type>
+    <tmdbid>1336796</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Shaw</name>
+    <role>Tank</role>
+    <type>Actor</type>
+    <tmdbid>3072032</tmdbid>
+    <tvdbid>8432087</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexis Louder</name>
+    <role>Diablo</role>
+    <type>Actor</type>
+    <tmdbid>2273501</tmdbid>
+    <tvdbid>7881029</tvdbid>
+  </actor>
+  <actor>
+    <name>Rose Bianco</name>
+    <role>Rose</role>
+    <type>Actor</type>
+    <tmdbid>2008015</tmdbid>
+  </actor>
+  <actor>
+    <name>Seychelle Gabriel</name>
+    <role>Sgt. Diaz</role>
+    <type>Actor</type>
+    <tmdbid>559643</tmdbid>
+    <imdbid>nm2437267</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Trong</name>
+    <role>Lt. Tran</role>
+    <type>Actor</type>
+    <tmdbid>1422210</tmdbid>
+  </actor>
+  <actor>
+    <name>Chibuikem Uche</name>
+    <role>Lt. Ikemba</role>
+    <type>Actor</type>
+    <tmdbid>2403981</tmdbid>
+  </actor>
+  <actor>
+    <name>David Maldonado</name>
+    <role>Dodd</role>
+    <type>Actor</type>
+    <tmdbid>1327175</tmdbid>
+    <imdbid>nm1296223</imdbid>
+  </actor>
+  <actor>
+    <name>Kasandra Bandfield</name>
+    <role>Lawyer Draftee</role>
+    <type>Actor</type>
+    <tmdbid>2077335</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Weeks</name>
+    <role>Hard Working Draftee</role>
+    <type>Actor</type>
+    <tmdbid>3281358</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Brooks</name>
+    <role>Broken Back Draftee</role>
+    <type>Actor</type>
+    <tmdbid>1156146</tmdbid>
+  </actor>
+  <actor>
+    <name>Rad Daly</name>
+    <role>Sad Draftee</role>
+    <type>Actor</type>
+    <tmdbid>180467</tmdbid>
+    <imdbid>nm0198502</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Palmer</name>
+    <role>Truck Driver Draftee</role>
+    <type>Actor</type>
+    <tmdbid>9568</tmdbid>
+    <imdbid>nm0658293</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Feldman</name>
+    <role>Teacher Draftee</role>
+    <type>Actor</type>
+    <tmdbid>3072081</tmdbid>
+  </actor>
+  <actor>
+    <name>Desiree Supernaugh</name>
+    <role>Tank Top Draftee</role>
+    <type>Actor</type>
+    <tmdbid>3281365</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Parra</name>
+    <role>Draftee Angel</role>
+    <type>Actor</type>
+    <tmdbid>3281364</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rivera</name>
+    <role>Jodie</role>
+    <type>Actor</type>
+    <tmdbid>2102768</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiley Casciano</name>
+    <role>Yoga Teacher Alexis</role>
+    <type>Actor</type>
+    <tmdbid>2088479</tmdbid>
+  </actor>
+  <actor>
+    <name>Barb Willis</name>
+    <role>Draftee #1</role>
+    <type>Actor</type>
+    <tmdbid>3281368</tmdbid>
+  </actor>
+  <actor>
+    <name>April Knox</name>
+    <role>Draftee #2</role>
+    <type>Actor</type>
+    <tmdbid>3281369</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Cornwell</name>
+    <role>Frank</role>
+    <type>Actor</type>
+    <tmdbid>1068811</tmdbid>
+    <imdbid>nm1494966</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Malone</name>
+    <role>Kyle</role>
+    <type>Actor</type>
+    <tmdbid>1219607</tmdbid>
+  </actor>
+  <actor>
+    <name>Clark Sarullo</name>
+    <role>Traci</role>
+    <type>Actor</type>
+    <tmdbid>1636267</tmdbid>
+    <imdbid>nm4148246</imdbid>
+  </actor>
+  <actor>
+    <name>Ashlyn Moore</name>
+    <role>Katie</role>
+    <type>Actor</type>
+    <tmdbid>1779360</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fleming</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>3281377</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Cuthbertson</name>
+    <role>Concerned Mom</role>
+    <type>Actor</type>
+    <tmdbid>2922079</tmdbid>
+  </actor>
+  <actor>
+    <name>Terrence J. Smith</name>
+    <role>MEPS Tech Officer Sam</role>
+    <type>Actor</type>
+    <tmdbid>3526433</tmdbid>
+  </actor>
+  <actor>
+    <name>Felisha Terrell</name>
+    <role>Conscription Officer Lauren Paveza</role>
+    <type>Actor</type>
+    <tmdbid>210334</tmdbid>
+    <imdbid>nm3037819</imdbid>
+  </actor>
+  <actor>
+    <name>Gissette E. Valentin</name>
+    <role>Conscription Officer Taylor Dean</role>
+    <type>Actor</type>
+    <tmdbid>1290625</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikki Mejia</name>
+    <role>Viper One Pilot</role>
+    <type>Actor</type>
+    <tmdbid>3235987</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Barton</name>
+    <role>Viper One Radio (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10123</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Graise</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>1930907</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary James Rukavina</name>
+    <role>Veteran Palo</role>
+    <type>Actor</type>
+    <tmdbid>1125009</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Giuffria</name>
+    <role>Veteran Susan</role>
+    <type>Actor</type>
+    <tmdbid>1658200</tmdbid>
+  </actor>
+  <actor>
+    <name>Seth Schenall</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>3281378</tmdbid>
+  </actor>
+  <actor>
+    <name>Piper Collins</name>
+    <role>Chelsea</role>
+    <type>Actor</type>
+    <tmdbid>2628528</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Israel</name>
+    <role>Jayden</role>
+    <type>Actor</type>
+    <tmdbid>1205979</tmdbid>
+  </actor>
+  <actor>
+    <name>Amere Stewart</name>
+    <role>Tina</role>
+    <type>Actor</type>
+    <tmdbid>3072089</tmdbid>
+  </actor>
+  <actor>
+    <name>Caden Graham</name>
+    <role>Ted</role>
+    <type>Actor</type>
+    <tmdbid>3281379</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Naipaul</name>
+    <role>Jump Command Engineer</role>
+    <type>Actor</type>
+    <tmdbid>3072076</tmdbid>
+  </actor>
+  <actor>
+    <name>DJames Jones</name>
+    <role>Army Officer (F.O.B.)</role>
+    <type>Actor</type>
+    <tmdbid>1911542</tmdbid>
+    <imdbid>nm5041435</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Bach</name>
+    <role>FOB Soldier</role>
+    <type>Actor</type>
+    <tmdbid>933545</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Andrade</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>1486623</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Weeks</name>
+    <role>News Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>168875</tmdbid>
+    <imdbid>nm0917314</imdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Byndloss</name>
+    <role>News Reporter #3</role>
+    <type>Actor</type>
+    <tmdbid>2189069</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Israel</name>
+    <role>News Reporter #3</role>
+    <type>Actor</type>
+    <tmdbid>1737299</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Saint-Amand</name>
+    <role>News Reporter #4</role>
+    <type>Actor</type>
+    <tmdbid>1515510</tmdbid>
+  </actor>
+  <actor>
+    <name>La'Toya Kirkland</name>
+    <role>La'Toya</role>
+    <type>Actor</type>
+    <tmdbid>3281380</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Hatfield</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>3281381</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Berengue</name>
+    <role>Military (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2481829</tmdbid>
+  </actor>
+  <actor>
+    <name>Gloria Bishop</name>
+    <role>Draftee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2035086</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole L. Campbell</name>
+    <role>Neighbor at Christmas Party (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2489417</tmdbid>
+  </actor>
+  <actor>
+    <name>Conrad Carpenter</name>
+    <role>Raptor 1 Pilot (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2684416</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Ray Cartel</name>
+    <role>Intelligence Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3032113</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriana Catalano</name>
+    <role>Future Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072090</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cocke</name>
+    <role>Draftee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2586923</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan W. Collins</name>
+    <role>Future Special Forces Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2414457</tmdbid>
+  </actor>
+  <actor>
+    <name>Nic Curtis</name>
+    <role>Protester (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072079</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris TC Edge</name>
+    <role>Special Forces Sgt. Major (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072059</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason m Edwards</name>
+    <role>Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072073</tmdbid>
+  </actor>
+  <actor>
+    <name>Darin Ferraro</name>
+    <role>Military Trainee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2046184</tmdbid>
+  </actor>
+  <actor>
+    <name>Reese Giles</name>
+    <role>World Cup Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072091</tmdbid>
+  </actor>
+  <actor>
+    <name>Clyde C Harris</name>
+    <role>Larry Sutton Draftee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2643791</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Holloway</name>
+    <role>Lieutenant Marks (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2210348</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacy Johnson</name>
+    <role>Sister (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2492415</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeannie Ledford</name>
+    <role>Future Military (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072093</tmdbid>
+  </actor>
+  <actor>
+    <name>Damon LeGrand</name>
+    <role>Protester (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072084</tmdbid>
+  </actor>
+  <actor>
+    <name>Eeryn Falk Lubicich</name>
+    <role>Draftee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2982182</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Metoyer</name>
+    <role>Draftee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072078</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy O'Brien</name>
+    <role>Protester / Husband (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1610738</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Daniel Stumpp</name>
+    <role>Draftee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2096299</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Tinsley</name>
+    <role>Military Lab Tech (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2559822</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Urena</name>
+    <role>Future Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3072088</tmdbid>
+  </actor>
+  <actor>
+    <name>Olaolu Winfunke</name>
+    <role>Captain Woods (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2687834</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Zulu Jr.</name>
+    <role>Special Forces (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2035114</tmdbid>
+  </actor>
+  <director tmdbid="144816">Chris McKay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-SKUaEjmUWc</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>guerra del manana</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9777666</imdbid>
+  <tmdbid>588228</tmdbid>
+  <premiered>2021-07-02</premiered>
+  <releasedate>2021-07-02</releasedate>
+  <criticrating>52</criticrating>
+  <runtime>138</runtime>
+  <tagline>La lucha por el mañana comienza hoy.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <studio>Phantom Four</studio>
+  <studio>Skydance Media</studio>
+  <studio>Lit Entertainment Group</studio>
+  <set tmdbcolid="848922">
+    <name>La Guerra del Mañana - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt9777666</uniqueid>
+  <uniqueid type="tmdb">588228</uniqueid>
+  <id>tt9777666</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>911891</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8286</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

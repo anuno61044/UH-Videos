@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en un aislado pueblo de montaña en la Macedonia del siglo XIX, la película sigue a una joven que es secuestrada y luego transformada en bruja por un espíritu ancestral.]]></plot>
+  <outline><![CDATA[Es una cosa perversa este mundo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-21 17:11:39</dateadded>
+  <title>No estarás sola</title>
+  <originaltitle>You Won't Be Alone</originaltitle>
+  <actor>
+    <name>Сара Климоска</name>
+    <role>Nevena</role>
+    <type>Actor</type>
+    <tmdbid>1617466</tmdbid>
+  </actor>
+  <actor>
+    <name>Anamaria Marinca</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>20699</tmdbid>
+    <imdbid>nm1671512</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Englert</name>
+    <role>Biliana</role>
+    <type>Actor</type>
+    <tmdbid>587823</tmdbid>
+    <imdbid>nm2129444</imdbid>
+    <tvdbid>556295</tvdbid>
+  </actor>
+  <actor>
+    <name>Félix Maritaud</name>
+    <role>Yovan</role>
+    <type>Actor</type>
+    <tmdbid>1871353</tmdbid>
+    <imdbid>nm9029751</imdbid>
+  </actor>
+  <actor>
+    <name>Carloto Cotta</name>
+    <role>Boris</role>
+    <type>Actor</type>
+    <tmdbid>544608</tmdbid>
+  </actor>
+  <actor>
+    <name>Noomi Rapace</name>
+    <role>Bosilka</role>
+    <type>Actor</type>
+    <tmdbid>87722</tmdbid>
+    <imdbid>nm0636426</imdbid>
+    <tvdbid>360661</tvdbid>
+  </actor>
+  <actor>
+    <name>Irena Ristić</name>
+    <role>Elica</role>
+    <type>Actor</type>
+    <tmdbid>1535106</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamka Tocinovski</name>
+    <role>Yoana</role>
+    <type>Actor</type>
+    <tmdbid>585467</tmdbid>
+  </actor>
+  <actor>
+    <name>Leontina Bainović</name>
+    <role>Young Nevena</role>
+    <type>Actor</type>
+    <tmdbid>3520813</tmdbid>
+  </actor>
+  <actor>
+    <name>Anastasija Karanovich</name>
+    <role>Young Biliana</role>
+    <type>Actor</type>
+    <tmdbid>3520814</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofija Jeremić</name>
+    <role>Biliana's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3520815</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kovačević</name>
+    <role>Biliana's Father</role>
+    <type>Actor</type>
+    <tmdbid>1875424</tmdbid>
+  </actor>
+  <actor>
+    <name>Šenka Kolozova</name>
+    <role>Biliana's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>1799952</tmdbid>
+  </actor>
+  <actor>
+    <name>Jelena Velkovski</name>
+    <role>Biliana's Sister-in-Law</role>
+    <type>Actor</type>
+    <tmdbid>1050117</tmdbid>
+  </actor>
+  <actor>
+    <name>Verica Nedeska</name>
+    <role>Groom's Mother</role>
+    <type>Actor</type>
+    <tmdbid>110973</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikola Marković</name>
+    <role>Groom's Father</role>
+    <type>Actor</type>
+    <tmdbid>1565039</tmdbid>
+  </actor>
+  <actor>
+    <name>Miloš Pantić</name>
+    <role>Dušan</role>
+    <type>Actor</type>
+    <tmdbid>3832668</tmdbid>
+  </actor>
+  <actor>
+    <name>Đorđe Mišina</name>
+    <role>Miroslav</role>
+    <type>Actor</type>
+    <tmdbid>2158625</tmdbid>
+  </actor>
+  <actor>
+    <name>Arta Dobroshi</name>
+    <role>Stamena</role>
+    <type>Actor</type>
+    <tmdbid>73328</tmdbid>
+    <imdbid>nm1671184</imdbid>
+  </actor>
+  <director tmdbid="1844423">Goran Stolevski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6-G39n2sCVU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8q_ircqu8HA</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>No estaras sola</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8296030</imdbid>
+  <tmdbid>883083</tmdbid>
+  <premiered>2022-04-01</premiered>
+  <releasedate>2022-04-01</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>109</runtime>
+  <tagline>Es una cosa perversa este mundo.</tagline>
+  <country>Australia</country>
+  <country>United Kingdom</country>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <studio>Causeway Films</studio>
+  <studio>Head Gear Films</studio>
+  <studio>Metrol Technology</studio>
+  <uniqueid type="tmdb">883083</uniqueid>
+  <uniqueid type="imdb">tt8296030</uniqueid>
+  <id>tt8296030</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>918607</bitrate>
+        <width>1036</width>
+        <height>720</height>
+        <aspect>259:180</aspect>
+        <aspectratio>259:180</aspectratio>
+        <framerate>23.97587</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6564</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

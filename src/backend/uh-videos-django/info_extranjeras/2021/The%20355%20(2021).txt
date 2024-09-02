@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Thriller de espionaje -ideado y producido por Jessica Chastain- sobre cinco mujeres que se unen, superando sus rencillas y conflictos personales, para usar sus respectivos talentos y experiencia con un objetivo: intentar evitar que una poderosa organización adquiera un arma que empuje al tambaleante mundo al caos total. En el camino, estas mujeres se convertirán en camaradas y amigas, formando un nuevo grupo cuyo nombre en clave es "355", nombre que adoptan de la primera mujer espía en la Revolución Americana.]]></plot>
+  <outline><![CDATA[Trabajar juntas o morir solas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-27 07:47:27</dateadded>
+  <title>Agentes 355</title>
+  <originaltitle>The 355</originaltitle>
+  <actor>
+    <name>Jessica Chastain</name>
+    <role>Mason 'Mace' Brown</role>
+    <type>Actor</type>
+    <tmdbid>83002</tmdbid>
+    <imdbid>nm1567113</imdbid>
+    <tvdbid>310937</tvdbid>
+  </actor>
+  <actor>
+    <name>Lupita Nyong'o</name>
+    <role>Khadijah Adiyeme</role>
+    <type>Actor</type>
+    <tmdbid>1267329</tmdbid>
+    <imdbid>nm2143282</imdbid>
+  </actor>
+  <actor>
+    <name>Penélope Cruz</name>
+    <role>Graciela Rivera</role>
+    <type>Actor</type>
+    <tmdbid>955</tmdbid>
+    <imdbid>nm0004851</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Kruger</name>
+    <role>Marie Schmidt</role>
+    <type>Actor</type>
+    <tmdbid>9824</tmdbid>
+    <imdbid>nm1208167</imdbid>
+  </actor>
+  <actor>
+    <name>Fan Bingbing</name>
+    <role>Lin Mi Sheng</role>
+    <type>Actor</type>
+    <tmdbid>64439</tmdbid>
+    <imdbid>nm1549063</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>Nick Fowler</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+    <tvdbid>341591</tvdbid>
+  </actor>
+  <actor>
+    <name>Edgar Ramírez</name>
+    <role>Luis Rojas</role>
+    <type>Actor</type>
+    <tmdbid>25616</tmdbid>
+    <imdbid>nm1183149</imdbid>
+    <tvdbid>7963370</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Flemyng</name>
+    <role>Elijah Clarke</role>
+    <type>Actor</type>
+    <tmdbid>973</tmdbid>
+    <imdbid>nm0002076</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvester Groth</name>
+    <role>Jonas Muller</role>
+    <type>Actor</type>
+    <tmdbid>41965</tmdbid>
+    <imdbid>nm0343857</imdbid>
+  </actor>
+  <actor>
+    <name>John Douglas Thompson</name>
+    <role>Larry Marks</role>
+    <type>Actor</type>
+    <tmdbid>1218156</tmdbid>
+    <imdbid>nm1479034</imdbid>
+    <tvdbid>341534</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>Stevens</role>
+    <type>Actor</type>
+    <tmdbid>1033691</tmdbid>
+    <imdbid>nm3438484</imdbid>
+  </actor>
+  <actor>
+    <name>Leo Staar</name>
+    <role>Grady</role>
+    <type>Actor</type>
+    <tmdbid>1595251</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphael Acloque</name>
+    <role>Abdel</role>
+    <type>Actor</type>
+    <tmdbid>1631708</tmdbid>
+    <imdbid>nm6708576</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Scola</name>
+    <role>Santiago</role>
+    <type>Actor</type>
+    <tmdbid>186391</tmdbid>
+    <imdbid>nm0778637</imdbid>
+  </actor>
+  <actor>
+    <name>Marcello Cruz</name>
+    <role>Jeronimo</role>
+    <type>Actor</type>
+    <tmdbid>3374113</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiten Patel</name>
+    <role>Morocco Market / Mosque</role>
+    <type>Actor</type>
+    <tmdbid>1973190</tmdbid>
+    <imdbid>nm9316536</imdbid>
+  </actor>
+  <actor>
+    <name>Evie Wray</name>
+    <role>Mum</role>
+    <type>Actor</type>
+    <tmdbid>1264641</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Sauerback</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1363058</tmdbid>
+    <imdbid>nm10020970</imdbid>
+  </actor>
+  <actor>
+    <name>Francisco Labbe</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>1561309</tmdbid>
+    <imdbid>nm1407085</imdbid>
+  </actor>
+  <actor>
+    <name>Waleed Elgadi</name>
+    <role>Yassine</role>
+    <type>Actor</type>
+    <tmdbid>1337806</tmdbid>
+    <imdbid>nm1625385</imdbid>
+  </actor>
+  <actor>
+    <name>Martyn Mayger</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1742704</tmdbid>
+    <imdbid>nm5020928</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Kumar</name>
+    <role>Morocco Market Customer</role>
+    <type>Actor</type>
+    <tmdbid>1744072</tmdbid>
+  </actor>
+  <actor>
+    <name>Atul Sharma</name>
+    <role>Morocco Market Customer</role>
+    <type>Actor</type>
+    <tmdbid>1615064</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Barbosa</name>
+    <role>French Man</role>
+    <type>Actor</type>
+    <tmdbid>2285186</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Thomas</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>3041313</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul O'Kelly</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1841458</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Rabinowitz</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2878627</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Shoubber</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>2766053</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Sardison</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>2545219</tmdbid>
+    <imdbid>nm10921073</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Svetek</name>
+    <role>CIA Operative</role>
+    <type>Actor</type>
+    <tmdbid>3041316</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Insolera</name>
+    <role>Hacker</role>
+    <type>Actor</type>
+    <tmdbid>1808351</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Saunders</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1566183</tmdbid>
+    <imdbid>nm6847003</imdbid>
+  </actor>
+  <actor>
+    <name>Mick Slaney</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>147641</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleg Kricunova</name>
+    <role>Pyotr Khasanov</role>
+    <type>Actor</type>
+    <tmdbid>1111242</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon C. Joyce</name>
+    <role>Hwan Ha Jun</role>
+    <type>Actor</type>
+    <tmdbid>1423306</tmdbid>
+  </actor>
+  <actor>
+    <name>Jag Patel</name>
+    <role>Morocco Market Seller</role>
+    <type>Actor</type>
+    <tmdbid>1785923</tmdbid>
+    <imdbid>nm8050148</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Ng</name>
+    <role>Chinese Police</role>
+    <type>Actor</type>
+    <tmdbid>2219129</tmdbid>
+  </actor>
+  <actor>
+    <name>Bodo Friesecke</name>
+    <role>German Man</role>
+    <type>Actor</type>
+    <tmdbid>1599263</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Haydon</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1651390</tmdbid>
+    <imdbid>nm5787663</imdbid>
+  </actor>
+  <actor>
+    <name>Amra Mallassi</name>
+    <role>Man At Reception</role>
+    <type>Actor</type>
+    <tmdbid>1363060</tmdbid>
+  </actor>
+  <actor>
+    <name>Metin Hassan</name>
+    <role>Arab Prince</role>
+    <type>Actor</type>
+    <tmdbid>3041319</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Pearce</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>2766130</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Lomas</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>3041320</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Blatt</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1379311</tmdbid>
+    <imdbid>nm4425912</imdbid>
+  </actor>
+  <actor>
+    <name>Mariia Legun</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2782210</tmdbid>
+  </actor>
+  <actor>
+    <name>David Yu</name>
+    <role>Lin Jien</role>
+    <type>Actor</type>
+    <tmdbid>1487514</tmdbid>
+  </actor>
+  <actor>
+    <name>Gino Picciano</name>
+    <role>Merchant</role>
+    <type>Actor</type>
+    <tmdbid>1394384</tmdbid>
+    <imdbid>nm3888029</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Loh</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>2545138</tmdbid>
+    <imdbid>nm10989897</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Beard</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1956499</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Trevor</name>
+    <role>Wealthy Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>1583693</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham Burton</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>2142931</tmdbid>
+    <imdbid>nm5219379</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Grifoni</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>3041322</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Oliver</name>
+    <role>Dock Worker</role>
+    <type>Actor</type>
+    <tmdbid>1945372</tmdbid>
+    <imdbid>nm3018138</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Simmons</name>
+    <role>Dock Worker</role>
+    <type>Actor</type>
+    <tmdbid>3041323</tmdbid>
+  </actor>
+  <actor>
+    <name>Yun Lai</name>
+    <role>Chinese Tourist</role>
+    <type>Actor</type>
+    <tmdbid>1651578</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Strawford</name>
+    <role>Rajiv</role>
+    <type>Actor</type>
+    <tmdbid>2849032</tmdbid>
+  </actor>
+  <actor>
+    <name>Rina Yadav</name>
+    <role>Morocco Market Customer</role>
+    <type>Actor</type>
+    <tmdbid>2447940</tmdbid>
+  </actor>
+  <actor>
+    <name>Zsuzsanna Bíró</name>
+    <role>Auction Date</role>
+    <type>Actor</type>
+    <tmdbid>2377869</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham J. Reeves</name>
+    <role>Auction Guest</role>
+    <type>Actor</type>
+    <tmdbid>3041324</tmdbid>
+  </actor>
+  <actor>
+    <name>Indy Singh</name>
+    <role>Auction Bidder</role>
+    <type>Actor</type>
+    <tmdbid>3041325</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Wilkinson</name>
+    <role>Grey Haired Man</role>
+    <type>Actor</type>
+    <tmdbid>3041326</tmdbid>
+  </actor>
+  <actor>
+    <name>Maryam Hashemi</name>
+    <role>Morocco Market Customer</role>
+    <type>Actor</type>
+    <tmdbid>2893054</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Arnold</name>
+    <role>Agent Team Leader Ramirez</role>
+    <type>Actor</type>
+    <tmdbid>1864024</tmdbid>
+  </actor>
+  <director tmdbid="11092" imdbid="nm1334526">Simon Kinberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F97dxXlQN2o</trailer>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>Agentes 355</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8356942</imdbid>
+  <tmdbid>522016</tmdbid>
+  <premiered>2022-01-05</premiered>
+  <releasedate>2022-01-05</releasedate>
+  <criticrating>24</criticrating>
+  <runtime>123</runtime>
+  <tagline>Trabajar juntas o morir solas.</tagline>
+  <country>France</country>
+  <country>Hong Kong</country>
+  <country>Morocco</country>
+  <country>Taiwan</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Suspense</genre>
+  <studio>Freckle Films</studio>
+  <studio>Genre Films</studio>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Universal Pictures</studio>
+  <studio>DEMEI Holdings Limited</studio>
+  <studio>CNC</studio>
+  <studio>Firstep</studio>
+  <studio>Episode Films Co.</studio>
+  <studio>Zak Productions</studio>
+  <uniqueid type="tmdb">522016</uniqueid>
+  <uniqueid type="imdb">tt8356942</uniqueid>
+  <id>tt8356942</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>909336</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7354</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

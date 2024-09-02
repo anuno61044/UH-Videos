@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Estados Unidos, década de 1920. Clare es una mujer mulata casada con un racista blanco que se hace pasar por blanca, incluso ante su marido, para beneficiarse del estatus social y económico que les era negado a los negros en aquella época.]]></plot>
+  <outline><![CDATA[Nada es blanco y negro.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-10 08:20:46</dateadded>
+  <title>Claroscuro</title>
+  <originaltitle>Passing</originaltitle>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Irene Redfield</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+    <tvdbid>332925</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruth Negga</name>
+    <role>Clare Kendry</role>
+    <type>Actor</type>
+    <tmdbid>17018</tmdbid>
+    <imdbid>nm1550948</imdbid>
+  </actor>
+  <actor>
+    <name>André Holland</name>
+    <role>Brian Redfield</role>
+    <type>Actor</type>
+    <tmdbid>459980</tmdbid>
+    <imdbid>nm2428245</imdbid>
+    <tvdbid>7884967</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Skarsgård</name>
+    <role>John Bellew</role>
+    <type>Actor</type>
+    <tmdbid>28846</tmdbid>
+    <imdbid>nm0002907</imdbid>
+    <tvdbid>331154</tvdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Hugh Wentworth</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+    <tvdbid>316986</tvdbid>
+  </actor>
+  <actor>
+    <name>Gbenga Akinnagbe</name>
+    <role>Dave</role>
+    <type>Actor</type>
+    <tmdbid>81683</tmdbid>
+    <imdbid>nm1782153</imdbid>
+    <tvdbid>8035149</tvdbid>
+  </actor>
+  <actor>
+    <name>Antoinette Crowe-Legacy</name>
+    <role>Felise</role>
+    <type>Actor</type>
+    <tmdbid>2252709</tmdbid>
+    <imdbid>nm9347693</imdbid>
+    <tvdbid>8046527</tvdbid>
+  </actor>
+  <actor>
+    <name>Justus Davis Graham</name>
+    <role>Ted</role>
+    <type>Actor</type>
+    <tmdbid>3229884</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Barrett</name>
+    <role>Junior</role>
+    <type>Actor</type>
+    <tmdbid>2008597</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Ware Jenkins</name>
+    <role>Zulena</role>
+    <type>Actor</type>
+    <tmdbid>3247381</tmdbid>
+  </actor>
+  <actor>
+    <name>Amos J. Machanic</name>
+    <role>Ralph Hazelton</role>
+    <type>Actor</type>
+    <tmdbid>3247383</tmdbid>
+  </actor>
+  <actor>
+    <name>Stu S. Becker</name>
+    <role>Cabbie</role>
+    <type>Actor</type>
+    <tmdbid>3247384</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom White</name>
+    <role>Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1697209</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaret Daly</name>
+    <role>Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>1447869</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry Flanagan</name>
+    <role>Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>1795332</tmdbid>
+    <imdbid>nm5802160</imdbid>
+  </actor>
+  <actor>
+    <name>Buzz Roddy</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>1085658</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Roberts</name>
+    <role>Guest</role>
+    <type>Actor</type>
+    <tmdbid>1445680</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Barbee Pickens</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2735601</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Coleman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247387</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana Marie Barber</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247388</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Carriker</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247389</tmdbid>
+  </actor>
+  <actor>
+    <name>Leroy Church</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247390</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Davis</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247392</tmdbid>
+  </actor>
+  <actor>
+    <name>Zuri Foreman</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247393</tmdbid>
+  </actor>
+  <actor>
+    <name>Abeni Jewel</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2994964</tmdbid>
+  </actor>
+  <actor>
+    <name>Malik Kitchen</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247396</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Phillip Owens</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3247397</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Hayes</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3247398</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Holley</name>
+    <role>Bianca Wentworth Dance Instructor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1560252</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Hudson</name>
+    <role>Saxophone Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3247399</tmdbid>
+  </actor>
+  <actor>
+    <name>Sienna Jeffries</name>
+    <role>Looper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2575234</tmdbid>
+  </actor>
+  <actor>
+    <name>Doris McCarthy</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1457224</tmdbid>
+  </actor>
+  <actor>
+    <name>Rahim Rosen</name>
+    <role>Garbage Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2812723</tmdbid>
+  </actor>
+  <director tmdbid="15556" imdbid="nm0356017" tvdbid="360718">Rebecca Hall</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=trwq3CNCMkU</trailer>
+  <rating>6.7</rating>
+  <year>2021</year>
+  <sorttitle>Claroscuro</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8893974</imdbid>
+  <tmdbid>541524</tmdbid>
+  <premiered>2021-10-27</premiered>
+  <releasedate>2021-10-27</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>100</runtime>
+  <tagline>Nada es blanco y negro.</tagline>
+  <country>Canada</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Picture Films</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Significant Productions</studio>
+  <studio>AUM Creative</studio>
+  <studio>XRM Media</studio>
+  <studio>Gamechanger Films</studio>
+  <studio>TGCK Partners</studio>
+  <studio>Sweet Tomato Films</studio>
+  <studio>Flat Five Productions</studio>
+  <studio>Hungry Bull Productions</studio>
+  <uniqueid type="imdb">tt8893974</uniqueid>
+  <uniqueid type="tmdb">541524</uniqueid>
+  <id>tt8893974</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1123063</bitrate>
+        <width>960</width>
+        <height>720</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5972</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

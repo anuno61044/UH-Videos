@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Zu is newly sober when she receives news that she is to become the sole guardian of her half-sister named Music, a young girl on the autism spectrum. The film explores two of Sia's favorite themes: finding your voice and creating family.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-15 08:59:29</dateadded>
+  <title>Music</title>
+  <originaltitle>Music</originaltitle>
+  <actor>
+    <name>Maddie Ziegler</name>
+    <type>Actor</type>
+    <tmdbid>1483976</tmdbid>
+    <imdbid>nm4675650</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Kay Place</name>
+    <type>Actor</type>
+    <tmdbid>5960</tmdbid>
+    <imdbid>nm0005316</imdbid>
+    <tvdbid>282599</tvdbid>
+  </actor>
+  <actor>
+    <name>Leslie Odom Jr.</name>
+    <type>Actor</type>
+    <tmdbid>1254614</tmdbid>
+    <imdbid>nm1502434</imdbid>
+  </actor>
+  <actor>
+    <name>Braeden Marcott</name>
+    <type>Actor</type>
+    <tmdbid>1353294</tmdbid>
+    <imdbid>nm0545944</imdbid>
+  </actor>
+  <director tmdbid="1136517">Sia</director>
+  <writer>Sia (screenplay by)</writer>
+  <writer>Dallas Clayton (screenplay by)</writer>
+  <writer>Sia (story by)</writer>
+  <credits>Sia (screenplay by)</credits>
+  <credits>Dallas Clayton (screenplay by)</credits>
+  <credits>Sia (story by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0OEh1GdzVoA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tpClynCJu6A</trailer>
+  <rating>3.2</rating>
+  <year>2021</year>
+  <sorttitle>Music</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7541720</imdbid>
+  <tmdbid>586101</tmdbid>
+  <premiered>2021-01-14</premiered>
+  <releasedate>2021-01-14</releasedate>
+  <criticrating>8</criticrating>
+  <runtime>107</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Musical</genre>
+  <studio>Atlantic Films</studio>
+  <studio>Pineapple Lasagne Productions</studio>
+  <studio>Landay Entertainment</studio>
+  <studio>HanWay Films</studio>
+  <studio>Vertical Entertainment</studio>
+  <uniqueid type="imdb">tt7541720</uniqueid>
+  <uniqueid type="tmdb">586101</uniqueid>
+  <id>tt7541720</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1810642</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6442</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

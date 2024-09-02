@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Minutos después de que Laurie Strode, su hija Karen y su nieta Allyson dejaran al despiadado asesino Michael Myers encerrado y ardiendo en el sótano, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, reinicia su ritual de baño de sangre. Mientras Laurie lucha contra su dolor y se prepara para defenderse de él, inspira a toda la población de Haddonfield a rebelarse contra su imparable monstruo. Las Strode se unen a un grupo de supervivientes de la primera masacre de Michael quienes deciden hacer justicia por su propia mano y forman una patrulla ciudadana con el objetivo de cazar a Michael de una vez por todas.]]></plot>
+  <outline><![CDATA[El mal morirá esta noche.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-15 07:47:36</dateadded>
+  <title>Halloween Kills</title>
+  <originaltitle>Halloween Kills</originaltitle>
+  <actor>
+    <name>Jamie Lee Curtis</name>
+    <role>Laurie Strode</role>
+    <type>Actor</type>
+    <tmdbid>8944</tmdbid>
+    <imdbid>nm0000130</imdbid>
+  </actor>
+  <actor>
+    <name>Judy Greer</name>
+    <role>Karen Nelson</role>
+    <type>Actor</type>
+    <tmdbid>20750</tmdbid>
+    <imdbid>nm0339460</imdbid>
+    <tvdbid>248132</tvdbid>
+  </actor>
+  <actor>
+    <name>Andi Matichak</name>
+    <role>Allyson Nelson</role>
+    <type>Actor</type>
+    <tmdbid>1511997</tmdbid>
+    <imdbid>nm5506858</imdbid>
+  </actor>
+  <actor>
+    <name>James Jude Courtney</name>
+    <role>The Shape</role>
+    <type>Actor</type>
+    <tmdbid>1267684</tmdbid>
+    <imdbid>nm0183921</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Castle</name>
+    <role>The Shape</role>
+    <type>Actor</type>
+    <tmdbid>14692</tmdbid>
+    <imdbid>nm0145309</imdbid>
+  </actor>
+  <actor>
+    <name>Airon Armstrong</name>
+    <role>The Shape (1978)</role>
+    <type>Actor</type>
+    <tmdbid>1142261</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Patton</name>
+    <role>Frank Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>883</tmdbid>
+    <imdbid>nm0001599</imdbid>
+    <tvdbid>333716</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Mann</name>
+    <role>Young Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>1142720</tmdbid>
+    <imdbid>nm3287038</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Cummings</name>
+    <role>Pete McCabe</role>
+    <type>Actor</type>
+    <tmdbid>1416383</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Arnold</name>
+    <role>Cameron Elam</role>
+    <type>Actor</type>
+    <tmdbid>1039523</tmdbid>
+    <imdbid>nm4003553</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Longstreet</name>
+    <role>Lonnie Elam</role>
+    <type>Actor</type>
+    <tmdbid>79416</tmdbid>
+    <imdbid>nm0519486</imdbid>
+    <tvdbid>290253</tvdbid>
+  </actor>
+  <actor>
+    <name>Anthony Michael Hall</name>
+    <role>Tommy Doyle</role>
+    <type>Actor</type>
+    <tmdbid>1904</tmdbid>
+    <imdbid>nm0001309</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Cyphers</name>
+    <role>Leigh Brackett</role>
+    <type>Actor</type>
+    <tmdbid>11786</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott MacArthur</name>
+    <role>Big John</role>
+    <type>Actor</type>
+    <tmdbid>209087</tmdbid>
+    <imdbid>nm2509902</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McDonald</name>
+    <role>Little John</role>
+    <type>Actor</type>
+    <tmdbid>178926</tmdbid>
+    <imdbid>nm0567912</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Bacon</name>
+    <role>Tivoli</role>
+    <type>Actor</type>
+    <tmdbid>3274599</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Richards</name>
+    <role>Lindsey Wallace</role>
+    <type>Actor</type>
+    <tmdbid>15503</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Stephens</name>
+    <role>Marion Chambers</role>
+    <type>Actor</type>
+    <tmdbid>15508</tmdbid>
+  </actor>
+  <actor>
+    <name>Diva Tyler</name>
+    <role>Sondra</role>
+    <type>Actor</type>
+    <tmdbid>1546659</tmdbid>
+    <imdbid>nm3818686</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Mays</name>
+    <role>Brian the Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2932966</tmdbid>
+  </actor>
+  <actor>
+    <name>Lenny Clarke</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>87131</tmdbid>
+    <imdbid>nm0164873</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Smallwood</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>1874944</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmela McNeal</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>1832264</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar J. Dorsey</name>
+    <role>Sheriff Barker</role>
+    <type>Actor</type>
+    <tmdbid>59844</tmdbid>
+    <imdbid>nm0234174</imdbid>
+  </actor>
+  <actor>
+    <name>Damien Lee</name>
+    <role>Concerned Brother</role>
+    <type>Actor</type>
+    <tmdbid>3274602</tmdbid>
+  </actor>
+  <actor>
+    <name>Salem Collins</name>
+    <role>Christy</role>
+    <type>Actor</type>
+    <tmdbid>2896890</tmdbid>
+  </actor>
+  <actor>
+    <name>Giselle Witt</name>
+    <role>Mindy</role>
+    <type>Actor</type>
+    <tmdbid>2896889</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Gaven Wilde</name>
+    <role>Dennis</role>
+    <type>Actor</type>
+    <tmdbid>2706071</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Jones Jr.</name>
+    <role>Dr. Samuel Loomis</role>
+    <type>Actor</type>
+    <tmdbid>1389588</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Mahan</name>
+    <role>Dr. Samuel Loomis (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2210365</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian F. Durkin</name>
+    <role>Deputy Graham</role>
+    <type>Actor</type>
+    <tmdbid>146020</tmdbid>
+    <imdbid>nm1501128</imdbid>
+  </actor>
+  <actor>
+    <name>Tristian Eggerling</name>
+    <role>Young Lonnie Elam</role>
+    <type>Actor</type>
+    <tmdbid>1669428</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Scheid</name>
+    <role>Oscar</role>
+    <type>Actor</type>
+    <tmdbid>1944274</tmdbid>
+    <imdbid>nm5902264</imdbid>
+  </actor>
+  <actor>
+    <name>Holli Saperstein</name>
+    <role>Oscar's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1205390</tmdbid>
+    <imdbid>nm5079660</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Lewis</name>
+    <role>Deputy Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>1196727</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Keohane</name>
+    <role>Deputy Tobias</role>
+    <type>Actor</type>
+    <tmdbid>2548563</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Benton</name>
+    <role>Officer Richards</role>
+    <type>Actor</type>
+    <tmdbid>2010040</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Michael Pates</name>
+    <role>Young Michael Myers</role>
+    <type>Actor</type>
+    <tmdbid>3274610</tmdbid>
+  </actor>
+  <actor>
+    <name>Jibrail Nantambu</name>
+    <role>Julian</role>
+    <type>Actor</type>
+    <tmdbid>2019566</tmdbid>
+  </actor>
+  <actor>
+    <name>P.J. Soles</name>
+    <role>Lynda</role>
+    <type>Actor</type>
+    <tmdbid>15500</tmdbid>
+    <imdbid>nm0001753</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Bob</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+    <tvdbid>290451</tvdbid>
+  </actor>
+  <actor>
+    <name>Nancy Kyes</name>
+    <role>Annie Brackett (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11787</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Moran</name>
+    <role>Michael Myers (1978) (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15516</tmdbid>
+  </actor>
+  <actor>
+    <name>Haluk Bilginer</name>
+    <role>Dr. Ranbir Sartain (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>117640</tmdbid>
+    <imdbid>nm0082211</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Normyle</name>
+    <role>Extra</role>
+    <type>Actor</type>
+    <tmdbid>3338628</tmdbid>
+  </actor>
+  <director tmdbid="64141" imdbid="nm0337773">David Gordon Green</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N2dN_3Y-3bU</trailer>
+  <rating>5.5</rating>
+  <year>2021</year>
+  <sorttitle>Halloween Kills</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10665338</imdbid>
+  <tmdbid>610253</tmdbid>
+  <premiered>2021-10-14</premiered>
+  <releasedate>2021-10-14</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>105</runtime>
+  <tagline>El mal morirá esta noche.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Home Again Productions</studio>
+  <studio>Miramax</studio>
+  <studio>Rough House Pictures</studio>
+  <studio>Trancas International Films</studio>
+  <set tmdbcolid="91361">
+    <name>Halloween - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt10665338</uniqueid>
+  <uniqueid type="tmdb">610253</uniqueid>
+  <id>tt10665338</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1059085</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6313</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

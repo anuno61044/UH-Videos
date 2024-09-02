@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El escritor Antonio Prieto decide pasar el verano en un pueblo de la serranía malagueña, donde espera encontrar tranquilidad e inspiración para su siguiente novela. Allí conoce a Berta, una mujer por la que siente una atracción instantánea, así como a algunos personajes peculiares sobre los que empieza a escribir e investigar. Antonio comienza a descubrir que los locales guardan numerosos secretos y una perturbadora leyenda oculta. La realidad que vivirá en esos días le harán ir dándose cuenta que, a veces, la realidad supera con creces los mitos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-20 17:50:22</dateadded>
+  <title>La casa del caracol</title>
+  <originaltitle>La casa del caracol</originaltitle>
+  <actor>
+    <name>Javier Rey</name>
+    <role>Antonio Prieto</role>
+    <type>Actor</type>
+    <tmdbid>96688</tmdbid>
+    <imdbid>nm2626646</imdbid>
+    <tvdbid>463889</tvdbid>
+  </actor>
+  <actor>
+    <name>Paz Vega</name>
+    <role>Berta</role>
+    <type>Actor</type>
+    <tmdbid>3627</tmdbid>
+    <imdbid>nm0891895</imdbid>
+    <tvdbid>449351</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Alcantara</name>
+    <role>Padre Benito</role>
+    <type>Actor</type>
+    <tmdbid>147333</tmdbid>
+  </actor>
+  <actor>
+    <name>Norma Martínez</name>
+    <role>Justa</role>
+    <type>Actor</type>
+    <tmdbid>956987</tmdbid>
+    <imdbid>nm0555263</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <role>Sargento Mauri</role>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>Elvira Mínguez</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>24918</tmdbid>
+    <imdbid>nm0617799</imdbid>
+  </actor>
+  <actor>
+    <name>Jesús Carroza</name>
+    <role>Esteban</role>
+    <type>Actor</type>
+    <tmdbid>6534</tmdbid>
+    <imdbid>nm1941730</imdbid>
+    <tvdbid>508898</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Tejero</name>
+    <role>Editor</role>
+    <type>Actor</type>
+    <tmdbid>43321</tmdbid>
+    <imdbid>nm1234572</imdbid>
+    <tvdbid>534146</tvdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <role>Rosita</role>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Salazar</name>
+    <role>Sole</role>
+    <type>Actor</type>
+    <tmdbid>3195763</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicente Vergara</name>
+    <role>Carmelo</role>
+    <type>Actor</type>
+    <tmdbid>2264687</tmdbid>
+  </actor>
+  <actor>
+    <name>María Alfonsa Rosso</name>
+    <role>Señora Ciega</role>
+    <type>Actor</type>
+    <tmdbid>954664</tmdbid>
+    <imdbid>nm0743133</imdbid>
+    <tvdbid>598992</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Centeno</name>
+    <role>Viejo Seco</role>
+    <type>Actor</type>
+    <tmdbid>2122644</tmdbid>
+  </actor>
+  <actor>
+    <name>Amparo Alcaraz</name>
+    <role>Periodista mexicana</role>
+    <type>Actor</type>
+    <tmdbid>3006835</tmdbid>
+  </actor>
+  <director tmdbid="2002122">Macarena Astorga</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YrDHL2evhbo</trailer>
+  <rating>5</rating>
+  <year>2021</year>
+  <sorttitle>casa del caracol</sorttitle>
+  <imdbid>tt12500804</imdbid>
+  <tmdbid>772148</tmdbid>
+  <premiered>2021-06-11</premiered>
+  <releasedate>2021-06-11</releasedate>
+  <runtime>103</runtime>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <country>Mexico</country>
+  <country>Peru</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <studio>Esto También Pasará</studio>
+  <studio>Bowfinger</studio>
+  <studio>Basque Films</studio>
+  <studio>Tondero Films</studio>
+  <studio>Hippo Films</studio>
+  <uniqueid type="imdb">tt12500804</uniqueid>
+  <uniqueid type="tmdb">772148</uniqueid>
+  <id>tt12500804</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>963735</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6177</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128683</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una cena entre amigos en la que el alcohol, las drogas, un caso de corrupción y una visita inesperada convertirán la noche en un encuentro salvaje, donde el espectador será un invitado más.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-02 17:58:42</dateadded>
+  <title>La Última Cena</title>
+  <originaltitle>La Última Cena</originaltitle>
+  <actor>
+    <name>Toni Agustí</name>
+    <type>Actor</type>
+    <tmdbid>2675371</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Belenguer</name>
+    <type>Actor</type>
+    <tmdbid>1023515</tmdbid>
+    <imdbid>nm0067724</imdbid>
+  </actor>
+  <actor>
+    <name>Amparo Fernández</name>
+    <type>Actor</type>
+    <tmdbid>1283850</tmdbid>
+    <imdbid>nm0273380</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Gorbe</name>
+    <type>Actor</type>
+    <tmdbid>2690222</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorena López</name>
+    <type>Actor</type>
+    <tmdbid>2105358</tmdbid>
+  </actor>
+  <actor>
+    <name>Carles Sanjaime</name>
+    <type>Actor</type>
+    <tmdbid>1118611</tmdbid>
+    <imdbid>nm1886196</imdbid>
+  </actor>
+  <actor>
+    <name>María Sánchez Torregrosa</name>
+    <type>Actor</type>
+    <tmdbid>3346302</tmdbid>
+  </actor>
+  <director tmdbid="2675371">Toni Agustí</director>
+  <director tmdbid="3346302">María Sánchez Torregrosa</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=danuGwDIYKA</trailer>
+  <rating>5.4</rating>
+  <year>2021</year>
+  <sorttitle>Ultima Cena</sorttitle>
+  <imdbid>tt13611872</imdbid>
+  <tmdbid>915451</tmdbid>
+  <premiered>2021-12-10</premiered>
+  <releasedate>2021-12-10</releasedate>
+  <runtime>70</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="imdb">tt13611872</uniqueid>
+  <uniqueid type="tmdb">915451</uniqueid>
+  <id>tt13611872</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1083247</bitrate>
+        <width>1336</width>
+        <height>720</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24.999523</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>70</duration>
+        <durationinseconds>4200</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64045</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

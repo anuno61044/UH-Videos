@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Desconocido en el mundo del hampa, con aspecto de pringado y dotes de concertista clásico, Sebas, un policía novato, es perfecto para una peligrosa misión: infiltrarse como teclista en 'Los Lolos', una banda hortera de flamenco-trap que va a tocar en la boda de la hija de un traficante local... Remake del film italiano "Song 'e Napule" (2013).]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-24 08:41:42</dateadded>
+  <title>Operación Camarón</title>
+  <originaltitle>Operación Camarón</originaltitle>
+  <actor>
+    <name>Julián López</name>
+    <role>Sebastián "Sebas" Arroyo</role>
+    <type>Actor</type>
+    <tmdbid>85559</tmdbid>
+    <imdbid>nm1694256</imdbid>
+    <tvdbid>294452</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalia de Molina</name>
+    <role>Luci</role>
+    <type>Actor</type>
+    <tmdbid>1270686</tmdbid>
+    <imdbid>nm5131296</imdbid>
+    <tvdbid>499261</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Librado "Nene"</name>
+    <role>Lolo</role>
+    <type>Actor</type>
+    <tmdbid>2143181</tmdbid>
+    <imdbid>nm4729886</imdbid>
+    <tvdbid>7971276</tvdbid>
+  </actor>
+  <actor>
+    <name>Miren Ibarguren</name>
+    <role>Joseja Garrido "Pepa"</role>
+    <type>Actor</type>
+    <tmdbid>560247</tmdbid>
+    <imdbid>nm2009186</imdbid>
+    <tvdbid>448248</tvdbid>
+  </actor>
+  <actor>
+    <name>Canco Rodríguez</name>
+    <role>El Mula</role>
+    <type>Actor</type>
+    <tmdbid>1444942</tmdbid>
+    <imdbid>nm0735947</imdbid>
+    <tvdbid>448246</tvdbid>
+  </actor>
+  <actor>
+    <name>Julián Villagrán</name>
+    <role>Blas</role>
+    <type>Actor</type>
+    <tmdbid>34057</tmdbid>
+    <imdbid>nm1253636</imdbid>
+    <tvdbid>469614</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Dechent</name>
+    <role>Abeledo</role>
+    <type>Actor</type>
+    <tmdbid>6535</tmdbid>
+    <imdbid>nm0213766</imdbid>
+    <tvdbid>488989</tvdbid>
+  </actor>
+  <actor>
+    <name>Paco Tous</name>
+    <role>Comisario Jaime</role>
+    <type>Actor</type>
+    <tmdbid>1027740</tmdbid>
+    <imdbid>nm0869718</imdbid>
+    <tvdbid>474095</tvdbid>
+  </actor>
+  <actor>
+    <name>Manuel Burque</name>
+    <role>Poli Gallego</role>
+    <type>Actor</type>
+    <tmdbid>1434231</tmdbid>
+    <imdbid>nm1990571</imdbid>
+  </actor>
+  <actor>
+    <name>Alberto López</name>
+    <type>Actor</type>
+    <tmdbid>35722</tmdbid>
+    <imdbid>nm3174082</imdbid>
+  </actor>
+  <actor>
+    <name>Adelfa Calvo</name>
+    <role>Mari</role>
+    <type>Actor</type>
+    <tmdbid>1331728</tmdbid>
+    <imdbid>nm2431367</imdbid>
+  </actor>
+  <actor>
+    <name>Juanlu González</name>
+    <type>Actor</type>
+    <tmdbid>3142196</tmdbid>
+  </actor>
+  <actor>
+    <name>Xisco González</name>
+    <role>El Fotoshó</role>
+    <type>Actor</type>
+    <tmdbid>3142197</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Bohigas Couto</name>
+    <role>Sebas (niño)</role>
+    <type>Actor</type>
+    <tmdbid>2629439</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Hernández</name>
+    <role>Ortega</role>
+    <type>Actor</type>
+    <tmdbid>1446100</tmdbid>
+  </actor>
+  <director tmdbid="588816" imdbid="nm1724912">Carlos Therón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZITeNtc6dg0</trailer>
+  <rating>5.5</rating>
+  <year>2021</year>
+  <sorttitle>Operacion Camaron</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10290510</imdbid>
+  <tmdbid>613098</tmdbid>
+  <premiered>2021-06-24</premiered>
+  <releasedate>2021-06-24</releasedate>
+  <runtime>101</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Lazona Films</studio>
+  <studio>Quexito Films</studio>
+  <studio>Mediaset España</studio>
+  <studio>Movistar+</studio>
+  <studio>Telecinco Cinema</studio>
+  <uniqueid type="imdb">tt10290510</uniqueid>
+  <uniqueid type="tmdb">613098</uniqueid>
+  <id>tt10290510</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>311747</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6070</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63817</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

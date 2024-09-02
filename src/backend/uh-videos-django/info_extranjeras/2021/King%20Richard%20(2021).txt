@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Biopic sobre Richard Williams, un padre inasequible al desaliento que ayudó a criar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían cambiando para siempre el deporte del tenis. Richard tenía una visión muy clara del futuro de sus hijas y sirviéndose de métodos poco convencionales, elaboró un plan que llevaría a Venus y Serena Williams de las calles de Compton, California, al olimpo de deporte convirtiéndolas en iconos legendarios.]]></plot>
+  <outline><![CDATA[Venus, Serena y un plan de grandeza.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-19 07:40:58</dateadded>
+  <title>El método Williams</title>
+  <originaltitle>King Richard</originaltitle>
+  <actor>
+    <name>Will Smith</name>
+    <role>Richard Williams</role>
+    <type>Actor</type>
+    <tmdbid>2888</tmdbid>
+    <imdbid>nm0000226</imdbid>
+  </actor>
+  <actor>
+    <name>Aunjanue Ellis</name>
+    <role>Oracene "Brandy" Price</role>
+    <type>Actor</type>
+    <tmdbid>53923</tmdbid>
+    <imdbid>nm0254712</imdbid>
+    <tvdbid>295788</tvdbid>
+  </actor>
+  <actor>
+    <name>Saniyya Sidney</name>
+    <role>Venus Williams</role>
+    <type>Actor</type>
+    <tmdbid>1607523</tmdbid>
+    <imdbid>nm5181138</imdbid>
+    <tvdbid>606885</tvdbid>
+  </actor>
+  <actor>
+    <name>Demi Singleton</name>
+    <role>Serena Williams</role>
+    <type>Actor</type>
+    <tmdbid>2214765</tmdbid>
+    <tvdbid>8046538</tvdbid>
+  </actor>
+  <actor>
+    <name>Tony Goldwyn</name>
+    <role>Paul Cohen</role>
+    <type>Actor</type>
+    <tmdbid>3417</tmdbid>
+    <imdbid>nm0001282</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Bernthal</name>
+    <role>Rick Macci</role>
+    <type>Actor</type>
+    <tmdbid>19498</tmdbid>
+    <imdbid>nm1256532</imdbid>
+    <tvdbid>316117</tvdbid>
+  </actor>
+  <actor>
+    <name>Susie Abromeit</name>
+    <role>Robin Finn</role>
+    <type>Actor</type>
+    <tmdbid>108696</tmdbid>
+    <imdbid>nm2608932</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan McDermott</name>
+    <role>Will Hodges</role>
+    <type>Actor</type>
+    <tmdbid>32597</tmdbid>
+    <imdbid>nm0001518</imdbid>
+    <tvdbid>306778</tvdbid>
+  </actor>
+  <actor>
+    <name>Judith Chapman</name>
+    <role>Nancy Reagan</role>
+    <type>Actor</type>
+    <tmdbid>140198</tmdbid>
+  </actor>
+  <actor>
+    <name>Katrina Begin</name>
+    <role>Anne Worchester</role>
+    <type>Actor</type>
+    <tmdbid>85824</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Cummings</name>
+    <role>Social Worker</role>
+    <type>Actor</type>
+    <tmdbid>113734</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Bean</name>
+    <role>Laird Stabler</role>
+    <type>Actor</type>
+    <tmdbid>1330888</tmdbid>
+    <imdbid>nm2811167</imdbid>
+    <tvdbid>657452</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dunn</name>
+    <role>Vic Braden</role>
+    <type>Actor</type>
+    <tmdbid>14721</tmdbid>
+    <imdbid>nm0242656</imdbid>
+    <tvdbid>270574</tvdbid>
+  </actor>
+  <actor>
+    <name>Craig Tate</name>
+    <role>Bells</role>
+    <type>Actor</type>
+    <tmdbid>1299192</tmdbid>
+    <imdbid>nm5164937</imdbid>
+  </actor>
+  <actor>
+    <name>Calvin Clausell Jr.</name>
+    <role>Braze</role>
+    <type>Actor</type>
+    <tmdbid>3280234</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikayla LaShae Bartholomew</name>
+    <role>Tunde Price</role>
+    <type>Actor</type>
+    <tmdbid>2988968</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniele Lawson</name>
+    <role>Isha Price</role>
+    <type>Actor</type>
+    <tmdbid>2544618</tmdbid>
+  </actor>
+  <actor>
+    <name>Layla Crawford</name>
+    <role>Lyndrea Price</role>
+    <type>Actor</type>
+    <tmdbid>1103516</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Ringor</name>
+    <role>Ms. Strickland</role>
+    <type>Actor</type>
+    <tmdbid>150062</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Bean</name>
+    <role>PV CC Tennis Pro</role>
+    <type>Actor</type>
+    <tmdbid>111945</tmdbid>
+    <imdbid>nm0063800</imdbid>
+  </actor>
+  <actor>
+    <name>Josiah Cross</name>
+    <role>TD</role>
+    <type>Actor</type>
+    <tmdbid>3318577</tmdbid>
+  </actor>
+  <actor>
+    <name>Vaughn W. Hebron</name>
+    <role>Monsta</role>
+    <type>Actor</type>
+    <tmdbid>2444530</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Walker Jr.</name>
+    <role>Old Patron</role>
+    <type>Actor</type>
+    <tmdbid>2215982</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Greenquist</name>
+    <role>Bud Collins</role>
+    <type>Actor</type>
+    <tmdbid>56267</tmdbid>
+    <imdbid>nm0339159</imdbid>
+  </actor>
+  <actor>
+    <name>Johnno Wilson</name>
+    <role>Incredulous Pro</role>
+    <type>Actor</type>
+    <tmdbid>1169291</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Nuscher</name>
+    <role>Baffled Pro</role>
+    <type>Actor</type>
+    <tmdbid>3318590</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Wallinger</name>
+    <role>John McEnroe</role>
+    <type>Actor</type>
+    <tmdbid>2299496</tmdbid>
+  </actor>
+  <actor>
+    <name>Chase Del Rey</name>
+    <role>Pete Sampras</role>
+    <type>Actor</type>
+    <tmdbid>3318591</tmdbid>
+  </actor>
+  <actor>
+    <name>Connie Ventress</name>
+    <role>Tournament Director</role>
+    <type>Actor</type>
+    <tmdbid>1395234</tmdbid>
+  </actor>
+  <actor>
+    <name>Vivienne Bersin</name>
+    <role>Stacey</role>
+    <type>Actor</type>
+    <tmdbid>1988069</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Hoff</name>
+    <role>Stacey's Dad - Trevor</role>
+    <type>Actor</type>
+    <tmdbid>1497866</tmdbid>
+  </actor>
+  <actor>
+    <name>Carrie Gibson</name>
+    <role>Line Judge</role>
+    <type>Actor</type>
+    <tmdbid>2027042</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Simpson</name>
+    <role>Girl #3 Father</role>
+    <type>Actor</type>
+    <tmdbid>1346089</tmdbid>
+    <imdbid>nm3999973</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Morales</name>
+    <role>Deputy #1</role>
+    <type>Actor</type>
+    <tmdbid>1388183</tmdbid>
+    <imdbid>nm3863881</imdbid>
+  </actor>
+  <actor>
+    <name>Wil J. Jackson</name>
+    <role>Deputy #2</role>
+    <type>Actor</type>
+    <tmdbid>1093502</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Shaffer</name>
+    <role>Tournament Official</role>
+    <type>Actor</type>
+    <tmdbid>122518</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Kirkwood</name>
+    <role>Tennis Father #2</role>
+    <type>Actor</type>
+    <tmdbid>2943430</tmdbid>
+  </actor>
+  <actor>
+    <name>Chet Grissom</name>
+    <role>Matthew Titone</role>
+    <type>Actor</type>
+    <tmdbid>149641</tmdbid>
+    <imdbid>nm1265899</imdbid>
+  </actor>
+  <actor>
+    <name>Alden Sherrill</name>
+    <role>Another Girl</role>
+    <type>Actor</type>
+    <tmdbid>3318599</tmdbid>
+  </actor>
+  <actor>
+    <name>Eman Esfandi</name>
+    <role>Barry</role>
+    <type>Actor</type>
+    <tmdbid>2243207</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Wacnik</name>
+    <role>Jennifer Capriati</role>
+    <type>Actor</type>
+    <tmdbid>3318600</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Bray</name>
+    <role>ESPN Reporter</role>
+    <type>Actor</type>
+    <tmdbid>129595</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Walker Jeffery</name>
+    <role>Reporter (Florida)</role>
+    <type>Actor</type>
+    <tmdbid>2885791</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Sommer</name>
+    <role>Patrick Dougherty</role>
+    <type>Actor</type>
+    <tmdbid>10581</tmdbid>
+    <imdbid>nm1360860</imdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Christian</name>
+    <role>Shaun Stafford</role>
+    <type>Actor</type>
+    <tmdbid>2999839</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoff Nathanson</name>
+    <role>Tennis Announcer</role>
+    <type>Actor</type>
+    <tmdbid>3238506</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcela Zacarias</name>
+    <role>Arantxa Sanchez Vicario</role>
+    <type>Actor</type>
+    <tmdbid>3318601</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Jensen</name>
+    <role>Pro Shop Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2231256</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Pentzell</name>
+    <role>Another Incredulous Pro</role>
+    <type>Actor</type>
+    <tmdbid>1128858</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Sanders</name>
+    <role>Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>3318930</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Jovic</name>
+    <role>Girl #3</role>
+    <type>Actor</type>
+    <tmdbid>3318931</tmdbid>
+  </actor>
+  <actor>
+    <name>Iva Jovic</name>
+    <role>Girl #5</role>
+    <type>Actor</type>
+    <tmdbid>3318932</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Andrew Baker</name>
+    <role>Girl #6 Father</role>
+    <type>Actor</type>
+    <tmdbid>1720614</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Holmes</name>
+    <role>Girl #6 Father</role>
+    <type>Actor</type>
+    <tmdbid>3318933</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamea Medora</name>
+    <role>Girl #8</role>
+    <type>Actor</type>
+    <tmdbid>3318942</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Degnan</name>
+    <role>Girl #8 Father</role>
+    <type>Actor</type>
+    <tmdbid>1218244</tmdbid>
+    <imdbid>nm3183569</imdbid>
+  </actor>
+  <actor>
+    <name>Virginia Schneider</name>
+    <role>Woman In Crowd</role>
+    <type>Actor</type>
+    <tmdbid>2174197</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Cohn</name>
+    <role>Chair Ump - Pro Match</role>
+    <type>Actor</type>
+    <tmdbid>3318958</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Cropper</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>1808343</tmdbid>
+  </actor>
+  <actor>
+    <name>Danya LaBelle</name>
+    <role>Tournament Official - Oakland Coliseum</role>
+    <type>Actor</type>
+    <tmdbid>1437829</tmdbid>
+  </actor>
+  <actor>
+    <name>Rod Sweitzer</name>
+    <role>Pro Match Newspaper Reporter</role>
+    <type>Actor</type>
+    <tmdbid>100489</tmdbid>
+  </actor>
+  <actor>
+    <name>George Ketsios</name>
+    <role>Pro Match Tournament Staff</role>
+    <type>Actor</type>
+    <tmdbid>1452949</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Davidson</name>
+    <role>Tennis Official</role>
+    <type>Actor</type>
+    <tmdbid>1677824</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Yeung</name>
+    <role>Pro Match Line Judge</role>
+    <type>Actor</type>
+    <tmdbid>2655218</tmdbid>
+  </actor>
+  <actor>
+    <name>Teri Cohn</name>
+    <role>Pro Match Net Judge</role>
+    <type>Actor</type>
+    <tmdbid>3318986</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Barefoot</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>1277794</tmdbid>
+  </actor>
+  <actor>
+    <name>Mel Fair</name>
+    <role>Male TV Announcer</role>
+    <type>Actor</type>
+    <tmdbid>102777</tmdbid>
+    <imdbid>nm1292126</imdbid>
+  </actor>
+  <actor>
+    <name>Holly Haggerty</name>
+    <role>Net Cord Linesman</role>
+    <type>Actor</type>
+    <tmdbid>3318988</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Pascoe</name>
+    <role>Rivera Country Club Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3318989</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Ton</name>
+    <role>Chair Ump - Stafford Match</role>
+    <type>Actor</type>
+    <tmdbid>3318990</tmdbid>
+  </actor>
+  <actor>
+    <name>Ebboney Wilson</name>
+    <role>Shouting Spectator</role>
+    <type>Actor</type>
+    <tmdbid>2200315</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailey Winslow</name>
+    <role>Female TV Announcer</role>
+    <type>Actor</type>
+    <tmdbid>3318992</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Wolfe</name>
+    <role>Pro Match TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1753430</tmdbid>
+  </actor>
+  <actor>
+    <name>Gunner Wright</name>
+    <role>AP3</role>
+    <type>Actor</type>
+    <tmdbid>113231</tmdbid>
+    <imdbid>nm2322406</imdbid>
+  </actor>
+  <actor>
+    <name>Tory N. Thompson</name>
+    <role>Venus Fan</role>
+    <type>Actor</type>
+    <tmdbid>118895</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Berube</name>
+    <role>Tennis Coach</role>
+    <type>Actor</type>
+    <tmdbid>2766415</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Fabian Billings</name>
+    <role>Tennis Vendor</role>
+    <type>Actor</type>
+    <tmdbid>3125863</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Bui</name>
+    <role>Country Club Poolside Gal</role>
+    <type>Actor</type>
+    <tmdbid>1532940</tmdbid>
+  </actor>
+  <actor>
+    <name>Kika Cicmanec</name>
+    <role>Elite Tennis Player</role>
+    <type>Actor</type>
+    <tmdbid>1730574</tmdbid>
+  </actor>
+  <actor>
+    <name>John Dinan</name>
+    <role>Tennis Pro</role>
+    <type>Actor</type>
+    <tmdbid>1790593</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Dray</name>
+    <role>Spectator</role>
+    <type>Actor</type>
+    <tmdbid>3319003</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathew Trent Hunnicutt</name>
+    <role>Referee</role>
+    <type>Actor</type>
+    <tmdbid>2935410</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeni Jones</name>
+    <role>Line Judge</role>
+    <type>Actor</type>
+    <tmdbid>2792762</tmdbid>
+  </actor>
+  <actor>
+    <name>Trent Longo</name>
+    <role>Tennis Player</role>
+    <type>Actor</type>
+    <tmdbid>3319010</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Mansbach</name>
+    <role>Tennis VIP</role>
+    <type>Actor</type>
+    <tmdbid>3319020</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie McCabe</name>
+    <role>Country Club Woman</role>
+    <type>Actor</type>
+    <tmdbid>1759682</tmdbid>
+  </actor>
+  <actor>
+    <name>Aryn Nelson</name>
+    <role>Parent</role>
+    <type>Actor</type>
+    <tmdbid>2441587</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Nokes</name>
+    <role>Audience Member</role>
+    <type>Actor</type>
+    <tmdbid>3319026</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Sachoff</name>
+    <role>Florida TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1408766</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabi Stewart</name>
+    <role>Tennis Pro</role>
+    <type>Actor</type>
+    <tmdbid>2039574</tmdbid>
+  </actor>
+  <director tmdbid="1415665">Reinaldo Marcus Green</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LJdOqzZdl5w</trailer>
+  <rating>7.5</rating>
+  <year>2021</year>
+  <sorttitle>metodo Williams</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9620288</imdbid>
+  <tmdbid>614917</tmdbid>
+  <premiered>2021-11-18</premiered>
+  <releasedate>2021-11-18</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>145</runtime>
+  <tagline>Venus, Serena y un plan de grandeza.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Star Thrower Entertainment</studio>
+  <studio>Westbrook Studios</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Overbrook Entertainment</studio>
+  <uniqueid type="imdb">tt9620288</uniqueid>
+  <uniqueid type="tmdb">614917</uniqueid>
+  <id>tt9620288</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>867140</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>144</duration>
+        <durationinseconds>8679</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

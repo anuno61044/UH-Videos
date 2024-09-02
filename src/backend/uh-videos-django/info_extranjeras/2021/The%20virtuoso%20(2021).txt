@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A lonesome stranger, secure, nerves of steel, must track down and kill a rogue Hitman to satisfy an outstanding debt. But the only information he's been given is a time and location where ...]]></plot>
+  <outline><![CDATA[El peligro, el engaño y el asesinato se abalanzan sobre un tranquilo pueblo rural.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-30 16:00:21</dateadded>
+  <title>The Virtuoso</title>
+  <originaltitle>The Virtuoso</originaltitle>
+  <actor>
+    <name>Diora Baird</name>
+    <type>Actor</type>
+    <tmdbid>59263</tmdbid>
+    <imdbid>nm1401531</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+    <tvdbid>254194</tvdbid>
+  </actor>
+  <actor>
+    <name>Abbie Cornish</name>
+    <type>Actor</type>
+    <tmdbid>37260</tmdbid>
+    <imdbid>nm0180411</imdbid>
+    <tvdbid>360479</tvdbid>
+  </actor>
+  <actor>
+    <name>David Morse</name>
+    <type>Actor</type>
+    <tmdbid>52</tmdbid>
+    <imdbid>nm0001556</imdbid>
+    <tvdbid>269466</tvdbid>
+  </actor>
+  <director tmdbid="233360" imdbid="nm0821406">Nick Stagliano</director>
+  <writer>James C. Wolf</writer>
+  <credits>James C. Wolf</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LWA2r7X7z6Y</trailer>
+  <rating>5</rating>
+  <year>2021</year>
+  <sorttitle>Virtuoso</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4136456</imdbid>
+  <tmdbid>808023</tmdbid>
+  <premiered>2021-04-30</premiered>
+  <releasedate>2021-04-30</releasedate>
+  <criticrating>16</criticrating>
+  <runtime>110</runtime>
+  <tagline>El peligro, el engaño y el asesinato se abalanzan sobre un tranquilo pueblo rural.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Thriller</genre>
+  <studio>Lionsgate</studio>
+  <uniqueid type="imdb">tt4136456</uniqueid>
+  <uniqueid type="tmdb">808023</uniqueid>
+  <id>tt4136456</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149906</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6581</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128245</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

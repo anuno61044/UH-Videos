@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Henry es un monologuista cómico de humor incisivo. Ann, una cantante de renombre internacional. Centro de todas las miradas, juntos forman una pareja feliz rodeada de glamur. El nacimiento de su primogénita, Annette, una niña misteriosa con un destino excepcional, les cambiará la vida.]]></plot>
+  <outline><![CDATA[Tan peligroso, tan intenso, como el amor.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-19 20:38:17</dateadded>
+  <title>Annette</title>
+  <originaltitle>Annette</originaltitle>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Henry McHenry</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Marion Cotillard</name>
+    <role>Ann Desfranoux</role>
+    <type>Actor</type>
+    <tmdbid>8293</tmdbid>
+    <imdbid>nm0182839</imdbid>
+    <tvdbid>310834</tvdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>The Accompanist</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+    <tvdbid>248034</tvdbid>
+  </actor>
+  <actor>
+    <name>Devyn McDowell</name>
+    <role>Annette</role>
+    <type>Actor</type>
+    <tmdbid>2551620</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Mael</name>
+    <role>Ron Mael / Jet Pilot</role>
+    <type>Actor</type>
+    <tmdbid>960067</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Mael</name>
+    <role>Russell Mael / Jet Pilot</role>
+    <type>Actor</type>
+    <tmdbid>961004</tmdbid>
+  </actor>
+  <actor>
+    <name>Christiane Tchouhan</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271083</tmdbid>
+  </actor>
+  <actor>
+    <name>Franziska Grohmann</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271081</tmdbid>
+  </actor>
+  <actor>
+    <name>Cindy Almouzni</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271086</tmdbid>
+  </actor>
+  <actor>
+    <name>Sinay Bavurhe</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3082029</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Mulowayi</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271082</tmdbid>
+  </actor>
+  <actor>
+    <name>Iman Europe</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>2557464</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Withers</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271089</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Evans</name>
+    <role>Chorus Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271084</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Mendoza</name>
+    <role>Six Women Member</role>
+    <type>Actor</type>
+    <tmdbid>57575</tmdbid>
+    <imdbid>nm0413238</imdbid>
+  </actor>
+  <actor>
+    <name>Kiko Mizuhara</name>
+    <role>Six Women Member</role>
+    <type>Actor</type>
+    <tmdbid>226711</tmdbid>
+    <imdbid>nm3460467</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Bullock</name>
+    <role>Six Women Member</role>
+    <type>Actor</type>
+    <tmdbid>3271093</tmdbid>
+  </actor>
+  <actor>
+    <name>Claron McFadden</name>
+    <role>Six Women Member</role>
+    <type>Actor</type>
+    <tmdbid>2000002</tmdbid>
+  </actor>
+  <actor>
+    <name>Noémie Schellens</name>
+    <role>Six Women Member</role>
+    <type>Actor</type>
+    <tmdbid>1537067</tmdbid>
+  </actor>
+  <actor>
+    <name>Angèle</name>
+    <role>Six Women Member</role>
+    <type>Actor</type>
+    <tmdbid>2358340</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Matteo</name>
+    <role>Bahrain Singer</role>
+    <type>Actor</type>
+    <tmdbid>2963582</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin van Doorslaer</name>
+    <role>Photographer court</role>
+    <type>Actor</type>
+    <tmdbid>1355360</tmdbid>
+  </actor>
+  <actor>
+    <name>Verona Verbakel</name>
+    <role>Russian Extra</role>
+    <type>Actor</type>
+    <tmdbid>1537074</tmdbid>
+  </actor>
+  <actor>
+    <name>Kanji Furutachi</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1014996</tmdbid>
+    <tvdbid>8141495</tvdbid>
+  </actor>
+  <actor>
+    <name>Rila Fukushima</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1179243</tmdbid>
+    <imdbid>nm3822462</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Jansen</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3271117</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva van der Gucht</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>228589</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Dauwe</name>
+    <role>Singer</role>
+    <type>Actor</type>
+    <tmdbid>1633775</tmdbid>
+  </actor>
+  <actor>
+    <name>Wim Opbrouck</name>
+    <role>Annette Opera Announcer</role>
+    <type>Actor</type>
+    <tmdbid>222922</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Beyls</name>
+    <role>LAPD officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3208787</tmdbid>
+  </actor>
+  <actor>
+    <name>Nastya Golubeva Carax</name>
+    <role>Nastya</role>
+    <type>Actor</type>
+    <tmdbid>1102328</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Lafourcade</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>107580</tmdbid>
+  </actor>
+  <actor>
+    <name>Bettina Meske</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>3271119</tmdbid>
+  </actor>
+  <actor>
+    <name>David E. Moore</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>3271120</tmdbid>
+  </actor>
+  <actor>
+    <name>John Paval</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>1760204</tmdbid>
+  </actor>
+  <actor>
+    <name>Lemuel Pitts</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>3271121</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Lainchbury-Brown</name>
+    <role>Hyperbowl Announcer</role>
+    <type>Actor</type>
+    <tmdbid>3271123</tmdbid>
+  </actor>
+  <actor>
+    <name>Kait Tenison</name>
+    <role>Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1780346</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Sjowall</name>
+    <role>Connie O'Connor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3271125</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Carey</name>
+    <role>Los Angeles Announcer</role>
+    <type>Actor</type>
+    <tmdbid>134514</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Chromatico</name>
+    <role>Las Vegas Announcer</role>
+    <type>Actor</type>
+    <tmdbid>3271130</tmdbid>
+  </actor>
+  <actor>
+    <name>Okon Ubanga Jones</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>2555054</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriela Leguizamo</name>
+    <role>Consuela</role>
+    <type>Actor</type>
+    <tmdbid>3271132</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamary Phillips</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>1088541</tmdbid>
+  </actor>
+  <actor>
+    <name>Aydogan Abay</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271133</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Dyson-Smith</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2025506</tmdbid>
+  </actor>
+  <actor>
+    <name>Arvid Assarsson</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271134</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Dowd</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271135</tmdbid>
+  </actor>
+  <actor>
+    <name>Graciela Maria</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271136</tmdbid>
+  </actor>
+  <actor>
+    <name>Clément Ducol</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2006056</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard McCowen</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271138</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Moore</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271139</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatrice Reece</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271140</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugene Stovall</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271141</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Tsehaye</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3271142</tmdbid>
+  </actor>
+  <actor>
+    <name>Fiora Cutler</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3148538</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Bohlen</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271143</tmdbid>
+  </actor>
+  <actor>
+    <name>Elke Shari Van Den Broeck</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>1521231</tmdbid>
+  </actor>
+  <actor>
+    <name>Arina Yalaletdinova</name>
+    <role>Russian Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271145</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella Leyers</name>
+    <role>Los Angeles Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>1287319</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmi Joutsi</name>
+    <role>Hyperbowl Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>3271157</tmdbid>
+  </actor>
+  <actor>
+    <name>Ai Nishina</name>
+    <role>Japanese Girl</role>
+    <type>Actor</type>
+    <tmdbid>2135447</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayano</name>
+    <role>Japanese Girl</role>
+    <type>Actor</type>
+    <tmdbid>3271158</tmdbid>
+  </actor>
+  <actor>
+    <name>Leos Carax</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <tmdbid>27977</tmdbid>
+  </actor>
+  <director tmdbid="27977">Leos Carax</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nRIyERZkP_0</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>Annette</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6217926</imdbid>
+  <tmdbid>424277</tmdbid>
+  <premiered>2021-07-06</premiered>
+  <releasedate>2021-07-06</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>140</runtime>
+  <tagline>Tan peligroso, tan intenso, como el amor.</tagline>
+  <country>Belgium</country>
+  <country>Canada</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Greece</country>
+  <country>Japan</country>
+  <country>Mexico</country>
+  <country>Switzerland</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Eurospace</studio>
+  <studio>Detailfilm</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>CG Cinéma</studio>
+  <studio>Garidi Films</studio>
+  <studio>Théo Films</studio>
+  <studio>Tribus P Films</studio>
+  <studio>UGC</studio>
+  <studio>SCOPE Pictures</studio>
+  <studio>Wrong Men</studio>
+  <studio>Piano</studio>
+  <uniqueid type="imdb">tt6217926</uniqueid>
+  <uniqueid type="tmdb">424277</uniqueid>
+  <id>tt6217926</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>895396</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>140</duration>
+        <durationinseconds>8406</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

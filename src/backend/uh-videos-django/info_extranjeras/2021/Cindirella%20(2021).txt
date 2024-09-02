@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una reinvención moderna del cuento tradicional de la niña huérfana con una madrastra malvada.]]></plot>
+  <outline><![CDATA[Un zapato para gobernarlos a todos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-02 20:38:24</dateadded>
+  <title>Cenicienta</title>
+  <originaltitle>Cinderella</originaltitle>
+  <actor>
+    <name>Camila Cabello</name>
+    <role>Cinderella</role>
+    <type>Actor</type>
+    <tmdbid>1911673</tmdbid>
+    <imdbid>nm5305981</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Galitzine</name>
+    <role>Prince Robert</role>
+    <type>Actor</type>
+    <tmdbid>1425934</tmdbid>
+    <imdbid>nm5954280</imdbid>
+  </actor>
+  <actor>
+    <name>Idina Menzel</name>
+    <role>Vivian</role>
+    <type>Actor</type>
+    <tmdbid>19394</tmdbid>
+    <imdbid>nm0579953</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Porter</name>
+    <role>Fabulous Godmother</role>
+    <type>Actor</type>
+    <tmdbid>88966</tmdbid>
+    <imdbid>nm0692039</imdbid>
+    <tvdbid>394893</tvdbid>
+  </actor>
+  <actor>
+    <name>Pierce Brosnan</name>
+    <role>King Rowan</role>
+    <type>Actor</type>
+    <tmdbid>517</tmdbid>
+    <imdbid>nm0000112</imdbid>
+    <tvdbid>254202</tvdbid>
+  </actor>
+  <actor>
+    <name>Minnie Driver</name>
+    <role>Queen Beatrice</role>
+    <type>Actor</type>
+    <tmdbid>6613</tmdbid>
+    <imdbid>nm0000378</imdbid>
+    <tvdbid>255408</tvdbid>
+  </actor>
+  <actor>
+    <name>Maddie Baillio</name>
+    <role>Malvolia</role>
+    <type>Actor</type>
+    <tmdbid>1660959</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Spencer</name>
+    <role>Narissa</role>
+    <type>Actor</type>
+    <tmdbid>219763</tmdbid>
+    <imdbid>nm2541046</imdbid>
+  </actor>
+  <actor>
+    <name>Tallulah Greive</name>
+    <role>Princess Gwen</role>
+    <type>Actor</type>
+    <tmdbid>2398851</tmdbid>
+  </actor>
+  <actor>
+    <name>James Acaster</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>1684762</tmdbid>
+  </actor>
+  <actor>
+    <name>Romesh Ranganathan</name>
+    <role>Romesh</role>
+    <type>Actor</type>
+    <tmdbid>1304658</tmdbid>
+  </actor>
+  <actor>
+    <name>James Corden</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>55466</tmdbid>
+    <imdbid>nm0179479</imdbid>
+    <tvdbid>285859</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Bailey Smith</name>
+    <role>Town Crier</role>
+    <type>Actor</type>
+    <tmdbid>1514177</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Beckett</name>
+    <role>Thomas Cecil</role>
+    <type>Actor</type>
+    <tmdbid>1631043</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Latchman</name>
+    <role>Griff</role>
+    <type>Actor</type>
+    <tmdbid>1977131</tmdbid>
+  </actor>
+  <actor>
+    <name>Fra Fee</name>
+    <role>Hench</role>
+    <type>Actor</type>
+    <tmdbid>1278528</tmdbid>
+    <imdbid>nm4897370</imdbid>
+    <tvdbid>8464688</tvdbid>
+  </actor>
+  <actor>
+    <name>Jenet Le Lacheur</name>
+    <role>Count Wilbur</role>
+    <type>Actor</type>
+    <tmdbid>2570576</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Higgins</name>
+    <role>Princess Laura</role>
+    <type>Actor</type>
+    <tmdbid>3220851</tmdbid>
+  </actor>
+  <actor>
+    <name>Beverley Knight</name>
+    <role>Queen Tatiana</role>
+    <type>Actor</type>
+    <tmdbid>567552</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Patel</name>
+    <role>Princess Natasha</role>
+    <type>Actor</type>
+    <tmdbid>1535012</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikkita Chadha</name>
+    <role>Princess Nikkita</role>
+    <type>Actor</type>
+    <tmdbid>1535014</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinani Mwazanzale</name>
+    <role>Princess Vinani</role>
+    <type>Actor</type>
+    <tmdbid>2382772</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Spencer</name>
+    <role>Princess Lisa</role>
+    <type>Actor</type>
+    <tmdbid>3221943</tmdbid>
+  </actor>
+  <actor>
+    <name>Nakai Warikandwa</name>
+    <role>Princess Nakai</role>
+    <type>Actor</type>
+    <tmdbid>3221944</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Harrison</name>
+    <role>Conductor</role>
+    <type>Actor</type>
+    <tmdbid>2410103</tmdbid>
+  </actor>
+  <actor>
+    <name>Paddy Glynn</name>
+    <role>Rosemary</role>
+    <type>Actor</type>
+    <tmdbid>3107505</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Smith</name>
+    <role>Meredith</role>
+    <type>Actor</type>
+    <tmdbid>3221946</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda John-Pierre</name>
+    <role>Anastasia</role>
+    <type>Actor</type>
+    <tmdbid>2476284</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Bourne</name>
+    <role>Shop Owner</role>
+    <type>Actor</type>
+    <tmdbid>1803467</tmdbid>
+  </actor>
+  <actor>
+    <name>Arazou Baker</name>
+    <role>Princess Arazou</role>
+    <type>Actor</type>
+    <tmdbid>2808019</tmdbid>
+  </actor>
+  <actor>
+    <name>Peta Cornish</name>
+    <role>Patricia Stokes</role>
+    <type>Actor</type>
+    <tmdbid>1554241</tmdbid>
+  </actor>
+  <actor>
+    <name>Nandi Bushell</name>
+    <role>Young Town Girl</role>
+    <type>Actor</type>
+    <tmdbid>3221947</tmdbid>
+  </actor>
+  <actor>
+    <name>Manny Tsakanika</name>
+    <role>Jesse</role>
+    <type>Actor</type>
+    <tmdbid>2728799</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanelle George</name>
+    <role>Princess Chanelle</role>
+    <type>Actor</type>
+    <tmdbid>3221948</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Salomon</name>
+    <role>Captain (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2004102</tmdbid>
+  </actor>
+  <actor>
+    <name>George Gjiggy Francis</name>
+    <role>Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3221949</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Redshaw</name>
+    <role>Noble Gent / Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1610835</tmdbid>
+    <imdbid>nm5536411</imdbid>
+  </actor>
+  <actor>
+    <name>John Alan Roberts</name>
+    <role>Dancing Maharaja (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2798427</tmdbid>
+  </actor>
+  <director tmdbid="208664" imdbid="nm0134224">Kay Cannon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8ynb5LNngdU</trailer>
+  <rating>4.4</rating>
+  <year>2021</year>
+  <sorttitle>Cenicienta</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt10155932</imdbid>
+  <tmdbid>593910</tmdbid>
+  <premiered>2021-09-03</premiered>
+  <releasedate>2021-09-03</releasedate>
+  <criticrating>42</criticrating>
+  <runtime>112</runtime>
+  <tagline>Un zapato para gobernarlos a todos.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>Fulwell 73</studio>
+  <uniqueid type="imdb">tt10155932</uniqueid>
+  <uniqueid type="tmdb">593910</uniqueid>
+  <id>tt10155932</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>995784</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6749</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia semiautobiográfica de la mayoría de edad de Fabietto Schisa, un niño del Nápoles de la década de 1980 cuyos años de adolescencia están marcados por alegrías inesperadas como la llegada de la leyenda del fútbol Diego Maradona, y una tragedia igualmente inesperada. El destino juega su papel, la alegría y la tragedia se entrelazan, y el futuro de Fabietto se pone en marcha en una historia de familia, deportes y cine, amor y pérdida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-15 08:28:30</dateadded>
+  <title>Fue la mano de Dios</title>
+  <originaltitle>È stata la mano di Dio</originaltitle>
+  <actor>
+    <name>Filippo Scotti</name>
+    <role>Fabietto Schisa</role>
+    <type>Actor</type>
+    <tmdbid>2431166</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Servillo</name>
+    <role>Saverio Schisa</role>
+    <type>Actor</type>
+    <tmdbid>72782</tmdbid>
+    <imdbid>nm0785842</imdbid>
+  </actor>
+  <actor>
+    <name>Teresa Saponangelo</name>
+    <role>Maria Schisa</role>
+    <type>Actor</type>
+    <tmdbid>116532</tmdbid>
+  </actor>
+  <actor>
+    <name>Luisa Ranieri</name>
+    <role>Patrizia</role>
+    <type>Actor</type>
+    <tmdbid>119172</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlon Joubert</name>
+    <role>Marchino Schisa</role>
+    <type>Actor</type>
+    <tmdbid>2672369</tmdbid>
+  </actor>
+  <actor>
+    <name>Massimiliano Gallo</name>
+    <role>Franco</role>
+    <type>Actor</type>
+    <tmdbid>124624</tmdbid>
+    <imdbid>nm2691468</imdbid>
+  </actor>
+  <actor>
+    <name>Betti Pedrazzi</name>
+    <role>Baronessa Focale</role>
+    <type>Actor</type>
+    <tmdbid>2406108</tmdbid>
+  </actor>
+  <actor>
+    <name>Renato Carpentieri</name>
+    <role>Alfredo</role>
+    <type>Actor</type>
+    <tmdbid>35104</tmdbid>
+    <imdbid>nm0139528</imdbid>
+  </actor>
+  <actor>
+    <name>Enzo De Caro</name>
+    <role>San Gennaro</role>
+    <type>Actor</type>
+    <tmdbid>1132233</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofya Gershevich</name>
+    <role>Yulia</role>
+    <type>Actor</type>
+    <tmdbid>2185017</tmdbid>
+  </actor>
+  <actor>
+    <name>Lino Musella</name>
+    <role>Marriettiello</role>
+    <type>Actor</type>
+    <tmdbid>1871368</tmdbid>
+  </actor>
+  <actor>
+    <name>Biagio Manna</name>
+    <role>Armando</role>
+    <type>Actor</type>
+    <tmdbid>3172977</tmdbid>
+  </actor>
+  <actor>
+    <name>Ciro Capano</name>
+    <role>Antonio Capuano</role>
+    <type>Actor</type>
+    <tmdbid>1191716</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Bressanello</name>
+    <role>Aldo Cavallo</role>
+    <type>Actor</type>
+    <tmdbid>48377</tmdbid>
+  </actor>
+  <actor>
+    <name>Birte Berg</name>
+    <role>Graziella</role>
+    <type>Actor</type>
+    <tmdbid>1182274</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Signora Gentile</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Nappo</name>
+    <type>Actor</type>
+    <tmdbid>76341</tmdbid>
+    <imdbid>nm0621175</imdbid>
+  </actor>
+  <actor>
+    <name>Cristiana Dell'Anna</name>
+    <type>Actor</type>
+    <tmdbid>1396912</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Perugini</name>
+    <type>Actor</type>
+    <tmdbid>2885857</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Viro</name>
+    <role>Dottoressa</role>
+    <type>Actor</type>
+    <tmdbid>1074089</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniele Vicorito</name>
+    <role>Diego Maradona</role>
+    <type>Actor</type>
+    <tmdbid>1935059</tmdbid>
+  </actor>
+  <director tmdbid="56194" imdbid="nm0815204">Paolo Sorrentino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i_1VW_0i6vo</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <sorttitle>Fue la mano de Dios</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12680684</imdbid>
+  <tmdbid>722778</tmdbid>
+  <premiered>2021-11-24</premiered>
+  <releasedate>2021-11-24</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>131</runtime>
+  <country>Italy</country>
+  <genre>Drama</genre>
+  <studio>The Apartment</studio>
+  <uniqueid type="imdb">tt12680684</uniqueid>
+  <uniqueid type="tmdb">722778</uniqueid>
+  <id>tt12680684</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>960186</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7840</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una aplicación de servicio de vehículo compartido reúne a cuatro desconocidos en un viaje que se convertirá en un confesionario en el que descubriremos las peculiaridades de Julián, un conductor que se comporta de manera extraña; Elisa, una chica apocada y tímida; Miguel, que parece estar de vuelta de todo menos del pasado; y Ana, de espíritu joven y dicharachero. En el trayecto aprenderán mucho de con quién viajan... y de ellos mismos.]]></plot>
+  <outline><![CDATA[Un viaje compartido inolvidable... muy a su pesar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-11 10:55:33</dateadded>
+  <title>Con quién viajas</title>
+  <originaltitle>Con quién viajas</originaltitle>
+  <actor>
+    <name>Pol Monen</name>
+    <type>Actor</type>
+    <tmdbid>1647098</tmdbid>
+    <imdbid>nm2968673</imdbid>
+    <tvdbid>549645</tvdbid>
+  </actor>
+  <actor>
+    <name>Salva Reina</name>
+    <type>Actor</type>
+    <tmdbid>1413918</tmdbid>
+    <imdbid>nm1892699</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Polvorosa</name>
+    <type>Actor</type>
+    <tmdbid>138716</tmdbid>
+    <imdbid>nm1308063</imdbid>
+    <tvdbid>448240</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrea Duro</name>
+    <type>Actor</type>
+    <tmdbid>572443</tmdbid>
+    <imdbid>nm2863907</imdbid>
+    <tvdbid>513419</tvdbid>
+  </actor>
+  <director tmdbid="2978732">Hugo Martín Cuervo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LnFBO19z7Zg</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>Con quien viajas</sorttitle>
+  <imdbid>tt11645056</imdbid>
+  <tmdbid>797245</tmdbid>
+  <premiered>2021-09-10</premiered>
+  <releasedate>2021-09-10</releasedate>
+  <runtime>83</runtime>
+  <tagline>Un viaje compartido inolvidable... muy a su pesar.</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>A Contracorriente Films</studio>
+  <studio>Neón Producciones</studio>
+  <studio>Álamo</studio>
+  <uniqueid type="imdb">tt11645056</uniqueid>
+  <uniqueid type="tmdb">797245</uniqueid>
+  <id>tt11645056</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1052661</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>4984</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64279</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

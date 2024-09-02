@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja islandesa vive con su rebaño de ovejas en una hermosa pero remota granja. Cuando descubren un misterioso recién nacido en su tierra, deciden quedárselo y criarlo como propio. Este acontecimiento inesperado, y la perspectiva de una nueva familia, les trae mucha alegría antes de destruirlos en última instancia.]]></plot>
+  <outline><![CDATA[Madre. Naturaleza.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-27 13:27:35</dateadded>
+  <title>Lamb</title>
+  <originaltitle>Dýrið</originaltitle>
+  <actor>
+    <name>Noomi Rapace</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>87722</tmdbid>
+    <imdbid>nm0636426</imdbid>
+    <tvdbid>360661</tvdbid>
+  </actor>
+  <actor>
+    <name>Hilmir Snær Guðnason</name>
+    <role>Ingvar</role>
+    <type>Actor</type>
+    <tmdbid>52913</tmdbid>
+  </actor>
+  <actor>
+    <name>Björn Hlynur Haraldsson</name>
+    <role>Pétur</role>
+    <type>Actor</type>
+    <tmdbid>42668</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvar E. Sigurðsson</name>
+    <role>Creature</role>
+    <type>Actor</type>
+    <tmdbid>55584</tmdbid>
+    <imdbid>nm0797614</imdbid>
+  </actor>
+  <actor>
+    <name>Ester Bibi</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>3154166</tmdbid>
+  </actor>
+  <actor>
+    <name>Sigurður Elvar Viðarson</name>
+    <role>Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>3350165</tmdbid>
+  </actor>
+  <actor>
+    <name>Theodór Ingi Ólafsson</name>
+    <role>Man</role>
+    <type>Actor</type>
+    <tmdbid>3350166</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnþruður Dögg Sigurðardóttir</name>
+    <role>Woman 2</role>
+    <type>Actor</type>
+    <tmdbid>1990739</tmdbid>
+  </actor>
+  <actor>
+    <name>Gunnar Þor Karlsson</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>3502569</tmdbid>
+  </actor>
+  <actor>
+    <name>Lára Björk Hall</name>
+    <role>Ada (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3502570</tmdbid>
+  </actor>
+  <director tmdbid="2683196">Valdimar Jóhannsson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IFSQoEcaTm0</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>Lamb</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9812474</imdbid>
+  <tmdbid>788929</tmdbid>
+  <premiered>2021-08-12</premiered>
+  <releasedate>2021-08-12</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>106</runtime>
+  <tagline>Madre. Naturaleza.</tagline>
+  <country>Iceland</country>
+  <country>Poland</country>
+  <country>Sweden</country>
+  <genre>Drama</genre>
+  <genre>Fantasía</genre>
+  <genre>Terror</genre>
+  <studio>Film i Väst</studio>
+  <studio>Chimney Sweden</studio>
+  <studio>Madants</studio>
+  <studio>Chimney Poland</studio>
+  <studio>Black Spark Film &amp; TV</studio>
+  <studio>Go to Sheep</studio>
+  <studio>Rabbit Hole Productions</studio>
+  <uniqueid type="imdb">tt9812474</uniqueid>
+  <uniqueid type="tmdb">788929</uniqueid>
+  <id>tt9812474</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1046938</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6387</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -9,7 +9,7 @@ import re
 class Principal:
 
     def __init__(self):
-        self.year = 2021
+        self.year = 2020
         self.base_url = f'https://visuales.uclv.cu/Peliculas/Extranjeras/{self.year}/'
 
     def run(self):

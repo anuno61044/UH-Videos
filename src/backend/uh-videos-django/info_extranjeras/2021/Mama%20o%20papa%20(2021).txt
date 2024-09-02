@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Flora y Víctor son los padres que todo niño querría tener: modernos, divertidos y cariñosos. Sin embargo, todo se tuerce el día que deciden divorciarse y aparece la oportunidad laboral con la que llevan soñando toda la vida. Solo hay un problema: la custodia. Ninguno está dispuesto a ceder. Así que, por orden de la jueza, los niños tendrán que decidir con quién se quedan: con mamá, o con papá. A partir de este momento, los padres modélicos se declaran la guerra y no habrá tregua. Ambos harán todo lo posible por no obtener la custodia de sus hijos.]]></plot>
+  <outline><![CDATA[El roce hace el cariño.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-21 08:27:16</dateadded>
+  <title>Mamá o papá</title>
+  <originaltitle>Mamá o papá</originaltitle>
+  <actor>
+    <name>Paco León</name>
+    <role>Víctor</role>
+    <type>Actor</type>
+    <tmdbid>224870</tmdbid>
+    <imdbid>nm1346713</imdbid>
+    <tvdbid>448237</tvdbid>
+  </actor>
+  <actor>
+    <name>Miren Ibarguren</name>
+    <role>Flora</role>
+    <type>Actor</type>
+    <tmdbid>560247</tmdbid>
+    <imdbid>nm2009186</imdbid>
+    <tvdbid>448248</tvdbid>
+  </actor>
+  <actor>
+    <name>Ester Expósito</name>
+    <type>Actor</type>
+    <tmdbid>2025252</tmdbid>
+    <imdbid>nm7527792</imdbid>
+    <tvdbid>488432</tvdbid>
+  </actor>
+  <actor>
+    <name>Miquel Fernández</name>
+    <type>Actor</type>
+    <tmdbid>1179659</tmdbid>
+    <imdbid>nm2087841</imdbid>
+    <tvdbid>465013</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Ugarte</name>
+    <type>Actor</type>
+    <tmdbid>1155088</tmdbid>
+    <imdbid>nm3993669</imdbid>
+  </actor>
+  <actor>
+    <name>Berto Romero</name>
+    <type>Actor</type>
+    <tmdbid>1283862</tmdbid>
+    <imdbid>nm2015004</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Oria</name>
+    <type>Actor</type>
+    <tmdbid>1114063</tmdbid>
+    <imdbid>nm4519823</imdbid>
+  </actor>
+  <director tmdbid="1200444" imdbid="nm1738082">Dani de la Orden</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OyOkxLeElmQ</trailer>
+  <rating>6</rating>
+  <year>2021</year>
+  <sorttitle>Mama o papa</sorttitle>
+  <imdbid>tt12443220</imdbid>
+  <tmdbid>755437</tmdbid>
+  <premiered>2021-12-17</premiered>
+  <releasedate>2021-12-17</releasedate>
+  <runtime>103</runtime>
+  <tagline>El roce hace el cariño.</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <studio>El Álamo Producciones Cinematográficas S.L.</studio>
+  <studio>Grupo Secuoya</studio>
+  <studio>Atresmedia</studio>
+  <studio>Warner Bros. Pictures España</studio>
+  <uniqueid type="imdb">tt12443220</uniqueid>
+  <uniqueid type="tmdb">755437</uniqueid>
+  <id>tt12443220</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1081426</bitrate>
+        <width>1696</width>
+        <height>720</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6203</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64318</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

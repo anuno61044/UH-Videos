@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la "especia melange", la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.]]></plot>
+  <outline><![CDATA[Más allá del miedo, el destino espera.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-17 07:47:36</dateadded>
+  <title>Dune</title>
+  <originaltitle>Dune</originaltitle>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Paul Atreides</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ferguson</name>
+    <role>Lady Jessica Atreides</role>
+    <type>Actor</type>
+    <tmdbid>933238</tmdbid>
+    <imdbid>nm0272581</imdbid>
+    <tvdbid>295149</tvdbid>
+  </actor>
+  <actor>
+    <name>Oscar Isaac</name>
+    <role>Duke Leto Atreides</role>
+    <type>Actor</type>
+    <tmdbid>25072</tmdbid>
+    <imdbid>nm1209966</imdbid>
+    <tvdbid>311003</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Brolin</name>
+    <role>Gurney Halleck</role>
+    <type>Actor</type>
+    <tmdbid>16851</tmdbid>
+    <imdbid>nm0000982</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Baron Vladimir Harkonnen</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+    <tvdbid>378106</tvdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Beast Rabban Harkonnen</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Sharon Duncan-Brewster</name>
+    <role>Dr. Liet Kynes</role>
+    <type>Actor</type>
+    <tmdbid>195666</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Henderson</name>
+    <role>Thufir Hawat</role>
+    <type>Actor</type>
+    <tmdbid>196179</tmdbid>
+    <imdbid>nm0376610</imdbid>
+  </actor>
+  <actor>
+    <name>Zendaya</name>
+    <role>Chani</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+    <tvdbid>327412</tvdbid>
+  </actor>
+  <actor>
+    <name>Chang Chen</name>
+    <role>Dr. Wellington Yueh</role>
+    <type>Actor</type>
+    <tmdbid>1622</tmdbid>
+    <imdbid>nm0151654</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Rampling</name>
+    <role>Reverend Mother Gaius Helen Mohiam</role>
+    <type>Actor</type>
+    <tmdbid>44079</tmdbid>
+    <imdbid>nm0001648</imdbid>
+    <tvdbid>283328</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Duncan Idaho</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+    <tvdbid>247856</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>Stilgar</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Piter de Vries</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Jamis</role>
+    <type>Actor</type>
+    <tmdbid>205923</tmdbid>
+    <imdbid>nm2129802</imdbid>
+    <tvdbid>317266</tvdbid>
+  </actor>
+  <actor>
+    <name>Golda Rosheuvel</name>
+    <role>Shadout Mapes</role>
+    <type>Actor</type>
+    <tmdbid>1856875</tmdbid>
+    <imdbid>nm0742929</imdbid>
+    <tvdbid>307322</tvdbid>
+  </actor>
+  <actor>
+    <name>Roger Yuan</name>
+    <role>Lieutenant Lanville</role>
+    <type>Actor</type>
+    <tmdbid>2974</tmdbid>
+    <imdbid>nm0950619</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Clémentine</name>
+    <role>Herald of the Change</role>
+    <type>Actor</type>
+    <tmdbid>3185383</tmdbid>
+  </actor>
+  <actor>
+    <name>Souad Faress</name>
+    <role>Bene Gesserit Sister</role>
+    <type>Actor</type>
+    <tmdbid>261927</tmdbid>
+    <imdbid>nm0267256</imdbid>
+  </actor>
+  <actor>
+    <name>Seun Shote</name>
+    <role>Arrakeen Residency Gardener</role>
+    <type>Actor</type>
+    <tmdbid>2411333</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Bell</name>
+    <role>Sardaukar Bashar</role>
+    <type>Actor</type>
+    <tmdbid>178629</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Ryan</name>
+    <role>Hawat Specialist</role>
+    <type>Actor</type>
+    <tmdbid>1638835</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Collins</name>
+    <role>Harkonnen Trooper</role>
+    <type>Actor</type>
+    <tmdbid>1929092</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Rawes</name>
+    <role>Harkonnen Trooper</role>
+    <type>Actor</type>
+    <tmdbid>1083177</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Carter</name>
+    <role>Harkonnen Trooper</role>
+    <type>Actor</type>
+    <tmdbid>3275311</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Dilloway</name>
+    <role>Sardaukar Assassin</role>
+    <type>Actor</type>
+    <tmdbid>1269682</tmdbid>
+  </actor>
+  <actor>
+    <name>Elmi Rashid Elmi</name>
+    <role>Shamir</role>
+    <type>Actor</type>
+    <tmdbid>3063993</tmdbid>
+  </actor>
+  <actor>
+    <name>Tachia Newall</name>
+    <role>Tanat</role>
+    <type>Actor</type>
+    <tmdbid>1466868</tmdbid>
+  </actor>
+  <actor>
+    <name>Gloria Obianyo</name>
+    <role>Female Fremen</role>
+    <type>Actor</type>
+    <tmdbid>1982903</tmdbid>
+  </actor>
+  <actor>
+    <name>Fehinti Balogun</name>
+    <role>Male Fremen</role>
+    <type>Actor</type>
+    <tmdbid>2160722</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Kápolnai-Schvab</name>
+    <role>Baron Servant</role>
+    <type>Actor</type>
+    <tmdbid>3314410</tmdbid>
+  </actor>
+  <actor>
+    <name>Joelle</name>
+    <role>Baron Servant</role>
+    <type>Actor</type>
+    <tmdbid>3314411</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Walker</name>
+    <role>Atreides Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>2158768</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bullion</name>
+    <role>Sardaukar Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1488465</tmdbid>
+    <imdbid>nm5620024</imdbid>
+  </actor>
+  <actor>
+    <name>Milena Sidorova</name>
+    <role>Human Spider Proxy</role>
+    <type>Actor</type>
+    <tmdbid>3314417</tmdbid>
+  </actor>
+  <actor>
+    <name>János Timkó</name>
+    <role>Harkonnen Guard</role>
+    <type>Actor</type>
+    <tmdbid>2059373</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Gilpin</name>
+    <role>Bene Gesserit Ancestor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59051</tmdbid>
+    <imdbid>nm0319638</imdbid>
+  </actor>
+  <actor>
+    <name>Marianne Faithfull</name>
+    <role>Bene Gesserit Ancestor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19995</tmdbid>
+    <imdbid>nm0265717</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Dubin</name>
+    <role>Bene Gesserit Ancestor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>53934</tmdbid>
+  </actor>
+  <director tmdbid="137427" imdbid="nm0898288">Denis Villeneuve</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mSY_NbSmaUI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kPjOcWHVNGo</trailer>
+  <rating>8</rating>
+  <year>2021</year>
+  <sorttitle>Dune</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1160419</imdbid>
+  <tmdbid>438631</tmdbid>
+  <premiered>2021-09-08</premiered>
+  <releasedate>2021-09-08</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>149</runtime>
+  <tagline>Más allá del miedo, el destino espera.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Aventura</genre>
+  <studio>Legendary Pictures</studio>
+  <set tmdbcolid="726871">
+    <name>Dune - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt1160419</uniqueid>
+  <uniqueid type="tmdb">438631</uniqueid>
+  <id>tt1160419</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>841624</bitrate>
+        <width>1280</width>
+        <height>516</height>
+        <aspect>240:97</aspect>
+        <aspectratio>240:97</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>148</duration>
+        <durationinseconds>8936</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

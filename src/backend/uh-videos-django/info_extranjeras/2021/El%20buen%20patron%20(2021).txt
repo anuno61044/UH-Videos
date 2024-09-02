@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Blanco, un carismático propietario de una empresa que fabrica balanzas industriales en una ciudad española de provincias, espera la inminente visita de una comisión que decidirá su destino y la obtención de un premio local a la Excelencia Empresarial: todo tiene que estar perfecto para la visita. Sin embargo, todo parece conspirar contra él. Trabajando a contrarreloj, Blanco intenta resolver los problemas de sus empleados, cruzando para ello todas las líneas imaginables, dando lugar a una inesperada y explosiva sucesión de acontecimientos de imprevisibles consecuencias.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-15 10:35:53</dateadded>
+  <title>El buen patrón</title>
+  <originaltitle>El buen patrón</originaltitle>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>Julio Blanco</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>Manolo Solo</name>
+    <role>Miralles</role>
+    <type>Actor</type>
+    <tmdbid>592709</tmdbid>
+    <imdbid>nm1254805</imdbid>
+    <tvdbid>294463</tvdbid>
+  </actor>
+  <actor>
+    <name>Almudena Amor</name>
+    <role>Liliana</role>
+    <type>Actor</type>
+    <tmdbid>2846747</tmdbid>
+    <tvdbid>9088751</tvdbid>
+  </actor>
+  <actor>
+    <name>Óscar de la Fuente</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>2020259</tmdbid>
+    <tvdbid>8074018</tvdbid>
+  </actor>
+  <actor>
+    <name>Sonia Almarcha</name>
+    <role>Adela</role>
+    <type>Actor</type>
+    <tmdbid>929712</tmdbid>
+    <imdbid>nm0971346</imdbid>
+    <tvdbid>450325</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Albizu</name>
+    <role>Román</role>
+    <type>Actor</type>
+    <tmdbid>100905</tmdbid>
+    <imdbid>nm0016864</imdbid>
+    <tvdbid>7960131</tvdbid>
+  </actor>
+  <actor>
+    <name>María de Nati</name>
+    <role>Ángela</role>
+    <type>Actor</type>
+    <tmdbid>1848583</tmdbid>
+    <imdbid>nm7328813</imdbid>
+    <tvdbid>7983688</tvdbid>
+  </actor>
+  <actor>
+    <name>Tarik Rmili</name>
+    <role>Khaled</role>
+    <type>Actor</type>
+    <tmdbid>2486761</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafa Castejón</name>
+    <role>Rubio</role>
+    <type>Actor</type>
+    <tmdbid>1074924</tmdbid>
+  </actor>
+  <actor>
+    <name>Celso Bugallo</name>
+    <role>Fortuna</role>
+    <type>Actor</type>
+    <tmdbid>16870</tmdbid>
+    <imdbid>nm0119438</imdbid>
+  </actor>
+  <actor>
+    <name>Yaël Belicha</name>
+    <role>Inés</role>
+    <type>Actor</type>
+    <tmdbid>1507031</tmdbid>
+    <imdbid>nm2188743</imdbid>
+    <tvdbid>585765</tvdbid>
+  </actor>
+  <actor>
+    <name>Francesc Orella</name>
+    <role>Alejandro</role>
+    <type>Actor</type>
+    <tmdbid>28509</tmdbid>
+    <imdbid>nm0649649</imdbid>
+    <tvdbid>7911760</tvdbid>
+  </actor>
+  <actor>
+    <name>Nao Albet</name>
+    <role>Albert</role>
+    <type>Actor</type>
+    <tmdbid>589779</tmdbid>
+    <tvdbid>301063</tvdbid>
+  </actor>
+  <actor>
+    <name>Martín Páez</name>
+    <role>Salva</role>
+    <type>Actor</type>
+    <tmdbid>3060218</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Chamorro</name>
+    <role>Periodista</role>
+    <type>Actor</type>
+    <tmdbid>2147813</tmdbid>
+    <imdbid>nm1125506</imdbid>
+  </actor>
+  <actor>
+    <name>Dalit Streett Tejeda</name>
+    <type>Actor</type>
+    <tmdbid>3060217</tmdbid>
+  </actor>
+  <actor>
+    <name>Mara Guill</name>
+    <role>Aurora</role>
+    <type>Actor</type>
+    <tmdbid>2122631</tmdbid>
+  </actor>
+  <director tmdbid="15602" imdbid="nm0508208">Fernando León de Aranoa</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AeN6HFEEgpc</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <sorttitle>buen patron</sorttitle>
+  <imdbid>tt13066182</imdbid>
+  <tmdbid>820722</tmdbid>
+  <premiered>2021-10-15</premiered>
+  <releasedate>2021-10-15</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>120</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>The Mediapro Studio</studio>
+  <studio>Reposado Producciones</studio>
+  <studio>TVE</studio>
+  <studio>TV3</studio>
+  <studio>MK2 Films</studio>
+  <uniqueid type="imdb">tt13066182</uniqueid>
+  <uniqueid type="tmdb">820722</uniqueid>
+  <id>tt13066182</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070240</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7210</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63864</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Philosophical twenty-something Ross Ulbricht creates Silk Road, a dark net website that sells drugs, while DEA agent Rick Bowden goes undercover to bring him down.]]></plot>
+  <outline><![CDATA[Es terrible desperdiciar una mente maestra.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-15 09:00:51</dateadded>
+  <title>Silk Road</title>
+  <originaltitle>Silk Road</originaltitle>
+  <actor>
+    <name>Nick Robinson</name>
+    <type>Actor</type>
+    <tmdbid>1108907</tmdbid>
+    <imdbid>nm3538718</imdbid>
+    <tvdbid>293549</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Yun</name>
+    <type>Actor</type>
+    <tmdbid>2379636</tmdbid>
+    <imdbid>nm6066464</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmi Simpson</name>
+    <type>Actor</type>
+    <tmdbid>22125</tmdbid>
+    <imdbid>nm0801051</imdbid>
+    <tvdbid>279157</tvdbid>
+  </actor>
+  <actor>
+    <name>Jason Clarke</name>
+    <type>Actor</type>
+    <tmdbid>76512</tmdbid>
+    <imdbid>nm0164809</imdbid>
+    <tvdbid>262414</tvdbid>
+  </actor>
+  <director tmdbid="1035379" imdbid="nm1183164">Tiller Russell</director>
+  <writer>Tiller Russell (written for the screen by)</writer>
+  <writer>David Kushner (based on the article "Dead End on Silk Road: Internet Crime Kingpin Ross Ulbricht's Big Fall" by)</writer>
+  <credits>Tiller Russell (written for the screen by)</credits>
+  <credits>David Kushner (based on the article "Dead End on Silk Road: Internet Crime Kingpin Ross Ulbricht's Big Fall" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LBOBuqBzn7w</trailer>
+  <rating>6</rating>
+  <year>2021</year>
+  <sorttitle>Silk Road</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7937254</imdbid>
+  <tmdbid>579051</tmdbid>
+  <premiered>2021-02-19</premiered>
+  <releasedate>2021-02-19</releasedate>
+  <criticrating>52</criticrating>
+  <runtime>117</runtime>
+  <tagline>Es terrible desperdiciar una mente maestra.</tagline>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Piccadilly Pictures</studio>
+  <studio>High Frequency Entertainment</studio>
+  <studio>Perfect Season Productions</studio>
+  <studio>Lionsgate</studio>
+  <studio>Mutressa Movies</studio>
+  <uniqueid type="imdb">tt7937254</uniqueid>
+  <uniqueid type="tmdb">579051</uniqueid>
+  <id>tt7937254</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1618174</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>179:75</aspect>
+        <aspectratio>179:75</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7004</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

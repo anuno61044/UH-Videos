@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de enviar a nueve soldados veteranos a una base militar situada en un páramo colombiano, sus jefes pierden todo contacto con ellos, por lo que temen que puedan haber sido víctimas de un ataque de la guerrilla. Cuando los soldados llegan a su destino, sólo encuentran a una joven campesina encadenada. Poco a poco, el aislamiento y la imposibilidad de comunicarse con el exterior va haciendo mella en su ánimo y alterando su cordura. En ese estado, ya no saben quién es el enemigo ni cuál es la verdadera naturaleza de la extraña mujer que han encontrado. Presos del temor, la paranoia y de un oscuro secreto que arrastran, acabarán enfrentándose entre sí para poder sobrevivir.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-06 19:25:22</dateadded>
+  <title>El páramo</title>
+  <originaltitle>El Páramo</originaltitle>
+  <actor>
+    <name>Juan David Restrepo</name>
+    <role>Ramos</role>
+    <type>Actor</type>
+    <tmdbid>649815</tmdbid>
+  </actor>
+  <actor>
+    <name>Mateo Stevel</name>
+    <role>Parra</role>
+    <type>Actor</type>
+    <tmdbid>929927</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauricio Navas</name>
+    <role>Teniente</role>
+    <type>Actor</type>
+    <tmdbid>929928</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrés Castañeda</name>
+    <role>Sargento</role>
+    <type>Actor</type>
+    <tmdbid>839684</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio César Valencia</name>
+    <role>Robledo</role>
+    <type>Actor</type>
+    <tmdbid>929929</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Barragán</name>
+    <role>Ponce</role>
+    <type>Actor</type>
+    <tmdbid>929930</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Catz</name>
+    <role>Mujer</role>
+    <type>Actor</type>
+    <tmdbid>929931</tmdbid>
+  </actor>
+  <actor>
+    <name>Andres Torres</name>
+    <role>Arango</role>
+    <type>Actor</type>
+    <tmdbid>929932</tmdbid>
+  </actor>
+  <actor>
+    <name>Nelson Camayo</name>
+    <role>Fiquitiva</role>
+    <type>Actor</type>
+    <tmdbid>929933</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Aguilar</name>
+    <role>Cortez</role>
+    <type>Actor</type>
+    <tmdbid>930631</tmdbid>
+  </actor>
+  <director tmdbid="929924">Jaime Osorio Márquez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vjp_QFeFlwE</trailer>
+  <rating>5.2</rating>
+  <year>2011</year>
+  <sorttitle>paramo</sorttitle>
+  <imdbid>tt1547084</imdbid>
+  <tmdbid>83705</tmdbid>
+  <premiered>2011-10-07</premiered>
+  <releasedate>2011-10-07</releasedate>
+  <runtime>93</runtime>
+  <country>Colombia</country>
+  <country>Argentina</country>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Alta Producción S.L. Unipersonal</studio>
+  <studio>Alta Films</studio>
+  <studio>Rhayuela Cine</studio>
+  <studio>Sudestada Cine</studio>
+  <uniqueid type="imdb">tt1547084</uniqueid>
+  <uniqueid type="tmdb">83705</uniqueid>
+  <id>tt1547084</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1053981</bitrate>
+        <width>1724</width>
+        <height>720</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5598</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63643</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

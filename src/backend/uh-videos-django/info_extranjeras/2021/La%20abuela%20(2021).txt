@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Susana deja su vida en París, donde trabaja como modelo, y regresa a Madrid para cuidar de su abuela Pilar.]]></plot>
+  <outline><![CDATA[Ella te está esperando]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-18 12:58:12</dateadded>
+  <title>La abuela</title>
+  <originaltitle>La abuela</originaltitle>
+  <actor>
+    <name>Almudena Amor</name>
+    <role>Susana</role>
+    <type>Actor</type>
+    <tmdbid>2846747</tmdbid>
+    <tvdbid>9088751</tvdbid>
+  </actor>
+  <actor>
+    <name>Vera Valdez</name>
+    <role>Pilar</role>
+    <type>Actor</type>
+    <tmdbid>1910478</tmdbid>
+  </actor>
+  <actor>
+    <name>Karina Kolokolchykova</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>1914003</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Gutiérrez</name>
+    <role>Adela</role>
+    <type>Actor</type>
+    <tmdbid>3461067</tmdbid>
+  </actor>
+  <actor>
+    <name>Berta Sánchez</name>
+    <role>Child Susana</role>
+    <type>Actor</type>
+    <tmdbid>2551320</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Bonnin</name>
+    <role>Child Eva</role>
+    <type>Actor</type>
+    <tmdbid>3461066</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriela Calonfirescu</name>
+    <role>Julita</role>
+    <type>Actor</type>
+    <tmdbid>3461069</tmdbid>
+  </actor>
+  <actor>
+    <name>Ileana Wilson</name>
+    <role>Doctor Romero</role>
+    <type>Actor</type>
+    <tmdbid>1278315</tmdbid>
+    <imdbid>nm0933516</imdbid>
+  </actor>
+  <actor>
+    <name>Chacha Huang</name>
+    <role>Burger Joint Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1915026</tmdbid>
+    <imdbid>nm8002173</imdbid>
+  </actor>
+  <actor>
+    <name>Lle Godoy</name>
+    <role>Agency Person #1</role>
+    <type>Actor</type>
+    <tmdbid>2990280</tmdbid>
+  </actor>
+  <actor>
+    <name>Pia Hessel</name>
+    <role>Agency Person #2</role>
+    <type>Actor</type>
+    <tmdbid>3490731</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Crespo</name>
+    <role>Nurse (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2590144</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Vaquero</name>
+    <role>Anchorwoman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2203927</tmdbid>
+  </actor>
+  <actor>
+    <name>José Mª Gimeno</name>
+    <role>Crashed Car Driver</role>
+    <type>Actor</type>
+    <tmdbid>1316807</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre-François Garel</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>3040614</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Alayrangues</name>
+    <role>Zoe</role>
+    <type>Actor</type>
+    <tmdbid>3461070</tmdbid>
+  </actor>
+  <actor>
+    <name>Pía Laborde-Noguez</name>
+    <role>Party Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>3104512</tmdbid>
+  </actor>
+  <actor>
+    <name>Erick Faulkner</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3738115</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura del Sol</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>103670</tmdbid>
+  </actor>
+  <director tmdbid="54526" imdbid="nm0687042">Paco Plaza</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cqYJvjLUrz4</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>abuela</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11807888</imdbid>
+  <tmdbid>661791</tmdbid>
+  <premiered>2022-01-28</premiered>
+  <releasedate>2022-01-28</releasedate>
+  <runtime>100</runtime>
+  <tagline>Ella te está esperando</tagline>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>Canal+</studio>
+  <studio>Les films du Worso</studio>
+  <studio>Ciné+</studio>
+  <studio>Atresmedia</studio>
+  <studio>Apache Films</studio>
+  <uniqueid type="tmdb">661791</uniqueid>
+  <uniqueid type="imdb">tt11807888</uniqueid>
+  <id>tt11807888</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1090484</bitrate>
+        <width>1352</width>
+        <height>720</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>23.976</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6017</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63646</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The magic and the soul of nature.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-11 08:49:18</dateadded>
+  <title>Josefina</title>
+  <originaltitle>Josefina</originaltitle>
+  <director tmdbid="2799958">Adriana López Garibay</director>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>Josefina</sorttitle>
+  <imdbid>tt8422726</imdbid>
+  <tmdbid>881347</tmdbid>
+  <premiered>2021-10-05</premiered>
+  <releasedate>2021-10-05</releasedate>
+  <runtime>87</runtime>
+  <genre>Documental</genre>
+  <uniqueid type="tmdb">881347</uniqueid>
+  <uniqueid type="imdb">tt8422726</uniqueid>
+  <id>tt8422726</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>469232</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5225</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64118</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

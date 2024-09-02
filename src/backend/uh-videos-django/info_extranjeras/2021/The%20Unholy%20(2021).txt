@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Se centra en un periodista caído en desgracia que descubre una serie de aparentes milagros acaecidos en un pequeño pueblo de Nueva Inglaterra, aplicándolos para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree.]]></plot>
+  <outline><![CDATA[Ten cuidado con a quién rezas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-31 08:48:57</dateadded>
+  <title>Ruega por nosotros</title>
+  <originaltitle>The Unholy</originaltitle>
+  <actor>
+    <name>Jeffrey Dean Morgan</name>
+    <role>Gerry Fenn</role>
+    <type>Actor</type>
+    <tmdbid>47296</tmdbid>
+    <imdbid>nm0604742</imdbid>
+    <tvdbid>267366</tvdbid>
+  </actor>
+  <actor>
+    <name>Cricket Brown</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>2067034</tmdbid>
+    <tvdbid>8465990</tvdbid>
+  </actor>
+  <actor>
+    <name>Cary Elwes</name>
+    <role>Bishop Gyles</role>
+    <type>Actor</type>
+    <tmdbid>2130</tmdbid>
+    <imdbid>nm0000144</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Aselton</name>
+    <role>Dr. Natalie Gates</role>
+    <type>Actor</type>
+    <tmdbid>221944</tmdbid>
+    <imdbid>nm1051221</imdbid>
+  </actor>
+  <actor>
+    <name>William Sadler</name>
+    <role>Father Hagan</role>
+    <type>Actor</type>
+    <tmdbid>6573</tmdbid>
+    <imdbid>nm0006669</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Adams</name>
+    <role>Monica Slade</role>
+    <type>Actor</type>
+    <tmdbid>87194</tmdbid>
+    <imdbid>nm0010837</imdbid>
+    <tvdbid>343566</tvdbid>
+  </actor>
+  <actor>
+    <name>Diogo Morgado</name>
+    <role>Monsignor Delgarde</role>
+    <type>Actor</type>
+    <tmdbid>647347</tmdbid>
+    <imdbid>nm0604430</imdbid>
+  </actor>
+  <actor>
+    <name>Marina Mazepa</name>
+    <role>Mary Elnor</role>
+    <type>Actor</type>
+    <tmdbid>2551945</tmdbid>
+  </actor>
+  <actor>
+    <name>Celeste Oliva</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>1139812</tmdbid>
+    <imdbid>nm0646496</imdbid>
+  </actor>
+  <actor>
+    <name>Bates Wilder</name>
+    <type>Actor</type>
+    <tmdbid>50588</tmdbid>
+    <imdbid>nm1060606</imdbid>
+  </actor>
+  <actor>
+    <name>Gisela Chipe</name>
+    <role>Sofia Walsh</role>
+    <type>Actor</type>
+    <tmdbid>2212584</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Corbo</name>
+    <role>Toby Walsh</role>
+    <type>Actor</type>
+    <tmdbid>1855615</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Tucker</name>
+    <role>Dan Walsh</role>
+    <type>Actor</type>
+    <tmdbid>1732327</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Thorpe</name>
+    <role>Father Prescott</role>
+    <type>Actor</type>
+    <tmdbid>1774091</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Thurston</name>
+    <role>Nervous Man</role>
+    <type>Actor</type>
+    <tmdbid>1675319</tmdbid>
+  </actor>
+  <actor>
+    <name>Mere Davis</name>
+    <role>Faithful #1</role>
+    <type>Actor</type>
+    <tmdbid>1672974</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiara Pichardo</name>
+    <role>Faithful #3</role>
+    <type>Actor</type>
+    <tmdbid>2864859</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Fennessy</name>
+    <role>Faithful #4</role>
+    <type>Actor</type>
+    <tmdbid>592897</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassidy Neal</name>
+    <role>Grace Father</role>
+    <type>Actor</type>
+    <tmdbid>1735643</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Daigneault</name>
+    <role>Security Enforcement Officer</role>
+    <type>Actor</type>
+    <tmdbid>1942136</tmdbid>
+    <imdbid>nm8220917</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bouffard</name>
+    <role>Bansfield Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2559050</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Lévesque</name>
+    <role>City Official</role>
+    <type>Actor</type>
+    <tmdbid>1920002</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Wendt</name>
+    <role>Blacksmith</role>
+    <type>Actor</type>
+    <tmdbid>1786859</tmdbid>
+  </actor>
+  <actor>
+    <name>J.J. Wright</name>
+    <role>Talk Show Host</role>
+    <type>Actor</type>
+    <tmdbid>592903</tmdbid>
+  </actor>
+  <actor>
+    <name>Janelle Feigley</name>
+    <role>Photographer / Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1453753</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Strauss</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>1652384</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Sage</name>
+    <role>Church Attendee</role>
+    <type>Actor</type>
+    <tmdbid>2312306</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Athanassiou</name>
+    <role>Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>3042675</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Jane Doyon</name>
+    <role>Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>2584124</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen O'Neil Martin</name>
+    <role>Atheism Man</role>
+    <type>Actor</type>
+    <tmdbid>1881873</tmdbid>
+    <imdbid>nm1493534</imdbid>
+  </actor>
+  <actor>
+    <name>Nate Luis Silva</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3042642</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian M. Mompoint</name>
+    <role>Camera Crew (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1702790</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Neves</name>
+    <role>Church Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2906777</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Dylan Hunt</name>
+    <role>Pub Local (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1765798</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison LaPlante</name>
+    <role>Teenage Girl</role>
+    <type>Actor</type>
+    <tmdbid>3042666</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Estiloz</name>
+    <role>Correspondent #1</role>
+    <type>Actor</type>
+    <tmdbid>2501153</tmdbid>
+  </actor>
+  <director tmdbid="80675">Evan Spiliotopoulos</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NmQiJPLYzPI</trailer>
+  <rating>5.1</rating>
+  <year>2021</year>
+  <sorttitle>Ruega por nosotros</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9419056</imdbid>
+  <tmdbid>632357</tmdbid>
+  <premiered>2021-03-31</premiered>
+  <releasedate>2021-03-31</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>99</runtime>
+  <tagline>Ten cuidado con a quién rezas.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Ghost House Pictures</studio>
+  <studio>Screen Gems</studio>
+  <studio>Sony Pictures</studio>
+  <studio>Chapman/Leonard Studio Equipment</studio>
+  <uniqueid type="imdb">tt9419056</uniqueid>
+  <uniqueid type="tmdb">632357</uniqueid>
+  <id>tt9419056</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1121190</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5963</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Bill O'Neal infiltrates the Black Panther Party per FBI Agent Mitchell and J. Edgar Hoover. As Party Chairman Fred Hampton ascends, falling for a fellow revolutionary en route, a battle wages for O'Neal's soul.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-15 08:59:02</dateadded>
+  <title>Judas and the Black Messiah</title>
+  <originaltitle>Judas and the Black Messiah</originaltitle>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Lakeith Stanfield</name>
+    <type>Actor</type>
+    <tmdbid>1200864</tmdbid>
+    <imdbid>nm3147751</imdbid>
+    <tvdbid>292503</tvdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+    <tvdbid>325974</tvdbid>
+  </actor>
+  <actor>
+    <name>Dominique Fishback</name>
+    <type>Actor</type>
+    <tmdbid>1676520</tmdbid>
+    <imdbid>nm6195774</imdbid>
+    <tvdbid>510884</tvdbid>
+  </actor>
+  <director tmdbid="1140231" imdbid="nm3489851">Shaka King</director>
+  <writer>Will Berson (story by)</writer>
+  <writer>Shaka King (story by)</writer>
+  <writer>Kenneth Lucas (story by)</writer>
+  <writer>Keith Lucas (story by)</writer>
+  <writer>Will Berson (screenplay by)</writer>
+  <writer>Shaka King (screenplay by)</writer>
+  <credits>Will Berson (story by)</credits>
+  <credits>Shaka King (story by)</credits>
+  <credits>Kenneth Lucas (story by)</credits>
+  <credits>Keith Lucas (story by)</credits>
+  <credits>Will Berson (screenplay by)</credits>
+  <credits>Shaka King (screenplay by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sSjtGqRXQ9Y</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6ivHf4ODMi4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ABET4kgzMM8</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <sorttitle>Judas and the Black Messiah</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9784798</imdbid>
+  <tmdbid>583406</tmdbid>
+  <premiered>2021-02-12</premiered>
+  <releasedate>2021-02-12</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>125</runtime>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <studio>MACRO</studio>
+  <studio>Bron Studios</studio>
+  <studio>Participant Media</studio>
+  <studio>Proximity Media</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="imdb">tt9784798</uniqueid>
+  <uniqueid type="tmdb">583406</uniqueid>
+  <id>tt9784798</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>889230</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7525</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

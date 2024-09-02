@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack.]]></plot>
+  <outline><![CDATA[Rebelde por naturaleza.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-19 10:41:42</dateadded>
+  <title>Outside the Wire</title>
+  <originaltitle>Outside the Wire</originaltitle>
+  <actor>
+    <name>Anthony Mackie</name>
+    <type>Actor</type>
+    <tmdbid>53650</tmdbid>
+    <imdbid>nm1107001</imdbid>
+    <tvdbid>311164</tvdbid>
+  </actor>
+  <actor>
+    <name>Damson Idris</name>
+    <type>Actor</type>
+    <tmdbid>1837297</tmdbid>
+    <imdbid>nm5072010</imdbid>
+    <tvdbid>625908</tvdbid>
+  </actor>
+  <actor>
+    <name>Enzo Cilenti</name>
+    <type>Actor</type>
+    <tmdbid>91494</tmdbid>
+    <imdbid>nm0162281</imdbid>
+    <tvdbid>329679</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Beecham</name>
+    <type>Actor</type>
+    <tmdbid>130414</tmdbid>
+    <imdbid>nm2387806</imdbid>
+    <tvdbid>501727</tvdbid>
+  </actor>
+  <director tmdbid="29605" imdbid="nm0405632">Mikael Håfström</director>
+  <writer>Rob Yescombe (screenplay by)</writer>
+  <writer>Rowan Athale (screenplay by)</writer>
+  <writer>Rob Yescombe (story by)</writer>
+  <credits>Rob Yescombe (screenplay by)</credits>
+  <credits>Rowan Athale (screenplay by)</credits>
+  <credits>Rob Yescombe (story by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iwYhA5YvdNc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u8ZsUivELbs</trailer>
+  <rating>5.4</rating>
+  <year>2021</year>
+  <sorttitle>Outside the Wire</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10451914</imdbid>
+  <tmdbid>775996</tmdbid>
+  <premiered>2021-01-15</premiered>
+  <releasedate>2021-01-15</releasedate>
+  <criticrating>36</criticrating>
+  <runtime>116</runtime>
+  <tagline>Rebelde por naturaleza.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Fantasy</genre>
+  <genre>Sci-Fi</genre>
+  <studio>Inspire Entertainment</studio>
+  <studio>Automatik Entertainment</studio>
+  <studio>Pioneer Stilking Films</studio>
+  <studio>Leeding Media</studio>
+  <uniqueid type="imdb">tt10451914</uniqueid>
+  <uniqueid type="tmdb">775996</uniqueid>
+  <id>tt10451914</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>599959</bitrate>
+        <width>858</width>
+        <height>482</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6952</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95213</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

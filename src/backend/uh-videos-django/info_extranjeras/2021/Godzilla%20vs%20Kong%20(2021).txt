@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.]]></plot>
+  <outline><![CDATA[Uno de los dos caerá.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-05 08:38:35</dateadded>
+  <title>Godzilla vs. Kong</title>
+  <originaltitle>Godzilla vs. Kong</originaltitle>
+  <actor>
+    <name>Alexander Skarsgård</name>
+    <type>Actor</type>
+    <tmdbid>28846</tmdbid>
+    <imdbid>nm0002907</imdbid>
+    <tvdbid>331154</tvdbid>
+  </actor>
+  <actor>
+    <name>Millie Bobby Brown</name>
+    <type>Actor</type>
+    <tmdbid>1356210</tmdbid>
+    <imdbid>nm5611121</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Hall</name>
+    <type>Actor</type>
+    <tmdbid>15556</tmdbid>
+    <imdbid>nm0356017</imdbid>
+    <tvdbid>360718</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+    <tvdbid>311251</tvdbid>
+  </actor>
+  <director tmdbid="98631" imdbid="nm1417392">Adam Wingard</director>
+  <writer>Terry Rossio (story by)</writer>
+  <writer>Michael Dougherty (story by)</writer>
+  <writer>Zach Shields (story by)</writer>
+  <writer>Eric Pearson (screenplay by)</writer>
+  <writer>Max Borenstein (screenplay by)</writer>
+  <credits>Terry Rossio (story by)</credits>
+  <credits>Michael Dougherty (story by)</credits>
+  <credits>Zach Shields (story by)</credits>
+  <credits>Eric Pearson (screenplay by)</credits>
+  <credits>Max Borenstein (screenplay by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LDehnM-awkQ</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>Godzilla vs. Kong</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5034838</imdbid>
+  <tmdbid>399566</tmdbid>
+  <premiered>2021-03-24</premiered>
+  <releasedate>2021-03-24</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>113</runtime>
+  <tagline>Uno de los dos caerá.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Legendary Pictures</studio>
+  <set tmdbcolid="535313">
+    <name>Godzilla - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt5034838</uniqueid>
+  <uniqueid type="tmdb">399566</uniqueid>
+  <id>tt5034838</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>984103</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6789</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>535313</collectionnumber>
+</movie>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Hispavia, una aerolínea low cost de poca monta, se encuentra en graves dificultades. Ni sus números cuadran, ni sus aviones vuelan. En un intento desesperado por salvar la compañía, deciden contratar simultáneamente a un prestigioso consultor de aerolíneas y a un experto mecánico en paro. Los dos se llaman Javier García. La casualidad y la desorganización de la empresa harán que sean confundidos e intercambien sus papeles, y mientras el mecánico es atendido por el dueño de la compañía y alojado en hoteles de lujo, el ejecutivo acaba en el hangar, enfundado en un mono grasiento. Perplejos y sin saber qué está sucediendo, ambos se van enfrentando a los cometidos del otro, hasta que los dos Javier García se encuentran y descubren el error.]]></plot>
+  <outline><![CDATA[Una Película de Ana Murugarren]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 09:43:04</dateadded>
+  <title>García y García</title>
+  <originaltitle>García y García</originaltitle>
+  <actor>
+    <name>José Mota</name>
+    <role>Javier García</role>
+    <type>Actor</type>
+    <tmdbid>19854</tmdbid>
+    <imdbid>nm1239566</imdbid>
+  </actor>
+  <actor>
+    <name>Pepe Viyuela</name>
+    <role>Javier García</role>
+    <type>Actor</type>
+    <tmdbid>25220</tmdbid>
+    <imdbid>nm0900402</imdbid>
+    <tvdbid>292042</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Ugarte</name>
+    <type>Actor</type>
+    <tmdbid>1155088</tmdbid>
+    <imdbid>nm3993669</imdbid>
+  </actor>
+  <actor>
+    <name>Jordi Sánchez</name>
+    <type>Actor</type>
+    <tmdbid>560254</tmdbid>
+    <imdbid>nm0844983</imdbid>
+    <tvdbid>7948991</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Areces</name>
+    <type>Actor</type>
+    <tmdbid>114461</tmdbid>
+    <imdbid>nm1693112</imdbid>
+    <tvdbid>294451</tvdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Castella</name>
+    <type>Actor</type>
+    <tmdbid>1456421</tmdbid>
+    <imdbid>nm1997490</imdbid>
+  </actor>
+  <actor>
+    <name>Jesús Vidal</name>
+    <type>Actor</type>
+    <tmdbid>2138505</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Martita de Graná</name>
+    <type>Actor</type>
+    <tmdbid>3158126</tmdbid>
+  </actor>
+  <director tmdbid="1341326">Ana Murugarren</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h_qaqdkaS0Y</trailer>
+  <rating>4.3</rating>
+  <year>2021</year>
+  <sorttitle>Garcia y Garcia</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt11613746</imdbid>
+  <tmdbid>774456</tmdbid>
+  <premiered>2021-08-27</premiered>
+  <releasedate>2021-08-27</releasedate>
+  <runtime>99</runtime>
+  <tagline>Una Película de Ana Murugarren</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Blogmedia</studio>
+  <set tmdbcolid="1170357">
+    <name>Colección García y García</name>
+  </set>
+  <uniqueid type="imdb">tt11613746</uniqueid>
+  <uniqueid type="tmdb">774456</uniqueid>
+  <id>tt11613746</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1089115</bitrate>
+        <width>1704</width>
+        <height>720</height>
+        <aspect>71:30</aspect>
+        <aspectratio>71:30</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5924</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64358</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Madison es una mujer que tiene unas macabras pesadillas que la dejan completamente paralizada. Aterrada por lo que ve en ellas, Madison no consigue dormir por las noches ni vivir por el día. Pero el terror cada vez se irá apoderando de ella cuando descubra que esas pesadillas no son sueños, sino que son hechos de la vida real.]]></plot>
+  <outline><![CDATA[Una nueva visión del terror.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-10 07:40:52</dateadded>
+  <title>Maligno</title>
+  <originaltitle>Malignant</originaltitle>
+  <actor>
+    <name>Annabelle Wallis</name>
+    <role>Madison Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>82809</tmdbid>
+    <imdbid>nm1834115</imdbid>
+  </actor>
+  <actor>
+    <name>Maddie Hasson</name>
+    <role>Sydney Lake</role>
+    <type>Actor</type>
+    <tmdbid>593202</tmdbid>
+  </actor>
+  <actor>
+    <name>George Young</name>
+    <role>Detective Kekoa Shaw</role>
+    <type>Actor</type>
+    <tmdbid>1622199</tmdbid>
+  </actor>
+  <actor>
+    <name>Michole Briana White</name>
+    <role>Detective Regina Moss</role>
+    <type>Actor</type>
+    <tmdbid>536271</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Louisa Kelly</name>
+    <role>Jane Doe</role>
+    <type>Actor</type>
+    <tmdbid>26495</tmdbid>
+  </actor>
+  <actor>
+    <name>Susanna Thompson</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>62547</tmdbid>
+    <imdbid>nm0860749</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Abel</name>
+    <role>Derek Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>105727</tmdbid>
+    <imdbid>nm1831976</imdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline McKenzie</name>
+    <role>Dr. Florence Weaver</role>
+    <type>Actor</type>
+    <tmdbid>28744</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Clemenson</name>
+    <role>Dr. Victor Fields</role>
+    <type>Actor</type>
+    <tmdbid>41517</tmdbid>
+    <imdbid>nm0166061</imdbid>
+  </actor>
+  <actor>
+    <name>Amir Aboulela</name>
+    <role>Dr. Gregory</role>
+    <type>Actor</type>
+    <tmdbid>154608</tmdbid>
+  </actor>
+  <actor>
+    <name>Mercedes Colón</name>
+    <role>Mendez</role>
+    <type>Actor</type>
+    <tmdbid>144975</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Bisu</name>
+    <role>Winnie</role>
+    <type>Actor</type>
+    <tmdbid>117656</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruben Pla</name>
+    <role>Officer Rubin</role>
+    <type>Actor</type>
+    <tmdbid>1186714</tmdbid>
+    <imdbid>nm0006604</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Lee Brody</name>
+    <role>Officer Lee</role>
+    <type>Actor</type>
+    <tmdbid>1161711</tmdbid>
+    <imdbid>nm2657185</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Marshall</name>
+    <role>Beverly Woods</role>
+    <type>Actor</type>
+    <tmdbid>59449</tmdbid>
+    <imdbid>nm0005191</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Bell</name>
+    <role>Scorpion</role>
+    <type>Actor</type>
+    <tmdbid>20494</tmdbid>
+    <imdbid>nm1057928</imdbid>
+  </actor>
+  <actor>
+    <name>Shaunte Lynette Johnson</name>
+    <role>Beta</role>
+    <type>Actor</type>
+    <tmdbid>3306676</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Nurse Annie</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Mendez</name>
+    <role>Hospital Security Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>73409</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Haynie</name>
+    <role>Hospital Security Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1463671</tmdbid>
+  </actor>
+  <actor>
+    <name>Cord Walker</name>
+    <role>Hospital Security Guard #3</role>
+    <type>Actor</type>
+    <tmdbid>2147622</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesus Trujillo</name>
+    <role>Research Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3423616</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Catara</name>
+    <role>Research Orderly</role>
+    <type>Actor</type>
+    <tmdbid>1865504</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Nottingham</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>3423613</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Chase</name>
+    <role>Gabriel (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1656863</tmdbid>
+    <imdbid>nm2616557</imdbid>
+  </actor>
+  <actor>
+    <name>Marina Mazepa</name>
+    <role>Gabriel</role>
+    <type>Actor</type>
+    <tmdbid>2551945</tmdbid>
+  </actor>
+  <actor>
+    <name>Mckenna Grace</name>
+    <role>Young Madison</role>
+    <type>Actor</type>
+    <tmdbid>1172108</tmdbid>
+    <imdbid>nm5085683</imdbid>
+    <tvdbid>346975</tvdbid>
+  </actor>
+  <actor>
+    <name>Madison Wolfe</name>
+    <role>Young Serena</role>
+    <type>Actor</type>
+    <tmdbid>1330999</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Bean</name>
+    <role>Frank</role>
+    <type>Actor</type>
+    <tmdbid>1330888</tmdbid>
+    <imdbid>nm2811167</imdbid>
+    <tvdbid>657452</tvdbid>
+  </actor>
+  <actor>
+    <name>Patricia Velásquez</name>
+    <role>Nurse Velasquez</role>
+    <type>Actor</type>
+    <tmdbid>18920</tmdbid>
+    <imdbid>nm0892383</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Cox</name>
+    <role>Mr. Stanley (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1301187</tmdbid>
+    <imdbid>nm2614826</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Garcia</name>
+    <role>Seattle Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2902801</tmdbid>
+  </actor>
+  <actor>
+    <name>Emir García</name>
+    <role>Mustang Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3423609</tmdbid>
+  </actor>
+  <actor>
+    <name>Renee Harbek</name>
+    <role>Caroline (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3166067</tmdbid>
+  </actor>
+  <actor>
+    <name>Janet Hsieh</name>
+    <role>Nurse J. De Marco (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2221363</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Mabon</name>
+    <role>Orderly (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1143952</tmdbid>
+    <imdbid>nm3379735</imdbid>
+  </actor>
+  <actor>
+    <name>Gino Montesinos</name>
+    <role>Seattle Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>98401</tmdbid>
+    <imdbid>nm0599639</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Rutgers</name>
+    <role>Referee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3423608</tmdbid>
+  </actor>
+  <actor>
+    <name>Halston Van Atta</name>
+    <role>Child Madison (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3237444</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Van Veenendaal</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3237445</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalina Vanska</name>
+    <role>Seattle Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2541004</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Veronica</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>103856</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Winfree</name>
+    <role>Mrs. Ryerson (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>155983</tmdbid>
+    <imdbid>nm0934910</imdbid>
+  </actor>
+  <director tmdbid="2127" imdbid="nm1490123">James Wan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MaarPZzuq_M</trailer>
+  <rating>6.2</rating>
+  <year>2021</year>
+  <sorttitle>Maligno</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt3811906</imdbid>
+  <tmdbid>619778</tmdbid>
+  <premiered>2021-09-01</premiered>
+  <releasedate>2021-09-01</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>112</runtime>
+  <tagline>Una nueva visión del terror.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Starlight International Media</studio>
+  <studio>Midas Innovation</studio>
+  <studio>Atomic Monster</studio>
+  <studio>BOOM! Studios</studio>
+  <uniqueid type="imdb">tt3811906</uniqueid>
+  <uniqueid type="tmdb">619778</uniqueid>
+  <id>tt3811906</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>999073</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6693</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

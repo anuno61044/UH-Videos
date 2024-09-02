@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[On a lonely road, a prison transport is brutally assaulted. Martin, the policeman who was driving, survives and fortifies his position while the con men search for a way to finish him.]]></plot>
+  <outline><![CDATA[Escapar no es la salida.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-01 08:14:20</dateadded>
+  <title>Below Zero</title>
+  <originaltitle>Bajocero</originaltitle>
+  <actor>
+    <name>Javier Gutiérrez</name>
+    <type>Actor</type>
+    <tmdbid>19024</tmdbid>
+    <imdbid>nm0349522</imdbid>
+    <tvdbid>472102</tvdbid>
+  </actor>
+  <actor>
+    <name>Karra Elejalde</name>
+    <type>Actor</type>
+    <tmdbid>24977</tmdbid>
+    <imdbid>nm0253216</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Callejo</name>
+    <type>Actor</type>
+    <tmdbid>15598</tmdbid>
+    <imdbid>nm0130429</imdbid>
+    <tvdbid>473689</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrés Gertrúdix</name>
+    <type>Actor</type>
+    <tmdbid>51905</tmdbid>
+    <imdbid>nm0314980</imdbid>
+    <tvdbid>616015</tvdbid>
+  </actor>
+  <director tmdbid="1346215" imdbid="nm1589515">Lluís Quílez</director>
+  <writer>Fernando Navarro</writer>
+  <writer tmdbid="1346215" imdbid="nm1589515">Lluís Quílez</writer>
+  <credits>Fernando Navarro</credits>
+  <credits tmdbid="1346215" imdbid="nm1589515">Lluís Quílez</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l_kJcVT6lw4</trailer>
+  <rating>6.2</rating>
+  <year>2021</year>
+  <sorttitle>Below Zero</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9845564</imdbid>
+  <tmdbid>587996</tmdbid>
+  <premiered>2021-01-29</premiered>
+  <releasedate>2021-01-29</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>107</runtime>
+  <tagline>Escapar no es la salida.</tagline>
+  <country>Spain</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Morena Films</studio>
+  <studio>Amorós Producciones</studio>
+  <studio>ICEC</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt9845564</uniqueid>
+  <uniqueid type="tmdb">587996</uniqueid>
+  <id>tt9845564</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>871780</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6396</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>251503</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

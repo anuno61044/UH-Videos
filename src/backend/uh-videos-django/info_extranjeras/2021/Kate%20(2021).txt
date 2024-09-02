@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras ser envenenada sin remedio, una implacable criminal tiene menos de 24 horas para vengarse de sus enemigos y, durante el proceso, se forma un vínculo inesperado con la hija de una de sus víctimas anteriores.]]></plot>
+  <outline><![CDATA[No hay tiempo para la piedad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-10 07:41:20</dateadded>
+  <title>Kate</title>
+  <originaltitle>Kate</originaltitle>
+  <actor>
+    <name>Mary Elizabeth Winstead</name>
+    <role>Kate</role>
+    <type>Actor</type>
+    <tmdbid>17628</tmdbid>
+    <imdbid>nm0935541</imdbid>
+    <tvdbid>368637</tvdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Varrick</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Tadanobu Asano</name>
+    <role>Renji</role>
+    <type>Actor</type>
+    <tmdbid>13275</tmdbid>
+    <imdbid>nm0038355</imdbid>
+  </actor>
+  <actor>
+    <name>Miku Martineau</name>
+    <role>Ani</role>
+    <type>Actor</type>
+    <tmdbid>2417570</tmdbid>
+  </actor>
+  <actor>
+    <name>Jun Kunimura</name>
+    <role>Kijima</role>
+    <type>Actor</type>
+    <tmdbid>2541</tmdbid>
+    <imdbid>nm0475165</imdbid>
+  </actor>
+  <actor>
+    <name>Miyavi</name>
+    <role>Jojima</role>
+    <type>Actor</type>
+    <tmdbid>1391420</tmdbid>
+    <imdbid>nm2032193</imdbid>
+  </actor>
+  <actor>
+    <name>Michiel Huisman</name>
+    <role>Stephen</role>
+    <type>Actor</type>
+    <tmdbid>91520</tmdbid>
+    <imdbid>nm0401264</imdbid>
+    <tvdbid>247876</tvdbid>
+  </actor>
+  <actor>
+    <name>Mari Yamamoto</name>
+    <role>Kanako</role>
+    <type>Actor</type>
+    <tmdbid>2210389</tmdbid>
+  </actor>
+  <actor>
+    <name>Hirotaka Renge</name>
+    <role>Specialist</role>
+    <type>Actor</type>
+    <tmdbid>3176961</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazuya Tanabe</name>
+    <role>Shinzo</role>
+    <type>Actor</type>
+    <tmdbid>1736757</tmdbid>
+  </actor>
+  <actor>
+    <name>Cindy Sirinya Bishop</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>3231328</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia Crouch</name>
+    <role>Teen Kate</role>
+    <type>Actor</type>
+    <tmdbid>1538417</tmdbid>
+    <imdbid>nm6076321</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Caryofyllis</name>
+    <role>Child Kate</role>
+    <type>Actor</type>
+    <tmdbid>2272457</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Brooke Allen</name>
+    <role>Young Kate</role>
+    <type>Actor</type>
+    <tmdbid>1494163</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Kobayashi</name>
+    <role>Old Wakagashira</role>
+    <type>Actor</type>
+    <tmdbid>3298767</tmdbid>
+  </actor>
+  <actor>
+    <name>Koji Nishiyama</name>
+    <role>Sato</role>
+    <type>Actor</type>
+    <tmdbid>3298768</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazuhiro Muroyama</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>141988</tmdbid>
+  </actor>
+  <actor>
+    <name>Shinji Uchiyama</name>
+    <role>Young Yakuza</role>
+    <type>Actor</type>
+    <tmdbid>1605917</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Bishop</name>
+    <role>Kentaro</role>
+    <type>Actor</type>
+    <tmdbid>94392</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimio Yamada</name>
+    <role>Driver Yakuza</role>
+    <type>Actor</type>
+    <tmdbid>3231334</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryo Tanaka</name>
+    <role>Passenger Yakuza</role>
+    <type>Actor</type>
+    <tmdbid>3057763</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanazumi</name>
+    <role>Hospital Worker</role>
+    <type>Actor</type>
+    <tmdbid>3231336</tmdbid>
+  </actor>
+  <actor>
+    <name>Masahiro Kanemaru</name>
+    <role>Hospital Worker #2</role>
+    <type>Actor</type>
+    <tmdbid>3231338</tmdbid>
+  </actor>
+  <actor>
+    <name>Takuya Sano</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>3231339</tmdbid>
+  </actor>
+  <actor>
+    <name>Nobu Watanabe</name>
+    <role>Policeman with Detective</role>
+    <type>Actor</type>
+    <tmdbid>3231340</tmdbid>
+  </actor>
+  <actor>
+    <name>Genki Yamasaki</name>
+    <role>Excited Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3231341</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Newall</name>
+    <role>Security Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>1193191</tmdbid>
+  </actor>
+  <actor>
+    <name>Apparekoizumi</name>
+    <role>Doorman</role>
+    <type>Actor</type>
+    <tmdbid>3231342</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Guiliano</name>
+    <role>Restaurant Heavy</role>
+    <type>Actor</type>
+    <tmdbid>3231343</tmdbid>
+  </actor>
+  <actor>
+    <name>So Nozawa</name>
+    <role>Lead Guard</role>
+    <type>Actor</type>
+    <tmdbid>2805250</tmdbid>
+  </actor>
+  <actor>
+    <name>Takayuki Yamamoto</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3298773</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Macdonald</name>
+    <role>Tech</role>
+    <type>Actor</type>
+    <tmdbid>3298774</tmdbid>
+  </actor>
+  <actor>
+    <name>Eoin O'Brien</name>
+    <role>Firm Operative</role>
+    <type>Actor</type>
+    <tmdbid>1602210</tmdbid>
+  </actor>
+  <actor>
+    <name>Saiki Atsumi</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>2056730</tmdbid>
+  </actor>
+  <actor>
+    <name>Miku Kobato</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>2056731</tmdbid>
+  </actor>
+  <actor>
+    <name>Kanami Tōno</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>2056734</tmdbid>
+  </actor>
+  <actor>
+    <name>Misa</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>2056735</tmdbid>
+  </actor>
+  <actor>
+    <name>Elysia Rotaru</name>
+    <role>Headset Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>90720</tmdbid>
+    <imdbid>nm3011272</imdbid>
+  </actor>
+  <actor>
+    <name>Darin Fujimori</name>
+    <role>Yakuza Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>1463667</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwang Bin</name>
+    <role>Yakuza Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>3298776</tmdbid>
+  </actor>
+  <actor>
+    <name>Bando Hirohichiro</name>
+    <role>Lead Performer</role>
+    <type>Actor</type>
+    <tmdbid>3231344</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryuyo Kawamoto</name>
+    <role>Assassin</role>
+    <type>Actor</type>
+    <tmdbid>3231346</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryotaro Fujiyama</name>
+    <role>Assassin</role>
+    <type>Actor</type>
+    <tmdbid>3231347</tmdbid>
+  </actor>
+  <actor>
+    <name>Katsuyoshi Kojima</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>3298778</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuya Shirakawa</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>3298779</tmdbid>
+  </actor>
+  <actor>
+    <name>Mav Kang</name>
+    <role>Security Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2675992</tmdbid>
+  </actor>
+  <actor>
+    <name>Ulf Pilblad</name>
+    <role>Wedding Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1912145</tmdbid>
+  </actor>
+  <actor>
+    <name>Akihiko Sai</name>
+    <role>Bulky Yakuza (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>906318</tmdbid>
+  </actor>
+  <director tmdbid="1454884">Cedric Nicolas-Troyan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xfyH_gWlhFQ</trailer>
+  <rating>6.2</rating>
+  <year>2021</year>
+  <sorttitle>Kate</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7737528</imdbid>
+  <tmdbid>597891</tmdbid>
+  <premiered>2021-09-10</premiered>
+  <releasedate>2021-09-10</releasedate>
+  <criticrating>45</criticrating>
+  <runtime>106</runtime>
+  <tagline>No hay tiempo para la piedad.</tagline>
+  <country>Japan</country>
+  <country>Thailand</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <studio>Clubhouse Pictures</studio>
+  <studio>87North Productions</studio>
+  <uniqueid type="imdb">tt7737528</uniqueid>
+  <uniqueid type="tmdb">597891</uniqueid>
+  <id>tt7737528</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1049220</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6379</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[James Bond se encuentra disfrutando de unas merecidas vacaciones en Jamaica. Sin embargo, su paz termina cuando su amigo de la CIA, Felix Leiter, lo busca para una nueva misión que implica rescatar a un importante científico que ha sido secuestrado.]]></plot>
+  <outline><![CDATA[Comienza la misión que lo cambia todo...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-09 07:52:52</dateadded>
+  <title>Sin tiempo para morir</title>
+  <originaltitle>No Time to Die</originaltitle>
+  <actor>
+    <name>Daniel Craig</name>
+    <role>James Bond</role>
+    <type>Actor</type>
+    <tmdbid>8784</tmdbid>
+    <imdbid>nm0185819</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>Dr. Madeleine Swann</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>Rami Malek</name>
+    <role>Lyutsifer Safin</role>
+    <type>Actor</type>
+    <tmdbid>17838</tmdbid>
+    <imdbid>nm1785339</imdbid>
+    <tvdbid>328078</tvdbid>
+  </actor>
+  <actor>
+    <name>Lashana Lynch</name>
+    <role>Nomi</role>
+    <type>Actor</type>
+    <tmdbid>1360281</tmdbid>
+    <imdbid>nm2736476</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Fiennes</name>
+    <role>M</role>
+    <type>Actor</type>
+    <tmdbid>5469</tmdbid>
+    <imdbid>nm0000146</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Whishaw</name>
+    <role>Q</role>
+    <type>Actor</type>
+    <tmdbid>17064</tmdbid>
+    <imdbid>nm0924210</imdbid>
+  </actor>
+  <actor>
+    <name>Naomie Harris</name>
+    <role>Eve Moneypenny</role>
+    <type>Actor</type>
+    <tmdbid>2038</tmdbid>
+    <imdbid>nm0365140</imdbid>
+    <tvdbid>258413</tvdbid>
+  </actor>
+  <actor>
+    <name>Rory Kinnear</name>
+    <role>Bill Tanner</role>
+    <type>Actor</type>
+    <tmdbid>139549</tmdbid>
+    <imdbid>nm1239499</imdbid>
+    <tvdbid>307989</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Felix Leiter</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+    <tvdbid>273450</tvdbid>
+  </actor>
+  <actor>
+    <name>Billy Magnussen</name>
+    <role>Logan Ash</role>
+    <type>Actor</type>
+    <tmdbid>141034</tmdbid>
+    <imdbid>nm2915105</imdbid>
+    <tvdbid>346849</tvdbid>
+  </actor>
+  <actor>
+    <name>Christoph Waltz</name>
+    <role>Ernst Stavro Blofeld</role>
+    <type>Actor</type>
+    <tmdbid>27319</tmdbid>
+    <imdbid>nm0910607</imdbid>
+    <tvdbid>327559</tvdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Valdo Obruchev</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Ana de Armas</name>
+    <role>Paloma</role>
+    <type>Actor</type>
+    <tmdbid>224513</tmdbid>
+    <imdbid>nm1869101</imdbid>
+  </actor>
+  <actor>
+    <name>Dali Benssalah</name>
+    <role>Primo (Cyclops)</role>
+    <type>Actor</type>
+    <tmdbid>1940747</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa-Dorah Sonnet</name>
+    <role>Mathilde</role>
+    <type>Actor</type>
+    <tmdbid>3226897</tmdbid>
+  </actor>
+  <actor>
+    <name>Coline Defaud</name>
+    <role>Young Madeleine</role>
+    <type>Actor</type>
+    <tmdbid>3258488</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathilde Bourbin</name>
+    <role>Madeleine's Mother</role>
+    <type>Actor</type>
+    <tmdbid>2612315</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugh Dennis</name>
+    <role>Dr. Hardy</role>
+    <type>Actor</type>
+    <tmdbid>151344</tmdbid>
+    <imdbid>nm0219465</imdbid>
+  </actor>
+  <actor>
+    <name>Priyanga Burford</name>
+    <role>Dr. Symes</role>
+    <type>Actor</type>
+    <tmdbid>62968</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Grossi</name>
+    <role>Hotel Porter</role>
+    <type>Actor</type>
+    <tmdbid>1935874</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Olivieri</name>
+    <role>Cemetery Caretaker</role>
+    <type>Actor</type>
+    <tmdbid>3257949</tmdbid>
+  </actor>
+  <actor>
+    <name>Pio Amato</name>
+    <role>Cemetery Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1456989</tmdbid>
+  </actor>
+  <actor>
+    <name>Javone Prince</name>
+    <role>MI6 Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1333631</tmdbid>
+    <imdbid>nm1574883</imdbid>
+  </actor>
+  <actor>
+    <name>Davina Moon</name>
+    <role>Madeleine's Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2641101</tmdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Millar</name>
+    <role>Vogel</role>
+    <type>Actor</type>
+    <tmdbid>1093974</tmdbid>
+    <imdbid>nm2692312</imdbid>
+  </actor>
+  <actor>
+    <name>Eliot Sumner</name>
+    <role>Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>3258492</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Herne</name>
+    <role>Spectre Guest</role>
+    <type>Actor</type>
+    <tmdbid>2063504</tmdbid>
+  </actor>
+  <actor>
+    <name>Lourdes Faberes</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>1297438</tmdbid>
+    <tvdbid>481177</tvdbid>
+  </actor>
+  <actor>
+    <name>Gordon Alexander</name>
+    <role>Lab Technician</role>
+    <type>Actor</type>
+    <tmdbid>563560</tmdbid>
+    <imdbid>nm1259756</imdbid>
+  </actor>
+  <actor>
+    <name>Andrei Nova</name>
+    <role>Bunker Guard</role>
+    <type>Actor</type>
+    <tmdbid>1654741</tmdbid>
+  </actor>
+  <actor>
+    <name>Gediminas Adomaitis</name>
+    <role>Blofeld's Right Hand Man</role>
+    <type>Actor</type>
+    <tmdbid>1129783</tmdbid>
+    <tvdbid>9097512</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Morgan</name>
+    <role>Alison Smith</role>
+    <type>Actor</type>
+    <tmdbid>1639205</tmdbid>
+  </actor>
+  <actor>
+    <name>Lizzie Winkler</name>
+    <role>Sarah Jones</role>
+    <type>Actor</type>
+    <tmdbid>1186242</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Cheung</name>
+    <role>Chinese Businessman</role>
+    <type>Actor</type>
+    <tmdbid>1599251</tmdbid>
+    <imdbid>nm3338257</imdbid>
+  </actor>
+  <actor>
+    <name>Hayden Phillips</name>
+    <role>Sir Sebastian D'ath</role>
+    <type>Actor</type>
+    <tmdbid>1089522</tmdbid>
+    <imdbid>nm3863575</imdbid>
+  </actor>
+  <actor>
+    <name>Rae Lim</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>1988194</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Barnett</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>2341042</tmdbid>
+    <imdbid>nm2737377</imdbid>
+  </actor>
+  <actor>
+    <name>Tuncay Gunes</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>2704670</tmdbid>
+  </actor>
+  <actor>
+    <name>Clem So</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>1394361</tmdbid>
+    <imdbid>nm6680316</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Khoroshko</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>1347131</tmdbid>
+    <imdbid>nm3079422</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Philmar</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>1518112</tmdbid>
+    <imdbid>nm0680920</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Waring</name>
+    <role>Spectre Agent</role>
+    <type>Actor</type>
+    <tmdbid>584994</tmdbid>
+    <imdbid>nm0912264</imdbid>
+  </actor>
+  <actor>
+    <name>Rod Hunt</name>
+    <role>Spectre Guard</role>
+    <type>Actor</type>
+    <tmdbid>234919</tmdbid>
+    <imdbid>nm3081528</imdbid>
+  </actor>
+  <actor>
+    <name>Ahmed Bakare</name>
+    <role>Spectre VIP Guest</role>
+    <type>Actor</type>
+    <tmdbid>2433114</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Bunn</name>
+    <role>Spectre Member</role>
+    <type>Actor</type>
+    <tmdbid>2544500</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Sauerback</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1363058</tmdbid>
+    <imdbid>nm10020970</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Ferro</name>
+    <role>MI6 Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1416734</tmdbid>
+    <imdbid>nm2842369</imdbid>
+  </actor>
+  <actor>
+    <name>David Olawale Ayinde</name>
+    <role>Spectre Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1504807</tmdbid>
+    <imdbid>nm6454657</imdbid>
+  </actor>
+  <actor>
+    <name>Zoltan Rencsar</name>
+    <role>Spectre Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>2807164</tmdbid>
+  </actor>
+  <actor>
+    <name>Ross Donnelly</name>
+    <role>Hotel Guest</role>
+    <type>Actor</type>
+    <tmdbid>3144894</tmdbid>
+  </actor>
+  <actor>
+    <name>John Farrer</name>
+    <role>Card Player</role>
+    <type>Actor</type>
+    <tmdbid>93752</tmdbid>
+    <imdbid>nm2403319</imdbid>
+  </actor>
+  <actor>
+    <name>Paul O'Kelly</name>
+    <role>Safin Henchman</role>
+    <type>Actor</type>
+    <tmdbid>1841458</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael G. Wilson</name>
+    <role>Spectre Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>69678</tmdbid>
+    <imdbid>nm0933865</imdbid>
+  </actor>
+  <director tmdbid="87257" imdbid="nm1560977">Cary Joji Fukunaga</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HsQDZAKTqF4</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <sorttitle>Sin tiempo para morir</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2382320</imdbid>
+  <tmdbid>370172</tmdbid>
+  <premiered>2021-09-29</premiered>
+  <releasedate>2021-09-29</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>163</runtime>
+  <tagline>Comienza la misión que lo cambia todo...</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Eon Productions</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>United Artists</studio>
+  <studio>Universal Pictures</studio>
+  <set tmdbcolid="645">
+    <name>James Bond - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt2382320</uniqueid>
+  <uniqueid type="tmdb">370172</uniqueid>
+  <id>tt2382320</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>768223</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>163</duration>
+        <durationinseconds>9803</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
