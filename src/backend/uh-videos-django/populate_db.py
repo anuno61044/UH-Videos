@@ -20,7 +20,7 @@ HIGH_SCORE_RANGE = (4, 5)  # Rango de puntuaciones altas
 LOW_SCORE_RANGE = (1, 3)  # Rango de puntuaciones bajas
 RATING_VARIATION = [-1, 0, 1]  # Variación de calificación en grupos similares
 
-def populate(num_users=30, num_ratings=3000):
+def populate(num_users=30, num_ratings=1000):
     """
     Pobla la base de datos con usuarios, películas y calificaciones para ejemplificar
     los casos cubiertos por el filtrado colaborativo y basado en contenido.
@@ -58,7 +58,7 @@ def populate(num_users=30, num_ratings=3000):
 
     movies = []
     # Cargar información de las películas
-    years = ['2024', '2023', '2022', '2021', '2020']
+    years = ['2024', '2021', '2020']
     for year in years:
         for archivo in os.listdir(f'./info_extranjeras/{year}'):
             if archivo.endswith('.txt'):
