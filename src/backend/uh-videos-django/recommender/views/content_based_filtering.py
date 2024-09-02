@@ -1,18 +1,21 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from .models import Movie, Rating
+from ..models import Movie, Rating
 import numpy as np
 
 def content_based_filtering(user_id):
     """
     Realiza un filtrado basado en contenido para recomendar películas a un usuario específico.
 
+    Este método utiliza características de las películas (género, director, año de lanzamiento) para calcular
+    la similitud entre las películas y el perfil de preferencias del usuario.
+
     Parámetros:
     - user_id (int): El ID del usuario para el cual se generarán las recomendaciones.
 
     Retorna:
     - content_scores (np.ndarray): Un array con las calificaciones basadas en contenido para el usuario especificado.
-    - trace (dict): Un diccionario que contiene las características y calificaciones basadas en contenido.
+    - trace (dict): Un diccionario que contiene las características de las películas, el perfil del usuario, y las calificaciones basadas en contenido.
     """
     movies = Movie.objects.all()
 

@@ -1,4 +1,4 @@
-from .models import User, Movie, Rating
+from ..models import User, Movie, Rating
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
@@ -11,7 +11,7 @@ def collaborative_filtering(user_id):
 
     Retorna:
     - normalized_ratings (np.ndarray): Un array con las calificaciones ponderadas normalizadas de películas para el usuario especificado.
-    - trace (dict): Un diccionario que contiene las puntuaciones de similitud del usuario y las calificaciones ponderadas.
+    - trace (dict): Un diccionario que contiene las puntuaciones de similitud del usuario, las calificaciones ponderadas, y la matriz de calificaciones de usuario-película.
     """
     # Obtener todas las calificaciones, usuarios y películas desde la base de datos
     ratings = Rating.objects.all()

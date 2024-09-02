@@ -1,12 +1,12 @@
-from .models import Rating, User
+from ..models import Rating, User
 
 def generate_explanation(trace, recommended_movie_idx, movies, user_id, collaborative_scores, content_scores):
     """
     Genera una explicación en lenguaje natural sobre por qué se recomendó una película,
-    destacando el enfoque predominante (colaborativo o basado en contenido).
+    destacando el enfoque predominante (colaborativo o basado en contenido) o una combinación de ambos.
 
     Parámetros:
-    - trace (dict): Un diccionario que contiene las trazas de ambos enfoques.
+    - trace (dict): Un diccionario que contiene las trazas de ambos enfoques (colaborativo y basado en contenido).
     - recommended_movie_idx (int): El índice de la película recomendada.
     - movies (QuerySet): El conjunto de películas disponibles.
     - user_id (int): El ID del usuario para el cual se genera la explicación.
@@ -52,9 +52,10 @@ def collaborative_explanation(trace, user_id, recommended_movie_idx):
     Parámetros:
     - trace (dict): Un diccionario que contiene las puntuaciones de similitud del usuario y las calificaciones ponderadas.
     - user_id (int): El ID del usuario para el cual se genera la explicación.
+    - recommended_movie_idx (int): El índice de la película recomendada.
 
     Retorna:
-    - str: Una explicación en lenguaje natural sobre por qué se recomienda una película.
+    - int: El número de usuarios similares que calificaron positivamente la película recomendada.
     """
     # Obtener los IDs de los usuarios y sus correspondientes similitudes
     user_similarity_scores = trace['collaborative_filtering']['user_similarity_scores']
@@ -83,7 +84,7 @@ def content_based_explanation(trace, recommended_movie_idx, movies, user_id):
     - user_id (int): El ID del usuario para el cual se genera la explicación.
 
     Retorna:
-    - str: Una explicación en lenguaje natural sobre por qué se recomienda una película.
+    - tuple: Un par que contiene una lista de títulos de películas similares y un conjunto de características comunes.
     """
     seen_movies = Rating.objects.filter(user_id=user_id).values_list('movie__title', flat=True)
     similar_movies = []

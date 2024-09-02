@@ -2,7 +2,7 @@ import random
 from .content_based_filtering import content_based_filtering
 from .generate_explanation import generate_explanation
 from .collaborative_filtering import collaborative_filtering
-from .models import Movie, Rating
+from ..models import Movie, Rating
 
 def get_recommendations(user_id):
     """
