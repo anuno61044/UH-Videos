@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A holiday romantic comedy that captures the range of emotions tied to wanting your family's acceptance, being true to yourself, and trying not to ruin Christmas.]]></plot>
+  <outline><![CDATA[Estas navidades, los secretos de todos salen a la luz.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-30 08:44:59</dateadded>
+  <title>Happiest Season</title>
+  <originaltitle>Happiest Season</originaltitle>
+  <actor>
+    <name>Kristen Stewart</name>
+    <type>Actor</type>
+    <tmdbid>37917</tmdbid>
+    <imdbid>nm0829576</imdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Davis</name>
+    <type>Actor</type>
+    <tmdbid>1110405</tmdbid>
+    <imdbid>nm4496875</imdbid>
+    <tvdbid>473013</tvdbid>
+  </actor>
+  <actor>
+    <name>Mary Steenburgen</name>
+    <type>Actor</type>
+    <tmdbid>2453</tmdbid>
+    <imdbid>nm0005460</imdbid>
+    <tvdbid>338251</tvdbid>
+  </actor>
+  <actor>
+    <name>Victor Garber</name>
+    <type>Actor</type>
+    <tmdbid>8536</tmdbid>
+    <imdbid>nm0001255</imdbid>
+    <tvdbid>280196</tvdbid>
+  </actor>
+  <director tmdbid="20387" imdbid="nm0245112" tvdbid="252209">Clea DuVall</director>
+  <writer>Clea DuVall (story by)</writer>
+  <writer>Clea DuVall (screenplay by)</writer>
+  <writer>Mary Holland (screenplay by)</writer>
+  <credits>Clea DuVall (story by)</credits>
+  <credits>Clea DuVall (screenplay by)</credits>
+  <credits>Mary Holland (screenplay by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6P4rOvfAI-0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=axWhxFOHeF8</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>Happiest Season</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8522006</imdbid>
+  <tmdbid>520172</tmdbid>
+  <premiered>2020-11-26</premiered>
+  <releasedate>2020-11-26</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>102</runtime>
+  <tagline>Estas navidades, los secretos de todos salen a la luz.</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Temple Hill Entertainment</studio>
+  <uniqueid type="imdb">tt8522006</uniqueid>
+  <uniqueid type="tmdb">520172</uniqueid>
+  <id>tt8522006</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1094527</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6112</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

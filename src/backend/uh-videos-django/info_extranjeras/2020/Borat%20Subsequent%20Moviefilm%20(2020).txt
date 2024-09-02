@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Borat returns from Kazakhstan to America and this time he reveals more about the American culture, the COVID-19 pandemic and the political elections.]]></plot>
+  <outline><![CDATA[Entrega de un soborno prodigioso al régimen americano para beneficio de la gloriosa nación de Kazajistán]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-23 08:32:25</dateadded>
+  <title>Borat Subsequent Moviefilm</title>
+  <originaltitle>Borat Subsequent Moviefilm</originaltitle>
+  <actor>
+    <name>Sacha Baron Cohen</name>
+    <type>Actor</type>
+    <tmdbid>6730</tmdbid>
+    <imdbid>nm0056187</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Bakalova</name>
+    <type>Actor</type>
+    <tmdbid>2408703</tmdbid>
+    <imdbid>nm7210025</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hanks</name>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Dani Popescu</name>
+    <type>Actor</type>
+    <tmdbid>1903451</tmdbid>
+    <imdbid>nm2483965</imdbid>
+  </actor>
+  <director tmdbid="147113" imdbid="nm0938471">Jason Woliner</director>
+  <writer>Sacha Baron Cohen (screenplay by)</writer>
+  <writer>Anthony Hines (screenplay by)</writer>
+  <writer>Dan Swimer (screenplay by)</writer>
+  <writer>Peter Baynham (screenplay by)</writer>
+  <writer>Erica Rivinoja (screenplay by)</writer>
+  <writer>Dan Mazer (screenplay by)</writer>
+  <writer>Jena Friedman (screenplay by)</writer>
+  <writer>Lee Kern (screenplay by)</writer>
+  <writer>Sacha Baron Cohen (story by)</writer>
+  <writer>Anthony Hines (story by)</writer>
+  <writer>Dan Swimer (story by)</writer>
+  <writer>Nina Pedrad (story by)</writer>
+  <writer>Sacha Baron Cohen (based on character created by)</writer>
+  <credits>Sacha Baron Cohen (screenplay by)</credits>
+  <credits>Anthony Hines (screenplay by)</credits>
+  <credits>Dan Swimer (screenplay by)</credits>
+  <credits>Peter Baynham (screenplay by)</credits>
+  <credits>Erica Rivinoja (screenplay by)</credits>
+  <credits>Dan Mazer (screenplay by)</credits>
+  <credits>Jena Friedman (screenplay by)</credits>
+  <credits>Lee Kern (screenplay by)</credits>
+  <credits>Sacha Baron Cohen (story by)</credits>
+  <credits>Anthony Hines (story by)</credits>
+  <credits>Dan Swimer (story by)</credits>
+  <credits>Nina Pedrad (story by)</credits>
+  <credits>Sacha Baron Cohen (based on character created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NHCSWD33qMs</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>Borat Subsequent Moviefilm</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13143964</imdbid>
+  <tmdbid>740985</tmdbid>
+  <premiered>2020-10-23</premiered>
+  <releasedate>2020-10-23</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>96</runtime>
+  <tagline>Entrega de un soborno prodigioso al régimen americano para beneficio de la gloriosa nación de Kazajistán</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <studio>Amazon Studios</studio>
+  <studio>Four by Two Films</studio>
+  <studio>Oak Springs Productions</studio>
+  <set tmdbcolid="747168">
+    <name>Borat - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt13143964</uniqueid>
+  <uniqueid type="tmdb">740985</uniqueid>
+  <id>tt13143964</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100275</bitrate>
+        <width>720</width>
+        <height>400</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5764</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>747168</collectionnumber>
+</movie>

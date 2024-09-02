@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.]]></plot>
+  <outline><![CDATA[Llévala a casa y arriésgate.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-04 09:56:28</dateadded>
+  <title>Promising Young Woman</title>
+  <originaltitle>Promising Young Woman</originaltitle>
+  <actor>
+    <name>Adam Brody</name>
+    <type>Actor</type>
+    <tmdbid>11702</tmdbid>
+    <imdbid>nm0111013</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Nicholson</name>
+    <type>Actor</type>
+    <tmdbid>60960</tmdbid>
+    <imdbid>nm2200658</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Richardson</name>
+    <type>Actor</type>
+    <tmdbid>1429453</tmdbid>
+    <imdbid>nm3931538</imdbid>
+    <tvdbid>308191</tvdbid>
+  </actor>
+  <actor>
+    <name>Carey Mulligan</name>
+    <type>Actor</type>
+    <tmdbid>36662</tmdbid>
+    <imdbid>nm1659547</imdbid>
+  </actor>
+  <director tmdbid="1252934" imdbid="nm2193504" tvdbid="506587">Emerald Fennell</director>
+  <writer tmdbid="1252934" imdbid="nm2193504" tvdbid="506587">Emerald Fennell</writer>
+  <credits tmdbid="1252934" imdbid="nm2193504" tvdbid="506587">Emerald Fennell</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sTeT2QCcY2g</trailer>
+  <rating>7.5</rating>
+  <year>2020</year>
+  <sorttitle>Promising Young Woman</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9620292</imdbid>
+  <tmdbid>582014</tmdbid>
+  <premiered>2020-12-13</premiered>
+  <releasedate>2020-12-13</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>113</runtime>
+  <tagline>Llévala a casa y arriésgate.</tagline>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>LuckyChap Entertainment</studio>
+  <studio>FilmNation Entertainment</studio>
+  <uniqueid type="imdb">tt9620292</uniqueid>
+  <uniqueid type="tmdb">582014</uniqueid>
+  <id>tt9620292</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1687412</bitrate>
+        <width>720</width>
+        <height>306</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>29.98441</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6752</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

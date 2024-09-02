@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la costa de Italia, una superviviente del Holocausto que regenta un centro de día (Sophia Loren), acoge a un chico senegalés musulmán que le robó y vive en la calle.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-16 08:37:39</dateadded>
+  <title>La vida por delante</title>
+  <originaltitle>La vita davanti a sé</originaltitle>
+  <actor>
+    <name>Sophia Loren</name>
+    <role>Madame Rosa</role>
+    <type>Actor</type>
+    <tmdbid>16757</tmdbid>
+    <imdbid>nm0000047</imdbid>
+  </actor>
+  <actor>
+    <name>Ibrahima Gueye</name>
+    <role>Momo</role>
+    <type>Actor</type>
+    <tmdbid>2523671</tmdbid>
+  </actor>
+  <actor>
+    <name>Renato Carpentieri</name>
+    <role>Dr. Coen</role>
+    <type>Actor</type>
+    <tmdbid>35104</tmdbid>
+    <imdbid>nm0139528</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Iosif Pirvu</name>
+    <role>Iosif</role>
+    <type>Actor</type>
+    <tmdbid>2823937</tmdbid>
+  </actor>
+  <actor>
+    <name>Massimiliano Rossi</name>
+    <role>Ruspa</role>
+    <type>Actor</type>
+    <tmdbid>1668746</tmdbid>
+    <imdbid>nm1022934</imdbid>
+  </actor>
+  <actor>
+    <name>Abril Zamora</name>
+    <role>Lola</role>
+    <type>Actor</type>
+    <tmdbid>1922369</tmdbid>
+  </actor>
+  <actor>
+    <name>Babak Karimi</name>
+    <role>Mr. Hamil</role>
+    <type>Actor</type>
+    <tmdbid>41525</tmdbid>
+    <imdbid>nm0439307</imdbid>
+  </actor>
+  <actor>
+    <name>Malich Cissé</name>
+    <role>Nala</role>
+    <type>Actor</type>
+    <tmdbid>2650273</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Surico</name>
+    <role>Babu</role>
+    <type>Actor</type>
+    <tmdbid>2856761</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Valenzano</name>
+    <role>Molinari</role>
+    <type>Actor</type>
+    <tmdbid>1913203</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Cassano</name>
+    <role>Carabiniere</role>
+    <type>Actor</type>
+    <tmdbid>1689061</tmdbid>
+  </actor>
+  <director tmdbid="588887" imdbid="nm0690642">Edoardo Ponti</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a0ejncDxgCc</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>vida por delante</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10627584</imdbid>
+  <tmdbid>667869</tmdbid>
+  <premiered>2020-11-03</premiered>
+  <releasedate>2020-11-03</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>95</runtime>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Palomar</studio>
+  <studio>Artemis Rising</studio>
+  <uniqueid type="imdb">tt10627584</uniqueid>
+  <uniqueid type="tmdb">667869</uniqueid>
+  <id>tt10627584</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2346953</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>640:267</aspect>
+        <aspectratio>640:267</aspectratio>
+        <framerate>24.000004</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5702</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>233511</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

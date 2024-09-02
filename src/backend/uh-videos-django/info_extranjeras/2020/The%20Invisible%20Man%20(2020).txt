@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.]]></plot>
+  <outline><![CDATA[Lo que no puedes ver puede hacerte daño.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-23 09:00:11</dateadded>
+  <title>The Invisible Man</title>
+  <originaltitle>The Invisible Man</originaltitle>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+    <imdbid>nm0005253</imdbid>
+    <tvdbid>311051</tvdbid>
+  </actor>
+  <actor>
+    <name>Oliver Jackson-Cohen</name>
+    <type>Actor</type>
+    <tmdbid>551020</tmdbid>
+    <imdbid>nm2719825</imdbid>
+    <tvdbid>489339</tvdbid>
+  </actor>
+  <actor>
+    <name>Harriet Dyer</name>
+    <type>Actor</type>
+    <tmdbid>1539693</tmdbid>
+    <imdbid>nm2976830</imdbid>
+  </actor>
+  <actor>
+    <name>Aldis Hodge</name>
+    <type>Actor</type>
+    <tmdbid>83860</tmdbid>
+    <imdbid>nm0388038</imdbid>
+    <tvdbid>252469</tvdbid>
+  </actor>
+  <director tmdbid="2128" imdbid="nm1191481">Leigh Whannell</director>
+  <writer>Leigh Whannell (screenplay by)</writer>
+  <writer>Leigh Whannell (screen story by)</writer>
+  <credits>Leigh Whannell (screenplay by)</credits>
+  <credits>Leigh Whannell (screen story by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kokuKg2aq94</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Aeyoz3kLt_c</trailer>
+  <rating>7.1</rating>
+  <year>2020</year>
+  <sorttitle>Invisible Man</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1051906</imdbid>
+  <tmdbid>570670</tmdbid>
+  <premiered>2020-02-26</premiered>
+  <releasedate>2020-02-26</releasedate>
+  <runtime>124</runtime>
+  <tagline>Lo que no puedes ver puede hacerte daño.</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Blumhouse Productions</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Goalpost Pictures</studio>
+  <studio>Nervous Tick</studio>
+  <studio>Screen Australia</studio>
+  <studio>Government of Australia</studio>
+  <studio>The New South Wales Government</studio>
+  <uniqueid type="imdb">tt1051906</uniqueid>
+  <uniqueid type="tmdb">570670</uniqueid>
+  <id>tt1051906</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>895974</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7462</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1930's Hollywood is reevaluated through the eyes of scathing social critic and alcoholic screenwriter Herman J. Mankiewicz as he races to finish the screenplay of Citizen Kane (1941).]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-07 08:56:59</dateadded>
+  <title>Mank</title>
+  <originaltitle>Mank</originaltitle>
+  <actor>
+    <name>Gary Oldman</name>
+    <type>Actor</type>
+    <tmdbid>64</tmdbid>
+    <imdbid>nm0000198</imdbid>
+    <tvdbid>327268</tvdbid>
+  </actor>
+  <actor>
+    <name>Amanda Seyfried</name>
+    <type>Actor</type>
+    <tmdbid>71070</tmdbid>
+    <imdbid>nm1086543</imdbid>
+    <tvdbid>311100</tvdbid>
+  </actor>
+  <actor>
+    <name>Lily Collins</name>
+    <type>Actor</type>
+    <tmdbid>112561</tmdbid>
+    <imdbid>nm2934314</imdbid>
+    <tvdbid>473038</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Pelphrey</name>
+    <type>Actor</type>
+    <tmdbid>207442</tmdbid>
+    <imdbid>nm1670601</imdbid>
+    <tvdbid>394944</tvdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <writer>Jack Fincher (screen play by)</writer>
+  <credits>Jack Fincher (screen play by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7f9AVKxrM9Q</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>Mank</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10618286</imdbid>
+  <tmdbid>614560</tmdbid>
+  <premiered>2020-11-13</premiered>
+  <releasedate>2020-11-13</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>133</runtime>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Netflix International Pictures</studio>
+  <uniqueid type="imdb">tt10618286</uniqueid>
+  <uniqueid type="tmdb">614560</uniqueid>
+  <id>tt10618286</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>839875</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7962</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

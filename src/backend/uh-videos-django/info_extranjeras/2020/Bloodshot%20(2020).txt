@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ray Garrison, a slain soldier, is re-animated with superpowers.]]></plot>
+  <outline><![CDATA[Los superhéroes se han actualizado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:12:36</dateadded>
+  <title>Bloodshot</title>
+  <originaltitle>Bloodshot</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+    <tvdbid>310526</tvdbid>
+  </actor>
+  <actor>
+    <name>Eiza González</name>
+    <type>Actor</type>
+    <tmdbid>1222992</tmdbid>
+    <imdbid>nm2555462</imdbid>
+    <tvdbid>632711</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Heughan</name>
+    <type>Actor</type>
+    <tmdbid>209326</tmdbid>
+    <imdbid>nm1537825</imdbid>
+    <tvdbid>331158</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Kebbell</name>
+    <type>Actor</type>
+    <tmdbid>20286</tmdbid>
+    <imdbid>nm1527905</imdbid>
+  </actor>
+  <director tmdbid="1773871" imdbid="nm1702145">Dave Wilson</director>
+  <writer>Jeff Wadlow (screenplay)</writer>
+  <writer>Eric Heisserer (screenplay)</writer>
+  <writer>Jeff Wadlow (story)</writer>
+  <writer>Kevin VanHook (Valiant comic book)</writer>
+  <writer>Don Perlin (Valiant comic book)</writer>
+  <writer>Bob Layton (Valiant comic book)</writer>
+  <credits>Jeff Wadlow (screenplay)</credits>
+  <credits>Eric Heisserer (screenplay)</credits>
+  <credits>Jeff Wadlow (story)</credits>
+  <credits>Kevin VanHook (Valiant comic book)</credits>
+  <credits>Don Perlin (Valiant comic book)</credits>
+  <credits>Bob Layton (Valiant comic book)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5nOea-_3iKI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VdzT7eJzFeE</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <sorttitle>Bloodshot</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1634106</imdbid>
+  <tmdbid>338762</tmdbid>
+  <premiered>2020-03-05</premiered>
+  <releasedate>2020-03-05</releasedate>
+  <criticrating>30</criticrating>
+  <runtime>110</runtime>
+  <tagline>Los superhéroes se han actualizado.</tagline>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <studio>Sony Pictures</studio>
+  <studio>Cross Creek Pictures</studio>
+  <studio>Mimran Schur Pictures</studio>
+  <studio>Original Film</studio>
+  <studio>The Hideaway Entertainment</studio>
+  <studio>Valiant Entertainment</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>One Race</studio>
+  <studio>Bona Film Group</studio>
+  <set tmdbcolid="763760">
+    <name>Bloodshot - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt1634106</uniqueid>
+  <uniqueid type="tmdb">338762</uniqueid>
+  <id>tt1634106</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1017660</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>320:133</aspect>
+        <aspectratio>320:133</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6570</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>763760</collectionnumber>
+</movie>

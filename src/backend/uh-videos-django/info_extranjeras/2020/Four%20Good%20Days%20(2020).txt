@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Diez años de consumo de opioides han dejado en ruinas la vida de Molly. Una nueva medicina podría darle alas para comenzar de nuevo si es capaz de mantenerse limpia durante cuatro días, algo que trata de lograr con la ayuda de su madre Deb, una mujer de ideas férreas. El amor que ambas se profesan se verá puesto a prueba como nunca antes en sus vidas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-24 10:56:45</dateadded>
+  <title>Cuatro días más</title>
+  <originaltitle>Four Good Days</originaltitle>
+  <actor>
+    <name>Mila Kunis</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>18973</tmdbid>
+    <imdbid>nm0005109</imdbid>
+  </actor>
+  <actor>
+    <name>Glenn Close</name>
+    <role>Deb</role>
+    <type>Actor</type>
+    <tmdbid>515</tmdbid>
+    <imdbid>nm0000335</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Root</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>17401</tmdbid>
+    <imdbid>nm0740535</imdbid>
+    <tvdbid>248228</tvdbid>
+  </actor>
+  <actor>
+    <name>Joshua Leonard</name>
+    <role>Sean</role>
+    <type>Actor</type>
+    <tmdbid>26852</tmdbid>
+    <imdbid>nm0502671</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Field</name>
+    <role>Coach Miller</role>
+    <type>Actor</type>
+    <tmdbid>1214576</tmdbid>
+    <imdbid>nm2093400</imdbid>
+  </actor>
+  <actor>
+    <name>Chad Lindberg</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>9186</tmdbid>
+    <imdbid>nm0511349</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Hyatt</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>61084</tmdbid>
+    <imdbid>nm0404924</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Hennings</name>
+    <role>Dale</role>
+    <type>Actor</type>
+    <tmdbid>164630</tmdbid>
+    <imdbid>nm0377462</imdbid>
+  </actor>
+  <actor>
+    <name>Mandy June Turpin</name>
+    <role>Dale's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>167290</tmdbid>
+  </actor>
+  <actor>
+    <name>Violet Brinson</name>
+    <role>Sammy</role>
+    <type>Actor</type>
+    <tmdbid>2116445</tmdbid>
+    <imdbid>nm7404133</imdbid>
+    <tvdbid>501471</tvdbid>
+  </actor>
+  <actor>
+    <name>Gloria Garayua</name>
+    <role>Detox Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>52932</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Tilney</name>
+    <role>Spa Client</role>
+    <type>Actor</type>
+    <tmdbid>69503</tmdbid>
+    <imdbid>nm0863473</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Gallo</name>
+    <role>Ashley</role>
+    <type>Actor</type>
+    <tmdbid>54708</tmdbid>
+    <imdbid>nm0303013</imdbid>
+    <tvdbid>275425</tvdbid>
+  </actor>
+  <actor>
+    <name>Gabriela Flores</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1690516</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Lacámara</name>
+    <type>Actor</type>
+    <tmdbid>1212247</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Delgado</name>
+    <role>Dentist</role>
+    <type>Actor</type>
+    <tmdbid>154745</tmdbid>
+  </actor>
+  <director tmdbid="77162" imdbid="nm0006554">Rodrigo García</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uDDCulgiqs4</trailer>
+  <rating>6.5</rating>
+  <year>2021</year>
+  <sorttitle>Cuatro dias mas</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10344522</imdbid>
+  <tmdbid>641960</tmdbid>
+  <premiered>2021-04-30</premiered>
+  <releasedate>2021-04-30</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>101</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Productivity Media</studio>
+  <studio>Vertical Entertainment</studio>
+  <studio>Indigenous Media</studio>
+  <studio>Oakhurst Entertainment</studio>
+  <uniqueid type="imdb">tt10344522</uniqueid>
+  <uniqueid type="tmdb">641960</uniqueid>
+  <id>tt10344522</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1107700</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6032</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A house is cursed by a vengeful ghost that dooms those who enter it with a violent death.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-16 08:24:21</dateadded>
+  <title>The Grudge</title>
+  <originaltitle>The Grudge</originaltitle>
+  <actor>
+    <name>Tara Westwood</name>
+    <type>Actor</type>
+    <tmdbid>181341</tmdbid>
+    <imdbid>nm0923105</imdbid>
+  </actor>
+  <actor>
+    <name>Junko Bailey</name>
+    <type>Actor</type>
+    <tmdbid>2577566</tmdbid>
+  </actor>
+  <actor>
+    <name>David Lawrence Brown</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zoe Fish</name>
+    <type>Actor</type>
+    <tmdbid>1780958</tmdbid>
+  </actor>
+  <director tmdbid="1545927" imdbid="nm2073372">Nicolas Pesce</director>
+  <writer>Nicolas Pesce (screenplay by)</writer>
+  <writer>Nicolas Pesce (story by)</writer>
+  <writer>Jeff Buhler (story by)</writer>
+  <writer>Takashi Shimizu (based on the film "Jo-On: The Grudge" written by)</writer>
+  <credits>Nicolas Pesce (screenplay by)</credits>
+  <credits>Nicolas Pesce (story by)</credits>
+  <credits>Jeff Buhler (story by)</credits>
+  <credits>Takashi Shimizu (based on the film "Jo-On: The Grudge" written by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IrdDG_PDYkE</trailer>
+  <rating>4.4</rating>
+  <year>2020</year>
+  <sorttitle>Grudge</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt3612126</imdbid>
+  <tmdbid>465086</tmdbid>
+  <premiered>2020-01-02</premiered>
+  <releasedate>2020-01-02</releasedate>
+  <criticrating>21</criticrating>
+  <runtime>94</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <studio>Ghost House Pictures</studio>
+  <uniqueid type="imdb">tt3612126</uniqueid>
+  <uniqueid type="tmdb">465086</uniqueid>
+  <id>tt3612126</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1189087</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5623</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

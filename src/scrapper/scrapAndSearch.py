@@ -7,7 +7,26 @@ import re
 
 
 class Principal:
+    """
+    Clase principal para realizar el scraping de películas extranjeras.
 
+    Esta clase encapsula la lógica necesaria para buscar y obtener información 
+    sobre películas extranjeras desde el sitio web especificado.
+
+    Attributes:
+        year (int): El año actual para el cual se está buscando películas.
+        base_url (str): La URL base para acceder a las páginas de películas.
+
+    Methods:
+        run(): Inicia el proceso de scraping.
+        search_files(): Realiza la búsqueda recursiva de archivos en las páginas.
+        search_recursive(url): Recursivamente busca enlaces en la página dada.
+        get_info(url): Obtiene y guarda la información de una película específica.
+
+    Nota:
+        Esta clase utiliza BeautifulSoup para parsear el contenido HTML y 
+        BeautifulSoup para procesar los resultados.
+    """
     def __init__(self):
         self.year = 2020
         self.base_url = f'https://visuales.uclv.cu/Peliculas/Extranjeras/{self.year}/'

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sergio es un espía chileno. O algo parecido. Al menos, se le ha ofrecido este trabajo después de un casting organizado por el detective Rómulo, un investigador privado que necesita a un topo creíble para infiltrarse en un hogar de retirada. La cliente de Rómulo, una hija de una residente preocupada por el trato que ésta pueda estar recibiendo, sospecha que su madre podría estar siendo maltratada, por lo que le contrata para descubrir qué es exactamente lo que está sucediendo.]]></plot>
+  <outline><![CDATA[Nunca es tarde para convertirse en espía.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-04 09:53:52</dateadded>
+  <title>El agente topo</title>
+  <originaltitle>El agente topo</originaltitle>
+  <actor>
+    <name>Sergio Chamy</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>2896039</tmdbid>
+  </actor>
+  <actor>
+    <name>Rómulo Aitken</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>2952882</tmdbid>
+  </actor>
+  <director tmdbid="1066930" imdbid="nm3073146">Maite Alberdi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5Z1hPH3b5RA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9EhCLah6P-w</trailer>
+  <rating>7.5</rating>
+  <year>2020</year>
+  <sorttitle>agente topo</sorttitle>
+  <imdbid>tt11394298</imdbid>
+  <tmdbid>653756</tmdbid>
+  <premiered>2020-12-11</premiered>
+  <releasedate>2020-12-11</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>90</runtime>
+  <tagline>Nunca es tarde para convertirse en espía.</tagline>
+  <country>Chile</country>
+  <country>Germany</country>
+  <country>Netherlands</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Documental</genre>
+  <studio>Motto Pictures</studio>
+  <studio>Sutor Kolonko</studio>
+  <studio>Volya Films</studio>
+  <studio>Malvalanda</studio>
+  <studio>Gravitas Ventures</studio>
+  <studio>ITVS</studio>
+  <studio>Sundance Institute, The</studio>
+  <studio>Tribeca Film Institute</studio>
+  <uniqueid type="imdb">tt11394298</uniqueid>
+  <uniqueid type="tmdb">653756</uniqueid>
+  <id>tt11394298</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4417471</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5387</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>667</width>
+        <height>1000</height>
+        <aspect>667:1000</aspect>
+        <aspectratio>667:1000</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Marcos' life turns upside down after he loses the same day his girlfriend and his job. Marcos' life turns wild after to meet Raquel.]]></plot>
+  <outline><![CDATA[Los amigos siempre están cuando menos lo necesitas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:49:47</dateadded>
+  <title>Te quiero, imbécil</title>
+  <originaltitle>Te quiero, imbécil</originaltitle>
+  <actor>
+    <name>Quim Gutiérrez</name>
+    <type>Actor</type>
+    <tmdbid>34018</tmdbid>
+    <imdbid>nm1273697</imdbid>
+    <tvdbid>450324</tvdbid>
+  </actor>
+  <actor>
+    <name>Natalia Tena</name>
+    <type>Actor</type>
+    <tmdbid>3300</tmdbid>
+    <imdbid>nm1164730</imdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Bassave</name>
+    <type>Actor</type>
+    <tmdbid>224515</tmdbid>
+    <imdbid>nm2088872</imdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Alterio</name>
+    <type>Actor</type>
+    <tmdbid>27459</tmdbid>
+    <imdbid>nm0022764</imdbid>
+    <tvdbid>503668</tvdbid>
+  </actor>
+  <director tmdbid="133526" imdbid="nm0563760">Laura Mañá</director>
+  <writer>Abraham Sastre</writer>
+  <writer>Iván Bouso</writer>
+  <credits>Abraham Sastre</credits>
+  <credits>Iván Bouso</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ApoZm-VJnpc</trailer>
+  <rating>5.9</rating>
+  <year>2020</year>
+  <sorttitle>Te quiero, imbecil</sorttitle>
+  <imdbid>tt9359344</imdbid>
+  <tmdbid>613096</tmdbid>
+  <premiered>2020-01-24</premiered>
+  <releasedate>2020-01-24</releasedate>
+  <runtime>88</runtime>
+  <tagline>Los amigos siempre están cuando menos lo necesitas.</tagline>
+  <country>Spain</country>
+  <genre>Comedy</genre>
+  <studio>Lastor Media</studio>
+  <studio>Brutal Media</studio>
+  <studio>Minoria Absoluta</studio>
+  <uniqueid type="imdb">tt9359344</uniqueid>
+  <uniqueid type="tmdb">613096</uniqueid>
+  <id>tt9359344</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>357990</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5252</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>97104</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una novata y un detective investigan el asesinato de una chica de diecinueve años. La principal sospechosa es su mejor amiga.]]></plot>
+  <outline><![CDATA[Todos son culpables.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:49:29</dateadded>
+  <title>La corazonada</title>
+  <originaltitle>La corazonada</originaltitle>
+  <actor>
+    <name>Luisana Lopilato</name>
+    <role>Pipa Pelari</role>
+    <type>Actor</type>
+    <tmdbid>1073034</tmdbid>
+    <imdbid>nm0520244</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Furriel</name>
+    <role>Francisco Juánez</role>
+    <type>Actor</type>
+    <tmdbid>1077146</tmdbid>
+    <imdbid>nm0299078</imdbid>
+    <tvdbid>491735</tvdbid>
+  </actor>
+  <actor>
+    <name>Rafael Ferro</name>
+    <role>Fiscal Roger</role>
+    <type>Actor</type>
+    <tmdbid>113627</tmdbid>
+    <imdbid>nm0275002</imdbid>
+  </actor>
+  <actor>
+    <name>Maite Lanata</name>
+    <role>Minerva del Valle</role>
+    <type>Actor</type>
+    <tmdbid>1061040</tmdbid>
+    <imdbid>nm3627828</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Manuel Guilera</name>
+    <role>Fito Lagos</role>
+    <type>Actor</type>
+    <tmdbid>1240537</tmdbid>
+    <imdbid>nm1340446</imdbid>
+  </actor>
+  <actor>
+    <name>Abel Ayala</name>
+    <role>El Zorro</role>
+    <type>Actor</type>
+    <tmdbid>127242</tmdbid>
+    <imdbid>nm1366397</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastián Mogordoy</name>
+    <role>Suboficial Ordoñez</role>
+    <type>Actor</type>
+    <tmdbid>1084678</tmdbid>
+    <imdbid>nm3361869</imdbid>
+  </actor>
+  <actor>
+    <name>Delfina Chaves</name>
+    <role>Gloriana Márquez</role>
+    <type>Actor</type>
+    <tmdbid>1999344</tmdbid>
+  </actor>
+  <actor>
+    <name>Marita Ballesteros</name>
+    <role>Inés Quesada</role>
+    <type>Actor</type>
+    <tmdbid>1149717</tmdbid>
+    <imdbid>nm0050799</imdbid>
+  </actor>
+  <actor>
+    <name>Miriam Odorico</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>1562670</tmdbid>
+  </actor>
+  <actor>
+    <name>Militta Bora</name>
+    <role>Juliana Herrera</role>
+    <type>Actor</type>
+    <tmdbid>2660269</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Hernández</name>
+    <role>Patricio Galván</role>
+    <type>Actor</type>
+    <tmdbid>2660276</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Parada</name>
+    <role>Mauro Solari</role>
+    <type>Actor</type>
+    <tmdbid>2660279</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Figueiras</name>
+    <role>Suboficial Ana</role>
+    <type>Actor</type>
+    <tmdbid>2660282</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomás Wicz</name>
+    <role>Rodrigo Liniers</role>
+    <type>Actor</type>
+    <tmdbid>2166549</tmdbid>
+  </actor>
+  <director tmdbid="1315165" imdbid="nm1210360">Alejandro Montiel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0l5EfR2RkR4</trailer>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <sorttitle>corazonada</sorttitle>
+  <imdbid>tt12282598</imdbid>
+  <tmdbid>620883</tmdbid>
+  <premiered>2020-05-28</premiered>
+  <releasedate>2020-05-28</releasedate>
+  <criticrating>14</criticrating>
+  <runtime>116</runtime>
+  <tagline>Todos son culpables.</tagline>
+  <country>Argentina</country>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <studio>FAM Contenidos</studio>
+  <set>
+    <name>Los Crimenes Del Sur</name>
+  </set>
+  <set tmdbcolid="798289">
+    <name>Crímenes del Sur</name>
+  </set>
+  <uniqueid type="imdb">tt12282598</uniqueid>
+  <uniqueid type="tmdb">620883</uniqueid>
+  <id>tt12282598</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1125865</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6983</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95940</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>798289</collectionnumber>
+</movie>

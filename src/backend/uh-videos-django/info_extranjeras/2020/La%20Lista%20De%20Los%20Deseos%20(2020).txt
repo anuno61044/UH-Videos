@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Two women with breast cancer plus a friend make a bucket list with all the things they always wanted to do but they never did.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-26 08:45:58</dateadded>
+  <title>La lista de los deseos</title>
+  <originaltitle>La lista de los deseos</originaltitle>
+  <actor>
+    <name>María León</name>
+    <type>Actor</type>
+    <tmdbid>587931</tmdbid>
+    <imdbid>nm2725254</imdbid>
+    <tvdbid>448255</tvdbid>
+  </actor>
+  <actor>
+    <name>Victoria Abril</name>
+    <type>Actor</type>
+    <tmdbid>25256</tmdbid>
+    <imdbid>nm0000721</imdbid>
+    <tvdbid>7925656</tvdbid>
+  </actor>
+  <actor>
+    <name>Silvia Alonso</name>
+    <type>Actor</type>
+    <tmdbid>588183</tmdbid>
+    <imdbid>nm4001535</imdbid>
+    <tvdbid>561998</tvdbid>
+  </actor>
+  <actor>
+    <name>Boré Buika</name>
+    <type>Actor</type>
+    <tmdbid>1682625</tmdbid>
+  </actor>
+  <director tmdbid="1681183">Álvaro Díaz Lorenzo</director>
+  <writer tmdbid="1681183">Álvaro Díaz Lorenzo</writer>
+  <credits tmdbid="1681183">Álvaro Díaz Lorenzo</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=42qN4fhuNak</trailer>
+  <rating>5.9</rating>
+  <year>2020</year>
+  <sorttitle>lista de los deseos</sorttitle>
+  <imdbid>tt9660666</imdbid>
+  <tmdbid>650728</tmdbid>
+  <premiered>2020-07-03</premiered>
+  <releasedate>2020-07-03</releasedate>
+  <runtime>97</runtime>
+  <country>Spain</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Maestranza Films</studio>
+  <uniqueid type="imdb">tt9660666</uniqueid>
+  <uniqueid type="tmdb">650728</uniqueid>
+  <id>tt9660666</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2093232</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5848</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A professional cellist has an encounter with a stranger on the subway which has unexpected and far-reaching ramifications on his life.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-30 10:32:40</dateadded>
+  <title>Nimic</title>
+  <originaltitle>Nimic</originaltitle>
+  <actor>
+    <name>Matt Dillon</name>
+    <type>Actor</type>
+    <tmdbid>2876</tmdbid>
+    <imdbid>nm0000369</imdbid>
+    <tvdbid>271579</tvdbid>
+  </actor>
+  <actor>
+    <name>Daphne Patakia</name>
+    <type>Actor</type>
+    <tmdbid>1527148</tmdbid>
+    <imdbid>nm7346682</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Elle</name>
+    <type>Actor</type>
+    <tmdbid>2381968</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Lee</name>
+    <type>Actor</type>
+    <tmdbid>2300086</tmdbid>
+    <imdbid>nm10607222</imdbid>
+  </actor>
+  <director tmdbid="122423" imdbid="nm0487166">Yorgos Lanthimos</director>
+  <writer tmdbid="136427">Efthymis Filippou</writer>
+  <writer tmdbid="122423" imdbid="nm0487166">Yorgos Lanthimos</writer>
+  <writer>David Kolbusz (based on an idea by)</writer>
+  <credits tmdbid="136427">Efthymis Filippou</credits>
+  <credits tmdbid="122423" imdbid="nm0487166">Yorgos Lanthimos</credits>
+  <credits>David Kolbusz (based on an idea by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6w5exp1v_R0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZCWNNIcBomM</trailer>
+  <rating>6.6</rating>
+  <year>2019</year>
+  <sorttitle>Nimic</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt10651850</imdbid>
+  <tmdbid>621749</tmdbid>
+  <premiered>2019-08-09</premiered>
+  <releasedate>2019-08-09</releasedate>
+  <runtime>12</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <country>United Kingdom</country>
+  <genre>Short</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>Rekorder Berlin Filmproduktion</studio>
+  <studio>Superprime Films</studio>
+  <studio>Merman London</studio>
+  <uniqueid type="imdb">tt10651850</uniqueid>
+  <uniqueid type="tmdb">621749</uniqueid>
+  <id>tt10651850</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1054247</bitrate>
+        <width>1328</width>
+        <height>720</height>
+        <aspect>805349:434520</aspect>
+        <aspectratio>805349:434520</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>11</duration>
+        <durationinseconds>707</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>245021</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

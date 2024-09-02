@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-11 09:56:36</dateadded>
+  <title>Pieces of a Woman</title>
+  <originaltitle>Pieces of a Woman</originaltitle>
+  <actor>
+    <name>Vanessa Kirby</name>
+    <type>Actor</type>
+    <tmdbid>556356</tmdbid>
+    <imdbid>nm3948952</imdbid>
+    <tvdbid>403805</tvdbid>
+  </actor>
+  <actor>
+    <name>Shia LaBeouf</name>
+    <type>Actor</type>
+    <tmdbid>10959</tmdbid>
+    <imdbid>nm0479471</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Burstyn</name>
+    <type>Actor</type>
+    <tmdbid>9560</tmdbid>
+    <imdbid>nm0000995</imdbid>
+    <tvdbid>265010</tvdbid>
+  </actor>
+  <actor>
+    <name>Iliza Shlesinger</name>
+    <type>Actor</type>
+    <tmdbid>96316</tmdbid>
+    <imdbid>nm2955597</imdbid>
+  </actor>
+  <director tmdbid="56206" imdbid="nm0610960">Kornél Mundruczó</director>
+  <writer>Kata Wéber</writer>
+  <credits>Kata Wéber</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Op8ABRR4dEY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dvZdSmcioLU</trailer>
+  <rating>7</rating>
+  <year>2020</year>
+  <sorttitle>Pieces of a Woman</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11161474</imdbid>
+  <tmdbid>641662</tmdbid>
+  <premiered>2020-12-30</premiered>
+  <releasedate>2020-12-30</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>128</runtime>
+  <country>Canada</country>
+  <country>Hungary</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Bron Studios</studio>
+  <studio>Little Lamb Productions</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Proton Cinema</studio>
+  <studio>Sikelia Productions</studio>
+  <uniqueid type="imdb">tt11161474</uniqueid>
+  <uniqueid type="tmdb">641662</uniqueid>
+  <id>tt11161474</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1213633</bitrate>
+        <width>1280</width>
+        <height>696</height>
+        <aspect>640:347</aspect>
+        <aspectratio>640:347</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7660</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>231867</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

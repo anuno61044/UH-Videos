@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Follows a pious nurse who becomes dangerously obsessed with saving the soul of her dying patient.]]></plot>
+  <outline><![CDATA[Tu salvadora se acerca.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-08 09:26:58</dateadded>
+  <title>Saint Maud</title>
+  <originaltitle>Saint Maud</originaltitle>
+  <actor>
+    <name>Morfydd Clark</name>
+    <type>Actor</type>
+    <tmdbid>1321628</tmdbid>
+    <imdbid>nm6077056</imdbid>
+    <tvdbid>8159283</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Ehle</name>
+    <type>Actor</type>
+    <tmdbid>49971</tmdbid>
+    <imdbid>nm0000383</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Knight</name>
+    <type>Actor</type>
+    <tmdbid>2548051</tmdbid>
+    <imdbid>nm8424509</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Frazer</name>
+    <type>Actor</type>
+    <tmdbid>1803015</tmdbid>
+    <imdbid>nm5965518</imdbid>
+  </actor>
+  <director tmdbid="2219327" imdbid="nm3819217">Rose Glass</director>
+  <writer tmdbid="2219327" imdbid="nm3819217">Rose Glass</writer>
+  <credits tmdbid="2219327" imdbid="nm3819217">Rose Glass</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wg-ch3bwqnY</trailer>
+  <rating>6.7</rating>
+  <year>2019</year>
+  <sorttitle>Saint Maud</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7557108</imdbid>
+  <tmdbid>575776</tmdbid>
+  <premiered>2019-09-08</premiered>
+  <releasedate>2019-09-08</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>84</runtime>
+  <tagline>Tu salvadora se acerca.</tagline>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <studio>Film4 Productions</studio>
+  <studio>BFI Film Fund</studio>
+  <studio>British Film Institute</studio>
+  <studio>Escape Plan Productions</studio>
+  <uniqueid type="imdb">tt7557108</uniqueid>
+  <uniqueid type="tmdb">575776</uniqueid>
+  <id>tt7557108</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1319971</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>239:100</aspect>
+        <aspectratio>239:100</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5063</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

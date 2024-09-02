@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dani, un buen chico que durante los últimos años de su vida se ha dedicado exclusivamente a cuidar de su padre enfermo, decide retomar su vida tras la muerte de éste. Justo cuando ha decidido emprender un largo viaje, conoce a Mila, una chica tan inquietante y sensual como inestable, que convertirá esa noche en una auténtica pesadilla. Las consecuencias de este encuentro llevarán a Dani hasta tal extremo, que se planteará cosas que jamás habría podido imaginar.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-23 14:11:19</dateadded>
+  <title>No matarás</title>
+  <originaltitle>No matarás</originaltitle>
+  <actor>
+    <name>Mario Casas</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>82700</tmdbid>
+    <imdbid>nm1832584</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Larena</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>1500573</tmdbid>
+  </actor>
+  <actor>
+    <name>Milena Smit</name>
+    <role>Mila</role>
+    <type>Actor</type>
+    <tmdbid>2560224</tmdbid>
+    <tvdbid>8813222</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Valdivielso</name>
+    <role>Ray</role>
+    <type>Actor</type>
+    <tmdbid>1367156</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Solé</name>
+    <role>Guardia de seguridad</role>
+    <type>Actor</type>
+    <tmdbid>1434242</tmdbid>
+    <imdbid>nm5079616</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Caserza</name>
+    <role>Compañero de oficina</role>
+    <type>Actor</type>
+    <tmdbid>2560221</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Mula</name>
+    <role>Beni</role>
+    <type>Actor</type>
+    <tmdbid>2719809</tmdbid>
+    <imdbid>nm6287331</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Green</name>
+    <role>Chico de la calle</role>
+    <type>Actor</type>
+    <tmdbid>2560223</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleix Muñoz</name>
+    <role>Chico delgado</role>
+    <type>Actor</type>
+    <tmdbid>2820719</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreu Kreutzer</name>
+    <role>Chico fornido</role>
+    <type>Actor</type>
+    <tmdbid>2452739</tmdbid>
+  </actor>
+  <director tmdbid="1093748" imdbid="nm2536997">David Victori</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UWYoCVdktH0</trailer>
+  <rating>6.2</rating>
+  <year>2020</year>
+  <sorttitle>No mataras</sorttitle>
+  <imdbid>tt4359330</imdbid>
+  <tmdbid>681580</tmdbid>
+  <premiered>2020-10-16</premiered>
+  <releasedate>2020-10-16</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>96</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Castelao Pictures</studio>
+  <studio>Filmax</studio>
+  <studio>Movistar+</studio>
+  <studio>TVE</studio>
+  <studio>TV3</studio>
+  <studio>Onirikal Studio</studio>
+  <uniqueid type="imdb">tt4359330</uniqueid>
+  <uniqueid type="tmdb">681580</uniqueid>
+  <id>tt4359330</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1114863</bitrate>
+        <width>1284</width>
+        <height>720</height>
+        <aspect>239:134</aspect>
+        <aspectratio>239:134</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5751</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>254234</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

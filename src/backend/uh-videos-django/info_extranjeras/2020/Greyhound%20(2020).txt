@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Several months after the U.S. entry into World War II, an inexperienced U.S. Navy commander must lead an Allied convoy being stalked by a German submarine wolf pack.]]></plot>
+  <outline><![CDATA[Lo único más peligroso que las líneas del frente era la lucha para llegar allí.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-13 10:53:49</dateadded>
+  <title>Greyhound</title>
+  <originaltitle>Greyhound</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Shue</name>
+    <type>Actor</type>
+    <tmdbid>1951</tmdbid>
+    <imdbid>nm0000223</imdbid>
+    <tvdbid>300206</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Graham</name>
+    <type>Actor</type>
+    <tmdbid>1115</tmdbid>
+    <imdbid>nm0334318</imdbid>
+    <tvdbid>301984</tvdbid>
+  </actor>
+  <actor>
+    <name>Matt Helm</name>
+    <type>Actor</type>
+    <tmdbid>2684944</tmdbid>
+    <imdbid>nm5090093</imdbid>
+  </actor>
+  <director tmdbid="58292" imdbid="nm0773689">Aaron Schneider</director>
+  <writer>Tom Hanks (screenplay by)</writer>
+  <writer>C.S. Forester (based on the novel "The Good Shepherd" by)</writer>
+  <credits>Tom Hanks (screenplay by)</credits>
+  <credits>C.S. Forester (based on the novel "The Good Shepherd" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C2hzN4_ha_U</trailer>
+  <rating>7</rating>
+  <year>2020</year>
+  <sorttitle>Greyhound</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6048922</imdbid>
+  <tmdbid>516486</tmdbid>
+  <premiered>2020-07-10</premiered>
+  <releasedate>2020-07-10</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>92</runtime>
+  <tagline>Lo único más peligroso que las líneas del frente era la lucha para llegar allí.</tagline>
+  <country>Canada</country>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>War</genre>
+  <studio>Playtone</studio>
+  <studio>Bron Studios</studio>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Sycamore Pictures</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Sony Pictures</studio>
+  <studio>Zhengfu Pictures</studio>
+  <set tmdbcolid="1051005">
+    <name>Greyhound Collection</name>
+  </set>
+  <uniqueid type="imdb">tt6048922</uniqueid>
+  <uniqueid type="tmdb">516486</uniqueid>
+  <id>tt6048922</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1213704</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5502</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

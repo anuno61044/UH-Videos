@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Javier's life turns in a hell twice: not only Marisa announces that she's pregnant, but she calls the most feared people by him to help them.]]></plot>
+  <outline><![CDATA[Una Película de Santiago Segura]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-07 12:13:57</dateadded>
+  <title>Padre no hay más que uno 2: La llegada de la suegra</title>
+  <originaltitle>Padre no hay más que uno 2: La llegada de la suegra</originaltitle>
+  <actor>
+    <name>Santiago Segura</name>
+    <type>Actor</type>
+    <tmdbid>10847</tmdbid>
+    <imdbid>nm0782213</imdbid>
+    <tvdbid>293545</tvdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <actor>
+    <name>Martina Valeria de Antioquía</name>
+    <type>Actor</type>
+  </actor>
+  <director tmdbid="10847" imdbid="nm0782213" tvdbid="293545">Santiago Segura</director>
+  <writer>Marta González de Vega (screenplay by)</writer>
+  <writer>Santiago Segura (screenplay by)</writer>
+  <writer>Marta González de Vega (based on characters created by)</writer>
+  <writer>Santiago Segura (based on characters created by)</writer>
+  <writer>Juan Vera (based on the film "Mamá se fue de viaje" by)</writer>
+  <credits>Marta González de Vega (screenplay by)</credits>
+  <credits>Santiago Segura (screenplay by)</credits>
+  <credits>Marta González de Vega (based on characters created by)</credits>
+  <credits>Santiago Segura (based on characters created by)</credits>
+  <credits>Juan Vera (based on the film "Mamá se fue de viaje" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MIn-Iui3r-E</trailer>
+  <rating>5.6</rating>
+  <year>2020</year>
+  <sorttitle>Padre no hay mas que uno 2: La llegada de la suegra</sorttitle>
+  <imdbid>tt11506284</imdbid>
+  <tmdbid>668742</tmdbid>
+  <premiered>2020-07-29</premiered>
+  <releasedate>2020-07-29</releasedate>
+  <runtime>96</runtime>
+  <tagline>Una Película de Santiago Segura</tagline>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Family</genre>
+  <studio>Atresmedia</studio>
+  <studio>Bowfinger</studio>
+  <studio>Sony Pictures International Productions</studio>
+  <set tmdbcolid="669836">
+    <name>Padre no hay más que uno - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt11506284</uniqueid>
+  <uniqueid type="tmdb">668742</uniqueid>
+  <id>tt11506284</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>2093894</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5786</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>669836</collectionnumber>
+</movie>

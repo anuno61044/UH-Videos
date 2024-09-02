@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Eva, una joven y prometedora abogada española afincada en Edimburgo, ve peligrar sus planes de boda con el heredero de una importante y ultraconservadora familia escocesa cuando se entera de que su abuela, Sofía, ha decidido casarse…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-25 09:13:56</dateadded>
+  <title>Salir del ropero</title>
+  <originaltitle>Salir del ropero</originaltitle>
+  <actor>
+    <name>Rosa María Sardà</name>
+    <role>Celia</role>
+    <type>Actor</type>
+    <tmdbid>962</tmdbid>
+    <imdbid>nm0003030</imdbid>
+  </actor>
+  <actor>
+    <name>Verónica Forqué</name>
+    <role>Sofía</role>
+    <type>Actor</type>
+    <tmdbid>54146</tmdbid>
+    <imdbid>nm0286579</imdbid>
+    <tvdbid>499263</tvdbid>
+  </actor>
+  <actor>
+    <name>Ingrid García-Jonsson</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>1223239</tmdbid>
+    <imdbid>nm4201461</imdbid>
+    <tvdbid>7912323</tvdbid>
+  </actor>
+  <actor>
+    <name>David Verdaguer</name>
+    <role>Jorge</role>
+    <type>Actor</type>
+    <tmdbid>1149067</tmdbid>
+    <imdbid>nm1992631</imdbid>
+    <tvdbid>544886</tvdbid>
+  </actor>
+  <actor>
+    <name>Candela Peña</name>
+    <role>Perla</role>
+    <type>Actor</type>
+    <tmdbid>958</tmdbid>
+    <imdbid>nm0679150</imdbid>
+  </actor>
+  <actor>
+    <name>Mónica López</name>
+    <role>Natasha</role>
+    <type>Actor</type>
+    <tmdbid>67262</tmdbid>
+    <imdbid>nm0530286</imdbid>
+  </actor>
+  <actor>
+    <name>Alex O'Dogherty</name>
+    <role>Bienvenido</role>
+    <type>Actor</type>
+    <tmdbid>1061514</tmdbid>
+    <imdbid>nm0640689</imdbid>
+  </actor>
+  <actor>
+    <name>Pol Monen</name>
+    <role>Saïd</role>
+    <type>Actor</type>
+    <tmdbid>1647098</tmdbid>
+    <imdbid>nm2968673</imdbid>
+    <tvdbid>549645</tvdbid>
+  </actor>
+  <actor>
+    <name>Leander Vyvey</name>
+    <role>Stuart MacDonald</role>
+    <type>Actor</type>
+    <tmdbid>2532676</tmdbid>
+  </actor>
+  <actor>
+    <name>Liz Lobato</name>
+    <role>Camila MacDonald</role>
+    <type>Actor</type>
+    <tmdbid>980972</tmdbid>
+    <imdbid>nm1001314</imdbid>
+  </actor>
+  <actor>
+    <name>María Caballero</name>
+    <role>Salima</role>
+    <type>Actor</type>
+    <tmdbid>2264673</tmdbid>
+    <tvdbid>8687295</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta Martín</name>
+    <role>Susana</role>
+    <type>Actor</type>
+    <tmdbid>1471238</tmdbid>
+    <imdbid>nm2992123</imdbid>
+    <tvdbid>281244</tvdbid>
+  </actor>
+  <director tmdbid="2264674">Ángeles Reiné</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7VdrxiSwUho</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TTd53A91K5M</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xc8dte1zEJY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0FL2R9ukBW8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dXCi8QG6yIU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fpdVq73-Dx0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oeFm1-y63Tk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rzFAA5hkkIk</trailer>
+  <rating>4.4</rating>
+  <year>2020</year>
+  <sorttitle>Salir del ropero</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt9695258</imdbid>
+  <tmdbid>587970</tmdbid>
+  <premiered>2020-09-11</premiered>
+  <releasedate>2020-09-11</releasedate>
+  <criticrating>33</criticrating>
+  <runtime>95</runtime>
+  <country>Spain</country>
+  <country>Portugal</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Yaiza Films</studio>
+  <studio>Airam Films</studio>
+  <studio>Take 2000</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt9695258</uniqueid>
+  <uniqueid type="tmdb">587970</uniqueid>
+  <id>tt9695258</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>456609</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5702</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63817</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In 1989 an ambitious young woman gets a weave in order to succeed in the image-obsessed world of music television. However, her flourishing career may come at a great cost when she realizes that her new hair may have a mind of its own.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-26 08:45:10</dateadded>
+  <title>Bad Hair</title>
+  <originaltitle>Bad Hair</originaltitle>
+  <actor>
+    <name>Zaria Kelley</name>
+    <type>Actor</type>
+    <tmdbid>2748207</tmdbid>
+  </actor>
+  <actor>
+    <name>Corinne Massiah</name>
+    <type>Actor</type>
+    <tmdbid>1483334</tmdbid>
+    <imdbid>nm5043629</imdbid>
+    <tvdbid>517372</tvdbid>
+  </actor>
+  <actor>
+    <name>Elle Lorraine</name>
+    <type>Actor</type>
+    <tmdbid>2475509</tmdbid>
+  </actor>
+  <actor>
+    <name>Moses Storm</name>
+    <type>Actor</type>
+    <tmdbid>1385058</tmdbid>
+    <imdbid>nm3878725</imdbid>
+  </actor>
+  <director tmdbid="1059571" imdbid="nm2798574">Justin Simien</director>
+  <writer tmdbid="1059571" imdbid="nm2798574">Justin Simien</writer>
+  <credits tmdbid="1059571" imdbid="nm2798574">Justin Simien</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oDNFCV3oLY0</trailer>
+  <rating>5.6</rating>
+  <year>2021</year>
+  <sorttitle>Bad Hair</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt4798836</imdbid>
+  <tmdbid>530351</tmdbid>
+  <premiered>2021-05-05</premiered>
+  <releasedate>2021-05-05</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>103</runtime>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <studio>Sight Unseen Pictures</studio>
+  <studio>Culture Machine</studio>
+  <uniqueid type="imdb">tt4798836</uniqueid>
+  <uniqueid type="tmdb">530351</uniqueid>
+  <id>tt4798836</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1086879</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6150</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

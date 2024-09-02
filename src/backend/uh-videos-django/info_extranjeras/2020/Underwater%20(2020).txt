@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A crew of oceanic researchers working for a deep sea drilling company try to get to safety after a mysterious earthquake devastates their deepwater research and drilling facility located at the bottom of the Mariana Trench.]]></plot>
+  <outline><![CDATA[A 7 millas por debajo de la superficie del océano algo ha despertado]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:16:22</dateadded>
+  <title>Underwater</title>
+  <originaltitle>Underwater</originaltitle>
+  <actor>
+    <name>Kristen Stewart</name>
+    <type>Actor</type>
+    <tmdbid>37917</tmdbid>
+    <imdbid>nm0829576</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+    <tvdbid>307583</tvdbid>
+  </actor>
+  <actor>
+    <name>Mamoudou Athie</name>
+    <type>Actor</type>
+    <tmdbid>1639848</tmdbid>
+    <imdbid>nm6974206</imdbid>
+    <tvdbid>622073</tvdbid>
+  </actor>
+  <actor>
+    <name>T. J. Miller</name>
+    <type>Actor</type>
+    <tmdbid>51990</tmdbid>
+    <imdbid>nm2554352</imdbid>
+  </actor>
+  <director tmdbid="125324" imdbid="nm1827931">William Eubank</director>
+  <writer>Brian Duffield (screenplay by)</writer>
+  <writer>Adam Cozad (screenplay by)</writer>
+  <writer>Brian Duffield (story by)</writer>
+  <credits>Brian Duffield (screenplay by)</credits>
+  <credits>Adam Cozad (screenplay by)</credits>
+  <credits>Brian Duffield (story by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TRJBu-bDmGU</trailer>
+  <rating>5.9</rating>
+  <year>2020</year>
+  <sorttitle>Underwater</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5774060</imdbid>
+  <tmdbid>443791</tmdbid>
+  <premiered>2020-01-08</premiered>
+  <releasedate>2020-01-08</releasedate>
+  <criticrating>47</criticrating>
+  <runtime>94</runtime>
+  <tagline>A 7 millas por debajo de la superficie del océano algo ha despertado</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Chernin Entertainment</studio>
+  <studio>20th Century Fox</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt5774060</uniqueid>
+  <uniqueid type="tmdb">443791</uniqueid>
+  <id>tt5774060</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>522705</bitrate>
+        <width>856</width>
+        <height>480</height>
+        <aspect>107:60</aspect>
+        <aspectratio>107:60</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5635</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>500</width>
+        <height>354</height>
+        <aspect>250:177</aspect>
+        <aspectratio>250:177</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

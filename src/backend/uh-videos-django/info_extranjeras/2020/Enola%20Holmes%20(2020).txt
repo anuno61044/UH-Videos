@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When Enola Holmes-Sherlock's teen sister-discovers her mother missing, she sets off to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy around a mysterious young Lord.]]></plot>
+  <outline><![CDATA[Los misterios le vienen de familia.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-28 09:59:06</dateadded>
+  <title>Enola Holmes</title>
+  <originaltitle>Enola Holmes</originaltitle>
+  <actor>
+    <name>Millie Bobby Brown</name>
+    <type>Actor</type>
+    <tmdbid>1356210</tmdbid>
+    <imdbid>nm5611121</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Cavill</name>
+    <type>Actor</type>
+    <tmdbid>73968</tmdbid>
+    <imdbid>nm0147147</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Claflin</name>
+    <type>Actor</type>
+    <tmdbid>237455</tmdbid>
+    <imdbid>nm3510471</imdbid>
+    <tvdbid>465705</tvdbid>
+  </actor>
+  <actor>
+    <name>Helena Bonham Carter</name>
+    <type>Actor</type>
+    <tmdbid>1283</tmdbid>
+    <imdbid>nm0000307</imdbid>
+  </actor>
+  <director tmdbid="173847" imdbid="nm0102873">Harry Bradbeer</director>
+  <writer>Jack Thorne (screenplay by)</writer>
+  <writer>Nancy Springer (based upon the book "The Case of the Missing Marquess: An Enola Holmes Mystery" by)</writer>
+  <credits>Jack Thorne (screenplay by)</credits>
+  <credits>Nancy Springer (based upon the book "The Case of the Missing Marquess: An Enola Holmes Mystery" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UqGZreSFd4g</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>Enola Holmes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7846844</imdbid>
+  <tmdbid>497582</tmdbid>
+  <premiered>2020-09-23</premiered>
+  <releasedate>2020-09-23</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>124</runtime>
+  <tagline>Los misterios le vienen de familia.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <studio>PCMA Productions</studio>
+  <studio>Legendary Pictures</studio>
+  <set tmdbcolid="829314">
+    <name>Enola Holmes - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7846844</uniqueid>
+  <uniqueid type="tmdb">497582</uniqueid>
+  <id>tt7846844</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>899377</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7434</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

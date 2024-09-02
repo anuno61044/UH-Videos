@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mohamedou Ould Slahi fights for freedom after being detained and imprisoned without charge by the U.S. Government for years.]]></plot>
+  <outline><![CDATA[Un Film de Kevin Macdonald]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-08 09:50:24</dateadded>
+  <title>The Mauritanian</title>
+  <originaltitle>The Mauritanian</originaltitle>
+  <actor>
+    <name>Tahar Rahim</name>
+    <type>Actor</type>
+    <tmdbid>81051</tmdbid>
+    <imdbid>nm2588665</imdbid>
+    <tvdbid>479751</tvdbid>
+  </actor>
+  <actor>
+    <name>Nouhe Hamady Bari</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Saadna Hamoud</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mohamed Yeslem Mousse</name>
+    <type>Actor</type>
+  </actor>
+  <director tmdbid="17350" imdbid="nm0531817">Kevin Macdonald</director>
+  <writer>Michael Bronner (screenplay by)</writer>
+  <writer>Rory Haines (screenplay by)</writer>
+  <writer>Sohrab Noshirvani (screenplay by)</writer>
+  <writer>Michael Bronner (screen story by)</writer>
+  <writer>Mohamedou Ould Slahi (based upon the book "Guantánamo Diary" by)</writer>
+  <writer>Larry Siems (based upon the book "Guantánamo Diary" edited by)</writer>
+  <credits>Michael Bronner (screenplay by)</credits>
+  <credits>Rory Haines (screenplay by)</credits>
+  <credits>Sohrab Noshirvani (screenplay by)</credits>
+  <credits>Michael Bronner (screen story by)</credits>
+  <credits>Mohamedou Ould Slahi (based upon the book "Guantánamo Diary" by)</credits>
+  <credits>Larry Siems (based upon the book "Guantánamo Diary" edited by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7tmxxzZXLEM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N00DwEsSSYU</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <sorttitle>Mauritanian</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4761112</imdbid>
+  <tmdbid>644583</tmdbid>
+  <premiered>2021-02-12</premiered>
+  <releasedate>2021-02-12</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>129</runtime>
+  <tagline>Un Film de Kevin Macdonald</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>30WEST</studio>
+  <studio>Topic Studios</studio>
+  <studio>BBC</studio>
+  <studio>STX Entertainment</studio>
+  <studio>SunnyMarch</studio>
+  <studio>Black Sheep</studio>
+  <studio>Wonder Street</studio>
+  <uniqueid type="imdb">tt4761112</uniqueid>
+  <uniqueid type="tmdb">644583</uniqueid>
+  <id>tt4761112</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>599785</bitrate>
+        <width>858</width>
+        <height>482</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.98</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7751</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

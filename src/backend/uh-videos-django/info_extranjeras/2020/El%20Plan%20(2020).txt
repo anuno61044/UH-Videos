@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Son las nueve de la mañana de un caluroso día de verano en el barrio madrileño de Usera. Paco, Ramón y Andrade, tres amigos que llevan en paro desde que cerró la empresa en la que trabajaban, han quedado para ejecutar un plan. Cuando por fin se reúnen, un contratiempo les impide salir de casa: el coche que necesitaban para trasladarse está averiado. Mientras buscan otra manera de llegar a su destino, se ven envueltos en una serie de incómodas discusiones que poco a poco derribarán sus muros y arrancarán sus máscaras.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:48:50</dateadded>
+  <title>El plan divino</title>
+  <originaltitle>El plan</originaltitle>
+  <actor>
+    <name>Raúl Arévalo</name>
+    <role>Andrade</role>
+    <type>Actor</type>
+    <tmdbid>34021</tmdbid>
+    <imdbid>nm1666855</imdbid>
+    <tvdbid>461901</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio de la Torre</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>3483</tmdbid>
+    <imdbid>nm0209409</imdbid>
+    <tvdbid>592203</tvdbid>
+  </actor>
+  <actor>
+    <name>Chema Del Barco</name>
+    <role>Ramón</role>
+    <type>Actor</type>
+    <tmdbid>1685615</tmdbid>
+    <imdbid>nm1886486</imdbid>
+  </actor>
+  <director tmdbid="2373399">Polo Menárguez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8BKVQYlXazw</trailer>
+  <rating>5.9</rating>
+  <year>2019</year>
+  <sorttitle>plan divino</sorttitle>
+  <imdbid>tt11340102</imdbid>
+  <tmdbid>619090</tmdbid>
+  <premiered>2019-10-22</premiered>
+  <releasedate>2019-10-22</releasedate>
+  <runtime>79</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Capitán Araña</studio>
+  <uniqueid type="imdb">tt11340102</uniqueid>
+  <uniqueid type="tmdb">619090</uniqueid>
+  <id>tt11340102</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>2026621</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>79</duration>
+        <durationinseconds>4760</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

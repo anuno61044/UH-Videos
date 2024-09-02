@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alfredo y Teresa son un matrimonio de Burgos que viaja a Nueva York con la intención de "desconectar" y hacer todos los planes que vienen en la guía. Pero nada más aterrizar empiezan a percibir señales, sutiles y no tanto, de que en realidad no están en la ciudad que les vendieron en la agencia. ¿Dónde están entonces?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-31 17:28:10</dateadded>
+  <title>Un efecto óptico</title>
+  <originaltitle>Un efecto óptico</originaltitle>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Pepón Nieto</name>
+    <role>Alfredo</role>
+    <type>Actor</type>
+    <tmdbid>118206</tmdbid>
+    <imdbid>nm0631326</imdbid>
+    <tvdbid>555407</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Bermejo</name>
+    <role>José María</role>
+    <type>Actor</type>
+    <tmdbid>27471</tmdbid>
+    <imdbid>nm1084399</imdbid>
+    <tvdbid>499262</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucía Juárez</name>
+    <role>Isabel</role>
+    <type>Actor</type>
+    <tmdbid>2873387</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Cordón</name>
+    <role>Madre de Teresa</role>
+    <type>Actor</type>
+    <tmdbid>1170256</tmdbid>
+  </actor>
+  <actor>
+    <name>Susana Sanabria</name>
+    <role>Turista americana</role>
+    <type>Actor</type>
+    <tmdbid>3145126</tmdbid>
+  </actor>
+  <director tmdbid="225020">Juan Cavestany</director>
+  <rating>4.6</rating>
+  <year>2021</year>
+  <sorttitle>Un efecto optico</sorttitle>
+  <imdbid>tt11333854</imdbid>
+  <tmdbid>734818</tmdbid>
+  <premiered>2021-03-26</premiered>
+  <releasedate>2021-03-26</releasedate>
+  <runtime>78</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <studio>Cuidado con el Perro</studio>
+  <uniqueid type="imdb">tt11333854</uniqueid>
+  <uniqueid type="tmdb">734818</uniqueid>
+  <id>tt11333854</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070653</bitrate>
+        <width>1918</width>
+        <height>1036</height>
+        <aspect>137:74</aspect>
+        <aspectratio>137:74</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>78</duration>
+        <durationinseconds>4687</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

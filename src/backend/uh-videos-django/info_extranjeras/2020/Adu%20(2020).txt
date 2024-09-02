@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Three people, three stories, one thing in common: Africa.]]></plot>
+  <outline><![CDATA[Donde hay un sueño hay un camino]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-22 11:20:52</dateadded>
+  <title>Adu</title>
+  <originaltitle>Adú</originaltitle>
+  <actor>
+    <name>Luis Tosar</name>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Cervantes</name>
+    <type>Actor</type>
+    <tmdbid>224874</tmdbid>
+    <imdbid>nm2024943</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Castillo</name>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Moustapha Oumarou</name>
+    <type>Actor</type>
+  </actor>
+  <director tmdbid="1473973" imdbid="nm0130991">Salvador Calvo</director>
+  <writer tmdbid="2552984" tvdbid="8084611">Alejandro Hernandez</writer>
+  <credits tmdbid="2552984" tvdbid="8084611">Alejandro Hernandez</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FxQ7Y3mgfec</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <sorttitle>Adu</sorttitle>
+  <imdbid>tt9616700</imdbid>
+  <tmdbid>588009</tmdbid>
+  <premiered>2020-01-31</premiered>
+  <releasedate>2020-01-31</releasedate>
+  <runtime>120</runtime>
+  <tagline>Donde hay un sueño hay un camino</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Ikiru Films</studio>
+  <studio>Mediaset</studio>
+  <studio>La Terraza Films</studio>
+  <uniqueid type="imdb">tt9616700</uniqueid>
+  <uniqueid type="tmdb">588009</uniqueid>
+  <id>tt9616700</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>930892</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7184</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

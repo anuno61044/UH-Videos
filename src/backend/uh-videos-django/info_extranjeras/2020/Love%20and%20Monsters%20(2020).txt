@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un mundo posapocalíptico. Joel Dawson es un joven que deberá luchar contra monstruos, con tal de reunirse con Aimee, su amor del instituto. En el camino, tendrá que desafiar peligrosos animales mutantes y encontrará amistades inesperadas y también algunos enemigos.]]></plot>
+  <outline><![CDATA[Un Film de Michael Matthews]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-19 08:23:14</dateadded>
+  <title>De amor y monstruos</title>
+  <originaltitle>Love and Monsters</originaltitle>
+  <actor>
+    <name>Dylan O'Brien</name>
+    <role>Joel Dawson</role>
+    <type>Actor</type>
+    <tmdbid>527393</tmdbid>
+    <imdbid>nm3729721</imdbid>
+    <tvdbid>308127</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica Henwick</name>
+    <role>Aimee</role>
+    <type>Actor</type>
+    <tmdbid>1202689</tmdbid>
+    <imdbid>nm3725055</imdbid>
+    <tvdbid>248011</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Rooker</name>
+    <role>Clyde</role>
+    <type>Actor</type>
+    <tmdbid>12132</tmdbid>
+    <imdbid>nm0740264</imdbid>
+    <tvdbid>294173</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Ewing</name>
+    <role>Cap</role>
+    <type>Actor</type>
+    <tmdbid>1231108</tmdbid>
+    <imdbid>nm2045439</imdbid>
+  </actor>
+  <actor>
+    <name>Ariana Greenblatt</name>
+    <role>Minnow</role>
+    <type>Actor</type>
+    <tmdbid>1767250</tmdbid>
+    <imdbid>nm7567556</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Hollman</name>
+    <role>Dana</role>
+    <type>Actor</type>
+    <tmdbid>83218</tmdbid>
+    <imdbid>nm1712005</imdbid>
+  </actor>
+  <actor>
+    <name>Tre Hale</name>
+    <role>Rocko</role>
+    <type>Actor</type>
+    <tmdbid>1800820</tmdbid>
+    <tvdbid>582486</tvdbid>
+  </actor>
+  <actor>
+    <name>Pacharo Mzembe</name>
+    <role>Ray</role>
+    <type>Actor</type>
+    <tmdbid>1576672</tmdbid>
+    <imdbid>nm3273503</imdbid>
+  </actor>
+  <actor>
+    <name>Senie Priti</name>
+    <role>Karen</role>
+    <type>Actor</type>
+    <tmdbid>1396575</tmdbid>
+    <imdbid>nm5492304</imdbid>
+  </actor>
+  <actor>
+    <name>Amali Golden</name>
+    <role>Ava</role>
+    <type>Actor</type>
+    <tmdbid>1236816</tmdbid>
+    <imdbid>nm1690855</imdbid>
+  </actor>
+  <actor>
+    <name>Te Kohe Tuhaka</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>1345307</tmdbid>
+    <imdbid>nm2702696</imdbid>
+  </actor>
+  <actor>
+    <name>Tasneem Roc</name>
+    <role>Anna Lucia</role>
+    <type>Actor</type>
+    <tmdbid>1244248</tmdbid>
+    <imdbid>nm0733541</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Campbell</name>
+    <role>Anderson</role>
+    <type>Actor</type>
+    <tmdbid>2089393</tmdbid>
+    <imdbid>nm0132889</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Pierce</name>
+    <role>Connor</role>
+    <type>Actor</type>
+    <tmdbid>2269093</tmdbid>
+    <imdbid>nm1517974</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Zanetti</name>
+    <role>Kala / Voice of Mav1s</role>
+    <type>Actor</type>
+    <tmdbid>1312450</tmdbid>
+    <imdbid>nm3148372</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Spence</name>
+    <role>Old Pete</role>
+    <type>Actor</type>
+    <tmdbid>27752</tmdbid>
+    <imdbid>nm0817748</imdbid>
+  </actor>
+  <actor>
+    <name>Hazel Phillips</name>
+    <role>Janice</role>
+    <type>Actor</type>
+    <tmdbid>1053924</tmdbid>
+    <imdbid>nm0680444</imdbid>
+  </actor>
+  <actor>
+    <name>Miriama Smith</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>186450</tmdbid>
+    <imdbid>nm0809402</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Buchanan</name>
+    <role>Joel's Father</role>
+    <type>Actor</type>
+    <tmdbid>1325838</tmdbid>
+    <imdbid>nm0117970</imdbid>
+  </actor>
+  <actor>
+    <name>Tandi Wright</name>
+    <role>Joel's Mother</role>
+    <type>Actor</type>
+    <tmdbid>33310</tmdbid>
+    <imdbid>nm0942858</imdbid>
+  </actor>
+  <actor>
+    <name>Damien Garvey</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>272408</tmdbid>
+    <imdbid>nm0960946</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Johnson</name>
+    <role>Betty</role>
+    <type>Actor</type>
+    <tmdbid>2819289</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariu Lang Sio</name>
+    <role>Roberto</role>
+    <type>Actor</type>
+    <tmdbid>1230473</tmdbid>
+    <imdbid>nm1442745</imdbid>
+  </actor>
+  <actor>
+    <name>Donnie Baxter</name>
+    <role>Parker</role>
+    <type>Actor</type>
+    <tmdbid>1813771</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Howard</name>
+    <role>Rose</role>
+    <type>Actor</type>
+    <tmdbid>1522116</tmdbid>
+    <imdbid>nm2241859</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Cedar</name>
+    <role>Elderly Colonist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>94304</tmdbid>
+    <imdbid>nm0147738</imdbid>
+  </actor>
+  <actor>
+    <name>Tonia Renee Hammerich</name>
+    <role>Escapee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>142253</tmdbid>
+    <imdbid>nm3090991</imdbid>
+  </actor>
+  <actor>
+    <name>Keiichi Enomoto</name>
+    <role>Escaping Camper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1381319</tmdbid>
+    <imdbid>nm5075660</imdbid>
+  </actor>
+  <director tmdbid="1851294" imdbid="nm3462290">Michael Matthews</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uJFk-rscWAM</trailer>
+  <rating>6.9</rating>
+  <year>2020</year>
+  <sorttitle>De amor y monstruos</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2222042</imdbid>
+  <tmdbid>590223</tmdbid>
+  <premiered>2020-10-16</premiered>
+  <releasedate>2020-10-16</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>109</runtime>
+  <tagline>Un Film de Michael Matthews</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <studio>21 Laps Entertainment</studio>
+  <studio>Paramount Players</studio>
+  <studio>MTV Films</studio>
+  <studio>Aurum Producciones</studio>
+  <studio>Paramount</studio>
+  <uniqueid type="imdb">tt2222042</uniqueid>
+  <uniqueid type="tmdb">590223</uniqueid>
+  <id>tt2222042</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1023848</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6532</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

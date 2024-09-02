@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Possessor follows an agent who works for a secretive organization that uses brain-implant technology to inhabit other people's bodies - ultimately driving them to commit assassinations for high-paying clients.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-31 09:31:36</dateadded>
+  <title>Possessor</title>
+  <originaltitle>Possessor Uncut</originaltitle>
+  <actor>
+    <name>Gabrielle Graham</name>
+    <type>Actor</type>
+    <tmdbid>2082255</tmdbid>
+    <imdbid>nm8740830</imdbid>
+  </actor>
+  <actor>
+    <name>Hanneke Talbot</name>
+    <type>Actor</type>
+    <tmdbid>2086212</tmdbid>
+    <imdbid>nm9099952</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Garlick</name>
+    <type>Actor</type>
+    <tmdbid>1678612</tmdbid>
+    <imdbid>nm3791639</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Park</name>
+    <type>Actor</type>
+    <tmdbid>1797819</tmdbid>
+    <imdbid>nm1259989</imdbid>
+  </actor>
+  <director tmdbid="1081445" imdbid="nm0188722">Brandon Cronenberg</director>
+  <writer tmdbid="1081445" imdbid="nm0188722">Brandon Cronenberg</writer>
+  <credits tmdbid="1081445" imdbid="nm0188722">Brandon Cronenberg</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OiZAbZeIHLI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fv2DTLwokmg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2kV3IJcFRX8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ahn56QWkD0Y</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>Possessor</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5918982</imdbid>
+  <tmdbid>435615</tmdbid>
+  <premiered>2020-10-02</premiered>
+  <releasedate>2020-10-02</releasedate>
+  <runtime>104</runtime>
+  <country>Canada</country>
+  <country>United Kingdom</country>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Rhombus Media</studio>
+  <studio>Rook Films</studio>
+  <studio>Particular Crowd</studio>
+  <studio>Téléfilm Canada</studio>
+  <studio>Neon</studio>
+  <studio>Signature Entertainment</studio>
+  <uniqueid type="imdb">tt5918982</uniqueid>
+  <uniqueid type="tmdb">435615</uniqueid>
+  <id>tt5918982</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2249959</bitrate>
+        <width>1920</width>
+        <height>1072</height>
+        <aspect>120:67</aspect>
+        <aspectratio>120:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6211</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127992</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

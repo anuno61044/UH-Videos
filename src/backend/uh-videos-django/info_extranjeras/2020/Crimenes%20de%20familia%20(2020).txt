@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Las vidas de Alicia e Ignacio, un matrimonio de uno de los barrios más lujosos de Buenos Aires, comienzan a alterarse cuando su propio hijo está muy cerca de quedar preso por una acusación de intento de homicidio de su ex esposa.]]></plot>
+  <outline><![CDATA[La sangre no miente.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-27 11:15:04</dateadded>
+  <title>Crímenes de familia</title>
+  <originaltitle>Crímenes de familia</originaltitle>
+  <actor>
+    <name>Cecilia Roth</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>953</tmdbid>
+    <imdbid>nm0005386</imdbid>
+    <tvdbid>292557</tvdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel Solá</name>
+    <role>Ignacio</role>
+    <type>Actor</type>
+    <tmdbid>230213</tmdbid>
+    <tvdbid>470695</tvdbid>
+  </actor>
+  <actor>
+    <name>Benjamín Amadeo</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1043855</tmdbid>
+    <imdbid>nm2322539</imdbid>
+    <tvdbid>524010</tvdbid>
+  </actor>
+  <actor>
+    <name>Sofía Gala Castiglione</name>
+    <role>Marcela</role>
+    <type>Actor</type>
+    <tmdbid>1075102</tmdbid>
+    <imdbid>nm1078686</imdbid>
+  </actor>
+  <actor>
+    <name>Yanina Ávila</name>
+    <role>Gladys</role>
+    <type>Actor</type>
+    <tmdbid>1767679</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcelo Subiotto</name>
+    <role>Dr. Vieytes</role>
+    <type>Actor</type>
+    <tmdbid>1500062</tmdbid>
+    <imdbid>nm2515968</imdbid>
+  </actor>
+  <actor>
+    <name>Paola Barrientos</name>
+    <role>Psicóloga</role>
+    <type>Actor</type>
+    <tmdbid>1459649</tmdbid>
+    <imdbid>nm4250799</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Cremonesi</name>
+    <role>Médico SAME</role>
+    <type>Actor</type>
+    <tmdbid>929045</tmdbid>
+    <imdbid>nm3259453</imdbid>
+    <tvdbid>584261</tvdbid>
+  </actor>
+  <actor>
+    <name>Claudio Martínez Bel</name>
+    <role>Dr. Echezábal</role>
+    <type>Actor</type>
+    <tmdbid>1108145</tmdbid>
+    <imdbid>nm1434527</imdbid>
+  </actor>
+  <actor>
+    <name>Santiago Ávila</name>
+    <role>Santi</role>
+    <type>Actor</type>
+    <tmdbid>2750974</tmdbid>
+  </actor>
+  <actor>
+    <name>María Marull</name>
+    <role>Directora Jardín</role>
+    <type>Actor</type>
+    <tmdbid>985353</tmdbid>
+    <imdbid>nm0555404</imdbid>
+  </actor>
+  <actor>
+    <name>Silvia Villazur</name>
+    <role>Empleada Juzgado</role>
+    <type>Actor</type>
+    <tmdbid>2671922</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Longhi</name>
+    <role>Fiscal Vitali</role>
+    <type>Actor</type>
+    <tmdbid>1917455</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Herrera</name>
+    <role>Fiscal</role>
+    <type>Actor</type>
+    <tmdbid>1043852</tmdbid>
+    <imdbid>nm0380458</imdbid>
+  </actor>
+  <actor>
+    <name>Marcelo D'Andrea</name>
+    <role>Dr. Villar</role>
+    <type>Actor</type>
+    <tmdbid>1022651</tmdbid>
+    <imdbid>nm0195227</imdbid>
+  </actor>
+  <director tmdbid="1321245" imdbid="nm0994416">Sebastián Schindel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u2ncERi6TgU</trailer>
+  <rating>6.7</rating>
+  <year>2020</year>
+  <sorttitle>Crimenes de familia</sorttitle>
+  <imdbid>tt10915060</imdbid>
+  <tmdbid>632618</tmdbid>
+  <premiered>2020-08-20</premiered>
+  <releasedate>2020-08-20</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>100</runtime>
+  <tagline>La sangre no miente.</tagline>
+  <country>Argentina</country>
+  <genre>Suspense</genre>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <studio>Buffalo Films</studio>
+  <studio>Magoya Films</studio>
+  <uniqueid type="imdb">tt10915060</uniqueid>
+  <uniqueid type="tmdb">632618</uniqueid>
+  <id>tt10915060</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>183909</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5996</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95475</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

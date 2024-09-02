@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.]]></plot>
+  <outline><![CDATA[La ley tiene límites. Ellos no.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-09 09:07:34</dateadded>
+  <title>Spenser Confidential</title>
+  <originaltitle>Spenser Confidential</originaltitle>
+  <actor>
+    <name>Mark Wahlberg</name>
+    <type>Actor</type>
+    <tmdbid>13240</tmdbid>
+    <imdbid>nm0000242</imdbid>
+  </actor>
+  <actor>
+    <name>Winston Duke</name>
+    <type>Actor</type>
+    <tmdbid>1447932</tmdbid>
+    <imdbid>nm6328300</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Arkin</name>
+    <type>Actor</type>
+    <tmdbid>1903</tmdbid>
+    <imdbid>nm0000273</imdbid>
+  </actor>
+  <actor>
+    <name>Iliza Shlesinger</name>
+    <type>Actor</type>
+    <tmdbid>96316</tmdbid>
+    <imdbid>nm2955597</imdbid>
+  </actor>
+  <director tmdbid="36602" imdbid="nm0000916" tvdbid="294169">Peter Berg</director>
+  <writer>Sean O'Keefe (screenplay by)</writer>
+  <writer>Brian Helgeland (screenplay by)</writer>
+  <writer>Robert B. Parker (characters)</writer>
+  <writer>Ace Atkins (novel)</writer>
+  <credits>Sean O'Keefe (screenplay by)</credits>
+  <credits>Brian Helgeland (screenplay by)</credits>
+  <credits>Robert B. Parker (characters)</credits>
+  <credits>Ace Atkins (novel)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bgKEoHNi3Uc</trailer>
+  <rating>6.2</rating>
+  <year>2020</year>
+  <sorttitle>Spenser Confidential</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8629748</imdbid>
+  <tmdbid>581600</tmdbid>
+  <premiered>2020-03-06</premiered>
+  <releasedate>2020-03-06</releasedate>
+  <criticrating>37</criticrating>
+  <runtime>111</runtime>
+  <tagline>La ley tiene límites. Ellos no.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Film 44</studio>
+  <studio>Original Film</studio>
+  <studio>Closest to the Hole Productions</studio>
+  <studio>Leverage Entertainment</studio>
+  <set tmdbcolid="1147209">
+    <name>Spenser Confidential Collection</name>
+  </set>
+  <uniqueid type="imdb">tt8629748</uniqueid>
+  <uniqueid type="tmdb">581600</uniqueid>
+  <id>tt8629748</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1002022</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6670</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The story of feminist icon Gloria Steinem's itinerant childhood and its influence on her life as a writer, activist and organizer for women's rights worldwide.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-05 09:08:49</dateadded>
+  <title>The Glorias</title>
+  <originaltitle>The Glorias</originaltitle>
+  <actor>
+    <name>Julianne Moore</name>
+    <type>Actor</type>
+    <tmdbid>1231</tmdbid>
+    <imdbid>nm0000194</imdbid>
+    <tvdbid>255177</tvdbid>
+  </actor>
+  <actor>
+    <name>Alicia Vikander</name>
+    <type>Actor</type>
+    <tmdbid>227454</tmdbid>
+    <imdbid>nm2539953</imdbid>
+    <tvdbid>331172</tvdbid>
+  </actor>
+  <actor>
+    <name>Ryan Kiera Armstrong</name>
+    <type>Actor</type>
+    <tmdbid>2072566</tmdbid>
+    <imdbid>nm8740834</imdbid>
+    <tvdbid>8178145</tvdbid>
+  </actor>
+  <actor>
+    <name>Lulu Wilson</name>
+    <type>Actor</type>
+    <tmdbid>1883866</tmdbid>
+    <imdbid>nm5157662</imdbid>
+    <tvdbid>463641</tvdbid>
+  </actor>
+  <director tmdbid="16391" imdbid="nm0853380">Julie Taymor</director>
+  <writer>Julie Taymor (screenplay by)</writer>
+  <writer>Sarah Ruhl (screenplay by)</writer>
+  <writer>Gloria Steinem (based on the book 'My Life on the Road' by)</writer>
+  <credits>Julie Taymor (screenplay by)</credits>
+  <credits>Sarah Ruhl (screenplay by)</credits>
+  <credits>Gloria Steinem (based on the book 'My Life on the Road' by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Iw7P90tJSJs</trailer>
+  <rating>6</rating>
+  <year>2020</year>
+  <sorttitle>Glorias</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7435316</imdbid>
+  <tmdbid>519056</tmdbid>
+  <premiered>2020-12-18</premiered>
+  <releasedate>2020-12-18</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>147</runtime>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <studio>Artemis Rising</studio>
+  <studio>Page Fifty-Four Pictures</studio>
+  <studio>LD Entertainment</studio>
+  <studio>Roadside Attractions</studio>
+  <uniqueid type="imdb">tt7435316</uniqueid>
+  <uniqueid type="tmdb">519056</uniqueid>
+  <id>tt7435316</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1492592</bitrate>
+        <width>720</width>
+        <height>390</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>147</duration>
+        <durationinseconds>8822</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

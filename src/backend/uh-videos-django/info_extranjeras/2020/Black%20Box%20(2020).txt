@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[After losing his wife and his memory in a car accident, a single father undergoes an agonizing experimental treatment that causes him to question who he really is.]]></plot>
+  <outline><![CDATA[No hay escapatoria de quien eres realmente.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-12 09:14:34</dateadded>
+  <title>Black Box</title>
+  <originaltitle>Black Box</originaltitle>
+  <actor>
+    <name>Mamoudou Athie</name>
+    <type>Actor</type>
+    <tmdbid>1639848</tmdbid>
+    <imdbid>nm6974206</imdbid>
+    <tvdbid>622073</tvdbid>
+  </actor>
+  <actor>
+    <name>Phylicia Rashād</name>
+    <type>Actor</type>
+    <tmdbid>119598</tmdbid>
+    <imdbid>nm0711118</imdbid>
+    <tvdbid>7936523</tvdbid>
+  </actor>
+  <actor>
+    <name>Amanda Christine</name>
+    <type>Actor</type>
+    <tmdbid>1754752</tmdbid>
+    <imdbid>nm8022229</imdbid>
+  </actor>
+  <actor>
+    <name>Tosin Morohunfola</name>
+    <type>Actor</type>
+    <tmdbid>1173760</tmdbid>
+  </actor>
+  <director>Emmanuel Osei-Kuffour</director>
+  <writer>Emmanuel Osei-Kuffour (teleplay by)</writer>
+  <writer>Stephen Herman (teleplay by)</writer>
+  <writer>Stephen Herman (story by)</writer>
+  <credits>Emmanuel Osei-Kuffour (teleplay by)</credits>
+  <credits>Stephen Herman (teleplay by)</credits>
+  <credits>Stephen Herman (story by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nj6JIzrIzxk</trailer>
+  <rating>6.2</rating>
+  <year>2020</year>
+  <sorttitle>Black Box</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt12298506</imdbid>
+  <tmdbid>716258</tmdbid>
+  <premiered>2020-10-06</premiered>
+  <releasedate>2020-10-06</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>101</runtime>
+  <tagline>No hay escapatoria de quien eres realmente.</tagline>
+  <country>United States of America</country>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <studio>Amazon Studios</studio>
+  <studio>Blumhouse Television</studio>
+  <studio>Black Bar Mitzvah</studio>
+  <uniqueid type="imdb">tt12298506</uniqueid>
+  <uniqueid type="tmdb">716258</uniqueid>
+  <id>tt12298506</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1904759</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6046</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

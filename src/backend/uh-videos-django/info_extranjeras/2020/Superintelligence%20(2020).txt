@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When an all-powerful Superintelligence chooses to study average Carol Peters, the fate of the world hangs in the balance. As the A.I. decides to enslave, save or destroy humanity, it's up to Carol to prove that people are worth saving.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-30 08:45:36</dateadded>
+  <title>Superintelligence</title>
+  <originaltitle>Superintelligence</originaltitle>
+  <actor>
+    <name>Melissa McCarthy</name>
+    <type>Actor</type>
+    <tmdbid>55536</tmdbid>
+    <imdbid>nm0565250</imdbid>
+    <tvdbid>296532</tvdbid>
+  </actor>
+  <actor>
+    <name>James Corden</name>
+    <type>Actor</type>
+    <tmdbid>55466</tmdbid>
+    <imdbid>nm0179479</imdbid>
+    <tvdbid>285859</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <type>Actor</type>
+    <tmdbid>21127</tmdbid>
+    <imdbid>nm0134072</imdbid>
+    <tvdbid>255793</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+    <tvdbid>311251</tvdbid>
+  </actor>
+  <director tmdbid="170820" imdbid="nm1229520" tvdbid="297675">Ben Falcone</director>
+  <writer tmdbid="1221605" imdbid="nm1133719" tvdbid="339119">Steve Mallory</writer>
+  <credits tmdbid="1221605" imdbid="nm1133719" tvdbid="339119">Steve Mallory</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XN6JawOGvpM</trailer>
+  <rating>5.4</rating>
+  <year>2020</year>
+  <sorttitle>Superintelligence</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt7178640</imdbid>
+  <tmdbid>521007</tmdbid>
+  <premiered>2020-12-11</premiered>
+  <releasedate>2020-12-11</releasedate>
+  <criticrating>31</criticrating>
+  <runtime>106</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <genre>Sci-Fi</genre>
+  <studio>On the Day</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Bron Studios</studio>
+  <studio>Warner Max</studio>
+  <uniqueid type="imdb">tt7178640</uniqueid>
+  <uniqueid type="tmdb">521007</uniqueid>
+  <id>tt7178640</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1053350</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6347</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

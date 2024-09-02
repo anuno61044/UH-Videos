@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.]]></plot>
+  <outline><![CDATA[La mente es superior al caos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-23 12:31:33</dateadded>
+  <title>Birds of Prey</title>
+  <originaltitle>Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)</originaltitle>
+  <actor>
+    <name>Margot Robbie</name>
+    <type>Actor</type>
+    <tmdbid>234352</tmdbid>
+    <imdbid>nm3053338</imdbid>
+    <tvdbid>327479</tvdbid>
+  </actor>
+  <actor>
+    <name>Rosie Perez</name>
+    <type>Actor</type>
+    <tmdbid>4810</tmdbid>
+    <imdbid>nm0001609</imdbid>
+    <tvdbid>310419</tvdbid>
+  </actor>
+  <actor>
+    <name>Mary Elizabeth Winstead</name>
+    <type>Actor</type>
+    <tmdbid>17628</tmdbid>
+    <imdbid>nm0935541</imdbid>
+    <tvdbid>368637</tvdbid>
+  </actor>
+  <actor>
+    <name>Jurnee Smollett</name>
+    <type>Actor</type>
+    <tmdbid>59017</tmdbid>
+    <imdbid>nm0810619</imdbid>
+    <tvdbid>275727</tvdbid>
+  </actor>
+  <director tmdbid="1936668" imdbid="nm4014166">Cathy Yan</director>
+  <writer>Christina Hodson</writer>
+  <writer>Paul Dini (Harley Quinn created by)</writer>
+  <writer>Bruce Timm (Harley Quinn created by)</writer>
+  <credits>Christina Hodson</credits>
+  <credits>Paul Dini (Harley Quinn created by)</credits>
+  <credits>Bruce Timm (Harley Quinn created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TITXxNWGbyk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p4L-kEhCRfc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ogo8AlGVa70</trailer>
+  <rating>6.1</rating>
+  <year>2020</year>
+  <sorttitle>Birds of Prey</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7713068</imdbid>
+  <tmdbid>495764</tmdbid>
+  <premiered>2020-02-05</premiered>
+  <releasedate>2020-02-05</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>109</runtime>
+  <tagline>La mente es superior al caos.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <studio>DC Entertainment</studio>
+  <studio>LuckyChap Entertainment</studio>
+  <studio>Kroll &amp; Co Entertainment</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>DC Comics</studio>
+  <studio>DC Films</studio>
+  <studio>Clubhouse Pictures</studio>
+  <set tmdbcolid="531242">
+    <name>Escuadrón suicida - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7713068</uniqueid>
+  <uniqueid type="tmdb">495764</uniqueid>
+  <id>tt7713068</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1023781</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6532</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>531242</collectionnumber>
+</movie>

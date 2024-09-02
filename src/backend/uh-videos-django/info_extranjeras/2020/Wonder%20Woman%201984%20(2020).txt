@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Diana must contend with a work colleague and businessman, whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing.]]></plot>
+  <outline><![CDATA[Necesitamos una superheroína.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-28 11:59:15</dateadded>
+  <title>Wonder Woman 1984</title>
+  <originaltitle>Wonder Woman 1984</originaltitle>
+  <actor>
+    <name>Gal Gadot</name>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Pine</name>
+    <type>Actor</type>
+    <tmdbid>62064</tmdbid>
+    <imdbid>nm1517976</imdbid>
+    <tvdbid>255166</tvdbid>
+  </actor>
+  <actor>
+    <name>Kristen Wiig</name>
+    <type>Actor</type>
+    <tmdbid>41091</tmdbid>
+    <imdbid>nm1325419</imdbid>
+    <tvdbid>294052</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+    <imdbid>nm0050959</imdbid>
+    <tvdbid>247850</tvdbid>
+  </actor>
+  <director tmdbid="6884" imdbid="nm0420941">Patty Jenkins</director>
+  <writer>Patty Jenkins (story by)</writer>
+  <writer>Geoff Johns (story by)</writer>
+  <writer>Patty Jenkins (screenplay by)</writer>
+  <writer>Geoff Johns (screenplay by)</writer>
+  <writer>Dave Callaham (screenplay by)</writer>
+  <writer>William Moulton Marston (based on characters from DC Wonder Woman created by)</writer>
+  <credits>Patty Jenkins (story by)</credits>
+  <credits>Geoff Johns (story by)</credits>
+  <credits>Patty Jenkins (screenplay by)</credits>
+  <credits>Geoff Johns (screenplay by)</credits>
+  <credits>Dave Callaham (screenplay by)</credits>
+  <credits>William Moulton Marston (based on characters from DC Wonder Woman created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uaPbtACMxdQ</trailer>
+  <rating>5.4</rating>
+  <year>2020</year>
+  <sorttitle>Wonder Woman 1984</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7126948</imdbid>
+  <tmdbid>464052</tmdbid>
+  <premiered>2020-12-16</premiered>
+  <releasedate>2020-12-16</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>151</runtime>
+  <tagline>Necesitamos una superheroína.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Fantasy</genre>
+  <studio>DC Entertainment</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>The Stone Quarry</studio>
+  <studio>DC Films</studio>
+  <studio>Atlas Entertainment</studio>
+  <studio>DC Comics</studio>
+  <set tmdbcolid="468552">
+    <name>Wonder Woman - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7126948</uniqueid>
+  <uniqueid type="tmdb">464052</uniqueid>
+  <id>tt7126948</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>830266</bitrate>
+        <width>1280</width>
+        <height>672</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>151</duration>
+        <durationinseconds>9065</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>468552</collectionnumber>
+</movie>

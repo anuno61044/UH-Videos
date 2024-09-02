@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[When aspiring musicians Lars and Sigrit are given the opportunity to represent their country at the world's biggest song competition, they finally have a chance to prove that any dream worth having is a dream worth fighting for.]]></plot>
+  <outline><![CDATA[Nadie gana en solitario.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-06 12:49:16</dateadded>
+  <title>Eurovision Song Contest: The Story of Fire Saga</title>
+  <originaltitle>Eurovision Song Contest: The Story of Fire Saga</originaltitle>
+  <actor>
+    <name>Will Ferrell</name>
+    <type>Actor</type>
+    <tmdbid>23659</tmdbid>
+    <imdbid>nm0002071</imdbid>
+    <tvdbid>289998</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel McAdams</name>
+    <type>Actor</type>
+    <tmdbid>53714</tmdbid>
+    <imdbid>nm1046097</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Stevens</name>
+    <type>Actor</type>
+    <tmdbid>221018</tmdbid>
+    <imdbid>nm1405398</imdbid>
+    <tvdbid>296801</tvdbid>
+  </actor>
+  <actor>
+    <name>Mikael Persbrandt</name>
+    <type>Actor</type>
+    <tmdbid>52398</tmdbid>
+    <imdbid>nm0675409</imdbid>
+    <tvdbid>451908</tvdbid>
+  </actor>
+  <director tmdbid="42994" imdbid="nm0229694">David Dobkin</director>
+  <writer tmdbid="23659" imdbid="nm0002071" tvdbid="289998">Will Ferrell</writer>
+  <writer>Andrew Steele</writer>
+  <credits tmdbid="23659" imdbid="nm0002071" tvdbid="289998">Will Ferrell</credits>
+  <credits>Andrew Steele</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UO1z8yRQyHs</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>Eurovision Song Contest: The Story of Fire Saga</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8580274</imdbid>
+  <tmdbid>531454</tmdbid>
+  <premiered>2020-06-26</premiered>
+  <releasedate>2020-06-26</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>124</runtime>
+  <tagline>Nadie gana en solitario.</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Music</genre>
+  <studio>Gary Sanchez Productions</studio>
+  <uniqueid type="imdb">tt8580274</uniqueid>
+  <uniqueid type="tmdb">531454</uniqueid>
+  <id>tt8580274</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>547830</bitrate>
+        <width>664</width>
+        <height>360</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7415</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>97000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

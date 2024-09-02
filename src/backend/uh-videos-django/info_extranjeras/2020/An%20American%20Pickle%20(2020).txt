@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[An immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern-day Brooklyn.]]></plot>
+  <outline><![CDATA[Una historia de autoconservación]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-27 11:14:52</dateadded>
+  <title>An American Pickle</title>
+  <originaltitle>An American Pickle</originaltitle>
+  <actor>
+    <name>Seth Rogen</name>
+    <type>Actor</type>
+    <tmdbid>19274</tmdbid>
+    <imdbid>nm0736622</imdbid>
+    <tvdbid>296972</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Snook</name>
+    <type>Actor</type>
+    <tmdbid>235416</tmdbid>
+    <imdbid>nm3512758</imdbid>
+  </actor>
+  <actor>
+    <name>Molly Evensen</name>
+    <type>Actor</type>
+    <tmdbid>1786007</tmdbid>
+    <imdbid>nm6127780</imdbid>
+  </actor>
+  <actor>
+    <name>Eliot Glazer</name>
+    <type>Actor</type>
+    <tmdbid>2205531</tmdbid>
+  </actor>
+  <director tmdbid="64227" imdbid="nm1060930">Brandon Trost</director>
+  <writer>Simon Rich (screenplay by)</writer>
+  <writer>Simon Rich (based on the short story entitled "Sell Out" written by)</writer>
+  <credits>Simon Rich (screenplay by)</credits>
+  <credits>Simon Rich (based on the short story entitled "Sell Out" written by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8v4oKPV-Xs4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yn02ssAccgY</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <sorttitle>American Pickle</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9059704</imdbid>
+  <tmdbid>628917</tmdbid>
+  <premiered>2020-08-07</premiered>
+  <releasedate>2020-08-07</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>88</runtime>
+  <tagline>Una historia de autoconservación</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <studio>Point Grey Pictures</studio>
+  <studio>Gravitational Productions</studio>
+  <studio>Sony Pictures</studio>
+  <studio>Warner Max</studio>
+  <uniqueid type="imdb">tt9059704</uniqueid>
+  <uniqueid type="tmdb">628917</uniqueid>
+  <id>tt9059704</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1258932</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5305</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

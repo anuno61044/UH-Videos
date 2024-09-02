@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Isabel is a journalism student who is in the journal of a Galician coastal town for her work placement. During her stay, she finds an anonymous obituary dedicated to Lucía. It tells a love, friendship and treason story in 1958.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-22 09:31:45</dateadded>
+  <title>El verano que vivimos</title>
+  <originaltitle>El verano que vivimos</originaltitle>
+  <actor>
+    <name>Blanca Suárez</name>
+    <type>Actor</type>
+    <tmdbid>106817</tmdbid>
+    <imdbid>nm2848198</imdbid>
+    <tvdbid>306705</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Rey</name>
+    <type>Actor</type>
+    <tmdbid>96688</tmdbid>
+    <imdbid>nm2626646</imdbid>
+    <tvdbid>463889</tvdbid>
+  </actor>
+  <actor>
+    <name>Pablo Molinero</name>
+    <type>Actor</type>
+    <tmdbid>1209572</tmdbid>
+    <imdbid>nm1944825</imdbid>
+    <tvdbid>7868369</tvdbid>
+  </actor>
+  <actor>
+    <name>María Pedraza</name>
+    <type>Actor</type>
+    <tmdbid>1757167</tmdbid>
+    <imdbid>nm8061858</imdbid>
+  </actor>
+  <director tmdbid="1124382" imdbid="nm2149627">Carlos Sedes</director>
+  <writer>Ramón Campos</writer>
+  <writer>Javier Chacártegui</writer>
+  <writer>Salvador S. Molina</writer>
+  <writer>Gema R. Neira</writer>
+  <writer>David Orea</writer>
+  <credits>Ramón Campos</credits>
+  <credits>Javier Chacártegui</credits>
+  <credits>Salvador S. Molina</credits>
+  <credits>Gema R. Neira</credits>
+  <credits>David Orea</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Evi57CZLU08</trailer>
+  <rating>5.9</rating>
+  <year>2020</year>
+  <sorttitle>verano que vivimos</sorttitle>
+  <imdbid>tt10042590</imdbid>
+  <tmdbid>588656</tmdbid>
+  <premiered>2020-12-04</premiered>
+  <releasedate>2020-12-04</releasedate>
+  <runtime>120</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Atresmedia</studio>
+  <studio>Bambú Producciones</studio>
+  <uniqueid type="imdb">tt10042590</uniqueid>
+  <uniqueid type="tmdb">588656</uniqueid>
+  <id>tt10042590</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1894797</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7194</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>118475</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

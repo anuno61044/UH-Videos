@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A gorilla named Ivan tries to piece together his past with the help of an elephant named Ruby as they hatch a plan to escape from captivity.]]></plot>
+  <outline><![CDATA[Nunca es demasiado tarde para descubrir quien eres.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-27 11:18:09</dateadded>
+  <title>The One and Only Ivan</title>
+  <originaltitle>The One and Only Ivan</originaltitle>
+  <actor>
+    <name>Sam Rockwell</name>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+    <tvdbid>333915</tvdbid>
+  </actor>
+  <actor>
+    <name>Bryan Cranston</name>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+    <tvdbid>255211</tvdbid>
+  </actor>
+  <actor>
+    <name>Phillipa Soo</name>
+    <type>Actor</type>
+    <tmdbid>1631814</tmdbid>
+    <imdbid>nm5623883</imdbid>
+    <tvdbid>299425</tvdbid>
+  </actor>
+  <actor>
+    <name>Chaka Khan</name>
+    <type>Actor</type>
+    <tmdbid>122099</tmdbid>
+    <imdbid>nm0451193</imdbid>
+    <tvdbid>319606</tvdbid>
+  </actor>
+  <director tmdbid="1096867" imdbid="nm4824763">Thea Sharrock</director>
+  <writer>Mike White (screenplay by)</writer>
+  <writer>Katherine Applegate (book)</writer>
+  <credits>Mike White (screenplay by)</credits>
+  <credits>Katherine Applegate (book)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I-uIQDRS4a8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JO_RvRGscos</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PKLV02CqVBc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fks7Hu57o1E</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WQ_MxY279hs</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>One and Only Ivan</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt3661394</imdbid>
+  <tmdbid>508570</tmdbid>
+  <premiered>2020-08-21</premiered>
+  <releasedate>2020-08-21</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>93</runtime>
+  <tagline>Nunca es demasiado tarde para descubrir quien eres.</tagline>
+  <country>United States of America</country>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Family</genre>
+  <genre>Fantasy</genre>
+  <studio>Allison Shearmur Productions</studio>
+  <studio>Digital Makeup Group</studio>
+  <studio>Jolie Pas Productions</studio>
+  <studio>Walt Disney Pictures</studio>
+  <uniqueid type="imdb">tt3661394</uniqueid>
+  <uniqueid type="tmdb">508570</uniqueid>
+  <id>tt3661394</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1191392</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5609</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

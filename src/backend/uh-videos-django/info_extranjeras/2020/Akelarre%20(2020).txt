@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[País Vasco francés, año 1609. Los hombres de un pequeño pueblo de pescadores se han hecho a la mar. El juez Rostegui, encargado por el rey de librar al país de las asechanzas del diablo, detiene a Ana y a sus amigas y las acusa de brujería.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-08 09:24:38</dateadded>
+  <title>Akelarre</title>
+  <originaltitle>Akelarre</originaltitle>
+  <actor>
+    <name>Àlex Brendemühl</name>
+    <role>Rostegui</role>
+    <type>Actor</type>
+    <tmdbid>28514</tmdbid>
+    <imdbid>nm0107165</imdbid>
+  </actor>
+  <actor>
+    <name>Amaia Aberasturi</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>2294578</tmdbid>
+    <tvdbid>8283297</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Fanego</name>
+    <role>Salazar</role>
+    <type>Actor</type>
+    <tmdbid>140541</tmdbid>
+    <imdbid>nm0266723</imdbid>
+  </actor>
+  <actor>
+    <name>Garazi Urkola</name>
+    <role>Katalin</role>
+    <type>Actor</type>
+    <tmdbid>2480575</tmdbid>
+  </actor>
+  <actor>
+    <name>Yune Nogueiras</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>2480578</tmdbid>
+  </actor>
+  <actor>
+    <name>Jone Laspiur</name>
+    <role>Maider</role>
+    <type>Actor</type>
+    <tmdbid>2480576</tmdbid>
+    <imdbid>nm10678596</imdbid>
+  </actor>
+  <actor>
+    <name>Irati Sáez de Urabain</name>
+    <role>Olaia</role>
+    <type>Actor</type>
+    <tmdbid>2480577</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorea Ibarra</name>
+    <role>Oneka</role>
+    <type>Actor</type>
+    <tmdbid>2480573</tmdbid>
+  </actor>
+  <actor>
+    <name>Asier Oruesagasti</name>
+    <role>Father Cristóbal</role>
+    <type>Actor</type>
+    <tmdbid>2480574</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Uriz</name>
+    <role>Mrs. Lara</role>
+    <type>Actor</type>
+    <tmdbid>2480570</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Insausti</name>
+    <role>Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>2985630</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Chamorro</name>
+    <role>Surgeon</role>
+    <type>Actor</type>
+    <tmdbid>2147813</tmdbid>
+    <imdbid>nm1125506</imdbid>
+  </actor>
+  <actor>
+    <name>Iñigo de la Iglesia</name>
+    <role>Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>1892378</tmdbid>
+  </actor>
+  <actor>
+    <name>Ulises Di Roma</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1680383</tmdbid>
+  </actor>
+  <actor>
+    <name>Amalia Robin</name>
+    <role>Mrs. Lara's Handmaid #1</role>
+    <type>Actor</type>
+    <tmdbid>3007233</tmdbid>
+  </actor>
+  <actor>
+    <name>Amaia Azkue</name>
+    <role>Mrs. Lara's Handmaid #2</role>
+    <type>Actor</type>
+    <tmdbid>3007236</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Achalandabaso</name>
+    <role>Etcheverry</role>
+    <type>Actor</type>
+    <tmdbid>3007238</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Yélamos</name>
+    <role>Izaro</role>
+    <type>Actor</type>
+    <tmdbid>3007239</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiko Rossi</name>
+    <role>Young Man</role>
+    <type>Actor</type>
+    <tmdbid>1627245</tmdbid>
+  </actor>
+  <director tmdbid="928786" imdbid="nm1893148">Pablo Agüero</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XHM7KfiDtcA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=he5Qv9ZVsno</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CspbcUQzmJY</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>Akelarre</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt9916362</imdbid>
+  <tmdbid>655187</tmdbid>
+  <premiered>2020-10-02</premiered>
+  <releasedate>2020-10-02</releasedate>
+  <runtime>88</runtime>
+  <country>Argentina</country>
+  <country>Spain</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>INCAA</studio>
+  <studio>Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)</studio>
+  <studio>La Fidèle Production</studio>
+  <studio>Lamia Producciones</studio>
+  <studio>Tita Productions</studio>
+  <studio>Kowalski Films</studio>
+  <studio>Gariza Films</studio>
+  <studio>Campo Cine</studio>
+  <studio>EiTB</studio>
+  <studio>TVE</studio>
+  <studio>TVG</studio>
+  <studio>Gladys Glover</studio>
+  <studio>77 Films</studio>
+  <uniqueid type="imdb">tt9916362</uniqueid>
+  <uniqueid type="tmdb">655187</uniqueid>
+  <id>tt9916362</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>554277</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.999052</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5276</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96737</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>
