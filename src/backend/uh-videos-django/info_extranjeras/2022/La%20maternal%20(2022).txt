@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Contará la difícil y casi tóxica relación entre una madre y su hija Carla. Forzada a ir a un hogar de acogida por los servicios sociales tras quedarse embarazada, Carla dará a luz allí y tendrá que enfrentarse a un mundo de perplejidades, decisiones y situaciones complicadas junto con otras jóvenes madres del centro.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-10 11:54:36</dateadded>
+  <title>La maternal</title>
+  <originaltitle>La maternal</originaltitle>
+  <actor>
+    <name>Carla Quílez</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>3708185</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángela Cervantes</name>
+    <role>Penélope</role>
+    <type>Actor</type>
+    <tmdbid>2999682</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Cornejo</name>
+    <role>Efraín</role>
+    <type>Actor</type>
+    <tmdbid>3824750</tmdbid>
+  </actor>
+  <actor>
+    <name>Clàudia Dalmau</name>
+    <role>Raki</role>
+    <type>Actor</type>
+    <tmdbid>3824751</tmdbid>
+  </actor>
+  <actor>
+    <name>Estel Collado</name>
+    <role>Estel</role>
+    <type>Actor</type>
+    <tmdbid>3824752</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Medina</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>3824753</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Baños</name>
+    <role>Sheila</role>
+    <type>Actor</type>
+    <tmdbid>3824754</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamila Bengharda</name>
+    <role>Jamila</role>
+    <type>Actor</type>
+    <tmdbid>3824755</tmdbid>
+  </actor>
+  <actor>
+    <name>Karol Ruiz-Tagle</name>
+    <role>Karol</role>
+    <type>Actor</type>
+    <tmdbid>3824757</tmdbid>
+  </actor>
+  <actor>
+    <name>Rubén Martínez</name>
+    <role>Rubén</role>
+    <type>Actor</type>
+    <tmdbid>3824758</tmdbid>
+  </actor>
+  <actor>
+    <name>Gal·la Sabaté</name>
+    <role>Gal·la</role>
+    <type>Actor</type>
+    <tmdbid>3824759</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepe Lorente</name>
+    <role>Chispas</role>
+    <type>Actor</type>
+    <tmdbid>1400178</tmdbid>
+    <imdbid>nm2871370</imdbid>
+  </actor>
+  <actor>
+    <name>Olga Hueso</name>
+    <role>Asun</role>
+    <type>Actor</type>
+    <tmdbid>1491264</tmdbid>
+    <imdbid>nm0400127</imdbid>
+  </actor>
+  <director tmdbid="2025649">Pilar Palomero</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qNVFApRpT_s</trailer>
+  <rating>8.2</rating>
+  <year>2022</year>
+  <sorttitle>maternal</sorttitle>
+  <imdbid>tt13175506</imdbid>
+  <tmdbid>884669</tmdbid>
+  <premiered>2022-11-18</premiered>
+  <releasedate>2022-11-18</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>122</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="imdb">tt13175506</uniqueid>
+  <uniqueid type="tmdb">884669</uniqueid>
+  <id>tt13175506</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>182128</bitrate>
+        <width>640</width>
+        <height>348</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7334</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63830</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

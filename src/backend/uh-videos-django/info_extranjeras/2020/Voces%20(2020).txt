@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Daniel (Rodolfo Sancho) y Sara (Belén Fabra) son un matrimonio con un hijo de 9 años, Eric (Lucas Blas), que acaban de trasladarse a un nuevo hogar. Sin embargo, no saben que esa propiedad es conocida en el vecindario como "la casa de las voces". Eric es el primero en percatarse de los extraños sonidos que se ocultan tras cada puerta y que intentan comunicarse con la familia. Pese a que al principio Daniel y Sara creen que se trata de un producto de la imaginación de su hijo, poco a poco comienzan a percibir también esos sucesos paranormales, convirtiéndolos en una realidad.  Este largometraje de terror, que trata el poder sugestivo de las psicofonías, está dirigida por Ángel Gómez.]]></plot>
+  <outline><![CDATA[No las escuches.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-09 08:57:08</dateadded>
+  <title>Voces</title>
+  <originaltitle>Voces</originaltitle>
+  <actor>
+    <name>Rodolfo Sancho</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>100669</tmdbid>
+    <imdbid>nm0761110</imdbid>
+  </actor>
+  <actor>
+    <name>Ramón Barea</name>
+    <role>Germán</role>
+    <type>Actor</type>
+    <tmdbid>24987</tmdbid>
+    <imdbid>nm0054381</imdbid>
+    <tvdbid>493593</tvdbid>
+  </actor>
+  <actor>
+    <name>Nerea Barros</name>
+    <role>Sofia</role>
+    <type>Actor</type>
+    <tmdbid>1071974</tmdbid>
+    <imdbid>nm0057776</imdbid>
+    <tvdbid>485925</tvdbid>
+  </actor>
+  <actor>
+    <name>Belén Fabra</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>81160</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Fernández</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>1331653</tmdbid>
+    <imdbid>nm2798915</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Blas</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>2724185</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatriz Arjona</name>
+    <role>Psicóloga</role>
+    <type>Actor</type>
+    <tmdbid>1169141</tmdbid>
+    <imdbid>nm2136329</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Botet</name>
+    <role>Cliente de librería</role>
+    <type>Actor</type>
+    <tmdbid>111090</tmdbid>
+    <imdbid>nm2306701</imdbid>
+    <tvdbid>499252</tvdbid>
+  </actor>
+  <director tmdbid="1720199">Ángel Gómez Hernández</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F7wsMoTy96o</trailer>
+  <rating>6.1</rating>
+  <year>2020</year>
+  <sorttitle>Voces</sorttitle>
+  <imdbid>tt11750282</imdbid>
+  <tmdbid>726208</tmdbid>
+  <premiered>2020-07-24</premiered>
+  <releasedate>2020-07-24</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>98</runtime>
+  <tagline>No las escuches.</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>TVE</studio>
+  <studio>Kowalski Films</studio>
+  <uniqueid type="imdb">tt11750282</uniqueid>
+  <uniqueid type="tmdb">726208</uniqueid>
+  <id>tt11750282</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>588434</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5906</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>128000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

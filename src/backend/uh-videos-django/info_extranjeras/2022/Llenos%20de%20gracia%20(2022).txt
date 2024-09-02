@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La hermana Marina es enviada a principios de los años noventa a El Parral, un orfanato amenazado de cierre. A su llegada al colegio, los niños están fuera de control, pero Marina capta su atención con su carisma y desparpajo. Los chicos comienzan a mirar con curiosidad a esta nueva monja inmune a sus gamberradas. Sobre todo Valdo, con el que Marina conecta de una manera especial. Cuando Marina descubre las escapadas nocturnas de los chavales, algo terminantemente prohibido, da con la idea que cambiará para siempre El Parral: formar un equipo de fútbol. Con la ayuda de la hermana Angelines (una monja inocente y frágil) y de la hermana Tatiana (una monja un poco más bruta), y a través del fútbol, crean algo parecido a una familia de verdad.]]></plot>
+  <outline><![CDATA[Una Película de Roberto Bueso]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-20 12:06:05</dateadded>
+  <title>Llenos de gracia</title>
+  <originaltitle>Llenos de gracia</originaltitle>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Marina</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Paula Usero</name>
+    <role>Angelines</role>
+    <type>Actor</type>
+    <tmdbid>1928187</tmdbid>
+    <imdbid>nm6098424</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Chiapella</name>
+    <role>Fracasinho</role>
+    <type>Actor</type>
+    <tmdbid>1205318</tmdbid>
+    <imdbid>nm1687275</imdbid>
+    <tvdbid>534165</tvdbid>
+  </actor>
+  <actor>
+    <name>Manolo Solo</name>
+    <role>Padre</role>
+    <type>Actor</type>
+    <tmdbid>592709</tmdbid>
+    <imdbid>nm1254805</imdbid>
+    <tvdbid>294463</tvdbid>
+  </actor>
+  <director tmdbid="2269274">Roberto Bueso</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3m-0nYFm6eI</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>Llenos de gracia</sorttitle>
+  <imdbid>tt15341168</imdbid>
+  <tmdbid>954748</tmdbid>
+  <premiered>2022-06-24</premiered>
+  <releasedate>2022-06-24</releasedate>
+  <runtime>110</runtime>
+  <tagline>Una Película de Roberto Bueso</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>TVE</studio>
+  <studio>Mod Producciones</studio>
+  <studio>Misent Producciones</studio>
+  <studio>À Punt</studio>
+  <uniqueid type="imdb">tt15341168</uniqueid>
+  <uniqueid type="tmdb">954748</uniqueid>
+  <id>tt15341168</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1068395</bitrate>
+        <width>1352</width>
+        <height>720</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6578</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64240</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

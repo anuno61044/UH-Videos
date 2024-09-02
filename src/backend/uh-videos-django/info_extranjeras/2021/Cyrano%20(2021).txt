@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un hombre adelantado a su tiempo, Cyrano de Bergerac deslumbra ya sea con feroces juegos de palabras en una justa verbal o con un brillante manejo de la espada en un duelo. Pero, convencido de que su apariencia lo hace indigno del amor de una devota amiga, la luminosa Roxanne, Cyrano aún tiene que declarar sus sentimientos por ella, y Roxanne se ha enamorado, a primera vista, de Christian.]]></plot>
+  <outline><![CDATA[¿Alguna vez has amado a alguien?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-25 15:46:26</dateadded>
+  <title>Cyrano</title>
+  <originaltitle>Cyrano</originaltitle>
+  <actor>
+    <name>Peter Dinklage</name>
+    <role>Cyrano de Bergerac</role>
+    <type>Actor</type>
+    <tmdbid>22970</tmdbid>
+    <imdbid>nm0227759</imdbid>
+    <tvdbid>247907</tvdbid>
+  </actor>
+  <actor>
+    <name>Haley Bennett</name>
+    <role>Roxanne</role>
+    <type>Actor</type>
+    <tmdbid>58754</tmdbid>
+    <imdbid>nm2247245</imdbid>
+  </actor>
+  <actor>
+    <name>Kelvin Harrison Jr.</name>
+    <role>Christian de Neuvillette</role>
+    <type>Actor</type>
+    <tmdbid>1344361</tmdbid>
+    <imdbid>nm5123156</imdbid>
+    <tvdbid>531408</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Mendelsohn</name>
+    <role>De Guiche</role>
+    <type>Actor</type>
+    <tmdbid>77335</tmdbid>
+    <imdbid>nm0578853</imdbid>
+    <tvdbid>262333</tvdbid>
+  </actor>
+  <actor>
+    <name>Bashir Salahuddin</name>
+    <role>Le Bret</role>
+    <type>Actor</type>
+    <tmdbid>1241330</tmdbid>
+    <imdbid>nm1506981</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Dolan</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>229606</tmdbid>
+    <imdbid>nm0230826</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua James</name>
+    <role>Valvert</role>
+    <type>Actor</type>
+    <tmdbid>1344715</tmdbid>
+  </actor>
+  <actor>
+    <name>Anjana Vasan</name>
+    <role>Sister Claire</role>
+    <type>Actor</type>
+    <tmdbid>1503076</tmdbid>
+    <imdbid>nm4696728</imdbid>
+    <tvdbid>8347742</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruth Sheen</name>
+    <role>Mother Marthe</role>
+    <type>Actor</type>
+    <tmdbid>53367</tmdbid>
+    <imdbid>nm0790689</imdbid>
+  </actor>
+  <actor>
+    <name>Glen Hansard</name>
+    <role>Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>45124</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Amidon</name>
+    <role>Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1563324</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Folan</name>
+    <role>Guard #3</role>
+    <type>Actor</type>
+    <tmdbid>3383260</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Benton</name>
+    <role>Montfleury</role>
+    <type>Actor</type>
+    <tmdbid>77638</tmdbid>
+    <imdbid>nm0072949</imdbid>
+  </actor>
+  <actor>
+    <name>Richard McCabe</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>7025</tmdbid>
+    <imdbid>nm0564500</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Wight</name>
+    <role>Ragueneau</role>
+    <type>Actor</type>
+    <tmdbid>17476</tmdbid>
+    <imdbid>nm0927835</imdbid>
+  </actor>
+  <actor>
+    <name>Tim McMullan</name>
+    <role>Jodelet</role>
+    <type>Actor</type>
+    <tmdbid>15740</tmdbid>
+    <imdbid>nm0573406</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Bagnall</name>
+    <role>Stranger</role>
+    <type>Actor</type>
+    <tmdbid>195673</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Shepherd</name>
+    <role>Marquis</role>
+    <type>Actor</type>
+    <tmdbid>2600231</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Biddiss</name>
+    <role>The Gate Keeper</role>
+    <type>Actor</type>
+    <tmdbid>3383261</tmdbid>
+  </actor>
+  <actor>
+    <name>Katy Owen</name>
+    <role>The Thief</role>
+    <type>Actor</type>
+    <tmdbid>1724755</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Hunter</name>
+    <role>Theatre Buff</role>
+    <type>Actor</type>
+    <tmdbid>1825405</tmdbid>
+  </actor>
+  <actor>
+    <name>Celeste Dodwell</name>
+    <role>Theatre Lady</role>
+    <type>Actor</type>
+    <tmdbid>1698109</tmdbid>
+  </actor>
+  <actor>
+    <name>Celeste Dring</name>
+    <role>Theatre Lady</role>
+    <type>Actor</type>
+    <tmdbid>1616783</tmdbid>
+    <tvdbid>7989437</tvdbid>
+  </actor>
+  <actor>
+    <name>Bettrys Jones</name>
+    <role>Sheep Girl</role>
+    <type>Actor</type>
+    <tmdbid>2240621</tmdbid>
+  </actor>
+  <actor>
+    <name>Nandi Bhebhe</name>
+    <role>Sheep Girl Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2619438</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Mace</name>
+    <role>Handsome Landlord</role>
+    <type>Actor</type>
+    <tmdbid>1595250</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Peters</name>
+    <role>Thief</role>
+    <type>Actor</type>
+    <tmdbid>3383262</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Rait</name>
+    <role>Son of Theatre Buff</role>
+    <type>Actor</type>
+    <tmdbid>3383263</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyla Goodey</name>
+    <role>Theatre Chorus / Aristocrat</role>
+    <type>Actor</type>
+    <tmdbid>3383264</tmdbid>
+  </actor>
+  <actor>
+    <name>Beverly Rudd</name>
+    <role>Theatre Chorus / Orange Seller</role>
+    <type>Actor</type>
+    <tmdbid>1388199</tmdbid>
+  </actor>
+  <actor>
+    <name>Giles King</name>
+    <role>Theatre Chorus / Borghesi</role>
+    <type>Actor</type>
+    <tmdbid>1411355</tmdbid>
+    <imdbid>nm1375492</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Grose</name>
+    <role>Theatre Chorus</role>
+    <type>Actor</type>
+    <tmdbid>3383265</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Wright</name>
+    <role>Theatre Chorus / Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>2820516</tmdbid>
+  </actor>
+  <actor>
+    <name>John Locke</name>
+    <role>The Follow Spot Operator</role>
+    <type>Actor</type>
+    <tmdbid>2114236</tmdbid>
+    <imdbid>nm2521096</imdbid>
+  </actor>
+  <director tmdbid="36588" imdbid="nm0942504">Joe Wright</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nzUJrBJqSu4</trailer>
+  <rating>6.4</rating>
+  <year>2021</year>
+  <sorttitle>Cyrano</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12889404</imdbid>
+  <tmdbid>730047</tmdbid>
+  <premiered>2021-12-17</premiered>
+  <releasedate>2021-12-17</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>123</runtime>
+  <tagline>¿Alguna vez has amado a alguien?</tagline>
+  <country>Canada</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Working Title Films</studio>
+  <studio>Bron Studios</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <uniqueid type="tmdb">730047</uniqueid>
+  <uniqueid type="imdb">tt12889404</uniqueid>
+  <id>tt12889404</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149849</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7393</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127856</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El día que Ángel habló con Estrella en aquella discoteca, su vida cambió para siempre. Tras una pelea con Poli, el posesivo novio de la chica, éste descubre que Ángel tiene talento para meterse en problemas y, lo más importante, para salir de ellos. Por eso, le anima a unirse a una banda de atracadores que tiene en jaque a toda la policía de Madrid. Ángel comienza a escalar rápidamente en una pirámide de atracos, dinero negro, negocios turbios y abogados corruptos que le llevarán a ser acorralado por Duque, un incansable detective que no parará hasta acabar con su carrera. Desoyendo los consejos de su gente, Ángel consigue ascender hasta convertirse en el protegido de Rogelio, uno de los tipos que controla el mercado negro de la ciudad. Con éste y Sole, hija del capo, Ángel descubrirá que el precio del poder es alto y que pronto tendrá que decidir entre su futuro como atracador y el amor de su vida, Estrella.]]></plot>
+  <outline><![CDATA[Inspirada en hechos reales.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-05 08:40:11</dateadded>
+  <title>Hasta el cielo</title>
+  <originaltitle>Hasta el cielo</originaltitle>
+  <actor>
+    <name>Miguel Herrán</name>
+    <role>Ángel</role>
+    <type>Actor</type>
+    <tmdbid>1428896</tmdbid>
+    <imdbid>nm5969653</imdbid>
+  </actor>
+  <actor>
+    <name>Carolina Yuste</name>
+    <role>Estrella</role>
+    <type>Actor</type>
+    <tmdbid>2025663</tmdbid>
+    <imdbid>nm8188533</imdbid>
+    <tvdbid>8189878</tvdbid>
+  </actor>
+  <actor>
+    <name>Asia Ortega</name>
+    <role>Sole</role>
+    <type>Actor</type>
+    <tmdbid>2203918</tmdbid>
+    <imdbid>nm2399032</imdbid>
+    <tvdbid>8109164</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Tosar</name>
+    <role>Rogelio</role>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cayo</name>
+    <role>Duque</role>
+    <type>Actor</type>
+    <tmdbid>51902</tmdbid>
+    <imdbid>nm0147308</imdbid>
+    <tvdbid>456310</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard Holmes</name>
+    <role>Poli</role>
+    <type>Actor</type>
+    <tmdbid>1055929</tmdbid>
+    <imdbid>nm0392021</imdbid>
+    <tvdbid>340248</tvdbid>
+  </actor>
+  <actor>
+    <name>Patricia Vico</name>
+    <role>Mercedes</role>
+    <type>Actor</type>
+    <tmdbid>1243743</tmdbid>
+    <imdbid>nm0896071</imdbid>
+    <tvdbid>472528</tvdbid>
+  </actor>
+  <actor>
+    <name>César Mateo</name>
+    <type>Actor</type>
+    <tmdbid>1456032</tmdbid>
+    <imdbid>nm5973647</imdbid>
+  </actor>
+  <actor>
+    <name>Marina Campos</name>
+    <type>Actor</type>
+    <tmdbid>2469037</tmdbid>
+  </actor>
+  <actor>
+    <name>Dollar Selmouni</name>
+    <type>Actor</type>
+    <tmdbid>2469038</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramseys</name>
+    <type>Actor</type>
+    <tmdbid>2469039</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayax Pedrosa</name>
+    <type>Actor</type>
+    <tmdbid>2710517</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosa Vivas</name>
+    <role>Rogelio's wife</role>
+    <type>Actor</type>
+    <tmdbid>1794344</tmdbid>
+    <imdbid>nm0900253</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Valdivielso</name>
+    <type>Actor</type>
+    <tmdbid>1367156</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime Zatarain</name>
+    <type>Actor</type>
+    <tmdbid>2290677</tmdbid>
+    <tvdbid>8812453</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucio Romero</name>
+    <role>Abuelo</role>
+    <type>Actor</type>
+    <tmdbid>380852</tmdbid>
+    <imdbid>nm0739490</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Quintero</name>
+    <role>Police Camera</role>
+    <type>Actor</type>
+    <tmdbid>1489422</tmdbid>
+    <imdbid>nm1971513</imdbid>
+  </actor>
+  <actor>
+    <name>Jota Castellano</name>
+    <role>Security</role>
+    <type>Actor</type>
+    <tmdbid>2707831</tmdbid>
+  </actor>
+  <director tmdbid="212687" imdbid="nm0130714" tvdbid="520387">Daniel Calparsoro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HNMPWp_7ljo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I-wlmGEXJAM</trailer>
+  <rating>5.6</rating>
+  <year>2020</year>
+  <sorttitle>Hasta el cielo</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt10978398</imdbid>
+  <tmdbid>651589</tmdbid>
+  <premiered>2020-12-18</premiered>
+  <releasedate>2020-12-18</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>122</runtime>
+  <tagline>Inspirada en hechos reales.</tagline>
+  <country>Spain</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Vaca Films</studio>
+  <studio>ICAA</studio>
+  <studio>TVE</studio>
+  <studio>TeleMadrid</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt10978398</uniqueid>
+  <uniqueid type="tmdb">651589</uniqueid>
+  <id>tt10978398</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1094680</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7318</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

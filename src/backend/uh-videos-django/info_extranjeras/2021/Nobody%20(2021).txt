@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A bystander who intervenes to help a woman being harassed by a group of men becomes the target of a vengeful drug lord.]]></plot>
+  <outline><![CDATA[En ocasiones, la persona en la que nadie repara es la más peligrosa de todas.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-19 08:59:38</dateadded>
+  <title>Nobody</title>
+  <originaltitle>Nobody</originaltitle>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+    <tvdbid>290451</tvdbid>
+  </actor>
+  <actor>
+    <name>Aleksey Serebryakov</name>
+    <type>Actor</type>
+    <tmdbid>113332</tmdbid>
+    <imdbid>nm0148516</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Nielsen</name>
+    <type>Actor</type>
+    <tmdbid>935</tmdbid>
+    <imdbid>nm0001567</imdbid>
+    <tvdbid>310431</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher Lloyd</name>
+    <type>Actor</type>
+    <tmdbid>1062</tmdbid>
+    <imdbid>nm0000502</imdbid>
+  </actor>
+  <director tmdbid="1169024" imdbid="nm5820154">Ilya Naishuller</director>
+  <writer>Derek Kolstad</writer>
+  <credits>Derek Kolstad</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mzrib73dVbc</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <sorttitle>Nobody</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7888964</imdbid>
+  <tmdbid>615457</tmdbid>
+  <premiered>2021-03-18</premiered>
+  <releasedate>2021-03-18</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>92</runtime>
+  <tagline>En ocasiones, la persona en la que nadie repara es la más peligrosa de todas.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Universal Pictures</studio>
+  <studio>87North Productions</studio>
+  <studio>Odenkirk Provissiero Entertainment</studio>
+  <studio>Eighty Two Films</studio>
+  <set tmdbcolid="1129084">
+    <name>Nobody Collection</name>
+  </set>
+  <uniqueid type="imdb">tt7888964</uniqueid>
+  <uniqueid type="tmdb">615457</uniqueid>
+  <id>tt7888964</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1114831</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5499</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96451</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

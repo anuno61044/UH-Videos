@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuatro parejas reciben una invitación para pasar un fin de semana en el hotel donde se casaron. Lo que no saben es que el anfitrión quiere chantajearles. Y mucho menos que, al día siguiente, aparecerá muerto.]]></plot>
+  <outline><![CDATA[Los muertos no declaran]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-21 10:27:45</dateadded>
+  <title>Todos lo hacen</title>
+  <originaltitle>Todos lo hacen</originaltitle>
+  <actor>
+    <name>Salva Reina</name>
+    <role>Sergio</role>
+    <type>Actor</type>
+    <tmdbid>1413918</tmdbid>
+    <imdbid>nm1892699</imdbid>
+  </actor>
+  <actor>
+    <name>Kira Miró</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>102223</tmdbid>
+    <imdbid>nm1176125</imdbid>
+    <tvdbid>449347</tvdbid>
+  </actor>
+  <actor>
+    <name>Macarena Gómez</name>
+    <role>Bea</role>
+    <type>Actor</type>
+    <tmdbid>67052</tmdbid>
+    <imdbid>nm1296762</imdbid>
+    <tvdbid>7948997</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Santos</name>
+    <role>Alejo</role>
+    <type>Actor</type>
+    <tmdbid>1050908</tmdbid>
+    <imdbid>nm1685281</imdbid>
+    <tvdbid>8169269</tvdbid>
+  </actor>
+  <actor>
+    <name>Pablo Carbonell</name>
+    <role>Manuel</role>
+    <type>Actor</type>
+    <tmdbid>119593</tmdbid>
+    <imdbid>nm0136198</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Duro</name>
+    <role>Mariví</role>
+    <type>Actor</type>
+    <tmdbid>572443</tmdbid>
+    <imdbid>nm2863907</imdbid>
+    <tvdbid>513419</tvdbid>
+  </actor>
+  <actor>
+    <name>Julián López</name>
+    <role>Juan Carlos</role>
+    <type>Actor</type>
+    <tmdbid>85559</tmdbid>
+    <imdbid>nm1694256</imdbid>
+    <tvdbid>294452</tvdbid>
+  </actor>
+  <actor>
+    <name>Mariam Hernández</name>
+    <role>Sonia</role>
+    <type>Actor</type>
+    <tmdbid>234531</tmdbid>
+    <imdbid>nm2883665</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <role>Bustos</role>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Víctor Palmero</name>
+    <role>Andrés</role>
+    <type>Actor</type>
+    <tmdbid>1152265</tmdbid>
+    <imdbid>nm2240615</imdbid>
+    <tvdbid>7930202</tvdbid>
+  </actor>
+  <director tmdbid="2978732">Hugo Martín Cuervo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oV-JiDb5P8g</trailer>
+  <rating>4.2</rating>
+  <year>2022</year>
+  <sorttitle>Todos lo hacen</sorttitle>
+  <imdbid>tt14909012</imdbid>
+  <tmdbid>892048</tmdbid>
+  <premiered>2022-12-28</premiered>
+  <releasedate>2022-12-28</releasedate>
+  <runtime>100</runtime>
+  <tagline>Los muertos no declaran</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <studio>A Contracorriente Films</studio>
+  <uniqueid type="tmdb">892048</uniqueid>
+  <uniqueid type="imdb">tt14909012</uniqueid>
+  <id>tt14909012</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1499222</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5991</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

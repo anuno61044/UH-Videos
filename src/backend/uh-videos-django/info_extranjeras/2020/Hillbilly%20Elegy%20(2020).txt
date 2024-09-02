@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[An urgent phone call pulls a Yale Law student back to his Ohio hometown, where he reflects on three generations of family history and his own future.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-30 08:45:05</dateadded>
+  <title>Hillbilly Elegy</title>
+  <originaltitle>Hillbilly Elegy</originaltitle>
+  <actor>
+    <name>Amy Adams</name>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+    <tvdbid>252577</tvdbid>
+  </actor>
+  <actor>
+    <name>Glenn Close</name>
+    <type>Actor</type>
+    <tmdbid>515</tmdbid>
+    <imdbid>nm0000335</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Basso</name>
+    <type>Actor</type>
+    <tmdbid>222122</tmdbid>
+    <imdbid>nm2773059</imdbid>
+  </actor>
+  <actor>
+    <name>Haley Bennett</name>
+    <type>Actor</type>
+    <tmdbid>58754</tmdbid>
+    <imdbid>nm2247245</imdbid>
+  </actor>
+  <director tmdbid="6159" imdbid="nm0000165">Ron Howard</director>
+  <writer>J.D. Vance (based on the book by)</writer>
+  <writer>Vanessa Taylor</writer>
+  <credits>J.D. Vance (based on the book by)</credits>
+  <credits>Vanessa Taylor</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KW_3aaoSOYg</trailer>
+  <rating>6.7</rating>
+  <year>2020</year>
+  <sorttitle>Hillbilly Elegy</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6772802</imdbid>
+  <tmdbid>592984</tmdbid>
+  <premiered>2020-11-09</premiered>
+  <releasedate>2020-11-09</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>117</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Imagine Entertainment</studio>
+  <uniqueid type="imdb">tt6772802</uniqueid>
+  <uniqueid type="tmdb">592984</uniqueid>
+  <id>tt6772802</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>945507</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7046</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

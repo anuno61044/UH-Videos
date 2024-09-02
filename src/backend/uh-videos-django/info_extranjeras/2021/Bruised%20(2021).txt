@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Jackie Justice es un luchador de artes marciales mixtas que deja el deporte en desgracia.  Con mala suerte y hirviendo de rabia y arrepentimiento años después de la pelea, su manager y novio Desi la persuade en una brutal pelea clandestina y llama la atención de un promotor de la liga de lucha que le promete a Jackie una vida de regreso en el octágono.  Pero el camino hacia la redención se vuelve inesperadamente personal cuando Manny, el hijo que entregó cuando era un bebé, aparece en la puerta de su casa.  Una historia triunfal de una luchadora que reclama su poder, dentro y fuera del ring, cuando todos la han contado.]]></plot>
+  <outline><![CDATA[No es una segunda oportunidad. Es una última oportunidad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-18 08:03:11</dateadded>
+  <title>Herida</title>
+  <originaltitle>Bruised</originaltitle>
+  <actor>
+    <name>Halle Berry</name>
+    <role>Jackie Justice</role>
+    <type>Actor</type>
+    <tmdbid>4587</tmdbid>
+    <imdbid>nm0000932</imdbid>
+  </actor>
+  <actor>
+    <name>Adan Canto</name>
+    <role>Desi</role>
+    <type>Actor</type>
+    <tmdbid>1010189</tmdbid>
+    <imdbid>nm3841486</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Atim</name>
+    <role>Bobbi Buddhakan Berroa</role>
+    <type>Actor</type>
+    <tmdbid>1851642</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Boyd Jr.</name>
+    <role>Manny Lyons Jr</role>
+    <type>Actor</type>
+    <tmdbid>2437735</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriane Lenox</name>
+    <role>Angel McQueen</role>
+    <type>Actor</type>
+    <tmdbid>53260</tmdbid>
+    <imdbid>nm0502180</imdbid>
+  </actor>
+  <actor>
+    <name>Shamier Anderson</name>
+    <role>Immaculate</role>
+    <type>Actor</type>
+    <tmdbid>1080969</tmdbid>
+    <imdbid>nm3875456</imdbid>
+    <tvdbid>299834</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Henderson</name>
+    <role>Pops</role>
+    <type>Actor</type>
+    <tmdbid>196179</tmdbid>
+    <imdbid>nm0376610</imdbid>
+  </actor>
+  <actor>
+    <name>Valentina Shevchenko</name>
+    <role>Lady Killer</role>
+    <type>Actor</type>
+    <tmdbid>1585508</tmdbid>
+  </actor>
+  <actor>
+    <name>Lela Loren</name>
+    <role>Mrs. Bradshaw</role>
+    <type>Actor</type>
+    <tmdbid>203781</tmdbid>
+    <imdbid>nm2187457</imdbid>
+  </actor>
+  <actor>
+    <name>Nikolai Nikolaeff</name>
+    <role>Igor</role>
+    <type>Actor</type>
+    <tmdbid>1238110</tmdbid>
+  </actor>
+  <actor>
+    <name>Denny Dillon</name>
+    <role>Crazy Esther</role>
+    <type>Actor</type>
+    <tmdbid>59695</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Crespo</name>
+    <role>Nathan Bradshaw</role>
+    <type>Actor</type>
+    <tmdbid>3325671</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Chieng</name>
+    <role>Karima</role>
+    <type>Actor</type>
+    <tmdbid>2904509</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawna Hamic</name>
+    <role>Secretary</role>
+    <type>Actor</type>
+    <tmdbid>2375314</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Cayne</name>
+    <role>Teen #1</role>
+    <type>Actor</type>
+    <tmdbid>2240342</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio A. Sanchez</name>
+    <role>Teen #2</role>
+    <type>Actor</type>
+    <tmdbid>3325678</tmdbid>
+  </actor>
+  <actor>
+    <name>Chandler Acloque</name>
+    <role>Junebug's Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3325676</tmdbid>
+  </actor>
+  <actor>
+    <name>Phaidra Knight</name>
+    <role>Gym Opponent #1</role>
+    <type>Actor</type>
+    <tmdbid>3325789</tmdbid>
+  </actor>
+  <actor>
+    <name>Elijah Clarke</name>
+    <role>Gym Opponent #2</role>
+    <type>Actor</type>
+    <tmdbid>3325785</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert D. Constance</name>
+    <role>Black Rob</role>
+    <type>Actor</type>
+    <tmdbid>3325788</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Fratto</name>
+    <role>Fight Announcer</role>
+    <type>Actor</type>
+    <tmdbid>3325792</tmdbid>
+  </actor>
+  <actor>
+    <name>Yves Edwards</name>
+    <role>Sport Commentator #1</role>
+    <type>Actor</type>
+    <tmdbid>85253</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Kedzie</name>
+    <role>Sport Commentator #2</role>
+    <type>Actor</type>
+    <tmdbid>1396184</tmdbid>
+  </actor>
+  <actor>
+    <name>Delissa Reynolds</name>
+    <role>Ms. Feelgood</role>
+    <type>Actor</type>
+    <tmdbid>2709154</tmdbid>
+  </actor>
+  <director tmdbid="4587" imdbid="nm0000932">Halle Berry</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EMu8K0l8ggA</trailer>
+  <rating>6.2</rating>
+  <year>2021</year>
+  <sorttitle>Herida</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8310474</imdbid>
+  <tmdbid>718633</tmdbid>
+  <premiered>2021-11-17</premiered>
+  <releasedate>2021-11-17</releasedate>
+  <criticrating>51</criticrating>
+  <runtime>124</runtime>
+  <tagline>No es una segunda oportunidad. Es una última oportunidad.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Romulus Entertainment</studio>
+  <studio>Entertainment 360</studio>
+  <studio>Rhea Films</studio>
+  <studio>Thunder Road</studio>
+  <studio>Aloe Entertainment</studio>
+  <studio>Bohemia Media</studio>
+  <studio>Head Gear Films</studio>
+  <studio>Metrol Technology</studio>
+  <studio>Hercules Film Fund</studio>
+  <uniqueid type="imdb">tt8310474</uniqueid>
+  <uniqueid type="tmdb">718633</uniqueid>
+  <id>tt8310474</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>897674</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7450</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

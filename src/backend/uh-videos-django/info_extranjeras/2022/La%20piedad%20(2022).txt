@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mateo vive con su madre, Libertad, en un mundo color de rosa; un microcosmos que tiene precisamente dos habitantes, madre e hijo. Un día a Mateo le diagnostican cáncer…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-05-13 18:44:14</dateadded>
+  <title>La Piedad</title>
+  <originaltitle>La Piedad</originaltitle>
+  <actor>
+    <name>Macarena Gómez</name>
+    <type>Actor</type>
+    <tmdbid>67052</tmdbid>
+    <imdbid>nm1296762</imdbid>
+    <tvdbid>7948997</tvdbid>
+  </actor>
+  <actor>
+    <name>Ángela Molina</name>
+    <role>Libertad</role>
+    <type>Actor</type>
+    <tmdbid>3822</tmdbid>
+    <imdbid>nm0596807</imdbid>
+    <tvdbid>467485</tvdbid>
+  </actor>
+  <actor>
+    <name>Manel Llunell</name>
+    <role>Mateo</role>
+    <type>Actor</type>
+    <tmdbid>2354333</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Polvorosa</name>
+    <type>Actor</type>
+    <tmdbid>138716</tmdbid>
+    <imdbid>nm1308063</imdbid>
+    <tvdbid>448240</tvdbid>
+  </actor>
+  <actor>
+    <name>María León</name>
+    <type>Actor</type>
+    <tmdbid>587931</tmdbid>
+    <imdbid>nm2725254</imdbid>
+    <tvdbid>448255</tvdbid>
+  </actor>
+  <actor>
+    <name>Alberto Jo Lee</name>
+    <type>Actor</type>
+    <tmdbid>132443</tmdbid>
+    <imdbid>nm1902049</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Freire</name>
+    <type>Actor</type>
+    <tmdbid>16443</tmdbid>
+    <imdbid>nm0293842</imdbid>
+    <tvdbid>639330</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio 'Morris' Durán</name>
+    <type>Actor</type>
+    <tmdbid>15599</tmdbid>
+    <imdbid>nm0244460</imdbid>
+  </actor>
+  <actor>
+    <name>Meteora Fontana</name>
+    <type>Actor</type>
+    <tmdbid>2883140</tmdbid>
+  </actor>
+  <actor>
+    <name>Songa Park</name>
+    <type>Actor</type>
+    <tmdbid>2050963</tmdbid>
+  </actor>
+  <director tmdbid="931271" tvdbid="448242">Eduardo Casanova</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v5tI1AbaTbc</trailer>
+  <rating>5.4</rating>
+  <year>2023</year>
+  <sorttitle>Piedad</sorttitle>
+  <imdbid>tt7922238</imdbid>
+  <tmdbid>987578</tmdbid>
+  <premiered>2023-01-13</premiered>
+  <releasedate>2023-01-13</releasedate>
+  <runtime>86</runtime>
+  <country>Argentina</country>
+  <country>Spain</country>
+  <genre>Fantasía</genre>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>INCAA</studio>
+  <uniqueid type="imdb">tt7922238</uniqueid>
+  <uniqueid type="tmdb">987578</uniqueid>
+  <id>tt7922238</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>162782</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>85</duration>
+        <durationinseconds>5149</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63825</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

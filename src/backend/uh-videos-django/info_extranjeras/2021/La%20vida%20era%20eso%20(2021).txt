@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[María y Verónica son dos inmigrantes españolas de diferentes generaciones que se encuentran en un hospital en Bélgica. Allí comienzan a forjar una relación de amistad e intimidad hasta que un inesperado acontecimiento llevará a María, la mayor, a emprender un viaje al sur de España en busca de la familia de Verónica. Una vez allí, María comenzará a cuestionarse sus más sólidos principios.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-20 08:16:18</dateadded>
+  <title>La vida era eso</title>
+  <originaltitle>La vida era eso</originaltitle>
+  <actor>
+    <name>Petra Martínez</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>132999</tmdbid>
+    <imdbid>nm0555296</imdbid>
+    <tvdbid>7921718</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Castillo</name>
+    <role>Verónica</role>
+    <type>Actor</type>
+    <tmdbid>1031914</tmdbid>
+    <imdbid>nm1298582</imdbid>
+    <tvdbid>469613</tvdbid>
+  </actor>
+  <actor>
+    <name>Florin Piersic Jr.</name>
+    <role>Luca</role>
+    <type>Actor</type>
+    <tmdbid>52978</tmdbid>
+    <imdbid>nm0682725</imdbid>
+  </actor>
+  <actor>
+    <name>Ramón Barea</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>24987</tmdbid>
+    <imdbid>nm0054381</imdbid>
+    <tvdbid>493593</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Morilla</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>2560394</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordi Gimeno</name>
+    <type>Actor</type>
+    <tmdbid>2314060</tmdbid>
+  </actor>
+  <director tmdbid="1493049">David Martín de los Santos</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1S21Ap8Uf38</trailer>
+  <rating>7.6</rating>
+  <year>2020</year>
+  <sorttitle>vida era eso</sorttitle>
+  <imdbid>tt10395398</imdbid>
+  <tmdbid>753431</tmdbid>
+  <premiered>2020-11-07</premiered>
+  <releasedate>2020-11-07</releasedate>
+  <runtime>105</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Canal Sur</studio>
+  <studio>ICAA</studio>
+  <studio>Lolita Films</studio>
+  <studio>Smiz and Pixel</studio>
+  <studio>Magnética Cine</studio>
+  <studio>Mediaevs</studio>
+  <uniqueid type="tmdb">753431</uniqueid>
+  <uniqueid type="imdb">tt10395398</uniqueid>
+  <id>tt10395398</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>970974</bitrate>
+        <width>1680</width>
+        <height>720</height>
+        <aspect>240:103</aspect>
+        <aspectratio>240:103</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6293</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64308</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

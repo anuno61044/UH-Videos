@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A family moving to a new house to live the dream of the big city. A house where dreams turn in nightmares.]]></plot>
+  <outline><![CDATA[Bienvenidos a su casa]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:24:35</dateadded>
+  <title>Malasaña 32</title>
+  <originaltitle>Malasaña 32</originaltitle>
+  <actor>
+    <name>Begona Vargas</name>
+    <type>Actor</type>
+    <tmdbid>2296607</tmdbid>
+    <imdbid>nm9603580</imdbid>
+    <tvdbid>7882172</tvdbid>
+  </actor>
+  <actor>
+    <name>Iván Marcos</name>
+    <type>Actor</type>
+    <tmdbid>1770902</tmdbid>
+    <tvdbid>7957346</tvdbid>
+  </actor>
+  <actor>
+    <name>Bea Segura</name>
+    <type>Actor</type>
+    <tmdbid>19823</tmdbid>
+    <imdbid>nm1123309</imdbid>
+    <tvdbid>538129</tvdbid>
+  </actor>
+  <actor>
+    <name>Sergio Castellanos</name>
+    <type>Actor</type>
+    <tmdbid>1961604</tmdbid>
+    <imdbid>nm1525783</imdbid>
+  </actor>
+  <director tmdbid="1485396" imdbid="nm3691012">Albert Pintó</director>
+  <writer>Ramón Campos</writer>
+  <writer>Gema R. Neira</writer>
+  <writer>David Orea</writer>
+  <writer>Salvador S. Molina</writer>
+  <credits>Ramón Campos</credits>
+  <credits>Gema R. Neira</credits>
+  <credits>David Orea</credits>
+  <credits>Salvador S. Molina</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PhNifmybTgM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I3gRqsw-nHM</trailer>
+  <rating>5.6</rating>
+  <year>2020</year>
+  <sorttitle>Malasana 32</sorttitle>
+  <imdbid>tt10952782</imdbid>
+  <tmdbid>639798</tmdbid>
+  <premiered>2020-01-17</premiered>
+  <releasedate>2020-01-17</releasedate>
+  <criticrating>43</criticrating>
+  <runtime>100</runtime>
+  <tagline>Bienvenidos a su casa</tagline>
+  <country>Spain</country>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <studio>4 Cats Pictures</studio>
+  <studio>Atresmedia</studio>
+  <studio>Bambú Producciones</studio>
+  <studio>Mr. Fields and Friends</studio>
+  <uniqueid type="imdb">tt10952782</uniqueid>
+  <uniqueid type="tmdb">639798</uniqueid>
+  <id>tt10952782</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>172761</bitrate>
+        <width>720</width>
+        <height>300</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6022</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>97381</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A zombie virus has in the last 4 years spread to all South Korea. 4 Koreans in HK sail thru the blockade to Incheon for USD20,000,000 on a truck.]]></plot>
+  <outline><![CDATA[Estación zombie 2: Península]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-31 09:23:18</dateadded>
+  <title>Train to Busan Presents: Peninsula</title>
+  <originaltitle>반도</originaltitle>
+  <actor>
+    <name>Dong-won Gang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Lee Jung-hyun</name>
+    <type>Actor</type>
+    <tmdbid>1244822</tmdbid>
+    <imdbid>nm0497630</imdbid>
+  </actor>
+  <actor>
+    <name>Re Lee</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hae-hyo Kwon</name>
+    <type>Actor</type>
+  </actor>
+  <director>Sang-ho Yeon</director>
+  <writer>Sang-ho Yeon</writer>
+  <writer>Ryu Yong-jae</writer>
+  <credits>Sang-ho Yeon</credits>
+  <credits>Ryu Yong-jae</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qCjVOT_PU28</trailer>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <sorttitle>Train to Busan Presents: Peninsula</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt8850222</imdbid>
+  <tmdbid>581392</tmdbid>
+  <premiered>2020-07-15</premiered>
+  <releasedate>2020-07-15</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>116</runtime>
+  <tagline>Estación zombie 2: Península</tagline>
+  <country>South Korea</country>
+  <genre>Action</genre>
+  <genre>Horror</genre>
+  <genre>Thriller</genre>
+  <studio>Next Entertainment World</studio>
+  <studio>RedPeter Film</studio>
+  <studio>Vantage Holdings</studio>
+  <studio>StudioCanal</studio>
+  <set tmdbcolid="619537">
+    <name>Train to Busan - Colección</name>
+  </set>
+  <set tmdbcolid="619537">
+    <name>Tren a Busan - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt8850222</uniqueid>
+  <uniqueid type="tmdb">581392</uniqueid>
+  <id>tt8850222</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>961913</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6950</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>619537</collectionnumber>
+</movie>

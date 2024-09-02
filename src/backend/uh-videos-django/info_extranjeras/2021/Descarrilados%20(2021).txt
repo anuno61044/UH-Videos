@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Pepo, Roge, Costa y Juan Luis, cuatro veinteañeros, emprenden el viaje soñado: el INTERRAÍL. Pero en su primera parada en París, la aventura, y de paso su amistad, acaban de manera abrupta.  Veinte años después Juan Luis ha fallecido y, como última voluntad, ha decidido donar su jugosa herencia a sus tres antiguos amigos. Pero a cambio les pide que hagan el Interraíl que no pudieron hacer con unas divertidas condiciones… tienen que llevarse con ellos las cenizas de su amigo para que pueda “vivir” la experiencia con ellos.  Por “amor” a Juan Luis, estos tres adolescentes de 40 años tendrán que resolver sus diferencias, visitar las mismas ciudades y vivir las mismas juergas, pero de un modo mucho más patético. Y con el colesterol por las nubes…]]></plot>
+  <outline><![CDATA[̶N̶u̶n̶c̶a̶ es demasiado tarde para el interráil de tu vida.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-28 07:56:11</dateadded>
+  <title>Descarrilados</title>
+  <originaltitle>Descarrilados</originaltitle>
+  <actor>
+    <name>Julián López</name>
+    <type>Actor</type>
+    <tmdbid>85559</tmdbid>
+    <imdbid>nm1694256</imdbid>
+    <tvdbid>294452</tvdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Sevilla</name>
+    <type>Actor</type>
+    <tmdbid>972158</tmdbid>
+    <imdbid>nm1238859</imdbid>
+    <tvdbid>294453</tvdbid>
+  </actor>
+  <actor>
+    <name>Arturo Valls</name>
+    <type>Actor</type>
+    <tmdbid>1042765</tmdbid>
+    <imdbid>nm0885219</imdbid>
+    <tvdbid>452195</tvdbid>
+  </actor>
+  <actor>
+    <name>Dafne Fernández</name>
+    <type>Actor</type>
+    <tmdbid>110116</tmdbid>
+    <imdbid>nm0273451</imdbid>
+    <tvdbid>466541</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Milán</name>
+    <type>Actor</type>
+    <tmdbid>1111245</tmdbid>
+    <imdbid>nm0586774</imdbid>
+    <tvdbid>307496</tvdbid>
+  </actor>
+  <director tmdbid="1759731">Fernando García-Ruiz Rubio</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pf0B6xSuopg</trailer>
+  <rating>4.6</rating>
+  <year>2021</year>
+  <sorttitle>Descarrilados</sorttitle>
+  <imdbid>tt12610584</imdbid>
+  <tmdbid>772388</tmdbid>
+  <premiered>2021-08-20</premiered>
+  <releasedate>2021-08-20</releasedate>
+  <runtime>99</runtime>
+  <tagline>̶N̶u̶n̶c̶a̶ es demasiado tarde para el interráil de tu vida.</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Mono Films</studio>
+  <studio>Sony Pictures International Productions</studio>
+  <studio>Kilima Media</studio>
+  <studio>Amazon Studios</studio>
+  <uniqueid type="imdb">tt12610584</uniqueid>
+  <uniqueid type="tmdb">772388</uniqueid>
+  <id>tt12610584</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1094543</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5926</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64336</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Upset that he has to share the room he loves with his grandfather, Peter decides to declare war in an attempt to get it back.]]></plot>
+  <outline><![CDATA[La vieja escuela contra la nueva escuela.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-31 11:48:55</dateadded>
+  <title>The War with Grandpa</title>
+  <originaltitle>The War with Grandpa</originaltitle>
+  <actor>
+    <name>Robert De Niro</name>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+    <tvdbid>311037</tvdbid>
+  </actor>
+  <actor>
+    <name>Uma Thurman</name>
+    <type>Actor</type>
+    <tmdbid>139</tmdbid>
+    <imdbid>nm0000235</imdbid>
+    <tvdbid>344393</tvdbid>
+  </actor>
+  <actor>
+    <name>Rob Riggle</name>
+    <type>Actor</type>
+    <tmdbid>71403</tmdbid>
+    <imdbid>nm1443527</imdbid>
+    <tvdbid>308110</tvdbid>
+  </actor>
+  <actor>
+    <name>Oakes Fegley</name>
+    <type>Actor</type>
+    <tmdbid>1422517</tmdbid>
+    <imdbid>nm4625502</imdbid>
+  </actor>
+  <director tmdbid="49903" imdbid="nm0384722">Tim Hill</director>
+  <writer>Tom J. Astle (screenplay by)</writer>
+  <writer>Matt Ember (screenplay by)</writer>
+  <writer>Robert Kimmel Smith (based on the book "The War with Grandpa" by)</writer>
+  <credits>Tom J. Astle (screenplay by)</credits>
+  <credits>Matt Ember (screenplay by)</credits>
+  <credits>Robert Kimmel Smith (based on the book "The War with Grandpa" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KfjEumnQroM</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <sorttitle>War with Grandpa</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt4532038</imdbid>
+  <tmdbid>425001</tmdbid>
+  <premiered>2020-08-27</premiered>
+  <releasedate>2020-08-27</releasedate>
+  <criticrating>29</criticrating>
+  <runtime>98</runtime>
+  <tagline>La vieja escuela contra la nueva escuela.</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Family</genre>
+  <studio>Marro Films</studio>
+  <studio>EFO Films</studio>
+  <studio>Tri G</studio>
+  <studio>West Madison Entertainment</studio>
+  <uniqueid type="imdb">tt4532038</uniqueid>
+  <uniqueid type="tmdb">425001</uniqueid>
+  <id>tt4532038</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1134826</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5890</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

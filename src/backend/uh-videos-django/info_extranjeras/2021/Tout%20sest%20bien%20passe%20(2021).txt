@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A sus 85 años, el padre de Emmanuèle es hospitalizado tras un accidente cerebrovascular. Cuando se despierta, debilitado y dependiente, este coleccionista de arte, curioso por naturaleza y amante apasionado de la vida, le pide a su hija que le ayude a morir.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-12 09:47:16</dateadded>
+  <title>Todo ha ido bien</title>
+  <originaltitle>Tout s’est bien passé</originaltitle>
+  <actor>
+    <name>Sophie Marceau</name>
+    <role>Emmanuèle Bernheim</role>
+    <type>Actor</type>
+    <tmdbid>1957</tmdbid>
+    <imdbid>nm0000521</imdbid>
+  </actor>
+  <actor>
+    <name>André Dussollier</name>
+    <role>André Bernheim</role>
+    <type>Actor</type>
+    <tmdbid>18177</tmdbid>
+    <imdbid>nm0244707</imdbid>
+  </actor>
+  <actor>
+    <name>Géraldine Pailhas</name>
+    <role>Pascale Bernheim</role>
+    <type>Actor</type>
+    <tmdbid>19888</tmdbid>
+    <imdbid>nm0656768</imdbid>
+  </actor>
+  <actor>
+    <name>Hanna Schygulla</name>
+    <role>The Swiss lady</role>
+    <type>Actor</type>
+    <tmdbid>3734</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Rampling</name>
+    <role>Claude de Soria</role>
+    <type>Actor</type>
+    <tmdbid>44079</tmdbid>
+    <imdbid>nm0001648</imdbid>
+    <tvdbid>283328</tvdbid>
+  </actor>
+  <actor>
+    <name>Grégory Gadebois</name>
+    <role>Gérard Boisrond</role>
+    <type>Actor</type>
+    <tmdbid>223532</tmdbid>
+  </actor>
+  <actor>
+    <name>Éric Caravaca</name>
+    <role>Serge Toubiana</role>
+    <type>Actor</type>
+    <tmdbid>72254</tmdbid>
+    <imdbid>nm0136001</imdbid>
+  </actor>
+  <actor>
+    <name>Jacques Nolot</name>
+    <role>Robert, the roommate</role>
+    <type>Actor</type>
+    <tmdbid>40304</tmdbid>
+    <imdbid>nm0634500</imdbid>
+  </actor>
+  <actor>
+    <name>Laëtitia Clément</name>
+    <role>Nurse of Lariboisière</role>
+    <type>Actor</type>
+    <tmdbid>1271847</tmdbid>
+    <tvdbid>7969660</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexia Chicot</name>
+    <role>Noémie</role>
+    <type>Actor</type>
+    <tmdbid>1609352</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Duhesme</name>
+    <role>Police officer</role>
+    <type>Actor</type>
+    <tmdbid>1556117</tmdbid>
+  </actor>
+  <director tmdbid="4387" imdbid="nm0654830">François Ozon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cadb_0xwt1Y</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WrpKPZtGI_A</trailer>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <sorttitle>Todo ha ido bien</sorttitle>
+  <mpaa>G</mpaa>
+  <imdbid>tt12847812</imdbid>
+  <tmdbid>735726</tmdbid>
+  <premiered>2021-07-18</premiered>
+  <releasedate>2021-07-18</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>114</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>France 2 Cinéma</studio>
+  <studio>FOZ</studio>
+  <studio>SCOPE Pictures</studio>
+  <studio>Mandarin Cinéma</studio>
+  <studio>Playtime</studio>
+  <uniqueid type="imdb">tt12847812</uniqueid>
+  <uniqueid type="tmdb">735726</uniqueid>
+  <id>tt12847812</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1473291</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>180:97</aspect>
+        <aspectratio>180:97</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6844</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

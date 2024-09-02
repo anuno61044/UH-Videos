@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La película explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker, su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de veinte años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley, una de las personas más importantes e influyentes en la vida de Elvis.]]></plot>
+  <outline><![CDATA[El Hombre. La Leyenda. El Rey del Rock & Roll]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-06 19:33:41</dateadded>
+  <title>Elvis</title>
+  <originaltitle>Elvis</originaltitle>
+  <actor>
+    <name>Austin Butler</name>
+    <role>Elvis Presley</role>
+    <type>Actor</type>
+    <tmdbid>86654</tmdbid>
+    <imdbid>nm2581521</imdbid>
+    <tvdbid>379481</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Colonel Tom Parker</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Roxburgh</name>
+    <role>Vernon Presley</role>
+    <type>Actor</type>
+    <tmdbid>12206</tmdbid>
+    <imdbid>nm0746896</imdbid>
+    <tvdbid>476333</tvdbid>
+  </actor>
+  <actor>
+    <name>Helen Thomson</name>
+    <role>Gladys Presley</role>
+    <type>Actor</type>
+    <tmdbid>94876</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia DeJonge</name>
+    <role>Priscilla Presley</role>
+    <type>Actor</type>
+    <tmdbid>1385063</tmdbid>
+    <imdbid>nm4609822</imdbid>
+    <tvdbid>7926244</tvdbid>
+  </actor>
+  <actor>
+    <name>Dacre Montgomery</name>
+    <role>Steve Binder</role>
+    <type>Actor</type>
+    <tmdbid>1525047</tmdbid>
+    <imdbid>nm4223882</imdbid>
+  </actor>
+  <actor>
+    <name>Kelvin Harrison Jr.</name>
+    <role>B.B. King</role>
+    <type>Actor</type>
+    <tmdbid>1344361</tmdbid>
+    <imdbid>nm5123156</imdbid>
+    <tvdbid>531408</tvdbid>
+  </actor>
+  <actor>
+    <name>Yola</name>
+    <role>Sister Rosetta Tharpe</role>
+    <type>Actor</type>
+    <tmdbid>2546312</tmdbid>
+  </actor>
+  <actor>
+    <name>David Wenham</name>
+    <role>Hank Snow</role>
+    <type>Actor</type>
+    <tmdbid>1371</tmdbid>
+    <imdbid>nm0920992</imdbid>
+    <tvdbid>298679</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Bracey</name>
+    <role>Jerry Schilling</role>
+    <type>Actor</type>
+    <tmdbid>972356</tmdbid>
+    <imdbid>nm3478396</imdbid>
+    <tvdbid>469896</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Radu</name>
+    <role>George Klein</role>
+    <type>Actor</type>
+    <tmdbid>2621971</tmdbid>
+  </actor>
+  <actor>
+    <name>Alton Mason</name>
+    <role>Little Richard</role>
+    <type>Actor</type>
+    <tmdbid>2953700</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Samuel</name>
+    <role>Scotty Moore</role>
+    <type>Actor</type>
+    <tmdbid>109438</tmdbid>
+    <imdbid>nm1882152</imdbid>
+  </actor>
+  <actor>
+    <name>Kodi Smit-McPhee</name>
+    <role>Jimmie Rodgers Snow</role>
+    <type>Actor</type>
+    <tmdbid>113505</tmdbid>
+    <imdbid>nm2240346</imdbid>
+  </actor>
+  <actor>
+    <name>Chaydon Jay</name>
+    <role>Young Elvis</role>
+    <type>Actor</type>
+    <tmdbid>3644672</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Bassett</name>
+    <role>Dixie Locke</role>
+    <type>Actor</type>
+    <tmdbid>1186660</tmdbid>
+  </actor>
+  <actor>
+    <name>Leon Ford</name>
+    <role>Tom Diskin</role>
+    <type>Actor</type>
+    <tmdbid>84451</tmdbid>
+    <tvdbid>386964</tvdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulvany</name>
+    <role>Marion Keisker</role>
+    <type>Actor</type>
+    <tmdbid>123884</tmdbid>
+    <imdbid>nm2078666</imdbid>
+    <tvdbid>479187</tvdbid>
+  </actor>
+  <actor>
+    <name>Gareth Davies</name>
+    <role>Bones Howe</role>
+    <type>Actor</type>
+    <tmdbid>2580441</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Grounds</name>
+    <role>Billy Smith</role>
+    <type>Actor</type>
+    <tmdbid>1520527</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Nixon</name>
+    <role>George C. Nichopoulos ("Dr. Nick")</role>
+    <type>Actor</type>
+    <tmdbid>143270</tmdbid>
+    <imdbid>nm1992643</imdbid>
+  </actor>
+  <actor>
+    <name>Josh McConville</name>
+    <role>Sam Phillips</role>
+    <type>Actor</type>
+    <tmdbid>1281967</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Dunn</name>
+    <role>Bill Black</role>
+    <type>Actor</type>
+    <tmdbid>3430988</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian McCarty</name>
+    <role>Red West</role>
+    <type>Actor</type>
+    <tmdbid>2620574</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Clark Jr.</name>
+    <role>Arthur Crudup</role>
+    <type>Actor</type>
+    <tmdbid>971937</tmdbid>
+  </actor>
+  <actor>
+    <name>Cle Morgan</name>
+    <role>Mahalia Jackson</role>
+    <type>Actor</type>
+    <tmdbid>3644673</tmdbid>
+  </actor>
+  <actor>
+    <name>Shonka Dukureh</name>
+    <role>Willie Mae 'Big Mama' Thornton</role>
+    <type>Actor</type>
+    <tmdbid>3430991</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Andre Allen</name>
+    <type>Actor</type>
+    <tmdbid>3586919</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Powell</name>
+    <role>Milton Berle</role>
+    <type>Actor</type>
+    <tmdbid>3644675</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony LaPaglia</name>
+    <role>Bernard Lansky</role>
+    <type>Actor</type>
+    <tmdbid>57829</tmdbid>
+    <imdbid>nm0001439</imdbid>
+    <tvdbid>272379</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Bingaman</name>
+    <role>Sonny West</role>
+    <type>Actor</type>
+    <tmdbid>2129508</tmdbid>
+  </actor>
+  <actor>
+    <name>Elvis Presley</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>21457</tmdbid>
+  </actor>
+  <actor>
+    <name>Priscilla Presley</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>12949</tmdbid>
+  </actor>
+  <actor>
+    <name>Vernon Presley</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3332495</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimi Hendrix</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>86392</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Luther King</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1107983</tmdbid>
+    <imdbid>nm0455052</imdbid>
+  </actor>
+  <actor>
+    <name>Walter Cronkite</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>83786</tmdbid>
+    <imdbid>nm0004847</imdbid>
+  </actor>
+  <actor>
+    <name>Robert F. Kennedy</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>932497</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyndon B. Johnson</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>73988</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Manson</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>150786</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Sinatra</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4347</tmdbid>
+  </actor>
+  <actor>
+    <name>John Lennon</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>10592</tmdbid>
+    <imdbid>nm0006168</imdbid>
+    <tvdbid>254821</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul McCartney</name>
+    <role>Self (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>10215</tmdbid>
+    <tvdbid>254822</tvdbid>
+  </actor>
+  <director tmdbid="6201" imdbid="nm0525303">Baz Luhrmann</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lI5iwHPtn58</trailer>
+  <rating>7.3</rating>
+  <year>2022</year>
+  <sorttitle>Elvis</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3704428</imdbid>
+  <tmdbid>614934</tmdbid>
+  <premiered>2022-06-22</premiered>
+  <releasedate>2022-06-22</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>159</runtime>
+  <tagline>El Hombre. La Leyenda. El Rey del Rock &amp; Roll</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Música</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Bazmark Films</studio>
+  <studio>The Jackal Group</studio>
+  <studio>Fin Design &amp; Effects</studio>
+  <uniqueid type="imdb">tt3704428</uniqueid>
+  <uniqueid type="tmdb">614934</uniqueid>
+  <id>tt3704428</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>788775</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>159</duration>
+        <durationinseconds>9541</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

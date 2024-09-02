@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Es la historia real de Hans en tres momentos (1945, 1957 y 1969) de su relación con Viktor, un asesino convicto: un amor carcelario, propiciado por las entradas y salidas de prisión de Hans a causa de la represión a la que fueron sometidas las personas homosexuales en la Alemania democrática de posguerra.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-29 11:42:08</dateadded>
+  <title>Great Freedom (Gran libertad)</title>
+  <originaltitle>Große Freiheit</originaltitle>
+  <actor>
+    <name>Franz Rogowski</name>
+    <role>Hans Hoffmann</role>
+    <type>Actor</type>
+    <tmdbid>1285450</tmdbid>
+  </actor>
+  <actor>
+    <name>Georg Friedrich</name>
+    <role>Viktor</role>
+    <type>Actor</type>
+    <tmdbid>40526</tmdbid>
+    <imdbid>nm0295429</imdbid>
+    <tvdbid>8163750</tvdbid>
+  </actor>
+  <actor>
+    <name>Anton von Lucke</name>
+    <role>Leo Giese</role>
+    <type>Actor</type>
+    <tmdbid>1576708</tmdbid>
+    <imdbid>nm6077587</imdbid>
+    <tvdbid>584906</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Prenn</name>
+    <role>Oskar</role>
+    <type>Actor</type>
+    <tmdbid>1784461</tmdbid>
+    <imdbid>nm6728910</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Stecher</name>
+    <role>Guard 1968</role>
+    <type>Actor</type>
+    <tmdbid>1294450</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfred Hartung</name>
+    <role>Guard 1945</role>
+    <type>Actor</type>
+    <tmdbid>1664601</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Wehling</name>
+    <role>Guard 1957</role>
+    <type>Actor</type>
+    <tmdbid>1822972</tmdbid>
+  </actor>
+  <actor>
+    <name>Mex Schlüpfer</name>
+    <role>Buddy Viktor</role>
+    <type>Actor</type>
+    <tmdbid>1842310</tmdbid>
+  </actor>
+  <actor>
+    <name>David Burnell IV</name>
+    <role>Ally</role>
+    <type>Actor</type>
+    <tmdbid>2321048</tmdbid>
+    <imdbid>nm6794853</imdbid>
+  </actor>
+  <actor>
+    <name>Fabian Stumm</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1136410</tmdbid>
+  </actor>
+  <actor>
+    <name>Joachim Schönfeld</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>3418170</tmdbid>
+  </actor>
+  <actor>
+    <name>Klaus Huhle</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>2900058</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreas Patton</name>
+    <role>Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>223774</tmdbid>
+    <imdbid>nm0666533</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Wagner</name>
+    <role>Criminal defense attorney</role>
+    <type>Actor</type>
+    <tmdbid>3113109</tmdbid>
+  </actor>
+  <actor>
+    <name>Ulrich Faßnacht</name>
+    <role>Sanitary room attendant</role>
+    <type>Actor</type>
+    <tmdbid>1478065</tmdbid>
+  </actor>
+  <actor>
+    <name>Johannes Cramer</name>
+    <role>American soldier</role>
+    <type>Actor</type>
+    <tmdbid>3484971</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Lestrade</name>
+    <role>Barkeeper</role>
+    <type>Actor</type>
+    <tmdbid>3484973</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernst Sigot</name>
+    <role>Gay man at the toilet</role>
+    <type>Actor</type>
+    <tmdbid>3484975</tmdbid>
+  </actor>
+  <director tmdbid="1091974">Sebastian Meise</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3Ejx94LC1R8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PH0gB77en9k</trailer>
+  <rating>7.5</rating>
+  <year>2021</year>
+  <sorttitle>Great Freedom (Gran libertad)</sorttitle>
+  <imdbid>tt14775784</imdbid>
+  <tmdbid>835975</tmdbid>
+  <premiered>2021-11-18</premiered>
+  <releasedate>2021-11-18</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>116</runtime>
+  <country>Austria</country>
+  <country>Germany</country>
+  <genre>Drama</genre>
+  <genre>Bélica</genre>
+  <genre>Romance</genre>
+  <studio>ORF</studio>
+  <studio>The Match Factory</studio>
+  <studio>OFI</studio>
+  <studio>Rohfilm</studio>
+  <studio>Freibeuterfilm</studio>
+  <uniqueid type="tmdb">835975</uniqueid>
+  <uniqueid type="imdb">tt14775784</uniqueid>
+  <id>tt14775784</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149923</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6982</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>125759</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

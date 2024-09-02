@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un relato basado en la historia real que conmovió al mundo del rescate de un equipo de fútbol de la cueva de Tham Luang, en Tailandia, tras quedar atrapado por las lluvias torrenciales y peligrosas inundaciones.]]></plot>
+  <outline><![CDATA[5000 personas, 17 países, 1 milagro que unió al mundo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-05 10:48:24</dateadded>
+  <title>Trece vidas</title>
+  <originaltitle>Thirteen Lives</originaltitle>
+  <actor>
+    <name>Viggo Mortensen</name>
+    <role>Rick Stanton</role>
+    <type>Actor</type>
+    <tmdbid>110</tmdbid>
+    <imdbid>nm0001557</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>John Volanthen</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+    <tvdbid>310392</tvdbid>
+  </actor>
+  <actor>
+    <name>Joel Edgerton</name>
+    <role>Harry Harris</role>
+    <type>Actor</type>
+    <tmdbid>33192</tmdbid>
+    <imdbid>nm0249291</imdbid>
+    <tvdbid>296971</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Bateman</name>
+    <role>Chris Jewell</role>
+    <type>Actor</type>
+    <tmdbid>1364004</tmdbid>
+    <tvdbid>290935</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Gleeson</name>
+    <role>Jason Mallinson</role>
+    <type>Actor</type>
+    <tmdbid>55866</tmdbid>
+  </actor>
+  <actor>
+    <name>Teeradon Supapunpinyo</name>
+    <role>Coach Ekkaphon "Ek"  Chanthawong</role>
+    <type>Actor</type>
+    <tmdbid>1809208</tmdbid>
+  </actor>
+  <actor>
+    <name>Girati Sugiyama</name>
+    <role>Lek</role>
+    <type>Actor</type>
+    <tmdbid>3657642</tmdbid>
+  </actor>
+  <actor>
+    <name>Pasakorn Hoyhon</name>
+    <role>Chai</role>
+    <type>Actor</type>
+    <tmdbid>2661136</tmdbid>
+  </actor>
+  <actor>
+    <name>Tanatat Srita</name>
+    <role>Arm</role>
+    <type>Actor</type>
+    <tmdbid>3657644</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaokuson Sorapap</name>
+    <role>Aat</role>
+    <type>Actor</type>
+    <tmdbid>3657647</tmdbid>
+  </actor>
+  <actor>
+    <name>Nophand Boonyai</name>
+    <role>Thanet Natisri</role>
+    <type>Actor</type>
+    <tmdbid>76477</tmdbid>
+  </actor>
+  <actor>
+    <name>Sukniran Sukcharoen</name>
+    <role>Poom</role>
+    <type>Actor</type>
+    <tmdbid>3657648</tmdbid>
+  </actor>
+  <actor>
+    <name>Ensai O'Haire</name>
+    <role>Decha</role>
+    <type>Actor</type>
+    <tmdbid>3657649</tmdbid>
+  </actor>
+  <actor>
+    <name>Thanthapthai Chanin</name>
+    <role>Dew</role>
+    <type>Actor</type>
+    <tmdbid>3657650</tmdbid>
+  </actor>
+  <actor>
+    <name>Achi Jinapanyo</name>
+    <role>Prem</role>
+    <type>Actor</type>
+    <tmdbid>3657651</tmdbid>
+  </actor>
+  <actor>
+    <name>Thanaphat Thopiata</name>
+    <role>Wit</role>
+    <type>Actor</type>
+    <tmdbid>3657652</tmdbid>
+  </actor>
+  <actor>
+    <name>Phitakphong Boonnet</name>
+    <role>Rit</role>
+    <type>Actor</type>
+    <tmdbid>3657653</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Chuensawan</name>
+    <role>Tul</role>
+    <type>Actor</type>
+    <tmdbid>3657654</tmdbid>
+  </actor>
+  <actor>
+    <name>Nawanut Kaeomueangsi</name>
+    <role>Nop</role>
+    <type>Actor</type>
+    <tmdbid>3657655</tmdbid>
+  </actor>
+  <actor>
+    <name>Thitiphat Bheganan</name>
+    <role>Don</role>
+    <type>Actor</type>
+    <tmdbid>3657656</tmdbid>
+  </actor>
+  <actor>
+    <name>Neungruthai Bungngern-Wynne</name>
+    <role>Mae Noi</role>
+    <type>Actor</type>
+    <tmdbid>3657657</tmdbid>
+  </actor>
+  <actor>
+    <name>Teerawat Mulvilai</name>
+    <role>Somboon</role>
+    <type>Actor</type>
+    <tmdbid>60852</tmdbid>
+    <imdbid>nm1474361</imdbid>
+  </actor>
+  <actor>
+    <name>Pattrakorn Tungsupakul</name>
+    <role>Buahom</role>
+    <type>Actor</type>
+    <tmdbid>1338441</tmdbid>
+  </actor>
+  <actor>
+    <name>Sahajak Boonthanakit</name>
+    <role>Governor Narongsak Osatanakorn</role>
+    <type>Actor</type>
+    <tmdbid>521673</tmdbid>
+    <imdbid>nm0095552</imdbid>
+  </actor>
+  <actor>
+    <name>Shakriya Tarinyawat</name>
+    <role>Manop</role>
+    <type>Actor</type>
+    <tmdbid>3435712</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayuree Ruanpom</name>
+    <role>Wanna</role>
+    <type>Actor</type>
+    <tmdbid>3657659</tmdbid>
+  </actor>
+  <actor>
+    <name>Theerapat Sajakul</name>
+    <role>Captain Arnont</role>
+    <type>Actor</type>
+    <tmdbid>2715237</tmdbid>
+  </actor>
+  <actor>
+    <name>Sukollawat Kanarot</name>
+    <role>Saman Kunan</role>
+    <type>Actor</type>
+    <tmdbid>1259384</tmdbid>
+  </actor>
+  <actor>
+    <name>Thira Chutikul</name>
+    <role>Commander Kiet</role>
+    <type>Actor</type>
+    <tmdbid>1527050</tmdbid>
+    <imdbid>nm6078269</imdbid>
+  </actor>
+  <actor>
+    <name>Blake McFarlane</name>
+    <role>Matthew</role>
+    <type>Actor</type>
+    <tmdbid>3235778</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Cassidy</name>
+    <role>Annabel</role>
+    <type>Actor</type>
+    <tmdbid>1838229</tmdbid>
+  </actor>
+  <actor>
+    <name>Terdphong U-Kham</name>
+    <role>Park Ranger Kittipong Saisor</role>
+    <type>Actor</type>
+    <tmdbid>3657716</tmdbid>
+  </actor>
+  <actor>
+    <name>Vithaya Pansringarm</name>
+    <role>General Anuphond</role>
+    <type>Actor</type>
+    <tmdbid>1102621</tmdbid>
+    <imdbid>nm3307918</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis Fitz-Gerald</name>
+    <role>Vernon Unsworth</role>
+    <type>Actor</type>
+    <tmdbid>28099</tmdbid>
+    <imdbid>nm0280143</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Helman</name>
+    <role>Major Hodges</role>
+    <type>Actor</type>
+    <tmdbid>1056053</tmdbid>
+    <imdbid>nm2890541</imdbid>
+  </actor>
+  <actor>
+    <name>Zahra Newman</name>
+    <role>Captain Olivia Taft</role>
+    <type>Actor</type>
+    <tmdbid>1702244</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Knight</name>
+    <role>Police Captain Bas</role>
+    <type>Actor</type>
+    <tmdbid>1027749</tmdbid>
+  </actor>
+  <actor>
+    <name>Chatchawai Kamonsakpitak</name>
+    <role>Village Headman</role>
+    <type>Actor</type>
+    <tmdbid>1673827</tmdbid>
+  </actor>
+  <actor>
+    <name>Thinatya Popanum</name>
+    <role>Kanda</role>
+    <type>Actor</type>
+    <tmdbid>3657717</tmdbid>
+  </actor>
+  <actor>
+    <name>Popetorn Soonthornyanakij</name>
+    <role>Dr Karn</role>
+    <type>Actor</type>
+    <tmdbid>1445536</tmdbid>
+  </actor>
+  <actor>
+    <name>Natvara Hongsuwan</name>
+    <role>Preeya</role>
+    <type>Actor</type>
+    <tmdbid>3657718</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Fang</name>
+    <role>Jay</role>
+    <type>Actor</type>
+    <tmdbid>3657719</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernard Sam</name>
+    <role>Pichai</role>
+    <type>Actor</type>
+    <tmdbid>3657720</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerwin Widjaja</name>
+    <role>Udom</role>
+    <type>Actor</type>
+    <tmdbid>3657721</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Spink</name>
+    <role>Josh Bratchley</role>
+    <type>Actor</type>
+    <tmdbid>1985752</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Story</name>
+    <role>Connor Roe</role>
+    <type>Actor</type>
+    <tmdbid>3828044</tmdbid>
+  </actor>
+  <actor>
+    <name>Watcharaphong Korayutpiphat</name>
+    <role>Dusit</role>
+    <type>Actor</type>
+    <tmdbid>3828045</tmdbid>
+  </actor>
+  <actor>
+    <name>Wirot Nilphongamphai</name>
+    <role>Navy Seal</role>
+    <type>Actor</type>
+    <tmdbid>3828047</tmdbid>
+  </actor>
+  <actor>
+    <name>U Gambira</name>
+    <role>Kruba Boonchum</role>
+    <type>Actor</type>
+    <tmdbid>3828048</tmdbid>
+  </actor>
+  <actor>
+    <name>Waraporn Khamsingha</name>
+    <role>Kampang</role>
+    <type>Actor</type>
+    <tmdbid>3828049</tmdbid>
+  </actor>
+  <actor>
+    <name>Pratuang Boontang</name>
+    <role>Yod</role>
+    <type>Actor</type>
+    <tmdbid>3828050</tmdbid>
+  </actor>
+  <actor>
+    <name>Nitipoom Khachatphai</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>3828051</tmdbid>
+  </actor>
+  <actor>
+    <name>Thatpong Hiruntanakitjakul</name>
+    <role>Minister's Aide</role>
+    <type>Actor</type>
+    <tmdbid>3828052</tmdbid>
+  </actor>
+  <director tmdbid="6159" imdbid="nm0000165">Ron Howard</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=czLULPI8LKA</trailer>
+  <rating>7.8</rating>
+  <year>2022</year>
+  <sorttitle>Trece vidas</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12262116</imdbid>
+  <tmdbid>698948</tmdbid>
+  <premiered>2022-07-18</premiered>
+  <releasedate>2022-07-18</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>150</runtime>
+  <tagline>5000 personas, 17 países, 1 milagro que unió al mundo.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Imagine Entertainment</studio>
+  <studio>Magnolia Mae Films</studio>
+  <studio>Storyteller Productions</studio>
+  <uniqueid type="imdb">tt12262116</uniqueid>
+  <uniqueid type="tmdb">698948</uniqueid>
+  <id>tt12262116</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>841448</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>149</duration>
+        <durationinseconds>8979</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>mal</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

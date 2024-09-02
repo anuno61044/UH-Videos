@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Eddie Brock  y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.]]></plot>
+  <outline><![CDATA[Venom: Habrá matanza]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-23 09:28:09</dateadded>
+  <title>Venom: Habrá Matanza</title>
+  <originaltitle>Venom: Let There Be Carnage</originaltitle>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Eddie Brock / Venom</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+    <tvdbid>373728</tvdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Cletus Kasady / Carnage</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Williams</name>
+    <role>Anne Weying</role>
+    <type>Actor</type>
+    <tmdbid>1812</tmdbid>
+    <imdbid>nm0931329</imdbid>
+    <tvdbid>278331</tvdbid>
+  </actor>
+  <actor>
+    <name>Naomie Harris</name>
+    <role>Frances Louise Barrison / Shriek</role>
+    <type>Actor</type>
+    <tmdbid>2038</tmdbid>
+    <imdbid>nm0365140</imdbid>
+    <tvdbid>258413</tvdbid>
+  </actor>
+  <actor>
+    <name>Reid Scott</name>
+    <role>Dr. Dan Lewis</role>
+    <type>Actor</type>
+    <tmdbid>81316</tmdbid>
+    <imdbid>nm1169428</imdbid>
+    <tvdbid>271170</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Graham</name>
+    <role>Detective Mulligan</role>
+    <type>Actor</type>
+    <tmdbid>1115</tmdbid>
+    <imdbid>nm0334318</imdbid>
+    <tvdbid>301984</tvdbid>
+  </actor>
+  <actor>
+    <name>Peggy Lu</name>
+    <role>Mrs. Chen</role>
+    <type>Actor</type>
+    <tmdbid>2141479</tmdbid>
+  </actor>
+  <actor>
+    <name>Sian Webber</name>
+    <role>Dr. Pazzo</role>
+    <type>Actor</type>
+    <tmdbid>1225043</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Greenidge</name>
+    <role>Mugging Victim</role>
+    <type>Actor</type>
+    <tmdbid>1966036</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Bowen</name>
+    <role>Beaten Mugger</role>
+    <type>Actor</type>
+    <tmdbid>3255760</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurence Spellman</name>
+    <role>Patient</role>
+    <type>Actor</type>
+    <tmdbid>1052257</tmdbid>
+    <imdbid>nm1736605</imdbid>
+  </actor>
+  <actor>
+    <name>Little Simz</name>
+    <role>Little Simz</role>
+    <type>Actor</type>
+    <tmdbid>2464328</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Bandeira</name>
+    <role>Young Cletus</role>
+    <type>Actor</type>
+    <tmdbid>2448692</tmdbid>
+    <tvdbid>9101711</tvdbid>
+  </actor>
+  <actor>
+    <name>Olumide Olorunfemi</name>
+    <role>Young Shirek</role>
+    <type>Actor</type>
+    <tmdbid>3225965</tmdbid>
+  </actor>
+  <actor>
+    <name>Scroobius Pip</name>
+    <role>Siegfried</role>
+    <type>Actor</type>
+    <tmdbid>1656966</tmdbid>
+    <imdbid>nm2883357</imdbid>
+  </actor>
+  <actor>
+    <name>Amrou Al-Kadhi</name>
+    <role>Host Two</role>
+    <type>Actor</type>
+    <tmdbid>1683344</tmdbid>
+    <imdbid>nm2090270</imdbid>
+  </actor>
+  <actor>
+    <name>Beau Sargent</name>
+    <role>Host Three</role>
+    <type>Actor</type>
+    <tmdbid>3255761</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Copeland</name>
+    <role>Rodeo Beach Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1073870</tmdbid>
+    <imdbid>nm1016301</imdbid>
+  </actor>
+  <actor>
+    <name>Stewart Alexander</name>
+    <role>Warden</role>
+    <type>Actor</type>
+    <tmdbid>165359</tmdbid>
+    <imdbid>nm0991334</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Young Detective Mulligan</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <tvdbid>663919</tvdbid>
+  </actor>
+  <actor>
+    <name>Ed Kear</name>
+    <role>Reveler</role>
+    <type>Actor</type>
+    <tmdbid>1364950</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Lau</name>
+    <role>Reveler</role>
+    <type>Actor</type>
+    <tmdbid>2604970</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis j Rhone</name>
+    <role>Reveler</role>
+    <type>Actor</type>
+    <tmdbid>2866907</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Godwin</name>
+    <role>Headmaster (1997)</role>
+    <type>Actor</type>
+    <tmdbid>142519</tmdbid>
+    <imdbid>nm0324241</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffanie Thomas</name>
+    <role>San Quentin Tier Guard</role>
+    <type>Actor</type>
+    <tmdbid>3255762</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocky Capella</name>
+    <role>Valet Car Park</role>
+    <type>Actor</type>
+    <tmdbid>13031</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Robinson</name>
+    <role>San Quentin Guard</role>
+    <type>Actor</type>
+    <tmdbid>1477844</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Lockett</name>
+    <role>San Francisco Police Department Officer</role>
+    <type>Actor</type>
+    <tmdbid>1503079</tmdbid>
+    <imdbid>nm7233707</imdbid>
+  </actor>
+  <actor>
+    <name>Sonny Ashbourne Serkis</name>
+    <role>Plunger Man</role>
+    <type>Actor</type>
+    <tmdbid>1332976</tmdbid>
+  </actor>
+  <actor>
+    <name>Otis Winston</name>
+    <role>Street Man</role>
+    <type>Actor</type>
+    <tmdbid>1736538</tmdbid>
+    <imdbid>nm4749446</imdbid>
+  </actor>
+  <actor>
+    <name>Vaughn Johseph</name>
+    <role>Tie Down Guard</role>
+    <type>Actor</type>
+    <tmdbid>1558337</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristen Simoes</name>
+    <role>TV Reporter - San Quentin</role>
+    <type>Actor</type>
+    <tmdbid>3255765</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Angel Arreguin</name>
+    <role>Gas Station Attendant</role>
+    <type>Actor</type>
+    <tmdbid>3255770</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaliz Afshar</name>
+    <role>San Francisco Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3255772</tmdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Connolly</name>
+    <role>Grieving Father</role>
+    <type>Actor</type>
+    <tmdbid>1743499</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Handshaw</name>
+    <role>Grieving Mother</role>
+    <type>Actor</type>
+    <tmdbid>1504937</tmdbid>
+    <imdbid>nm5564735</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Foster</name>
+    <role>Victim's Sister</role>
+    <type>Actor</type>
+    <tmdbid>1467124</tmdbid>
+  </actor>
+  <actor>
+    <name>Akie Kotabe</name>
+    <role>Victim's Brother</role>
+    <type>Actor</type>
+    <tmdbid>1322309</tmdbid>
+    <imdbid>nm2009056</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Sigmundsson</name>
+    <role>Startled Witness</role>
+    <type>Actor</type>
+    <tmdbid>1985977</tmdbid>
+  </actor>
+  <actor>
+    <name>Chabris Napier-Lawrence</name>
+    <role>Ravenscroft Guard</role>
+    <type>Actor</type>
+    <tmdbid>2509946</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Olubamiwo</name>
+    <role>Ravenscroft Guard</role>
+    <type>Actor</type>
+    <tmdbid>2509927</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Palma</name>
+    <role>San Quentin Last Meal Guard</role>
+    <type>Actor</type>
+    <tmdbid>2486147</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashlen Aquila</name>
+    <role>San Quentin Last Meal Guard</role>
+    <type>Actor</type>
+    <tmdbid>1457942</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamal Ajala</name>
+    <role>Ravenscroft Orderly</role>
+    <type>Actor</type>
+    <tmdbid>3255774</tmdbid>
+  </actor>
+  <actor>
+    <name>James D. Weston II</name>
+    <role>San Quentin Commander</role>
+    <type>Actor</type>
+    <tmdbid>1940433</tmdbid>
+  </actor>
+  <actor>
+    <name>Che Amaro</name>
+    <role>San Quentin Guard</role>
+    <type>Actor</type>
+    <tmdbid>3255776</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Eldridge-Smith</name>
+    <role>Sympathetic Guard</role>
+    <type>Actor</type>
+    <tmdbid>3255777</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Marcel</name>
+    <role>Detective in Bathroom</role>
+    <type>Actor</type>
+    <tmdbid>192821</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Cable</name>
+    <role>Host Pre Carnival #1</role>
+    <type>Actor</type>
+    <tmdbid>2412225</tmdbid>
+  </actor>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>J. Jonah Jameson (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>18999</tmdbid>
+    <imdbid>nm0799777</imdbid>
+    <tvdbid>271472</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Holland</name>
+    <role>Peter Parker / Spider-Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <tvdbid>287561</tvdbid>
+  </actor>
+  <director tmdbid="1333" imdbid="nm0785227">Andy Serkis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hbfadtw-fjs</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>Venom: Habra Matanza</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7097896</imdbid>
+  <tmdbid>580489</tmdbid>
+  <premiered>2021-09-30</premiered>
+  <releasedate>2021-09-30</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>98</runtime>
+  <tagline>Venom: Habrá matanza</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Marvel Entertainment</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Pascal Pictures</studio>
+  <studio>Matt Tolmach Productions</studio>
+  <studio>Avi Arad Productions</studio>
+  <set tmdbcolid="558216">
+    <name>Venom - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7097896</uniqueid>
+  <uniqueid type="tmdb">580489</uniqueid>
+  <id>tt7097896</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1976624</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>361:194</aspect>
+        <aspectratio>361:194</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5853</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

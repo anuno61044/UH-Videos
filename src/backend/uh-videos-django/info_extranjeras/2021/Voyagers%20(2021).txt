@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un grupo de treinta chicos son enviados en una misión a poblar un nuevo planeta. Tras el asesinato del capitán de la nave en misteriosas circunstancias, la joven tripulación entra en caos, uniéndose en distintas tribus dominadas por sus más salvajes impulsos.]]></plot>
+  <outline><![CDATA[¿Qué se siente?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-03 08:12:53</dateadded>
+  <title>Voyagers</title>
+  <originaltitle>Voyagers</originaltitle>
+  <actor>
+    <name>Lily-Rose Depp</name>
+    <role>Sela</role>
+    <type>Actor</type>
+    <tmdbid>1459885</tmdbid>
+    <imdbid>nm6675440</imdbid>
+    <tvdbid>728656</tvdbid>
+  </actor>
+  <actor>
+    <name>Tye Sheridan</name>
+    <role>Christopher</role>
+    <type>Actor</type>
+    <tmdbid>1034681</tmdbid>
+    <imdbid>nm4446467</imdbid>
+  </actor>
+  <actor>
+    <name>Fionn Whitehead</name>
+    <role>Zac</role>
+    <type>Actor</type>
+    <tmdbid>1687041</tmdbid>
+    <imdbid>nm7887725</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+    <tvdbid>310392</tvdbid>
+  </actor>
+  <actor>
+    <name>Lou Llobell</name>
+    <role>Zandie</role>
+    <type>Actor</type>
+    <tmdbid>2476148</tmdbid>
+    <imdbid>nm10306608</imdbid>
+    <tvdbid>8158080</tvdbid>
+  </actor>
+  <actor>
+    <name>Viveik Kalra</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>1968476</tmdbid>
+    <imdbid>nm9196203</imdbid>
+  </actor>
+  <actor>
+    <name>Archie Madekwe</name>
+    <role>Kai</role>
+    <type>Actor</type>
+    <tmdbid>2249745</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanté Adams</name>
+    <role>Phoebe</role>
+    <type>Actor</type>
+    <tmdbid>1716713</tmdbid>
+    <imdbid>nm6001320</imdbid>
+    <tvdbid>8161086</tvdbid>
+  </actor>
+  <actor>
+    <name>Madison Hu</name>
+    <role>Anda</role>
+    <type>Actor</type>
+    <tmdbid>1713726</tmdbid>
+    <imdbid>nm5462166</imdbid>
+  </actor>
+  <actor>
+    <name>Quintessa Swindell</name>
+    <role>Julie</role>
+    <type>Actor</type>
+    <tmdbid>2042690</tmdbid>
+    <imdbid>nm9165599</imdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Marianne Sancar</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+    <imdbid>nm1227481</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Hempstead-Wright</name>
+    <role>Edward</role>
+    <type>Actor</type>
+    <tmdbid>239020</tmdbid>
+    <imdbid>nm3652842</imdbid>
+    <tvdbid>247903</tvdbid>
+  </actor>
+  <actor>
+    <name>April Grace</name>
+    <role>Mission Director</role>
+    <type>Actor</type>
+    <tmdbid>10691</tmdbid>
+    <imdbid>nm0333318</imdbid>
+  </actor>
+  <director tmdbid="17329" imdbid="nm1139726">Neil Burger</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=11wwx5VKThY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EwJkexUBSeg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UPW8z7rUEEs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QXzXWIo8RNA</trailer>
+  <rating>5.4</rating>
+  <year>2021</year>
+  <sorttitle>Voyagers</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9664108</imdbid>
+  <tmdbid>597890</tmdbid>
+  <premiered>2021-04-08</premiered>
+  <releasedate>2021-04-08</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>108</runtime>
+  <tagline>¿Qué se siente?</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Romance</genre>
+  <genre>Suspense</genre>
+  <studio>Nota Bene Film Group</studio>
+  <studio>Thunder Road</studio>
+  <uniqueid type="imdb">tt9664108</uniqueid>
+  <uniqueid type="tmdb">597890</uniqueid>
+  <id>tt9664108</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1031566</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6478</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

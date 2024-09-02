@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[In a windswept fishing village, a mother is torn between protecting her beloved son and her own sense of right and wrong. A lie she tells for him rips apart their family and close-knit community.]]></plot>
+  <outline><![CDATA[El amor de una madre abandonada.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-03 12:27:46</dateadded>
+  <title>God's Creatures</title>
+  <originaltitle>God's Creatures</originaltitle>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Aileen O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+    <tvdbid>300426</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Mescal</name>
+    <role>Brian O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>2326151</tmdbid>
+  </actor>
+  <actor>
+    <name>Aisling Franciosi</name>
+    <role>Sarah Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1323109</tmdbid>
+    <imdbid>nm4957233</imdbid>
+    <tvdbid>248030</tvdbid>
+  </actor>
+  <actor>
+    <name>Declan Conlon</name>
+    <role>Con O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>1135879</tmdbid>
+    <imdbid>nm0174834</imdbid>
+  </actor>
+  <actor>
+    <name>Toni O'Rourke</name>
+    <role>Erin O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>1835512</tmdbid>
+  </actor>
+  <actor>
+    <name>Marion O'Dwyer</name>
+    <role>Mary Fitz</role>
+    <type>Actor</type>
+    <tmdbid>78285</tmdbid>
+    <imdbid>nm0640949</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan McCormack</name>
+    <role>Francie D'Arcey</role>
+    <type>Actor</type>
+    <tmdbid>117103</tmdbid>
+  </actor>
+  <actor>
+    <name>Lalor Roddy</name>
+    <role>Paddy O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>182043</tmdbid>
+    <imdbid>nm0734498</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Connolly</name>
+    <role>Emma Daly</role>
+    <type>Actor</type>
+    <tmdbid>2369468</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean T. O'Meallaigh</name>
+    <role>Nigel O'Connor</role>
+    <type>Actor</type>
+    <tmdbid>140007</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Gunn</name>
+    <role>Dennis Guiney</role>
+    <type>Actor</type>
+    <tmdbid>1271597</tmdbid>
+    <imdbid>nm1169016</imdbid>
+  </actor>
+  <actor>
+    <name>Leah Minto</name>
+    <role>Sheila Breen</role>
+    <type>Actor</type>
+    <tmdbid>2247250</tmdbid>
+  </actor>
+  <actor>
+    <name>John Burke</name>
+    <role>John Ferris</role>
+    <type>Actor</type>
+    <tmdbid>1583206</tmdbid>
+  </actor>
+  <actor>
+    <name>Enda Oates</name>
+    <role>Dan Nell</role>
+    <type>Actor</type>
+    <tmdbid>150582</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Barnes</name>
+    <role>Patrolman Daragh West</role>
+    <type>Actor</type>
+    <tmdbid>117108</tmdbid>
+    <imdbid>nm0055503</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Bennett</name>
+    <role>Garda Mike</role>
+    <type>Actor</type>
+    <tmdbid>995518</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip O'Sullivan</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1784489</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Dynan Gleeson</name>
+    <role>Factory Worker 2</role>
+    <type>Actor</type>
+    <tmdbid>3728564</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah J. Kinlen</name>
+    <role>Factory Worker 3</role>
+    <type>Actor</type>
+    <tmdbid>1972533</tmdbid>
+  </actor>
+  <director tmdbid="1309008">Anna Rose Holmer</director>
+  <director tmdbid="1418192">Saela Davis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fyOk1QVDlsI</trailer>
+  <rating>6</rating>
+  <year>2022</year>
+  <sorttitle>God's Creatures</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10375396</imdbid>
+  <tmdbid>828558</tmdbid>
+  <premiered>2022-09-30</premiered>
+  <releasedate>2022-09-30</releasedate>
+  <runtime>101</runtime>
+  <tagline>El amor de una madre abandonada.</tagline>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>BBC Film</studio>
+  <studio>Screen Ireland</studio>
+  <studio>A24</studio>
+  <studio>Sixty Six Pictures</studio>
+  <studio>WRAP Fund</studio>
+  <uniqueid type="imdb">tt10375396</uniqueid>
+  <uniqueid type="tmdb">828558</uniqueid>
+  <id>tt10375396</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1104866</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6049</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La isla de Gran Canaria. A finales de los 70. Rosa y Emilio viven con sus cinco hijas, aislados del mundo en medio de un valle. En este lugar salvaje, llevan una vida alternativa y armoniosa, hasta que aparece un excursionista perdido, al que acceden a ayudar. Este hecho, muy fuera de lo común para la familia, conducirá a una situación extrema y hostil y revelará la naturaleza asfixiante y oscura de la casa entre los cactus y sus habitantes.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-05 13:26:52</dateadded>
+  <title>La casa entre los cactus</title>
+  <originaltitle>La casa entre los cactus</originaltitle>
+  <actor>
+    <name>Ariadna Gil</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>17006</tmdbid>
+    <imdbid>nm0317725</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Grao</name>
+    <role>Emilio</role>
+    <type>Actor</type>
+    <tmdbid>233947</tmdbid>
+    <imdbid>nm1268637</imdbid>
+    <tvdbid>306707</tvdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Gómez</name>
+    <type>Actor</type>
+    <tmdbid>1240966</tmdbid>
+    <tvdbid>301039</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Arnao</name>
+    <type>Actor</type>
+    <tmdbid>2417344</tmdbid>
+    <imdbid>nm10863257</imdbid>
+    <tvdbid>8215626</tvdbid>
+  </actor>
+  <actor>
+    <name>Aina Picarolo</name>
+    <role>Iris</role>
+    <type>Actor</type>
+    <tmdbid>3669063</tmdbid>
+  </actor>
+  <director tmdbid="2772786">Carlota González-Adrio</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=17B812YB8X8</trailer>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>casa entre los cactus</sorttitle>
+  <imdbid>tt10062634</imdbid>
+  <tmdbid>895957</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <runtime>85</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <uniqueid type="tmdb">895957</uniqueid>
+  <uniqueid type="imdb">tt10062634</uniqueid>
+  <id>tt10062634</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1539099</bitrate>
+        <width>1920</width>
+        <height>856</height>
+        <aspect>160:71</aspect>
+        <aspectratio>160:71</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5077</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

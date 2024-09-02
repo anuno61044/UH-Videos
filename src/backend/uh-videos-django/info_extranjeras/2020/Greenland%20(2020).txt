@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A family struggles for survival in the face of a cataclysmic natural disaster.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-16 08:36:12</dateadded>
+  <title>Greenland</title>
+  <originaltitle>Greenland</originaltitle>
+  <actor>
+    <name>Gerard Butler</name>
+    <type>Actor</type>
+    <tmdbid>17276</tmdbid>
+    <imdbid>nm0124930</imdbid>
+  </actor>
+  <actor>
+    <name>Morena Baccarin</name>
+    <type>Actor</type>
+    <tmdbid>54882</tmdbid>
+    <imdbid>nm1072555</imdbid>
+    <tvdbid>327452</tvdbid>
+  </actor>
+  <actor>
+    <name>Roger Dale Floyd</name>
+    <type>Actor</type>
+    <tmdbid>2077869</tmdbid>
+    <imdbid>nm9819444</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Glenn</name>
+    <type>Actor</type>
+    <tmdbid>349</tmdbid>
+    <imdbid>nm0001277</imdbid>
+    <tvdbid>254263</tvdbid>
+  </actor>
+  <director tmdbid="76422" imdbid="nm0006846">Ric Roman Waugh</director>
+  <writer>Chris Sparling</writer>
+  <credits>Chris Sparling</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KCRkwUGjJfE</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>Greenland</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7737786</imdbid>
+  <tmdbid>524047</tmdbid>
+  <premiered>2020-07-29</premiered>
+  <releasedate>2020-07-29</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>120</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>STX Entertainment</studio>
+  <studio>Thunder Road</studio>
+  <studio>Anton</studio>
+  <studio>G-BASE</studio>
+  <studio>Riverstone Pictures</studio>
+  <studio>Truenorth Productions</studio>
+  <set tmdbcolid="840465">
+    <name>Greenland - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7737786</uniqueid>
+  <uniqueid type="tmdb">524047</uniqueid>
+  <id>tt7737786</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>931116</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7183</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

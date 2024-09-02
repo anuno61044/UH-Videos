@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una noche, Leo, un español que trabaja en Bruselas como conductor de metro, ve a un joven al borde del andén, justo antes de caer a las vías.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-05 09:43:44</dateadded>
+  <title>Entre la vida y la muerte</title>
+  <originaltitle>Entre la vie et la mort</originaltitle>
+  <actor>
+    <name>Antonio de la Torre</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>3483</tmdbid>
+    <imdbid>nm0209409</imdbid>
+    <tvdbid>592203</tvdbid>
+  </actor>
+  <actor>
+    <name>Marine Vacth</name>
+    <role>Virginie</role>
+    <type>Actor</type>
+    <tmdbid>1167459</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Gourmet</name>
+    <role>The commissioner</role>
+    <type>Actor</type>
+    <tmdbid>45152</tmdbid>
+    <imdbid>nm0332709</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrice Adde</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>77908</tmdbid>
+  </actor>
+  <actor>
+    <name>Nessbeal</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>2204511</tmdbid>
+  </actor>
+  <actor>
+    <name>Tibo Vandenborre</name>
+    <role>Arsen</role>
+    <type>Actor</type>
+    <tmdbid>236904</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Bouyer</name>
+    <role>Ralph</role>
+    <type>Actor</type>
+    <tmdbid>3591908</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Papillon</name>
+    <role>Magali</role>
+    <type>Actor</type>
+    <tmdbid>3086895</tmdbid>
+  </actor>
+  <actor>
+    <name>Noé Englebert</name>
+    <type>Actor</type>
+    <tmdbid>2529495</tmdbid>
+  </actor>
+  <actor>
+    <name>Lila Jonas</name>
+    <type>Actor</type>
+    <tmdbid>3591909</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Quero</name>
+    <type>Actor</type>
+    <tmdbid>3591910</tmdbid>
+  </actor>
+  <director tmdbid="113736">Giordano Gederlini</director>
+  <rating>5.7</rating>
+  <year>2022</year>
+  <sorttitle>Entre la vida y la muerte</sorttitle>
+  <imdbid>tt12819094</imdbid>
+  <tmdbid>925459</tmdbid>
+  <premiered>2022-06-29</premiered>
+  <releasedate>2022-06-29</releasedate>
+  <runtime>96</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Eyeworks</studio>
+  <studio>Noodles Production</studio>
+  <studio>Frakas Productions</studio>
+  <studio>Fasten Films</studio>
+  <uniqueid type="imdb">tt12819094</uniqueid>
+  <uniqueid type="tmdb">925459</uniqueid>
+  <id>tt12819094</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>838174</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5786</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

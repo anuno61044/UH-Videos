@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tom el gato y Jerry el ratón son expulsados de su casa y se trasladan a un elegante hotel de Nueva York, donde una empleada descuidada llamada Kayla perderá su trabajo si no puede desalojar a Jerry antes de una boda de clase alta en el hotel. ¿Su solución? Contratar a Tom para deshacerse del molesto ratón.]]></plot>
+  <outline><![CDATA[Los mejores enemigos. Los peores amigos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-01 09:39:09</dateadded>
+  <title>Tom y Jerry</title>
+  <originaltitle>Tom &amp; Jerry</originaltitle>
+  <actor>
+    <name>Chloë Grace Moretz</name>
+    <role>Kayla Forrester</role>
+    <type>Actor</type>
+    <tmdbid>56734</tmdbid>
+    <imdbid>nm1631269</imdbid>
+    <tvdbid>327302</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Peña</name>
+    <role>Terence Mendoza</role>
+    <type>Actor</type>
+    <tmdbid>454</tmdbid>
+    <imdbid>nm0671567</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Jost</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>1226277</tmdbid>
+    <imdbid>nm1906042</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>Henry Dubros</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+    <imdbid>nm3008739</imdbid>
+    <tvdbid>300914</tvdbid>
+  </actor>
+  <actor>
+    <name>Pallavi Sharda</name>
+    <role>Preeta</role>
+    <type>Actor</type>
+    <tmdbid>979599</tmdbid>
+    <imdbid>nm3354963</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Bolger</name>
+    <role>Cameron</role>
+    <type>Actor</type>
+    <tmdbid>1674734</tmdbid>
+    <imdbid>nm6304865</imdbid>
+  </actor>
+  <actor>
+    <name>Patsy Ferran</name>
+    <role>Joy the Bell Girl</role>
+    <type>Actor</type>
+    <tmdbid>1600085</tmdbid>
+    <imdbid>nm7153076</imdbid>
+    <tvdbid>517976</tvdbid>
+  </actor>
+  <actor>
+    <name>Ken Jeong</name>
+    <role>Chef Jackie</role>
+    <type>Actor</type>
+    <tmdbid>83586</tmdbid>
+    <imdbid>nm0421822</imdbid>
+    <tvdbid>311177</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <role>Spike (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21127</tmdbid>
+    <imdbid>nm0134072</imdbid>
+    <tvdbid>255793</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicky Jam</name>
+    <role>Butch (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1688196</tmdbid>
+    <imdbid>nm7500905</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Wells</name>
+    <role>Lightning (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1320508</tmdbid>
+    <imdbid>nm1830312</imdbid>
+  </actor>
+  <actor>
+    <name>Na'im Lynn</name>
+    <role>Meathead (voice)</role>
+    <type>Actor</type>
+    <tmdbid>576229</tmdbid>
+    <imdbid>nm3156655</imdbid>
+  </actor>
+  <actor>
+    <name>William Horton</name>
+    <role>Ash (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1108643</tmdbid>
+    <imdbid>nm3146142</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Ratchford</name>
+    <role>Topsy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1320506</tmdbid>
+    <imdbid>nm5183398</imdbid>
+  </actor>
+  <actor>
+    <name>Lil Rel Howery</name>
+    <role>Angel / Devil Tom (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1488961</tmdbid>
+    <imdbid>nm2577076</imdbid>
+  </actor>
+  <actor>
+    <name>Utkarsh Ambudkar</name>
+    <role>Real Estate Rat (voice)</role>
+    <type>Actor</type>
+    <tmdbid>929511</tmdbid>
+    <imdbid>nm2064295</imdbid>
+    <tvdbid>297623</tvdbid>
+  </actor>
+  <actor>
+    <name>Tim Story</name>
+    <role>Pigeon Announcer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20400</tmdbid>
+    <imdbid>nm1103162</imdbid>
+  </actor>
+  <actor>
+    <name>Somi De Souza</name>
+    <role>Mrs. Mehta</role>
+    <type>Actor</type>
+    <tmdbid>1561308</tmdbid>
+    <imdbid>nm1934291</imdbid>
+  </actor>
+  <actor>
+    <name>Ajay Chhabra</name>
+    <role>Mr. Mehta</role>
+    <type>Actor</type>
+    <tmdbid>2799135</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Poletti</name>
+    <role>Mr. Jacobson Snr.</role>
+    <type>Actor</type>
+    <tmdbid>24247</tmdbid>
+    <imdbid>nm0688995</imdbid>
+  </actor>
+  <actor>
+    <name>Janis Ahern</name>
+    <role>Mrs. Jacobson</role>
+    <type>Actor</type>
+    <tmdbid>1405269</tmdbid>
+    <imdbid>nm4273260</imdbid>
+  </actor>
+  <actor>
+    <name>Camilla Arfwedson</name>
+    <role>Linda Perrybottom</role>
+    <type>Actor</type>
+    <tmdbid>1073327</tmdbid>
+    <imdbid>nm2268310</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Bone</name>
+    <role>Animal Control Officer</role>
+    <type>Actor</type>
+    <tmdbid>2159326</tmdbid>
+    <imdbid>nm2374729</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Judge</name>
+    <role>Leo the Sous Chef</role>
+    <type>Actor</type>
+    <tmdbid>1413424</tmdbid>
+    <imdbid>nm3893266</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Bovell</name>
+    <role>Annoyed Vendor</role>
+    <type>Actor</type>
+    <tmdbid>1228665</tmdbid>
+    <imdbid>nm0100598</imdbid>
+  </actor>
+  <actor>
+    <name>David Nolan</name>
+    <role>Passing Father</role>
+    <type>Actor</type>
+    <tmdbid>1441640</tmdbid>
+    <imdbid>nm4267079</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Coward Nicoll</name>
+    <role>Passing Child</role>
+    <type>Actor</type>
+    <tmdbid>3024068</tmdbid>
+    <imdbid>nm10946969</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Chong</name>
+    <role>Lola</role>
+    <type>Actor</type>
+    <tmdbid>472632</tmdbid>
+    <imdbid>nm2925304</imdbid>
+    <tvdbid>590355</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Adegboyega</name>
+    <role>Gavin The Doorman</role>
+    <type>Actor</type>
+    <tmdbid>1474705</tmdbid>
+    <imdbid>nm4089182</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Stein</name>
+    <role>Job Hopper Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>1489322</tmdbid>
+    <imdbid>nm1270268</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Dogliani</name>
+    <role>Elephant Trainer</role>
+    <type>Actor</type>
+    <tmdbid>1768321</tmdbid>
+    <imdbid>nm2589085</imdbid>
+  </actor>
+  <actor>
+    <name>Josselyn Ospina Escobar</name>
+    <role>Carriage Riding Kid</role>
+    <type>Actor</type>
+    <tmdbid>3024075</tmdbid>
+  </actor>
+  <actor>
+    <name>Ozuna</name>
+    <role>Assistant Hotel Staff</role>
+    <type>Actor</type>
+    <tmdbid>2228673</tmdbid>
+    <imdbid>nm9505536</imdbid>
+  </actor>
+  <actor>
+    <name>Paolo Bonolis</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>234746</tmdbid>
+    <imdbid>nm1244159</imdbid>
+  </actor>
+  <actor>
+    <name>Haley Bishop</name>
+    <role>Person in Park</role>
+    <type>Actor</type>
+    <tmdbid>1929090</tmdbid>
+    <imdbid>nm3749687</imdbid>
+  </actor>
+  <actor>
+    <name>Norma Butikofer</name>
+    <role>Commuter</role>
+    <type>Actor</type>
+    <tmdbid>3024079</tmdbid>
+    <imdbid>nm5150492</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Wesley DeHaney</name>
+    <role>Commuter</role>
+    <type>Actor</type>
+    <tmdbid>2799140</tmdbid>
+    <imdbid>nm6973663</imdbid>
+  </actor>
+  <actor>
+    <name>Kerri McLean</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1734990</tmdbid>
+    <imdbid>nm1667723</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Holland</name>
+    <role>TV Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1640424</tmdbid>
+    <imdbid>nm6807048</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Begley</name>
+    <role>Workman</role>
+    <type>Actor</type>
+    <tmdbid>3024086</tmdbid>
+    <imdbid>nm10891576</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Coker</name>
+    <role>Limo Driver</role>
+    <type>Actor</type>
+    <tmdbid>3024089</tmdbid>
+    <imdbid>nm4243438</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Buck</name>
+    <role>Joe Buck</role>
+    <type>Actor</type>
+    <tmdbid>1233313</tmdbid>
+    <imdbid>nm0118374</imdbid>
+    <tvdbid>367486</tvdbid>
+  </actor>
+  <actor>
+    <name>William Hanna</name>
+    <role>Tom / Jerry (archive sounds) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>13620</tmdbid>
+    <imdbid>nm0360253</imdbid>
+  </actor>
+  <actor>
+    <name>Mel Blanc</name>
+    <role>Tom / Jerry (archive sounds) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>33923</tmdbid>
+    <imdbid>nm0000305</imdbid>
+  </actor>
+  <actor>
+    <name>June Foray</name>
+    <role>Tom / Jerry (archive sounds) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15098</tmdbid>
+    <imdbid>nm0004931</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Welker</name>
+    <role>Tom / Jerry (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15831</tmdbid>
+    <imdbid>nm0919798</imdbid>
+  </actor>
+  <actor>
+    <name>T-Pain</name>
+    <role>Tom (singing voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>224092</tmdbid>
+    <imdbid>nm2359047</imdbid>
+    <tvdbid>295302</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Stepanek</name>
+    <role>Tom (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>146391</tmdbid>
+    <imdbid>nm0826745</imdbid>
+    <tvdbid>296590</tvdbid>
+  </actor>
+  <actor>
+    <name>Gianni Calchetti</name>
+    <role>Press (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2355277</tmdbid>
+    <imdbid>nm10541166</imdbid>
+  </actor>
+  <actor>
+    <name>Joakim Skarli</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1853975</tmdbid>
+    <imdbid>nm7813817</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Charlie</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2251721</tmdbid>
+    <imdbid>nm10360936</imdbid>
+  </actor>
+  <actor>
+    <name>Leandra Ryan</name>
+    <role>Yoga Instructor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1513731</tmdbid>
+    <imdbid>nm3278747</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Ang Jones</name>
+    <role>Boyfriend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2799138</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleanor Fanyinka</name>
+    <role>Sadie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2347105</tmdbid>
+    <imdbid>nm4954271</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Capozzola</name>
+    <role>Wealthy Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2399172</tmdbid>
+    <imdbid>nm8831029</imdbid>
+  </actor>
+  <actor>
+    <name>Camilla Rutherford</name>
+    <role>Wealthy Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>38809</tmdbid>
+    <imdbid>nm0751950</imdbid>
+  </actor>
+  <actor>
+    <name>Densil Jones</name>
+    <role>Bellhop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2799142</tmdbid>
+  </actor>
+  <actor>
+    <name>Fuzuli Khabibillaev</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2799141</tmdbid>
+  </actor>
+  <director tmdbid="20400" imdbid="nm1103162">Tim Story</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2TmIzPODcTs</trailer>
+  <rating>5.2</rating>
+  <year>2021</year>
+  <sorttitle>Tom y Jerry</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt1361336</imdbid>
+  <tmdbid>587807</tmdbid>
+  <premiered>2021-02-11</premiered>
+  <releasedate>2021-02-11</releasedate>
+  <criticrating>31</criticrating>
+  <runtime>101</runtime>
+  <tagline>Los mejores enemigos. Los peores amigos.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <genre>Animación</genre>
+  <studio>Warner Animation Group</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Turner Entertainment</studio>
+  <studio>The Story Company</studio>
+  <set tmdbcolid="1118731">
+    <name>Tom and Jerry Collection</name>
+  </set>
+  <uniqueid type="imdb">tt1361336</uniqueid>
+  <uniqueid type="tmdb">587807</uniqueid>
+  <id>tt1361336</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1103250</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6061</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

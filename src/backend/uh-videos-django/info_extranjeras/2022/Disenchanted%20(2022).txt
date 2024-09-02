@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Diez años después de su felices para siempre, Giselle cuestiona su felicidad, sin darse cuenta, poniendo patas arriba las vidas de aquellos en el mundo real y Andalasia en el proceso.]]></plot>
+  <outline><![CDATA[Infelices y sin comer perdices]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-18 10:09:39</dateadded>
+  <title>Desencantada: Vuelve Giselle</title>
+  <originaltitle>Disenchanted</originaltitle>
+  <actor>
+    <name>Amy Adams</name>
+    <role>Giselle</role>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+    <tvdbid>252577</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick Dempsey</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>18352</tmdbid>
+    <imdbid>nm0001131</imdbid>
+  </actor>
+  <actor>
+    <name>Maya Rudolph</name>
+    <role>Malvina</role>
+    <type>Actor</type>
+    <tmdbid>52792</tmdbid>
+    <imdbid>nm0748973</imdbid>
+    <tvdbid>294127</tvdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Baldacchino</name>
+    <role>Morgan</role>
+    <type>Actor</type>
+    <tmdbid>2063192</tmdbid>
+  </actor>
+  <actor>
+    <name>James Marsden</name>
+    <role>Edward</role>
+    <type>Actor</type>
+    <tmdbid>11006</tmdbid>
+    <imdbid>nm0005188</imdbid>
+    <tvdbid>267668</tvdbid>
+  </actor>
+  <actor>
+    <name>Idina Menzel</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>19394</tmdbid>
+    <imdbid>nm0579953</imdbid>
+  </actor>
+  <actor>
+    <name>Yvette Nicole Brown</name>
+    <role>Rosaleen</role>
+    <type>Actor</type>
+    <tmdbid>111513</tmdbid>
+    <imdbid>nm1304328</imdbid>
+    <tvdbid>297473</tvdbid>
+  </actor>
+  <actor>
+    <name>Jayma Mays</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>34195</tmdbid>
+    <imdbid>nm1724323</imdbid>
+    <tvdbid>358750</tvdbid>
+  </actor>
+  <actor>
+    <name>Kolton Stewart</name>
+    <role>Tyson</role>
+    <type>Actor</type>
+    <tmdbid>1094134</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Nunez</name>
+    <role>Edgar</role>
+    <type>Actor</type>
+    <tmdbid>76094</tmdbid>
+    <imdbid>nm1386645</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Scroll (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+    <tvdbid>295572</tvdbid>
+  </actor>
+  <actor>
+    <name>Griffin Newman</name>
+    <role>Pip / Cat Pip (voice)</role>
+    <type>Actor</type>
+    <tmdbid>225377</tmdbid>
+    <imdbid>nm1969645</imdbid>
+    <tvdbid>466662</tvdbid>
+  </actor>
+  <actor>
+    <name>Brooke Josephson</name>
+    <role>Fairy</role>
+    <type>Actor</type>
+    <tmdbid>1511401</tmdbid>
+  </actor>
+  <actor>
+    <name>Eimear Morrissey</name>
+    <role>Sander</role>
+    <type>Actor</type>
+    <tmdbid>1986827</tmdbid>
+  </actor>
+  <actor>
+    <name>James Monroe Iglehart</name>
+    <role>Weary Businessman / Baker</role>
+    <type>Actor</type>
+    <tmdbid>1473281</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McCorry Rose</name>
+    <role>Disgruntled Businessman / Sign Painter</role>
+    <type>Actor</type>
+    <tmdbid>2979448</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Harada</name>
+    <role>Sardonic Businesswoman / Florist</role>
+    <type>Actor</type>
+    <tmdbid>196181</tmdbid>
+    <tvdbid>397589</tvdbid>
+  </actor>
+  <actor>
+    <name>Helen Norton</name>
+    <role>Saleswoman</role>
+    <type>Actor</type>
+    <tmdbid>1003411</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Duggan</name>
+    <role>Rumpled Dad</role>
+    <type>Actor</type>
+    <tmdbid>1337074</tmdbid>
+    <imdbid>nm0240948</imdbid>
+  </actor>
+  <actor>
+    <name>Brigid Leahy</name>
+    <role>Nervous Wife</role>
+    <type>Actor</type>
+    <tmdbid>3035784</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Covey</name>
+    <role>Monrolasia Girl</role>
+    <type>Actor</type>
+    <tmdbid>38192</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Okoye</name>
+    <role>Fairytale Villager</role>
+    <type>Actor</type>
+    <tmdbid>3539860</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayley Keogh</name>
+    <role>Mean Girl</role>
+    <type>Actor</type>
+    <tmdbid>2849542</tmdbid>
+  </actor>
+  <actor>
+    <name>Alix Bailey</name>
+    <role>Tyson's Friend</role>
+    <type>Actor</type>
+    <tmdbid>1438276</tmdbid>
+  </actor>
+  <actor>
+    <name>Darren Le Gallo</name>
+    <role>Painter in Town Square</role>
+    <type>Actor</type>
+    <tmdbid>1181565</tmdbid>
+    <imdbid>nm1098160</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Browne</name>
+    <role>Gardener / Fauna</role>
+    <type>Actor</type>
+    <tmdbid>2477617</tmdbid>
+  </actor>
+  <actor>
+    <name>Darlene Garr</name>
+    <role>Crone</role>
+    <type>Actor</type>
+    <tmdbid>2863919</tmdbid>
+  </actor>
+  <actor>
+    <name>Aidan McCann</name>
+    <role>Market Boy</role>
+    <type>Actor</type>
+    <tmdbid>3248000</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Werner</name>
+    <role>Mother (Giant)</role>
+    <type>Actor</type>
+    <tmdbid>3047111</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Harrison</name>
+    <role>Father (Giant)</role>
+    <type>Actor</type>
+    <tmdbid>2436363</tmdbid>
+  </actor>
+  <actor>
+    <name>Claude Starling</name>
+    <role>Vendor (Giant)</role>
+    <type>Actor</type>
+    <tmdbid>2363516</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Law</name>
+    <role>Husband #1</role>
+    <type>Actor</type>
+    <tmdbid>2140794</tmdbid>
+    <imdbid>nm7395686</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Lee</name>
+    <role>Society Girl</role>
+    <type>Actor</type>
+    <tmdbid>198610</tmdbid>
+  </actor>
+  <actor>
+    <name>Rendah Beshoori</name>
+    <role>Snooty Woman</role>
+    <type>Actor</type>
+    <tmdbid>3399459</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Servitto</name>
+    <role>Mover</role>
+    <type>Actor</type>
+    <tmdbid>58541</tmdbid>
+    <imdbid>nm0785854</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony R. Mottola</name>
+    <role>Mover</role>
+    <type>Actor</type>
+    <tmdbid>2630726</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Shankman</name>
+    <role>Grump Vendor / Kip / Skip</role>
+    <type>Actor</type>
+    <tmdbid>20739</tmdbid>
+    <imdbid>nm0788202</imdbid>
+  </actor>
+  <actor>
+    <name>Kc Monnie</name>
+    <role>Man on Train</role>
+    <type>Actor</type>
+    <tmdbid>1516734</tmdbid>
+    <imdbid>nm3755339</imdbid>
+  </actor>
+  <director tmdbid="20739" imdbid="nm0788202">Adam Shankman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=go9OtxKu6fQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CEvx9mkmiDI</trailer>
+  <rating>5.6</rating>
+  <year>2022</year>
+  <sorttitle>Desencantada: Vuelve Giselle</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt1596342</imdbid>
+  <tmdbid>338958</tmdbid>
+  <premiered>2022-11-16</premiered>
+  <releasedate>2022-11-16</releasedate>
+  <runtime>118</runtime>
+  <tagline>Infelices y sin comer perdices</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <genre>Fantasía</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Josephson Entertainment</studio>
+  <studio>Right Coast</studio>
+  <set tmdbcolid="531799">
+    <name>Encantada - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt1596342</uniqueid>
+  <uniqueid type="tmdb">338958</uniqueid>
+  <id>tt1596342</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>946125</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7097</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

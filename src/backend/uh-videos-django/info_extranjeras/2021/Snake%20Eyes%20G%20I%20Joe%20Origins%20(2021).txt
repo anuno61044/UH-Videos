@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[G.I. JOE: Snake Eyes es protagonizada por Henry Golding. Snake Eyes es un solitario y tenaz guerrero que se une a al antiguo clan japonés de los Arashikage luego de salvarle la vida al heredero del clan. Al llegar a Japón, los Arashikage le enseñan a Snake Eyes los caminos del guerrero ninja y le dan algo que siempre quiso tener: un hogar. Pero, al revelarse los secretos sobre su pasado, pondrán a prueba el honor y la lealtad de Snake Eyes, incluso si eso significa perder la confianza de los más cercanos a él.]]></plot>
+  <outline><![CDATA[Cada Guerrero tiene un comienzo]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-17 08:13:36</dateadded>
+  <title>G.I. Joe: Snake Eyes</title>
+  <originaltitle>Snake Eyes: G.I. Joe Origins</originaltitle>
+  <actor>
+    <name>Henry Golding</name>
+    <role>Snake Eyes</role>
+    <type>Actor</type>
+    <tmdbid>1807132</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Koji</name>
+    <role>Tommy / Storm Shadow</role>
+    <type>Actor</type>
+    <tmdbid>1658375</tmdbid>
+    <imdbid>nm4010671</imdbid>
+    <tvdbid>8073313</tvdbid>
+  </actor>
+  <actor>
+    <name>Haruka Abe</name>
+    <role>Akiko</role>
+    <type>Actor</type>
+    <tmdbid>1168128</tmdbid>
+    <imdbid>nm2835835</imdbid>
+  </actor>
+  <actor>
+    <name>Úrsula Corberó</name>
+    <role>The Baroness</role>
+    <type>Actor</type>
+    <tmdbid>1042728</tmdbid>
+    <imdbid>nm2216549</imdbid>
+    <tvdbid>454615</tvdbid>
+  </actor>
+  <actor>
+    <name>Samara Weaving</name>
+    <role>Scarlett</role>
+    <type>Actor</type>
+    <tmdbid>1372369</tmdbid>
+    <imdbid>nm3034977</imdbid>
+    <tvdbid>533955</tvdbid>
+  </actor>
+  <actor>
+    <name>Takehiro Hira</name>
+    <role>Kenta</role>
+    <type>Actor</type>
+    <tmdbid>1082509</tmdbid>
+    <imdbid>nm3042346</imdbid>
+  </actor>
+  <actor>
+    <name>Eri Ishida</name>
+    <role>Sen</role>
+    <type>Actor</type>
+    <tmdbid>1075864</tmdbid>
+  </actor>
+  <actor>
+    <name>Iko Uwais</name>
+    <role>Hard Master</role>
+    <type>Actor</type>
+    <tmdbid>113732</tmdbid>
+    <imdbid>nm3299397</imdbid>
+    <tvdbid>8133468</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Mensah</name>
+    <role>Blind Master</role>
+    <type>Actor</type>
+    <tmdbid>68278</tmdbid>
+    <imdbid>nm0579795</imdbid>
+    <tvdbid>296049</tvdbid>
+  </actor>
+  <actor>
+    <name>Steven Allerick</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>1517254</tmdbid>
+    <imdbid>nm0021247</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Chin</name>
+    <role>Hama</role>
+    <type>Actor</type>
+    <tmdbid>1259515</tmdbid>
+    <imdbid>nm1777809</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel Finzi</name>
+    <role>Augustine</role>
+    <type>Actor</type>
+    <tmdbid>3841</tmdbid>
+  </actor>
+  <actor>
+    <name>Shota Kakibata</name>
+    <role>Yakuza</role>
+    <type>Actor</type>
+    <tmdbid>3075461</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Dohy</name>
+    <role>Security Thug</role>
+    <type>Actor</type>
+    <tmdbid>2382046</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Muhtadi</name>
+    <role>Bruiser Streetfighter</role>
+    <type>Actor</type>
+    <tmdbid>1425404</tmdbid>
+  </actor>
+  <actor>
+    <name>James Hiroyuki Liao</name>
+    <role>Yasuzo</role>
+    <type>Actor</type>
+    <tmdbid>58330</tmdbid>
+    <imdbid>nm1620756</imdbid>
+  </actor>
+  <actor>
+    <name>Kenji Tanigaki</name>
+    <role>Yakuza with Eye Patch</role>
+    <type>Actor</type>
+    <tmdbid>1113443</tmdbid>
+    <imdbid>nm0849459</imdbid>
+  </actor>
+  <actor>
+    <name>Kento Matsunami</name>
+    <role>Arashikage Ninja Guard</role>
+    <type>Actor</type>
+    <tmdbid>2621307</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean O. Roberts</name>
+    <role>Augustine's Hired Thug</role>
+    <type>Actor</type>
+    <tmdbid>110476</tmdbid>
+    <imdbid>nm1016503</imdbid>
+  </actor>
+  <actor>
+    <name>Jason William Day</name>
+    <role>Augustine's Hired Thug</role>
+    <type>Actor</type>
+    <tmdbid>83445</tmdbid>
+  </actor>
+  <actor>
+    <name>Kojun Notsu</name>
+    <role>Arashikage Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>3267192</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Archibald</name>
+    <role>Young Snake Eyes</role>
+    <type>Actor</type>
+    <tmdbid>3267193</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Day</name>
+    <role>Augustine's Hired Thug</role>
+    <type>Actor</type>
+    <tmdbid>933264</tmdbid>
+    <imdbid>nm1832840</imdbid>
+    <tvdbid>474533</tvdbid>
+  </actor>
+  <director tmdbid="57270">Robert Schwentke</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UOsIaM6A5ZU</trailer>
+  <rating>5.4</rating>
+  <year>2021</year>
+  <sorttitle>G.I. Joe: Snake Eyes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8404256</imdbid>
+  <tmdbid>568620</tmdbid>
+  <premiered>2021-07-22</premiered>
+  <releasedate>2021-07-22</releasedate>
+  <criticrating>35</criticrating>
+  <runtime>121</runtime>
+  <tagline>Cada Guerrero tiene un comienzo</tagline>
+  <country>Canada</country>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Paramount</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Di Bonaventura Pictures</studio>
+  <studio>Entertainment One</studio>
+  <studio>Skydance Media</studio>
+  <studio>Hasbro</studio>
+  <set tmdbcolid="135468">
+    <name>G.I. Joe - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt8404256</uniqueid>
+  <uniqueid type="tmdb">568620</uniqueid>
+  <id>tt8404256</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>917621</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7285</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

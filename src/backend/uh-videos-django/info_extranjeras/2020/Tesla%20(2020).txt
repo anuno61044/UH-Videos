@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A freewheeling take on visionary inventor Nikola Tesla, his interactions with Thomas Edison and J.P. Morgan's daughter Anne, and his breakthroughs in transmitting electrical power and light.]]></plot>
+  <outline><![CDATA[Un Film de Michael Almereyda]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-27 11:17:36</dateadded>
+  <title>Tesla</title>
+  <originaltitle>Tesla</originaltitle>
+  <actor>
+    <name>Ethan Hawke</name>
+    <type>Actor</type>
+    <tmdbid>569</tmdbid>
+    <imdbid>nm0000160</imdbid>
+    <tvdbid>311173</tvdbid>
+  </actor>
+  <actor>
+    <name>Eve Hewson</name>
+    <type>Actor</type>
+    <tmdbid>933271</tmdbid>
+    <imdbid>nm2016723</imdbid>
+    <tvdbid>7927042</tvdbid>
+  </actor>
+  <actor>
+    <name>Eli A. Smith</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Josh Hamilton</name>
+    <type>Actor</type>
+    <tmdbid>52419</tmdbid>
+    <imdbid>nm0357979</imdbid>
+    <tvdbid>317218</tvdbid>
+  </actor>
+  <director tmdbid="54469" imdbid="nm0021899">Michael Almereyda</director>
+  <writer tmdbid="54469" imdbid="nm0021899">Michael Almereyda</writer>
+  <credits tmdbid="54469" imdbid="nm0021899">Michael Almereyda</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cDouO6XZr9M</trailer>
+  <rating>5.1</rating>
+  <year>2020</year>
+  <sorttitle>Tesla</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5259822</imdbid>
+  <tmdbid>517412</tmdbid>
+  <premiered>2020-08-14</premiered>
+  <releasedate>2020-08-14</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>102</runtime>
+  <tagline>Un Film de Michael Almereyda</tagline>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <studio>Campbell Grobman Films</studio>
+  <studio>Intrinsic Value Films</studio>
+  <studio>Jeff Rice Films</studio>
+  <studio>Passage Pictures</studio>
+  <studio>Millennium Films</studio>
+  <studio>Under the Influence Productions</studio>
+  <uniqueid type="imdb">tt5259822</uniqueid>
+  <uniqueid type="tmdb">517412</uniqueid>
+  <id>tt5259822</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1088765</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6137</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En este documental, una mujer que aparece casi muerta en la ruta deja atrás a un hijo, a un hombre que dice ser su marido... y un misterio que resulta ser una pesadilla.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-07-29 09:33:04</dateadded>
+  <title>La chica de la foto</title>
+  <originaltitle>Girl in the Picture</originaltitle>
+  <actor>
+    <name>Natalie De Vincentiis</name>
+    <role>Cheryl</role>
+    <type>Actor</type>
+    <tmdbid>3603780</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Chinnery</name>
+    <role>Joe Fitzpatrick</role>
+    <type>Actor</type>
+    <tmdbid>1596939</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah French</name>
+    <role>Heather</role>
+    <type>Actor</type>
+    <tmdbid>1285665</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Mackin</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>3603784</tmdbid>
+  </actor>
+  <actor>
+    <name>Meg Schimelpfenig</name>
+    <role>Jenny</role>
+    <type>Actor</type>
+    <tmdbid>3603785</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Christopher Smith</name>
+    <role>Floyd</role>
+    <type>Actor</type>
+    <tmdbid>3603786</tmdbid>
+  </actor>
+  <director tmdbid="1410007">Skye Borgman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jnJ4BGNpby8</trailer>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>chica de la foto</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt21059520</imdbid>
+  <tmdbid>988046</tmdbid>
+  <premiered>2022-07-06</premiered>
+  <releasedate>2022-07-06</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>101</runtime>
+  <country>United States of America</country>
+  <genre>Documental</genre>
+  <studio>All3Media America</studio>
+  <studio>Top Knot Films</studio>
+  <studio>Main Event Media</studio>
+  <uniqueid type="imdb">tt21059520</uniqueid>
+  <uniqueid type="tmdb">988046</uniqueid>
+  <id>tt21059520</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149927</bitrate>
+        <width>1280</width>
+        <height>960</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6047</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127990</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ca</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

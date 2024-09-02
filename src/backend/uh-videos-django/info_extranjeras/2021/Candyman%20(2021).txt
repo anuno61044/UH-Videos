@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Desde tiempos inmemoriales, los proyectos residenciales del barrio de Cabrini Green en Chicago se han visto amenazados por la historia de un supuesto asesino en serie con un gancho por mano al que se invoca fácilmente repitiendo su nombre cinco veces frente a un espejo. Hoy, una década después de que la última torre de Cabrini fuese derruída, el artista visual Anthony McCoy (Yahya Abdul-Mateen) y su novia Brianna Cartwright (Teyonah Parris), se mudan a un apartamento de lujo de un barrio ahora irreconocible, repleto de millennials y de personas que, por lo general, desconocen su oscuro pasado.]]></plot>
+  <outline><![CDATA[Atrévete a decir su nombre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-16 07:53:09</dateadded>
+  <title>Candyman</title>
+  <originaltitle>Candyman</originaltitle>
+  <actor>
+    <name>Yahya Abdul-Mateen II</name>
+    <role>Anthony McCoy</role>
+    <type>Actor</type>
+    <tmdbid>1639847</tmdbid>
+    <imdbid>nm5584344</imdbid>
+  </actor>
+  <actor>
+    <name>Teyonah Parris</name>
+    <role>Brianna Cartwright</role>
+    <type>Actor</type>
+    <tmdbid>970219</tmdbid>
+    <imdbid>nm3500582</imdbid>
+  </actor>
+  <actor>
+    <name>Colman Domingo</name>
+    <role>William Burke</role>
+    <type>Actor</type>
+    <tmdbid>91671</tmdbid>
+    <imdbid>nm0231458</imdbid>
+    <tvdbid>317205</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathan Stewart-Jarrett</name>
+    <role>Troy Cartwright</role>
+    <type>Actor</type>
+    <tmdbid>221980</tmdbid>
+    <imdbid>nm2805533</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Kaminsky</name>
+    <role>Grady Smith</role>
+    <type>Actor</type>
+    <tmdbid>2393781</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Williams</name>
+    <role>Anne-Marie McCoy</role>
+    <type>Actor</type>
+    <tmdbid>543193</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian King</name>
+    <role>Clive Privler</role>
+    <type>Actor</type>
+    <tmdbid>1563458</tmdbid>
+    <imdbid>nm2444299</imdbid>
+  </actor>
+  <actor>
+    <name>Miriam Moss</name>
+    <role>Jerrika</role>
+    <type>Actor</type>
+    <tmdbid>2551727</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Spence</name>
+    <role>Finley Stephens</role>
+    <type>Actor</type>
+    <tmdbid>143714</tmdbid>
+    <imdbid>nm2050642</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Clemons-Hopkins</name>
+    <role>Jameson</role>
+    <type>Actor</type>
+    <tmdbid>2185770</tmdbid>
+  </actor>
+  <actor>
+    <name>Christiana Clark</name>
+    <role>Danielle Harrington</role>
+    <type>Actor</type>
+    <tmdbid>937989</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Hargrove</name>
+    <role>Candyman / Sherman Fields</role>
+    <type>Actor</type>
+    <tmdbid>2759437</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodney L Jones III</name>
+    <role>Billy</role>
+    <type>Actor</type>
+    <tmdbid>2551734</tmdbid>
+  </actor>
+  <actor>
+    <name>Ireon Roach</name>
+    <role>Trina</role>
+    <type>Actor</type>
+    <tmdbid>1946954</tmdbid>
+  </actor>
+  <actor>
+    <name>Breanna Lind</name>
+    <role>Annika</role>
+    <type>Actor</type>
+    <tmdbid>3216265</tmdbid>
+  </actor>
+  <actor>
+    <name>Heidi Grace Engerman</name>
+    <role>Haley Gulick</role>
+    <type>Actor</type>
+    <tmdbid>2551735</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Lo</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>2546598</tmdbid>
+  </actor>
+  <actor>
+    <name>Malic White</name>
+    <role>Boof</role>
+    <type>Actor</type>
+    <tmdbid>1806228</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Montgomery</name>
+    <role>Detective Lipez</role>
+    <type>Actor</type>
+    <tmdbid>2551731</tmdbid>
+  </actor>
+  <actor>
+    <name>Torrey Hanson</name>
+    <role>Jack Hyde</role>
+    <type>Actor</type>
+    <tmdbid>2551736</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Kramer</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>1264519</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Wisterman</name>
+    <role>Celine</role>
+    <type>Actor</type>
+    <tmdbid>3088918</tmdbid>
+  </actor>
+  <actor>
+    <name>Cedric Mays</name>
+    <role>Gil Cartwright</role>
+    <type>Actor</type>
+    <tmdbid>2393783</tmdbid>
+  </actor>
+  <actor>
+    <name>Alec Silver</name>
+    <role>Restaurant server</role>
+    <type>Actor</type>
+    <tmdbid>3216273</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Love Jones</name>
+    <role>Young Brianna</role>
+    <type>Actor</type>
+    <tmdbid>2549868</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Nicole Brooks</name>
+    <role>Dr. Collins</role>
+    <type>Actor</type>
+    <tmdbid>2062172</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Jones</name>
+    <role>Reporter Devlin Sharpe</role>
+    <type>Actor</type>
+    <tmdbid>2551714</tmdbid>
+  </actor>
+  <actor>
+    <name>Genesis Denise Hale</name>
+    <role>Sabrina</role>
+    <type>Actor</type>
+    <tmdbid>2551733</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Purdie</name>
+    <role>Haley's Mom</role>
+    <type>Actor</type>
+    <tmdbid>2746450</tmdbid>
+  </actor>
+  <actor>
+    <name>Tien Tran</name>
+    <role>Jane Ji</role>
+    <type>Actor</type>
+    <tmdbid>2659379</tmdbid>
+    <tvdbid>8244571</tvdbid>
+  </actor>
+  <actor>
+    <name>Mike Geraghty</name>
+    <role>Police Officer Jones</role>
+    <type>Actor</type>
+    <tmdbid>2296585</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Crippen</name>
+    <role>Police Officer Smith</role>
+    <type>Actor</type>
+    <tmdbid>135769</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Fierro</name>
+    <role>Police Officer Rooney</role>
+    <type>Actor</type>
+    <tmdbid>2549872</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadia Simms</name>
+    <role>Ringleader</role>
+    <type>Actor</type>
+    <tmdbid>1563271</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Pender</name>
+    <role>TV News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2393784</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Westmoreland</name>
+    <role>Samuel Evans</role>
+    <type>Actor</type>
+    <tmdbid>3216282</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Spencer</name>
+    <role>John Crawley</role>
+    <type>Actor</type>
+    <tmdbid>3216284</tmdbid>
+  </actor>
+  <actor>
+    <name>Daejon Staeker</name>
+    <role>The Kid</role>
+    <type>Actor</type>
+    <tmdbid>3216286</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Todd</name>
+    <role>Candyman / Daniel Robitaille</role>
+    <type>Actor</type>
+    <tmdbid>19384</tmdbid>
+    <imdbid>nm0865302</imdbid>
+  </actor>
+  <actor>
+    <name>Virginia Madsen</name>
+    <role>Helen Lyle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12519</tmdbid>
+    <imdbid>nm0000515</imdbid>
+    <tvdbid>271147</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Marten</name>
+    <role>Officer Cooke (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>115130</tmdbid>
+  </actor>
+  <director tmdbid="1795072">Nia DaCosta</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S5rfKQXpEWA</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>Candyman</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9347730</imdbid>
+  <tmdbid>565028</tmdbid>
+  <premiered>2021-08-25</premiered>
+  <releasedate>2021-08-25</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>91</runtime>
+  <tagline>Atrévete a decir su nombre.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Bron Studios</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Monkeypaw Productions</studio>
+  <set tmdbcolid="98580">
+    <name>Candyman - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt9347730</uniqueid>
+  <uniqueid type="tmdb">565028</uniqueid>
+  <id>tt9347730</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1223955</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5461</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

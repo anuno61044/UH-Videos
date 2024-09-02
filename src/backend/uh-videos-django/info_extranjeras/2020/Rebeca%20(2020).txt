@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Maximilian De Winter pierde a su esposa Rebeca cuando ésta es dada por muerta después de desaparecer en la costa. Con la intención de olvidar lo sucedido decide ir a Montecarlo, donde conoce a una joven empleada de la señora Van Hooper como dama de compañía. Ambos se enamoran y se casan rápidamente. Cuando se instalan en la mansión de Maxim, Manderley, la joven esposa se da cuenta de que la sombra de Rebeca aún sigue presente en la casa, en el ama de llaves y en los pensamientos de su marido...]]></plot>
+  <outline><![CDATA[Un Film de Ben Wheatley]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-26 08:46:15</dateadded>
+  <title>Rebeca</title>
+  <originaltitle>Rebecca</originaltitle>
+  <actor>
+    <name>Lily James</name>
+    <role>Mrs. de Winter</role>
+    <type>Actor</type>
+    <tmdbid>1016168</tmdbid>
+    <imdbid>nm4141252</imdbid>
+    <tvdbid>453685</tvdbid>
+  </actor>
+  <actor>
+    <name>Armie Hammer</name>
+    <role>Maxim de Winter</role>
+    <type>Actor</type>
+    <tmdbid>53807</tmdbid>
+    <imdbid>nm2309517</imdbid>
+  </actor>
+  <actor>
+    <name>Kristin Scott Thomas</name>
+    <role>Mrs. Danvers</role>
+    <type>Actor</type>
+    <tmdbid>5470</tmdbid>
+    <imdbid>nm0000218</imdbid>
+    <tvdbid>261537</tvdbid>
+  </actor>
+  <actor>
+    <name>Keeley Hawes</name>
+    <role>Beatrice</role>
+    <type>Actor</type>
+    <tmdbid>22809</tmdbid>
+    <imdbid>nm0369954</imdbid>
+    <tvdbid>300839</tvdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Mrs. Van Hopper</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Riley</name>
+    <role>Jack Favell</role>
+    <type>Actor</type>
+    <tmdbid>32987</tmdbid>
+    <imdbid>nm0727165</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Goodman-Hill</name>
+    <role>Frank Crawley</role>
+    <type>Actor</type>
+    <tmdbid>43034</tmdbid>
+    <imdbid>nm0329259</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lewis Jones</name>
+    <role>Inspector Welch</role>
+    <type>Actor</type>
+    <tmdbid>185460</tmdbid>
+    <imdbid>nm0428765</imdbid>
+  </actor>
+  <actor>
+    <name>John Hollingworth</name>
+    <role>Giles</role>
+    <type>Actor</type>
+    <tmdbid>1386824</tmdbid>
+    <imdbid>nm3227473</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Paterson</name>
+    <role>Dr. Baker</role>
+    <type>Actor</type>
+    <tmdbid>104795</tmdbid>
+    <imdbid>nm0665473</imdbid>
+  </actor>
+  <actor>
+    <name>Jacques Bouanich</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>73505</tmdbid>
+    <imdbid>nm0098810</imdbid>
+  </actor>
+  <actor>
+    <name>Marie Collins</name>
+    <role>Guest With Dog</role>
+    <type>Actor</type>
+    <tmdbid>238397</tmdbid>
+    <imdbid>nm0172510</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Dell</name>
+    <role>Restaurant Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>35359</tmdbid>
+    <imdbid>nm0217324</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Payan</name>
+    <role>Restaurant Guest</role>
+    <type>Actor</type>
+    <tmdbid>1742231</tmdbid>
+  </actor>
+  <actor>
+    <name>Pippa Winslow</name>
+    <role>Mrs. Jean Cabot</role>
+    <type>Actor</type>
+    <tmdbid>1643690</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Russell</name>
+    <role>Mrs. Clementine Whitney</role>
+    <type>Actor</type>
+    <tmdbid>28749</tmdbid>
+    <imdbid>nm0751301</imdbid>
+  </actor>
+  <actor>
+    <name>Bruno Paviot</name>
+    <role>Terrace Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>999791</tmdbid>
+    <imdbid>nm0667664</imdbid>
+  </actor>
+  <actor>
+    <name>Stefo Linard</name>
+    <role>Terrace Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1054661</tmdbid>
+    <imdbid>nm1594122</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hudson</name>
+    <role>Hotel Bellhop</role>
+    <type>Actor</type>
+    <tmdbid>1327993</tmdbid>
+    <imdbid>nm4423028</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Rawle</name>
+    <role>Frith</role>
+    <type>Actor</type>
+    <tmdbid>81022</tmdbid>
+    <imdbid>nm0712575</imdbid>
+  </actor>
+  <actor>
+    <name>Ashleigh Reynolds</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>2825348</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryony Miller</name>
+    <role>Clarice</role>
+    <type>Actor</type>
+    <tmdbid>2001428</tmdbid>
+    <imdbid>nm9105075</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Crompton</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>72315</tmdbid>
+    <imdbid>nm0174005</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Lapotaire</name>
+    <role>Granny</role>
+    <type>Actor</type>
+    <tmdbid>18021</tmdbid>
+    <imdbid>nm0487743</imdbid>
+  </actor>
+  <actor>
+    <name>Poppy Allen-Quarmby</name>
+    <role>Phillippa</role>
+    <type>Actor</type>
+    <tmdbid>2824743</tmdbid>
+  </actor>
+  <actor>
+    <name>David Cann</name>
+    <role>Lord Crowan</role>
+    <type>Actor</type>
+    <tmdbid>193340</tmdbid>
+    <imdbid>nm0134025</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Deakin</name>
+    <role>Lady Crowan</role>
+    <type>Actor</type>
+    <tmdbid>137471</tmdbid>
+    <imdbid>nm0212626</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Williamson</name>
+    <role>Kitchen Folk Singer</role>
+    <type>Actor</type>
+    <tmdbid>1802583</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Bennett</name>
+    <role>Ben's Father</role>
+    <type>Actor</type>
+    <tmdbid>1231954</tmdbid>
+    <imdbid>nm0071681</imdbid>
+  </actor>
+  <actor>
+    <name>Jess Irvin Rose</name>
+    <role>Scullery Maid</role>
+    <type>Actor</type>
+    <tmdbid>2825351</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Bearne</name>
+    <role>Manderley Villager</role>
+    <type>Actor</type>
+    <tmdbid>1619468</tmdbid>
+  </actor>
+  <actor>
+    <name>John Macneill</name>
+    <role>Manderley Villager</role>
+    <type>Actor</type>
+    <tmdbid>1867213</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Gostelow</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1947684</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Irons</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2825353</tmdbid>
+    <imdbid>nm4720268</imdbid>
+  </actor>
+  <actor>
+    <name>David Horovitch</name>
+    <role>Coroner</role>
+    <type>Actor</type>
+    <tmdbid>133032</tmdbid>
+    <imdbid>nm0395257</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Waters</name>
+    <role>Sargent Rowe</role>
+    <type>Actor</type>
+    <tmdbid>2825358</tmdbid>
+  </actor>
+  <actor>
+    <name>David Appleton</name>
+    <role>Night Watchman</role>
+    <type>Actor</type>
+    <tmdbid>2824768</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Burton</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>571437</tmdbid>
+    <imdbid>nm1544070</imdbid>
+  </actor>
+  <actor>
+    <name>Fionn Cox-Davies</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>1891300</tmdbid>
+    <imdbid>nm4476569</imdbid>
+  </actor>
+  <actor>
+    <name>Sonya Cullingford</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>1278557</tmdbid>
+    <imdbid>nm5394487</imdbid>
+  </actor>
+  <actor>
+    <name>Kirsty Arnold</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>2825635</tmdbid>
+  </actor>
+  <actor>
+    <name>Alistair Goldsmith</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>2825636</tmdbid>
+  </actor>
+  <actor>
+    <name>Omari Gordon</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>2074524</tmdbid>
+  </actor>
+  <actor>
+    <name>Fania Grigoriou</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>1278560</tmdbid>
+    <imdbid>nm5393343</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Leaney</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>2615219</tmdbid>
+  </actor>
+  <actor>
+    <name>Miranda Letten</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>2825639</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Scott</name>
+    <role>Manderley Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>1954091</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Ball</name>
+    <role>Manderley Ball Musician - Drums</role>
+    <type>Actor</type>
+    <tmdbid>2039721</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Clegg</name>
+    <role>Manderley Ball Musician - Trumpet</role>
+    <type>Actor</type>
+    <tmdbid>2825647</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillip Granell</name>
+    <role>Manderley Ball Musician - Violin</role>
+    <type>Actor</type>
+    <tmdbid>2825649</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Hewson</name>
+    <role>Manderley Ball Musician - Trombone</role>
+    <type>Actor</type>
+    <tmdbid>2443009</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Redman</name>
+    <role>Manderley Ball Musician - Guitar</role>
+    <type>Actor</type>
+    <tmdbid>2825651</tmdbid>
+  </actor>
+  <actor>
+    <name>George Sleightholme</name>
+    <role>Manderley Ball Musician - Clarinet</role>
+    <type>Actor</type>
+    <tmdbid>2825652</tmdbid>
+  </actor>
+  <actor>
+    <name>Romano Vizzani</name>
+    <role>Manderley Ball Musician - Accordion</role>
+    <type>Actor</type>
+    <tmdbid>2825653</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Watson</name>
+    <role>Manderley Ball Musician - Accordion</role>
+    <type>Actor</type>
+    <tmdbid>2825654</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Davidson</name>
+    <role>Villager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>139635</tmdbid>
+    <imdbid>nm6624424</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Ferro</name>
+    <role>Stable Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1416734</tmdbid>
+    <imdbid>nm2842369</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Sauerback</name>
+    <role>Coroner's Policeman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1363058</tmdbid>
+    <imdbid>nm10020970</imdbid>
+  </actor>
+  <director tmdbid="137467" imdbid="nm1296554">Ben Wheatley</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WZsUbV3ts1I</trailer>
+  <rating>6</rating>
+  <year>2020</year>
+  <sorttitle>Rebeca</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2235695</imdbid>
+  <tmdbid>505379</tmdbid>
+  <premiered>2020-10-16</premiered>
+  <releasedate>2020-10-16</releasedate>
+  <criticrating>39</criticrating>
+  <runtime>123</runtime>
+  <tagline>Un Film de Ben Wheatley</tagline>
+  <country>United Kingdom</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Working Title Films</studio>
+  <uniqueid type="imdb">tt2235695</uniqueid>
+  <uniqueid type="tmdb">505379</uniqueid>
+  <id>tt2235695</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>905329</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7382</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

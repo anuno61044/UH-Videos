@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tribunal de Saint Omer. La joven novelista Rama asiste al juicio de Laurence Coly, una joven acusada de matar a su hija de 15 meses al abandonarla a la subida de la marea en una playa del norte de Francia. Pero a medida que avanza el juicio, las palabras de la acusada y los testimonios de los testigos harán tambalear las convicciones de Rama y pondrán en duda el propio juicio.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-08 09:27:51</dateadded>
+  <title>Saint Omer, el pueblo contra Laurence Coly</title>
+  <originaltitle>Saint Omer</originaltitle>
+  <actor>
+    <name>Kayije Kagame</name>
+    <role>Rama</role>
+    <type>Actor</type>
+    <tmdbid>3268219</tmdbid>
+  </actor>
+  <actor>
+    <name>Guslagie Malanda</name>
+    <role>Laurence Coly</role>
+    <type>Actor</type>
+    <tmdbid>1360307</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurélia Petit</name>
+    <role>Maître Vaudenay</role>
+    <type>Actor</type>
+    <tmdbid>4287</tmdbid>
+  </actor>
+  <actor>
+    <name>Valérie Dréville</name>
+    <role>La Présidente</role>
+    <type>Actor</type>
+    <tmdbid>584544</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Maly</name>
+    <role>Luc Dumontet</role>
+    <type>Actor</type>
+    <tmdbid>96416</tmdbid>
+    <imdbid>nm0540895</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Cantarella</name>
+    <role>Avocat général</role>
+    <type>Actor</type>
+    <tmdbid>1169406</tmdbid>
+  </actor>
+  <actor>
+    <name>Salimata Kamate</name>
+    <role>Odile Diata</role>
+    <type>Actor</type>
+    <tmdbid>1411815</tmdbid>
+    <imdbid>nm5511912</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas De Pourquery</name>
+    <role>Adrien</role>
+    <type>Actor</type>
+    <tmdbid>1367034</tmdbid>
+  </actor>
+  <director tmdbid="1648265">Alice Diop</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CExXvrNEX9w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V03Oz5j-_Co</trailer>
+  <rating>6.8</rating>
+  <year>2022</year>
+  <sorttitle>Saint Omer, el pueblo contra Laurence Coly</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15376894</imdbid>
+  <tmdbid>925943</tmdbid>
+  <premiered>2022-11-23</premiered>
+  <releasedate>2022-11-23</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>123</runtime>
+  <country>France</country>
+  <genre>Drama</genre>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Canal+</studio>
+  <studio>CNC</studio>
+  <studio>Ciné+</studio>
+  <studio>La Région Île-de-France</studio>
+  <studio>Ciclic - Région Centre</studio>
+  <studio>Région Hauts-de-France</studio>
+  <studio>Srab Films</studio>
+  <studio>Pictanovo Région Hauts de France</studio>
+  <studio>Indéfilms 10</studio>
+  <studio>Super</studio>
+  <uniqueid type="tmdb">925943</uniqueid>
+  <uniqueid type="imdb">tt15376894</uniqueid>
+  <id>tt15376894</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>608353</bitrate>
+        <width>720</width>
+        <height>406</height>
+        <aspect>102401:55155</aspect>
+        <aspectratio>102401:55155</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7369</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>159662</bitrate>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

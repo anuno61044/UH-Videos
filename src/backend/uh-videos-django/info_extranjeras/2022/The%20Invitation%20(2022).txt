@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven es cortejada y deslumbrada solo para descubrir que una conspiración gótica está en marcha.]]></plot>
+  <outline><![CDATA[Estás cordialmente invitado a una pesadilla en ciernes.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-16 10:43:13</dateadded>
+  <title>La invitación</title>
+  <originaltitle>The Invitation</originaltitle>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Evie Alexander</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+    <imdbid>nm2812026</imdbid>
+    <tvdbid>247884</tvdbid>
+  </actor>
+  <actor>
+    <name>Thomas Doherty</name>
+    <role>Walter De Ville</role>
+    <type>Actor</type>
+    <tmdbid>1729496</tmdbid>
+    <tvdbid>572236</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Pertwee</name>
+    <role>Mr. Fields</role>
+    <type>Actor</type>
+    <tmdbid>28848</tmdbid>
+    <imdbid>nm0675730</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Skinner</name>
+    <role>Oliver Alexander</role>
+    <type>Actor</type>
+    <tmdbid>1206337</tmdbid>
+    <imdbid>nm2369260</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Ann Crawford</name>
+    <role>Mrs. Swift</role>
+    <type>Actor</type>
+    <tmdbid>1650581</tmdbid>
+  </actor>
+  <actor>
+    <name>Alana Boden</name>
+    <role>Lucy</role>
+    <type>Actor</type>
+    <tmdbid>1922337</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Corneliussen</name>
+    <role>Viktoria</role>
+    <type>Actor</type>
+    <tmdbid>1142724</tmdbid>
+    <imdbid>nm4066934</imdbid>
+  </actor>
+  <actor>
+    <name>Tian Chaudhry</name>
+    <role>Diya (Maid #5)</role>
+    <type>Actor</type>
+    <tmdbid>3643436</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtney Taylor</name>
+    <role>Grace</role>
+    <type>Actor</type>
+    <tmdbid>3361914</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Alexander Young</name>
+    <role>Uncle Julius</role>
+    <type>Actor</type>
+    <tmdbid>1365662</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Lindsay</name>
+    <role>Great Uncle Alfred</role>
+    <type>Actor</type>
+    <tmdbid>1220353</tmdbid>
+  </actor>
+  <actor>
+    <name>Lili Walters</name>
+    <role>Imogen (Maid #2)</role>
+    <type>Actor</type>
+    <tmdbid>1934352</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Counsell</name>
+    <role>Mina Harker</role>
+    <type>Actor</type>
+    <tmdbid>1556619</tmdbid>
+  </actor>
+  <actor>
+    <name>Virág Bárány</name>
+    <role>Emmaline</role>
+    <type>Actor</type>
+    <tmdbid>1177072</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Wheeler</name>
+    <role>Jonathan Harker</role>
+    <type>Actor</type>
+    <tmdbid>1493396</tmdbid>
+  </actor>
+  <actor>
+    <name>Viktoria Monhor</name>
+    <role>Maid #1</role>
+    <type>Actor</type>
+    <tmdbid>3803015</tmdbid>
+  </actor>
+  <actor>
+    <name>Celina-Betty Diana Schleicher</name>
+    <role>Maid #3</role>
+    <type>Actor</type>
+    <tmdbid>3803016</tmdbid>
+  </actor>
+  <actor>
+    <name>Panka Murányi</name>
+    <role>Maid #4</role>
+    <type>Actor</type>
+    <tmdbid>2424018</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Szabó</name>
+    <role>Dark Priest</role>
+    <type>Actor</type>
+    <tmdbid>1298848</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Linka</name>
+    <role>CEO</role>
+    <type>Actor</type>
+    <tmdbid>146123</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Saracco</name>
+    <role>Older Man</role>
+    <type>Actor</type>
+    <tmdbid>3575676</tmdbid>
+  </actor>
+  <actor>
+    <name>Gábor Matus</name>
+    <role>Boss (Tony)</role>
+    <type>Actor</type>
+    <tmdbid>3803019</tmdbid>
+  </actor>
+  <actor>
+    <name>Kata Sarbó</name>
+    <role>Manicurist</role>
+    <type>Actor</type>
+    <tmdbid>1386514</tmdbid>
+  </actor>
+  <actor>
+    <name>András Korcsmáros</name>
+    <role>Groundskeeper</role>
+    <type>Actor</type>
+    <tmdbid>2646762</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Grace Szarkó</name>
+    <role>Cheerful Woman</role>
+    <type>Actor</type>
+    <tmdbid>2931840</tmdbid>
+  </actor>
+  <director tmdbid="1709460">Jessica M. Thompson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=whQ93nZTLy0</trailer>
+  <rating>5.3</rating>
+  <year>2022</year>
+  <sorttitle>invitacion</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12873562</imdbid>
+  <tmdbid>830788</tmdbid>
+  <premiered>2022-08-24</premiered>
+  <releasedate>2022-08-24</releasedate>
+  <criticrating>27</criticrating>
+  <runtime>106</runtime>
+  <tagline>Estás cordialmente invitado a una pesadilla en ciernes.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Mid Atlantic Films</studio>
+  <studio>Screen Gems</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt12873562</uniqueid>
+  <uniqueid type="tmdb">830788</uniqueid>
+  <id>tt12873562</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1052564</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6350</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja joven es llevada al límite de la cordura mientras trata de reunirse en medio del caos de un brote pandémico. Las calles se convierten en violencia y depravación, a medida que los infectados se ven empujados a realizar las cosas más crueles y horribles que te puedas imaginar. Asesinato, tortura, violación y mutilación son solo el comienzo. Ya pasó la era de la civilidad y el orden. Solo queda 'The Sadness'.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-19 19:05:22</dateadded>
+  <title>The Sadness</title>
+  <originaltitle>哭悲</originaltitle>
+  <actor>
+    <name>Berant Zhu</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>2407771</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina Lei</name>
+    <role>Kat</role>
+    <type>Actor</type>
+    <tmdbid>2874730</tmdbid>
+  </actor>
+  <actor>
+    <name>Ying-Ru Chen</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>2896620</tmdbid>
+  </actor>
+  <actor>
+    <name>Tzu-Chiang Wang</name>
+    <role>Business Man</role>
+    <type>Actor</type>
+    <tmdbid>2889663</tmdbid>
+  </actor>
+  <actor>
+    <name>Tsai Chang-Hsien</name>
+    <role>Warren Liu</role>
+    <type>Actor</type>
+    <tmdbid>1260978</tmdbid>
+  </actor>
+  <actor>
+    <name>Lan Wei-Hua</name>
+    <role>Dr. Alan Wong</role>
+    <type>Actor</type>
+    <tmdbid>2298208</tmdbid>
+  </actor>
+  <actor>
+    <name>Chi-Min Chou</name>
+    <role>Old Woman</role>
+    <type>Actor</type>
+    <tmdbid>3394708</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralf Chiu</name>
+    <role>Mr. Lin</role>
+    <type>Actor</type>
+    <tmdbid>1473997</tmdbid>
+  </actor>
+  <actor>
+    <name>Lueh-Geng Huang</name>
+    <role>Kevin / MRT Employee</role>
+    <type>Actor</type>
+    <tmdbid>3491259</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacky Liu</name>
+    <role>General</role>
+    <type>Actor</type>
+    <tmdbid>2891478</tmdbid>
+  </actor>
+  <actor>
+    <name>Ark Zheng</name>
+    <role>Shades man on the metro</role>
+    <type>Actor</type>
+    <tmdbid>2312880</tmdbid>
+  </actor>
+  <director tmdbid="1445916">Robert Jabbaz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DNgR1WXjUg4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q2lNlfQPTFg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=--Hf8R5yj94</trailer>
+  <rating>6.4</rating>
+  <year>2021</year>
+  <sorttitle>Sadness</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13872248</imdbid>
+  <tmdbid>776797</tmdbid>
+  <premiered>2021-01-22</premiered>
+  <releasedate>2021-01-22</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>100</runtime>
+  <country>Taiwan</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Machi Xcelsior Studios</studio>
+  <uniqueid type="tmdb">776797</uniqueid>
+  <uniqueid type="imdb">tt13872248</uniqueid>
+  <id>tt13872248</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1049652</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5998</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>500</width>
+        <height>354</height>
+        <aspect>250:177</aspect>
+        <aspectratio>250:177</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ruby es el único miembro con audición de una familia de sordos. A sus 17 años, trabaja por la mañana con sus padres y su hermano en Gloucester, Massachusetts, antes de ir a clase, tratando de mantener a flote su negocio pesquero. Ávida de encontrar nuevas aficiones, Ruby decide probar suerte en el coro de su instituto, donde no sólo descubre una latente pasión por el canto, sino también una fuerte atracción física por la persona con la que realiza duetos. Su entusiasta profesor ve algo especial en ella y la anima a que piense en la posibilidad de entrar en la escuela de música, algo que la obligaría a tener que tomar una decisión de cara a su futuro: o sus estudios, o su familia.]]></plot>
+  <outline><![CDATA[Cada familia tiene su propia forma de hablar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-13 08:27:48</dateadded>
+  <title>CODA: Los sonidos del silencio</title>
+  <originaltitle>CODA</originaltitle>
+  <actor>
+    <name>Emilia Jones</name>
+    <role>Ruby Rossi</role>
+    <type>Actor</type>
+    <tmdbid>1331023</tmdbid>
+    <imdbid>nm4454223</imdbid>
+  </actor>
+  <actor>
+    <name>Marlee Matlin</name>
+    <role>Jackie Rossi</role>
+    <type>Actor</type>
+    <tmdbid>19797</tmdbid>
+    <imdbid>nm0559144</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Kotsur</name>
+    <role>Frank Rossi</role>
+    <type>Actor</type>
+    <tmdbid>1571661</tmdbid>
+    <imdbid>nm1319274</imdbid>
+  </actor>
+  <actor>
+    <name>Eugenio Derbez</name>
+    <role>Bernardo Villalobos</role>
+    <type>Actor</type>
+    <tmdbid>239574</tmdbid>
+    <imdbid>nm0220240</imdbid>
+  </actor>
+  <actor>
+    <name>Ferdia Walsh-Peelo</name>
+    <role>Miles</role>
+    <type>Actor</type>
+    <tmdbid>1539216</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Durant</name>
+    <role>Leo Rossi</role>
+    <type>Actor</type>
+    <tmdbid>1514387</tmdbid>
+    <tvdbid>8161651</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Forsyth</name>
+    <role>Gertie</role>
+    <type>Actor</type>
+    <tmdbid>1369336</tmdbid>
+    <imdbid>nm5046593</imdbid>
+    <tvdbid>557486</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Chapman</name>
+    <role>Brady</role>
+    <type>Actor</type>
+    <tmdbid>4728</tmdbid>
+    <imdbid>nm0152430</imdbid>
+  </actor>
+  <actor>
+    <name>John Fiore</name>
+    <role>Tony Salgado</role>
+    <type>Actor</type>
+    <tmdbid>935624</tmdbid>
+    <imdbid>nm0278468</imdbid>
+  </actor>
+  <actor>
+    <name>Lonnie Farmer</name>
+    <role>Arthur</role>
+    <type>Actor</type>
+    <tmdbid>188049</tmdbid>
+    <imdbid>nm0267772</imdbid>
+  </actor>
+  <actor>
+    <name>Courtland Jones</name>
+    <role>Ms. Simon</role>
+    <type>Actor</type>
+    <tmdbid>1974354</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Beth Thomas</name>
+    <role>Audra</role>
+    <type>Actor</type>
+    <tmdbid>3204229</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayana Brown</name>
+    <role>Guidance Counselor</role>
+    <type>Actor</type>
+    <tmdbid>2559002</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Pugatch</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2357138</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyana Fanene</name>
+    <role>Riff Girl</role>
+    <type>Actor</type>
+    <tmdbid>3204232</tmdbid>
+  </actor>
+  <actor>
+    <name>Anilee List</name>
+    <role>Adele Girl</role>
+    <type>Actor</type>
+    <tmdbid>3204233</tmdbid>
+  </actor>
+  <actor>
+    <name>Stone Martin</name>
+    <role>Harry Potter Boy</role>
+    <type>Actor</type>
+    <tmdbid>3204235</tmdbid>
+  </actor>
+  <actor>
+    <name>Maeve Chapman</name>
+    <role>Shaker Girl</role>
+    <type>Actor</type>
+    <tmdbid>3204238</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Caliskan</name>
+    <role>Tall Boy</role>
+    <type>Actor</type>
+    <tmdbid>3204239</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Bradshaw</name>
+    <role>Shy Girl</role>
+    <type>Actor</type>
+    <tmdbid>3204240</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Sabbag</name>
+    <role>Broadway Boy</role>
+    <type>Actor</type>
+    <tmdbid>3204241</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayla Caulfield</name>
+    <role>Off Key Girl</role>
+    <type>Actor</type>
+    <tmdbid>1920010</tmdbid>
+  </actor>
+  <actor>
+    <name>Samidio DePina</name>
+    <role>Suave Boy</role>
+    <type>Actor</type>
+    <tmdbid>3204243</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominic Andersen</name>
+    <role>Bass Boy</role>
+    <type>Actor</type>
+    <tmdbid>1758334</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Guns Alves</name>
+    <role>Mondo</role>
+    <type>Actor</type>
+    <tmdbid>1849970</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Burke</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>133068</tmdbid>
+    <imdbid>nm4024978</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Norris</name>
+    <role>Chubs</role>
+    <type>Actor</type>
+    <tmdbid>1244097</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Pettograsso</name>
+    <role>Bar Bully</role>
+    <type>Actor</type>
+    <tmdbid>1992671</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Viveiros</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1772814</tmdbid>
+  </actor>
+  <actor>
+    <name>Armen Garo</name>
+    <role>Gio Salgado</role>
+    <type>Actor</type>
+    <tmdbid>1184209</tmdbid>
+    <imdbid>nm0307898</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Voss</name>
+    <role>John Kaufman</role>
+    <type>Actor</type>
+    <tmdbid>3204256</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilia Faucher</name>
+    <role>Misha</role>
+    <type>Actor</type>
+    <tmdbid>2864883</tmdbid>
+  </actor>
+  <actor>
+    <name>Marilyn Busch</name>
+    <role>Nina</role>
+    <type>Actor</type>
+    <tmdbid>1942150</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa McMeekin</name>
+    <role>Barb</role>
+    <type>Actor</type>
+    <tmdbid>1371551</tmdbid>
+    <imdbid>nm3578998</imdbid>
+  </actor>
+  <actor>
+    <name>Erica McDermott</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>999737</tmdbid>
+    <imdbid>nm3599667</imdbid>
+  </actor>
+  <actor>
+    <name>Garrett McKechnie</name>
+    <role>Chet Turner</role>
+    <type>Actor</type>
+    <tmdbid>1026774</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Gibel</name>
+    <role>Joanne Biles</role>
+    <type>Actor</type>
+    <tmdbid>557599</tmdbid>
+  </actor>
+  <actor>
+    <name>TJ Ciarametaro</name>
+    <role>Coast Guard Boarding Officer</role>
+    <type>Actor</type>
+    <tmdbid>3204270</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Galone</name>
+    <role>Coast Guard Officer</role>
+    <type>Actor</type>
+    <tmdbid>141448</tmdbid>
+    <imdbid>nm0303284</imdbid>
+  </actor>
+  <actor>
+    <name>Nikki Kim</name>
+    <role>Monitor #1</role>
+    <type>Actor</type>
+    <tmdbid>3204272</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Ann Schaub</name>
+    <role>Monitor #2</role>
+    <type>Actor</type>
+    <tmdbid>3204274</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Berta</name>
+    <role>Vocalist</role>
+    <type>Actor</type>
+    <tmdbid>3204275</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Clarke</name>
+    <role>Tanya</role>
+    <type>Actor</type>
+    <tmdbid>3204277</tmdbid>
+  </actor>
+  <actor>
+    <name>Rena Maliszewski</name>
+    <role>Female Jury Member</role>
+    <type>Actor</type>
+    <tmdbid>1956550</tmdbid>
+    <imdbid>nm2728453</imdbid>
+  </actor>
+  <actor>
+    <name>David Newsom</name>
+    <role>Male Jury Member</role>
+    <type>Actor</type>
+    <tmdbid>166594</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiara Pichardo</name>
+    <role>Cashier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2864859</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Jayne Morgan</name>
+    <role>Shopper Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2035828</tmdbid>
+  </actor>
+  <actor>
+    <name>Elbert Kim</name>
+    <role>Jackie Rossi's Attorney (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3405715</tmdbid>
+  </actor>
+  <director tmdbid="154865">Sian Heder</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oY5381Oc-kc</trailer>
+  <rating>8</rating>
+  <year>2021</year>
+  <sorttitle>CODA: Los sonidos del silencio</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10366460</imdbid>
+  <tmdbid>776503</tmdbid>
+  <premiered>2021-08-11</premiered>
+  <releasedate>2021-08-11</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>112</runtime>
+  <tagline>Cada familia tiene su propia forma de hablar.</tagline>
+  <country>France</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Música</genre>
+  <genre>Romance</genre>
+  <studio>Vendôme Pictures</studio>
+  <studio>Pathé</studio>
+  <studio>Picture Perfect Entertainment</studio>
+  <uniqueid type="imdb">tt10366460</uniqueid>
+  <uniqueid type="tmdb">776503</uniqueid>
+  <id>tt10366460</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1000807</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6704</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Chicago, 1968. Joy (Elizabeth Banks), una ama de casa, lleva una vida normal con su esposo y su hija, mientras la ciudad y la nación están al borde de una violenta agitación política. Pero cuando se queda embarazada sin desearlo y con un riesgo mortal para su salud, nadie está dispuesta a ayudarle en una época en la que legalmente no puede abortar. Su viaje para encontrar una solución a su situación le lleva hasta una organización clandestina de mujeres, liderada por Virginia (Sigourney Weaver), que le brindará una alternativa más segura y le cambiará la vida.]]></plot>
+  <outline><![CDATA[No estás sola.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-21 10:42:36</dateadded>
+  <title>Todas somos Jane</title>
+  <originaltitle>Call Jane</originaltitle>
+  <actor>
+    <name>Elizabeth Banks</name>
+    <role>Joy</role>
+    <type>Actor</type>
+    <tmdbid>9281</tmdbid>
+    <imdbid>nm0006969</imdbid>
+    <tvdbid>255184</tvdbid>
+  </actor>
+  <actor>
+    <name>Sigourney Weaver</name>
+    <role>Virginia</role>
+    <type>Actor</type>
+    <tmdbid>10205</tmdbid>
+    <imdbid>nm0000244</imdbid>
+    <tvdbid>253588</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Messina</name>
+    <role>Will</role>
+    <type>Actor</type>
+    <tmdbid>61659</tmdbid>
+    <imdbid>nm0582149</imdbid>
+    <tvdbid>325134</tvdbid>
+  </actor>
+  <actor>
+    <name>Wunmi Mosaku</name>
+    <role>Gwen</role>
+    <type>Actor</type>
+    <tmdbid>134774</tmdbid>
+    <imdbid>nm2148911</imdbid>
+    <tvdbid>490014</tvdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Lana</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+    <imdbid>nm0544718</imdbid>
+    <tvdbid>327386</tvdbid>
+  </actor>
+  <actor>
+    <name>Cory Michael Smith</name>
+    <role>Dean</role>
+    <type>Actor</type>
+    <tmdbid>1367617</tmdbid>
+    <imdbid>nm5754425</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Edwards</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>3078151</tmdbid>
+  </actor>
+  <actor>
+    <name>John Magaro</name>
+    <role>Detective Chilmark</role>
+    <type>Actor</type>
+    <tmdbid>37154</tmdbid>
+    <imdbid>nm1910274</imdbid>
+    <tvdbid>342036</tvdbid>
+  </actor>
+  <actor>
+    <name>Aida Turturro</name>
+    <role>Sister Mike</role>
+    <type>Actor</type>
+    <tmdbid>106791</tmdbid>
+    <imdbid>nm0878152</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Creighton</name>
+    <role>PTO mom</role>
+    <type>Actor</type>
+    <tmdbid>2562056</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Jun</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2818526</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Henderson</name>
+    <role>Edie</role>
+    <type>Actor</type>
+    <tmdbid>30616</tmdbid>
+    <tvdbid>443755</tvdbid>
+  </actor>
+  <actor>
+    <name>Bianca D'Ambrosio</name>
+    <role>Erin</role>
+    <type>Actor</type>
+    <tmdbid>2041979</tmdbid>
+  </actor>
+  <director tmdbid="1034086">Phyllis Nagy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U-1pUnTsSQc</trailer>
+  <rating>6.4</rating>
+  <year>2022</year>
+  <sorttitle>Todas somos Jane</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7461272</imdbid>
+  <tmdbid>579496</tmdbid>
+  <premiered>2022-10-27</premiered>
+  <releasedate>2022-10-27</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>118</runtime>
+  <tagline>No estás sola.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Ingenious Media</studio>
+  <studio>Roadside Attractions</studio>
+  <studio>LB Entertainment</studio>
+  <studio>Unburdened Entertainment</studio>
+  <studio>Redline Entertainment</studio>
+  <studio>FirstGen Content</studio>
+  <studio>RB Entertainment</studio>
+  <studio>Our Turn Productions</studio>
+  <uniqueid type="imdb">tt7461272</uniqueid>
+  <uniqueid type="tmdb">579496</uniqueid>
+  <id>tt7461272</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>946617</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>481:258</aspect>
+        <aspectratio>481:258</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7064</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando un equipo de mercenarios irrumpe en Nochebuena dentro de un complejo familiar adinerado y toma como rehenes a todos los que están dentro, no estaban preparados para un defensor sorpresa: Santa Claus (David Harbour) está en el edificio y a punto de demostrar por qué este Santa Claus, no es ningún santo.]]></plot>
+  <outline><![CDATA[Será mejor que tengas cuidado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-21 08:18:51</dateadded>
+  <title>Noche de paz</title>
+  <originaltitle>Violent Night</originaltitle>
+  <actor>
+    <name>David Harbour</name>
+    <role>Santa</role>
+    <type>Actor</type>
+    <tmdbid>35029</tmdbid>
+    <imdbid>nm1092086</imdbid>
+  </actor>
+  <actor>
+    <name>John Leguizamo</name>
+    <role>Scrooge</role>
+    <type>Actor</type>
+    <tmdbid>5723</tmdbid>
+    <imdbid>nm0000491</imdbid>
+    <tvdbid>274194</tvdbid>
+  </actor>
+  <actor>
+    <name>Beverly D'Angelo</name>
+    <role>Gertrude</role>
+    <type>Actor</type>
+    <tmdbid>821</tmdbid>
+    <imdbid>nm0000350</imdbid>
+    <tvdbid>254290</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Hassell</name>
+    <role>Jason</role>
+    <type>Actor</type>
+    <tmdbid>178634</tmdbid>
+    <imdbid>nm1307435</imdbid>
+    <tvdbid>307270</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexis Louder</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>2273501</tmdbid>
+    <tvdbid>7881029</tvdbid>
+  </actor>
+  <actor>
+    <name>Edi Patterson</name>
+    <role>Alva</role>
+    <type>Actor</type>
+    <tmdbid>205213</tmdbid>
+    <imdbid>nm0666198</imdbid>
+  </actor>
+  <actor>
+    <name>Cam Gigandet</name>
+    <role>Morgan Steel</role>
+    <type>Actor</type>
+    <tmdbid>55086</tmdbid>
+    <imdbid>nm1544217</imdbid>
+  </actor>
+  <actor>
+    <name>Leah Brady</name>
+    <role>Trudy</role>
+    <type>Actor</type>
+    <tmdbid>3607144</tmdbid>
+  </actor>
+  <actor>
+    <name>Andre Eriksen</name>
+    <role>Gingerbread</role>
+    <type>Actor</type>
+    <tmdbid>1150197</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Fletcher</name>
+    <role>Krampus</role>
+    <type>Actor</type>
+    <tmdbid>32205</tmdbid>
+    <imdbid>nm0281956</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Dopud</name>
+    <role>Commander Thorp</role>
+    <type>Actor</type>
+    <tmdbid>64674</tmdbid>
+    <imdbid>nm0233304</imdbid>
+    <tvdbid>279021</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Elliot</name>
+    <role>Bert</role>
+    <type>Actor</type>
+    <tmdbid>2852725</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitra Suri</name>
+    <role>Candy Cane</role>
+    <type>Actor</type>
+    <tmdbid>2284578</tmdbid>
+  </actor>
+  <actor>
+    <name>Can Aydin</name>
+    <role>Frosty</role>
+    <type>Actor</type>
+    <tmdbid>1711895</tmdbid>
+  </actor>
+  <actor>
+    <name>Phong Giang</name>
+    <role>Tinsel</role>
+    <type>Actor</type>
+    <tmdbid>1634845</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn McCager Higgins</name>
+    <role>Jingle</role>
+    <type>Actor</type>
+    <tmdbid>3814629</tmdbid>
+  </actor>
+  <actor>
+    <name>Rawleigh Clements-Willis</name>
+    <role>Peppermint</role>
+    <type>Actor</type>
+    <tmdbid>3857752</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sy</name>
+    <role>Sugarplum</role>
+    <type>Actor</type>
+    <tmdbid>2154533</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon Cha-Lee</name>
+    <role>Techie</role>
+    <type>Actor</type>
+    <tmdbid>1634862</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Stephenson-Kerr</name>
+    <role>UK Barkeeper</role>
+    <type>Actor</type>
+    <tmdbid>61160</tmdbid>
+  </actor>
+  <actor>
+    <name>John B. Lowe</name>
+    <role>UK Mall Santa</role>
+    <type>Actor</type>
+    <tmdbid>33051</tmdbid>
+    <imdbid>nm0522979</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Strachan</name>
+    <role>Al the Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1758796</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Skene</name>
+    <role>Lead Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>75814</tmdbid>
+    <imdbid>nm1451329</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Lorber</name>
+    <role>Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>3199125</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Athavale</name>
+    <role>Drunk Dad</role>
+    <type>Actor</type>
+    <tmdbid>1303813</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Hurtig</name>
+    <role>Head Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1148697</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Borges</name>
+    <role>Eggnog Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2487559</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Persad</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>1860399</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc-André Brisebois</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>1731643</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Rampulla</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>1860398</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxime Laurin</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>3244148</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Sean Nott</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>3857760</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Kennerd</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>2565695</tmdbid>
+  </actor>
+  <actor>
+    <name>Carson Nattrass</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>1292553</tmdbid>
+  </actor>
+  <actor>
+    <name>Lance Cartwright</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>1940037</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Castanaga</name>
+    <role>Kill Squad</role>
+    <type>Actor</type>
+    <tmdbid>2056929</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Strome</name>
+    <role>Mansion Staff</role>
+    <type>Actor</type>
+    <tmdbid>1849155</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Guile</name>
+    <role>Lightstone Staff</role>
+    <type>Actor</type>
+    <tmdbid>2045140</tmdbid>
+  </actor>
+  <actor>
+    <name>Anders Strome</name>
+    <role>Lightstone Staff</role>
+    <type>Actor</type>
+    <tmdbid>2090233</tmdbid>
+  </actor>
+  <actor>
+    <name>Darren Ross</name>
+    <role>Lightstone Staff</role>
+    <type>Actor</type>
+    <tmdbid>1126913</tmdbid>
+  </actor>
+  <actor>
+    <name>BJ Verot</name>
+    <role>Lightstone Security</role>
+    <type>Actor</type>
+    <tmdbid>1896599</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Carlucci</name>
+    <role>Lightstone Security</role>
+    <type>Actor</type>
+    <tmdbid>2473588</tmdbid>
+  </actor>
+  <actor>
+    <name>James Durham</name>
+    <role>Lightstone Security</role>
+    <type>Actor</type>
+    <tmdbid>1131844</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Poplawski</name>
+    <role>Lightstone Security</role>
+    <type>Actor</type>
+    <tmdbid>1940064</tmdbid>
+  </actor>
+  <actor>
+    <name>Frederick Allen</name>
+    <role>Bar Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503899</tmdbid>
+  </actor>
+  <actor>
+    <name>DJ Brotherson</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3814628</tmdbid>
+  </actor>
+  <actor>
+    <name>Vance Halldorson</name>
+    <role>Grounds Security (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3789812</tmdbid>
+  </actor>
+  <director tmdbid="76927" imdbid="nm2482088">Tommy Wirkola</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MUDqcnalsLg</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Noche de paz</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12003946</imdbid>
+  <tmdbid>899112</tmdbid>
+  <premiered>2022-11-30</premiered>
+  <releasedate>2022-11-30</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>112</runtime>
+  <tagline>Será mejor que tengas cuidado.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Universal Pictures</studio>
+  <studio>87North Productions</studio>
+  <set tmdbcolid="1078456">
+    <name>Violent Night Collection</name>
+  </set>
+  <uniqueid type="tmdb">899112</uniqueid>
+  <uniqueid type="imdb">tt12003946</uniqueid>
+  <id>tt12003946</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>997124</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6698</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

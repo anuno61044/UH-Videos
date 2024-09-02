@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A young mother reconnects with her larger-than-life playboy father on an adventure through New York.]]></plot>
+  <outline><![CDATA[Un Film de Sofia Coppola]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-26 08:45:39</dateadded>
+  <title>On the Rocks</title>
+  <originaltitle>On the Rocks</originaltitle>
+  <actor>
+    <name>Bill Murray</name>
+    <type>Actor</type>
+    <tmdbid>1532</tmdbid>
+    <imdbid>nm0000195</imdbid>
+  </actor>
+  <actor>
+    <name>Rashida Jones</name>
+    <type>Actor</type>
+    <tmdbid>80591</tmdbid>
+    <imdbid>nm0429069</imdbid>
+    <tvdbid>310905</tvdbid>
+  </actor>
+  <actor>
+    <name>Marlon Wayans</name>
+    <type>Actor</type>
+    <tmdbid>9562</tmdbid>
+    <imdbid>nm0005541</imdbid>
+    <tvdbid>266747</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessica Henwick</name>
+    <type>Actor</type>
+    <tmdbid>1202689</tmdbid>
+    <imdbid>nm3725055</imdbid>
+    <tvdbid>248011</tvdbid>
+  </actor>
+  <director tmdbid="1769" imdbid="nm0001068">Sofia Coppola</director>
+  <writer tmdbid="1769" imdbid="nm0001068">Sofia Coppola</writer>
+  <credits tmdbid="1769" imdbid="nm0001068">Sofia Coppola</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w4p0vjj_C8s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iM2RqOd0eEo</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>On the Rocks</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9606374</imdbid>
+  <tmdbid>575417</tmdbid>
+  <premiered>2020-10-02</premiered>
+  <releasedate>2020-10-02</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>97</runtime>
+  <tagline>Un Film de Sofia Coppola</tagline>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>American Zoetrope</studio>
+  <uniqueid type="imdb">tt9606374</uniqueid>
+  <uniqueid type="tmdb">575417</uniqueid>
+  <id>tt9606374</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1151206</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5809</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

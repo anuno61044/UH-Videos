@@ -1,0 +1,509 @@
+ï»¿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un mundo compuesto por dos realidades, lo cotidiano y lo oculto tras ella, Thomas Anderson se ve obligado de nuevo a ir tras el conejo blanco. Dicha elecciÃ³n continÃºa siendo la vÃ­a de acceso a Matrix, que esta vez es mÃ¡s poderosa e intrincada que en ocasiones anteriores.]]></plot>
+  <outline><![CDATA[Regresa a la fuente.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-22 07:34:06</dateadded>
+  <title>Matrix Resurrections</title>
+  <originaltitle>The Matrix Resurrections</originaltitle>
+  <actor>
+    <name>Keanu Reeves</name>
+    <role>Thomas A. Anderson / Neo</role>
+    <type>Actor</type>
+    <tmdbid>6384</tmdbid>
+    <imdbid>nm0000206</imdbid>
+  </actor>
+  <actor>
+    <name>Carrie-Anne Moss</name>
+    <role>Tiffany / Trinity</role>
+    <type>Actor</type>
+    <tmdbid>530</tmdbid>
+    <imdbid>nm0005251</imdbid>
+  </actor>
+  <actor>
+    <name>Yahya Abdul-Mateen II</name>
+    <role>Morpheus / Agent Smith</role>
+    <type>Actor</type>
+    <tmdbid>1639847</tmdbid>
+    <imdbid>nm5584344</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Henwick</name>
+    <role>Bugs</role>
+    <type>Actor</type>
+    <tmdbid>1202689</tmdbid>
+    <imdbid>nm3725055</imdbid>
+    <tvdbid>248011</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Groff</name>
+    <role>Smith</role>
+    <type>Actor</type>
+    <tmdbid>221611</tmdbid>
+    <imdbid>nm2676147</imdbid>
+    <tvdbid>295001</tvdbid>
+  </actor>
+  <actor>
+    <name>Neil Patrick Harris</name>
+    <role>The Analyst</role>
+    <type>Actor</type>
+    <tmdbid>41686</tmdbid>
+    <imdbid>nm0000439</imdbid>
+    <tvdbid>253954</tvdbid>
+  </actor>
+  <actor>
+    <name>Priyanka Chopra</name>
+    <role>Sati</role>
+    <type>Actor</type>
+    <tmdbid>77234</tmdbid>
+    <imdbid>nm1231899</imdbid>
+    <tvdbid>331136</tvdbid>
+  </actor>
+  <actor>
+    <name>Christina Ricci</name>
+    <role>Gwyn de Vere</role>
+    <type>Actor</type>
+    <tmdbid>6886</tmdbid>
+    <imdbid>nm0000207</imdbid>
+    <tvdbid>294327</tvdbid>
+  </actor>
+  <actor>
+    <name>Jada Pinkett Smith</name>
+    <role>Niobe</role>
+    <type>Actor</type>
+    <tmdbid>9575</tmdbid>
+    <imdbid>nm0000586</imdbid>
+    <tvdbid>311217</tvdbid>
+  </actor>
+  <actor>
+    <name>Telma Hopkins</name>
+    <role>Freya</role>
+    <type>Actor</type>
+    <tmdbid>44793</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Stahelski</name>
+    <role>Chad</role>
+    <type>Actor</type>
+    <tmdbid>40644</tmdbid>
+    <imdbid>nm0821432</imdbid>
+  </actor>
+  <actor>
+    <name>Lambert Wilson</name>
+    <role>The Merovingian</role>
+    <type>Actor</type>
+    <tmdbid>2192</tmdbid>
+    <imdbid>nm0933727</imdbid>
+  </actor>
+  <actor>
+    <name>Brian J. Smith</name>
+    <role>Berg</role>
+    <type>Actor</type>
+    <tmdbid>22541</tmdbid>
+    <imdbid>nm1668284</imdbid>
+    <tvdbid>342179</tvdbid>
+  </actor>
+  <actor>
+    <name>Toby Onwumere</name>
+    <role>Sequoia</role>
+    <type>Actor</type>
+    <tmdbid>1726859</tmdbid>
+    <imdbid>nm5255496</imdbid>
+  </actor>
+  <actor>
+    <name>Max Riemelt</name>
+    <role>Sheperd</role>
+    <type>Actor</type>
+    <tmdbid>38773</tmdbid>
+    <imdbid>nm0726262</imdbid>
+  </actor>
+  <actor>
+    <name>ErÃ©ndira Ibarra</name>
+    <role>Lexy</role>
+    <type>Actor</type>
+    <tmdbid>970672</tmdbid>
+    <imdbid>nm2057853</imdbid>
+    <tvdbid>463732</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Lewis Caldwell</name>
+    <role>Jude</role>
+    <type>Actor</type>
+    <tmdbid>77912</tmdbid>
+    <imdbid>nm2255271</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Grothe</name>
+    <role>FunktIÃ¸n</role>
+    <type>Actor</type>
+    <tmdbid>124698</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael X. Sommers</name>
+    <role>Skroce</role>
+    <type>Actor</type>
+    <tmdbid>1069833</tmdbid>
+    <imdbid>nm0814077</imdbid>
+  </actor>
+  <actor>
+    <name>L. Trey Wilson</name>
+    <role>Hanno</role>
+    <type>Actor</type>
+    <tmdbid>2485018</tmdbid>
+  </actor>
+  <actor>
+    <name>Mumbi Maina</name>
+    <role>Ellster</role>
+    <type>Actor</type>
+    <tmdbid>1811913</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Mauff</name>
+    <role>Quillion</role>
+    <type>Actor</type>
+    <tmdbid>28432</tmdbid>
+    <imdbid>nm1090576</imdbid>
+  </actor>
+  <actor>
+    <name>Purab Kohli</name>
+    <role>Zen</role>
+    <type>Actor</type>
+    <tmdbid>85574</tmdbid>
+    <imdbid>nm1327322</imdbid>
+  </actor>
+  <actor>
+    <name>Freema Agyeman</name>
+    <role>Astra</role>
+    <type>Actor</type>
+    <tmdbid>1182929</tmdbid>
+    <imdbid>nm1303956</imdbid>
+    <tvdbid>292914</tvdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Strehl</name>
+    <role>Fiona</role>
+    <type>Actor</type>
+    <tmdbid>1632337</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Rothney</name>
+    <role>Scott</role>
+    <type>Actor</type>
+    <tmdbid>1626685</tmdbid>
+  </actor>
+  <actor>
+    <name>Cooper Rivers</name>
+    <role>GJ</role>
+    <type>Actor</type>
+    <tmdbid>3172012</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Silex</name>
+    <role>Brainstormer #1</role>
+    <type>Actor</type>
+    <tmdbid>3377659</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Isom</name>
+    <role>Brainstormer #2</role>
+    <type>Actor</type>
+    <tmdbid>3377660</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Sheng</name>
+    <role>Bobbi</role>
+    <type>Actor</type>
+    <tmdbid>2258037</tmdbid>
+    <imdbid>nm9658958</imdbid>
+    <tvdbid>8158250</tvdbid>
+  </actor>
+  <actor>
+    <name>John Gaeta</name>
+    <role>Deus Machina Employee #1</role>
+    <type>Actor</type>
+    <tmdbid>105108</tmdbid>
+  </actor>
+  <actor>
+    <name>Donald Mustard</name>
+    <role>Deus Machina Employee #2</role>
+    <type>Actor</type>
+    <tmdbid>2487737</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Libreri</name>
+    <role>Deux Machina Employee #3</role>
+    <type>Actor</type>
+    <tmdbid>1751470</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Mazza</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>1058072</tmdbid>
+    <imdbid>nm0563456</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Grey</name>
+    <role>Brandon</role>
+    <type>Actor</type>
+    <tmdbid>1634010</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaige Chaturantabut</name>
+    <role>Donnie</role>
+    <type>Actor</type>
+    <tmdbid>3377669</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiger Hu Chen</name>
+    <role>M.O.T.C.</role>
+    <type>Actor</type>
+    <tmdbid>579330</tmdbid>
+    <imdbid>nm0155392</imdbid>
+  </actor>
+  <actor>
+    <name>Volkhart Buff</name>
+    <role>Kush</role>
+    <type>Actor</type>
+    <tmdbid>3708</tmdbid>
+  </actor>
+  <actor>
+    <name>Amadei Weiland</name>
+    <role>Agent White</role>
+    <type>Actor</type>
+    <tmdbid>2224841</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Dunlevy</name>
+    <role>Agent Jones</role>
+    <type>Actor</type>
+    <tmdbid>1492293</tmdbid>
+    <imdbid>nm2961388</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Hollman</name>
+    <role>Echo</role>
+    <type>Actor</type>
+    <tmdbid>83218</tmdbid>
+    <imdbid>nm1712005</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Pirie</name>
+    <role>Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>95716</tmdbid>
+    <imdbid>nm1128414</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas de Pruyssenaere</name>
+    <role>Lead SWAT</role>
+    <type>Actor</type>
+    <tmdbid>40696</tmdbid>
+    <imdbid>nm0211042</imdbid>
+  </actor>
+  <actor>
+    <name>Felix Quinton</name>
+    <role>SWAT</role>
+    <type>Actor</type>
+    <tmdbid>1827474</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Pina</name>
+    <role>FBI</role>
+    <type>Actor</type>
+    <tmdbid>3377674</tmdbid>
+  </actor>
+  <actor>
+    <name>Dani Swan</name>
+    <role>Woman in Red</role>
+    <type>Actor</type>
+    <tmdbid>3377675</tmdbid>
+  </actor>
+  <actor>
+    <name>London Breed</name>
+    <role>Calliope</role>
+    <type>Actor</type>
+    <tmdbid>3377676</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Roy</name>
+    <role>Thomas's Reflection</role>
+    <type>Actor</type>
+    <tmdbid>159291</tmdbid>
+  </actor>
+  <actor>
+    <name>Mercy Malick</name>
+    <role>Wife</role>
+    <type>Actor</type>
+    <tmdbid>155293</tmdbid>
+  </actor>
+  <actor>
+    <name>Juval Dieziger</name>
+    <role>Utrix Driver</role>
+    <type>Actor</type>
+    <tmdbid>3377679</tmdbid>
+  </actor>
+  <actor>
+    <name>James McTeigue</name>
+    <role>Innocuous Man</role>
+    <type>Actor</type>
+    <tmdbid>11266</tmdbid>
+    <imdbid>nm0574625</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah McTeigue</name>
+    <role>Tiffany's Reflection</role>
+    <type>Actor</type>
+    <tmdbid>1769783</tmdbid>
+  </actor>
+  <actor>
+    <name>William W. Barbour</name>
+    <role>Businessman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1923573</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Beers</name>
+    <role>SWAT Team Member / Runner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2005841</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Dalby</name>
+    <role>SWAT Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1502263</tmdbid>
+    <imdbid>nm4449133</imdbid>
+  </actor>
+  <actor>
+    <name>John Lobato</name>
+    <role>FBI Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1502274</tmdbid>
+    <imdbid>nm4371183</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Moy</name>
+    <role>Noodle Shop Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1186481</tmdbid>
+    <imdbid>nm3514791</imdbid>
+  </actor>
+  <actor>
+    <name>James D. Weston II</name>
+    <role>Military / SWAT (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1940433</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurence Fishburne</name>
+    <role>Morpheus (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2975</tmdbid>
+    <imdbid>nm0000401</imdbid>
+    <tvdbid>282895</tvdbid>
+  </actor>
+  <actor>
+    <name>Hugo Weaving</name>
+    <role>Agent Smith (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1331</tmdbid>
+    <imdbid>nm0915989</imdbid>
+    <tvdbid>298680</tvdbid>
+  </actor>
+  <actor>
+    <name>Gloria Foster</name>
+    <role>Oracle (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9364</tmdbid>
+    <imdbid>nm0287825</imdbid>
+  </actor>
+  <director tmdbid="9340" imdbid="nm0905154">Lana Wachowski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JT6pn9KHMh4</trailer>
+  <rating>5.7</rating>
+  <year>2021</year>
+  <sorttitle>Matrix Resurrections</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10838180</imdbid>
+  <tmdbid>624860</tmdbid>
+  <premiered>2021-12-16</premiered>
+  <releasedate>2021-12-16</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>148</runtime>
+  <tagline>Regresa a la fuente.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficciÃ³n</genre>
+  <genre>AcciÃ³n</genre>
+  <genre>Aventura</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Village Roadshow Pictures</studio>
+  <studio>Venus Castina Productions</studio>
+  <set tmdbcolid="2344">
+    <name>Matrix - ColecciÃ³n</name>
+  </set>
+  <uniqueid type="imdb">tt10838180</uniqueid>
+  <uniqueid type="tmdb">624860</uniqueid>
+  <id>tt10838180</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>848281</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>147</duration>
+        <durationinseconds>8874</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

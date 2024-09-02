@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un marido destrozado jura llevar ante la justicia a los responsables de la muerte de su mujer, a la vez que protege a la única familia que le queda, su hija.]]></plot>
+  <outline><![CDATA[La familia lucha unida.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-17 09:25:19</dateadded>
+  <title>Sweet Girl</title>
+  <originaltitle>Sweet Girl</originaltitle>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Ray Cooper</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+    <tvdbid>247856</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabela Merced</name>
+    <role>Rachel Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1428070</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Garcia-Rulfo</name>
+    <role>Amo Santos</role>
+    <type>Actor</type>
+    <tmdbid>1168097</tmdbid>
+    <imdbid>nm2636310</imdbid>
+    <tvdbid>486550</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Brenneman</name>
+    <role>Diana Morgan</role>
+    <type>Actor</type>
+    <tmdbid>15851</tmdbid>
+    <imdbid>nm0000312</imdbid>
+    <tvdbid>286825</tvdbid>
+  </actor>
+  <actor>
+    <name>Adria Arjona</name>
+    <role>Amanda Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1371297</tmdbid>
+    <imdbid>nm5245722</imdbid>
+    <tvdbid>595257</tvdbid>
+  </actor>
+  <actor>
+    <name>Milena Rivero</name>
+    <role>Rachel 11 Y / O</role>
+    <type>Actor</type>
+    <tmdbid>2408008</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Bartha</name>
+    <role>Simon Keeley</role>
+    <type>Actor</type>
+    <tmdbid>21180</tmdbid>
+    <imdbid>nm0058581</imdbid>
+    <tvdbid>469903</tvdbid>
+  </actor>
+  <actor>
+    <name>Raza Jaffrey</name>
+    <role>Vinod Shah</role>
+    <type>Actor</type>
+    <tmdbid>440943</tmdbid>
+    <imdbid>nm1203005</imdbid>
+    <tvdbid>315034</tvdbid>
+  </actor>
+  <actor>
+    <name>Lex Scott Davis</name>
+    <role>FBI Agent Sarah Meeker</role>
+    <type>Actor</type>
+    <tmdbid>1568053</tmdbid>
+    <tvdbid>632260</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Raymond-James</name>
+    <role>FBI Agent John Rothman</role>
+    <type>Actor</type>
+    <tmdbid>53259</tmdbid>
+    <imdbid>nm1535423</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Fumusa</name>
+    <role>Sam Walker</role>
+    <type>Actor</type>
+    <tmdbid>154784</tmdbid>
+    <imdbid>nm1047883</imdbid>
+    <tvdbid>268759</tvdbid>
+  </actor>
+  <actor>
+    <name>Nelson Franklin</name>
+    <role>Martin Bennett</role>
+    <type>Actor</type>
+    <tmdbid>88928</tmdbid>
+    <imdbid>nm1815689</imdbid>
+  </actor>
+  <actor>
+    <name>Reggie Lee</name>
+    <role>Dr. Wu</role>
+    <type>Actor</type>
+    <tmdbid>22075</tmdbid>
+    <imdbid>nm0498046</imdbid>
+  </actor>
+  <actor>
+    <name>Will Blagrove</name>
+    <role>Detective Alvarez</role>
+    <type>Actor</type>
+    <tmdbid>99166</tmdbid>
+    <imdbid>nm1309437</imdbid>
+  </actor>
+  <actor>
+    <name>Helen E. McNutt</name>
+    <role>Older Wife</role>
+    <type>Actor</type>
+    <tmdbid>3207195</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom McNutt</name>
+    <role>Older Husband</role>
+    <type>Actor</type>
+    <tmdbid>2482718</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Howe</name>
+    <role>Pete Micelli</role>
+    <type>Actor</type>
+    <tmdbid>1990</tmdbid>
+    <imdbid>nm0397788</imdbid>
+  </actor>
+  <actor>
+    <name>Kristy Nolen</name>
+    <role>Diner Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2799110</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Zoumanigui</name>
+    <role>Judy</role>
+    <type>Actor</type>
+    <tmdbid>1958334</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Barnes</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1521953</tmdbid>
+  </actor>
+  <actor>
+    <name>Katy O'Brian</name>
+    <role>TV Host</role>
+    <type>Actor</type>
+    <tmdbid>2252989</tmdbid>
+    <imdbid>nm6884042</imdbid>
+  </actor>
+  <actor>
+    <name>Dave MacDonald</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>1396312</tmdbid>
+  </actor>
+  <actor>
+    <name>James Anthony McBride</name>
+    <role>Building Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2997668</tmdbid>
+  </actor>
+  <actor>
+    <name>Liron Blumenthal</name>
+    <role>Female Server</role>
+    <type>Actor</type>
+    <tmdbid>2869448</tmdbid>
+  </actor>
+  <actor>
+    <name>Cherie McClain</name>
+    <role>Newscaster #1</role>
+    <type>Actor</type>
+    <tmdbid>1641612</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Miguel Young</name>
+    <role>Newscaster #2</role>
+    <type>Actor</type>
+    <tmdbid>1916845</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Hostetter</name>
+    <role>Auctioneer</role>
+    <type>Actor</type>
+    <tmdbid>2094592</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Liga</name>
+    <role>Newscaster #4</role>
+    <type>Actor</type>
+    <tmdbid>1930893</tmdbid>
+  </actor>
+  <actor>
+    <name>Tammy Brant</name>
+    <role>Toll Booth Worker</role>
+    <type>Actor</type>
+    <tmdbid>3207210</tmdbid>
+  </actor>
+  <actor>
+    <name>Cale Schultz</name>
+    <role>Matthews</role>
+    <type>Actor</type>
+    <tmdbid>1779514</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Allyn</name>
+    <role>Titus</role>
+    <type>Actor</type>
+    <tmdbid>1491348</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Camarillo</name>
+    <role>Trainer</role>
+    <type>Actor</type>
+    <tmdbid>1053239</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Fishel</name>
+    <role>Gala Guest</role>
+    <type>Actor</type>
+    <tmdbid>1543874</tmdbid>
+    <imdbid>nm5203487</imdbid>
+  </actor>
+  <actor>
+    <name>Erika Shrout</name>
+    <role>Gala Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2229907</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Jun</name>
+    <role>Gala Guest</role>
+    <type>Actor</type>
+    <tmdbid>2818526</tmdbid>
+  </actor>
+  <director tmdbid="1722811">Brian Andrew Mendoza</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4aaG6OIUW4I</trailer>
+  <rating>5.5</rating>
+  <year>2021</year>
+  <sorttitle>Sweet Girl</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10731768</imdbid>
+  <tmdbid>619297</tmdbid>
+  <premiered>2021-08-18</premiered>
+  <releasedate>2021-08-18</releasedate>
+  <criticrating>24</criticrating>
+  <runtime>110</runtime>
+  <tagline>La familia lucha unida.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Pride of Gypsies</studio>
+  <studio>ASAP Entertainment</studio>
+  <studio>On the Roam</studio>
+  <uniqueid type="tmdb">619297</uniqueid>
+  <uniqueid type="imdb">tt10731768</uniqueid>
+  <id>tt10731768</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149417</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6608</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>126204</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

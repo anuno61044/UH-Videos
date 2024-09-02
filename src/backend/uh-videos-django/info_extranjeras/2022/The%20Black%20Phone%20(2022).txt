@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En una ciudad de Colorado, en los años 70, un enmascarado secuestra a Finney Shaw, un chico tímido e inteligente de 13 años, y le encierra en un sótano insonorizado donde de nada sirven sus gritos. Cuando un teléfono roto y sin conexión empieza a sonar, Finney descubre que a través de él puede oír las voces de las anteriores víctimas, las cuales están decididas a impedir que Finney acabe igual que ellas.]]></plot>
+  <outline><![CDATA[Nunca hables con extraños.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-07-14 07:45:21</dateadded>
+  <title>Black Phone</title>
+  <originaltitle>The Black Phone</originaltitle>
+  <actor>
+    <name>Mason Thames</name>
+    <role>Finney Blake</role>
+    <type>Actor</type>
+    <tmdbid>2803710</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Hawke</name>
+    <role>The Grabber</role>
+    <type>Actor</type>
+    <tmdbid>569</tmdbid>
+    <imdbid>nm0000160</imdbid>
+    <tvdbid>311173</tvdbid>
+  </actor>
+  <actor>
+    <name>Madeleine McGraw</name>
+    <role>Gwen Blake</role>
+    <type>Actor</type>
+    <tmdbid>1530558</tmdbid>
+    <imdbid>nm6421259</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Davies</name>
+    <role>Terrence Blake</role>
+    <type>Actor</type>
+    <tmdbid>4654</tmdbid>
+    <imdbid>nm0001111</imdbid>
+  </actor>
+  <actor>
+    <name>E. Roger Mitchell</name>
+    <role>Detective Wright</role>
+    <type>Actor</type>
+    <tmdbid>41020</tmdbid>
+    <imdbid>nm0593301</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Rudeseal</name>
+    <role>Detective Miller</role>
+    <type>Actor</type>
+    <tmdbid>1694113</tmdbid>
+  </actor>
+  <actor>
+    <name>James Ransone</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>5296</tmdbid>
+    <imdbid>nm0710447</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Cazarez Mora</name>
+    <role>Robin Arellano</role>
+    <type>Actor</type>
+    <tmdbid>3586928</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Clarke</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>3609422</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Gaven Wilde</name>
+    <role>Moose</role>
+    <type>Actor</type>
+    <tmdbid>2706071</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Fitzgerald</name>
+    <role>Buzz</role>
+    <type>Actor</type>
+    <tmdbid>3053619</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Isaiah White</name>
+    <role>Matty</role>
+    <type>Actor</type>
+    <tmdbid>3053618</tmdbid>
+  </actor>
+  <actor>
+    <name>Brady Ryan</name>
+    <role>Matt</role>
+    <type>Actor</type>
+    <tmdbid>3053615</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Pravong</name>
+    <role>Bruce Yamada</role>
+    <type>Actor</type>
+    <tmdbid>3267288</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Moran</name>
+    <role>Billy</role>
+    <type>Actor</type>
+    <tmdbid>3053616</tmdbid>
+  </actor>
+  <actor>
+    <name>Brady Hepner</name>
+    <role>Vance Hopper</role>
+    <type>Actor</type>
+    <tmdbid>3013234</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Banks Repeta</name>
+    <role>Griffin</role>
+    <type>Actor</type>
+    <tmdbid>2253047</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristina Arjona</name>
+    <role>Ms. Fulgrim</role>
+    <type>Actor</type>
+    <tmdbid>2726057</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila M. O'Rear</name>
+    <role>Principal Keller</role>
+    <type>Actor</type>
+    <tmdbid>3514281</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocco Poveromo</name>
+    <role>Chief of Police</role>
+    <type>Actor</type>
+    <tmdbid>3496226</tmdbid>
+  </actor>
+  <actor>
+    <name>Kellan Rhude</name>
+    <role>Patrolman</role>
+    <type>Actor</type>
+    <tmdbid>1477442</tmdbid>
+    <tvdbid>331874</tvdbid>
+  </actor>
+  <actor>
+    <name>Gina Jun</name>
+    <role>Bruce's Mother</role>
+    <type>Actor</type>
+    <tmdbid>2818526</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Cronan</name>
+    <role>Young Bruce</role>
+    <type>Actor</type>
+    <tmdbid>3053612</tmdbid>
+  </actor>
+  <actor>
+    <name>Braxton Alexander</name>
+    <role>Jackass #2</role>
+    <type>Actor</type>
+    <tmdbid>2004116</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Farmer</name>
+    <role>Teammate #1</role>
+    <type>Actor</type>
+    <tmdbid>3053614</tmdbid>
+  </actor>
+  <actor>
+    <name>T. Maxwell Martin</name>
+    <role>Teammate #2</role>
+    <type>Actor</type>
+    <tmdbid>3053622</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Blake</name>
+    <role>EMT</role>
+    <type>Actor</type>
+    <tmdbid>3162330</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Fortunato</name>
+    <role>Patrolman #2</role>
+    <type>Actor</type>
+    <tmdbid>1483022</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris TC Edge</name>
+    <role>Fireman</role>
+    <type>Actor</type>
+    <tmdbid>3072059</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Riccardi</name>
+    <role>Umpire</role>
+    <type>Actor</type>
+    <tmdbid>198799</tmdbid>
+    <imdbid>nm0723162</imdbid>
+  </actor>
+  <actor>
+    <name>Megan Petersen</name>
+    <role>Math Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2641713</tmdbid>
+  </actor>
+  <actor>
+    <name>Bay Allebach</name>
+    <role>Teen Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>2755257</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Bailey</name>
+    <role>Bruce's Father</role>
+    <type>Actor</type>
+    <tmdbid>206912</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Connelly</name>
+    <role>School Office Lady</role>
+    <type>Actor</type>
+    <tmdbid>2487168</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Simmons</name>
+    <role>Adult Volunteer</role>
+    <type>Actor</type>
+    <tmdbid>1843392</tmdbid>
+  </actor>
+  <actor>
+    <name>Parrish Stikeleather</name>
+    <role>Mr. Hopkins</role>
+    <type>Actor</type>
+    <tmdbid>3197950</tmdbid>
+  </actor>
+  <director tmdbid="55499" imdbid="nm0220600">Scott Derrickson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XhcEnHDKHco</trailer>
+  <rating>6.9</rating>
+  <year>2022</year>
+  <sorttitle>Black Phone</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7144666</imdbid>
+  <tmdbid>756999</tmdbid>
+  <premiered>2022-06-22</premiered>
+  <releasedate>2022-06-22</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>104</runtime>
+  <tagline>Nunca hables con extraños.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Crooked Highway</studio>
+  <set tmdbcolid="1197140">
+    <name>The Black Phone Collection</name>
+  </set>
+  <uniqueid type="imdb">tt7144666</uniqueid>
+  <uniqueid type="tmdb">756999</uniqueid>
+  <id>tt7144666</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1075635</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6212</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

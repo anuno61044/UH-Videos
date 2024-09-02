@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son invitados a un yate en un crucero de lujo. Mientras que la tripulación brinda todas las atenciones necesarias a los ricos invitados, el capitán se niega a salir de su cabina, a pesar de la llegada inminente de la célebre cena de gala. Los eventos toman un giro inesperado y el equilibrio de poder se invierte cuando se levanta una tormenta que pone en peligro el confort de los pasajeros]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-22 12:23:44</dateadded>
+  <title>El triángulo de la tristeza</title>
+  <originaltitle>Triangle of Sadness</originaltitle>
+  <actor>
+    <name>Harris Dickinson</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>1716493</tmdbid>
+    <imdbid>nm6170168</imdbid>
+  </actor>
+  <actor>
+    <name>Charlbi Dean Kriek</name>
+    <role>Yaya</role>
+    <type>Actor</type>
+    <tmdbid>1187068</tmdbid>
+    <imdbid>nm4528025</imdbid>
+  </actor>
+  <actor>
+    <name>Zlatko Burić</name>
+    <role>Dimitry</role>
+    <type>Actor</type>
+    <tmdbid>31960</tmdbid>
+    <imdbid>nm0121519</imdbid>
+  </actor>
+  <actor>
+    <name>Dolly de Leon</name>
+    <role>Abigail</role>
+    <type>Actor</type>
+    <tmdbid>1513304</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicki Berlin</name>
+    <role>Paula</role>
+    <type>Actor</type>
+    <tmdbid>84241</tmdbid>
+  </actor>
+  <actor>
+    <name>Henrik Dorsin</name>
+    <role>Jarmo Björkman</role>
+    <type>Actor</type>
+    <tmdbid>225636</tmdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Captain Thomas Smith</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Iris Berben</name>
+    <role>Therese</role>
+    <type>Actor</type>
+    <tmdbid>43451</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunnyi Melles</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>37411</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Ford Davies</name>
+    <role>Winston</role>
+    <type>Actor</type>
+    <tmdbid>31923</tmdbid>
+    <imdbid>nm0203882</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Christophe Folly</name>
+    <role>Nelson</role>
+    <type>Actor</type>
+    <tmdbid>559648</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Walker</name>
+    <role>Clementine</role>
+    <type>Actor</type>
+    <tmdbid>108620</tmdbid>
+    <imdbid>nm0907510</imdbid>
+  </actor>
+  <actor>
+    <name>Hanna Oldenburg</name>
+    <role>Yacht Stewardess</role>
+    <type>Actor</type>
+    <tmdbid>1040789</tmdbid>
+  </actor>
+  <actor>
+    <name>Malte Gårdinger</name>
+    <role>Male Model</role>
+    <type>Actor</type>
+    <tmdbid>2984635</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda Anborg</name>
+    <type>Actor</type>
+    <tmdbid>1914387</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Gynning</name>
+    <role>Ludmilla</role>
+    <type>Actor</type>
+    <tmdbid>1077995</tmdbid>
+  </actor>
+  <actor>
+    <name>Arvin Kananian</name>
+    <role>Darius</role>
+    <type>Actor</type>
+    <tmdbid>1721791</tmdbid>
+  </actor>
+  <actor>
+    <name>Camilla Läckberg</name>
+    <role>Camilla Läckberg</role>
+    <type>Actor</type>
+    <tmdbid>107643</tmdbid>
+  </actor>
+  <actor>
+    <name>Beata Borelius</name>
+    <type>Actor</type>
+    <tmdbid>2837247</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaniaz Hama Ali</name>
+    <type>Actor</type>
+    <tmdbid>3350476</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Schicha</name>
+    <role>Uli</role>
+    <type>Actor</type>
+    <tmdbid>1333476</tmdbid>
+  </actor>
+  <actor>
+    <name>Timoleon Gketsos</name>
+    <role>Handsome Crewman</role>
+    <type>Actor</type>
+    <tmdbid>3548416</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Westerstrom</name>
+    <type>Actor</type>
+    <tmdbid>3548417</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikolas Chalkiadakis</name>
+    <role>Yacht Crew</role>
+    <type>Actor</type>
+    <tmdbid>3653127</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Eriksson</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>3548418</tmdbid>
+  </actor>
+  <actor>
+    <name>Mira Uszkureit</name>
+    <role>Casting Director</role>
+    <type>Actor</type>
+    <tmdbid>3583369</tmdbid>
+  </actor>
+  <actor>
+    <name>Thobias Thorwid</name>
+    <role>Lewis</role>
+    <type>Actor</type>
+    <tmdbid>3583371</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Schulman</name>
+    <role>Amanda Schulman</role>
+    <type>Actor</type>
+    <tmdbid>2259926</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Schulman</name>
+    <role>Alex Schulman</role>
+    <type>Actor</type>
+    <tmdbid>1512930</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiannis Moustos</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>3583373</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Gödicke</name>
+    <role>Yacht Chef</role>
+    <type>Actor</type>
+    <tmdbid>928008</tmdbid>
+  </actor>
+  <actor>
+    <name>Nana Manu</name>
+    <role>Beach Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2330807</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Benson</name>
+    <role>Dirty Sails Lady</role>
+    <type>Actor</type>
+    <tmdbid>2029788</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Falk</name>
+    <role>Puking Lady (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3616534</tmdbid>
+  </actor>
+  <director tmdbid="56370" imdbid="nm1128037">Ruben Östlund</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VDvfFIZQIuQ</trailer>
+  <rating>7.3</rating>
+  <year>2022</year>
+  <sorttitle>triangulo de la tristeza</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7322224</imdbid>
+  <tmdbid>497828</tmdbid>
+  <premiered>2022-09-23</premiered>
+  <releasedate>2022-09-23</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>147</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Greece</country>
+  <country>Mexico</country>
+  <country>Sweden</country>
+  <country>Turkey</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Canal+</studio>
+  <studio>DR</studio>
+  <studio>ARTE</studio>
+  <studio>BBC Film</studio>
+  <studio>Medienboard Berlin-Brandenburg</studio>
+  <studio>Eurimages</studio>
+  <studio>Svenska Filminstitutet</studio>
+  <studio>Film i Väst</studio>
+  <studio>SVT</studio>
+  <studio>ZDF</studio>
+  <studio>Nordisk Film &amp; TV Fond</studio>
+  <studio>Coproduction Office</studio>
+  <studio>BFI</studio>
+  <studio>Bord Cadre Films</studio>
+  <studio>Plattform Produktion</studio>
+  <studio>Ciné+</studio>
+  <studio>Piano</studio>
+  <studio>Essential Films</studio>
+  <studio>Sovereign Films</studio>
+  <studio>TRT</studio>
+  <studio>Heretic</studio>
+  <studio>Imperative Entertainment</studio>
+  <studio>Turkish Radio &amp; Television (TRT)</studio>
+  <studio>Svensk Filminspelning</studio>
+  <studio>30WEST</studio>
+  <studio>The Danish Film Institute</studio>
+  <studio>MOIN Filmförderung Hamburg Schleswig-Holstein</studio>
+  <uniqueid type="imdb">tt7322224</uniqueid>
+  <uniqueid type="tmdb">497828</uniqueid>
+  <id>tt7322224</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>852022</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>479:200</aspect>
+        <aspectratio>479:200</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>147</duration>
+        <durationinseconds>8835</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

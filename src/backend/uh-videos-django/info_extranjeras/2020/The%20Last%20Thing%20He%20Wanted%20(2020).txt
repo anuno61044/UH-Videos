@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A veteran D.C. journalist loses the thread of her own narrative when a guilt-propelled errand for her father thrusts her from byline to unwitting subject in the very story she's trying to break. Adapted from Joan Didion's namesake novel.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-02-24 08:36:08</dateadded>
+  <title>The Last Thing He Wanted</title>
+  <originaltitle>The Last Thing He Wanted</originaltitle>
+  <actor>
+    <name>Anne Hathaway</name>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+    <tvdbid>255156</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Affleck</name>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Rosie Perez</name>
+    <type>Actor</type>
+    <tmdbid>4810</tmdbid>
+    <imdbid>nm0001609</imdbid>
+    <tvdbid>310419</tvdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <director tmdbid="472630" imdbid="nm2011696">Dee Rees</director>
+  <writer>Marco Villalobos (screenplay by)</writer>
+  <writer>Dee Rees (screenplay by)</writer>
+  <writer>Joan Didion (based on the book by)</writer>
+  <credits>Marco Villalobos (screenplay by)</credits>
+  <credits>Dee Rees (screenplay by)</credits>
+  <credits>Joan Didion (based on the book by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KmrU6gMc1Lc</trailer>
+  <rating>4.3</rating>
+  <year>2020</year>
+  <sorttitle>Last Thing He Wanted</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7456312</imdbid>
+  <tmdbid>505225</tmdbid>
+  <premiered>2020-02-14</premiered>
+  <releasedate>2020-02-14</releasedate>
+  <criticrating>5</criticrating>
+  <runtime>116</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Elevated Films</studio>
+  <studio>Little Red Hen</studio>
+  <studio>The Fyzz</studio>
+  <uniqueid type="imdb">tt7456312</uniqueid>
+  <uniqueid type="tmdb">505225</uniqueid>
+  <id>tt7456312</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>961120</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6942</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

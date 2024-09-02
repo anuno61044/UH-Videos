@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra y Optimus Prime se ha ido. La llave para salvar nuestro futuro está enterrada en los secretos del pasado, en la historia oculta de los Transformers en la Tierra. Salvar a nuestro mundo está en manos de una alianza única: Cade Yeager (Mark Wahlberg); Bumblebee; un Lord Inglés (Sir Anthony Hopkins); y una profesora de la Universidad de Oxford (Laura Haddock). Hay un momento en la vida de todo ser humano en la que recibimos el llamado para hacer la diferencia. En Transformers: El Último Caballero los perseguidos se convertirán en héroes; los héroes se convertirán en villanos y sólo un mundo sobrevivirá: el de ellos o el nuestro. Quinta película de Transformers dirigida por Michael Bay.]]></plot>
+  <outline><![CDATA[Toda leyenda esconde un secreto.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-06-16 08:58:45</dateadded>
+  <title>Transformers: El último caballero</title>
+  <originaltitle>Transformers: The Last Knight</originaltitle>
+  <actor>
+    <name>Mark Wahlberg</name>
+    <role>Cade Yeager</role>
+    <type>Actor</type>
+    <tmdbid>13240</tmdbid>
+    <imdbid>nm0000242</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Sir Edmund Burton</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+    <tvdbid>254194</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Duhamel</name>
+    <role>Col. William Lennox</role>
+    <type>Actor</type>
+    <tmdbid>19536</tmdbid>
+    <imdbid>nm0241049</imdbid>
+    <tvdbid>255139</tvdbid>
+  </actor>
+  <actor>
+    <name>Stanley Tucci</name>
+    <role>Merlin</role>
+    <type>Actor</type>
+    <tmdbid>2283</tmdbid>
+    <imdbid>nm0001804</imdbid>
+    <tvdbid>274195</tvdbid>
+  </actor>
+  <actor>
+    <name>Laura Haddock</name>
+    <role>Vivian Wembly</role>
+    <type>Actor</type>
+    <tmdbid>209578</tmdbid>
+    <imdbid>nm2652095</imdbid>
+    <tvdbid>376608</tvdbid>
+  </actor>
+  <actor>
+    <name>Jerrod Carmichael</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1400880</tmdbid>
+    <imdbid>nm4273797</imdbid>
+  </actor>
+  <actor>
+    <name>Isabela Merced</name>
+    <role>Izabella</role>
+    <type>Actor</type>
+    <tmdbid>1428070</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Cabrera</name>
+    <role>Santos</role>
+    <type>Actor</type>
+    <tmdbid>34065</tmdbid>
+    <imdbid>nm1085051</imdbid>
+    <tvdbid>349415</tvdbid>
+  </actor>
+  <actor>
+    <name>Glenn Morshower</name>
+    <role>General Morshower</role>
+    <type>Actor</type>
+    <tmdbid>12797</tmdbid>
+    <imdbid>nm0607703</imdbid>
+  </actor>
+  <actor>
+    <name>John Turturro</name>
+    <role>Seymour Simmons</role>
+    <type>Actor</type>
+    <tmdbid>1241</tmdbid>
+    <imdbid>nm0001806</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Hale</name>
+    <role>JPL Engineer</role>
+    <type>Actor</type>
+    <tmdbid>25147</tmdbid>
+    <imdbid>nm0355024</imdbid>
+    <tvdbid>303466</tvdbid>
+  </actor>
+  <actor>
+    <name>Liam Garrigan</name>
+    <role>King Arthur</role>
+    <type>Actor</type>
+    <tmdbid>165441</tmdbid>
+    <imdbid>nm1389482</imdbid>
+  </actor>
+  <actor>
+    <name>Martin McCreadie</name>
+    <role>Lancelot</role>
+    <type>Actor</type>
+    <tmdbid>1486234</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Witcomb</name>
+    <role>Percival</role>
+    <type>Actor</type>
+    <tmdbid>1769884</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Fraser</name>
+    <role>Gawain</role>
+    <type>Actor</type>
+    <tmdbid>1813662</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hollingworth</name>
+    <role>Tristan</role>
+    <type>Actor</type>
+    <tmdbid>1386824</tmdbid>
+    <imdbid>nm3227473</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Adegboyega</name>
+    <role>Saebert</role>
+    <type>Actor</type>
+    <tmdbid>1474705</tmdbid>
+    <imdbid>nm4089182</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Maurice Webb</name>
+    <role>Hengist</role>
+    <type>Actor</type>
+    <tmdbid>2031597</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Chan</name>
+    <role>Quintessa</role>
+    <type>Actor</type>
+    <tmdbid>97576</tmdbid>
+    <imdbid>nm2110418</imdbid>
+    <tvdbid>484957</tvdbid>
+  </actor>
+  <actor>
+    <name>Claude Knowlton</name>
+    <role>JPL Director</role>
+    <type>Actor</type>
+    <tmdbid>1391886</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Zachar</name>
+    <role>Young JPL Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1182341</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Steed</name>
+    <role>Viviane's Grandmum</role>
+    <type>Actor</type>
+    <tmdbid>1196986</tmdbid>
+    <imdbid>nm0824353</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Stewart</name>
+    <role>Viviane's Mum</role>
+    <type>Actor</type>
+    <tmdbid>3902</tmdbid>
+    <imdbid>nm0829815</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Nicholls</name>
+    <role>Aunt Helen</role>
+    <type>Actor</type>
+    <tmdbid>3930</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Front</name>
+    <role>Aunt Marie</role>
+    <type>Actor</type>
+    <tmdbid>155530</tmdbid>
+    <imdbid>nm0296410</imdbid>
+    <tvdbid>255394</tvdbid>
+  </actor>
+  <actor>
+    <name>Stephen Hogan</name>
+    <role>Viviane's Father</role>
+    <type>Actor</type>
+    <tmdbid>76415</tmdbid>
+    <imdbid>nm0389621</imdbid>
+  </actor>
+  <actor>
+    <name>Minti Gorne</name>
+    <role>Young Viviane</role>
+    <type>Actor</type>
+    <tmdbid>1854111</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Flores Jr.</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>1335308</tmdbid>
+    <imdbid>nm4652001</imdbid>
+  </actor>
+  <actor>
+    <name>Juliocesar Chavez</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>1337544</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Parker</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>1863244</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Iturriaga</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>1863245</tmdbid>
+  </actor>
+  <actor>
+    <name>Aisha Kabia</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1450772</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Bean</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1330888</tmdbid>
+    <imdbid>nm2811167</imdbid>
+    <tvdbid>657452</tvdbid>
+  </actor>
+  <actor>
+    <name>Sam Yim</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1813798</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Dexter</name>
+    <role>U.K. Prime Minister</role>
+    <type>Actor</type>
+    <tmdbid>211738</tmdbid>
+    <imdbid>nm0223316</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Jarvis</name>
+    <role>Downing Street Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1214693</tmdbid>
+    <imdbid>nm0419112</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Downie</name>
+    <role>Polo Player</role>
+    <type>Actor</type>
+    <tmdbid>1010912</tmdbid>
+    <imdbid>nm0236071</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Croft</name>
+    <role>High Society Woman</role>
+    <type>Actor</type>
+    <tmdbid>119685</tmdbid>
+    <imdbid>nm3010250</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Tierney</name>
+    <role>High Society Woman</role>
+    <type>Actor</type>
+    <tmdbid>1721985</tmdbid>
+    <imdbid>nm3560260</imdbid>
+  </actor>
+  <actor>
+    <name>Wolfgang Young</name>
+    <role>Saxon Knight</role>
+    <type>Actor</type>
+    <tmdbid>1863246</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Khan</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1863247</tmdbid>
+  </actor>
+  <actor>
+    <name>Leighton Sharpe</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1863248</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Tam</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1355190</tmdbid>
+    <imdbid>nm2608452</imdbid>
+  </actor>
+  <actor>
+    <name>Aiyaz Ahmed</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1863249</tmdbid>
+  </actor>
+  <actor>
+    <name>Pauline McLynn</name>
+    <role>Female Researcher</role>
+    <type>Actor</type>
+    <tmdbid>69465</tmdbid>
+    <imdbid>nm0572965</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Castle</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1695142</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Maria</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1863250</tmdbid>
+    <imdbid>nm5816844</imdbid>
+  </actor>
+  <actor>
+    <name>Poppy Carter</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1863251</tmdbid>
+  </actor>
+  <actor>
+    <name>Seeta Indrani</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>199085</tmdbid>
+    <imdbid>nm0408550</imdbid>
+  </actor>
+  <actor>
+    <name>Phill Langhorne</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1798783</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Harrison</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1514183</tmdbid>
+    <imdbid>nm3268224</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Albiston</name>
+    <role>Submarine Ticket Agent</role>
+    <type>Actor</type>
+    <tmdbid>237409</tmdbid>
+  </actor>
+  <actor>
+    <name>John Burke</name>
+    <role>Pentagon Colonel</role>
+    <type>Actor</type>
+    <tmdbid>58510</tmdbid>
+    <imdbid>nm0992221</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Eve Harris</name>
+    <role>Pentagon Colonel</role>
+    <type>Actor</type>
+    <tmdbid>157146</tmdbid>
+    <imdbid>nm0364458</imdbid>
+  </actor>
+  <actor>
+    <name>Granville Ames</name>
+    <role>Pentagon Official</role>
+    <type>Actor</type>
+    <tmdbid>1176892</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Wisniewski</name>
+    <role>Government Suit</role>
+    <type>Actor</type>
+    <tmdbid>1797295</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitch Pileggi</name>
+    <role>TRF Group Leader</role>
+    <type>Actor</type>
+    <tmdbid>12644</tmdbid>
+    <imdbid>nm0683379</imdbid>
+  </actor>
+  <actor>
+    <name>Remi Adeleke</name>
+    <role>TRF Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1863253</tmdbid>
+    <imdbid>nm8403552</imdbid>
+  </actor>
+  <actor>
+    <name>Perry Yee</name>
+    <role>TRF Operator</role>
+    <type>Actor</type>
+    <tmdbid>1863254</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian William Price</name>
+    <role>TRF Operator</role>
+    <type>Actor</type>
+    <tmdbid>1863255</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Jerome</name>
+    <role>TRF Operator</role>
+    <type>Actor</type>
+    <tmdbid>1083173</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Pietruszewski</name>
+    <role>F-35 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>144606</tmdbid>
+    <imdbid>nm1830016</imdbid>
+  </actor>
+  <actor>
+    <name>Christoper Vasquez</name>
+    <role>F-16 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1863256</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Waters</name>
+    <role>F-16 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>211742</tmdbid>
+  </actor>
+  <actor>
+    <name>Krista Schaeffer</name>
+    <role>Osprey Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1863258</tmdbid>
+  </actor>
+  <actor>
+    <name>Walles Hamonde</name>
+    <role>American Serviceman</role>
+    <type>Actor</type>
+    <tmdbid>1562105</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Wright</name>
+    <role>Military Attache</role>
+    <type>Actor</type>
+    <tmdbid>55270</tmdbid>
+    <imdbid>nm0942875</imdbid>
+    <tvdbid>269449</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Warner</name>
+    <role>Military Attache</role>
+    <type>Actor</type>
+    <tmdbid>1215398</tmdbid>
+    <imdbid>nm1490516</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Richard</name>
+    <role>Namibian Scientist</role>
+    <type>Actor</type>
+    <tmdbid>2457675</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Bouguenon</name>
+    <role>Namibian Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1071694</tmdbid>
+  </actor>
+  <actor>
+    <name>Jandre le Roux</name>
+    <role>Namibian Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1863259</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Cullen</name>
+    <role>Optimus Prime (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19540</tmdbid>
+    <imdbid>nm0191520</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Welker</name>
+    <role>Megatron (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15831</tmdbid>
+    <imdbid>nm0919798</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Aadahl</name>
+    <role>Bumblebee (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1378695</tmdbid>
+  </actor>
+  <actor>
+    <name>John Goodman</name>
+    <role>Hound (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1230</tmdbid>
+    <imdbid>nm0000422</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Watanabe</name>
+    <role>Drift (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3899</tmdbid>
+    <imdbid>nm0913822</imdbid>
+    <tvdbid>563455</tvdbid>
+  </actor>
+  <actor>
+    <name>Jim Carter</name>
+    <role>Cogman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20070</tmdbid>
+    <imdbid>nm0141697</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Buscemi</name>
+    <role>Daytrader (voice)</role>
+    <type>Actor</type>
+    <tmdbid>884</tmdbid>
+    <imdbid>nm0000114</imdbid>
+    <tvdbid>271595</tvdbid>
+  </actor>
+  <actor>
+    <name>Omar Sy</name>
+    <role>Hot Rod (voice)</role>
+    <type>Actor</type>
+    <tmdbid>78423</tmdbid>
+    <imdbid>nm1082477</imdbid>
+  </actor>
+  <actor>
+    <name>Reno Wilson</name>
+    <role>Sqweeks / Mohawk (voice)</role>
+    <type>Actor</type>
+    <tmdbid>117187</tmdbid>
+    <imdbid>nm0934008</imdbid>
+    <tvdbid>278748</tvdbid>
+  </actor>
+  <actor>
+    <name>John DiMaggio</name>
+    <role>Crosshairs / Nitro Zeus (voice)</role>
+    <type>Actor</type>
+    <tmdbid>31531</tmdbid>
+    <imdbid>nm0224007</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Wheelie (voice)</role>
+    <type>Actor</type>
+    <tmdbid>78798</tmdbid>
+    <imdbid>nm0444786</imdbid>
+  </actor>
+  <actor>
+    <name>Jess Harnell</name>
+    <role>Barricade (voice)</role>
+    <type>Actor</type>
+    <tmdbid>84495</tmdbid>
+    <imdbid>nm0363641</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ryan</name>
+    <role>Lieutenant / WWI Tank (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19541</tmdbid>
+    <imdbid>nm0752699</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Barr</name>
+    <role>Volleybot / Nitro Zeus (voice)</role>
+    <type>Actor</type>
+    <tmdbid>26994</tmdbid>
+    <imdbid>nm0056575</imdbid>
+  </actor>
+  <actor>
+    <name>Gil Birmingham</name>
+    <role>Chief Sherman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84225</tmdbid>
+    <imdbid>nm0083655</imdbid>
+    <tvdbid>252225</tvdbid>
+  </actor>
+  <actor>
+    <name>Eddie Hall</name>
+    <role>Saxon Warrior (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2369623</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Kent</name>
+    <role>TRF Group Leader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1513916</tmdbid>
+    <imdbid>nm6591687</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Poyer</name>
+    <role>German Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>65952</tmdbid>
+    <imdbid>nm0694706</imdbid>
+  </actor>
+  <director tmdbid="865" imdbid="nm0000881">Michael Bay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4FU4Egle4Nk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yeeVStrWTOE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=01qxEzjmjaA</trailer>
+  <rating>5.2</rating>
+  <year>2017</year>
+  <sorttitle>Transformers: El ultimo caballero</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3371366</imdbid>
+  <tmdbid>335988</tmdbid>
+  <premiered>2017-06-16</premiered>
+  <releasedate>2017-06-16</releasedate>
+  <criticrating>16</criticrating>
+  <runtime>108</runtime>
+  <tagline>Toda leyenda esconde un secreto.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Paramount</studio>
+  <studio>di Bonaventura Pictures</studio>
+  <studio>Ian Bryce Productions</studio>
+  <studio>Tom DeSanto/Don Murphy Production</studio>
+  <set tmdbcolid="8650">
+    <name>Transformers - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt3371366</uniqueid>
+  <uniqueid type="tmdb">335988</uniqueid>
+  <id>tt3371366</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1031179</bitrate>
+        <width>1280</width>
+        <height>690</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6484</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

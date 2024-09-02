@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A young Chinese maiden disguises herself as a male warrior in order to save her father.]]></plot>
+  <outline><![CDATA[Mi deber es luchar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-04 12:32:03</dateadded>
+  <title>Mulan</title>
+  <originaltitle>Mulan</originaltitle>
+  <actor>
+    <name>Yifei Liu</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Donnie Yen</name>
+    <type>Actor</type>
+    <tmdbid>1341</tmdbid>
+    <imdbid>nm0947447</imdbid>
+  </actor>
+  <actor>
+    <name>Gong Li</name>
+    <type>Actor</type>
+    <tmdbid>643</tmdbid>
+    <imdbid>nm0000084</imdbid>
+  </actor>
+  <actor>
+    <name>Jet Li</name>
+    <type>Actor</type>
+    <tmdbid>1336</tmdbid>
+    <imdbid>nm0001472</imdbid>
+  </actor>
+  <director tmdbid="15287" imdbid="nm0138927">Niki Caro</director>
+  <writer>Rick Jaffa (screenplay by)</writer>
+  <writer>Amanda Silver (screenplay by)</writer>
+  <writer>Lauren Hynek (screenplay by)</writer>
+  <writer>Elizabeth Martin (screenplay by)</writer>
+  <writer>Anonymous (suggested by: the narrative poem "The Ballad of Mulan")</writer>
+  <credits>Rick Jaffa (screenplay by)</credits>
+  <credits>Amanda Silver (screenplay by)</credits>
+  <credits>Lauren Hynek (screenplay by)</credits>
+  <credits>Elizabeth Martin (screenplay by)</credits>
+  <credits>Anonymous (suggested by: the narrative poem "The Ballad of Mulan")</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KICbWqUbxRY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WSgmnyGZ9_Q</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3No2ro4xfo4</trailer>
+  <rating>5.8</rating>
+  <year>2020</year>
+  <sorttitle>Mulan</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt4566758</imdbid>
+  <tmdbid>337401</tmdbid>
+  <premiered>2020-09-04</premiered>
+  <releasedate>2020-09-04</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>115</runtime>
+  <tagline>Mi deber es luchar.</tagline>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Family</genre>
+  <genre>Fantasy</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>China Film Group Corporation</studio>
+  <studio>Good Fear</studio>
+  <studio>Jason T. Reed Productions</studio>
+  <uniqueid type="imdb">tt4566758</uniqueid>
+  <uniqueid type="tmdb">337401</uniqueid>
+  <id>tt4566758</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1740589</bitrate>
+        <width>720</width>
+        <height>302</height>
+        <aspect>360:151</aspect>
+        <aspectratio>360:151</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6908</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios.]]></plot>
+  <outline><![CDATA[Ellos cazan para vivir, él vive para cazar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-05 07:47:14</dateadded>
+  <title>Predator: La presa</title>
+  <originaltitle>Prey</originaltitle>
+  <actor>
+    <name>Amber Midthunder</name>
+    <role>Naru</role>
+    <type>Actor</type>
+    <tmdbid>1654001</tmdbid>
+    <imdbid>nm1690270</imdbid>
+    <tvdbid>463647</tvdbid>
+  </actor>
+  <actor>
+    <name>Dakota Beavers</name>
+    <role>Taabe</role>
+    <type>Actor</type>
+    <tmdbid>3675371</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Thrush</name>
+    <role>Aruka</role>
+    <type>Actor</type>
+    <tmdbid>87126</tmdbid>
+    <imdbid>nm0861969</imdbid>
+  </actor>
+  <actor>
+    <name>Stormee Kipp</name>
+    <role>Wasape</role>
+    <type>Actor</type>
+    <tmdbid>3316731</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Black Antelope</name>
+    <role>Chief Kehetu</role>
+    <type>Actor</type>
+    <tmdbid>1061054</tmdbid>
+  </actor>
+  <actor>
+    <name>Dane DiLiegro</name>
+    <role>Predator</role>
+    <type>Actor</type>
+    <tmdbid>3158773</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefany Mathias</name>
+    <role>Sumu (Chief Wife)</role>
+    <type>Actor</type>
+    <tmdbid>1103483</tmdbid>
+    <imdbid>nm0558774</imdbid>
+  </actor>
+  <actor>
+    <name>Bennett Taylor</name>
+    <role>Raphael</role>
+    <type>Actor</type>
+    <tmdbid>1897633</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Paterson</name>
+    <role>Big Beard</role>
+    <type>Actor</type>
+    <tmdbid>2414850</tmdbid>
+  </actor>
+  <actor>
+    <name>Nelson Leis</name>
+    <role>Waxed Mustache</role>
+    <type>Actor</type>
+    <tmdbid>95413</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyson Carter</name>
+    <role>Huupi</role>
+    <type>Actor</type>
+    <tmdbid>2534865</tmdbid>
+  </actor>
+  <actor>
+    <name>Skye Pelletier</name>
+    <role>Tabu</role>
+    <type>Actor</type>
+    <tmdbid>3646557</tmdbid>
+  </actor>
+  <actor>
+    <name>Harlan Blayne Kytwayhat</name>
+    <role>Itsee</role>
+    <type>Actor</type>
+    <tmdbid>3578777</tmdbid>
+  </actor>
+  <actor>
+    <name>Corvin Mack</name>
+    <role>Paaka</role>
+    <type>Actor</type>
+    <tmdbid>3032301</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Marty</name>
+    <role>Puhi</role>
+    <type>Actor</type>
+    <tmdbid>1558069</tmdbid>
+  </actor>
+  <actor>
+    <name>Ginger Cattleman</name>
+    <role>Disapproving Woman</role>
+    <type>Actor</type>
+    <tmdbid>3646558</tmdbid>
+  </actor>
+  <actor>
+    <name>Seanna Eagletail</name>
+    <role>Young Comanche Woman</role>
+    <type>Actor</type>
+    <tmdbid>3646559</tmdbid>
+  </actor>
+  <actor>
+    <name>Samiyah Crowfoot</name>
+    <role>Young Comanche Girl</role>
+    <type>Actor</type>
+    <tmdbid>3646560</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Big Tobacco</name>
+    <role>Ania</role>
+    <type>Actor</type>
+    <tmdbid>2498751</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Mundle</name>
+    <role>Spyglass</role>
+    <type>Actor</type>
+    <tmdbid>1882944</tmdbid>
+  </actor>
+  <actor>
+    <name>Curtis Vinish</name>
+    <role>Comanche Slinger</role>
+    <type>Actor</type>
+    <tmdbid>3646561</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephane Legault</name>
+    <role>Trapper</role>
+    <type>Actor</type>
+    <tmdbid>1668922</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephan Schroeder</name>
+    <role>Rambert</role>
+    <type>Actor</type>
+    <tmdbid>2154671</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Beaudoin</name>
+    <role>Trapper</role>
+    <type>Actor</type>
+    <tmdbid>2738636</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Strauts</name>
+    <role>Additional Predator</role>
+    <type>Actor</type>
+    <tmdbid>1941002</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Woodruff Jr.</name>
+    <role>Predator Puppeteer (ADI)</role>
+    <type>Actor</type>
+    <tmdbid>109870</tmdbid>
+    <imdbid>nm0940430</imdbid>
+  </actor>
+  <actor>
+    <name>Alec Gillis</name>
+    <role>Predator Puppeteer (ADI)</role>
+    <type>Actor</type>
+    <tmdbid>958540</tmdbid>
+  </actor>
+  <actor>
+    <name>David Penikas</name>
+    <role>Predator Puppeteer (ADI)</role>
+    <type>Actor</type>
+    <tmdbid>1116965</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon K. Miller</name>
+    <role>Predator Puppeteer (ADI)</role>
+    <type>Actor</type>
+    <tmdbid>2127292</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirk Caouette</name>
+    <role>Lion</role>
+    <type>Actor</type>
+    <tmdbid>172874</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Legere</name>
+    <role>Bear</role>
+    <type>Actor</type>
+    <tmdbid>3646563</tmdbid>
+  </actor>
+  <director tmdbid="568322" imdbid="nm0870469">Dan Trachtenberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7AWRZuYlEFU</trailer>
+  <rating>7.1</rating>
+  <year>2022</year>
+  <sorttitle>Predator: La presa</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11866324</imdbid>
+  <tmdbid>766507</tmdbid>
+  <premiered>2022-08-02</premiered>
+  <releasedate>2022-08-02</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>100</runtime>
+  <tagline>Ellos cazan para vivir, él vive para cazar.</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Acción</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>20th Century Studios</studio>
+  <set tmdbcolid="399">
+    <name>Depredador - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt11866324</uniqueid>
+  <uniqueid type="tmdb">766507</uniqueid>
+  <id>tt11866324</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1118368</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5974</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

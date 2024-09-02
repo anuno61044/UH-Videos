@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1840s England, acclaimed but overlooked fossil hunter Mary Anning and a young woman sent to convalesce by the sea develop an intense relationship, altering both of their lives forever.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-04 11:06:56</dateadded>
+  <title>Ammonite</title>
+  <originaltitle>Ammonite</originaltitle>
+  <actor>
+    <name>Sarah White</name>
+    <type>Actor</type>
+    <tmdbid>1225435</tmdbid>
+    <imdbid>nm0925437</imdbid>
+  </actor>
+  <actor>
+    <name>Liam Thomas</name>
+    <type>Actor</type>
+    <tmdbid>1270464</tmdbid>
+    <imdbid>nm2612640</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Parks</name>
+    <type>Actor</type>
+    <tmdbid>1232658</tmdbid>
+    <imdbid>nm0663008</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Winslet</name>
+    <type>Actor</type>
+    <tmdbid>204</tmdbid>
+    <imdbid>nm0000701</imdbid>
+    <tvdbid>278695</tvdbid>
+  </actor>
+  <director tmdbid="192852" imdbid="nm0497274">Francis Lee</director>
+  <writer tmdbid="192852" imdbid="nm0497274">Francis Lee</writer>
+  <credits tmdbid="192852" imdbid="nm0497274">Francis Lee</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AnDhlrs3XVM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P6l5d66n2Fk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rmmnhBo7a8I</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MpHa6Fi75ck</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lZAQT0jTFuU</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>Ammonite</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7983894</imdbid>
+  <tmdbid>568467</tmdbid>
+  <premiered>2020-11-13</premiered>
+  <releasedate>2020-11-13</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>118</runtime>
+  <country>United Kingdom</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>See-Saw Films</studio>
+  <uniqueid type="imdb">tt7983894</uniqueid>
+  <uniqueid type="tmdb">568467</uniqueid>
+  <id>tt7983894</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>945090</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7069</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The story of 7 people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention in Chicago, Illinois.]]></plot>
+  <outline><![CDATA[En 1968, la democracia se negó a bajar los brazos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-19 08:23:14</dateadded>
+  <title>The Trial of the Chicago 7</title>
+  <originaltitle>The Trial of the Chicago 7</originaltitle>
+  <actor>
+    <name>Eddie Redmayne</name>
+    <type>Actor</type>
+    <tmdbid>37632</tmdbid>
+    <imdbid>nm1519666</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Sharp</name>
+    <type>Actor</type>
+    <tmdbid>136127</tmdbid>
+    <imdbid>nm5189784</imdbid>
+    <tvdbid>287430</tvdbid>
+  </actor>
+  <actor>
+    <name>Sacha Baron Cohen</name>
+    <type>Actor</type>
+    <tmdbid>6730</tmdbid>
+    <imdbid>nm0056187</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Strong</name>
+    <type>Actor</type>
+    <tmdbid>239271</tmdbid>
+    <imdbid>nm0834989</imdbid>
+  </actor>
+  <director tmdbid="13520" imdbid="nm0815070">Aaron Sorkin</director>
+  <writer tmdbid="13520" imdbid="nm0815070">Aaron Sorkin</writer>
+  <credits tmdbid="13520" imdbid="nm0815070">Aaron Sorkin</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Lphr-4VmFVU</trailer>
+  <rating>7.7</rating>
+  <year>2020</year>
+  <sorttitle>Trial of the Chicago 7</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1070874</imdbid>
+  <tmdbid>556984</tmdbid>
+  <premiered>2020-09-25</premiered>
+  <releasedate>2020-09-25</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>130</runtime>
+  <tagline>En 1968, la democracia se negó a bajar los brazos.</tagline>
+  <country>India</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Thriller</genre>
+  <studio>Paramount</studio>
+  <studio>Cross Creek Pictures</studio>
+  <studio>ShivHans Pictures</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>Amblin Partners</studio>
+  <studio>Double Infinity Productions</studio>
+  <studio>MadRiver Pictures</studio>
+  <studio>Marc Platt Productions</studio>
+  <studio>Reliance Entertainment</studio>
+  <studio>Rocket Science</studio>
+  <uniqueid type="imdb">tt1070874</uniqueid>
+  <uniqueid type="tmdb">556984</uniqueid>
+  <id>tt1070874</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>856410</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7810</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

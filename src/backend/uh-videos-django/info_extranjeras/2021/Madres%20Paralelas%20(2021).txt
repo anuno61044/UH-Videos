@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dos mujeres solteras que se han quedado embarazadas por accidente y que están a punto de dar a luz coinciden en una habitación de hospital: Janis, de mediana edad, no se arrepiente y es feliz; Ana, una adolescente, se siente arrepentida y asustada.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-01 17:30:22</dateadded>
+  <title>Madres paralelas</title>
+  <originaltitle>Madres paralelas</originaltitle>
+  <actor>
+    <name>Penélope Cruz</name>
+    <role>Janis</role>
+    <type>Actor</type>
+    <tmdbid>955</tmdbid>
+    <imdbid>nm0004851</imdbid>
+  </actor>
+  <actor>
+    <name>Milena Smit</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>2560224</tmdbid>
+    <tvdbid>8813222</tvdbid>
+  </actor>
+  <actor>
+    <name>Israel Elejalde</name>
+    <role>Arturo</role>
+    <type>Actor</type>
+    <tmdbid>1313220</tmdbid>
+    <imdbid>nm1990986</imdbid>
+    <tvdbid>295048</tvdbid>
+  </actor>
+  <actor>
+    <name>Aitana Sánchez-Gijón</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>37946</tmdbid>
+    <imdbid>nm0845209</imdbid>
+  </actor>
+  <actor>
+    <name>Rossy de Palma</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>25258</tmdbid>
+    <imdbid>nm0658041</imdbid>
+    <tvdbid>580771</tvdbid>
+  </actor>
+  <actor>
+    <name>Julieta Serrano</name>
+    <role>Brígida</role>
+    <type>Actor</type>
+    <tmdbid>25257</tmdbid>
+    <imdbid>nm0785565</imdbid>
+  </actor>
+  <actor>
+    <name>Arantxa Aranguren</name>
+    <type>Actor</type>
+    <tmdbid>1439853</tmdbid>
+    <imdbid>nm1850872</imdbid>
+  </actor>
+  <actor>
+    <name>Adelfa Calvo</name>
+    <type>Actor</type>
+    <tmdbid>1331728</tmdbid>
+    <imdbid>nm2431367</imdbid>
+  </actor>
+  <actor>
+    <name>José Javier Domínguez</name>
+    <type>Actor</type>
+    <tmdbid>1509256</tmdbid>
+    <imdbid>nm3345523</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Flores</name>
+    <type>Actor</type>
+    <tmdbid>1179690</tmdbid>
+    <imdbid>nm0282783</imdbid>
+  </actor>
+  <actor>
+    <name>Trinidad Iglesias</name>
+    <type>Actor</type>
+    <tmdbid>1497032</tmdbid>
+  </actor>
+  <actor>
+    <name>Inma Ochoa</name>
+    <type>Actor</type>
+    <tmdbid>2261071</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Peleteiro</name>
+    <type>Actor</type>
+    <tmdbid>2823764</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Santiago</name>
+    <type>Actor</type>
+    <tmdbid>2214128</tmdbid>
+    <tvdbid>8159535</tvdbid>
+  </actor>
+  <actor>
+    <name>Chema Adeva</name>
+    <type>Actor</type>
+    <tmdbid>1153755</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Auria Contreras</name>
+    <type>Actor</type>
+    <tmdbid>3337856</tmdbid>
+  </actor>
+  <director tmdbid="309" imdbid="nm0000264">Pedro Almodóvar</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8TMhL9lcGD4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2IO_f2Auo3U</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <sorttitle>Madres paralelas</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt12618926</imdbid>
+  <tmdbid>766798</tmdbid>
+  <premiered>2021-10-08</premiered>
+  <releasedate>2021-10-08</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>123</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>El Deseo</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt12618926</uniqueid>
+  <uniqueid type="tmdb">766798</uniqueid>
+  <id>tt12618926</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>316106</bitrate>
+        <width>720</width>
+        <height>384</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>23.976</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7387</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

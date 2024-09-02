@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dani es un joven con un gran conflicto interior que le paraliza: ama la música, pero tiene miedo a fracasar como su padre, y sufre pensando que es uno más, como su abuelo, por lo que decide no intentarlo escondiéndose en su autenticidad. Ese verano, entre su trabajo de camarero y las noches con los amigos, conocerá a Sandra. Con ella descubrirá la lucha de los cantantes anónimos, el amor y qué significa no ser uno más.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-13 10:09:56</dateadded>
+  <title>El cover</title>
+  <originaltitle>El cover</originaltitle>
+  <actor>
+    <name>Àlex Monner</name>
+    <role>Dani</role>
+    <type>Actor</type>
+    <tmdbid>1031744</tmdbid>
+    <imdbid>nm3856284</imdbid>
+    <tvdbid>467303</tvdbid>
+  </actor>
+  <actor>
+    <name>Marina Salas</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+    <tmdbid>234619</tmdbid>
+    <imdbid>nm2392521</imdbid>
+  </actor>
+  <actor>
+    <name>Carolina Yuste</name>
+    <role>Margarita</role>
+    <type>Actor</type>
+    <tmdbid>2025663</tmdbid>
+    <imdbid>nm8188533</imdbid>
+    <tvdbid>8189878</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Diego</name>
+    <role>Daniel 'El Guitarras'</role>
+    <type>Actor</type>
+    <tmdbid>37580</tmdbid>
+    <imdbid>nm0225921</imdbid>
+  </actor>
+  <actor>
+    <name>Lander Otaola</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>544008</tmdbid>
+    <imdbid>nm3085379</imdbid>
+  </actor>
+  <actor>
+    <name>María Hervás</name>
+    <role>Moni</role>
+    <type>Actor</type>
+    <tmdbid>1334527</tmdbid>
+    <imdbid>nm2525166</imdbid>
+    <tvdbid>469629</tvdbid>
+  </actor>
+  <actor>
+    <name>Marco D'Almeida</name>
+    <role>Popi</role>
+    <type>Actor</type>
+    <tmdbid>230579</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Calvo</name>
+    <role>Liza</role>
+    <type>Actor</type>
+    <tmdbid>110130</tmdbid>
+    <imdbid>nm0130948</imdbid>
+  </actor>
+  <actor>
+    <name>Susi Sánchez</name>
+    <role>Shirley</role>
+    <type>Actor</type>
+    <tmdbid>101401</tmdbid>
+    <imdbid>nm0844845</imdbid>
+    <tvdbid>493591</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Marie France</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Hurtado</name>
+    <role>Suni</role>
+    <type>Actor</type>
+    <tmdbid>1690566</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Rueda</name>
+    <role>Alegría</role>
+    <type>Actor</type>
+    <tmdbid>2593343</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavi Melero</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>2593324</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Mateos</name>
+    <role>Monfort</role>
+    <type>Actor</type>
+    <tmdbid>1490110</tmdbid>
+    <imdbid>nm1793538</imdbid>
+    <tvdbid>596395</tvdbid>
+  </actor>
+  <actor>
+    <name>Edu Tena</name>
+    <type>Actor</type>
+    <tmdbid>3133076</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego París</name>
+    <role>Nerd (Miguel)</role>
+    <type>Actor</type>
+    <tmdbid>143599</tmdbid>
+    <imdbid>nm1438700</imdbid>
+  </actor>
+  <actor>
+    <name>Celia de Molina</name>
+    <role>Ayte. Director (Amanda)</role>
+    <type>Actor</type>
+    <tmdbid>1334529</tmdbid>
+    <imdbid>nm3899534</imdbid>
+  </actor>
+  <actor>
+    <name>Pepe Ocio</name>
+    <type>Actor</type>
+    <tmdbid>967161</tmdbid>
+    <imdbid>nm1784717</imdbid>
+  </actor>
+  <actor>
+    <name>Rita Ribeiro</name>
+    <type>Actor</type>
+    <tmdbid>1322554</tmdbid>
+  </actor>
+  <actor>
+    <name>José Martins</name>
+    <type>Actor</type>
+    <tmdbid>1168155</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Massan</name>
+    <role>Cantante Banda Spanglish</role>
+    <type>Actor</type>
+    <tmdbid>2929520</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Collantes</name>
+    <role>Camarera y Cantante Tablao</role>
+    <type>Actor</type>
+    <tmdbid>1388775</tmdbid>
+    <imdbid>nm1462912</imdbid>
+    <tvdbid>595997</tvdbid>
+  </actor>
+  <actor>
+    <name>Tania Garcia</name>
+    <role>Madre de Dani</role>
+    <type>Actor</type>
+    <tmdbid>2757868</tmdbid>
+  </actor>
+  <actor>
+    <name>Agoney Hernández</name>
+    <role>Cover Andy Bell</role>
+    <type>Actor</type>
+    <tmdbid>2575187</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Orozco</name>
+    <role>Luthier</role>
+    <type>Actor</type>
+    <tmdbid>2210551</tmdbid>
+    <tvdbid>7958050</tvdbid>
+  </actor>
+  <actor>
+    <name>Parrita</name>
+    <role>Cantaor Benidorm</role>
+    <type>Actor</type>
+    <tmdbid>3133078</tmdbid>
+  </actor>
+  <actor>
+    <name>Esmeralda Rancapino</name>
+    <role>Cantaora Tablao Flamenco</role>
+    <type>Actor</type>
+    <tmdbid>3133079</tmdbid>
+  </actor>
+  <actor>
+    <name>Óscar de la Fuente</name>
+    <role>Padre de Moni</role>
+    <type>Actor</type>
+    <tmdbid>2020259</tmdbid>
+    <tvdbid>8074018</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Rivera</name>
+    <role>Hermano de Moni</role>
+    <type>Actor</type>
+    <tmdbid>2247207</tmdbid>
+  </actor>
+  <actor>
+    <name>Chema Adeva</name>
+    <role>Jefe de terraza</role>
+    <type>Actor</type>
+    <tmdbid>1153755</tmdbid>
+  </actor>
+  <actor>
+    <name>Secun de la Rosa</name>
+    <role>Presentador Tablao Flamenco</role>
+    <type>Actor</type>
+    <tmdbid>234532</tmdbid>
+    <imdbid>nm0209397</imdbid>
+    <tvdbid>448247</tvdbid>
+  </actor>
+  <actor>
+    <name>Pablo Mendez</name>
+    <role>Joserra (Guitarras)</role>
+    <type>Actor</type>
+    <tmdbid>133987</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Pinot</name>
+    <role>Enfemera Residencia</role>
+    <type>Actor</type>
+    <tmdbid>1621564</tmdbid>
+  </actor>
+  <actor>
+    <name>Benja de la Rosa</name>
+    <role>Padre de Margarita</role>
+    <type>Actor</type>
+    <tmdbid>2261084</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Mayordomo</name>
+    <role>Madre de Margarita</role>
+    <type>Actor</type>
+    <tmdbid>2594387</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepa Pedroche</name>
+    <role>Abuela de Dani</role>
+    <type>Actor</type>
+    <tmdbid>963251</tmdbid>
+    <imdbid>nm0670142</imdbid>
+  </actor>
+  <actor>
+    <name>Lidia Mínguez</name>
+    <role>Madonna</role>
+    <type>Actor</type>
+    <tmdbid>3190426</tmdbid>
+  </actor>
+  <actor>
+    <name>Belén Bottarini</name>
+    <role>Novia de Moni</role>
+    <type>Actor</type>
+    <tmdbid>3190428</tmdbid>
+  </actor>
+  <director tmdbid="234532" imdbid="nm0209397" tvdbid="448247">Secun de la Rosa</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QSvQnerIC94</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>cover</sorttitle>
+  <imdbid>tt11206172</imdbid>
+  <tmdbid>826733</tmdbid>
+  <premiered>2021-07-23</premiered>
+  <releasedate>2021-07-23</releasedate>
+  <runtime>90</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <genre>Música</genre>
+  <studio>Nadie es Perfecto</studio>
+  <uniqueid type="imdb">tt11206172</uniqueid>
+  <uniqueid type="tmdb">826733</uniqueid>
+  <id>tt11206172</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1293170</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5399</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

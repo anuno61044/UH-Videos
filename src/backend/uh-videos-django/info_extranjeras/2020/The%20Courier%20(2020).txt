@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.]]></plot>
+  <outline><![CDATA[Basado en la increíble historia real de un hombre de negocios convertido en espía.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-19 08:59:13</dateadded>
+  <title>The Courier</title>
+  <originaltitle>The Courier</originaltitle>
+  <actor>
+    <name>Vladimir Chuprikov</name>
+    <type>Actor</type>
+    <tmdbid>1191044</tmdbid>
+    <imdbid>nm1078491</imdbid>
+  </actor>
+  <actor>
+    <name>Merab Ninidze</name>
+    <type>Actor</type>
+    <tmdbid>17817</tmdbid>
+    <imdbid>nm0632457</imdbid>
+  </actor>
+  <actor>
+    <name>James Schofield</name>
+    <type>Actor</type>
+    <tmdbid>1774185</tmdbid>
+    <imdbid>nm2805570</imdbid>
+  </actor>
+  <actor>
+    <name>Fred Haig</name>
+    <type>Actor</type>
+    <tmdbid>3022779</tmdbid>
+  </actor>
+  <director tmdbid="1539858" imdbid="nm4315078">Dominic Cooke</director>
+  <writer>Tom O'Connor</writer>
+  <credits>Tom O'Connor</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Qeo8qs9xohM</trailer>
+  <rating>7.2</rating>
+  <year>2020</year>
+  <sorttitle>Courier</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8368512</imdbid>
+  <tmdbid>522241</tmdbid>
+  <premiered>2020-09-27</premiered>
+  <releasedate>2020-09-27</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>112</runtime>
+  <tagline>Basado en la increíble historia real de un hombre de negocios convertido en espía.</tagline>
+  <country>United Kingdom</country>
+  <genre>Thriller</genre>
+  <studio>SunnyMarch</studio>
+  <studio>42</studio>
+  <studio>FilmNation Entertainment</studio>
+  <uniqueid type="imdb">tt8368512</uniqueid>
+  <uniqueid type="tmdb">522241</uniqueid>
+  <id>tt8368512</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>894802</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976023</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6720</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96067</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

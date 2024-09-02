@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un día en la vida de Azucena, a quien se le acaba el tiempo para evitar que ella y su familia sean desahuciados; Rafael, un abogado que se propone reunir a una madre con su hija; y Teodora, una anciana enferma que busca a su hijo, del que ha estado largo tiempo alejada, antes de que sea demasiado tarde.]]></plot>
+  <outline><![CDATA[24 horas pueden cambiar una vida]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-26 12:01:55</dateadded>
+  <title>En los márgenes</title>
+  <originaltitle>En los márgenes</originaltitle>
+  <actor>
+    <name>Penélope Cruz</name>
+    <role>Azucena</role>
+    <type>Actor</type>
+    <tmdbid>955</tmdbid>
+    <imdbid>nm0004851</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Tosar</name>
+    <role>Rafael</role>
+    <type>Actor</type>
+    <tmdbid>16867</tmdbid>
+    <imdbid>nm0869088</imdbid>
+    <tvdbid>525216</tvdbid>
+  </actor>
+  <actor>
+    <name>Adelfa Calvo</name>
+    <role>Teodora</role>
+    <type>Actor</type>
+    <tmdbid>1331728</tmdbid>
+    <imdbid>nm2431367</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Checa</name>
+    <type>Actor</type>
+    <tmdbid>3102083</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Diego Botto</name>
+    <type>Actor</type>
+    <tmdbid>36632</tmdbid>
+    <imdbid>nm0098709</imdbid>
+    <tvdbid>365065</tvdbid>
+  </actor>
+  <actor>
+    <name>Aixa Villagrán</name>
+    <type>Actor</type>
+    <tmdbid>146300</tmdbid>
+    <imdbid>nm1938814</imdbid>
+    <tvdbid>8046421</tvdbid>
+  </actor>
+  <actor>
+    <name>Font García</name>
+    <type>Actor</type>
+    <tmdbid>1405756</tmdbid>
+    <imdbid>nm2873551</imdbid>
+  </actor>
+  <actor>
+    <name>Sergio Villanueva</name>
+    <type>Actor</type>
+    <tmdbid>588324</tmdbid>
+    <imdbid>nm0897943</imdbid>
+  </actor>
+  <actor>
+    <name>Nur Al Levi</name>
+    <type>Actor</type>
+    <tmdbid>302412</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Perdiguero</name>
+    <type>Actor</type>
+    <tmdbid>1849779</tmdbid>
+  </actor>
+  <actor>
+    <name>Ame Aneiros</name>
+    <role>Diego</role>
+    <type>Actor</type>
+    <tmdbid>4146405</tmdbid>
+  </actor>
+  <actor>
+    <name>María Isabel Díaz Lago</name>
+    <type>Actor</type>
+    <tmdbid>4364</tmdbid>
+    <imdbid>nm0246681</imdbid>
+  </actor>
+  <director tmdbid="36632" imdbid="nm0098709" tvdbid="365065">Juan Diego Botto</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CpkzIgTlERM</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>En los margenes</sorttitle>
+  <imdbid>tt12306964</imdbid>
+  <tmdbid>714339</tmdbid>
+  <premiered>2022-10-07</premiered>
+  <releasedate>2022-10-07</releasedate>
+  <runtime>99</runtime>
+  <tagline>24 horas pueden cambiar una vida</tagline>
+  <country>Belgium</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Morena Films</studio>
+  <studio>Panache Productions</studio>
+  <studio>La Compagnie Cinématographique</studio>
+  <studio>VOO</studio>
+  <studio>BeTV</studio>
+  <studio>Proximus</studio>
+  <studio>TVE</studio>
+  <studio>TeleMadrid</studio>
+  <uniqueid type="tmdb">714339</uniqueid>
+  <uniqueid type="imdb">tt12306964</uniqueid>
+  <id>tt12306964</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>271856</bitrate>
+        <width>640</width>
+        <height>316</height>
+        <aspect>240:119</aspect>
+        <aspectratio>240:119</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5927</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

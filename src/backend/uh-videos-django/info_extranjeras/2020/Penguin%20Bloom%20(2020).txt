@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando un aliado poco probable entra en el mundo de la familia Bloom en forma de una cría de urraca herida a la que llaman Penguin, la llegada del pájaro marca una gran diferencia en la vida de la familia en apuros.]]></plot>
+  <outline><![CDATA[La verdadera historia de un héroe inesperado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-01 08:13:59</dateadded>
+  <title>Penguin Bloom</title>
+  <originaltitle>Penguin Bloom</originaltitle>
+  <actor>
+    <name>Naomi Watts</name>
+    <role>Sam Bloom</role>
+    <type>Actor</type>
+    <tmdbid>3489</tmdbid>
+    <imdbid>nm0915208</imdbid>
+    <tvdbid>308902</tvdbid>
+  </actor>
+  <actor>
+    <name>Andrew Lincoln</name>
+    <role>Cameron Bloom</role>
+    <type>Actor</type>
+    <tmdbid>7062</tmdbid>
+    <imdbid>nm0511088</imdbid>
+    <tvdbid>302169</tvdbid>
+  </actor>
+  <actor>
+    <name>Jacki Weaver</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>67837</tmdbid>
+    <imdbid>nm0915865</imdbid>
+    <tvdbid>300204</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel House</name>
+    <role>Gaye Hatfield</role>
+    <type>Actor</type>
+    <tmdbid>15298</tmdbid>
+    <imdbid>nm1344302</imdbid>
+  </actor>
+  <actor>
+    <name>Gia Carides</name>
+    <role>Megan</role>
+    <type>Actor</type>
+    <tmdbid>14226</tmdbid>
+    <imdbid>nm0137140</imdbid>
+  </actor>
+  <actor>
+    <name>Leeanna Walsman</name>
+    <role>Kylie</role>
+    <type>Actor</type>
+    <tmdbid>93114</tmdbid>
+    <imdbid>nm0909944</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Hensley</name>
+    <role>Bron</role>
+    <type>Actor</type>
+    <tmdbid>2552802</tmdbid>
+  </actor>
+  <actor>
+    <name>Randolph Fields</name>
+    <role>Skater</role>
+    <type>Actor</type>
+    <tmdbid>2507048</tmdbid>
+    <imdbid>nm11008409</imdbid>
+  </actor>
+  <actor>
+    <name>Felix Cameron</name>
+    <type>Actor</type>
+    <tmdbid>2764203</tmdbid>
+  </actor>
+  <actor>
+    <name>Abe Clifford-Barr</name>
+    <type>Actor</type>
+    <tmdbid>2764205</tmdbid>
+  </actor>
+  <actor>
+    <name>Griffin Murray-Johnston</name>
+    <type>Actor</type>
+    <tmdbid>2764207</tmdbid>
+  </actor>
+  <director tmdbid="98553" imdbid="nm1380395">Glendyn Ivin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q7eZEZHRrVg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3D0PlwGIyW0</trailer>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <sorttitle>Penguin Bloom</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt6317656</imdbid>
+  <tmdbid>618416</tmdbid>
+  <premiered>2021-01-21</premiered>
+  <releasedate>2021-01-21</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>95</runtime>
+  <tagline>La verdadera historia de un héroe inesperado.</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Made Up Stories</studio>
+  <studio>Broadtalk</studio>
+  <studio>Jam Tart Films</studio>
+  <studio>Endeavor Content</studio>
+  <studio>Screen Australia</studio>
+  <studio>Create NSW</studio>
+  <uniqueid type="imdb">tt6317656</uniqueid>
+  <uniqueid type="tmdb">618416</uniqueid>
+  <id>tt6317656</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1170025</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5718</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

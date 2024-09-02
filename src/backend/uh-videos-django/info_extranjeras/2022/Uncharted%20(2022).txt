@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un descendiente del explorador Sir Francis Drake descubre la ubicación de la legendaria ciudad de El Dorado. Con la ayuda de su mentor Victor Sullivan y la ambiciosa periodista Elena Fischer, Nathan Drake trabajará para descubrir sus secretos, mientras sobreviven en una isla llena de piratas, mercenarios, y un misterioso enemigo, se embarcarán en una búsqueda sin precedentes por alcanzar el tesoro antes que sus perseguidores. Adaptación del aclamado videojuego homónimo.]]></plot>
+  <outline><![CDATA[La fortuna favorece a los audaces.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-22 19:35:06</dateadded>
+  <title>Uncharted</title>
+  <originaltitle>Uncharted</originaltitle>
+  <actor>
+    <name>Tom Holland</name>
+    <role>Nathan Drake</role>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <tvdbid>287561</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Wahlberg</name>
+    <role>Victor 'Sully' Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>13240</tmdbid>
+    <imdbid>nm0000242</imdbid>
+  </actor>
+  <actor>
+    <name>Sophia Ali</name>
+    <role>Chloe Frazer</role>
+    <type>Actor</type>
+    <tmdbid>1163789</tmdbid>
+  </actor>
+  <actor>
+    <name>Tati Gabrielle</name>
+    <role>Jo Braddock</role>
+    <type>Actor</type>
+    <tmdbid>1859934</tmdbid>
+    <imdbid>nm6616259</imdbid>
+    <tvdbid>461993</tvdbid>
+  </actor>
+  <actor>
+    <name>Antonio Banderas</name>
+    <role>Santiago Moncada</role>
+    <type>Actor</type>
+    <tmdbid>3131</tmdbid>
+    <imdbid>nm0000104</imdbid>
+    <tvdbid>264545</tvdbid>
+  </actor>
+  <actor>
+    <name>Steven Waddington</name>
+    <role>The Scotsman</role>
+    <type>Actor</type>
+    <tmdbid>27764</tmdbid>
+    <imdbid>nm0905357</imdbid>
+  </actor>
+  <actor>
+    <name>Rudy Pankow</name>
+    <role>Sam Drake</role>
+    <type>Actor</type>
+    <tmdbid>1974046</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiernan Jones</name>
+    <role>Young Nathan Drake</role>
+    <type>Actor</type>
+    <tmdbid>3036604</tmdbid>
+  </actor>
+  <actor>
+    <name>Pingi Moli</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>2545360</tmdbid>
+    <imdbid>nm9168430</imdbid>
+  </actor>
+  <actor>
+    <name>Jesús Evita</name>
+    <role>Guard at Museum</role>
+    <type>Actor</type>
+    <tmdbid>3425211</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Goodman</name>
+    <role>Sister Bernadette</role>
+    <type>Actor</type>
+    <tmdbid>1561310</tmdbid>
+    <imdbid>nm0657794</imdbid>
+  </actor>
+  <actor>
+    <name>Diarmaid Murtagh</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1330044</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Balderrama</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>1477143</tmdbid>
+  </actor>
+  <actor>
+    <name>Serena Posadino</name>
+    <role>Goldie</role>
+    <type>Actor</type>
+    <tmdbid>3425202</tmdbid>
+  </actor>
+  <actor>
+    <name>Alana Boden</name>
+    <role>Zoe</role>
+    <type>Actor</type>
+    <tmdbid>1922337</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Failla</name>
+    <role>Unsuspecting Doorman</role>
+    <type>Actor</type>
+    <tmdbid>2131171</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Thomas</name>
+    <role>Luxury Sedan Driver</role>
+    <type>Actor</type>
+    <tmdbid>2405880</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Seaton-Clark</name>
+    <role>Auctioneer</role>
+    <type>Actor</type>
+    <tmdbid>2230184</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Maaser</name>
+    <role>Guard at Auction</role>
+    <type>Actor</type>
+    <tmdbid>1464090</tmdbid>
+    <imdbid>nm4130813</imdbid>
+  </actor>
+  <actor>
+    <name>Eskindir Tesfay</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1503704</tmdbid>
+    <imdbid>nm3175656</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel de Blas</name>
+    <role>Armando Moncada</role>
+    <type>Actor</type>
+    <tmdbid>30351</tmdbid>
+    <imdbid>nm0207458</imdbid>
+    <tvdbid>459242</tvdbid>
+  </actor>
+  <actor>
+    <name>Carme Capdet</name>
+    <role>Spanish Nun</role>
+    <type>Actor</type>
+    <tmdbid>1639742</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Schunevitsch</name>
+    <role>Club Bartender #1</role>
+    <type>Actor</type>
+    <tmdbid>3532449</tmdbid>
+  </actor>
+  <actor>
+    <name>Alois Knapps</name>
+    <role>Club Bartender #2</role>
+    <type>Actor</type>
+    <tmdbid>3076117</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Meeden</name>
+    <role>Spanish Woman in Club</role>
+    <type>Actor</type>
+    <tmdbid>1823349</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Hotel Guest</role>
+    <type>Actor</type>
+    <tmdbid>19508</tmdbid>
+    <imdbid>nm0636046</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Barkley</name>
+    <role>Hotel Bellman</role>
+    <type>Actor</type>
+    <tmdbid>3326872</tmdbid>
+  </actor>
+  <actor>
+    <name>Pilou Asbæk</name>
+    <role>Gage</role>
+    <type>Actor</type>
+    <tmdbid>90060</tmdbid>
+    <imdbid>nm1561982</imdbid>
+    <tvdbid>247897</tvdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Hart</name>
+    <role>Concepcion Helo Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1542941</tmdbid>
+    <imdbid>nm1097170</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Praed</name>
+    <role>Concepcion Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1634439</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlo Kitzlinger</name>
+    <role>Trinidad Helo PIlot</role>
+    <type>Actor</type>
+    <tmdbid>2693165</tmdbid>
+  </actor>
+  <actor>
+    <name>El Rubius</name>
+    <role>Young Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2140983</tmdbid>
+    <imdbid>nm8070991</imdbid>
+  </actor>
+  <director tmdbid="91268" imdbid="nm0281508">Ruben Fleischer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=53bVf9JlqQ4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=t_uYnyHWOsY</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Uncharted</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1464335</imdbid>
+  <tmdbid>335787</tmdbid>
+  <premiered>2022-02-10</premiered>
+  <releasedate>2022-02-10</releasedate>
+  <runtime>116</runtime>
+  <tagline>La fortuna favorece a los audaces.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>Atlas Entertainment</studio>
+  <studio>PlayStation Productions</studio>
+  <studio>Arad Productions</studio>
+  <uniqueid type="imdb">tt1464335</uniqueid>
+  <uniqueid type="tmdb">335787</uniqueid>
+  <id>tt1464335</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>960600</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6956</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

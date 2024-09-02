@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Billy and Ingrid llevan mucho tiempo casados y les sorprende que su hija mayor, Sofía, vuelva a Miami de visita. Pero las sorpresas continúan cuando ella les presenta a su nuevo novio, Adan, y les dice que están pensando mudarse México.]]></plot>
+  <outline><![CDATA[El amor es sencillo. La familia no lo es.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-22 08:58:12</dateadded>
+  <title>El padre de la novia</title>
+  <originaltitle>Father of the Bride</originaltitle>
+  <actor>
+    <name>Andy García</name>
+    <role>Billy Herrera</role>
+    <type>Actor</type>
+    <tmdbid>1271</tmdbid>
+    <imdbid>nm0000412</imdbid>
+    <tvdbid>7912402</tvdbid>
+  </actor>
+  <actor>
+    <name>Gloria Estefan</name>
+    <role>Ingrid Herrera</role>
+    <type>Actor</type>
+    <tmdbid>94759</tmdbid>
+  </actor>
+  <actor>
+    <name>Adria Arjona</name>
+    <role>Sofia Herrera</role>
+    <type>Actor</type>
+    <tmdbid>1371297</tmdbid>
+    <imdbid>nm5245722</imdbid>
+    <tvdbid>595257</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabela Merced</name>
+    <role>Cora Herrera</role>
+    <type>Actor</type>
+    <tmdbid>1428070</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Boneta</name>
+    <role>Adan Castillo</role>
+    <type>Actor</type>
+    <tmdbid>935201</tmdbid>
+    <imdbid>nm1546300</imdbid>
+    <tvdbid>300134</tvdbid>
+  </actor>
+  <actor>
+    <name>Ana Fabrega</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>1750837</tmdbid>
+  </actor>
+  <actor>
+    <name>Enrique Murciano</name>
+    <role>Junior</role>
+    <type>Actor</type>
+    <tmdbid>12798</tmdbid>
+    <imdbid>nm0006663</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Harring</name>
+    <role>Marcela Castillo</role>
+    <type>Actor</type>
+    <tmdbid>15007</tmdbid>
+    <imdbid>nm0005009</imdbid>
+  </actor>
+  <actor>
+    <name>Ruben Rabasa</name>
+    <role>Tio Walter</role>
+    <type>Actor</type>
+    <tmdbid>1434041</tmdbid>
+    <imdbid>nm0704737</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Velasco</name>
+    <role>Caridad 'Chi Chi' Gonzalez</role>
+    <type>Actor</type>
+    <tmdbid>3596168</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Damián</name>
+    <role>Hernan Castillo</role>
+    <type>Actor</type>
+    <tmdbid>129460</tmdbid>
+    <imdbid>nm0198852</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Fineman</name>
+    <role>Natalie Vance</role>
+    <type>Actor</type>
+    <tmdbid>2000658</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Walsh</name>
+    <role>Dr. Gary Saeger</role>
+    <type>Actor</type>
+    <tmdbid>59841</tmdbid>
+    <imdbid>nm0909768</imdbid>
+    <tvdbid>294208</tvdbid>
+  </actor>
+  <actor>
+    <name>Macarena Achaga</name>
+    <role>Julieta Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1415545</tmdbid>
+    <tvdbid>7916846</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Patrick Dawson</name>
+    <role>Junior, Jr.</role>
+    <type>Actor</type>
+    <tmdbid>3166163</tmdbid>
+  </actor>
+  <actor>
+    <name>Ho-Kwan Tse</name>
+    <role>Huan</role>
+    <type>Actor</type>
+    <tmdbid>429401</tmdbid>
+    <imdbid>nm1881346</imdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Rivera</name>
+    <role>Bridesmaid #1</role>
+    <type>Actor</type>
+    <tmdbid>2720295</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Kay Whitley</name>
+    <role>Bridesmaid #2</role>
+    <type>Actor</type>
+    <tmdbid>2489910</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Zapata</name>
+    <role>Bridesmaid #3</role>
+    <type>Actor</type>
+    <tmdbid>1471239</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacinte Blankenship</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1457277</tmdbid>
+    <imdbid>nm2715450</imdbid>
+  </actor>
+  <actor>
+    <name>Malerie Grady</name>
+    <role>Saleswoman</role>
+    <type>Actor</type>
+    <tmdbid>225384</tmdbid>
+    <imdbid>nm2932484</imdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Burgos</name>
+    <role>Luis</role>
+    <type>Actor</type>
+    <tmdbid>3003195</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Alvarez</name>
+    <role>Tia Pili</role>
+    <type>Actor</type>
+    <tmdbid>3534556</tmdbid>
+  </actor>
+  <actor>
+    <name>Karina Rodriguez</name>
+    <role>Salesgirl</role>
+    <type>Actor</type>
+    <tmdbid>3596197</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy De Mayo</name>
+    <role>Cuban Wife</role>
+    <type>Actor</type>
+    <tmdbid>1514927</tmdbid>
+    <imdbid>nm1125705</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquin Montes</name>
+    <role>Cuban Husband</role>
+    <type>Actor</type>
+    <tmdbid>2121091</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Rodriguez</name>
+    <role>Araceli</role>
+    <type>Actor</type>
+    <tmdbid>3052320</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Aruj</name>
+    <role>Ophelia</role>
+    <type>Actor</type>
+    <tmdbid>3596218</tmdbid>
+  </actor>
+  <actor>
+    <name>Ozuna</name>
+    <role>Ozuna</role>
+    <type>Actor</type>
+    <tmdbid>2228673</tmdbid>
+    <imdbid>nm9505536</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Ferrara</name>
+    <role>Sheriff's Deputy</role>
+    <type>Actor</type>
+    <tmdbid>3596222</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Cruz</name>
+    <role>Sheriff's Deputy</role>
+    <type>Actor</type>
+    <tmdbid>3596224</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Álvarez Calderón</name>
+    <role>Pipo</role>
+    <type>Actor</type>
+    <tmdbid>552529</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurie Catherine Winkel</name>
+    <role>Stripper</role>
+    <type>Actor</type>
+    <tmdbid>2083893</tmdbid>
+  </actor>
+  <actor>
+    <name>Adis Riveron</name>
+    <role>Abuela Eugenia</role>
+    <type>Actor</type>
+    <tmdbid>3596231</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Junco</name>
+    <role>Flamenco Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596232</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Thomas Brown</name>
+    <role>Kyler</role>
+    <type>Actor</type>
+    <tmdbid>1297432</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Ernesto Sánchez</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>26651</tmdbid>
+    <imdbid>nm0845079</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Hogan</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>3596292</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiram Paul Buffington</name>
+    <role>Captain</role>
+    <type>Actor</type>
+    <tmdbid>3596293</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Rey Perez</name>
+    <role>Young Billy</role>
+    <type>Actor</type>
+    <tmdbid>1301263</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Estefan</name>
+    <role>Young Ingrid</role>
+    <type>Actor</type>
+    <tmdbid>2175566</tmdbid>
+  </actor>
+  <actor>
+    <name>Irma Cristancho</name>
+    <role>Young Chi Chi</role>
+    <type>Actor</type>
+    <tmdbid>3430161</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Todd Aguayo</name>
+    <role>Young Tio Walter</role>
+    <type>Actor</type>
+    <tmdbid>2186125</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Cesar Otero</name>
+    <role>Young Junior</role>
+    <type>Actor</type>
+    <tmdbid>3596296</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Vidal</name>
+    <role>Young Sofia (5)</role>
+    <type>Actor</type>
+    <tmdbid>3596297</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Michelle Sanchez</name>
+    <role>Young Cora Herrera (7)</role>
+    <type>Actor</type>
+    <tmdbid>3596299</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Alemano</name>
+    <role>Young Sofia (12)</role>
+    <type>Actor</type>
+    <tmdbid>3596300</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Olivet Bender</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596301</tmdbid>
+  </actor>
+  <actor>
+    <name>Dyanna Benitez</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596302</tmdbid>
+  </actor>
+  <actor>
+    <name>Faith Candino</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596303</tmdbid>
+  </actor>
+  <actor>
+    <name>Angie Cosculluela</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596304</tmdbid>
+  </actor>
+  <actor>
+    <name>Johanna Cueva</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596305</tmdbid>
+  </actor>
+  <actor>
+    <name>Humberto Gomez Ferrer</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596306</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Garcia</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596308</tmdbid>
+  </actor>
+  <actor>
+    <name>Danni Heverin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1757732</tmdbid>
+  </actor>
+  <actor>
+    <name>John J.J. James</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596310</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamara Kovalchuk</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596311</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Charles Lubeck</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596313</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Myrage Luna</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596314</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Jmarz Marino</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596315</tmdbid>
+  </actor>
+  <actor>
+    <name>Raul Martinez</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596316</tmdbid>
+  </actor>
+  <actor>
+    <name>Odalys Hernández Méndez</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596317</tmdbid>
+  </actor>
+  <actor>
+    <name>David Aviles Morales</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3441020</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Morell</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596318</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Nicot</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596320</tmdbid>
+  </actor>
+  <actor>
+    <name>Saul Nuñez</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596321</tmdbid>
+  </actor>
+  <actor>
+    <name>Yatniel Olivera</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596322</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Montañez Ortiz</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596323</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiago Raul</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596324</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángel O. Rodriguez Rivera</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596325</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Robana</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596328</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Rodas</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1893200</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Santos</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596329</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Sorkin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3596331</tmdbid>
+  </actor>
+  <director tmdbid="1167724" imdbid="nm1890752">Gary Alazraki</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Iwm0IO-NFRM</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>padre de la novia</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13249596</imdbid>
+  <tmdbid>746419</tmdbid>
+  <premiered>2022-07-21</premiered>
+  <releasedate>2022-07-21</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>118</runtime>
+  <tagline>El amor es sencillo. La familia no lo es.</tagline>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <studio>Plan B Entertainment</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="imdb">tt13249596</uniqueid>
+  <uniqueid type="tmdb">746419</uniqueid>
+  <id>tt13249596</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>847743</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.975882</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7055</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

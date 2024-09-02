@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Desesperado por pagar sus deudas, un hombre intenta secretamente manipular a su padre para que venda su funeraria. Sin saberlo, desatará a un espíritu maligno que tiene la mirada puesta en su esposa embarazada.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-11 10:46:36</dateadded>
+  <title>The Offering</title>
+  <originaltitle>The Offering</originaltitle>
+  <actor>
+    <name>Allan Corduner</name>
+    <role>Saul</role>
+    <type>Actor</type>
+    <tmdbid>78018</tmdbid>
+    <imdbid>nm0179680</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Kaye</name>
+    <role>Heimish</role>
+    <type>Actor</type>
+    <tmdbid>71281</tmdbid>
+    <imdbid>nm0443373</imdbid>
+    <tvdbid>247863</tvdbid>
+  </actor>
+  <actor>
+    <name>Nick Blood</name>
+    <role>Art</role>
+    <type>Actor</type>
+    <tmdbid>222052</tmdbid>
+  </actor>
+  <actor>
+    <name>Emm Wiseman</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1421699</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Yunger</name>
+    <role>Levi Siegelman</role>
+    <type>Actor</type>
+    <tmdbid>1409855</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Ben Zenou</name>
+    <role>Chayim</role>
+    <type>Actor</type>
+    <tmdbid>1379267</tmdbid>
+    <imdbid>nm2020356</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Cooper</name>
+    <role>Worker</role>
+    <type>Actor</type>
+    <tmdbid>1739101</tmdbid>
+    <imdbid>nm7724402</imdbid>
+  </actor>
+  <actor>
+    <name>Velizar Binev</name>
+    <role>Moishe</role>
+    <type>Actor</type>
+    <tmdbid>22018</tmdbid>
+    <imdbid>nm0082870</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Weldon</name>
+    <role>Sarah Scheindal</role>
+    <type>Actor</type>
+    <tmdbid>3136446</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyan Anev</name>
+    <role>Abyzou</role>
+    <type>Actor</type>
+    <tmdbid>2043046</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodie Jacobs</name>
+    <role>Chana</role>
+    <type>Actor</type>
+    <tmdbid>2701150</tmdbid>
+  </actor>
+  <actor>
+    <name>Yonko Dimitrov</name>
+    <role>Shmuel</role>
+    <type>Actor</type>
+    <tmdbid>2484943</tmdbid>
+  </actor>
+  <director tmdbid="588663">Oliver Park</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0PGX3OOMZyc</trailer>
+  <rating>5.2</rating>
+  <year>2023</year>
+  <sorttitle>Offering</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13103732</imdbid>
+  <tmdbid>955991</tmdbid>
+  <premiered>2023-01-11</premiered>
+  <releasedate>2023-01-11</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>123</runtime>
+  <country>Bulgaria</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <studio>Millennium Films</studio>
+  <studio>Decal</studio>
+  <uniqueid type="tmdb">955991</uniqueid>
+  <uniqueid type="imdb">tt13103732</uniqueid>
+  <id>tt13103732</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>900409</bitrate>
+        <width>1280</width>
+        <height>568</height>
+        <aspect>479:213</aspect>
+        <aspectratio>479:213</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7399</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

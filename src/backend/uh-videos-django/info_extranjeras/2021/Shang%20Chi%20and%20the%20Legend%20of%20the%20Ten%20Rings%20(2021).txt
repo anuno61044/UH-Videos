@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.]]></plot>
+  <outline><![CDATA[No puedes huir de tu destino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-09 14:39:13</dateadded>
+  <title>Shang-Chi y la leyenda de los Diez Anillos</title>
+  <originaltitle>Shang-Chi and the Legend of the Ten Rings</originaltitle>
+  <actor>
+    <name>Simu Liu</name>
+    <role>Shaun / Shang-Chi</role>
+    <type>Actor</type>
+    <tmdbid>1489211</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Leung Chiu-wai</name>
+    <role>Xu Wenwu / The Mandarin</role>
+    <type>Actor</type>
+    <tmdbid>1337</tmdbid>
+    <imdbid>nm0504897</imdbid>
+  </actor>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Katy Chen</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+    <tvdbid>311405</tvdbid>
+  </actor>
+  <actor>
+    <name>Meng'er Zhang</name>
+    <role>Xu Xialing</role>
+    <type>Actor</type>
+    <tmdbid>2979464</tmdbid>
+  </actor>
+  <actor>
+    <name>Fala Chen</name>
+    <role>Ying Li</role>
+    <type>Actor</type>
+    <tmdbid>123701</tmdbid>
+    <tvdbid>599319</tvdbid>
+  </actor>
+  <actor>
+    <name>Michelle Yeoh</name>
+    <role>Ying Nan</role>
+    <type>Actor</type>
+    <tmdbid>1620</tmdbid>
+    <imdbid>nm0000706</imdbid>
+    <tvdbid>310641</tvdbid>
+  </actor>
+  <actor>
+    <name>Yuen Wah</name>
+    <role>Master Guang Bo</role>
+    <type>Actor</type>
+    <tmdbid>57609</tmdbid>
+    <imdbid>nm0950757</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Kingsley</name>
+    <role>Trevor Slattery</role>
+    <type>Actor</type>
+    <tmdbid>2282</tmdbid>
+    <imdbid>nm0001426</imdbid>
+  </actor>
+  <actor>
+    <name>Florian Munteanu</name>
+    <role>Razor Fist</role>
+    <type>Actor</type>
+    <tmdbid>1998541</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Le</name>
+    <role>Li Ching-Lin / Death Dealer</role>
+    <type>Actor</type>
+    <tmdbid>1068877</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul He</name>
+    <role>Chancellor Hui</role>
+    <type>Actor</type>
+    <tmdbid>3074780</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayden Tianyi Zhang</name>
+    <role>Young Shang-Chi</role>
+    <type>Actor</type>
+    <tmdbid>3201062</tmdbid>
+  </actor>
+  <actor>
+    <name>Elodie Fong</name>
+    <role>Young Xialing</role>
+    <type>Actor</type>
+    <tmdbid>3218942</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnold Sun</name>
+    <role>Teen Shang-Chi</role>
+    <type>Actor</type>
+    <tmdbid>3216792</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hsu</name>
+    <role>Soo</role>
+    <type>Actor</type>
+    <tmdbid>1381186</tmdbid>
+    <tvdbid>468835</tvdbid>
+  </actor>
+  <actor>
+    <name>Kunal Dudheker</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>2422160</tmdbid>
+  </actor>
+  <actor>
+    <name>Tsai Chin</name>
+    <role>Waipo</role>
+    <type>Actor</type>
+    <tmdbid>10075</tmdbid>
+    <imdbid>nm0157796</imdbid>
+    <tvdbid>368235</tvdbid>
+  </actor>
+  <actor>
+    <name>Jodi Long</name>
+    <role>Mrs. Chen</role>
+    <type>Actor</type>
+    <tmdbid>44059</tmdbid>
+    <imdbid>nm0519023</imdbid>
+  </actor>
+  <actor>
+    <name>Dallas Liu</name>
+    <role>Ruihua</role>
+    <type>Actor</type>
+    <tmdbid>1792920</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronny Chieng</name>
+    <role>Jon Jon</role>
+    <type>Actor</type>
+    <tmdbid>1319469</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Liu</name>
+    <role>BMW Driver</role>
+    <type>Actor</type>
+    <tmdbid>20479</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Ye</name>
+    <role>Yuchen</role>
+    <type>Actor</type>
+    <tmdbid>2344691</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Chien</name>
+    <role>Gao Lei</role>
+    <type>Actor</type>
+    <tmdbid>216782</tmdbid>
+    <imdbid>nm0157312</imdbid>
+  </actor>
+  <actor>
+    <name>Michael-Anthony Taylor</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>1535058</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Clev</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Ma</name>
+    <role>Gang Leader</role>
+    <type>Actor</type>
+    <tmdbid>165214</tmdbid>
+    <imdbid>nm0530882</imdbid>
+  </actor>
+  <actor>
+    <name>Lau Ga-Yung</name>
+    <role>Wenwu's Captain</role>
+    <type>Actor</type>
+    <tmdbid>62421</tmdbid>
+    <imdbid>nm0490573</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Carr</name>
+    <role>Wenwu's Driver</role>
+    <type>Actor</type>
+    <tmdbid>1691275</tmdbid>
+  </actor>
+  <actor>
+    <name>Harmonie He</name>
+    <role>Teen Xialing</role>
+    <type>Actor</type>
+    <tmdbid>2651594</tmdbid>
+  </actor>
+  <actor>
+    <name>Lydia Sarks</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1920116</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Bradley Baker</name>
+    <role>Morris (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23680</tmdbid>
+    <imdbid>nm0048389</imdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wong</name>
+    <role>Wong</role>
+    <type>Actor</type>
+    <tmdbid>30082</tmdbid>
+    <imdbid>nm0938950</imdbid>
+    <tvdbid>273957</tvdbid>
+  </actor>
+  <actor>
+    <name>Jade Xu</name>
+    <role>Widow</role>
+    <type>Actor</type>
+    <tmdbid>1102421</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Roth</name>
+    <role>Emil Blonsky / Abomination (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+    <tvdbid>296366</tvdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Bruce Banner / Hulk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+    <tvdbid>296974</tvdbid>
+  </actor>
+  <actor>
+    <name>Brie Larson</name>
+    <role>Carol Danvers / Captain Marvel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>60073</tmdbid>
+    <imdbid>nm0488953</imdbid>
+  </actor>
+  <actor>
+    <name>David Chea</name>
+    <role>Bus Goon (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3114744</tmdbid>
+  </actor>
+  <actor>
+    <name>Bingchen Ye</name>
+    <role>Archer Warrior / Assassin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2535732</tmdbid>
+  </actor>
+  <director tmdbid="1144604" imdbid="nm2308774">Destin Daniel Cretton</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MQRF_YezCgA</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <sorttitle>Shang-Chi y la leyenda de los Diez Anillos</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9376612</imdbid>
+  <tmdbid>566525</tmdbid>
+  <premiered>2021-09-01</premiered>
+  <releasedate>2021-09-01</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>132</runtime>
+  <tagline>No puedes huir de tu destino.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>Marvel Studios</studio>
+  <set tmdbcolid="912503">
+    <name>Shang-Chi Collection</name>
+  </set>
+  <uniqueid type="imdb">tt9376612</uniqueid>
+  <uniqueid type="tmdb">566525</uniqueid>
+  <id>tt9376612</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>947979</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7940</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

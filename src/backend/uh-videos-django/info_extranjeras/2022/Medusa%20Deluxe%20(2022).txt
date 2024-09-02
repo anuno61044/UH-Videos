@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Medusa Deluxe es una intriga criminal ambientada en un concurso de peluquería. La extravagancia y el exceso chocan, ya que la muerte de uno de los suyos siembra la semilla de la división en una comunidad cuya pasión por el cabello raya en la obsesión.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-05 19:11:53</dateadded>
+  <title>Medusa Deluxe</title>
+  <originaltitle>Medusa Deluxe</originaltitle>
+  <actor>
+    <name>Anita-Joy Uwajeh</name>
+    <role>Timba</role>
+    <type>Actor</type>
+    <tvdbid>9006384</tvdbid>
+    <tmdbid>2138086</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Perkins</name>
+    <role>Cleve</role>
+    <type>Actor</type>
+    <tmdbid>1147904</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrell D'Silva</name>
+    <role>Rene</role>
+    <type>Actor</type>
+    <tmdbid>186396</tmdbid>
+  </actor>
+  <actor>
+    <name>Debris Stevenson</name>
+    <role>Etsy</role>
+    <type>Actor</type>
+    <tmdbid>2468573</tmdbid>
+  </actor>
+  <actor>
+    <name>Harriet Webb</name>
+    <role>Kendra</role>
+    <type>Actor</type>
+    <tmdbid>2403046</tmdbid>
+  </actor>
+  <actor>
+    <name>Heider Ali</name>
+    <role>Gac</role>
+    <type>Actor</type>
+    <tmdbid>2754713</tmdbid>
+  </actor>
+  <actor>
+    <name>Kae Alexander</name>
+    <role>Inez</role>
+    <type>Actor</type>
+    <tmdbid>1399750</tmdbid>
+    <imdbid>nm3664502</imdbid>
+  </actor>
+  <actor>
+    <name>Kayla Meikle</name>
+    <role>Devine</role>
+    <type>Actor</type>
+    <tmdbid>1500880</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilit Lesser</name>
+    <role>Angie</role>
+    <type>Actor</type>
+    <tmdbid>3615137</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Pasqualino</name>
+    <role>Angel</role>
+    <type>Actor</type>
+    <tmdbid>220232</tmdbid>
+    <imdbid>nm3297698</imdbid>
+    <tvdbid>303272</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Karimi</name>
+    <role>Patricio</role>
+    <type>Actor</type>
+    <tmdbid>1488466</tmdbid>
+  </actor>
+  <actor>
+    <name>John Alan Roberts</name>
+    <role>Mosca</role>
+    <type>Actor</type>
+    <tmdbid>2798427</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Parker</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>3815559</tmdbid>
+  </actor>
+  <director tmdbid="1785137">Thomas Hardiman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XU83E_q-zvA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=83CBtOjXZRQ</trailer>
+  <rating>6.2</rating>
+  <year>2023</year>
+  <sorttitle>Medusa Deluxe</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14773478</imdbid>
+  <tmdbid>935903</tmdbid>
+  <premiered>2023-06-08</premiered>
+  <releasedate>2023-06-08</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>101</runtime>
+  <country>United Kingdom</country>
+  <genre>Comedia</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>EMU Films</studio>
+  <studio>BBC Film</studio>
+  <studio>BFI</studio>
+  <studio>Time Based Arts</studio>
+  <uniqueid type="tmdb">935903</uniqueid>
+  <uniqueid type="imdb">tt14773478</uniqueid>
+  <id>tt14773478</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2249982</bitrate>
+        <width>1436</width>
+        <height>1080</height>
+        <aspect>359:270</aspect>
+        <aspectratio>359:270</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6034</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129098</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

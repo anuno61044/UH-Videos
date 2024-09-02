@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Jeremiasz Angust es un arquitecto de éxito que dirigiéndose al aeropuerto de Tokyo pierde su vuelo a causa de una misteriosa joven, Texel Textor, que lo aborda de repente. Los dos personajes iniciarán una conversación que irá enrareciéndose hasta convertirse en algo siniestro y criminal...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-01 08:12:13</dateadded>
+  <title>Cosmética del enemigo</title>
+  <originaltitle>A Perfect Enemy</originaltitle>
+  <actor>
+    <name>Tomasz Kot</name>
+    <role>Jeremy Angust</role>
+    <type>Actor</type>
+    <tmdbid>140652</tmdbid>
+    <imdbid>nm1682799</imdbid>
+  </actor>
+  <actor>
+    <name>Athena Strates</name>
+    <role>Texel Textor</role>
+    <type>Actor</type>
+    <tmdbid>1977981</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Nieto</name>
+    <role>Isabelle</role>
+    <type>Actor</type>
+    <tmdbid>588636</tmdbid>
+    <imdbid>nm1910857</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Pinon</name>
+    <role>Jean Rosen</role>
+    <type>Actor</type>
+    <tmdbid>2413</tmdbid>
+    <imdbid>nm0684500</imdbid>
+  </actor>
+  <director tmdbid="582255" imdbid="nm1665932">Kike Maíllo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qJDoidauDk8</trailer>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <sorttitle>Cosmetica del enemigo</sorttitle>
+  <imdbid>tt9421200</imdbid>
+  <tmdbid>655917</tmdbid>
+  <premiered>2020-10-15</premiered>
+  <releasedate>2020-10-15</releasedate>
+  <runtime>86</runtime>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Sábado Películas</studio>
+  <uniqueid type="imdb">tt9421200</uniqueid>
+  <uniqueid type="tmdb">655917</uniqueid>
+  <id>tt9421200</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1084378</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5177</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>120381</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

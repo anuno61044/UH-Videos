@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un grupo de adolescentes LGBTQIA+ se dirigen al Campamento Whistler, un centro para adolescentes que han sido enviados por sus padres para tratar de lidiar con lo que ellos consideran ser un tabú. El director del campamento, Owen Whistler, y el resto de sus empleados se encargarán de dar la bienvenida a los nuevos invitados en este campamento de verano que esconde algo tenebroso entre sus paredes.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-05 07:48:03</dateadded>
+  <title>They/Them</title>
+  <originaltitle>They/Them</originaltitle>
+  <actor>
+    <name>Theo Germaine</name>
+    <role>Jordan</role>
+    <type>Actor</type>
+    <tmdbid>2377344</tmdbid>
+    <imdbid>nm7466966</imdbid>
+    <tvdbid>7887964</tvdbid>
+  </actor>
+  <actor>
+    <name>Kevin Bacon</name>
+    <role>Owen Whistler</role>
+    <type>Actor</type>
+    <tmdbid>4724</tmdbid>
+    <imdbid>nm0000102</imdbid>
+    <tvdbid>254182</tvdbid>
+  </actor>
+  <actor>
+    <name>Quei Tann</name>
+    <role>Alexandra</role>
+    <type>Actor</type>
+    <tmdbid>2035185</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Crute</name>
+    <role>Toby</role>
+    <type>Actor</type>
+    <tmdbid>2048370</tmdbid>
+  </actor>
+  <actor>
+    <name>Monique Kim</name>
+    <role>Veronica</role>
+    <type>Actor</type>
+    <tmdbid>2296600</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Lore</name>
+    <role>Kim</role>
+    <type>Actor</type>
+    <tmdbid>1441215</tmdbid>
+    <tvdbid>647621</tvdbid>
+  </actor>
+  <actor>
+    <name>Cooper Koch</name>
+    <role>Stu</role>
+    <type>Actor</type>
+    <tmdbid>2402029</tmdbid>
+  </actor>
+  <actor>
+    <name>Darwin del Fabo</name>
+    <role>Gabriel</role>
+    <type>Actor</type>
+    <tmdbid>3255405</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayley Griffith</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>1474146</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Chlumsky</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>34612</tmdbid>
+    <imdbid>nm0001043</imdbid>
+    <tvdbid>331153</tvdbid>
+  </actor>
+  <actor>
+    <name>Carrie Preston</name>
+    <role>Cora Whistler</role>
+    <type>Actor</type>
+    <tmdbid>7465</tmdbid>
+    <imdbid>nm0696387</imdbid>
+  </actor>
+  <actor>
+    <name>Boone Platt</name>
+    <role>Zane</role>
+    <type>Actor</type>
+    <tmdbid>2024835</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Ashworth</name>
+    <role>Balthazar</role>
+    <type>Actor</type>
+    <tmdbid>1301772</tmdbid>
+    <imdbid>nm0039327</imdbid>
+  </actor>
+  <actor>
+    <name>Noëlle Cameron</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>3359299</tmdbid>
+  </actor>
+  <director tmdbid="932">John Logan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HtQk6sANmKs</trailer>
+  <rating>3.9</rating>
+  <year>2022</year>
+  <sorttitle>They/Them</sorttitle>
+  <imdbid>tt14502344</imdbid>
+  <tmdbid>816977</tmdbid>
+  <premiered>2022-07-24</premiered>
+  <releasedate>2022-07-24</releasedate>
+  <criticrating>33</criticrating>
+  <runtime>104</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Blumhouse Productions</studio>
+  <set tmdbcolid="1070035">
+    <name>他們在島嶼寫作（系列）</name>
+  </set>
+  <uniqueid type="imdb">tt14502344</uniqueid>
+  <uniqueid type="tmdb">816977</uniqueid>
+  <id>tt14502344</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1070087</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6246</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

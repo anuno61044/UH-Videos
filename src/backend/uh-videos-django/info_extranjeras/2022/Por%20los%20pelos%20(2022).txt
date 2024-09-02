@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Quedarse calvo sigue siendo un trauma para muchos hombres. Juanjo, Sebas y Rayco son tres ejemplos, entre millones, de cómo la alopecia, conlleva también la caída de la autoestima. Pero si bien la alopecia no diferencia ni entiende de estratos sociales, su solución, sí. Y es que, lo que hasta ahora era prohibitivo para muchos, Turquía lo ha hecho accesible para todos con su turismo capilar low cost, convirtiéndose así en el nuevo maná de los calvos. Juanjo, Sebas y Rayco se embarcarán en una aventura en la que descubrirán que su problema no está tanto encima de su cabeza, si no dentro.]]></plot>
+  <outline><![CDATA[Una historia de autoestima]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-24 11:17:14</dateadded>
+  <title>Por los pelos</title>
+  <originaltitle>Por los pelos</originaltitle>
+  <actor>
+    <name>Antonio Pagudo</name>
+    <role>Juanjo</role>
+    <type>Actor</type>
+    <tmdbid>1075029</tmdbid>
+    <imdbid>nm1813393</imdbid>
+    <tvdbid>594871</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Librado "Nene"</name>
+    <role>Sebas</role>
+    <type>Actor</type>
+    <tmdbid>2143181</tmdbid>
+    <imdbid>nm4729886</imdbid>
+    <tvdbid>7971276</tvdbid>
+  </actor>
+  <actor>
+    <name>Tomy Aguilera</name>
+    <role>Tayco</role>
+    <type>Actor</type>
+    <tmdbid>2649281</tmdbid>
+    <tvdbid>8043131</tvdbid>
+  </actor>
+  <actor>
+    <name>Eva Ugarte</name>
+    <role>Inma</role>
+    <type>Actor</type>
+    <tmdbid>1155088</tmdbid>
+    <imdbid>nm3993669</imdbid>
+  </actor>
+  <actor>
+    <name>Amaia Salamanca</name>
+    <role>Sofía</role>
+    <type>Actor</type>
+    <tmdbid>125854</tmdbid>
+    <imdbid>nm2319146</imdbid>
+    <tvdbid>522023</tvdbid>
+  </actor>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Mateo</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>María Hervás</name>
+    <role>Umay</role>
+    <type>Actor</type>
+    <tmdbid>1334527</tmdbid>
+    <imdbid>nm2525166</imdbid>
+    <tvdbid>469629</tvdbid>
+  </actor>
+  <actor>
+    <name>Alba Planas</name>
+    <role>Aitana</role>
+    <type>Actor</type>
+    <tmdbid>2527413</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Quirós</name>
+    <role>Daniela</role>
+    <type>Actor</type>
+    <tmdbid>2475545</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús Vidal</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>2138505</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Ermito</name>
+    <role>Lucca</role>
+    <type>Actor</type>
+    <tmdbid>2504043</tmdbid>
+    <tvdbid>8095052</tvdbid>
+  </actor>
+  <director tmdbid="79002">Nacho G. Velilla</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oWdVxSVCtoA</trailer>
+  <rating>4.5</rating>
+  <year>2022</year>
+  <sorttitle>Por los pelos</sorttitle>
+  <imdbid>tt13241688</imdbid>
+  <tmdbid>826218</tmdbid>
+  <premiered>2022-08-12</premiered>
+  <releasedate>2022-08-12</releasedate>
+  <runtime>107</runtime>
+  <tagline>Una historia de autoestima</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Aparte Producciones</studio>
+  <studio>Atresmedia</studio>
+  <studio>Buendía Estudios</studio>
+  <studio>Felicitas Media</studio>
+  <studio>Microinjerto Producciones</studio>
+  <uniqueid type="imdb">tt13241688</uniqueid>
+  <uniqueid type="tmdb">826218</uniqueid>
+  <id>tt13241688</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1094664</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.999687</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6393</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64228</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

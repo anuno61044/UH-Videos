@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una versión musical de la historia clásica de Charles Dickens, 'A Christmas Carol', de un misántropo avaro que es llevado a un viaje mágico. Cada víspera de Navidad, el fantasma del espíritu de la Navidad selecciona un alma oscura para ser reformada por una visita de tres espíritus. Pero esta temporada, ha elegido al Scrooge equivocado... Por primera vez, el clásico clásico "A Christmas Carol" se cuenta desde la perspectiva de los fantasmas en este musical sobre el cuento de Dickens.]]></plot>
+  <outline><![CDATA[Comience sus vacaciones con una nota alta.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-18 10:10:56</dateadded>
+  <title>El espíritu de la Navidad</title>
+  <originaltitle>Spirited</originaltitle>
+  <actor>
+    <name>Will Ferrell</name>
+    <role>Ghost of Christmas Present</role>
+    <type>Actor</type>
+    <tmdbid>23659</tmdbid>
+    <imdbid>nm0002071</imdbid>
+    <tvdbid>289998</tvdbid>
+  </actor>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Clint Briggs</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Page</name>
+    <role>Marley</role>
+    <type>Actor</type>
+    <tmdbid>1436106</tmdbid>
+  </actor>
+  <actor>
+    <name>Octavia Spencer</name>
+    <role>Kimberly Parks</role>
+    <type>Actor</type>
+    <tmdbid>6944</tmdbid>
+    <imdbid>nm0818055</imdbid>
+    <tvdbid>248090</tvdbid>
+  </actor>
+  <actor>
+    <name>Joe Tippett</name>
+    <role>Owen</role>
+    <type>Actor</type>
+    <tmdbid>1664022</tmdbid>
+    <imdbid>nm3117884</imdbid>
+    <tvdbid>1005403</tvdbid>
+  </actor>
+  <actor>
+    <name>Marlow Barkley</name>
+    <role>Wren / Young Carrie</role>
+    <type>Actor</type>
+    <tmdbid>2103874</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunita Mani</name>
+    <role>Ghost of Christmas Past</role>
+    <type>Actor</type>
+    <tmdbid>1375002</tmdbid>
+    <imdbid>nm4576371</imdbid>
+  </actor>
+  <actor>
+    <name>Tracy Morgan</name>
+    <role>Ghost of Christmas Yet to Come (voice)</role>
+    <type>Actor</type>
+    <tmdbid>56903</tmdbid>
+    <imdbid>nm0605079</imdbid>
+  </actor>
+  <actor>
+    <name>Loren G. Woods</name>
+    <role>Ghost of Christmas Yet to Come</role>
+    <type>Actor</type>
+    <tmdbid>3792337</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Anders</name>
+    <role>Carrie</role>
+    <type>Actor</type>
+    <tmdbid>1216355</tmdbid>
+    <imdbid>nm1627969</imdbid>
+  </actor>
+  <actor>
+    <name>Aimee Carrero</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>1224238</tmdbid>
+    <imdbid>nm2948025</imdbid>
+    <tvdbid>466959</tvdbid>
+  </actor>
+  <actor>
+    <name>Maximilian Lee Piazza</name>
+    <role>Josh</role>
+    <type>Actor</type>
+    <tmdbid>3218113</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico Tirozzi</name>
+    <role>Clint Briggs (Age 8)</role>
+    <type>Actor</type>
+    <tmdbid>3166961</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Algilani</name>
+    <role>Wren (Age 8)</role>
+    <type>Actor</type>
+    <tmdbid>3797157</tmdbid>
+  </actor>
+  <actor>
+    <name>Jen Tullock</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>1569165</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Byrne</name>
+    <role>Karen Blansky</role>
+    <type>Actor</type>
+    <tmdbid>9827</tmdbid>
+    <imdbid>nm0126284</imdbid>
+    <tvdbid>311189</tvdbid>
+  </actor>
+  <actor>
+    <name>Anne Reardon</name>
+    <role>Office worker</role>
+    <type>Actor</type>
+    <tmdbid>2021445</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Concha</name>
+    <role>Fish and Chips Guy</role>
+    <type>Actor</type>
+    <tmdbid>1759621</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Grupper</name>
+    <role>Mr. Bryan</role>
+    <type>Actor</type>
+    <tmdbid>159826</tmdbid>
+    <imdbid>nm1029834</imdbid>
+  </actor>
+  <actor>
+    <name>P. J. Byrne</name>
+    <role>Mr. Alteli</role>
+    <type>Actor</type>
+    <tmdbid>1211946</tmdbid>
+    <imdbid>nm0126260</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Fallon</name>
+    <role>Jimmy Fallon</role>
+    <type>Actor</type>
+    <tmdbid>11669</tmdbid>
+    <imdbid>nm0266422</imdbid>
+  </actor>
+  <actor>
+    <name>Judi Dench</name>
+    <role>Dame Judi Dench</role>
+    <type>Actor</type>
+    <tmdbid>5309</tmdbid>
+    <imdbid>nm0001132</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Brownlee</name>
+    <role>Briggs Employee</role>
+    <type>Actor</type>
+    <tmdbid>2920916</tmdbid>
+  </actor>
+  <actor>
+    <name>Woody Fu</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>3303063</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Bradbury</name>
+    <role>Mourner</role>
+    <type>Actor</type>
+    <tmdbid>3303064</tmdbid>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Harlan</role>
+    <type>Actor</type>
+    <tmdbid>1745909</tmdbid>
+    <imdbid>nm3608877</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Sullivan</name>
+    <role>Margo</role>
+    <type>Actor</type>
+    <tmdbid>1186659</tmdbid>
+    <imdbid>nm4591498</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Gagliastro</name>
+    <role>Walter the Janitor</role>
+    <type>Actor</type>
+    <tmdbid>1808040</tmdbid>
+    <imdbid>nm2793370</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Arnold</name>
+    <role>Senator</role>
+    <type>Actor</type>
+    <tmdbid>1549681</tmdbid>
+  </actor>
+  <actor>
+    <name>Maven Morgan</name>
+    <role>Present's Kid</role>
+    <type>Actor</type>
+    <tmdbid>2639875</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Daniel Pollina</name>
+    <role>Present's Kid</role>
+    <type>Actor</type>
+    <tmdbid>3797150</tmdbid>
+  </actor>
+  <actor>
+    <name>Maddox Dalton</name>
+    <role>Baby</role>
+    <type>Actor</type>
+    <tmdbid>3303065</tmdbid>
+  </actor>
+  <actor>
+    <name>Daelan Dalton</name>
+    <role>Baby</role>
+    <type>Actor</type>
+    <tmdbid>3303066</tmdbid>
+  </actor>
+  <actor>
+    <name>Candi Marie</name>
+    <role>Zoe</role>
+    <type>Actor</type>
+    <tmdbid>3797135</tmdbid>
+  </actor>
+  <actor>
+    <name>Arasha Lalani</name>
+    <role>Co-Worker</role>
+    <type>Actor</type>
+    <tmdbid>3303067</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Cardenes</name>
+    <role>Neighbor Dad</role>
+    <type>Actor</type>
+    <tmdbid>3792344</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Bernstine</name>
+    <role>Neighbor Mom</role>
+    <type>Actor</type>
+    <tmdbid>3792345</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlene Anders</name>
+    <role>Neighbor Girl</role>
+    <type>Actor</type>
+    <tmdbid>3792346</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayme Rae Dailey</name>
+    <role>Ghost Security</role>
+    <type>Actor</type>
+    <tmdbid>1397789</tmdbid>
+    <imdbid>nm3928749</imdbid>
+  </actor>
+  <actor>
+    <name>Darrion Gallegos</name>
+    <role>Gabe</role>
+    <type>Actor</type>
+    <tmdbid>2915045</tmdbid>
+  </actor>
+  <actor>
+    <name>Chau Long</name>
+    <role>Support Ghost</role>
+    <type>Actor</type>
+    <tmdbid>2649674</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Lee</name>
+    <role>Josh's Father</role>
+    <type>Actor</type>
+    <tmdbid>3797144</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Swartz</name>
+    <role>Support Ghost</role>
+    <type>Actor</type>
+    <tmdbid>1049755</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Kobs</name>
+    <role>Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>2193914</tmdbid>
+  </actor>
+  <actor>
+    <name>Ai Shimatsu</name>
+    <role>Communications Ghost</role>
+    <type>Actor</type>
+    <tmdbid>3263450</tmdbid>
+  </actor>
+  <actor>
+    <name>Kameron Saunders</name>
+    <role>Headset Ghost</role>
+    <type>Actor</type>
+    <tmdbid>3797156</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Maddox Bergman</name>
+    <role>Oliver Twist</role>
+    <type>Actor</type>
+    <tmdbid>2111969</tmdbid>
+    <imdbid>nm7283759</imdbid>
+  </actor>
+  <actor>
+    <name>Bianca Brewton</name>
+    <role>Ghost Research Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1290631</tmdbid>
+    <imdbid>nm2949399</imdbid>
+  </actor>
+  <actor>
+    <name>Addison Sharp</name>
+    <role>Briggs Media Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>3797186</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaby Diaz</name>
+    <role>Ghost</role>
+    <type>Actor</type>
+    <tmdbid>3318127</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcos Valles</name>
+    <role>Nora's Husband</role>
+    <type>Actor</type>
+    <tmdbid>2104984</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Craig West</name>
+    <role>Steve (Tree Grower)</role>
+    <type>Actor</type>
+    <tmdbid>956289</tmdbid>
+  </actor>
+  <actor>
+    <name>Khadijah Wilson</name>
+    <role>1800's Proper Lady #1</role>
+    <type>Actor</type>
+    <tmdbid>2291286</tmdbid>
+  </actor>
+  <actor>
+    <name>Martha Nichols</name>
+    <role>1800s Proper Lady #2</role>
+    <type>Actor</type>
+    <tmdbid>557787</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Weller</name>
+    <role>1800's Street Vendor</role>
+    <type>Actor</type>
+    <tmdbid>3797134</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Dolley</name>
+    <role>1800s' London Boy</role>
+    <type>Actor</type>
+    <tmdbid>3797133</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Hudson</name>
+    <role>1800's Bobby Cop</role>
+    <type>Actor</type>
+    <tmdbid>1290608</tmdbid>
+    <imdbid>nm3432412</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Holley</name>
+    <role>1800's Carriage Driver</role>
+    <type>Actor</type>
+    <tmdbid>3797160</tmdbid>
+  </actor>
+  <actor>
+    <name>Sky Vaux Fuller</name>
+    <role>1800's Ragamuffin Girl</role>
+    <type>Actor</type>
+    <tmdbid>3797161</tmdbid>
+  </actor>
+  <actor>
+    <name>Donyelle Denise Jones</name>
+    <role>1800's Woman in Line</role>
+    <type>Actor</type>
+    <tmdbid>1680764</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Silverberg</name>
+    <role>1800's Priest</role>
+    <type>Actor</type>
+    <tmdbid>29207</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Yasutake</name>
+    <role>1800's Bride</role>
+    <type>Actor</type>
+    <tmdbid>3797164</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Thomas</name>
+    <role>1800's Groom / Elf Partygoer</role>
+    <type>Actor</type>
+    <tmdbid>3650544</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtney Allen</name>
+    <role>1800's Scullery Maid</role>
+    <type>Actor</type>
+    <tmdbid>3797179</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Myrick</name>
+    <role>1800's Pauper</role>
+    <type>Actor</type>
+    <tmdbid>1600205</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Cleghorn</name>
+    <role>1800's Woman in Line</role>
+    <type>Actor</type>
+    <tmdbid>1848416</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Glur</name>
+    <role>1800's Pub Woman</role>
+    <type>Actor</type>
+    <tmdbid>1290637</tmdbid>
+    <imdbid>nm3415538</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Niemi</name>
+    <role>1800's Pub Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3797184</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Landon Hays</name>
+    <role>1800's Showman</role>
+    <type>Actor</type>
+    <tmdbid>2244413</tmdbid>
+  </actor>
+  <actor>
+    <name>Heather Sullivan</name>
+    <role>1800's Mother with Pram</role>
+    <type>Actor</type>
+    <tmdbid>3797201</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaitlynn Edgar</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>3650538</tmdbid>
+  </actor>
+  <actor>
+    <name>Randi Freitas</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>3797187</tmdbid>
+  </actor>
+  <actor>
+    <name>Jabu Graybeal</name>
+    <role>Randy</role>
+    <type>Actor</type>
+    <tmdbid>3797188</tmdbid>
+  </actor>
+  <actor>
+    <name>Elijah Carvalho</name>
+    <role>Nora's Kid</role>
+    <type>Actor</type>
+    <tmdbid>3797191</tmdbid>
+  </actor>
+  <actor>
+    <name>Emelia Camille Harewood</name>
+    <role>Nora's Kid</role>
+    <type>Actor</type>
+    <tmdbid>3797192</tmdbid>
+  </actor>
+  <actor>
+    <name>Amos Lee Hamrick III</name>
+    <role>Present's Fantasy Kid #1</role>
+    <type>Actor</type>
+    <tmdbid>3797193</tmdbid>
+  </actor>
+  <actor>
+    <name>Josiah Amos Lee Hamrick</name>
+    <role>Present's Fantasy Kid #2</role>
+    <type>Actor</type>
+    <tmdbid>3797194</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauro DePasquale</name>
+    <role>Jazz Trio</role>
+    <type>Actor</type>
+    <tmdbid>3797195</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Conley</name>
+    <role>Jazz Trio</role>
+    <type>Actor</type>
+    <tmdbid>3797196</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Madison</name>
+    <role>Jazz Trio</role>
+    <type>Actor</type>
+    <tmdbid>3797197</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas P. Gillis</name>
+    <role>Old Clint</role>
+    <type>Actor</type>
+    <tmdbid>3797198</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander M. Akerblom</name>
+    <role>1800's Aristocrat</role>
+    <type>Actor</type>
+    <tmdbid>3797203</tmdbid>
+  </actor>
+  <actor>
+    <name>James Grillo</name>
+    <role>1800's Pianst</role>
+    <type>Actor</type>
+    <tmdbid>3797205</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ryan Palmer</name>
+    <role>Clint Double</role>
+    <type>Actor</type>
+    <tmdbid>3745156</tmdbid>
+  </actor>
+  <actor>
+    <name>Maraide Green</name>
+    <role>Coffee Ghost</role>
+    <type>Actor</type>
+    <tmdbid>3797207</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Martin</name>
+    <role>NY Bystander</role>
+    <type>Actor</type>
+    <tmdbid>3797210</tmdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Meng</name>
+    <role>Owen's Keyboardist</role>
+    <type>Actor</type>
+    <tmdbid>3797211</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Eckhardt</name>
+    <role>Owen's Bassist</role>
+    <type>Actor</type>
+    <tmdbid>3797212</tmdbid>
+  </actor>
+  <actor>
+    <name>Maud Arnold</name>
+    <role>Ghost Executive</role>
+    <type>Actor</type>
+    <tmdbid>1549679</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Michael Oak Williams</name>
+    <role>Samuel Michael Oak Williams</role>
+    <type>Actor</type>
+    <tmdbid>3797213</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Devine</name>
+    <role>Clint Double</role>
+    <type>Actor</type>
+    <tmdbid>3158223</tmdbid>
+  </actor>
+  <actor>
+    <name>Alise Morales</name>
+    <role>Recruit</role>
+    <type>Actor</type>
+    <tmdbid>3528274</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheyenne Perez</name>
+    <role>Recruit</role>
+    <type>Actor</type>
+    <tmdbid>3592090</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Brotter</name>
+    <role>Recruit</role>
+    <type>Actor</type>
+    <tmdbid>2848485</tmdbid>
+  </actor>
+  <actor>
+    <name>Nate Jackson</name>
+    <role>Recruit</role>
+    <type>Actor</type>
+    <tmdbid>2981075</tmdbid>
+  </actor>
+  <director tmdbid="74619" imdbid="nm1890845">Sean Anders</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tnAJntI3NNs</trailer>
+  <rating>6.6</rating>
+  <year>2022</year>
+  <sorttitle>espiritu de la Navidad</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10999120</imdbid>
+  <tmdbid>632856</tmdbid>
+  <premiered>2022-11-10</premiered>
+  <releasedate>2022-11-10</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>127</runtime>
+  <tagline>Comience sus vacaciones con una nota alta.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Apple</studio>
+  <studio>Gloria Sanchez Productions</studio>
+  <studio>Maximum Effort</studio>
+  <studio>Two Grown Men</studio>
+  <uniqueid type="imdb">tt10999120</uniqueid>
+  <uniqueid type="tmdb">632856</uniqueid>
+  <id>tt10999120</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>878255</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7622</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

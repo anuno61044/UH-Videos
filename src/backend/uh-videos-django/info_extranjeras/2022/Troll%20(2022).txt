@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En lo profundo de la montaña Dovre, algo gigantesco se despierta después de mil años de cautiverio. La criatura destruye todo a su paso y se acerca rápidamente a Oslo.]]></plot>
+  <outline><![CDATA[Las montañas se moverán]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-01 10:15:31</dateadded>
+  <title>Trol</title>
+  <originaltitle>Troll</originaltitle>
+  <actor>
+    <name>Ine Marie Wilmann</name>
+    <role>Nora Tidemann</role>
+    <type>Actor</type>
+    <tmdbid>1394758</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim S. Falck-Jørgensen</name>
+    <role>Andreas Isaksen</role>
+    <type>Actor</type>
+    <tmdbid>225810</tmdbid>
+  </actor>
+  <actor>
+    <name>Mads Sjøgård Pettersen</name>
+    <role>Kristoffer</role>
+    <type>Actor</type>
+    <tmdbid>105563</tmdbid>
+  </actor>
+  <actor>
+    <name>Gard B. Eidsvold</name>
+    <role>Tobias Tidemann</role>
+    <type>Actor</type>
+    <tmdbid>107542</tmdbid>
+  </actor>
+  <actor>
+    <name>Anneke von der Lippe</name>
+    <role>Statsminister Berit Moberg</role>
+    <type>Actor</type>
+    <tmdbid>67004</tmdbid>
+    <imdbid>nm0902161</imdbid>
+  </actor>
+  <actor>
+    <name>Fridtjov Såheim</name>
+    <role>Forsvarsminister Frederick Markussen</role>
+    <type>Actor</type>
+    <tmdbid>73548</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Storhøi</name>
+    <role>Forsvarssjef General Sverre Lunde</role>
+    <type>Actor</type>
+    <tmdbid>19899</tmdbid>
+  </actor>
+  <actor>
+    <name>Karoline Viktoria Sletteng Garvang</name>
+    <role>Sigrid Hodne</role>
+    <type>Actor</type>
+    <tmdbid>3783386</tmdbid>
+  </actor>
+  <actor>
+    <name>Yusuf Toosh Ibra</name>
+    <role>Amir</role>
+    <type>Actor</type>
+    <tmdbid>3800183</tmdbid>
+  </actor>
+  <actor>
+    <name>Bjarne Hjelde</name>
+    <role>Hoffsjef Rikard Sinding</role>
+    <type>Actor</type>
+    <tmdbid>1815906</tmdbid>
+  </actor>
+  <actor>
+    <name>Ameli Olving Sælevik</name>
+    <role>Unge Nora Tidemann</role>
+    <type>Actor</type>
+    <tmdbid>3783387</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Ketil Johnsen</name>
+    <role>Professor Møller</role>
+    <type>Actor</type>
+    <tmdbid>109934</tmdbid>
+  </actor>
+  <actor>
+    <name>Duc Paul Mai-The</name>
+    <role>Professor Wangler</role>
+    <type>Actor</type>
+    <tmdbid>1926941</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Vollan</name>
+    <role>Oddrun Gundersen</role>
+    <type>Actor</type>
+    <tmdbid>225839</tmdbid>
+  </actor>
+  <actor>
+    <name>Trond Magnum</name>
+    <role>Lars Gundersen</role>
+    <type>Actor</type>
+    <tmdbid>2941500</tmdbid>
+  </actor>
+  <actor>
+    <name>Pål Richard Lunderby</name>
+    <role>Fisker</role>
+    <type>Actor</type>
+    <tmdbid>3581448</tmdbid>
+  </actor>
+  <actor>
+    <name>Pål Anders Nordvi</name>
+    <role>Specialist</role>
+    <type>Actor</type>
+    <tmdbid>3441490</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Vorenholt</name>
+    <role>OPS Officer</role>
+    <type>Actor</type>
+    <tmdbid>1899745</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Mikal Skår</name>
+    <role>Helicopter Soldier Captain</role>
+    <type>Actor</type>
+    <tmdbid>3689838</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Sinclair</name>
+    <role>Specialist</role>
+    <type>Actor</type>
+    <tmdbid>2284311</tmdbid>
+  </actor>
+  <actor>
+    <name>Gard Fartein Løkke Goli</name>
+    <role>Gardist</role>
+    <type>Actor</type>
+    <tmdbid>1971741</tmdbid>
+  </actor>
+  <actor>
+    <name>Kohinoor Nordberg</name>
+    <role>Paleontolog</role>
+    <type>Actor</type>
+    <tmdbid>3783399</tmdbid>
+  </actor>
+  <actor>
+    <name>Axel Barø Aasen</name>
+    <role>Far på Hunderfossen</role>
+    <type>Actor</type>
+    <tmdbid>2481908</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyrre Eikås Ottersen</name>
+    <role>Byggeleder</role>
+    <type>Actor</type>
+    <tmdbid>3783400</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Heide</name>
+    <role>Gutt på Hunderfossen</role>
+    <type>Actor</type>
+    <tmdbid>2355939</tmdbid>
+  </actor>
+  <actor>
+    <name>Stine Neerland Hartviksen</name>
+    <role>Støttende palentolog</role>
+    <type>Actor</type>
+    <tmdbid>3783402</tmdbid>
+  </actor>
+  <actor>
+    <name>Paal Herman Ims</name>
+    <role>Kristen soldat</role>
+    <type>Actor</type>
+    <tmdbid>2931022</tmdbid>
+  </actor>
+  <actor>
+    <name>Kasper Antonsen</name>
+    <role>OPS-assistent</role>
+    <type>Actor</type>
+    <tmdbid>2544813</tmdbid>
+  </actor>
+  <actor>
+    <name>Espen Aukan</name>
+    <role>Andpusten paleontolog</role>
+    <type>Actor</type>
+    <tmdbid>1910590</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Kirby</name>
+    <role>Utegående reporter</role>
+    <type>Actor</type>
+    <tmdbid>2095828</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Lee Dubois</name>
+    <role>Nyhetsanker #1</role>
+    <type>Actor</type>
+    <tmdbid>3809766</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Dubois</name>
+    <role>Nyhetsanker #2</role>
+    <type>Actor</type>
+    <tmdbid>3458686</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiaki Nishijima</name>
+    <role>Nyhetsanker #3</role>
+    <type>Actor</type>
+    <tmdbid>3809767</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvild Bryn</name>
+    <role>Nyhetsanker #4</role>
+    <type>Actor</type>
+    <tmdbid>3142188</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Nilssen</name>
+    <role>Nyhetsanker #5</role>
+    <type>Actor</type>
+    <tmdbid>3809768</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolai Robinot Bodd</name>
+    <role>Nyhetsanker #6</role>
+    <type>Actor</type>
+    <tmdbid>3809769</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Gloria Pérez</name>
+    <role>Nyhetsanker #7</role>
+    <type>Actor</type>
+    <tmdbid>3809770</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Lauren Taylor</name>
+    <role>Nyhetsanker #8</role>
+    <type>Actor</type>
+    <tmdbid>3809771</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Howard</name>
+    <role>Professor</role>
+    <type>Actor</type>
+    <tmdbid>3809772</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Askeland</name>
+    <role>Konspirasjonsdame</role>
+    <type>Actor</type>
+    <tmdbid>2544795</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Campbell</name>
+    <role>Dr. David Secord</role>
+    <type>Actor</type>
+    <tmdbid>20215</tmdbid>
+  </actor>
+  <director tmdbid="87877">Roar Uthaug</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G64RuGxp8WE</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Trol</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt11116912</imdbid>
+  <tmdbid>736526</tmdbid>
+  <premiered>2022-12-01</premiered>
+  <releasedate>2022-12-01</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>104</runtime>
+  <tagline>Las montañas se moverán</tagline>
+  <country>Norway</country>
+  <genre>Fantasía</genre>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <studio>Motion Blur</studio>
+  <set tmdbcolid="1180834">
+    <name>Troll Collection</name>
+  </set>
+  <uniqueid type="imdb">tt11116912</uniqueid>
+  <uniqueid type="tmdb">736526</uniqueid>
+  <id>tt11116912</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1076531</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6224</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>baq</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A journey into uncharted and forbidden territory through three tales tangled in space and time.]]></plot>
+  <outline><![CDATA[Todas las historias terminan aquí.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-12 09:14:35</dateadded>
+  <title>Books of Blood</title>
+  <originaltitle>Books of Blood</originaltitle>
+  <actor>
+    <name>Britt Robertson</name>
+    <type>Actor</type>
+    <tmdbid>52018</tmdbid>
+    <imdbid>nm1429380</imdbid>
+    <tvdbid>346651</tvdbid>
+  </actor>
+  <actor>
+    <name>Freda Foh Shen</name>
+    <type>Actor</type>
+    <tmdbid>51754</tmdbid>
+    <imdbid>nm0791467</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Campbell</name>
+    <type>Actor</type>
+    <tmdbid>14902</tmdbid>
+    <imdbid>nm0132757</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Friel</name>
+    <type>Actor</type>
+    <tmdbid>58016</tmdbid>
+    <imdbid>nm0295484</imdbid>
+    <tvdbid>353828</tvdbid>
+  </actor>
+  <director tmdbid="2386" imdbid="nm0103804">Brannon Braga</director>
+  <writer>Adam Simon (teleplay by)</writer>
+  <writer>Brannon Braga (teleplay by)</writer>
+  <writer>Clive Barker (from the story 'The Book of Blood' by)</writer>
+  <credits>Adam Simon (teleplay by)</credits>
+  <credits>Brannon Braga (teleplay by)</credits>
+  <credits>Clive Barker (from the story 'The Book of Blood' by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vj3sRzcvCJc</trailer>
+  <rating>5.6</rating>
+  <year>2020</year>
+  <sorttitle>Books of Blood</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt11242218</imdbid>
+  <tmdbid>715123</tmdbid>
+  <premiered>2020-10-07</premiered>
+  <releasedate>2020-10-07</releasedate>
+  <criticrating>23</criticrating>
+  <runtime>107</runtime>
+  <tagline>Todas las historias terminan aquí.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <studio>Fuzzy Door Productions</studio>
+  <studio>Touchstone Television</studio>
+  <uniqueid type="imdb">tt11242218</uniqueid>
+  <uniqueid type="tmdb">715123</uniqueid>
+  <id>tt11242218</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1893729</bitrate>
+        <width>730</width>
+        <height>366</height>
+        <aspect>365:183</aspect>
+        <aspectratio>365:183</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6447</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

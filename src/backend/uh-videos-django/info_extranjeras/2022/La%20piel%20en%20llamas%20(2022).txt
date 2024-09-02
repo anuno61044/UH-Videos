@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Frederick Salomon, un fotoperiodista de guerra que se hizo mundialmente famoso por capturar la imagen de una niña volando por los aires como consecuencia de una explosión, regresa al país donde tomó la célebre fotografía veinte años antes. Regresó para recibir un premio, ya que muchos lo consideran una pieza esencial en los recientes esfuerzos de paz en el atribulado país. Pero una periodista local llamada Hanna no está de acuerdo y quiere matarlo por una razón que solo Salomon conoce.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-26 12:20:24</dateadded>
+  <title>La piel en llamas</title>
+  <originaltitle>La piel en llamas</originaltitle>
+  <actor>
+    <name>Óscar Jaenada</name>
+    <role>Frederick Salomon</role>
+    <type>Actor</type>
+    <tmdbid>59129</tmdbid>
+    <imdbid>nm1049982</imdbid>
+    <tvdbid>7888655</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Tejero</name>
+    <type>Actor</type>
+    <tmdbid>43321</tmdbid>
+    <imdbid>nm1234572</imdbid>
+    <tvdbid>534146</tvdbid>
+  </actor>
+  <actor>
+    <name>Ella Kweku</name>
+    <role>Hanna</role>
+    <type>Actor</type>
+    <tmdbid>1205497</tmdbid>
+    <imdbid>nm2435667</imdbid>
+  </actor>
+  <actor>
+    <name>Lidia Nené</name>
+    <type>Actor</type>
+    <tmdbid>2854643</tmdbid>
+  </actor>
+  <director tmdbid="1264790">David Martín Porras</director>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>piel en llamas</sorttitle>
+  <imdbid>tt13518808</imdbid>
+  <tmdbid>940215</tmdbid>
+  <premiered>2022-03-27</premiered>
+  <releasedate>2022-03-27</releasedate>
+  <runtime>84</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>LA Panda</studio>
+  <studio>El Álamo Producciones Cinematográficas S.L.</studio>
+  <uniqueid type="imdb">tt13518808</uniqueid>
+  <uniqueid type="tmdb">940215</uniqueid>
+  <id>tt13518808</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1157761</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5041</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>129560</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

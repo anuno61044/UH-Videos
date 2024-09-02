@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven monja, la hermana Ann (Jacqueline Byers), se prepara para un exorcismo y se enfrenta a una fuerza demoniaca que está misteriosamente relacionada con su pasado.]]></plot>
+  <outline><![CDATA[Quiere entrar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-12 09:36:35</dateadded>
+  <title>Reza por el diablo</title>
+  <originaltitle>Prey for the Devil</originaltitle>
+  <actor>
+    <name>Jacqueline Byers</name>
+    <role>Sister Ann</role>
+    <type>Actor</type>
+    <tmdbid>1400939</tmdbid>
+    <imdbid>nm1859932</imdbid>
+    <tvdbid>509245</tvdbid>
+  </actor>
+  <actor>
+    <name>Colin Salmon</name>
+    <role>Father Quinn</role>
+    <type>Actor</type>
+    <tmdbid>5414</tmdbid>
+    <imdbid>nm0758760</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Navarro</name>
+    <role>Father Dante</role>
+    <type>Actor</type>
+    <tmdbid>1237405</tmdbid>
+    <imdbid>nm2111303</imdbid>
+    <tvdbid>317523</tvdbid>
+  </actor>
+  <actor>
+    <name>Lisa Palfrey</name>
+    <role>Sister Euphemia</role>
+    <type>Actor</type>
+    <tmdbid>111658</tmdbid>
+    <imdbid>nm0657648</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Ralph</name>
+    <role>Father Raymond</role>
+    <type>Actor</type>
+    <tmdbid>2693053</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Cross</name>
+    <role>Cardinal Matthews</role>
+    <type>Actor</type>
+    <tmdbid>29068</tmdbid>
+    <imdbid>nm0002027</imdbid>
+  </actor>
+  <actor>
+    <name>Virginia Madsen</name>
+    <role>Dr. Peters</role>
+    <type>Actor</type>
+    <tmdbid>12519</tmdbid>
+    <imdbid>nm0000515</imdbid>
+    <tvdbid>271147</tvdbid>
+  </actor>
+  <actor>
+    <name>Tom Forbes</name>
+    <role>Matt</role>
+    <type>Actor</type>
+    <tmdbid>1808578</tmdbid>
+  </actor>
+  <actor>
+    <name>Velizar Binev</name>
+    <role>Father Bernhard</role>
+    <type>Actor</type>
+    <tmdbid>22018</tmdbid>
+    <imdbid>nm0082870</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Davis</name>
+    <role>Emcee At Pub</role>
+    <type>Actor</type>
+    <tmdbid>1297039</tmdbid>
+  </actor>
+  <actor>
+    <name>Debora Zhecheva</name>
+    <role>Young Ann</role>
+    <type>Actor</type>
+    <tmdbid>3069741</tmdbid>
+  </actor>
+  <actor>
+    <name>Cora Kirk</name>
+    <role>Emilia</role>
+    <type>Actor</type>
+    <tmdbid>3069742</tmdbid>
+  </actor>
+  <actor>
+    <name>Posy Taylor</name>
+    <role>Natalie</role>
+    <type>Actor</type>
+    <tmdbid>3069743</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Gibson</name>
+    <role>Sister Kylie</role>
+    <type>Actor</type>
+    <tmdbid>3069744</tmdbid>
+  </actor>
+  <director tmdbid="120245" imdbid="nm0821844">Daniel Stamm</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-zRcgh2G0jE</trailer>
+  <rating>5.3</rating>
+  <year>2022</year>
+  <sorttitle>Reza por el diablo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt9271672</imdbid>
+  <tmdbid>676547</tmdbid>
+  <premiered>2022-10-23</premiered>
+  <releasedate>2022-10-23</releasedate>
+  <criticrating>17</criticrating>
+  <runtime>93</runtime>
+  <tagline>Quiere entrar.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Lionsgate</studio>
+  <studio>Gold Circle Films</studio>
+  <studio>Confluence Productions</studio>
+  <uniqueid type="tmdb">676547</uniqueid>
+  <uniqueid type="imdb">tt9271672</uniqueid>
+  <id>tt9271672</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1196026</bitrate>
+        <width>1280</width>
+        <height>530</height>
+        <aspect>959:398</aspect>
+        <aspectratio>959:398</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5587</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

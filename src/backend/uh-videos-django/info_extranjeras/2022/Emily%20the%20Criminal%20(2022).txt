@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Emily, que tiene una deuda estudiantil y está excluida del mercado laboral debido a antecedentes penales menores, se ve involucrada en una estafa con tarjeta de crédito que la lleva al inframundo criminal de Los Ángeles, lo que finalmente la lleva a consecuencias mortales.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-13 07:50:53</dateadded>
+  <title>Emily la estafadora</title>
+  <originaltitle>Emily the Criminal</originaltitle>
+  <actor>
+    <name>Aubrey Plaza</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>119592</tmdbid>
+    <imdbid>nm2201555</imdbid>
+    <tvdbid>289995</tvdbid>
+  </actor>
+  <actor>
+    <name>Theo Rossi</name>
+    <role>Youcef</role>
+    <type>Actor</type>
+    <tmdbid>51995</tmdbid>
+    <imdbid>nm0744331</imdbid>
+    <tvdbid>300548</tvdbid>
+  </actor>
+  <actor>
+    <name>Megalyn Echikunwoke</name>
+    <role>Liz</role>
+    <type>Actor</type>
+    <tmdbid>25382</tmdbid>
+    <imdbid>nm0248461</imdbid>
+    <tvdbid>252875</tvdbid>
+  </actor>
+  <actor>
+    <name>Gina Gershon</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>11150</tmdbid>
+    <imdbid>nm0000153</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Avigdori</name>
+    <role>Khalil</role>
+    <type>Actor</type>
+    <tmdbid>1807178</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Badillo</name>
+    <role>Javier</role>
+    <type>Actor</type>
+    <tmdbid>1448926</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Stark</name>
+    <role>Chip</role>
+    <type>Actor</type>
+    <tmdbid>183519</tmdbid>
+    <imdbid>nm0823149</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Sklenar</name>
+    <role>Brent</role>
+    <type>Actor</type>
+    <tmdbid>1855143</tmdbid>
+    <tvdbid>8196683</tvdbid>
+  </actor>
+  <director tmdbid="1099792">John Patton Ford</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xzf1YCEkLDI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ON6IwdTqQkI</trailer>
+  <rating>6.7</rating>
+  <year>2022</year>
+  <sorttitle>Emily la estafadora</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt15255876</imdbid>
+  <tmdbid>862965</tmdbid>
+  <premiered>2022-08-12</premiered>
+  <releasedate>2022-08-12</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>97</runtime>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Low Spark Films</studio>
+  <studio>Evil Hag Productions</studio>
+  <uniqueid type="imdb">tt15255876</uniqueid>
+  <uniqueid type="tmdb">862965</uniqueid>
+  <id>tt15255876</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149388</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5812</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

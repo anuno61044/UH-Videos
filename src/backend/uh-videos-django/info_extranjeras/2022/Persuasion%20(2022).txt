@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Anne Elliot, una mujer que lucha contra las limitaciones de su arrogante familia cuya riqueza está desapareciendo rápidamente, se encuentra teniendo una segunda oportunidad en el amor cuando Frederick Wentworth, el hombre de quien Anne se enamoró hace muchos años, vuelve a su vida.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-07-15 08:17:10</dateadded>
+  <title>Persuasión</title>
+  <originaltitle>Persuasion</originaltitle>
+  <actor>
+    <name>Dakota Johnson</name>
+    <role>Anne Elliot</role>
+    <type>Actor</type>
+    <tmdbid>118545</tmdbid>
+    <imdbid>nm0424848</imdbid>
+  </actor>
+  <actor>
+    <name>Cosmo Jarvis</name>
+    <role>Captain Frederick Wentworth</role>
+    <type>Actor</type>
+    <tmdbid>1363054</tmdbid>
+    <imdbid>nm4008605</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Golding</name>
+    <role>William Elliot</role>
+    <type>Actor</type>
+    <tmdbid>1807132</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard E. Grant</name>
+    <role>Sir Walter Elliot</role>
+    <type>Actor</type>
+    <tmdbid>20766</tmdbid>
+    <imdbid>nm0001290</imdbid>
+    <tvdbid>261928</tvdbid>
+  </actor>
+  <actor>
+    <name>Nikki Amuka-Bird</name>
+    <role>Lady Russell</role>
+    <type>Actor</type>
+    <tmdbid>109319</tmdbid>
+    <imdbid>nm0025458</imdbid>
+    <tvdbid>307288</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Bailey Smith</name>
+    <role>Charles Musgrove</role>
+    <type>Actor</type>
+    <tmdbid>1514177</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia McKenna-Bruce</name>
+    <role>Mary Musgrove</role>
+    <type>Actor</type>
+    <tmdbid>113236</tmdbid>
+    <tvdbid>8159951</tvdbid>
+  </actor>
+  <actor>
+    <name>Izuka Hoyle</name>
+    <role>Henrietta Musgrove</role>
+    <type>Actor</type>
+    <tmdbid>1903400</tmdbid>
+  </actor>
+  <actor>
+    <name>Nia Towle</name>
+    <role>Louisa Musgrove</role>
+    <type>Actor</type>
+    <tmdbid>3093604</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Captain Harville</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+    <tvdbid>483004</tvdbid>
+  </actor>
+  <actor>
+    <name>Lydia Rose Bewley</name>
+    <role>Penelope Clay</role>
+    <type>Actor</type>
+    <tmdbid>1058600</tmdbid>
+    <imdbid>nm3617801</imdbid>
+  </actor>
+  <actor>
+    <name>Yolanda Kettle</name>
+    <role>Elizabeth Elliot</role>
+    <type>Actor</type>
+    <tmdbid>1709747</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Long</name>
+    <role>Debt Collector</role>
+    <type>Actor</type>
+    <tmdbid>199529</tmdbid>
+    <imdbid>nm1316651</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Paisley Day</name>
+    <role>Mr. Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>151779</tmdbid>
+  </actor>
+  <actor>
+    <name>Agni Scott</name>
+    <role>Mrs. Croft</role>
+    <type>Actor</type>
+    <tmdbid>145312</tmdbid>
+  </actor>
+  <actor>
+    <name>Stewart Scudamore</name>
+    <role>Admiral Croft</role>
+    <type>Actor</type>
+    <tmdbid>25095</tmdbid>
+    <imdbid>nm1270132</imdbid>
+  </actor>
+  <actor>
+    <name>Eve Matheson</name>
+    <role>Mrs. Musgrove</role>
+    <type>Actor</type>
+    <tmdbid>20245</tmdbid>
+    <imdbid>nm0558545</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Beadle</name>
+    <role>Mr. Musgrove</role>
+    <type>Actor</type>
+    <tmdbid>86045</tmdbid>
+    <imdbid>nm0063542</imdbid>
+    <tvdbid>359387</tvdbid>
+  </actor>
+  <actor>
+    <name>Afolabi Alli</name>
+    <role>Captain Benwick</role>
+    <type>Actor</type>
+    <tmdbid>2000699</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Rainsford</name>
+    <role>Mrs. Harville</role>
+    <type>Actor</type>
+    <tmdbid>1648727</tmdbid>
+    <imdbid>nm5082535</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Ashcroft</name>
+    <role>Innkeeper</role>
+    <type>Actor</type>
+    <tmdbid>1911021</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Ariaie</name>
+    <role>Surgeon</role>
+    <type>Actor</type>
+    <tmdbid>3431803</tmdbid>
+  </actor>
+  <actor>
+    <name>Janet Henfrey</name>
+    <role>Viscountess Lady Dalrymple</role>
+    <type>Actor</type>
+    <tmdbid>53351</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Brooke</name>
+    <role>Miss Carteret</role>
+    <type>Actor</type>
+    <tmdbid>1918072</tmdbid>
+  </actor>
+  <director tmdbid="1301006">Carrie Cracknell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fz7HmgPJQak</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>Persuasion</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt13456318</imdbid>
+  <tmdbid>820912</tmdbid>
+  <premiered>2022-07-01</premiered>
+  <releasedate>2022-07-01</releasedate>
+  <criticrating>30</criticrating>
+  <runtime>110</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Mad Chance</studio>
+  <studio>MRC</studio>
+  <studio>Bisous Pictures</studio>
+  <studio>Fourth &amp; Twenty Eight Films</studio>
+  <uniqueid type="tmdb">820912</uniqueid>
+  <uniqueid type="imdb">tt13456318</uniqueid>
+  <id>tt13456318</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1018434</bitrate>
+        <width>1280</width>
+        <height>608</height>
+        <aspect>40:19</aspect>
+        <aspectratio>40:19</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6586</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cat</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>glg</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

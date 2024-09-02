@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A married American couple go to the San Sebastian Festival and get caught up in the magic of the event, the beauty and charm of the city and the fantasy of movies.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-08 09:25:53</dateadded>
+  <title>Rifkin's Festival</title>
+  <originaltitle>Rifkin's Festival</originaltitle>
+  <actor>
+    <name>Wallace Shawn</name>
+    <type>Actor</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+    <tvdbid>273693</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Garvey</name>
+    <type>Actor</type>
+    <tmdbid>1251820</tmdbid>
+  </actor>
+  <actor>
+    <name>Damian Chapa</name>
+    <type>Actor</type>
+    <tmdbid>58646</tmdbid>
+    <imdbid>nm0152082</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Slayton</name>
+    <type>Actor</type>
+    <tmdbid>53601</tmdbid>
+    <imdbid>nm0805653</imdbid>
+  </actor>
+  <director tmdbid="1243" imdbid="nm0000095">Woody Allen</director>
+  <writer tmdbid="1243" imdbid="nm0000095">Woody Allen</writer>
+  <credits tmdbid="1243" imdbid="nm0000095">Woody Allen</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JzVKBjWRx5E</trailer>
+  <rating>6.1</rating>
+  <year>2020</year>
+  <sorttitle>Rifkin's Festival</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8593904</imdbid>
+  <tmdbid>606876</tmdbid>
+  <premiered>2020-10-01</premiered>
+  <releasedate>2020-10-01</releasedate>
+  <criticrating>41</criticrating>
+  <runtime>88</runtime>
+  <country>Italy</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <studio>Gravier Productions</studio>
+  <studio>Mediapro</studio>
+  <studio>Wildside Media</studio>
+  <studio>TV3</studio>
+  <uniqueid type="imdb">tt8593904</uniqueid>
+  <uniqueid type="tmdb">606876</uniqueid>
+  <id>tt8593904</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>773976</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5289</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128389</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando la familia Primm se muda a Nueva York, su hijo adolescente Josh lucha por adaptarse a su nueva escuela y nuevos amigos. Todo eso cambia cuando descubre a Lilo – un cocodrilo cantante a quien le gusta darse baños, el caviar y la buena música – viviendo en el ático de su nueva casa. Los dos se convierten en mejores amigos, pero cuando la existencia de Lilo se ve amenazada por su malvado vecino Mr. Grumps, los Primm deberán aliarse con el carismático dueño de Lilo, Hector P. Valenti, para mostrar al mundo que la familia puede surgir de los lugares más inesperados y que no hay nada malo con un gran cocodrilo cantante con una personalidad aún mayor.]]></plot>
+  <outline><![CDATA[Es hora de dar la nota]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-24 11:15:11</dateadded>
+  <title>Lilo, mi amigo el cocodrilo</title>
+  <originaltitle>Lyle, Lyle, Crocodile</originaltitle>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>Hector P. Valenti</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>Winslow Fegley</name>
+    <role>Josh</role>
+    <type>Actor</type>
+    <tmdbid>2115854</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Mendes</name>
+    <role>Lyle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1613304</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Wu</name>
+    <role>Mrs. Primm</role>
+    <type>Actor</type>
+    <tmdbid>206444</tmdbid>
+    <imdbid>nm2090422</imdbid>
+    <tvdbid>394631</tvdbid>
+  </actor>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Mr. Primm</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+    <imdbid>nm1058940</imdbid>
+    <tvdbid>346751</tvdbid>
+  </actor>
+  <actor>
+    <name>Brett Gelman</name>
+    <role>Mr. Grumps</role>
+    <type>Actor</type>
+    <tmdbid>224197</tmdbid>
+    <imdbid>nm1443368</imdbid>
+  </actor>
+  <actor>
+    <name>Ego Nwodim</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>1726786</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyric Hurd</name>
+    <role>Trudy</role>
+    <type>Actor</type>
+    <tmdbid>2753267</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Kravits</name>
+    <role>Cy</role>
+    <type>Actor</type>
+    <tmdbid>19978</tmdbid>
+    <imdbid>nm0006463</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Palacios</name>
+    <role>Crocodile Reference</role>
+    <type>Actor</type>
+    <tmdbid>2690371</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Vasquez</name>
+    <role>8th Grade Boy</role>
+    <type>Actor</type>
+    <tmdbid>3564316</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Farley</name>
+    <role>Animal Store Owner</role>
+    <type>Actor</type>
+    <tmdbid>1381675</tmdbid>
+    <imdbid>nm0267666</imdbid>
+  </actor>
+  <actor>
+    <name>Sal Viscuso</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>19136</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Murray</name>
+    <role>Lowlife</role>
+    <type>Actor</type>
+    <tmdbid>2646790</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Neely</name>
+    <role>Security Technician Mary</role>
+    <type>Actor</type>
+    <tmdbid>1262629</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Dipetta</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1537755</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Moser</name>
+    <role>Wrestling Coach</role>
+    <type>Actor</type>
+    <tmdbid>1529996</tmdbid>
+    <imdbid>nm4847956</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Risch</name>
+    <role>Walkie Talkie Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1242087</tmdbid>
+    <tvdbid>346958</tvdbid>
+  </actor>
+  <actor>
+    <name>Clayton English</name>
+    <role>Young Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2305391</tmdbid>
+  </actor>
+  <actor>
+    <name>Mac Wells</name>
+    <role>Show Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1806599</tmdbid>
+  </actor>
+  <actor>
+    <name>Jef Holbrook</name>
+    <role>Audition Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>2090355</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Wilkas</name>
+    <role>Night Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>1066111</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Boyd</name>
+    <role>Live Show Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>1920681</tmdbid>
+  </actor>
+  <actor>
+    <name>Reif Howey</name>
+    <role>Sweep Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3287133</tmdbid>
+  </actor>
+  <actor>
+    <name>Evangeline Miller</name>
+    <role>Sweep Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3862260</tmdbid>
+  </actor>
+  <actor>
+    <name>Jene Moore</name>
+    <role>Sweep Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1973699</tmdbid>
+  </actor>
+  <actor>
+    <name>Chance Mizell</name>
+    <role>Sweep Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3862261</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Moon</name>
+    <role>Zookeeper</role>
+    <type>Actor</type>
+    <tmdbid>3862262</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Davis</name>
+    <role>HOA Member</role>
+    <type>Actor</type>
+    <tmdbid>1746933</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Orlando</name>
+    <role>HOA Member</role>
+    <type>Actor</type>
+    <tmdbid>3862263</tmdbid>
+  </actor>
+  <actor>
+    <name>Caden Brillantes</name>
+    <role>Wrestling Student</role>
+    <type>Actor</type>
+    <tmdbid>3862264</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyson Galligan</name>
+    <role>Wrestling Student</role>
+    <type>Actor</type>
+    <tmdbid>3862265</tmdbid>
+  </actor>
+  <actor>
+    <name>Alton Williams</name>
+    <role>Wrestling Student</role>
+    <type>Actor</type>
+    <tmdbid>2243652</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Williams</name>
+    <role>Wrestling Student</role>
+    <type>Actor</type>
+    <tmdbid>2243654</tmdbid>
+  </actor>
+  <actor>
+    <name>Irving Thigpen</name>
+    <role>Wrestling Student</role>
+    <type>Actor</type>
+    <tmdbid>3862266</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Rogers</name>
+    <role>Show Host</role>
+    <type>Actor</type>
+    <tmdbid>1429585</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Rutherford</name>
+    <role>Esteemed Judge</role>
+    <type>Actor</type>
+    <tmdbid>3862267</tmdbid>
+  </actor>
+  <actor>
+    <name>Eboni Nichols</name>
+    <role>Show Judge</role>
+    <type>Actor</type>
+    <tmdbid>1752713</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor James</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1497913</tmdbid>
+    <imdbid>nm2837751</imdbid>
+  </actor>
+  <actor>
+    <name>Donnie Cormier</name>
+    <role>Security Guard #3</role>
+    <type>Actor</type>
+    <tmdbid>3862268</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Pearson</name>
+    <role>Live Show Producer</role>
+    <type>Actor</type>
+    <tmdbid>3862269</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Thompson</name>
+    <role>Animal Control Officer</role>
+    <type>Actor</type>
+    <tmdbid>1232540</tmdbid>
+    <imdbid>nm0859824</imdbid>
+  </actor>
+  <director tmdbid="60922">Josh Gordon</director>
+  <director tmdbid="60923">Will Speck</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g_6gADc4W9Q</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>Lilo, mi amigo el cocodrilo</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt14668630</imdbid>
+  <tmdbid>830784</tmdbid>
+  <premiered>2022-10-07</premiered>
+  <releasedate>2022-10-07</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>107</runtime>
+  <tagline>Es hora de dar la nota</tagline>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <genre>Música</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>Eagle Pictures</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Hutch Parker Entertainment</studio>
+  <studio>Speck Gordon</studio>
+  <uniqueid type="tmdb">830784</uniqueid>
+  <uniqueid type="imdb">tt14668630</uniqueid>
+  <id>tt14668630</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1045099</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>959:401</aspect>
+        <aspectratio>959:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6397</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

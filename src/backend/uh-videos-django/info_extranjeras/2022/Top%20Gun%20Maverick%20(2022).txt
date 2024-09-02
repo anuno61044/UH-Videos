@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete "Maverick" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo "Goose".]]></plot>
+  <outline><![CDATA[Siente la necesidad... La necesidad de velocidad.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-22 19:50:54</dateadded>
+  <title>Top Gun: Maverick</title>
+  <originaltitle>Top Gun: Maverick</originaltitle>
+  <actor>
+    <name>Tom Cruise</name>
+    <role>Capt. Pete 'Maverick' Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>500</tmdbid>
+    <imdbid>nm0000129</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Teller</name>
+    <role>Lt. Bradley 'Rooster' Bradshaw</role>
+    <type>Actor</type>
+    <tmdbid>996701</tmdbid>
+    <imdbid>nm1886602</imdbid>
+    <tvdbid>311343</tvdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Connelly</name>
+    <role>Penny Benjamin</role>
+    <type>Actor</type>
+    <tmdbid>6161</tmdbid>
+    <imdbid>nm0000124</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Hamm</name>
+    <role>Adm. Beau 'Cyclone' Simpson</role>
+    <type>Actor</type>
+    <tmdbid>65717</tmdbid>
+    <imdbid>nm0358316</imdbid>
+    <tvdbid>269026</tvdbid>
+  </actor>
+  <actor>
+    <name>Glen Powell</name>
+    <role>Lt. Jake 'Hangman' Seresin</role>
+    <type>Actor</type>
+    <tmdbid>83271</tmdbid>
+    <imdbid>nm1412974</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Radm. Chester 'Hammer' Cain</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+    <tvdbid>309802</tvdbid>
+  </actor>
+  <actor>
+    <name>Val Kilmer</name>
+    <role>Adm. Tom 'Iceman' Kazansky</role>
+    <type>Actor</type>
+    <tmdbid>5576</tmdbid>
+    <imdbid>nm0000174</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis Pullman</name>
+    <role>Lt. Robert 'Bob' Floyd</role>
+    <type>Actor</type>
+    <tmdbid>1700685</tmdbid>
+    <imdbid>nm5730649</imdbid>
+    <tvdbid>8031159</tvdbid>
+  </actor>
+  <actor>
+    <name>Charles Parnell</name>
+    <role>Adm. Solomon 'Warlock' Bates</role>
+    <type>Actor</type>
+    <tmdbid>124112</tmdbid>
+    <imdbid>nm0663174</imdbid>
+  </actor>
+  <actor>
+    <name>Bashir Salahuddin</name>
+    <role>Wo-1. Bernie 'Hondo' Coleman</role>
+    <type>Actor</type>
+    <tmdbid>1241330</tmdbid>
+    <imdbid>nm1506981</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Barbaro</name>
+    <role>Lt. Natasha 'Phoenix' Trace</role>
+    <type>Actor</type>
+    <tmdbid>1525043</tmdbid>
+    <imdbid>nm4834815</imdbid>
+    <tvdbid>472493</tvdbid>
+  </actor>
+  <actor>
+    <name>Jay Ellis</name>
+    <role>Lt. Reuben 'Payback' Fitch</role>
+    <type>Actor</type>
+    <tmdbid>151680</tmdbid>
+    <imdbid>nm1337350</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Ramirez</name>
+    <role>Lt. Mickey 'Fanboy' Garcia</role>
+    <type>Actor</type>
+    <tmdbid>1773397</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Schumacher</name>
+    <role>Lt. Neil 'Omaha' Vikander</role>
+    <type>Actor</type>
+    <tmdbid>3563646</tmdbid>
+  </actor>
+  <actor>
+    <name>Manny Jacinto</name>
+    <role>Lt. Billy 'Fritz' Avalone</role>
+    <type>Actor</type>
+    <tmdbid>1368795</tmdbid>
+    <tvdbid>549947</tvdbid>
+  </actor>
+  <actor>
+    <name>Kara Wang</name>
+    <role>Lt. Callie 'Halo' Bassett</role>
+    <type>Actor</type>
+    <tmdbid>236598</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Tarzan Davis</name>
+    <role>Lt. Javy 'Coyote' Machado</role>
+    <type>Actor</type>
+    <tmdbid>2080646</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Picking</name>
+    <role>Lt. Brigham 'Harvard' Lennox</role>
+    <type>Actor</type>
+    <tmdbid>1456280</tmdbid>
+    <imdbid>nm4917623</imdbid>
+    <tvdbid>497631</tvdbid>
+  </actor>
+  <actor>
+    <name>Raymond Lee</name>
+    <role>Lt. Logan 'Yale' Lee</role>
+    <type>Actor</type>
+    <tmdbid>1321411</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Louisa Kelly</name>
+    <role>Sarah Kazansky</role>
+    <type>Actor</type>
+    <tmdbid>26495</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyliana Wray</name>
+    <role>Amelia Benjamin</role>
+    <type>Actor</type>
+    <tmdbid>1672438</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Harris</name>
+    <role>Admiral's Aide</role>
+    <type>Actor</type>
+    <tmdbid>207116</tmdbid>
+    <imdbid>nm1571692</imdbid>
+  </actor>
+  <actor>
+    <name>Darnell Kirkwood</name>
+    <role>Comms-Crew Tech</role>
+    <type>Actor</type>
+    <tmdbid>1866197</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Bowerman</name>
+    <role>Comms-Crew Tech</role>
+    <type>Actor</type>
+    <tmdbid>1367239</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Andrea Barron</name>
+    <role>Comms-Crew Tech</role>
+    <type>Actor</type>
+    <tmdbid>2234525</tmdbid>
+  </actor>
+  <actor>
+    <name>Alec Williams</name>
+    <role>Cain's Aide</role>
+    <type>Actor</type>
+    <tmdbid>3600045</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Winfree</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>155983</tmdbid>
+    <imdbid>nm0934910</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Mark Kendall</name>
+    <role>Meek Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1437564</tmdbid>
+    <imdbid>nm6374804</imdbid>
+    <tvdbid>465870</tvdbid>
+  </actor>
+  <actor>
+    <name>Ian Gary</name>
+    <role>Jaded Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1429891</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Senior Engineer</role>
+    <type>Actor</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>Landon Gordon</name>
+    <role>Kid in Truck Stop</role>
+    <type>Actor</type>
+    <tmdbid>2891225</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaret Strabala</name>
+    <role>Air Control Officer</role>
+    <type>Actor</type>
+    <tmdbid>3600047</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Heilmann</name>
+    <role>Air Control Officer</role>
+    <type>Actor</type>
+    <tmdbid>3600056</tmdbid>
+  </actor>
+  <actor>
+    <name>Shantel Limbo</name>
+    <role>Staff Seargeant</role>
+    <type>Actor</type>
+    <tmdbid>3600048</tmdbid>
+  </actor>
+  <actor>
+    <name>James Handy</name>
+    <role>Bartender (Jimmy)</role>
+    <type>Actor</type>
+    <tmdbid>51551</tmdbid>
+    <imdbid>nm0359695</imdbid>
+  </actor>
+  <actor>
+    <name>Whylip Lee</name>
+    <role>Fuel</role>
+    <type>Actor</type>
+    <tmdbid>3600049</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan Henry</name>
+    <role>Surfaces</role>
+    <type>Actor</type>
+    <tmdbid>3375910</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Robert Boles</name>
+    <role>Mini Boss</role>
+    <type>Actor</type>
+    <tmdbid>3600050</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Ferguson</name>
+    <role>Fighter Pilot in Bar</role>
+    <type>Actor</type>
+    <tmdbid>3600257</tmdbid>
+  </actor>
+  <actor>
+    <name>Chido Nwokocha</name>
+    <role>Mission Controller</role>
+    <type>Actor</type>
+    <tmdbid>2524496</tmdbid>
+    <imdbid>nm4140414</imdbid>
+  </actor>
+  <actor>
+    <name>Chaz Ingram</name>
+    <role>Mission Controller</role>
+    <type>Actor</type>
+    <tmdbid>1963069</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachael Markarian</name>
+    <role>Mission Controller</role>
+    <type>Actor</type>
+    <tmdbid>143742</tmdbid>
+    <imdbid>nm2262020</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Kane</name>
+    <role>Mission Controller</role>
+    <type>Actor</type>
+    <tmdbid>145145</tmdbid>
+    <imdbid>nm2000144</imdbid>
+  </actor>
+  <actor>
+    <name>Norman Ralph Eliasen</name>
+    <role>Mission Controller</role>
+    <type>Actor</type>
+    <tmdbid>3563647</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Edwards</name>
+    <role>LTJG Nick 'Goose' Bradshaw (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11085</tmdbid>
+    <imdbid>nm0000381</imdbid>
+    <tvdbid>274186</tvdbid>
+  </actor>
+  <actor>
+    <name>Meg Ryan</name>
+    <role>Carole Bradshaw (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>5344</tmdbid>
+    <imdbid>nm0000212</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly McGillis</name>
+    <role>Charlotte 'Charlie' Blackwood (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11084</tmdbid>
+    <imdbid>nm0000534</imdbid>
+  </actor>
+  <director tmdbid="86270" imdbid="nm2676052">Joseph Kosinski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zmFdhZ6gyUM</trailer>
+  <rating>8.3</rating>
+  <year>2022</year>
+  <sorttitle>Top Gun: Maverick</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1745960</imdbid>
+  <tmdbid>361743</tmdbid>
+  <premiered>2022-05-24</premiered>
+  <releasedate>2022-05-24</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>130</runtime>
+  <tagline>Siente la necesidad... La necesidad de velocidad.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Drama</genre>
+  <studio>Paramount</studio>
+  <studio>Don Simpson/Jerry Bruckheimer Films</studio>
+  <studio>Skydance Media</studio>
+  <set tmdbcolid="531330">
+    <name>Top Gun - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt1745960</uniqueid>
+  <uniqueid type="tmdb">361743</uniqueid>
+  <id>tt1745960</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1481632</bitrate>
+        <width>720</width>
+        <height>404</height>
+        <aspect>359:202</aspect>
+        <aspectratio>359:202</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7814</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

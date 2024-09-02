@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Francia, siglo XVII, bajo el reinado de Luis XIII. D'Artacán es un impetuoso e inocente campesino de Gascuña, amén de un habilidoso espadachín, que viaja a París con el propósito de hacer realidad su sueño: ingresar en el Cuerpo de Mosqueperros de la Guardia Real.]]></plot>
+  <outline><![CDATA[¡Uno para todos y todos para uno!]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-05 08:35:14</dateadded>
+  <title>D'Artacán y los tres mosqueperros</title>
+  <originaltitle>D'Artacán y los tres mosqueperros</originaltitle>
+  <actor>
+    <name>Gabriel Jiménez</name>
+    <role>Porthos (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220929</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Perucho</name>
+    <role>Athos (voice)</role>
+    <type>Actor</type>
+    <tmdbid>936595</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Reina</name>
+    <role>Aramis (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1027771</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel Pérez</name>
+    <role>Dogtanian / Pip (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2997171</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Esther Alborg</name>
+    <role>Juliette (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220932</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Ramírez de Antón</name>
+    <role>Sandy / Guard #3 / Smuggler #2 / Sailor #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220933</tmdbid>
+  </actor>
+  <actor>
+    <name>Abraham Aguilar</name>
+    <role>King Louis XIII (voice)</role>
+    <type>Actor</type>
+    <tmdbid>228712</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Ángeles García</name>
+    <role>Queen Anne (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1238798</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Antonio Arroyo</name>
+    <role>Cardinal Richelieu (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220934</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Bajo</name>
+    <role>Count of Rochefort (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1700953</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana María Marí</name>
+    <role>Milady de Winter (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220935</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Kaniowsky</name>
+    <role>Captain Treville (voice)</role>
+    <type>Actor</type>
+    <tmdbid>94211</tmdbid>
+    <imdbid>nm0133996</imdbid>
+  </actor>
+  <actor>
+    <name>Vicente Gil</name>
+    <role>Captain Widimer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54522</tmdbid>
+    <imdbid>nm0317876</imdbid>
+  </actor>
+  <actor>
+    <name>Mario Gas</name>
+    <role>Captain Mixtolobo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>589542</tmdbid>
+    <imdbid>nm0309015</imdbid>
+  </actor>
+  <actor>
+    <name>Adolfo Pastor</name>
+    <role>Captain Lys D'Yor / Guard #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2888513</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Jover</name>
+    <role>Dogtanian's Father (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1238531</tmdbid>
+    <imdbid>nm0431334</imdbid>
+  </actor>
+  <actor>
+    <name>Gloria Cámara</name>
+    <role>Dogtanian's Mother / Queen Ann's Lady-in-Waiting (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1238521</tmdbid>
+    <imdbid>nm0194571</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Domínguez</name>
+    <role>Male Parisians / Guard #2 / Smuggler #1 / Sailor #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220936</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Gambín</name>
+    <role>Female Parisians (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220937</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Martinez</name>
+    <role>Courted Lady (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220938</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cordero</name>
+    <role>Guard #4 / Smuggler #3 / Sailor #3 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220941</tmdbid>
+  </actor>
+  <actor>
+    <name>Helena Biern Sirgo</name>
+    <role>Little Girl #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220945</tmdbid>
+  </actor>
+  <actor>
+    <name>Valeria Biern Sirgo</name>
+    <role>Little Girl #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220947</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Biern Segovia</name>
+    <role>Little Boy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3220949</tmdbid>
+  </actor>
+  <director tmdbid="1045394">Toni García</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SOiwzSXRkh4</trailer>
+  <rating>5.2</rating>
+  <year>2021</year>
+  <sorttitle>D'Artacan y los tres mosqueperros</sorttitle>
+  <imdbid>tt11777920</imdbid>
+  <tmdbid>768726</tmdbid>
+  <premiered>2021-06-25</premiered>
+  <releasedate>2021-06-25</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>105</runtime>
+  <tagline>¡Uno para todos y todos para uno!</tagline>
+  <country>India</country>
+  <country>Spain</country>
+  <genre>Animación</genre>
+  <genre>Comedia</genre>
+  <genre>Aventura</genre>
+  <genre>Familia</genre>
+  <studio>TVE</studio>
+  <studio>Apolo Films</studio>
+  <studio>Cosmos-Maya</studio>
+  <uniqueid type="tmdb">768726</uniqueid>
+  <uniqueid type="imdb">tt11777920</uniqueid>
+  <id>tt11777920</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>810007</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6317</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62690</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

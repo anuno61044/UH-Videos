@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Full of misgivings, a young woman travels with her new boyfriend to his parents' secluded farm. Upon arriving, she comes to question everything she thought she knew about him, and herself.]]></plot>
+  <outline><![CDATA[Un Film de Charlie Kaufman]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-07 08:45:51</dateadded>
+  <title>I'm Thinking of Ending Things</title>
+  <originaltitle>I'm Thinking of Ending Things</originaltitle>
+  <actor>
+    <name>Jesse Plemons</name>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+    <tvdbid>325974</tvdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Collette</name>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+    <tvdbid>360423</tvdbid>
+  </actor>
+  <actor>
+    <name>David Thewlis</name>
+    <type>Actor</type>
+    <tmdbid>11207</tmdbid>
+    <imdbid>nm0000667</imdbid>
+    <tvdbid>487306</tvdbid>
+  </actor>
+  <director tmdbid="202" imdbid="nm0442109">Charlie Kaufman</director>
+  <writer>Charlie Kaufman (written for the screen by)</writer>
+  <writer>Iain Reid (based on the book by)</writer>
+  <credits>Charlie Kaufman (written for the screen by)</credits>
+  <credits>Iain Reid (based on the book by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cDTg62vsV4U</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <sorttitle>I'm Thinking of Ending Things</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7939766</imdbid>
+  <tmdbid>500840</tmdbid>
+  <premiered>2020-08-28</premiered>
+  <releasedate>2020-08-28</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>135</runtime>
+  <tagline>Un Film de Charlie Kaufman</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Likely Story</studio>
+  <studio>Projective Testing Service</studio>
+  <uniqueid type="imdb">tt7939766</uniqueid>
+  <uniqueid type="tmdb">500840</uniqueid>
+  <id>tt7939766</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>827668</bitrate>
+        <width>960</width>
+        <height>720</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8086</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

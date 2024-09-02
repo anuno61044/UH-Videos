@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Darcy (Jennifer Lopez) y Tom (Josh Duhamel) viajan con sus familias para celebrar su boda, pero cuando todos los invitados son tomados como rehenes, la frase «hasta que la muerte nos separe» adquiere un nuevo significado en esta desternillante aventura cargada de adrenalina en la que Darcy y Tom tendrán que salvar a sus seres queridos, si no se matan entre ellos antes.]]></plot>
+  <outline><![CDATA[Reserva la fecha.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-26 19:39:32</dateadded>
+  <title>Una boda explosiva</title>
+  <originaltitle>Shotgun Wedding</originaltitle>
+  <actor>
+    <name>Jennifer Lopez</name>
+    <role>Darcy Rivera</role>
+    <type>Actor</type>
+    <tmdbid>16866</tmdbid>
+    <imdbid>nm0000182</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Duhamel</name>
+    <role>Tom Fowler</role>
+    <type>Actor</type>
+    <tmdbid>19536</tmdbid>
+    <imdbid>nm0241049</imdbid>
+    <tvdbid>255139</tvdbid>
+  </actor>
+  <actor>
+    <name>Lenny Kravitz</name>
+    <role>Sean Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>77069</tmdbid>
+    <imdbid>nm0005107</imdbid>
+  </actor>
+  <actor>
+    <name>Sônia Braga</name>
+    <role>Renata Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>27396</tmdbid>
+    <imdbid>nm0000968</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Coolidge</name>
+    <role>Carol Fowler</role>
+    <type>Actor</type>
+    <tmdbid>38334</tmdbid>
+    <imdbid>nm0177639</imdbid>
+    <tvdbid>306233</tvdbid>
+  </actor>
+  <actor>
+    <name>Cheech Marin</name>
+    <role>Robert Rivera</role>
+    <type>Actor</type>
+    <tmdbid>11159</tmdbid>
+    <imdbid>nm0001507</imdbid>
+  </actor>
+  <actor>
+    <name>Callie Hernandez</name>
+    <role>Jamie Rivera</role>
+    <type>Actor</type>
+    <tmdbid>1486488</tmdbid>
+    <imdbid>nm5555747</imdbid>
+  </actor>
+  <actor>
+    <name>D'Arcy Carden</name>
+    <role>Harriet</role>
+    <type>Actor</type>
+    <tmdbid>1561264</tmdbid>
+    <tvdbid>474812</tvdbid>
+  </actor>
+  <actor>
+    <name>Steve Coulter</name>
+    <role>Larry Fowler</role>
+    <type>Actor</type>
+    <tmdbid>80619</tmdbid>
+    <imdbid>nm0183548</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Hunter</name>
+    <role>Jeannie Fowler</role>
+    <type>Actor</type>
+    <tmdbid>1959044</tmdbid>
+  </actor>
+  <actor>
+    <name>Desmin Borges</name>
+    <role>Ricky Silver</role>
+    <type>Actor</type>
+    <tmdbid>972079</tmdbid>
+    <imdbid>nm3210828</imdbid>
+    <tvdbid>526145</tvdbid>
+  </actor>
+  <actor>
+    <name>María del Mar Fernández González</name>
+    <role>Amanda Walker</role>
+    <type>Actor</type>
+    <tmdbid>4330357</tmdbid>
+  </actor>
+  <actor>
+    <name>Selena Tan</name>
+    <role>Margy</role>
+    <type>Actor</type>
+    <tmdbid>225060</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Isaac</name>
+    <role>Ace</role>
+    <type>Actor</type>
+    <tmdbid>1211963</tmdbid>
+  </actor>
+  <actor>
+    <name>Pancho Cardena</name>
+    <role>Pirate Leader</role>
+    <type>Actor</type>
+    <tmdbid>2596740</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Mallari Jr.</name>
+    <role>Dog-Face</role>
+    <type>Actor</type>
+    <tmdbid>1020687</tmdbid>
+  </actor>
+  <actor>
+    <name>Tharoth Sam</name>
+    <role>Rat-Face</role>
+    <type>Actor</type>
+    <tmdbid>1367704</tmdbid>
+  </actor>
+  <actor>
+    <name>Worapojd Thautanon</name>
+    <role>Clown-Face</role>
+    <type>Actor</type>
+    <tmdbid>3906429</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Wood</name>
+    <role>Shark-Face</role>
+    <type>Actor</type>
+    <tmdbid>3906430</tmdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Acevedo</name>
+    <role>Tiger-Face</role>
+    <type>Actor</type>
+    <tmdbid>1676486</tmdbid>
+  </actor>
+  <actor>
+    <name>Powpong Kopholrat</name>
+    <role>Ghost-Face</role>
+    <type>Actor</type>
+    <tmdbid>3906457</tmdbid>
+  </actor>
+  <actor>
+    <name>Héctor Aníbal</name>
+    <role>Bone-Face</role>
+    <type>Actor</type>
+    <tmdbid>1676666</tmdbid>
+  </actor>
+  <actor>
+    <name>Asia Munma</name>
+    <role>Lizard-Face</role>
+    <type>Actor</type>
+    <tmdbid>3906434</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Raymundo</name>
+    <role>Joel</role>
+    <type>Actor</type>
+    <tmdbid>1792418</tmdbid>
+  </actor>
+  <actor>
+    <name>Iana Ramirez</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>3906442</tmdbid>
+  </actor>
+  <actor>
+    <name>Liz Turra</name>
+    <role>Nicolette Carter</role>
+    <type>Actor</type>
+    <tmdbid>4436408</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Kahuna</name>
+    <role>Groom's Family</role>
+    <type>Actor</type>
+    <tmdbid>3967610</tmdbid>
+  </actor>
+  <actor>
+    <name>José Guillermo Cortines</name>
+    <role>Bride's Family</role>
+    <type>Actor</type>
+    <tmdbid>1211371</tmdbid>
+  </actor>
+  <actor>
+    <name>Lía Lockhart</name>
+    <role>Bride's Family</role>
+    <type>Actor</type>
+    <tmdbid>4278563</tmdbid>
+  </actor>
+  <actor>
+    <name>John Twohy</name>
+    <role>Groom's Family</role>
+    <type>Actor</type>
+    <tmdbid>3165143</tmdbid>
+  </actor>
+  <director tmdbid="168667" imdbid="nm0601337">Jason Moore</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qNVwRHQL8jw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gS0n83abZls</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U8gz0rUzTAY</trailer>
+  <rating>5.4</rating>
+  <year>2022</year>
+  <sorttitle>Una boda explosiva</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9686790</imdbid>
+  <tmdbid>758009</tmdbid>
+  <premiered>2022-12-28</premiered>
+  <releasedate>2022-12-28</releasedate>
+  <criticrating>45</criticrating>
+  <runtime>102</runtime>
+  <tagline>Reserva la fecha.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Mandeville Films</studio>
+  <studio>Nuyorican Productions</studio>
+  <uniqueid type="tmdb">758009</uniqueid>
+  <uniqueid type="imdb">tt9686790</uniqueid>
+  <id>tt9686790</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2567515</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>1267:528</aspect>
+        <aspectratio>1267:528</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6093</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

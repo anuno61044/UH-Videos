@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[William Tell (Oscar Isaac) es un exmilitar y jugador profesional de póker. Su meticulosa vida se trastoca cuando se le acerca Cirk, un joven que busca ayuda en Tell para ejecutar su plan de venganza contra un coronel militar.]]></plot>
+  <outline><![CDATA[Recoge lo que has sembrado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-15 13:48:57</dateadded>
+  <title>El Contador de Cartas</title>
+  <originaltitle>The Card Counter</originaltitle>
+  <actor>
+    <name>Oscar Isaac</name>
+    <role>William 'Tell' Tillich</role>
+    <type>Actor</type>
+    <tmdbid>25072</tmdbid>
+    <imdbid>nm1209966</imdbid>
+    <tvdbid>311003</tvdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Haddish</name>
+    <role>La Linda</role>
+    <type>Actor</type>
+    <tmdbid>1230868</tmdbid>
+    <imdbid>nm1840504</imdbid>
+    <tvdbid>311354</tvdbid>
+  </actor>
+  <actor>
+    <name>Tye Sheridan</name>
+    <role>Cirk Baufort</role>
+    <type>Actor</type>
+    <tmdbid>1034681</tmdbid>
+    <imdbid>nm4446467</imdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Maj. John Gordo</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Babara</name>
+    <role>Mr. USA</role>
+    <type>Actor</type>
+    <tmdbid>1723573</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby C. King</name>
+    <role>Slippery Joe</role>
+    <type>Actor</type>
+    <tmdbid>191377</tmdbid>
+  </actor>
+  <actor>
+    <name>Ekaterina Baker</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>2860533</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Flashner</name>
+    <role>Sergeant Hoskins</role>
+    <type>Actor</type>
+    <tmdbid>2743359</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrienne Lau</name>
+    <role>Crystal</role>
+    <type>Actor</type>
+    <tmdbid>1356253</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Michaely</name>
+    <role>Ronnie</role>
+    <type>Actor</type>
+    <tmdbid>226344</tmdbid>
+    <imdbid>nm0584575</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Michiko Whitney</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>3042082</tmdbid>
+  </actor>
+  <actor>
+    <name>Britton Webb</name>
+    <role>Roger Baufort</role>
+    <type>Actor</type>
+    <tmdbid>1907977</tmdbid>
+  </actor>
+  <actor>
+    <name>Amye Gousset</name>
+    <role>Judy Baufort</role>
+    <type>Actor</type>
+    <tmdbid>1148257</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Slaughter</name>
+    <role>Lackey #1</role>
+    <type>Actor</type>
+    <tmdbid>62784</tmdbid>
+    <imdbid>nm1551999</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Singletary</name>
+    <role>Inmate</role>
+    <type>Actor</type>
+    <tmdbid>2524546</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirill Sheynerman</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>1853928</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane LeCocq</name>
+    <role>Lackey #2</role>
+    <type>Actor</type>
+    <tmdbid>2483970</tmdbid>
+    <imdbid>nm7674206</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Peck</name>
+    <role>MP</role>
+    <type>Actor</type>
+    <tmdbid>3221600</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Eubanks</name>
+    <role>Second Player</role>
+    <type>Actor</type>
+    <tmdbid>2483993</tmdbid>
+  </actor>
+  <actor>
+    <name>April Alsbury</name>
+    <role>Casino Patron</role>
+    <type>Actor</type>
+    <tmdbid>3317244</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlon Hayes</name>
+    <role>Poker tournament Attendant</role>
+    <type>Actor</type>
+    <tmdbid>3148210</tmdbid>
+  </actor>
+  <actor>
+    <name>Alireza Mirmontazeri</name>
+    <role>Military Guard</role>
+    <type>Actor</type>
+    <tmdbid>2864788</tmdbid>
+  </actor>
+  <actor>
+    <name>Fran Robertson</name>
+    <role>Casino Patron</role>
+    <type>Actor</type>
+    <tmdbid>2955801</tmdbid>
+  </actor>
+  <actor>
+    <name>Brittney Souther</name>
+    <role>Female Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>3080646</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Lyn Whitaker</name>
+    <role>News Anchor / Female Soldier</role>
+    <type>Actor</type>
+    <tmdbid>3279466</tmdbid>
+  </actor>
+  <actor>
+    <name>Amia Edwards</name>
+    <role>Tournament Clerk</role>
+    <type>Actor</type>
+    <tmdbid>3302023</tmdbid>
+  </actor>
+  <director tmdbid="1035" imdbid="nm0001707">Paul Schrader</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7RvVT1cDiNc</trailer>
+  <rating>6.2</rating>
+  <year>2021</year>
+  <sorttitle>Contador de Cartas</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11196036</imdbid>
+  <tmdbid>643532</tmdbid>
+  <premiered>2021-09-03</premiered>
+  <releasedate>2021-09-03</releasedate>
+  <runtime>111</runtime>
+  <tagline>Recoge lo que has sembrado.</tagline>
+  <country>China</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Focus Features</studio>
+  <studio>LB Entertainment</studio>
+  <studio>Astrakan Films AB</studio>
+  <studio>Bona Film Group</studio>
+  <studio>Convergent Media</studio>
+  <studio>Enriched Media Group</studio>
+  <studio>HanWay Films</studio>
+  <studio>One Two Twenty Entertainment</studio>
+  <studio>Redline Entertainment</studio>
+  <uniqueid type="imdb">tt11196036</uniqueid>
+  <uniqueid type="tmdb">643532</uniqueid>
+  <id>tt11196036</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1803397</bitrate>
+        <width>720</width>
+        <height>432</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6672</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

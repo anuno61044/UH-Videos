@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Renowned musician Lydia Tár is days away from recording the symphony that will elevate her career. When all elements seem to conspire against her, Lydia's adopted daughter Petra becomes an integral emotional support for her struggling mother.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-15 08:25:07</dateadded>
+  <title>TÁR</title>
+  <originaltitle>TÁR</originaltitle>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Lydia Tár</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+    <tvdbid>255079</tvdbid>
+  </actor>
+  <actor>
+    <name>Nina Hoss</name>
+    <role>Sharon Goodnow</role>
+    <type>Actor</type>
+    <tmdbid>681</tmdbid>
+    <imdbid>nm0396125</imdbid>
+    <tvdbid>662965</tvdbid>
+  </actor>
+  <actor>
+    <name>Noémie Merlant</name>
+    <role>Francesca Lentini</role>
+    <type>Actor</type>
+    <tmdbid>1385600</tmdbid>
+    <imdbid>nm4374524</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Kauer</name>
+    <role>Olga Metkina</role>
+    <type>Actor</type>
+    <tmdbid>3322369</tmdbid>
+  </actor>
+  <actor>
+    <name>Mila Bogojevic</name>
+    <role>Petra</role>
+    <type>Actor</type>
+    <tmdbid>3762504</tmdbid>
+  </actor>
+  <actor>
+    <name>Allan Corduner</name>
+    <role>Sebastian Brix</role>
+    <type>Actor</type>
+    <tmdbid>78018</tmdbid>
+    <imdbid>nm0179680</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Strong</name>
+    <role>Eliot Kaplan</role>
+    <type>Actor</type>
+    <tmdbid>2983</tmdbid>
+    <imdbid>nm0835016</imdbid>
+    <tvdbid>301469</tvdbid>
+  </actor>
+  <actor>
+    <name>Julian Glover</name>
+    <role>Andris Davis</role>
+    <type>Actor</type>
+    <tmdbid>740</tmdbid>
+    <imdbid>nm0002103</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Flote</name>
+    <role>Krista Taylor</role>
+    <type>Actor</type>
+    <tmdbid>3322370</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabian Dirr</name>
+    <role>Knut Braun</role>
+    <type>Actor</type>
+    <tmdbid>3724360</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Riotta</name>
+    <role>Cory Berg</role>
+    <type>Actor</type>
+    <tmdbid>26669</tmdbid>
+    <imdbid>nm0725664</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Douglas</name>
+    <role>Marty Singer</role>
+    <type>Actor</type>
+    <tmdbid>17072</tmdbid>
+    <imdbid>nm0002243</imdbid>
+  </actor>
+  <actor>
+    <name>Lucie Pohl</name>
+    <role>Shannon Jones</role>
+    <type>Actor</type>
+    <tmdbid>1149880</tmdbid>
+  </actor>
+  <actor>
+    <name>Vivian Full</name>
+    <role>Kristine Ling</role>
+    <type>Actor</type>
+    <tmdbid>1676154</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Sellars</name>
+    <role>Tony Tarr</role>
+    <type>Actor</type>
+    <tmdbid>122238</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed White</name>
+    <role>Jake Russell</role>
+    <type>Actor</type>
+    <tmdbid>2011831</tmdbid>
+    <imdbid>nm3065326</imdbid>
+  </actor>
+  <actor>
+    <name>Christoph Tomanek</name>
+    <role>Anna's Husband</role>
+    <type>Actor</type>
+    <tmdbid>1307551</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Röth</name>
+    <role>Tár's Personal Physician</role>
+    <type>Actor</type>
+    <tmdbid>36470</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Birenytė</name>
+    <role>Tänzerin</role>
+    <type>Actor</type>
+    <tmdbid>2002966</tmdbid>
+  </actor>
+  <actor>
+    <name>André Röhner</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>588318</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Hansen</name>
+    <role>Jessica Hansen</role>
+    <type>Actor</type>
+    <tmdbid>2562333</tmdbid>
+  </actor>
+  <actor>
+    <name>Murali Perumal</name>
+    <role>Livery Driver</role>
+    <type>Actor</type>
+    <tmdbid>1062769</tmdbid>
+    <imdbid>nm1288233</imdbid>
+  </actor>
+  <actor>
+    <name>Sydney Lemmon</name>
+    <role>Whitney Reese</role>
+    <type>Actor</type>
+    <tmdbid>1303156</tmdbid>
+    <imdbid>nm5517526</imdbid>
+  </actor>
+  <actor>
+    <name>Dorothea Plans Casal</name>
+    <role>Gosia Proboz</role>
+    <type>Actor</type>
+    <tmdbid>3724359</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Wolf</name>
+    <role>Harald</role>
+    <type>Actor</type>
+    <tmdbid>3724361</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Hering</name>
+    <role>Christian</role>
+    <type>Actor</type>
+    <tmdbid>3724362</tmdbid>
+  </actor>
+  <actor>
+    <name>Artjom Gilz</name>
+    <role>Karl</role>
+    <type>Actor</type>
+    <tmdbid>1543541</tmdbid>
+    <imdbid>nm6054463</imdbid>
+  </actor>
+  <actor>
+    <name>Marie-Lou Sellem</name>
+    <role>Britta Menges</role>
+    <type>Actor</type>
+    <tmdbid>11608</tmdbid>
+    <imdbid>nm0783317</imdbid>
+  </actor>
+  <actor>
+    <name>Marie-Anne Fliegel</name>
+    <role>Angela Goodnow</role>
+    <type>Actor</type>
+    <tmdbid>1161723</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Leung</name>
+    <role>Laura Kim</role>
+    <type>Actor</type>
+    <tmdbid>3724368</tmdbid>
+  </actor>
+  <actor>
+    <name>Chalee Sricharoen</name>
+    <role>Shaman</role>
+    <type>Actor</type>
+    <tmdbid>1658608</tmdbid>
+  </actor>
+  <actor>
+    <name>Lydia Schamschula</name>
+    <role>Lina Greff</role>
+    <type>Actor</type>
+    <tmdbid>1823076</tmdbid>
+  </actor>
+  <actor>
+    <name>Tilla Kratochwil</name>
+    <role>Eleanor</role>
+    <type>Actor</type>
+    <tmdbid>1051839</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Gopnik</name>
+    <role>Adam Gopnik</role>
+    <type>Actor</type>
+    <tmdbid>2352235</tmdbid>
+  </actor>
+  <actor>
+    <name>Alec Baldwin</name>
+    <role>Alec Baldwin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7447</tmdbid>
+    <imdbid>nm0000285</imdbid>
+    <tvdbid>287126</tvdbid>
+  </actor>
+  <director tmdbid="5010">Todd Field</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T5xtlGiR-Ow</trailer>
+  <rating>7.4</rating>
+  <year>2022</year>
+  <sorttitle>TAR</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14444726</imdbid>
+  <tmdbid>817758</tmdbid>
+  <premiered>2022-10-07</premiered>
+  <releasedate>2022-10-07</releasedate>
+  <runtime>158</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Música</genre>
+  <studio>Standard Film Company</studio>
+  <studio>Focus Features</studio>
+  <studio>EMJAG Productions</studio>
+  <uniqueid type="imdb">tt14444726</uniqueid>
+  <uniqueid type="tmdb">817758</uniqueid>
+  <id>tt14444726</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>792939</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>158</duration>
+        <durationinseconds>9493</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Siga el lanzamiento de la carrera de Lamborghini como fabricante de tractores, creador de vehículos militares durante la Segunda Guerra Mundial y diseñador de automóviles Lamborghini, que lanzó en 1963 como la empresa de automóviles deportivos de alta gama Automobili Lamborghini.]]></plot>
+  <outline><![CDATA[Una Película de Bobby Moresco]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-18 11:57:35</dateadded>
+  <title>Lamborghini: El hombre detrás de la leyenda</title>
+  <originaltitle>Lamborghini: The Man Behind the Legend</originaltitle>
+  <actor>
+    <name>Frank Grillo</name>
+    <role>Ferruccio Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>81685</tmdbid>
+    <imdbid>nm0342029</imdbid>
+  </actor>
+  <actor>
+    <name>Romano Reggiani</name>
+    <role>Young Ferruccio Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>1922410</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Byrne</name>
+    <role>Enzo Ferrari</role>
+    <type>Actor</type>
+    <tmdbid>5168</tmdbid>
+    <imdbid>nm0000321</imdbid>
+  </actor>
+  <actor>
+    <name>Matteo Leoni</name>
+    <role>Matteo</role>
+    <type>Actor</type>
+    <tmdbid>1790757</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah van der Westhuysen</name>
+    <role>Clelia Monti</role>
+    <type>Actor</type>
+    <tmdbid>1540185</tmdbid>
+    <imdbid>nm1872518</imdbid>
+    <tvdbid>8093742</tvdbid>
+  </actor>
+  <actor>
+    <name>Mira Sorvino</name>
+    <role>Anita Borgatti</role>
+    <type>Actor</type>
+    <tmdbid>23931</tmdbid>
+    <imdbid>nm0000227</imdbid>
+    <tvdbid>324299</tvdbid>
+  </actor>
+  <actor>
+    <name>Chiara Primavesi</name>
+    <role>Young Anita</role>
+    <type>Actor</type>
+    <tmdbid>1815997</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Tizzano</name>
+    <role>Gabriella</role>
+    <type>Actor</type>
+    <tmdbid>3414548</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca De Martini</name>
+    <role>Evelina Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>1816062</tmdbid>
+  </actor>
+  <actor>
+    <name>Fortunato Cerlino</name>
+    <role>Antonio Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>1343864</tmdbid>
+    <imdbid>nm2188652</imdbid>
+  </actor>
+  <actor>
+    <name>Giulio Mezza</name>
+    <role>Edmondo Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>137803</tmdbid>
+  </actor>
+  <actor>
+    <name>Giorgio Cantarini</name>
+    <role>Giorgio Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>9236</tmdbid>
+    <imdbid>nm0134493</imdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Scotti</name>
+    <role>Silvio Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>2219983</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Viganò</name>
+    <role>Tonino Lamborghini</role>
+    <type>Actor</type>
+    <tmdbid>3881661</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Brennan</name>
+    <role>Bob Wallace</role>
+    <type>Actor</type>
+    <tmdbid>76022</tmdbid>
+    <imdbid>nm1229637</imdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Cecchi</name>
+    <role>Gian Paolo Dallara</role>
+    <type>Actor</type>
+    <tmdbid>1612166</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca  Riemma</name>
+    <role>Giotto Bizzarrini</role>
+    <type>Actor</type>
+    <tmdbid>1156419</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Bruschi</name>
+    <role>Franco Scaglione</role>
+    <type>Actor</type>
+    <tmdbid>25102</tmdbid>
+  </actor>
+  <actor>
+    <name>Clementino</name>
+    <role>Mario Corrado</role>
+    <type>Actor</type>
+    <tmdbid>1605204</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommaso Basili</name>
+    <role>Diego</role>
+    <type>Actor</type>
+    <tmdbid>2078350</tmdbid>
+  </actor>
+  <actor>
+    <name>Gian Franco Tordi</name>
+    <role>Radio reporter</role>
+    <type>Actor</type>
+    <tmdbid>1868278</tmdbid>
+  </actor>
+  <actor>
+    <name>Loris Loddi</name>
+    <role>Graphic artist</role>
+    <type>Actor</type>
+    <tmdbid>7196</tmdbid>
+    <imdbid>nm0230130</imdbid>
+  </actor>
+  <actor>
+    <name>Eliana Jones</name>
+    <role>Billie Alland</role>
+    <type>Actor</type>
+    <tmdbid>1169685</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Antonacci</name>
+    <role>Tony Renis</role>
+    <type>Actor</type>
+    <tmdbid>2767655</tmdbid>
+  </actor>
+  <actor>
+    <name>Shyann Yan</name>
+    <role>News reporter</role>
+    <type>Actor</type>
+    <tmdbid>3881663</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianna Folli</name>
+    <role>Maid</role>
+    <type>Actor</type>
+    <tmdbid>2523045</tmdbid>
+  </actor>
+  <actor>
+    <name>Ema Kovac</name>
+    <role>Blonde Beauty</role>
+    <type>Actor</type>
+    <tmdbid>3881665</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Salerni</name>
+    <role>Vito Rossi</role>
+    <type>Actor</type>
+    <tmdbid>1896050</tmdbid>
+  </actor>
+  <actor>
+    <name>David Meden</name>
+    <role>Government Official</role>
+    <type>Actor</type>
+    <tmdbid>3881666</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Malaguti</name>
+    <role>Engraver</role>
+    <type>Actor</type>
+    <tmdbid>3881667</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicoletta Cefaly</name>
+    <role>Neigbor</role>
+    <type>Actor</type>
+    <tmdbid>2184140</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Quaglia</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>996844</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatrice Cevolani</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2064634</tmdbid>
+  </actor>
+  <director tmdbid="137064">Bobby Moresco</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kzqwRxorvKE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WjTICfrC25s</trailer>
+  <rating>5.4</rating>
+  <year>2022</year>
+  <sorttitle>Lamborghini: El hombre detras de la leyenda</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt5533370</imdbid>
+  <tmdbid>457232</tmdbid>
+  <premiered>2022-11-18</premiered>
+  <releasedate>2022-11-18</releasedate>
+  <runtime>97</runtime>
+  <tagline>Una Película de Bobby Moresco</tagline>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Grindstone Entertainment Group</studio>
+  <studio>Iervolino &amp; Lady Bacardi Entertainment</studio>
+  <studio>Lambofilm</studio>
+  <studio>Zian Films</studio>
+  <uniqueid type="tmdb">457232</uniqueid>
+  <uniqueid type="imdb">tt5533370</uniqueid>
+  <id>tt5533370</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1151633</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5796</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

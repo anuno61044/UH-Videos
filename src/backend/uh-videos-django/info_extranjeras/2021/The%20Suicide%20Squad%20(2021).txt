@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.]]></plot>
+  <outline><![CDATA[Se mueren por salvar el mundo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-05 20:26:42</dateadded>
+  <title>El escuadrón suicida</title>
+  <originaltitle>The Suicide Squad</originaltitle>
+  <actor>
+    <name>Margot Robbie</name>
+    <role>Harleen Quinzel / Harley Quinn</role>
+    <type>Actor</type>
+    <tmdbid>234352</tmdbid>
+    <imdbid>nm3053338</imdbid>
+    <tvdbid>327479</tvdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Robert DuBois / Bloodsport</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+    <tvdbid>269501</tvdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Christopher Smith / Peacemaker</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+    <tvdbid>281914</tvdbid>
+  </actor>
+  <actor>
+    <name>Joel Kinnaman</name>
+    <role>Colonel Rick Flag</role>
+    <type>Actor</type>
+    <tmdbid>92404</tmdbid>
+    <imdbid>nm1172478</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvester Stallone</name>
+    <role>Nanaue / King Shark (voice)</role>
+    <type>Actor</type>
+    <tmdbid>16483</tmdbid>
+    <imdbid>nm0000230</imdbid>
+    <tvdbid>254226</tvdbid>
+  </actor>
+  <actor>
+    <name>Viola Davis</name>
+    <role>Amanda Waller</role>
+    <type>Actor</type>
+    <tmdbid>19492</tmdbid>
+    <imdbid>nm0205626</imdbid>
+    <tvdbid>269662</tvdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Abner Krill / Polka-Dot Man</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Daniela Melchior</name>
+    <role>Cleo Cazo / Ratcatcher 2</role>
+    <type>Actor</type>
+    <tmdbid>1784612</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rooker</name>
+    <role>Brian Durlin / Savant</role>
+    <type>Actor</type>
+    <tmdbid>12132</tmdbid>
+    <imdbid>nm0740264</imdbid>
+    <tvdbid>294173</tvdbid>
+  </actor>
+  <actor>
+    <name>Jai Courtney</name>
+    <role>George 'Digger' Harkness / Captain Boomerang</role>
+    <type>Actor</type>
+    <tmdbid>224181</tmdbid>
+    <imdbid>nm2541974</imdbid>
+    <tvdbid>331174</tvdbid>
+  </actor>
+  <actor>
+    <name>Peter Capaldi</name>
+    <role>Gaius Grieves / The Thinker</role>
+    <type>Actor</type>
+    <tmdbid>12982</tmdbid>
+    <imdbid>nm0134922</imdbid>
+    <tvdbid>261504</tvdbid>
+  </actor>
+  <actor>
+    <name>Alice Braga</name>
+    <role>Sol Soria</role>
+    <type>Actor</type>
+    <tmdbid>8602</tmdbid>
+    <imdbid>nm0103797</imdbid>
+    <tvdbid>532274</tvdbid>
+  </actor>
+  <actor>
+    <name>Pete Davidson</name>
+    <role>Richard Hertz / Blackguard</role>
+    <type>Actor</type>
+    <tmdbid>1427948</tmdbid>
+    <imdbid>nm0203457</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Cosío</name>
+    <role>Mayor General Mateo Suarez</role>
+    <type>Actor</type>
+    <tmdbid>76857</tmdbid>
+    <imdbid>nm1370408</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Diego Botto</name>
+    <role>Presidente General Silvio Luna</role>
+    <type>Actor</type>
+    <tmdbid>36632</tmdbid>
+    <imdbid>nm0098709</imdbid>
+    <tvdbid>365065</tvdbid>
+  </actor>
+  <actor>
+    <name>Storm Reid</name>
+    <role>Tyla DuBois</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+    <imdbid>nm4977564</imdbid>
+    <tvdbid>480296</tvdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fillion</name>
+    <role>Cory Pitzner / T.D.K.</role>
+    <type>Actor</type>
+    <tmdbid>51797</tmdbid>
+    <imdbid>nm0277213</imdbid>
+    <tvdbid>248237</tvdbid>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>Ratcatcher</role>
+    <type>Actor</type>
+    <tmdbid>55934</tmdbid>
+    <imdbid>nm0169806</imdbid>
+    <tvdbid>490689</tvdbid>
+  </actor>
+  <actor>
+    <name>Steve Agee</name>
+    <role>John Economos / On-Set King Shark</role>
+    <type>Actor</type>
+    <tmdbid>559457</tmdbid>
+    <tvdbid>308124</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Gunn</name>
+    <role>Weasel / Calendar Man</role>
+    <type>Actor</type>
+    <tmdbid>51663</tmdbid>
+    <imdbid>nm0348231</imdbid>
+  </actor>
+  <actor>
+    <name>John Ostrander</name>
+    <role>Doctor Fitzgibbon</role>
+    <type>Actor</type>
+    <tmdbid>2267336</tmdbid>
+  </actor>
+  <actor>
+    <name>Flula Borg</name>
+    <role>Gunter Braun / Javelin</role>
+    <type>Actor</type>
+    <tmdbid>1471841</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayling Ng</name>
+    <role>Mongal</role>
+    <type>Actor</type>
+    <tmdbid>1527565</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Blackehart</name>
+    <role>Briscoe</role>
+    <type>Actor</type>
+    <tmdbid>85096</tmdbid>
+    <imdbid>nm0002888</imdbid>
+  </actor>
+  <actor>
+    <name>Tinashe Kajese</name>
+    <role>Flo Crawley</role>
+    <type>Actor</type>
+    <tmdbid>1704660</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Holland</name>
+    <role>Emilia Harcourt</role>
+    <type>Actor</type>
+    <tmdbid>87165</tmdbid>
+    <imdbid>nm1684744</imdbid>
+    <tvdbid>393463</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Martinez</name>
+    <role>Sliced Dome Soldado</role>
+    <type>Actor</type>
+    <tmdbid>1358063</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Bradley Baker</name>
+    <role>Sebastian (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23680</tmdbid>
+    <imdbid>nm0048389</imdbid>
+  </actor>
+  <actor>
+    <name>Jaws</name>
+    <role>Sebastian Rat</role>
+    <type>Actor</type>
+    <tmdbid>3240866</tmdbid>
+  </actor>
+  <actor>
+    <name>Crisp Ratt</name>
+    <role>Sebastian Rat</role>
+    <type>Actor</type>
+    <tmdbid>3240867</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Kaleidoscope</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Leland Gore</name>
+    <role>Double Down</role>
+    <type>Actor</type>
+    <tmdbid>3192808</tmdbid>
+  </actor>
+  <actor>
+    <name>Rey Hernandez</name>
+    <role>Teniente</role>
+    <type>Actor</type>
+    <tmdbid>76799</tmdbid>
+    <imdbid>nm1411388</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Benitez</name>
+    <role>Coronel</role>
+    <type>Actor</type>
+    <tmdbid>2141494</tmdbid>
+  </actor>
+  <actor>
+    <name>Reinaldo Faberlle</name>
+    <role>Large Guerrilla</role>
+    <type>Actor</type>
+    <tmdbid>1937912</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Fritschi</name>
+    <role>Delicious Hot Dog Guerrilla</role>
+    <type>Actor</type>
+    <tmdbid>1290604</tmdbid>
+    <imdbid>nm4973032</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Ventura</name>
+    <role>Astronaut</role>
+    <type>Actor</type>
+    <tmdbid>1280398</tmdbid>
+    <tvdbid>506355</tvdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Davila</name>
+    <role>General Vera</role>
+    <type>Actor</type>
+    <tmdbid>968692</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikaela Hoover</name>
+    <role>Camila</role>
+    <type>Actor</type>
+    <tmdbid>1363394</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynne Ashe</name>
+    <role>Polka-Dot Man's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1493882</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Cesar Ruiz</name>
+    <role>Milton</role>
+    <type>Actor</type>
+    <tmdbid>3167056</tmdbid>
+  </actor>
+  <actor>
+    <name>J.R. Adduci</name>
+    <role>Road Block Soldado</role>
+    <type>Actor</type>
+    <tmdbid>1763912</tmdbid>
+  </actor>
+  <actor>
+    <name>Curtis Lyons Jr.</name>
+    <role>Road Block Soldado #3</role>
+    <type>Actor</type>
+    <tmdbid>3359656</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Le Clark</name>
+    <role>Young Cleo</role>
+    <type>Actor</type>
+    <tmdbid>1666061</tmdbid>
+  </actor>
+  <actor>
+    <name>Elideusa Gomes Almeida</name>
+    <role>La Gatita Presents Traditional Corto Maltese Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3359657</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanna Kernan</name>
+    <role>La Gatita Presents Traditional Corto Maltese Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3359658</tmdbid>
+  </actor>
+  <actor>
+    <name>Bridget Taylor</name>
+    <role>La Gatita Presents Traditional Corto Maltese Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3359659</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Rivera</name>
+    <role>La Gatita Presents Traditional Corto Maltese Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3359660</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Andrade</name>
+    <role>La Gatita Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1486623</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Rodriguez</name>
+    <role>Texting Torturer</role>
+    <type>Actor</type>
+    <tmdbid>1507552</tmdbid>
+  </actor>
+  <actor>
+    <name>Giovannie Cruz</name>
+    <role>Isabella</role>
+    <type>Actor</type>
+    <tmdbid>3125907</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Carlo</name>
+    <role>Isabella's Second</role>
+    <type>Actor</type>
+    <tmdbid>133511</tmdbid>
+  </actor>
+  <actor>
+    <name>Edgar Zanabria</name>
+    <role>Torn-In-Half Soldado</role>
+    <type>Actor</type>
+    <tmdbid>1986544</tmdbid>
+  </actor>
+  <actor>
+    <name>Grecia Balboa</name>
+    <role>Security Dispatcher</role>
+    <type>Actor</type>
+    <tmdbid>3359669</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Trujillo</name>
+    <role>Bespectacled Soldado</role>
+    <type>Actor</type>
+    <tmdbid>2374339</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Havens</name>
+    <role>Star-Crossed Man</role>
+    <type>Actor</type>
+    <tmdbid>1381393</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Civile</name>
+    <role>Star-Crossed Woman</role>
+    <type>Actor</type>
+    <tmdbid>3245755</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Manning</name>
+    <role>Star-Crossed Kid</role>
+    <type>Actor</type>
+    <tmdbid>3359690</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Aaron Milligan</name>
+    <role>Star-Crossed Dude</role>
+    <type>Actor</type>
+    <tmdbid>1473957</tmdbid>
+  </actor>
+  <actor>
+    <name>Diany Rodriguez</name>
+    <role>Star-Crossed Gal</role>
+    <type>Actor</type>
+    <tmdbid>2472584</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresita Mans</name>
+    <role>Star-Crossed Lady</role>
+    <type>Actor</type>
+    <tmdbid>3359691</tmdbid>
+  </actor>
+  <actor>
+    <name>Terence Rosemore</name>
+    <role>Crew Chief</role>
+    <type>Actor</type>
+    <tmdbid>1411625</tmdbid>
+    <imdbid>nm0741893</imdbid>
+  </actor>
+  <actor>
+    <name>Lloyd Kaufman</name>
+    <role>Dancing La Gatita Bar Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>78021</tmdbid>
+    <imdbid>nm0442207</imdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <role>La Gatita Amable Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <director tmdbid="15218" imdbid="nm0348181">James Gunn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qv8eF1u0-QU</trailer>
+  <rating>7.2</rating>
+  <year>2021</year>
+  <sorttitle>escuadron suicida</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt6334354</imdbid>
+  <tmdbid>436969</tmdbid>
+  <premiered>2021-07-28</premiered>
+  <releasedate>2021-07-28</releasedate>
+  <runtime>132</runtime>
+  <tagline>Se mueren por salvar el mundo.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Aventura</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Atlas Entertainment</studio>
+  <studio>The Safran Company</studio>
+  <studio>DC Films</studio>
+  <set tmdbcolid="531242">
+    <name>Escuadrón suicida - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt6334354</uniqueid>
+  <uniqueid type="tmdb">436969</uniqueid>
+  <id>tt6334354</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>948939</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7926</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Detroit, año 1954. Unos delincuentes de poca monta son contratados para robar lo que ellos creen que es un simple documento y será un trabajo fácil. Cuando su plan no sale como ellos esperaban, emprenden la búsqueda de quien los contrató y del propósito real para el que fueron contratados.]]></plot>
+  <outline><![CDATA[La confianza es una trampa.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-07 08:28:58</dateadded>
+  <title>Sin movimientos bruscos</title>
+  <originaltitle>No Sudden Move</originaltitle>
+  <actor>
+    <name>Don Cheadle</name>
+    <role>Curtis 'Curt' Goynes</role>
+    <type>Actor</type>
+    <tmdbid>1896</tmdbid>
+    <imdbid>nm0000332</imdbid>
+    <tvdbid>275685</tvdbid>
+  </actor>
+  <actor>
+    <name>Benicio del Toro</name>
+    <role>Ronald Russo</role>
+    <type>Actor</type>
+    <tmdbid>1121</tmdbid>
+    <imdbid>nm0001125</imdbid>
+    <tvdbid>294163</tvdbid>
+  </actor>
+  <actor>
+    <name>David Harbour</name>
+    <role>Matt Wertz</role>
+    <type>Actor</type>
+    <tmdbid>35029</tmdbid>
+    <imdbid>nm1092086</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Hamm</name>
+    <role>Det. Joe Finney</role>
+    <type>Actor</type>
+    <tmdbid>65717</tmdbid>
+    <imdbid>nm0358316</imdbid>
+    <tvdbid>269026</tvdbid>
+  </actor>
+  <actor>
+    <name>Ray Liotta</name>
+    <role>Frank Capelli</role>
+    <type>Actor</type>
+    <tmdbid>11477</tmdbid>
+    <imdbid>nm0000501</imdbid>
+    <tvdbid>310415</tvdbid>
+  </actor>
+  <actor>
+    <name>Brendan Fraser</name>
+    <role>Doug Jones</role>
+    <type>Actor</type>
+    <tmdbid>18269</tmdbid>
+    <imdbid>nm0000409</imdbid>
+    <tvdbid>294157</tvdbid>
+  </actor>
+  <actor>
+    <name>Kieran Culkin</name>
+    <role>Charley</role>
+    <type>Actor</type>
+    <tmdbid>18793</tmdbid>
+    <imdbid>nm0001085</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Seimetz</name>
+    <role>Mary Wertz</role>
+    <type>Actor</type>
+    <tmdbid>139150</tmdbid>
+    <imdbid>nm1541272</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Fox</name>
+    <role>Vanessa Capelli</role>
+    <type>Actor</type>
+    <tmdbid>2371446</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Duke</name>
+    <role>Aldrick Watkins</role>
+    <type>Actor</type>
+    <tmdbid>1103</tmdbid>
+    <imdbid>nm0004886</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Shaw</name>
+    <role>Paula Cole</role>
+    <type>Actor</type>
+    <tmdbid>85756</tmdbid>
+    <imdbid>nm1951390</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Jupe</name>
+    <role>Matthew Wertz Jr.</role>
+    <type>Actor</type>
+    <tmdbid>1590759</tmdbid>
+    <imdbid>nm7415871</imdbid>
+  </actor>
+  <actor>
+    <name>Craig muMs Grant</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1196493</tmdbid>
+    <imdbid>nm0196185</imdbid>
+  </actor>
+  <actor>
+    <name>Byron Bowers</name>
+    <role>Maurice</role>
+    <type>Actor</type>
+    <tmdbid>1687573</tmdbid>
+    <imdbid>nm2720892</imdbid>
+    <tvdbid>628775</tvdbid>
+  </actor>
+  <actor>
+    <name>Lauren Rys Martin</name>
+    <role>Ava</role>
+    <type>Actor</type>
+    <tmdbid>1675145</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren LaStrada</name>
+    <role>Clarisse</role>
+    <type>Actor</type>
+    <tmdbid>2658179</tmdbid>
+  </actor>
+  <actor>
+    <name>Javon Anderson</name>
+    <role>Lonnie</role>
+    <type>Actor</type>
+    <tmdbid>1727389</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugh Maguire</name>
+    <role>Mel Forbert</role>
+    <type>Actor</type>
+    <tmdbid>87447</tmdbid>
+    <imdbid>nm0536582</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Gloss</name>
+    <role>Louise Forbert</role>
+    <type>Actor</type>
+    <tmdbid>2631863</tmdbid>
+  </actor>
+  <actor>
+    <name>Wallace Bridges</name>
+    <role>Rudy</role>
+    <type>Actor</type>
+    <tmdbid>1738267</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Tocco</name>
+    <role>State Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1738282</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Holt</name>
+    <role>Peggy Wertz</role>
+    <type>Actor</type>
+    <tmdbid>3142699</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Russell</name>
+    <role>Amy Watkinson</role>
+    <type>Actor</type>
+    <tmdbid>3142701</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Banks</name>
+    <role>Dawn Atkinson</role>
+    <type>Actor</type>
+    <tmdbid>1163969</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Sawyer</name>
+    <role>State Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>3142703</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Wheeler</name>
+    <role>Barber</role>
+    <type>Actor</type>
+    <tmdbid>3142704</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Mishevitz</name>
+    <role>Brian Atkinson</role>
+    <type>Actor</type>
+    <tmdbid>3142705</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Scollin</name>
+    <role>Hugh Naismith</role>
+    <type>Actor</type>
+    <tmdbid>3142706</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Cronin</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>154338</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Jane Smith</name>
+    <role>CCA Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>3142708</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Mike Lowen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <director tmdbid="1884" imdbid="nm0001752">Steven Soderbergh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7GRDLX3a-IE</trailer>
+  <rating>6.4</rating>
+  <year>2021</year>
+  <sorttitle>Sin movimientos bruscos</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11525644</imdbid>
+  <tmdbid>649409</tmdbid>
+  <premiered>2021-06-24</premiered>
+  <releasedate>2021-06-24</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>115</runtime>
+  <tagline>La confianza es una trampa.</tagline>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>HBO Max</studio>
+  <uniqueid type="imdb">tt11525644</uniqueid>
+  <uniqueid type="tmdb">649409</uniqueid>
+  <id>tt11525644</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>968972</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6905</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una aventura de fantasía épica basada en la eterna leyenda artúrica, The Green Knight cuenta la historia de Sir Gawain (Dev Patel), el temerario y testarudo sobrino del Rey Arturo, que se embarca en una atrevida búsqueda para enfrentarse al homónimo Caballero Verde, un gigantesco de piel esmeralda.]]></plot>
+  <outline><![CDATA[Cuando el honor lo era todo. Cuando el valor hacía a los reyes.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-18 22:27:05</dateadded>
+  <title>El Caballero Verde</title>
+  <originaltitle>The Green Knight</originaltitle>
+  <actor>
+    <name>Dev Patel</name>
+    <role>Gawain</role>
+    <type>Actor</type>
+    <tmdbid>76788</tmdbid>
+    <imdbid>nm2353862</imdbid>
+    <tvdbid>303267</tvdbid>
+  </actor>
+  <actor>
+    <name>Alicia Vikander</name>
+    <role>Lady / Essel</role>
+    <type>Actor</type>
+    <tmdbid>227454</tmdbid>
+    <imdbid>nm2539953</imdbid>
+    <tvdbid>331172</tvdbid>
+  </actor>
+  <actor>
+    <name>Joel Edgerton</name>
+    <role>Lord</role>
+    <type>Actor</type>
+    <tmdbid>33192</tmdbid>
+    <imdbid>nm0249291</imdbid>
+    <tvdbid>296971</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarita Choudhury</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>20275</tmdbid>
+    <imdbid>nm0002004</imdbid>
+    <tvdbid>312590</tvdbid>
+  </actor>
+  <actor>
+    <name>Sean Harris</name>
+    <role>King</role>
+    <type>Actor</type>
+    <tmdbid>16702</tmdbid>
+    <imdbid>nm0365317</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Dickie</name>
+    <role>Queen</role>
+    <type>Actor</type>
+    <tmdbid>71083</tmdbid>
+    <imdbid>nm0225483</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Scavenger</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+    <imdbid>nm4422686</imdbid>
+  </actor>
+  <actor>
+    <name>Erin Kellyman</name>
+    <role>Winifred</role>
+    <type>Actor</type>
+    <tmdbid>1672504</tmdbid>
+    <imdbid>nm7210986</imdbid>
+    <tvdbid>482257</tvdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>Green Knight</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Emilie Hetland</name>
+    <role>First Thief</role>
+    <type>Actor</type>
+    <tmdbid>2538010</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Morris</name>
+    <role>Second Thief</role>
+    <type>Actor</type>
+    <tmdbid>1865000</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Tiernan</name>
+    <role>Princess / Gawain's Queen</role>
+    <type>Actor</type>
+    <tmdbid>2538012</tmdbid>
+  </actor>
+  <actor>
+    <name>Noelle Brown</name>
+    <role>Sharecropper's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2811941</tmdbid>
+  </actor>
+  <actor>
+    <name>Youssef Quinn</name>
+    <role>Soldier #3</role>
+    <type>Actor</type>
+    <tmdbid>2538017</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Edo</name>
+    <role>Soldier #2</role>
+    <type>Actor</type>
+    <tmdbid>2515832</tmdbid>
+  </actor>
+  <actor>
+    <name>Margeaux Wright</name>
+    <type>Actor</type>
+    <tmdbid>2538018</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyrone Kearns</name>
+    <role>Noble</role>
+    <type>Actor</type>
+    <tmdbid>2430186</tmdbid>
+  </actor>
+  <actor>
+    <name>Helena Browne</name>
+    <role>Blindfolded Woman</role>
+    <type>Actor</type>
+    <tmdbid>3123653</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Conroy</name>
+    <role>Taverngoer</role>
+    <type>Actor</type>
+    <tmdbid>26865</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Dillion</name>
+    <role>Soldier #1</role>
+    <type>Actor</type>
+    <tmdbid>3123654</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris McHallem</name>
+    <role>Lord in Waiting</role>
+    <type>Actor</type>
+    <tmdbid>33452</tmdbid>
+    <imdbid>nm0570375</imdbid>
+  </actor>
+  <actor>
+    <name>Atheena Frizzell</name>
+    <role>Younger Sister</role>
+    <type>Actor</type>
+    <tmdbid>1452151</tmdbid>
+  </actor>
+  <actor>
+    <name>Donncha Crowley</name>
+    <role>Bishop</role>
+    <type>Actor</type>
+    <tmdbid>140006</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Duffy</name>
+    <role>Gawain's Friend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3176581</tmdbid>
+  </actor>
+  <actor>
+    <name>Janet Grene</name>
+    <role>Townsfolk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3176583</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Haines</name>
+    <role>Townsfolk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3139129</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Leavey</name>
+    <role>Knight of the Round Table (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3176584</tmdbid>
+  </actor>
+  <actor>
+    <name>Anais Rizzo</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>3369473</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Anderson</name>
+    <role>Paris</role>
+    <type>Actor</type>
+    <tmdbid>3369477</tmdbid>
+  </actor>
+  <actor>
+    <name>Nita Mishra</name>
+    <role>Older sister</role>
+    <type>Actor</type>
+    <tmdbid>3369478</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Mae</name>
+    <role>The middle sister</role>
+    <type>Actor</type>
+    <tmdbid>3369479</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmett O'Brien</name>
+    <role>Magician</role>
+    <type>Actor</type>
+    <tmdbid>1467401</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Uppal Lynch</name>
+    <role>Prince Age 7</role>
+    <type>Actor</type>
+    <tmdbid>3369480</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Karim</name>
+    <role>Prince Age 17</role>
+    <type>Actor</type>
+    <tmdbid>1814068</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Patel</name>
+    <role>Princess Age 4</role>
+    <type>Actor</type>
+    <tmdbid>3369482</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Patel</name>
+    <role>Princess Age 6</role>
+    <type>Actor</type>
+    <tmdbid>3369483</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Quinn</name>
+    <role>Giant</role>
+    <type>Actor</type>
+    <tmdbid>3369484</tmdbid>
+  </actor>
+  <director tmdbid="592493" imdbid="nm1108007">David Lowery</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sS6ksY8xWCY</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Caballero Verde</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9243804</imdbid>
+  <tmdbid>559907</tmdbid>
+  <premiered>2021-07-29</premiered>
+  <releasedate>2021-07-29</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>130</runtime>
+  <tagline>Cuando el honor lo era todo. Cuando el valor hacía a los reyes.</tagline>
+  <country>Canada</country>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Aventura</genre>
+  <genre>Drama</genre>
+  <genre>Fantasía</genre>
+  <studio>Bron Studios</studio>
+  <studio>Sailor Bear</studio>
+  <studio>A24</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Ley Line Entertainment</studio>
+  <studio>Wild Atlantic Pictures</studio>
+  <uniqueid type="imdb">tt9243804</uniqueid>
+  <uniqueid type="tmdb">559907</uniqueid>
+  <id>tt9243804</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1463161</bitrate>
+        <width>720</width>
+        <height>392</height>
+        <aspect>181:98</aspect>
+        <aspectratio>181:98</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7776</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

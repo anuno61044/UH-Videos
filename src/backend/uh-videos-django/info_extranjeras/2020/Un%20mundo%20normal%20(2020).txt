@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ernesto, un director de teatro excéntrico e inconformista, recibe la noticia de la muerte de su madre. Camino al cementerio roba el ataúd para tirar el cadáver al océano como era su deseo. Su hija, cansada de sus locuras, le acompaña con la intención de hacerle cambiar de idea. En el viaje descubrirá que su padre no es ningún loco y que uno debe ser fiel a sí mismo aunque esto, a veces, suponga ir en contra de la opinión de la mayoría.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-04 09:57:04</dateadded>
+  <title>Un mundo normal</title>
+  <originaltitle>Un mundo normal</originaltitle>
+  <actor>
+    <name>Ernesto Alterio</name>
+    <role>Ernesto</role>
+    <type>Actor</type>
+    <tmdbid>27459</tmdbid>
+    <imdbid>nm0022764</imdbid>
+    <tvdbid>503668</tvdbid>
+  </actor>
+  <actor>
+    <name>Gala Amyach</name>
+    <role>Cloe</role>
+    <type>Actor</type>
+    <tmdbid>2555154</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Díaz</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>79288</tmdbid>
+    <imdbid>nm1699333</imdbid>
+  </actor>
+  <actor>
+    <name>Pau Durà</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>1106176</tmdbid>
+    <imdbid>nm0244459</imdbid>
+    <tvdbid>7911759</tvdbid>
+  </actor>
+  <actor>
+    <name>Magüi Mira</name>
+    <role>Carolina</role>
+    <type>Actor</type>
+    <tmdbid>1160748</tmdbid>
+    <imdbid>nm0591942</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Pastor</name>
+    <type>Actor</type>
+    <tmdbid>1981909</tmdbid>
+  </actor>
+  <director tmdbid="59142" imdbid="nm0563748">Achero Mañas</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MJRdv70RbZU</trailer>
+  <rating>4.8</rating>
+  <year>2020</year>
+  <sorttitle>Un mundo normal</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt8376986</imdbid>
+  <tmdbid>679891</tmdbid>
+  <premiered>2020-09-11</premiered>
+  <releasedate>2020-09-11</releasedate>
+  <runtime>108</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Tornasol Films</studio>
+  <studio>Sunday Morning Productions</studio>
+  <uniqueid type="imdb">tt8376986</uniqueid>
+  <uniqueid type="tmdb">679891</uniqueid>
+  <id>tt8376986</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>363757</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>23.976</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6475</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>248978</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

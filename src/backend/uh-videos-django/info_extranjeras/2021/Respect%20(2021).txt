@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Biopic de la legendaria cantante Aretha Franklin que sigue su carrera desde la infancia, cuando cantaba en el coro de la iglesia de su padre, hasta que consiguió su enorme fama internacional.]]></plot>
+  <outline><![CDATA[Descubre lo que significa.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-27 08:16:20</dateadded>
+  <title>Respect</title>
+  <originaltitle>Respect</originaltitle>
+  <actor>
+    <name>Jennifer Hudson</name>
+    <role>Aretha Franklin</role>
+    <type>Actor</type>
+    <tmdbid>15565</tmdbid>
+    <imdbid>nm1617685</imdbid>
+  </actor>
+  <actor>
+    <name>Forest Whitaker</name>
+    <role>C. L. Franklin</role>
+    <type>Actor</type>
+    <tmdbid>2178</tmdbid>
+    <imdbid>nm0001845</imdbid>
+    <tvdbid>276091</tvdbid>
+  </actor>
+  <actor>
+    <name>Marlon Wayans</name>
+    <role>Ted White</role>
+    <type>Actor</type>
+    <tmdbid>9562</tmdbid>
+    <imdbid>nm0005541</imdbid>
+    <tvdbid>266747</tvdbid>
+  </actor>
+  <actor>
+    <name>Audra McDonald</name>
+    <role>Barbara Franklin</role>
+    <type>Actor</type>
+    <tmdbid>187565</tmdbid>
+    <imdbid>nm0567653</imdbid>
+    <tvdbid>273746</tvdbid>
+  </actor>
+  <actor>
+    <name>Mary J. Blige</name>
+    <role>Dinah Washington</role>
+    <type>Actor</type>
+    <tmdbid>84933</tmdbid>
+    <imdbid>nm0004763</imdbid>
+    <tvdbid>278129</tvdbid>
+  </actor>
+  <actor>
+    <name>Marc Maron</name>
+    <role>Jerry Wexler</role>
+    <type>Actor</type>
+    <tmdbid>1231717</tmdbid>
+    <imdbid>nm0549505</imdbid>
+    <tvdbid>309919</tvdbid>
+  </actor>
+  <actor>
+    <name>Tituss Burgess</name>
+    <role>Reverend Dr. James Cleveland</role>
+    <type>Actor</type>
+    <tmdbid>1394997</tmdbid>
+  </actor>
+  <actor>
+    <name>Saycon Sengbloh</name>
+    <role>Erma Franklin</role>
+    <type>Actor</type>
+    <tmdbid>1218227</tmdbid>
+    <imdbid>nm0784255</imdbid>
+  </actor>
+  <actor>
+    <name>Hailey Kilgore</name>
+    <role>Carolyn Franklin</role>
+    <type>Actor</type>
+    <tmdbid>2435851</tmdbid>
+  </actor>
+  <actor>
+    <name>Tate Donovan</name>
+    <role>John Hammond</role>
+    <type>Actor</type>
+    <tmdbid>15455</tmdbid>
+    <imdbid>nm0004883</imdbid>
+  </actor>
+  <actor>
+    <name>Skye Dakota Turner</name>
+    <role>Aretha Franklin (young)</role>
+    <type>Actor</type>
+    <tmdbid>2435853</tmdbid>
+  </actor>
+  <actor>
+    <name>Heather Headley</name>
+    <role>Clara Ward</role>
+    <type>Actor</type>
+    <tmdbid>117091</tmdbid>
+  </actor>
+  <actor>
+    <name>Leroy McClain</name>
+    <role>Cecil Franklin</role>
+    <type>Actor</type>
+    <tmdbid>1783957</tmdbid>
+    <imdbid>nm2273440</imdbid>
+    <tvdbid>7925103</tvdbid>
+  </actor>
+  <actor>
+    <name>Lodric D. Collins</name>
+    <role>Smokey Robinson</role>
+    <type>Actor</type>
+    <tmdbid>1532387</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenda Nicole Moorer</name>
+    <role>Brenda Franklin</role>
+    <type>Actor</type>
+    <tmdbid>3211547</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Gilpin</name>
+    <role>Teenager</role>
+    <type>Actor</type>
+    <tmdbid>2748783</tmdbid>
+  </actor>
+  <director tmdbid="1966571">Liesl Tommy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F-aFpm5BKfs</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Respect</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2452150</imdbid>
+  <tmdbid>592863</tmdbid>
+  <premiered>2021-08-12</premiered>
+  <releasedate>2021-08-12</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>145</runtime>
+  <tagline>Descubre lo que significa.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Música</genre>
+  <genre>Drama</genre>
+  <genre>Historia</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Bron Studios</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>Cinesite</studio>
+  <studio>Glickmania</studio>
+  <uniqueid type="imdb">tt2452150</uniqueid>
+  <uniqueid type="tmdb">592863</uniqueid>
+  <id>tt2452150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>866050</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>144</duration>
+        <durationinseconds>8691</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

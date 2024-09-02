@@ -68,13 +68,10 @@ def populate(num_users=30, num_movies=20, num_ratings=150):
                 root = tree.getroot()
                 
                 movie_title = root.find('originaltitle').text
-                # movie_year = root.find('year').text
                 movie_director = root.find('director').text
-                # movie_language = root.find('fileinfo').find('streamdetails').find('audio').find('language').text
-                # movie_countries = [country.text for country in root.findall('country')]
                 movie_genres = [genre.text for genre in root.findall('genre')]
-                # movie_actors = [actor.find('name').text for actor in root.findall('actor')[:3]]
                 movie_description = root.find('plot').text
+                
                 if movie_description is None:
                     movie_description = 'No description'
                 

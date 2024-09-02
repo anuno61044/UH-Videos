@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Melody (Sarah Yarkin), su hermana adolescente Lila (Elsie Fisher) y sus amigos Dante (Jacob Latimore) y Ruth (Nell Hudson) viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty (Olwen Fouéré), la única superviviente de su masacre de 1973, decidida a vengarse a muerte.]]></plot>
+  <outline><![CDATA[La Matanza de Texas]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-18 08:19:00</dateadded>
+  <title>La Matanza de Texas</title>
+  <originaltitle>Texas Chainsaw Massacre</originaltitle>
+  <actor>
+    <name>Sarah Yarkin</name>
+    <role>Melody</role>
+    <type>Actor</type>
+    <tmdbid>2035239</tmdbid>
+    <imdbid>nm4712111</imdbid>
+  </actor>
+  <actor>
+    <name>Elsie Fisher</name>
+    <role>Lila</role>
+    <type>Actor</type>
+    <tmdbid>122851</tmdbid>
+    <imdbid>nm3220568</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Burnham</name>
+    <role>Leatherface</role>
+    <type>Actor</type>
+    <tmdbid>172254</tmdbid>
+    <imdbid>nm0122511</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Latimore</name>
+    <role>Dante</role>
+    <type>Actor</type>
+    <tmdbid>512316</tmdbid>
+    <imdbid>nm3632976</imdbid>
+  </actor>
+  <actor>
+    <name>Moe Dunford</name>
+    <role>Richter</role>
+    <type>Actor</type>
+    <tmdbid>1288730</tmdbid>
+    <imdbid>nm3974805</imdbid>
+  </actor>
+  <actor>
+    <name>Olwen Fouéré</name>
+    <role>Sally Hardesty</role>
+    <type>Actor</type>
+    <tmdbid>933272</tmdbid>
+    <imdbid>nm0288260</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Allain</name>
+    <role>Catherine</role>
+    <type>Actor</type>
+    <tmdbid>2101949</tmdbid>
+    <imdbid>nm6973777</imdbid>
+  </actor>
+  <actor>
+    <name>Nell Hudson</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>1626572</tmdbid>
+    <imdbid>nm5430264</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Krige</name>
+    <role>Mrs. Mc.</role>
+    <type>Actor</type>
+    <tmdbid>2506</tmdbid>
+    <imdbid>nm0000481</imdbid>
+  </actor>
+  <actor>
+    <name>William Hope</name>
+    <role>Sheriff</role>
+    <type>Actor</type>
+    <tmdbid>10207</tmdbid>
+    <imdbid>nm0394054</imdbid>
+  </actor>
+  <actor>
+    <name>Jolyon Coy</name>
+    <role>Deputy</role>
+    <type>Actor</type>
+    <tmdbid>1028292</tmdbid>
+    <imdbid>nm2870590</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Douglas</name>
+    <role>Herb The Proprietor</role>
+    <type>Actor</type>
+    <tmdbid>17072</tmdbid>
+    <imdbid>nm0002243</imdbid>
+  </actor>
+  <actor>
+    <name>John Larroquette</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>14101</tmdbid>
+    <imdbid>nm0488662</imdbid>
+  </actor>
+  <director tmdbid="1981891">David Blue Garcia</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zcI6SFiK_yk</trailer>
+  <rating>4.8</rating>
+  <year>2022</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt11755740</imdbid>
+  <tmdbid>632727</tmdbid>
+  <premiered>2022-02-18</premiered>
+  <releasedate>2022-02-18</releasedate>
+  <criticrating>32</criticrating>
+  <runtime>83</runtime>
+  <tagline>La Matanza de Texas</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>Bad Hombre Films</studio>
+  <studio>Exurbia Films</studio>
+  <set tmdbcolid="111751">
+    <name>La matanza de Texas - Colección</name>
+  </set>
+  <uniqueid type="Tmdb">632727</uniqueid>
+  <uniqueid type="Imdb">tt11755740</uniqueid>
+  <id>tt11755740</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

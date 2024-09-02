@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Rosa tiene un trabajo extenuante, un hermano mandón, un padre pegado como un mejillón, una hermana que no echa una mano, una hija que tras haberse emancipado vuelve a casa con dos bebés y un novio al que no consigue ver el pelo. Demasiado acostumbrada a poner a todo el mundo primero que a sí misma, Rosa se encuentra, a punto de cumplir cuarenta y cinco, no solo con que no tiene control sobre su vida, sino que por el camino que va, no lo va a tener nunca. Rosa decide dar un giro y tomar las riendas de su vida, o al menos intentarlo. Quiere cumplir el sueño de tener un negocio propio, pero antes, quiere casarse y embarcarse en un matrimonio muy especial.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-23 14:11:20</dateadded>
+  <title>La boda de Rosa</title>
+  <originaltitle>La boda de Rosa</originaltitle>
+  <actor>
+    <name>Candela Peña</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>958</tmdbid>
+    <imdbid>nm0679150</imdbid>
+  </actor>
+  <actor>
+    <name>Sergi López</name>
+    <type>Actor</type>
+    <tmdbid>16972</tmdbid>
+    <imdbid>nm0530365</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Poza</name>
+    <type>Actor</type>
+    <tmdbid>27464</tmdbid>
+    <imdbid>nm1208191</imdbid>
+    <tvdbid>7931319</tvdbid>
+  </actor>
+  <actor>
+    <name>Ramón Barea</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>24987</tmdbid>
+    <imdbid>nm0054381</imdbid>
+    <tvdbid>493593</tvdbid>
+  </actor>
+  <actor>
+    <name>Paula Usero</name>
+    <type>Actor</type>
+    <tmdbid>1928187</tmdbid>
+    <imdbid>nm6098424</imdbid>
+  </actor>
+  <actor>
+    <name>María Maroto</name>
+    <type>Actor</type>
+    <tmdbid>1617786</tmdbid>
+  </actor>
+  <actor>
+    <name>María José Hipólito</name>
+    <type>Actor</type>
+    <tmdbid>2689610</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucín Poveda</name>
+    <type>Actor</type>
+    <tmdbid>2689611</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavo Giménez</name>
+    <type>Actor</type>
+    <tmdbid>2689612</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Francés</name>
+    <type>Actor</type>
+    <tmdbid>1031130</tmdbid>
+    <imdbid>nm1352548</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Fernández</name>
+    <role>Adolescente 1</role>
+    <type>Actor</type>
+    <tmdbid>2813382</tmdbid>
+  </actor>
+  <director tmdbid="16973" imdbid="nm0093081">Icíar Bollaín</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E1H3GjbwQwE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BGvtIHTSc5E</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>boda de Rosa</sorttitle>
+  <imdbid>tt10077544</imdbid>
+  <tmdbid>679888</tmdbid>
+  <premiered>2020-08-21</premiered>
+  <releasedate>2020-08-21</releasedate>
+  <runtime>95</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Tandem Films</studio>
+  <studio>Turanga Films</studio>
+  <studio>Setembro Cine</studio>
+  <studio>Movistar+</studio>
+  <uniqueid type="imdb">tt10077544</uniqueid>
+  <uniqueid type="tmdb">679888</uniqueid>
+  <id>tt10077544</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1378139</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5711</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>248940</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>eia_608</codec>
+        <micodec>eia_608</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

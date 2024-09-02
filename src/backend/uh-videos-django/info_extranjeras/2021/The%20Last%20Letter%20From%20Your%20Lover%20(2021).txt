@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ellie Haworth (Felicity Jones) es una ambiciosa periodista que descubre un tesoro de cartas secretas de amor de 1965 y decide resolver el misterio de esta aventura prohibida. A medida que descubre la historia que hay detrás de Jennifer Stirling (Shailene Woodley), la mujer de un acaudalado empresario, y Anthony O’Hare (Callum Turner), el periodista financiero nombrado para cubrir su vida, la historia de amor de la propia Ellie comienza a desarrollarse con la ayuda de un archivista serio y adorable (Nabhaan Rizwan) que la ayuda a localizar más cartas.]]></plot>
+  <outline><![CDATA[No dejes sin escribir tu historia de amor.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-23 07:39:22</dateadded>
+  <title>La última carta de amor</title>
+  <originaltitle>The Last Letter From Your Lover</originaltitle>
+  <actor>
+    <name>Shailene Woodley</name>
+    <role>Jennifer Stirling</role>
+    <type>Actor</type>
+    <tmdbid>94185</tmdbid>
+    <imdbid>nm0940362</imdbid>
+  </actor>
+  <actor>
+    <name>Felicity Jones</name>
+    <role>Ellie Haworth</role>
+    <type>Actor</type>
+    <tmdbid>72855</tmdbid>
+    <imdbid>nm0428065</imdbid>
+  </actor>
+  <actor>
+    <name>Callum Turner</name>
+    <role>Anthony O'Hare</role>
+    <type>Actor</type>
+    <tmdbid>1371041</tmdbid>
+    <imdbid>nm4360085</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Alwyn</name>
+    <role>Lawrence Stirling</role>
+    <type>Actor</type>
+    <tmdbid>1496392</tmdbid>
+    <imdbid>nm7153679</imdbid>
+  </actor>
+  <actor>
+    <name>Nabhaan Rizwan</name>
+    <role>Rory McCallan</role>
+    <type>Actor</type>
+    <tmdbid>2152343</tmdbid>
+    <imdbid>nm9342181</imdbid>
+  </actor>
+  <actor>
+    <name>Ncuti Gatwa</name>
+    <role>Nick</role>
+    <type>Actor</type>
+    <tmdbid>1475239</tmdbid>
+    <imdbid>nm6967441</imdbid>
+    <tvdbid>7895755</tvdbid>
+  </actor>
+  <actor>
+    <name>Emma Appleton</name>
+    <role>Hannah</role>
+    <type>Actor</type>
+    <tmdbid>1770525</tmdbid>
+    <imdbid>nm8221626</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Brassington</name>
+    <role>Dominic</role>
+    <type>Actor</type>
+    <tmdbid>118037</tmdbid>
+    <imdbid>nm1982359</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Orr-Ewing</name>
+    <role>Yvonne</role>
+    <type>Actor</type>
+    <tmdbid>1467145</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Knight</name>
+    <role>Francis</role>
+    <type>Actor</type>
+    <tmdbid>1408822</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe Boyle</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>1252492</tmdbid>
+    <tvdbid>403789</tvdbid>
+  </actor>
+  <actor>
+    <name>Ben Cross</name>
+    <role>Older Anthony O'Hare</role>
+    <type>Actor</type>
+    <tmdbid>29068</tmdbid>
+    <imdbid>nm0002027</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Kent</name>
+    <role>Older Jennifer Sterling</role>
+    <type>Actor</type>
+    <tmdbid>15094</tmdbid>
+    <imdbid>nm0448712</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Nottingham</name>
+    <role>Mrs Cordoza</role>
+    <type>Actor</type>
+    <tmdbid>37052</tmdbid>
+    <imdbid>nm0636637</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Fortune-Lloyd</name>
+    <role>Andrew</role>
+    <type>Actor</type>
+    <tmdbid>1944459</tmdbid>
+    <imdbid>nm7066351</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica D'Arcy</name>
+    <role>Co-Worker</role>
+    <type>Actor</type>
+    <tmdbid>1980398</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Ogbomo</name>
+    <role>Janet</role>
+    <type>Actor</type>
+    <tmdbid>1360156</tmdbid>
+    <imdbid>nm1574386</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Atkins</name>
+    <role>Alberto's Bar Woman</role>
+    <type>Actor</type>
+    <tmdbid>557384</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Hyde</name>
+    <role>French Housekeeper</role>
+    <type>Actor</type>
+    <tmdbid>1926536</tmdbid>
+  </actor>
+  <actor>
+    <name>Atheena Frizzell</name>
+    <role>Mariette</role>
+    <type>Actor</type>
+    <tmdbid>1452151</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Aniba</name>
+    <role>French Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1562103</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Mella</name>
+    <role>French Hotel Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>3193964</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Gilfillan</name>
+    <role>Felipe</role>
+    <type>Actor</type>
+    <tmdbid>3193966</tmdbid>
+  </actor>
+  <actor>
+    <name>Joann Condon</name>
+    <role>Post Office Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1215907</tmdbid>
+    <imdbid>nm0174398</imdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Raymond</name>
+    <role>Colleague</role>
+    <type>Actor</type>
+    <tmdbid>2209193</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Aries</name>
+    <role>Post Office Staff Member</role>
+    <type>Actor</type>
+    <tmdbid>3193967</tmdbid>
+  </actor>
+  <actor>
+    <name>Hero Howard</name>
+    <role>Esme Sterling</role>
+    <type>Actor</type>
+    <tmdbid>3193969</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Bailey</name>
+    <role>London Hotel Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>3193970</tmdbid>
+  </actor>
+  <actor>
+    <name>David Sibley</name>
+    <role>Don Franklin</role>
+    <type>Actor</type>
+    <tmdbid>1230626</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire Brown</name>
+    <role>Mary Ellen</role>
+    <type>Actor</type>
+    <tmdbid>1743770</tmdbid>
+  </actor>
+  <actor>
+    <name>Manoj Anand</name>
+    <role>Train Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1945750</tmdbid>
+    <imdbid>nm5592776</imdbid>
+  </actor>
+  <actor>
+    <name>Vilhelm Blomgren</name>
+    <role>Rob (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2096149</tmdbid>
+  </actor>
+  <actor>
+    <name>Eve Harding</name>
+    <role>Train Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2413440</tmdbid>
+  </actor>
+  <actor>
+    <name>Joakim Skarli</name>
+    <role>Actor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1853975</tmdbid>
+    <imdbid>nm7813817</imdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Tavares</name>
+    <role>Charlie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2317714</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Brooke</name>
+    <role>Chronicle Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2121222</tmdbid>
+  </actor>
+  <director tmdbid="1285848">Augustine Frizzell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q3MP3xmkzYQ</trailer>
+  <rating>6.7</rating>
+  <year>2021</year>
+  <sorttitle>ultima carta de amor</sorttitle>
+  <imdbid>tt1893273</imdbid>
+  <tmdbid>638449</tmdbid>
+  <premiered>2021-07-23</premiered>
+  <releasedate>2021-07-23</releasedate>
+  <criticrating>55</criticrating>
+  <runtime>111</runtime>
+  <tagline>No dejes sin escribir tu historia de amor.</tagline>
+  <country>Canada</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <studio>Blueprint Pictures</studio>
+  <studio>The Film Farm</studio>
+  <uniqueid type="imdb">tt1893273</uniqueid>
+  <uniqueid type="tmdb">638449</uniqueid>
+  <id>tt1893273</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1008402</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6644</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

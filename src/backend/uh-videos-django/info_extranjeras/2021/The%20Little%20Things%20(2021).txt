@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Kern County Deputy Sheriff Joe Deacon is sent to Los Angeles for what should have been a quick evidence-gathering assignment. Instead, he becomes embroiled in the search for a serial killer who is terrorizing the city.]]></plot>
+  <outline><![CDATA[Algunas cosas nunca nos dejan.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-01-31 23:00:00</dateadded>
+  <title>The Little Things</title>
+  <originaltitle>The Little Things</originaltitle>
+  <actor>
+    <name>Denzel Washington</name>
+    <type>Actor</type>
+    <tmdbid>5292</tmdbid>
+    <imdbid>nm0000243</imdbid>
+  </actor>
+  <actor>
+    <name>Rami Malek</name>
+    <type>Actor</type>
+    <tmdbid>17838</tmdbid>
+    <imdbid>nm1785339</imdbid>
+    <tvdbid>328078</tvdbid>
+  </actor>
+  <actor>
+    <name>Jared Leto</name>
+    <type>Actor</type>
+    <tmdbid>7499</tmdbid>
+    <imdbid>nm0001467</imdbid>
+    <tvdbid>310997</tvdbid>
+  </actor>
+  <actor>
+    <name>Chris Bauer</name>
+    <type>Actor</type>
+    <tmdbid>4445</tmdbid>
+    <imdbid>nm0061777</imdbid>
+    <tvdbid>317360</tvdbid>
+  </actor>
+  <director tmdbid="54040" imdbid="nm0359387">John Lee Hancock</director>
+  <writer tmdbid="54040" imdbid="nm0359387">John Lee Hancock</writer>
+  <credits tmdbid="54040" imdbid="nm0359387">John Lee Hancock</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hYZ5tVPiJrg</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>Little Things</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10016180</imdbid>
+  <tmdbid>602269</tmdbid>
+  <premiered>2021-01-27</premiered>
+  <releasedate>2021-01-27</releasedate>
+  <criticrating>46</criticrating>
+  <runtime>128</runtime>
+  <tagline>Algunas cosas nunca nos dejan.</tagline>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Gran Via Productions</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="imdb">tt10016180</uniqueid>
+  <uniqueid type="tmdb">602269</uniqueid>
+  <id>tt10016180</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>872689</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7668</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

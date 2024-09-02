@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En Antlers, una pequeña ciudad de Oregón, una profesora y su hermano, el sheriff de la localidad, se empiezan a interesar por un estudiante misterioso y distante. A medida que se van conociendo, descubren que el joven esconde un peligroso secreto que podría tener consecuencias fatales.]]></plot>
+  <outline><![CDATA[Tiene hambre de ti.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-12 20:14:49</dateadded>
+  <title>Antlers: Criatura oscura</title>
+  <originaltitle>Antlers</originaltitle>
+  <actor>
+    <name>Keri Russell</name>
+    <role>Julia Meadows</role>
+    <type>Actor</type>
+    <tmdbid>41292</tmdbid>
+    <imdbid>nm0005392</imdbid>
+    <tvdbid>286927</tvdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Paul Meadows</role>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+    <tvdbid>325974</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Thomas</name>
+    <role>Lucas Weaver</role>
+    <type>Actor</type>
+    <tmdbid>1890584</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham Greene</name>
+    <role>Warren Stokes</role>
+    <type>Actor</type>
+    <tmdbid>6804</tmdbid>
+    <imdbid>nm0001295</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Haze</name>
+    <role>Frank Weaver</role>
+    <type>Actor</type>
+    <tmdbid>87954</tmdbid>
+    <imdbid>nm2020278</imdbid>
+  </actor>
+  <actor>
+    <name>Sawyer Jones</name>
+    <role>Aiden Weaver</role>
+    <type>Actor</type>
+    <tmdbid>2359018</tmdbid>
+  </actor>
+  <actor>
+    <name>Rory Cochrane</name>
+    <role>Dan Lecroy</role>
+    <type>Actor</type>
+    <tmdbid>51792</tmdbid>
+    <imdbid>nm0168262</imdbid>
+    <tvdbid>346373</tvdbid>
+  </actor>
+  <actor>
+    <name>Amy Madigan</name>
+    <role>Principal Booth</role>
+    <type>Actor</type>
+    <tmdbid>23882</tmdbid>
+    <imdbid>nm0001496</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Davis</name>
+    <role>Clint Owens</role>
+    <type>Actor</type>
+    <tmdbid>2118114</tmdbid>
+  </actor>
+  <actor>
+    <name>Glynis Davies</name>
+    <role>Nurse Lorraine Byrd</role>
+    <type>Actor</type>
+    <tmdbid>129984</tmdbid>
+    <imdbid>nm0203728</imdbid>
+  </actor>
+  <actor>
+    <name>Dorian Kingi</name>
+    <role>Antlered Man</role>
+    <type>Actor</type>
+    <tmdbid>62735</tmdbid>
+    <imdbid>nm1141776</imdbid>
+  </actor>
+  <actor>
+    <name>Arlo Hajdu</name>
+    <role>Arlo Kebbins</role>
+    <type>Actor</type>
+    <tmdbid>2103397</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Thompson</name>
+    <role>Father Meadows</role>
+    <type>Actor</type>
+    <tmdbid>1386463</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Downs</name>
+    <role>Harrison Crawford</role>
+    <type>Actor</type>
+    <tmdbid>2059893</tmdbid>
+  </actor>
+  <actor>
+    <name>Dendrie Taylor</name>
+    <role>Carol Reynolds</role>
+    <type>Actor</type>
+    <tmdbid>81462</tmdbid>
+    <imdbid>nm0852256</imdbid>
+  </actor>
+  <actor>
+    <name>Katelyn Peterson</name>
+    <role>Young Julia Meadows</role>
+    <type>Actor</type>
+    <tmdbid>3277643</tmdbid>
+  </actor>
+  <actor>
+    <name>Charmaine Wilson</name>
+    <role>Market Cashier</role>
+    <type>Actor</type>
+    <tmdbid>2925539</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Brazeau</name>
+    <role>Dr. Francis</role>
+    <type>Actor</type>
+    <tmdbid>63791</tmdbid>
+    <imdbid>nm0106319</imdbid>
+  </actor>
+  <actor>
+    <name>Lyla Marlow</name>
+    <role>Jasmine Drury</role>
+    <type>Actor</type>
+    <tmdbid>3349528</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Delahunty</name>
+    <role>Evie</role>
+    <type>Actor</type>
+    <tmdbid>1397009</tmdbid>
+  </actor>
+  <director tmdbid="65167" imdbid="nm0178376">Scott Cooper</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5PHMpW3wm9w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2HAi7bce0Y4</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>Antlers: Criatura oscura</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7740510</imdbid>
+  <tmdbid>516329</tmdbid>
+  <premiered>2021-10-28</premiered>
+  <releasedate>2021-10-28</releasedate>
+  <criticrating>60</criticrating>
+  <runtime>99</runtime>
+  <tagline>Tiene hambre de ti.</tagline>
+  <country>Canada</country>
+  <country>Mexico</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Searchlight Pictures</studio>
+  <studio>Phantom Four</studio>
+  <studio>Double Dare You Productions</studio>
+  <studio>Mirada Studio</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt7740510</uniqueid>
+  <uniqueid type="tmdb">516329</uniqueid>
+  <id>tt7740510</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2019730</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5966</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

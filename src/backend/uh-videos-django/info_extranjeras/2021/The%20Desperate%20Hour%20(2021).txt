@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En medio del bosque que rodea su hogar, a kilómetros de la ciudad y abrumada por el pánico, Amy Carr (Naomi Watts) recibe una llamada terrible: las autoridades están buscando al responsable de un tiroteo que ha tenido lugar en la escuela de su hijo adolescente, Noah. Amy se niega a sucumbir a la desesperación. Con la única ayuda de su móvil, buscará todos los recursos posibles para tratar de lograr la salvación de su hijo.]]></plot>
+  <outline><![CDATA[El tiempo se está agotando.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-25 08:13:03</dateadded>
+  <title>Desesperada</title>
+  <originaltitle>The Desperate Hour</originaltitle>
+  <actor>
+    <name>Naomi Watts</name>
+    <role>Amy Carr</role>
+    <type>Actor</type>
+    <tmdbid>3489</tmdbid>
+    <imdbid>nm0915208</imdbid>
+    <tvdbid>308902</tvdbid>
+  </actor>
+  <actor>
+    <name>Colton Gobbo</name>
+    <role>Noah Carr</role>
+    <type>Actor</type>
+    <tmdbid>1558012</tmdbid>
+  </actor>
+  <actor>
+    <name>Sierra Maltby</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>3086855</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Johnston</name>
+    <role>Heather</role>
+    <type>Actor</type>
+    <tmdbid>155483</tmdbid>
+    <imdbid>nm0426785</imdbid>
+  </actor>
+  <actor>
+    <name>Woodrow Schriber</name>
+    <role>Detective Paulson</role>
+    <type>Actor</type>
+    <tmdbid>3444407</tmdbid>
+  </actor>
+  <actor>
+    <name>David Reale</name>
+    <role>CJ</role>
+    <type>Actor</type>
+    <tmdbid>141217</tmdbid>
+    <imdbid>nm0998489</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Clarke</name>
+    <role>Greg Minor</role>
+    <type>Actor</type>
+    <tmdbid>76512</tmdbid>
+    <imdbid>nm0164809</imdbid>
+    <tvdbid>262414</tvdbid>
+  </actor>
+  <actor>
+    <name>Debra Wilson</name>
+    <role>Dedra Wilkinson</role>
+    <type>Actor</type>
+    <tmdbid>83105</tmdbid>
+    <imdbid>nm0933281</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Marren</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>186491</tmdbid>
+    <imdbid>nm0550106</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Bowman</name>
+    <role>Emergency Police</role>
+    <type>Actor</type>
+    <tmdbid>139835</tmdbid>
+    <imdbid>nm2811944</imdbid>
+    <tvdbid>554350</tvdbid>
+  </actor>
+  <actor>
+    <name>Todd Collins</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>58971</tmdbid>
+  </actor>
+  <actor>
+    <name>Zehra Fazal</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2222440</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pope</name>
+    <role>Wall Guy</role>
+    <type>Actor</type>
+    <tmdbid>1735014</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellen Dubin</name>
+    <role>Sergeant Brandt</role>
+    <type>Actor</type>
+    <tmdbid>53934</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Flinn-White</name>
+    <role>Misses Fischer</role>
+    <type>Actor</type>
+    <tmdbid>2173395</tmdbid>
+  </actor>
+  <actor>
+    <name>Edie Mirman</name>
+    <role>Amy's Mother</role>
+    <type>Actor</type>
+    <tmdbid>571265</tmdbid>
+    <imdbid>nm0592437</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Pape</name>
+    <role>Lyft Driver</role>
+    <type>Actor</type>
+    <tmdbid>174563</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Johnstone</name>
+    <role>Female Officer</role>
+    <type>Actor</type>
+    <tmdbid>1489188</tmdbid>
+  </actor>
+  <director tmdbid="13015" imdbid="nm0637518">Phillip Noyce</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2D0rn1e2pTw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1MWECKYcyJk</trailer>
+  <rating>4.9</rating>
+  <year>2021</year>
+  <sorttitle>Desesperada</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13133936</imdbid>
+  <tmdbid>764835</tmdbid>
+  <premiered>2021-09-12</premiered>
+  <releasedate>2021-09-12</releasedate>
+  <criticrating>28</criticrating>
+  <runtime>84</runtime>
+  <tagline>El tiempo se está agotando.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <studio>Roadside Attractions</studio>
+  <studio>Boies/Schiller Film Group</studio>
+  <studio>Limelight</studio>
+  <studio>Untapped</studio>
+  <studio>JamTart Productions</studio>
+  <studio>Stratagem Pictures</studio>
+  <uniqueid type="tmdb">764835</uniqueid>
+  <uniqueid type="imdb">tt13133936</uniqueid>
+  <id>tt13133936</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1318482</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>478:199</aspect>
+        <aspectratio>478:199</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5060</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

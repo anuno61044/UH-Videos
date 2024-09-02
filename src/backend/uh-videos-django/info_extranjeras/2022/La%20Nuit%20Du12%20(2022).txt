@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la policía judicial, todos los investigadores se topan tarde o temprano con un crimen que son incapaces de resolver y que se vuelve una obsesión. Para Yohan se trata del asesinato de Clara, una joven que fue rociada con gasolina y quemada en la calle por un desconocido. Los interrogatorios se suceden y no faltan sospechosos, pero las dudas de Yohan no dejan de crecer. Solo hay una certeza: el crimen se cometió en la noche del 12.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-16 10:39:41</dateadded>
+  <title>La Noche del 12</title>
+  <originaltitle>La Nuit du 12</originaltitle>
+  <actor>
+    <name>Bastien Bouillon</name>
+    <role>Yohan Vivès</role>
+    <type>Actor</type>
+    <tmdbid>910944</tmdbid>
+  </actor>
+  <actor>
+    <name>Bouli Lanners</name>
+    <role>Marceau</role>
+    <type>Actor</type>
+    <tmdbid>47822</tmdbid>
+    <imdbid>nm0099521</imdbid>
+  </actor>
+  <actor>
+    <name>Anouk Grinberg</name>
+    <role>La juge d'instruction</role>
+    <type>Actor</type>
+    <tmdbid>40883</tmdbid>
+    <imdbid>nm0342393</imdbid>
+  </actor>
+  <actor>
+    <name>Mouna Soualem</name>
+    <role>Nadia</role>
+    <type>Actor</type>
+    <tmdbid>2898403</tmdbid>
+  </actor>
+  <actor>
+    <name>Pauline Serieys</name>
+    <role>Nanie</role>
+    <type>Actor</type>
+    <tmdbid>1150410</tmdbid>
+  </actor>
+  <actor>
+    <name>Théo Cholbi</name>
+    <role>Willy</role>
+    <type>Actor</type>
+    <tmdbid>1139801</tmdbid>
+    <imdbid>nm4965045</imdbid>
+  </actor>
+  <actor>
+    <name>Johann Dionnet</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>1457800</tmdbid>
+    <imdbid>nm5293255</imdbid>
+  </actor>
+  <actor>
+    <name>Thibaut Evrard</name>
+    <role>Loïc</role>
+    <type>Actor</type>
+    <tmdbid>2032782</tmdbid>
+    <imdbid>nm5198870</imdbid>
+  </actor>
+  <actor>
+    <name>Julien Frison</name>
+    <role>Boris</role>
+    <type>Actor</type>
+    <tmdbid>35894</tmdbid>
+    <imdbid>nm2486832</imdbid>
+    <tvdbid>641666</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Jeanson</name>
+    <role>Jérôme</role>
+    <type>Actor</type>
+    <tmdbid>1871495</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Blanchy</name>
+    <role>Denis Douet</role>
+    <type>Actor</type>
+    <tmdbid>2124048</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre Lottin</name>
+    <role>Vincent Caron</role>
+    <type>Actor</type>
+    <tmdbid>544685</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Rutherford</name>
+    <role>Nathalie Bardot</role>
+    <type>Actor</type>
+    <tmdbid>1033745</tmdbid>
+  </actor>
+  <actor>
+    <name>David Murgia</name>
+    <role>Mats</role>
+    <type>Actor</type>
+    <tmdbid>1142910</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvain Baumann</name>
+    <role>Donnie</role>
+    <type>Actor</type>
+    <tmdbid>2474855</tmdbid>
+  </actor>
+  <actor>
+    <name>Lula Cotton-Frapier</name>
+    <role>Clara Royer</role>
+    <type>Actor</type>
+    <tmdbid>1966631</tmdbid>
+  </actor>
+  <actor>
+    <name>Charline Paul</name>
+    <role>La mère de Clara</role>
+    <type>Actor</type>
+    <tmdbid>587464</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthieu Rozé</name>
+    <role>Père de Clara</role>
+    <type>Actor</type>
+    <tmdbid>583803</tmdbid>
+  </actor>
+  <actor>
+    <name>Baptiste Perais</name>
+    <role>Wesley Fontana</role>
+    <type>Actor</type>
+    <tmdbid>3438484</tmdbid>
+  </actor>
+  <actor>
+    <name>Jules Porier</name>
+    <role>Jules Leroy</role>
+    <type>Actor</type>
+    <tmdbid>1919840</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathanaël Beausivoir</name>
+    <role>Gabi Lacazette</role>
+    <type>Actor</type>
+    <tmdbid>3236457</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Jouhet</name>
+    <role>Tourancheau</role>
+    <type>Actor</type>
+    <tmdbid>87900</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Bodnar</name>
+    <role>Le commissaire de la PJ</role>
+    <type>Actor</type>
+    <tmdbid>1941840</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Bonifassy</name>
+    <role>Une copine de Nanie</role>
+    <type>Actor</type>
+    <tmdbid>3599329</tmdbid>
+  </actor>
+  <actor>
+    <name>Albane Brun</name>
+    <role>Une copine de Nanie</role>
+    <type>Actor</type>
+    <tmdbid>3599331</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Martina</name>
+    <role>Une copine de Nanie</role>
+    <type>Actor</type>
+    <tmdbid>3599332</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabien Ardiri</name>
+    <role>L'homme à la cagoule</role>
+    <type>Actor</type>
+    <tmdbid>2947138</tmdbid>
+  </actor>
+  <actor>
+    <name>Véronique Orelle</name>
+    <role>Une technicienne PTS</role>
+    <type>Actor</type>
+    <tmdbid>3599333</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Hustache</name>
+    <role>Une technicienne PTS</role>
+    <type>Actor</type>
+    <tmdbid>3599335</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Bouteiller</name>
+    <role>La voisine des parents de Clara</role>
+    <type>Actor</type>
+    <tmdbid>3599336</tmdbid>
+  </actor>
+  <actor>
+    <name>Valérie Enquin</name>
+    <type>Actor</type>
+    <tmdbid>3599338</tmdbid>
+  </actor>
+  <actor>
+    <name>Nabila Attmane</name>
+    <type>Actor</type>
+    <tmdbid>3599339</tmdbid>
+  </actor>
+  <actor>
+    <name>Martine Lacomblez</name>
+    <type>Actor</type>
+    <tmdbid>3599340</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvan Forestier</name>
+    <type>Actor</type>
+    <tmdbid>3599341</tmdbid>
+  </actor>
+  <actor>
+    <name>Edith Pancher</name>
+    <type>Actor</type>
+    <tmdbid>3599342</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Ionescu</name>
+    <type>Actor</type>
+    <tmdbid>2694633</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlène Villquin</name>
+    <type>Actor</type>
+    <tmdbid>3599343</tmdbid>
+  </actor>
+  <actor>
+    <name>Yannis Renaudin</name>
+    <type>Actor</type>
+    <tmdbid>3599344</tmdbid>
+  </actor>
+  <actor>
+    <name>Christophe Merieau</name>
+    <type>Actor</type>
+    <tmdbid>3599346</tmdbid>
+  </actor>
+  <actor>
+    <name>Thierry Verrier</name>
+    <type>Actor</type>
+    <tmdbid>2469070</tmdbid>
+  </actor>
+  <actor>
+    <name>Fanny de Gouville</name>
+    <type>Actor</type>
+    <tmdbid>3599350</tmdbid>
+  </actor>
+  <actor>
+    <name>Romane Kasprzak</name>
+    <type>Actor</type>
+    <tmdbid>1299923</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Garreau Cotenceau</name>
+    <type>Actor</type>
+    <tmdbid>3599351</tmdbid>
+  </actor>
+  <director tmdbid="18175">Dominik Moll</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LJVGC6N-vuk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=58s-pXvTQss</trailer>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>Noche del 12</sorttitle>
+  <imdbid>tt16953666</imdbid>
+  <tmdbid>925102</tmdbid>
+  <premiered>2022-07-13</premiered>
+  <releasedate>2022-07-13</releasedate>
+  <runtime>114</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>Crimen</genre>
+  <genre>Misterio</genre>
+  <genre>Drama</genre>
+  <studio>Haut et Court</studio>
+  <studio>Versus Production</studio>
+  <studio>Auvergne-Rhône-Alpes Cinéma</studio>
+  <studio>RTBF</studio>
+  <studio>VOO</studio>
+  <studio>BeTV</studio>
+  <studio>Proximus</studio>
+  <uniqueid type="tmdb">925102</uniqueid>
+  <uniqueid type="imdb">tt16953666</uniqueid>
+  <id>tt16953666</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>631095</bitrate>
+        <width>720</width>
+        <height>388</height>
+        <aspect>180:97</aspect>
+        <aspectratio>180:97</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6830</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

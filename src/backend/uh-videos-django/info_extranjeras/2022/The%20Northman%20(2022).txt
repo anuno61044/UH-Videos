@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.]]></plot>
+  <outline><![CDATA[Conquista tu destino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-05-12 08:15:38</dateadded>
+  <title>El hombre del norte</title>
+  <originaltitle>The Northman</originaltitle>
+  <actor>
+    <name>Alexander Skarsgård</name>
+    <role>Amleth</role>
+    <type>Actor</type>
+    <tmdbid>28846</tmdbid>
+    <imdbid>nm0002907</imdbid>
+    <tvdbid>331154</tvdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kidman</name>
+    <role>Queen Gudrún</role>
+    <type>Actor</type>
+    <tmdbid>2227</tmdbid>
+    <imdbid>nm0000173</imdbid>
+    <tvdbid>327381</tvdbid>
+  </actor>
+  <actor>
+    <name>Claes Bang</name>
+    <role>Fjölnir the Brotherless</role>
+    <type>Actor</type>
+    <tmdbid>150802</tmdbid>
+    <imdbid>nm0051903</imdbid>
+    <tvdbid>8158391</tvdbid>
+  </actor>
+  <actor>
+    <name>Ethan Hawke</name>
+    <role>King Aurvandil War-Raven</role>
+    <type>Actor</type>
+    <tmdbid>569</tmdbid>
+    <imdbid>nm0000160</imdbid>
+    <tvdbid>311173</tvdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Olga of the Birch Forest</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Gustav Lindh</name>
+    <role>Thórir the Proud</role>
+    <type>Actor</type>
+    <tmdbid>1428295</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliott Rose</name>
+    <role>Gunnar</role>
+    <type>Actor</type>
+    <tmdbid>2748015</tmdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Heimir the Fool</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+    <tvdbid>254430</tvdbid>
+  </actor>
+  <actor>
+    <name>Phill Martin</name>
+    <role>Hallgrímr Half-Troll</role>
+    <type>Actor</type>
+    <tmdbid>1905687</tmdbid>
+    <imdbid>nm4969843</imdbid>
+  </actor>
+  <actor>
+    <name>Eldar Skar</name>
+    <role>Finnr the Nose-Stub</role>
+    <type>Actor</type>
+    <tmdbid>1543921</tmdbid>
+  </actor>
+  <actor>
+    <name>Olwen Fouéré</name>
+    <role>Áshildur Hofgythja</role>
+    <type>Actor</type>
+    <tmdbid>933272</tmdbid>
+    <imdbid>nm0288260</imdbid>
+  </actor>
+  <actor>
+    <name>Edgar Abram</name>
+    <role>Hersveinn Battle-Hard</role>
+    <type>Actor</type>
+    <tmdbid>2748019</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Gassmann</name>
+    <role>Hjalti Battle Hasty</role>
+    <type>Actor</type>
+    <tmdbid>2769701</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvar E. Sigurðsson</name>
+    <role>He-Witch</role>
+    <type>Actor</type>
+    <tmdbid>55584</tmdbid>
+    <imdbid>nm0797614</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Novak</name>
+    <role>Young Amleth</role>
+    <type>Actor</type>
+    <tmdbid>3429744</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Walsh</name>
+    <role>Hallur Freymundur</role>
+    <type>Actor</type>
+    <tmdbid>2975883</tmdbid>
+  </actor>
+  <actor>
+    <name>Björk</name>
+    <role>Seeress</role>
+    <type>Actor</type>
+    <tmdbid>47</tmdbid>
+    <imdbid>nm0001951</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Whyte</name>
+    <role>The Mound Dweller</role>
+    <type>Actor</type>
+    <tmdbid>946696</tmdbid>
+    <imdbid>nm1613839</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Pattinson</name>
+    <role>Shield Maiden</role>
+    <type>Actor</type>
+    <tmdbid>1562111</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea O’Neill</name>
+    <role>Helga the Nanny</role>
+    <type>Actor</type>
+    <tmdbid>3487009</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ineson</name>
+    <role>Halla the Maiden</role>
+    <type>Actor</type>
+    <tmdbid>2748021</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Dickie</name>
+    <role>Halldóra the Pict</role>
+    <type>Actor</type>
+    <tmdbid>71083</tmdbid>
+    <imdbid>nm0225483</imdbid>
+  </actor>
+  <actor>
+    <name>Ísadóra Bjarkardóttir Barney</name>
+    <role>Melkorka</role>
+    <type>Actor</type>
+    <tmdbid>3076690</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Horsham</name>
+    <role>Völundur the Smith</role>
+    <type>Actor</type>
+    <tmdbid>1638407</tmdbid>
+  </actor>
+  <actor>
+    <name>Seamus O'Hara</name>
+    <role>Audunn the Irish</role>
+    <type>Actor</type>
+    <tmdbid>1722119</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Sinclair</name>
+    <role>Grímr Skull-Hammer</role>
+    <type>Actor</type>
+    <tmdbid>2895709</tmdbid>
+  </actor>
+  <actor>
+    <name>Tadhg Murphy</name>
+    <role>Eiríkr Blaze-Eye</role>
+    <type>Actor</type>
+    <tmdbid>1256162</tmdbid>
+    <imdbid>nm1752532</imdbid>
+  </actor>
+  <actor>
+    <name>James Yates</name>
+    <role>Hrólfur Split-Lip</role>
+    <type>Actor</type>
+    <tmdbid>2748016</tmdbid>
+  </actor>
+  <actor>
+    <name>Hafþór Júlíus Björnsson</name>
+    <role>Thórfinnr Tooth-Gnasher</role>
+    <type>Actor</type>
+    <tmdbid>1369307</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Gerard Whyte</name>
+    <role>Thórvaldr Giant-Crusher</role>
+    <type>Actor</type>
+    <tmdbid>2720166</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>Captain Volodymyr</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Murray McArthur</name>
+    <role>Hákon Iron-Beard</role>
+    <type>Actor</type>
+    <tmdbid>1216581</tmdbid>
+    <imdbid>nm0564133</imdbid>
+  </actor>
+  <actor>
+    <name>Nille Glæsel</name>
+    <role>Gunnhildr Ship-Breasted</role>
+    <type>Actor</type>
+    <tmdbid>3487011</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonas Lorentzen</name>
+    <role>Eysteinn</role>
+    <type>Actor</type>
+    <tmdbid>3074299</tmdbid>
+  </actor>
+  <actor>
+    <name>Magne Osnes</name>
+    <role>Berserker Priest</role>
+    <type>Actor</type>
+    <tmdbid>2628046</tmdbid>
+  </actor>
+  <actor>
+    <name>Ineta Sliuzaite</name>
+    <role>Valkyrja</role>
+    <type>Actor</type>
+    <tmdbid>3487012</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn Lafferty</name>
+    <role>Fisherman’s Son</role>
+    <type>Actor</type>
+    <tmdbid>3487020</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Campling</name>
+    <role>Standard Bearer</role>
+    <type>Actor</type>
+    <tmdbid>1140635</tmdbid>
+    <imdbid>nm1376997</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Roche</name>
+    <role>Hofgythja</role>
+    <type>Actor</type>
+    <tmdbid>1890737</tmdbid>
+  </actor>
+  <actor>
+    <name>Faoileann Cunningham</name>
+    <role>Kormlöth</role>
+    <type>Actor</type>
+    <tmdbid>3487021</tmdbid>
+  </actor>
+  <actor>
+    <name>Gareth Parker</name>
+    <role>The Hird Officer</role>
+    <type>Actor</type>
+    <tmdbid>2895710</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Fitzgerald</name>
+    <role>Hallucinating Guard</role>
+    <type>Actor</type>
+    <tmdbid>1982714</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Peden</name>
+    <role>Burly Guard</role>
+    <type>Actor</type>
+    <tmdbid>3487023</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Hicks</name>
+    <role>Fengr Shield-Biter</role>
+    <type>Actor</type>
+    <tmdbid>3487024</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Finlayson</name>
+    <role>Grani Battle-Screamer</role>
+    <type>Actor</type>
+    <tmdbid>2412148</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Higgins</name>
+    <role>Ketill the Whale Sided</role>
+    <type>Actor</type>
+    <tmdbid>2748024</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Symonds</name>
+    <role>Ragnar Cold-Mouthed</role>
+    <type>Actor</type>
+    <tmdbid>2545369</tmdbid>
+    <imdbid>nm10790753</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Evans</name>
+    <role>Ivan</role>
+    <type>Actor</type>
+    <tmdbid>2695382</tmdbid>
+  </actor>
+  <actor>
+    <name>James Harper-Jones</name>
+    <role>Vasill</role>
+    <type>Actor</type>
+    <tmdbid>1850790</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Harper-Jones</name>
+    <role>Stanislav</role>
+    <type>Actor</type>
+    <tmdbid>3487029</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheila Fitton</name>
+    <role>Lyudmila</role>
+    <type>Actor</type>
+    <tmdbid>3487030</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Bird</name>
+    <role>The Maiden King</role>
+    <type>Actor</type>
+    <tmdbid>3487031</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunil Beniwal</name>
+    <role>Jacky (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3710795</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McGeown</name>
+    <role>Rower (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2534428</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Vamos</name>
+    <role>Slav Villager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3710800</tmdbid>
+  </actor>
+  <director tmdbid="138781" imdbid="nm3211470">Robert Eggers</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7HZ4tBQEiB0</trailer>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>hombre del norte</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11138512</imdbid>
+  <tmdbid>639933</tmdbid>
+  <premiered>2022-04-07</premiered>
+  <releasedate>2022-04-07</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>137</runtime>
+  <tagline>Conquista tu destino.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <studio>New Regency Pictures</studio>
+  <studio>Focus Features</studio>
+  <studio>Perfect World Pictures</studio>
+  <studio>Square Peg</studio>
+  <uniqueid type="imdb">tt11138512</uniqueid>
+  <uniqueid type="tmdb">639933</uniqueid>
+  <id>tt11138512</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>913855</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8237</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

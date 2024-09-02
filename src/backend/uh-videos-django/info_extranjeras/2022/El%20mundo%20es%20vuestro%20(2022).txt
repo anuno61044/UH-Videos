@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Rafi se cuela en la cacería de la marquesa, que reúne a toda la alta sociedad española, para venderles su negocio. Él y Fali descubrirán que la caza no es lo que parece, y que el futuro de España se decide en la granja.]]></plot>
+  <outline><![CDATA[El que nace lechón]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-17 13:03:21</dateadded>
+  <title>El mundo es vuestro</title>
+  <originaltitle>El mundo es vuestro</originaltitle>
+  <actor>
+    <name>Alfonso Sánchez</name>
+    <role>Rafi</role>
+    <type>Actor</type>
+    <tmdbid>1061663</tmdbid>
+    <imdbid>nm1362698</imdbid>
+  </actor>
+  <actor>
+    <name>Alberto López</name>
+    <role>Fali</role>
+    <type>Actor</type>
+    <tmdbid>35722</tmdbid>
+    <imdbid>nm3174082</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Canivell</name>
+    <role>Cayetana</role>
+    <type>Actor</type>
+    <tmdbid>2168018</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Olalla</name>
+    <role>Don Mauro</role>
+    <type>Actor</type>
+    <tmdbid>1065175</tmdbid>
+    <imdbid>nm2257077</imdbid>
+  </actor>
+  <actor>
+    <name>Teresa Arbolí</name>
+    <role>Caridad</role>
+    <type>Actor</type>
+    <tmdbid>226726</tmdbid>
+    <imdbid>nm0033413</imdbid>
+  </actor>
+  <actor>
+    <name>Chacha Huang</name>
+    <role>Li Ching</role>
+    <type>Actor</type>
+    <tmdbid>1915026</tmdbid>
+    <imdbid>nm8002173</imdbid>
+  </actor>
+  <actor>
+    <name>José Chaves</name>
+    <role>Cañete</role>
+    <type>Actor</type>
+    <tmdbid>84773</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Refojo</name>
+    <role>Alicia</role>
+    <type>Actor</type>
+    <tmdbid>3592822</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Valenzuela</name>
+    <role>Ricardo Montellano</role>
+    <type>Actor</type>
+    <tmdbid>2168023</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Álvarez-Ossorio</name>
+    <role>Monseñor Matamoros</role>
+    <type>Actor</type>
+    <tmdbid>226722</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Benguo</name>
+    <role>Mr. Chang</role>
+    <type>Actor</type>
+    <tmdbid>3592823</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignacio de la Puerta</name>
+    <role>Manolo</role>
+    <type>Actor</type>
+    <tmdbid>2741982</tmdbid>
+  </actor>
+  <actor>
+    <name>César Cadaval</name>
+    <role>José Luis</role>
+    <type>Actor</type>
+    <tmdbid>1646332</tmdbid>
+  </actor>
+  <actor>
+    <name>David Pareja</name>
+    <role>Jacinto</role>
+    <type>Actor</type>
+    <tmdbid>1282294</tmdbid>
+    <imdbid>nm5207305</imdbid>
+  </actor>
+  <actor>
+    <name>Mari Paz Sayago</name>
+    <role>Eva Moreno</role>
+    <type>Actor</type>
+    <tmdbid>1042760</tmdbid>
+    <imdbid>nm2097714</imdbid>
+    <tvdbid>539110</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Amodeo</name>
+    <role>Asaltante</role>
+    <type>Actor</type>
+    <tmdbid>1909481</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Orellana</name>
+    <role>Asaltante</role>
+    <type>Actor</type>
+    <tmdbid>1887767</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel Sutilo</name>
+    <role>Serafín Limón</role>
+    <type>Actor</type>
+    <tmdbid>2168019</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio de la Torre</name>
+    <role>Guardia civil</role>
+    <type>Actor</type>
+    <tmdbid>3483</tmdbid>
+    <imdbid>nm0209409</imdbid>
+    <tvdbid>592203</tvdbid>
+  </actor>
+  <actor>
+    <name>Israel Frías</name>
+    <role>Guardia Civil</role>
+    <type>Actor</type>
+    <tmdbid>2343541</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Sides</name>
+    <role>Asaltante</role>
+    <type>Actor</type>
+    <tmdbid>3592816</tmdbid>
+  </actor>
+  <actor>
+    <name>Dani Téllez</name>
+    <role>Asaltante</role>
+    <type>Actor</type>
+    <tmdbid>3592817</tmdbid>
+  </actor>
+  <actor>
+    <name>David Pavón</name>
+    <role>Veterinario</role>
+    <type>Actor</type>
+    <tmdbid>2722982</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvia Rey</name>
+    <role>Guardia Civil</role>
+    <type>Actor</type>
+    <tmdbid>1514434</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Cordero</name>
+    <role>Asaltante</role>
+    <type>Actor</type>
+    <tmdbid>3592837</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Bocapi</name>
+    <role>Asaltante</role>
+    <type>Actor</type>
+    <tmdbid>3592838</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Martín</name>
+    <role>Presentadora</role>
+    <type>Actor</type>
+    <tmdbid>3592839</tmdbid>
+  </actor>
+  <director tmdbid="1061663" imdbid="nm1362698">Alfonso Sánchez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=So_jYQMBHLY</trailer>
+  <rating>4.711</rating>
+  <year>2022</year>
+  <sorttitle>mundo es vuestro</sorttitle>
+  <imdbid>tt14639702</imdbid>
+  <tmdbid>807200</tmdbid>
+  <premiered>2022-03-18</premiered>
+  <releasedate>2022-03-18</releasedate>
+  <runtime>110</runtime>
+  <tagline>El que nace lechón</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <studio>Canal Sur</studio>
+  <studio>Mundo Ficción</studio>
+  <studio>Amazon Studios</studio>
+  <studio>Mundoficcion Producciones S.L.</studio>
+  <set tmdbcolid="991025">
+    <name>El mundo es suyo - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt14639702</uniqueid>
+  <uniqueid type="tmdb">807200</uniqueid>
+  <id>tt14639702</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1066263</bitrate>
+        <width>1704</width>
+        <height>720</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6581</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64331</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

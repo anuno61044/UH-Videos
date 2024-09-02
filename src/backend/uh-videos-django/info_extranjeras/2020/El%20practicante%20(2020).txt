@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Incapaz de asumir su nueva realidad en silla de ruedas, Ángel desarrolla una obsesión letal con la mujer que lo abandonó y da rienda suelta a una siniestra venganza.]]></plot>
+  <outline><![CDATA[Un Film de Carles Torras]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-21 08:27:16</dateadded>
+  <title>El practicante</title>
+  <originaltitle>El practicante</originaltitle>
+  <actor>
+    <name>Mario Casas</name>
+    <role>Ángel</role>
+    <type>Actor</type>
+    <tmdbid>82700</tmdbid>
+    <imdbid>nm1832584</imdbid>
+  </actor>
+  <actor>
+    <name>Déborah François</name>
+    <role>Vane</role>
+    <type>Actor</type>
+    <tmdbid>54228</tmdbid>
+    <imdbid>nm1918862</imdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Pfening</name>
+    <role>Ricardo</role>
+    <type>Actor</type>
+    <tmdbid>81155</tmdbid>
+    <imdbid>nm1166977</imdbid>
+    <tvdbid>522967</tvdbid>
+  </actor>
+  <actor>
+    <name>Celso Bugallo</name>
+    <role>Vicente</role>
+    <type>Actor</type>
+    <tmdbid>16870</tmdbid>
+    <imdbid>nm0119438</imdbid>
+  </actor>
+  <actor>
+    <name>Raúl Jiménez</name>
+    <role>Fermín</role>
+    <type>Actor</type>
+    <tmdbid>229241</tmdbid>
+    <imdbid>nm1392800</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Rodríguez Soto</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+    <tmdbid>1881658</tmdbid>
+    <imdbid>nm4078485</imdbid>
+    <tvdbid>8611606</tvdbid>
+  </actor>
+  <actor>
+    <name>Pol Monen</name>
+    <role>Andrés</role>
+    <type>Actor</type>
+    <tmdbid>1647098</tmdbid>
+    <imdbid>nm2968673</imdbid>
+    <tvdbid>549645</tvdbid>
+  </actor>
+  <actor>
+    <name>Gerard Oms</name>
+    <role>Agente</role>
+    <type>Actor</type>
+    <tmdbid>2628141</tmdbid>
+  </actor>
+  <director tmdbid="589111" imdbid="nm2089231">Carles Torras</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2qKPbHhyGrI</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <sorttitle>practicante</sorttitle>
+  <imdbid>tt11127690</imdbid>
+  <tmdbid>701175</tmdbid>
+  <premiered>2020-09-16</premiered>
+  <releasedate>2020-09-16</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>94</runtime>
+  <tagline>Un Film de Carles Torras</tagline>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>Babieka Films</studio>
+  <studio>Zabriskie Films</studio>
+  <uniqueid type="imdb">tt11127690</uniqueid>
+  <uniqueid type="tmdb">701175</uniqueid>
+  <id>tt11127690</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>578086</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5668</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127700</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

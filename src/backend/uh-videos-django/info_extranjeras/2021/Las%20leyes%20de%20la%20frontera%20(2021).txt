@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Verano de 1978. Ignacio Cañas es un estudiante de 17 años introvertido y algo inadaptado que vive en Girona. Al conocer al Zarco y a Tere, dos jóvenes delincuentes del barrio chino de la ciudad, se ve inmerso en una carrera imparable de hurtos, robos y atracos. Es la historia en la que Nacho se hace mayor, cruzando la línea que hay entre el bien y el mal, entre la justicia y la injusticia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-30 08:26:03</dateadded>
+  <title>Las leyes de la frontera</title>
+  <originaltitle>Las leyes de la frontera</originaltitle>
+  <actor>
+    <name>Marcos Ruiz</name>
+    <role>Nacho</role>
+    <type>Actor</type>
+    <tmdbid>224733</tmdbid>
+    <imdbid>nm2280169</imdbid>
+    <tvdbid>557543</tvdbid>
+  </actor>
+  <actor>
+    <name>Begona Vargas</name>
+    <role>Tere</role>
+    <type>Actor</type>
+    <tmdbid>2296607</tmdbid>
+    <imdbid>nm9603580</imdbid>
+    <tvdbid>7882172</tvdbid>
+  </actor>
+  <actor>
+    <name>Chechu Salgado</name>
+    <role>Zarco</role>
+    <type>Actor</type>
+    <tmdbid>1987955</tmdbid>
+    <tvdbid>8006002</tvdbid>
+  </actor>
+  <actor>
+    <name>Pep Tosar</name>
+    <role>Inspector Vives</role>
+    <type>Actor</type>
+    <tmdbid>935934</tmdbid>
+    <imdbid>nm0869089</imdbid>
+    <tvdbid>561405</tvdbid>
+  </actor>
+  <actor>
+    <name>Xavier Martín</name>
+    <role>Gordo</role>
+    <type>Actor</type>
+    <tmdbid>2896669</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Ibáñez</name>
+    <role>Piernas</role>
+    <type>Actor</type>
+    <tmdbid>2484837</tmdbid>
+    <imdbid>nm9311929</imdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Lasheras</name>
+    <role>Víctor</role>
+    <type>Actor</type>
+    <tmdbid>2896666</tmdbid>
+  </actor>
+  <actor>
+    <name>Cintia García</name>
+    <role>Lidia</role>
+    <type>Actor</type>
+    <tmdbid>2896667</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Aparicio</name>
+    <role>Chino</role>
+    <type>Actor</type>
+    <tmdbid>2896668</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Manuel Pajares</name>
+    <role>Drácula</role>
+    <type>Actor</type>
+    <tmdbid>2896670</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Oviedo</name>
+    <role>Guille</role>
+    <type>Actor</type>
+    <tmdbid>3321499</tmdbid>
+  </actor>
+  <actor>
+    <name>Catalina Sopelana</name>
+    <role>Paqui</role>
+    <type>Actor</type>
+    <tmdbid>2164904</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavi Sáez</name>
+    <role>Hidalgo</role>
+    <type>Actor</type>
+    <tmdbid>2270206</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Serrano</name>
+    <role>Cuenca</role>
+    <type>Actor</type>
+    <tmdbid>1288029</tmdbid>
+    <tvdbid>8161181</tvdbid>
+  </actor>
+  <actor>
+    <name>Santiago Molero</name>
+    <role>Ignacio</role>
+    <type>Actor</type>
+    <tmdbid>2718081</tmdbid>
+  </actor>
+  <actor>
+    <name>Ainhoa Santamaría</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>1723075</tmdbid>
+    <tvdbid>8082647</tvdbid>
+  </actor>
+  <actor>
+    <name>Elisabet Casanovas</name>
+    <role>Cristina</role>
+    <type>Actor</type>
+    <tmdbid>1510953</tmdbid>
+    <tvdbid>465018</tvdbid>
+  </actor>
+  <actor>
+    <name>Pep Cruz</name>
+    <role>Señor Tomás</role>
+    <type>Actor</type>
+    <tmdbid>1092525</tmdbid>
+  </actor>
+  <actor>
+    <name>Estefanía de los Santos</name>
+    <role>Merche</role>
+    <type>Actor</type>
+    <tmdbid>1103795</tmdbid>
+    <imdbid>nm2059418</imdbid>
+    <tvdbid>469620</tvdbid>
+  </actor>
+  <actor>
+    <name>Mabel del Pozo</name>
+    <role>Colette</role>
+    <type>Actor</type>
+    <tmdbid>588841</tmdbid>
+    <tvdbid>8056469</tvdbid>
+  </actor>
+  <actor>
+    <name>Nina Pomodoro</name>
+    <role>Catherine</role>
+    <type>Actor</type>
+    <tmdbid>2707584</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Waymore</name>
+    <role>Delphine</role>
+    <type>Actor</type>
+    <tmdbid>3321503</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Caterina</name>
+    <role>Valentina</role>
+    <type>Actor</type>
+    <tmdbid>3321505</tmdbid>
+  </actor>
+  <actor>
+    <name>Krishna Salleras</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>3321507</tmdbid>
+  </actor>
+  <actor>
+    <name>Eulàlia Ballart</name>
+    <role>Madre</role>
+    <type>Actor</type>
+    <tmdbid>3321509</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillem Albasanz</name>
+    <role>Socorrista</role>
+    <type>Actor</type>
+    <tmdbid>3321511</tmdbid>
+  </actor>
+  <actor>
+    <name>Oriol Cervera</name>
+    <role>Batista</role>
+    <type>Actor</type>
+    <tmdbid>2786956</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafa Valls</name>
+    <role>Pau</role>
+    <type>Actor</type>
+    <tmdbid>3321514</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Balaguer</name>
+    <role>Jordi</role>
+    <type>Actor</type>
+    <tmdbid>1255481</tmdbid>
+    <imdbid>nm3855478</imdbid>
+  </actor>
+  <actor>
+    <name>Marisa Duaso</name>
+    <role>Taquillera</role>
+    <type>Actor</type>
+    <tmdbid>1639771</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordi Collet</name>
+    <role>Acomodador</role>
+    <type>Actor</type>
+    <tmdbid>980858</tmdbid>
+  </actor>
+  <actor>
+    <name>Pau Serra</name>
+    <role>Camello recreativos</role>
+    <type>Actor</type>
+    <tmdbid>3321516</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Sahuquillo</name>
+    <role>Chico recreativos</role>
+    <type>Actor</type>
+    <tmdbid>3321517</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Ávila</name>
+    <role>Chico recreativos</role>
+    <type>Actor</type>
+    <tmdbid>3321518</tmdbid>
+  </actor>
+  <actor>
+    <name>Annabel Totusaus</name>
+    <role>Señora chalet</role>
+    <type>Actor</type>
+    <tmdbid>1331733</tmdbid>
+  </actor>
+  <actor>
+    <name>Carles Bigorra</name>
+    <role>Farmacéutico</role>
+    <type>Actor</type>
+    <tmdbid>2786881</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnau Casanovas</name>
+    <role>Dependiente farmacia</role>
+    <type>Actor</type>
+    <tmdbid>3321520</tmdbid>
+  </actor>
+  <actor>
+    <name>Chus Leiva</name>
+    <role>Dependienta farmacia</role>
+    <type>Actor</type>
+    <tmdbid>3321521</tmdbid>
+  </actor>
+  <actor>
+    <name>Enrique Martínez</name>
+    <role>Gurú</role>
+    <type>Actor</type>
+    <tmdbid>988410</tmdbid>
+    <imdbid>nm0555083</imdbid>
+    <tvdbid>604678</tvdbid>
+  </actor>
+  <actor>
+    <name>Jéssica Ross</name>
+    <role>Chica ácido</role>
+    <type>Actor</type>
+    <tmdbid>1565103</tmdbid>
+  </actor>
+  <actor>
+    <name>Enric Ases</name>
+    <role>Gasolinero</role>
+    <type>Actor</type>
+    <tmdbid>1639776</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Serrats</name>
+    <role>Policía Banco Central</role>
+    <type>Actor</type>
+    <tmdbid>1726247</tmdbid>
+  </actor>
+  <actor>
+    <name>Ángeles Díaz</name>
+    <role>Mujer poblado</role>
+    <type>Actor</type>
+    <tmdbid>3321523</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Montoya</name>
+    <role>Hermana de Tere</role>
+    <type>Actor</type>
+    <tmdbid>1639806</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Vicente</name>
+    <role>Director Banca Catalana</role>
+    <type>Actor</type>
+    <tmdbid>54524</tmdbid>
+    <imdbid>nm1792104</imdbid>
+    <tvdbid>465417</tvdbid>
+  </actor>
+  <actor>
+    <name>Armand Villén</name>
+    <role>Cajero pagador</role>
+    <type>Actor</type>
+    <tmdbid>1657613</tmdbid>
+  </actor>
+  <actor>
+    <name>Óscar Morell</name>
+    <role>Funcionario cárcel</role>
+    <type>Actor</type>
+    <tmdbid>3144713</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Balbàs</name>
+    <role>Camarero La Font</role>
+    <type>Actor</type>
+    <tmdbid>1500570</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordi Gràcia</name>
+    <role>Guardia Civil</role>
+    <type>Actor</type>
+    <tmdbid>1870898</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Ramírez</name>
+    <role>Hombre trajeado</role>
+    <type>Actor</type>
+    <tmdbid>3321532</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Beltrán</name>
+    <role>Nacho adulto</role>
+    <type>Actor</type>
+    <tmdbid>31805</tmdbid>
+    <imdbid>nm2779214</imdbid>
+  </actor>
+  <director tmdbid="74943" imdbid="nm0600409">Daniel Monzón</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rL5yv1i8GDM</trailer>
+  <rating>6.9</rating>
+  <year>2021</year>
+  <sorttitle>Las leyes de la frontera</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11892272</imdbid>
+  <tmdbid>776821</tmdbid>
+  <premiered>2021-10-08</premiered>
+  <releasedate>2021-10-08</releasedate>
+  <runtime>131</runtime>
+  <country>Spain</country>
+  <genre>Crimen</genre>
+  <studio>Atresmedia</studio>
+  <studio>Ikiru Films</studio>
+  <studio>La Terraza Films</studio>
+  <uniqueid type="imdb">tt11892272</uniqueid>
+  <uniqueid type="tmdb">776821</uniqueid>
+  <id>tt11892272</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1045348</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7835</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63757</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

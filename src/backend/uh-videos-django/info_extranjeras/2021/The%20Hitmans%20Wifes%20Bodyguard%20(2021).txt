@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La pareja más letal del mundo, el guardaespaldas Michael Bryce y el asesino a sueldo Darius Kincaid, están de vuelta en otra misión que amenaza su vida. Aún sin licencia y bajo escrutinio, Bryce se ve obligado a actuar por la esposa aún más volátil de Darius, la infame estafadora internacional Sonia Kincaid. Mientras Bryce es conducido al límite por sus dos protegidos más peligrosos, el trío se mete en la cabeza en una trama global y pronto descubre que son todo lo que se interpone entre Europa y un loco vengativo y poderoso.]]></plot>
+  <outline><![CDATA[Trío asesino.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-07 08:37:08</dateadded>
+  <title>El otro guardaespaldas 2</title>
+  <originaltitle>Hitman's Wife's Bodyguard</originaltitle>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Michael Bryce</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Darius Kincaid</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+    <tvdbid>287826</tvdbid>
+  </actor>
+  <actor>
+    <name>Salma Hayek</name>
+    <role>Sonia Kincaid</role>
+    <type>Actor</type>
+    <tmdbid>3136</tmdbid>
+    <imdbid>nm0000161</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Banderas</name>
+    <role>Aristotle Papdopolous</role>
+    <type>Actor</type>
+    <tmdbid>3131</tmdbid>
+    <imdbid>nm0000104</imdbid>
+    <tvdbid>264545</tvdbid>
+  </actor>
+  <actor>
+    <name>Morgan Freeman</name>
+    <role>Senior</role>
+    <type>Actor</type>
+    <tmdbid>192</tmdbid>
+    <imdbid>nm0000151</imdbid>
+    <tvdbid>255114</tvdbid>
+  </actor>
+  <actor>
+    <name>Frank Grillo</name>
+    <role>Bobby O'Neill</role>
+    <type>Actor</type>
+    <tmdbid>81685</tmdbid>
+    <imdbid>nm0342029</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Goodall</name>
+    <role>Crowley</role>
+    <type>Actor</type>
+    <tmdbid>6692</tmdbid>
+    <imdbid>nm0328751</imdbid>
+    <tvdbid>335965</tvdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Front</name>
+    <role>Therapist</role>
+    <type>Actor</type>
+    <tmdbid>155530</tmdbid>
+    <imdbid>nm0296410</imdbid>
+    <tvdbid>255394</tvdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Wright</name>
+    <role>Veronika</role>
+    <type>Actor</type>
+    <tmdbid>118200</tmdbid>
+    <imdbid>nm1720237</imdbid>
+  </actor>
+  <actor>
+    <name>Alice McMillan</name>
+    <role>Ailso</role>
+    <type>Actor</type>
+    <tmdbid>1650566</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristofer Kamiyasu</name>
+    <role>Zento</role>
+    <type>Actor</type>
+    <tmdbid>2335001</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Hopper</name>
+    <role>Magnusson</role>
+    <type>Actor</type>
+    <tmdbid>1017294</tmdbid>
+    <imdbid>nm2584392</imdbid>
+    <tvdbid>248015</tvdbid>
+  </actor>
+  <actor>
+    <name>Blake Ritson</name>
+    <role>Gunther</role>
+    <type>Actor</type>
+    <tmdbid>80154</tmdbid>
+    <imdbid>nm0728682</imdbid>
+    <tvdbid>519617</tvdbid>
+  </actor>
+  <actor>
+    <name>Richard E. Grant</name>
+    <role>Seifert</role>
+    <type>Actor</type>
+    <tmdbid>20766</tmdbid>
+    <imdbid>nm0001290</imdbid>
+    <tvdbid>261928</tvdbid>
+  </actor>
+  <actor>
+    <name>Stewart Alexander</name>
+    <role>Awards Presenter</role>
+    <type>Actor</type>
+    <tmdbid>165359</tmdbid>
+    <imdbid>nm0991334</imdbid>
+  </actor>
+  <actor>
+    <name>Tsuwayuki Saotome</name>
+    <role>Kurosawa</role>
+    <type>Actor</type>
+    <tmdbid>3290858</tmdbid>
+  </actor>
+  <actor>
+    <name>Noortje Herlaar</name>
+    <role>ICC Court Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1287876</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikhail Gorevoy</name>
+    <role>Livitin</role>
+    <type>Actor</type>
+    <tmdbid>115876</tmdbid>
+    <imdbid>nm0330853</imdbid>
+  </actor>
+  <actor>
+    <name>Georgie Glen</name>
+    <role>ICC Lead Judge</role>
+    <type>Actor</type>
+    <tmdbid>191752</tmdbid>
+    <imdbid>nm0322510</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Atsma</name>
+    <role>Moreno</role>
+    <type>Actor</type>
+    <tmdbid>116202</tmdbid>
+    <tvdbid>520380</tvdbid>
+  </actor>
+  <actor>
+    <name>Tine Joustra</name>
+    <role>Renata Casoria</role>
+    <type>Actor</type>
+    <tmdbid>1388999</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Oldman</name>
+    <role>Vladislav Dukhovic (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>64</tmdbid>
+    <imdbid>nm0000198</imdbid>
+    <tvdbid>327268</tvdbid>
+  </actor>
+  <actor>
+    <name>Mariana Vekilska</name>
+    <role>Reporter #4</role>
+    <type>Actor</type>
+    <tmdbid>3380685</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Caspe</name>
+    <role>Walter Fiscer</role>
+    <type>Actor</type>
+    <tmdbid>25730</tmdbid>
+    <imdbid>nm1340370</imdbid>
+  </actor>
+  <actor>
+    <name>Danko Jordanov</name>
+    <role>Fiscer Security</role>
+    <type>Actor</type>
+    <tmdbid>575735</tmdbid>
+    <imdbid>nm1242406</imdbid>
+  </actor>
+  <actor>
+    <name>Simón Andreu</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>24496</tmdbid>
+    <imdbid>nm0028487</imdbid>
+  </actor>
+  <actor>
+    <name>Sergio Torrico</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>3380686</tmdbid>
+  </actor>
+  <actor>
+    <name>Ahmet Mehmet</name>
+    <role>Weapon Dealer</role>
+    <type>Actor</type>
+    <tmdbid>3380687</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy Hill</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>3380688</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Hill</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>3380689</tmdbid>
+  </actor>
+  <actor>
+    <name>Didi Anderson</name>
+    <role>Interpol Agent (Detainment)</role>
+    <type>Actor</type>
+    <tmdbid>3380690</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Đuričić</name>
+    <role>Interpol Agent #2</role>
+    <type>Actor</type>
+    <tmdbid>1192878</tmdbid>
+  </actor>
+  <actor>
+    <name>Miltos Yerolemou</name>
+    <role>Carlo</role>
+    <type>Actor</type>
+    <tmdbid>1399527</tmdbid>
+  </actor>
+  <actor>
+    <name>Genko Ivanov</name>
+    <role>Torturer</role>
+    <type>Actor</type>
+    <tmdbid>1797929</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikola Ceran</name>
+    <role>String Quartet</role>
+    <type>Actor</type>
+    <tmdbid>3380692</tmdbid>
+  </actor>
+  <actor>
+    <name>Tin Matijević</name>
+    <role>String Quartet</role>
+    <type>Actor</type>
+    <tmdbid>3380693</tmdbid>
+  </actor>
+  <actor>
+    <name>Martina Drakulić</name>
+    <role>String Quartet</role>
+    <type>Actor</type>
+    <tmdbid>3380694</tmdbid>
+  </actor>
+  <actor>
+    <name>Petra Kušan</name>
+    <role>String Quartet</role>
+    <type>Actor</type>
+    <tmdbid>3380695</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Hughes</name>
+    <role>Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>143059</tmdbid>
+    <imdbid>nm1449018</imdbid>
+  </actor>
+  <actor>
+    <name>Vasil Yordanov</name>
+    <role>Italian Agent #3</role>
+    <type>Actor</type>
+    <tmdbid>2086774</tmdbid>
+  </actor>
+  <actor>
+    <name>Dragan Mićanović</name>
+    <role>Vladimir</role>
+    <type>Actor</type>
+    <tmdbid>31648</tmdbid>
+    <imdbid>nm0584020</imdbid>
+  </actor>
+  <actor>
+    <name>Genevieve Barker</name>
+    <role>French Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1950629</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrian Fekete</name>
+    <role>Russian Mobster</role>
+    <type>Actor</type>
+    <tmdbid>3283471</tmdbid>
+  </actor>
+  <actor>
+    <name>Cesare Taurasi</name>
+    <role>Italian Agent #1</role>
+    <type>Actor</type>
+    <tmdbid>1473937</tmdbid>
+    <imdbid>nm3893637</imdbid>
+  </actor>
+  <actor>
+    <name>James McFay</name>
+    <role>Italian Agent #2</role>
+    <type>Actor</type>
+    <tmdbid>1217765</tmdbid>
+    <imdbid>nm2017335</imdbid>
+  </actor>
+  <actor>
+    <name>Tomi May</name>
+    <role>Russian Gangster</role>
+    <type>Actor</type>
+    <tmdbid>1406790</tmdbid>
+  </actor>
+  <actor>
+    <name>Mislav Čavajda</name>
+    <role>Interpol Agent (Club)</role>
+    <type>Actor</type>
+    <tmdbid>1991422</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonas Talkington</name>
+    <role>Male Reporter</role>
+    <type>Actor</type>
+    <tmdbid>102657</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariana Hill</name>
+    <role>Female Reporter (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3380696</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Maria Everett</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>129840</tmdbid>
+    <imdbid>nm1000807</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Aston</name>
+    <role>Giuseppe</role>
+    <type>Actor</type>
+    <tmdbid>1361890</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivor Bagarič</name>
+    <role>Young Bryce</role>
+    <type>Actor</type>
+    <tmdbid>3380697</tmdbid>
+  </actor>
+  <actor>
+    <name>Csilla Barath Bastaić</name>
+    <role>Bryce's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1202698</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell De Rozario</name>
+    <role>Heavyset Man</role>
+    <type>Actor</type>
+    <tmdbid>61580</tmdbid>
+    <imdbid>nm0211318</imdbid>
+  </actor>
+  <actor>
+    <name>Amar Bukvić</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>569918</tmdbid>
+  </actor>
+  <actor>
+    <name>Enzo Squillino Jr.</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>71073</tmdbid>
+    <imdbid>nm0820076</imdbid>
+    <tvdbid>9099046</tvdbid>
+  </actor>
+  <actor>
+    <name>Jonny James</name>
+    <role>Johan</role>
+    <type>Actor</type>
+    <tmdbid>2752069</tmdbid>
+  </actor>
+  <actor>
+    <name>Venice Smith</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>2527069</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulio Berruti</name>
+    <role>Yacht Guard</role>
+    <type>Actor</type>
+    <tmdbid>544002</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Scarpa</name>
+    <role>Italian Worker</role>
+    <type>Actor</type>
+    <tmdbid>2175958</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodolfo Corsato</name>
+    <role>Dignitary</role>
+    <type>Actor</type>
+    <tmdbid>24603</tmdbid>
+    <imdbid>nm0181078</imdbid>
+  </actor>
+  <director tmdbid="143059" imdbid="nm1449018">Patrick Hughes</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3LsBkTKvWkA</trailer>
+  <rating>6.1</rating>
+  <year>2021</year>
+  <sorttitle>otro guardaespaldas 2</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8385148</imdbid>
+  <tmdbid>522931</tmdbid>
+  <premiered>2021-06-14</premiered>
+  <releasedate>2021-06-14</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>100</runtime>
+  <tagline>Trío asesino.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Comedia</genre>
+  <genre>Suspense</genre>
+  <studio>Summit Entertainment</studio>
+  <studio>Lionsgate</studio>
+  <studio>Nu Boyana Film Studios</studio>
+  <studio>Millennium Media</studio>
+  <set tmdbcolid="608101">
+    <name>El otro guardaespaldas - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt8385148</uniqueid>
+  <uniqueid type="tmdb">522931</uniqueid>
+  <id>tt8385148</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1187608</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5981</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

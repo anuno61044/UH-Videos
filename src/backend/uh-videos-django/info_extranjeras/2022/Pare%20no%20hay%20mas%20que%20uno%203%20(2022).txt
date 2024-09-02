@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Se acercan las Navidades. Los niños rompen accidentalmente una figurilla del Belén de colección de su padre y deben conseguir por todos los medios una igual, el problema es que es una pieza única de anticuario. Sara, la hija mayor rompe con su novio, Ocho, que intentará recuperar sus favores con la ayuda de su suegro, Javier. Precisamente el suegro de Javier, el padre de Marisa, será acogido en la casa familiar para pasar las fiestas tras su reciente separación, lo cual no dejará indiferente a la madre de Javier, Milagros. Rocío, la folclórica de la familia, que hacía de Virgen desde hace varias Navidades, es relegada este año a hacer de pastorcilla, algo que su padre, Javier, no está dispuesto a asumir.]]></plot>
+  <outline><![CDATA[Este año vienen los reyes]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-03 12:28:35</dateadded>
+  <title>Padre no hay más que uno 3</title>
+  <originaltitle>Padre no hay mas que Uno 3</originaltitle>
+  <actor>
+    <name>Santiago Segura</name>
+    <role>Javier García</role>
+    <type>Actor</type>
+    <tmdbid>10847</tmdbid>
+    <imdbid>nm0782213</imdbid>
+    <tvdbid>293545</tvdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <role>Marisa Loyola</role>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Martina D’Antiochia</name>
+    <role>Sara García</role>
+    <type>Actor</type>
+    <tmdbid>2526905</tmdbid>
+    <imdbid>nm10469224</imdbid>
+  </actor>
+  <actor>
+    <name>Calma Segura</name>
+    <role>Carlota García</role>
+    <type>Actor</type>
+    <tmdbid>1423072</tmdbid>
+    <imdbid>nm6832604</imdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <role>Rocío García</role>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos G. Morollón</name>
+    <role>Dani García</role>
+    <type>Actor</type>
+    <tmdbid>2526906</tmdbid>
+    <imdbid>nm10469223</imdbid>
+  </actor>
+  <actor>
+    <name>Sirena Segura</name>
+    <role>Paula García</role>
+    <type>Actor</type>
+    <tmdbid>2377844</tmdbid>
+    <imdbid>nm10840211</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Ramos</name>
+    <role>Rosaura</role>
+    <type>Actor</type>
+    <tmdbid>1066905</tmdbid>
+    <imdbid>nm3105997</imdbid>
+  </actor>
+  <actor>
+    <name>El Cejas</name>
+    <role>Ocho</role>
+    <type>Actor</type>
+    <tmdbid>2812392</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Iglesias</name>
+    <role>Agustín Loyola</role>
+    <type>Actor</type>
+    <tmdbid>112607</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Paco García</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>Silvia Abril</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>231486</tmdbid>
+    <imdbid>nm1526347</imdbid>
+    <tvdbid>8107137</tvdbid>
+  </actor>
+  <actor>
+    <name>Loles León</name>
+    <role>Milagros</role>
+    <type>Actor</type>
+    <tmdbid>6536</tmdbid>
+    <imdbid>nm0508249</imdbid>
+    <tvdbid>534162</tvdbid>
+  </actor>
+  <actor>
+    <name>Luna López</name>
+    <role>Cris García</role>
+    <type>Actor</type>
+    <tmdbid>3625986</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta González de la Vega</name>
+    <role>Leticia</role>
+    <type>Actor</type>
+    <tmdbid>2005167</tmdbid>
+    <imdbid>nm2125297</imdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Palomares</name>
+    <role>Sandrita</role>
+    <type>Actor</type>
+    <tmdbid>2812393</tmdbid>
+  </actor>
+  <actor>
+    <name>Florentino Fernández</name>
+    <role>Vecino</role>
+    <type>Actor</type>
+    <tmdbid>140856</tmdbid>
+    <tvdbid>7874525</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmen Conesa</name>
+    <role>Pilar</role>
+    <type>Actor</type>
+    <tmdbid>1031826</tmdbid>
+  </actor>
+  <actor>
+    <name>Goizalde Núñez</name>
+    <role>Vecina</role>
+    <type>Actor</type>
+    <tmdbid>1455969</tmdbid>
+    <imdbid>nm1323812</imdbid>
+  </actor>
+  <actor>
+    <name>Santiago Urrialde</name>
+    <role>Vendedor figurilla</role>
+    <type>Actor</type>
+    <tmdbid>1093955</tmdbid>
+    <imdbid>nm0882089</imdbid>
+  </actor>
+  <actor>
+    <name>Javier García</name>
+    <role>Fernandito</role>
+    <type>Actor</type>
+    <tmdbid>3153936</tmdbid>
+  </actor>
+  <actor>
+    <name>Cloe Ruiz</name>
+    <role>Cloe</role>
+    <type>Actor</type>
+    <tmdbid>2812394</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Recuero</name>
+    <role>Niño</role>
+    <type>Actor</type>
+    <tmdbid>3835231</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Montes</name>
+    <role>Big Bambini</role>
+    <type>Actor</type>
+    <tmdbid>2690926</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Losán</name>
+    <role>Manolo</role>
+    <type>Actor</type>
+    <tmdbid>2325876</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafael Luque</name>
+    <role>Dependiente</role>
+    <type>Actor</type>
+    <tmdbid>2941864</tmdbid>
+  </actor>
+  <actor>
+    <name>Leopoldo Dhieras</name>
+    <role>Javier</role>
+    <type>Actor</type>
+    <tmdbid>3835234</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Pérez</name>
+    <role>Niño</role>
+    <type>Actor</type>
+    <tmdbid>3835235</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucía Ramos</name>
+    <role>Science Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1149827</tmdbid>
+    <tvdbid>513422</tvdbid>
+  </actor>
+  <actor>
+    <name>Arsenio Acosta</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3835236</tmdbid>
+  </actor>
+  <actor>
+    <name>Juana León</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3835247</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto D'Antiochia</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3835248</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesús González Naranjo</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3835249</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Miguel</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3835254</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Ezcurdia</name>
+    <role>Niño</role>
+    <type>Actor</type>
+    <tmdbid>2812403</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Navarro</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>1744352</tmdbid>
+    <imdbid>nm1911655</imdbid>
+  </actor>
+  <actor>
+    <name>Mònica Pérez</name>
+    <role>Mónica</role>
+    <type>Actor</type>
+    <tmdbid>1150114</tmdbid>
+    <imdbid>nm1518781</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Alcayde</name>
+    <role>Carmen</role>
+    <type>Actor</type>
+    <tmdbid>1748916</tmdbid>
+  </actor>
+  <actor>
+    <name>Enzo Calleja</name>
+    <role>Niño</role>
+    <type>Actor</type>
+    <tmdbid>3835262</tmdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Arce</name>
+    <role>Niña</role>
+    <type>Actor</type>
+    <tmdbid>3835264</tmdbid>
+  </actor>
+  <actor>
+    <name>Josema Yuste</name>
+    <role>Man on TV</role>
+    <type>Actor</type>
+    <tmdbid>278485</tmdbid>
+    <imdbid>nm0951145</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Agüero Avecilla</name>
+    <role>Restaurant Customer</role>
+    <type>Actor</type>
+    <tmdbid>3350374</tmdbid>
+  </actor>
+  <director tmdbid="10847" imdbid="nm0782213" tvdbid="293545">Santiago Segura</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g_66eCCpPzk</trailer>
+  <rating>7.585</rating>
+  <year>2022</year>
+  <sorttitle>Padre no hay mas que uno 3</sorttitle>
+  <imdbid>tt16452664</imdbid>
+  <tmdbid>975120</tmdbid>
+  <premiered>2022-07-15</premiered>
+  <releasedate>2022-07-15</releasedate>
+  <runtime>99</runtime>
+  <tagline>Este año vienen los reyes</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <studio>Bowfinger</studio>
+  <studio>Sony Pictures Home Entertainment</studio>
+  <studio>Amazon</studio>
+  <set tmdbcolid="669836">
+    <name>Padre no hay más que uno - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt16452664</uniqueid>
+  <uniqueid type="tmdb">975120</uniqueid>
+  <id>tt16452664</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1089055</bitrate>
+        <width>1728</width>
+        <height>720</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5914</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64186</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

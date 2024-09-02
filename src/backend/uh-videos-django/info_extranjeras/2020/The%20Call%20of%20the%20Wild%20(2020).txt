@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A sled dog struggles for survival in the wilds of the Yukon.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-28 20:11:56</dateadded>
+  <title>The Call of the Wild</title>
+  <originaltitle>The Call of the Wild</originaltitle>
+  <actor>
+    <name>Harrison Ford</name>
+    <type>Actor</type>
+    <tmdbid>3</tmdbid>
+    <imdbid>nm0000148</imdbid>
+    <tvdbid>255133</tvdbid>
+  </actor>
+  <actor>
+    <name>Omar Sy</name>
+    <type>Actor</type>
+    <tmdbid>78423</tmdbid>
+    <imdbid>nm1082477</imdbid>
+  </actor>
+  <actor>
+    <name>Cara Gee</name>
+    <type>Actor</type>
+    <tmdbid>1197122</tmdbid>
+    <imdbid>nm4446254</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Stevens</name>
+    <type>Actor</type>
+    <tmdbid>221018</tmdbid>
+    <imdbid>nm1405398</imdbid>
+    <tvdbid>296801</tvdbid>
+  </actor>
+  <director tmdbid="66193" imdbid="nm0761498">Chris Sanders</director>
+  <writer>Michael Green (screenplay by)</writer>
+  <writer>Jack London (based upon the novel by)</writer>
+  <writer>Egerton Ryerson Young (source material)</writer>
+  <credits>Michael Green (screenplay by)</credits>
+  <credits>Jack London (based upon the novel by)</credits>
+  <credits>Egerton Ryerson Young (source material)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a1YYDHy8dCw</trailer>
+  <rating>6.7</rating>
+  <year>2020</year>
+  <sorttitle>Call of the Wild</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt7504726</imdbid>
+  <tmdbid>481848</tmdbid>
+  <premiered>2020-02-19</premiered>
+  <releasedate>2020-02-19</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>100</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Family</genre>
+  <studio>3 Arts Entertainment</studio>
+  <studio>20th Century Studios</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="imdb">tt7504726</uniqueid>
+  <uniqueid type="tmdb">481848</uniqueid>
+  <id>tt7504726</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1194394</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5979</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>79955</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

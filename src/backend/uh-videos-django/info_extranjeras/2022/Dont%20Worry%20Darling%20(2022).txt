@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alice y Jack tienen la suerte de vivir en Victoria, la ciudad experimental de la compañía que alberga a los hombres que trabajan para el Proyecto Victoria, de alto secreto, y a sus familias. La vida es perfecta, con todas las necesidades de los residentes cubiertas por la empresa. Todo lo que piden a cambio es un compromiso incondicional con la causa de Victoria. Pero cuando empiezan a aparecer grietas en su idílica vida, exponiendo destellos de algo mucho más siniestro que se esconde bajo la atractiva fachada, Alice no puede evitar cuestionarse qué están haciendo en Victoria y por qué. ¿Cuánto está dispuesta a perder Alice para sacar a la luz lo que realmente ocurre en el paraíso?]]></plot>
+  <outline><![CDATA[¿Estáis listos para vivir la vida que os merecéis?]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-23 19:05:26</dateadded>
+  <title>No te preocupes querida</title>
+  <originaltitle>Don't Worry Darling</originaltitle>
+  <actor>
+    <name>Florence Pugh</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1373737</tmdbid>
+    <imdbid>nm6073955</imdbid>
+    <tvdbid>489050</tvdbid>
+  </actor>
+  <actor>
+    <name>Harry Styles</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>1052109</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Pine</name>
+    <role>Frank</role>
+    <type>Actor</type>
+    <tmdbid>62064</tmdbid>
+    <imdbid>nm1517976</imdbid>
+    <tvdbid>255166</tvdbid>
+  </actor>
+  <actor>
+    <name>Olivia Wilde</name>
+    <role>Bunny</role>
+    <type>Actor</type>
+    <tmdbid>59315</tmdbid>
+    <imdbid>nm1312575</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Chan</name>
+    <role>Shelley</role>
+    <type>Actor</type>
+    <tmdbid>97576</tmdbid>
+    <imdbid>nm2110418</imdbid>
+    <tvdbid>484957</tvdbid>
+  </actor>
+  <actor>
+    <name>KiKi Layne</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>1884703</tmdbid>
+    <imdbid>nm8460487</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Kroll</name>
+    <role>Dean</role>
+    <type>Actor</type>
+    <tmdbid>208519</tmdbid>
+    <imdbid>nm1802209</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Berlant</name>
+    <role>Peg</role>
+    <type>Actor</type>
+    <tmdbid>1436999</tmdbid>
+    <imdbid>nm2547958</imdbid>
+    <tvdbid>285650</tvdbid>
+  </actor>
+  <actor>
+    <name>Timothy Simons</name>
+    <role>Dr. Collins</role>
+    <type>Actor</type>
+    <tmdbid>1181329</tmdbid>
+    <imdbid>nm3985937</imdbid>
+    <tvdbid>8347037</tvdbid>
+  </actor>
+  <actor>
+    <name>Asif Ali</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>1822025</tmdbid>
+    <imdbid>nm4371284</imdbid>
+  </actor>
+  <actor>
+    <name>Sydney Chandler</name>
+    <role>Violet</role>
+    <type>Actor</type>
+    <tmdbid>2754753</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Smith</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>60077</tmdbid>
+    <imdbid>nm0808022</imdbid>
+  </actor>
+  <actor>
+    <name>Ari'el Stachel</name>
+    <role>Ted</role>
+    <type>Actor</type>
+    <tmdbid>2190083</tmdbid>
+  </actor>
+  <actor>
+    <name>Dita Von Teese</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>142190</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Sudeikis</name>
+    <role>Rosie</role>
+    <type>Actor</type>
+    <tmdbid>3720511</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcello Julian Reyes</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>2460332</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Berg</name>
+    <role>Trolley Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>206311</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Nishio</name>
+    <role>Frank &amp; Shelley's Kid</role>
+    <type>Actor</type>
+    <tmdbid>3556402</tmdbid>
+  </actor>
+  <actor>
+    <name>Monroe Cline</name>
+    <role>Smiling Tennis Model</role>
+    <type>Actor</type>
+    <tmdbid>2380307</tmdbid>
+  </actor>
+  <actor>
+    <name>Nataly Santiago</name>
+    <role>Ball Gown Model</role>
+    <type>Actor</type>
+    <tmdbid>3556727</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Mammoliti</name>
+    <role>Bathing Suit Model</role>
+    <type>Actor</type>
+    <tmdbid>3346289</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Scholler</name>
+    <role>Attending Physician</role>
+    <type>Actor</type>
+    <tmdbid>202871</tmdbid>
+  </actor>
+  <actor>
+    <name>Dimitri Dimitrov</name>
+    <role>Maitre'D</role>
+    <type>Actor</type>
+    <tmdbid>1545098</tmdbid>
+    <imdbid>nm0227375</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Kalimada</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3080550</tmdbid>
+  </actor>
+  <actor>
+    <name>Charissa Kroeger</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2773393</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Nicole Hulme</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1382923</tmdbid>
+    <imdbid>nm2387853</imdbid>
+  </actor>
+  <actor>
+    <name>Bailey Swift</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3720503</tmdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Mason</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3720505</tmdbid>
+  </actor>
+  <actor>
+    <name>Sisley Loubet</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3720506</tmdbid>
+  </actor>
+  <actor>
+    <name>Toi'ya Leatherwood</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1759686</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Kim</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1315944</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Acker</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3758116</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor May Dean</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3758118</tmdbid>
+  </actor>
+  <actor>
+    <name>Oritsetsolaye Akuya</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3758119</tmdbid>
+  </actor>
+  <actor>
+    <name>Auriana Ehsani</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3758120</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Inniss</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3758121</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Marilela Bermeo</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3758122</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Ells</name>
+    <role>Victory School Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3556399</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke deRosa</name>
+    <role>Ballet Pianist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1818411</tmdbid>
+  </actor>
+  <director tmdbid="59315" imdbid="nm1312575">Olivia Wilde</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_zA4P2SYTrY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kMwLgSTNxb8</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>No te preocupes querida</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10731256</imdbid>
+  <tmdbid>619730</tmdbid>
+  <premiered>2022-09-21</premiered>
+  <releasedate>2022-09-21</releasedate>
+  <criticrating>38</criticrating>
+  <runtime>123</runtime>
+  <tagline>¿Estáis listos para vivir la vida que os merecéis?</tagline>
+  <country>United States of America</country>
+  <genre>Suspense</genre>
+  <genre>Misterio</genre>
+  <genre>Ciencia ficción</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Vertigo Entertainment</studio>
+  <uniqueid type="imdb">tt10731256</uniqueid>
+  <uniqueid type="tmdb">619730</uniqueid>
+  <id>tt10731256</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>906119</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7383</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

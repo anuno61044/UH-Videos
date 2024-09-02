@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1909. Miguel, un joven profesor, es destinado a un pequeño pueblo de montaña en la frontera entre España y Portugal: Lobosandaus, una aldea inhóspita y de tradiciones ancestrales. Es un hombre de razón, pero no puede controlar sus deseos pasionales y, conforme se acerca el invierno, siente cómo la oscuridad se apodera de todo a su alrededor al tiempo que crece su fascinación por la enigmática Dorinda. En un lugar dominado por la superstición, la extraña muerte de un vecino del pueblo libera a un espíritu libre en busca de un cuerpo que le permita seguir con su existencia, que llevará a Miguel a cuestionar los límites entre el mundo de los vivos y los muertos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-04-07 09:28:44</dateadded>
+  <title>Cuerpo abierto</title>
+  <originaltitle>O Corpo Aberto</originaltitle>
+  <actor>
+    <name>Tamar Novas</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>33411</tmdbid>
+    <imdbid>nm0636991</imdbid>
+    <tvdbid>526010</tvdbid>
+  </actor>
+  <actor>
+    <name>Victória Guerra</name>
+    <role>Dorinda</role>
+    <type>Actor</type>
+    <tvdbid>609378</tvdbid>
+    <tmdbid>1033632</tmdbid>
+  </actor>
+  <actor>
+    <name>José Fidalgo</name>
+    <role>Mauro</role>
+    <type>Actor</type>
+    <tmdbid>107918</tmdbid>
+  </actor>
+  <actor>
+    <name>María Vázquez</name>
+    <role>Obdulia</role>
+    <type>Actor</type>
+    <tmdbid>592475</tmdbid>
+    <imdbid>nm0904808</imdbid>
+    <tvdbid>465795</tvdbid>
+  </actor>
+  <actor>
+    <name>Federico Pérez Rey</name>
+    <role>Turelo</role>
+    <type>Actor</type>
+    <tmdbid>588129</tmdbid>
+    <imdbid>nm1853380</imdbid>
+  </actor>
+  <director tmdbid="1724318">Ángeles Huerta</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7ULXvvV9ZiQ</trailer>
+  <rating>4.5</rating>
+  <year>2022</year>
+  <sorttitle>Cuerpo abierto</sorttitle>
+  <imdbid>tt16025362</imdbid>
+  <tmdbid>1023156</tmdbid>
+  <premiered>2022-12-09</premiered>
+  <releasedate>2022-12-09</releasedate>
+  <runtime>91</runtime>
+  <country>Portugal</country>
+  <country>Spain</country>
+  <genre>Terror</genre>
+  <genre>Drama</genre>
+  <studio>AGADIC</studio>
+  <studio>Fasten Films</studio>
+  <studio>ICAA</studio>
+  <studio>OlloVivo Producións</studio>
+  <studio>Xunta de Galicia</studio>
+  <studio>RTVE</studio>
+  <studio>Cinemate</studio>
+  <uniqueid type="tmdb">1023156</uniqueid>
+  <uniqueid type="imdb">tt16025362</uniqueid>
+  <id>tt16025362</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1015924</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5461</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64171</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

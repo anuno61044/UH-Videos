@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.]]></plot>
+  <outline><![CDATA[La vida deja huella.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-15 09:32:50</dateadded>
+  <title>Cherry</title>
+  <originaltitle>Cherry</originaltitle>
+  <actor>
+    <name>Tom Holland</name>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <tvdbid>287561</tvdbid>
+  </actor>
+  <actor>
+    <name>Ciara Bravo</name>
+    <type>Actor</type>
+    <tmdbid>144216</tmdbid>
+    <imdbid>nm2731980</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Reynor</name>
+    <type>Actor</type>
+    <tmdbid>1007683</tmdbid>
+    <imdbid>nm2930503</imdbid>
+    <tvdbid>465868</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Rispoli</name>
+    <type>Actor</type>
+    <tmdbid>18313</tmdbid>
+    <imdbid>nm0728346</imdbid>
+    <tvdbid>272146</tvdbid>
+  </actor>
+  <director tmdbid="19271" imdbid="nm0751577">Anthony Russo</director>
+  <director tmdbid="19272" imdbid="nm0751648">Joe Russo</director>
+  <writer>Angela Russo-Otstot (screenplay by)</writer>
+  <writer>Jessica Goldberg (screenplay by)</writer>
+  <writer>Nico Walker (based on the novel by)</writer>
+  <credits>Angela Russo-Otstot (screenplay by)</credits>
+  <credits>Jessica Goldberg (screenplay by)</credits>
+  <credits>Nico Walker (based on the novel by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WME70cYEvjU</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Cherry</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt9130508</imdbid>
+  <tmdbid>544401</tmdbid>
+  <premiered>2021-02-26</premiered>
+  <releasedate>2021-02-26</releasedate>
+  <criticrating>37</criticrating>
+  <runtime>141</runtime>
+  <tagline>La vida deja huella.</tagline>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <studio>AGBO</studio>
+  <studio>The Hideaway Entertainment</studio>
+  <uniqueid type="imdb">tt9130508</uniqueid>
+  <uniqueid type="tmdb">544401</uniqueid>
+  <id>tt9130508</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>599911</bitrate>
+        <width>858</width>
+        <height>364</height>
+        <aspect>365:153</aspect>
+        <aspectratio>365:153</aspectratio>
+        <framerate>23.98</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>141</duration>
+        <durationinseconds>8462</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,117 @@
+ï»¿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A young boy and his grandmother have a run-in with a coven of witches and their leader.]]></plot>
+  <outline><![CDATA[Â¡Son reales!]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-26 08:44:46</dateadded>
+  <title>The Witches</title>
+  <originaltitle>Roald Dahl's The Witches</originaltitle>
+  <actor>
+    <name>Chris Rock</name>
+    <type>Actor</type>
+    <tmdbid>2632</tmdbid>
+    <imdbid>nm0001674</imdbid>
+  </actor>
+  <actor>
+    <name>Jahzir Bruno</name>
+    <type>Actor</type>
+    <tmdbid>2241218</tmdbid>
+    <imdbid>nm9736665</imdbid>
+  </actor>
+  <actor>
+    <name>Octavia Spencer</name>
+    <type>Actor</type>
+    <tmdbid>6944</tmdbid>
+    <imdbid>nm0818055</imdbid>
+    <tvdbid>248090</tvdbid>
+  </actor>
+  <actor>
+    <name>Brian Bovell</name>
+    <type>Actor</type>
+    <tmdbid>1228665</tmdbid>
+    <imdbid>nm0100598</imdbid>
+  </actor>
+  <director tmdbid="24" imdbid="nm0000709">Robert Zemeckis</director>
+  <writer>Robert Zemeckis (screenplay by)</writer>
+  <writer>Kenya Barris (screenplay by)</writer>
+  <writer>Guillermo del Toro (screenplay by)</writer>
+  <writer>Roald Dahl (based on the book by)</writer>
+  <credits>Robert Zemeckis (screenplay by)</credits>
+  <credits>Kenya Barris (screenplay by)</credits>
+  <credits>Guillermo del Toro (screenplay by)</credits>
+  <credits>Roald Dahl (based on the book by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wjapCEu2BHA</trailer>
+  <rating>5.4</rating>
+  <year>2020</year>
+  <sorttitle>Witches</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0805647</imdbid>
+  <tmdbid>531219</tmdbid>
+  <premiered>2020-10-25</premiered>
+  <releasedate>2020-10-25</releasedate>
+  <runtime>104</runtime>
+  <tagline>Â¡Son reales!</tagline>
+  <country>Mexico</country>
+  <country>United States of America</country>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Family</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <studio>ImageMovers</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Double Dare You Productions</studio>
+  <studio>Esperanto Filmoj</studio>
+  <studio>The Jim Henson Company</studio>
+  <studio>Necropia Entertainment</studio>
+  <uniqueid type="imdb">tt0805647</uniqueid>
+  <uniqueid type="tmdb">531219</uniqueid>
+  <id>tt0805647</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1069509</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6252</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

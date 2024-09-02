@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La popular Drea quiere vengarse de su novio por filtrar su vídeo sexual y la estudiante transferida Eleanor es perseguida por un rumor. Tras un encuentro inesperado, las dos deciden ayudarse mutuamente buscando vengarse de los acosadores de la otra.]]></plot>
+  <outline><![CDATA[Haré lo tuyo si tú haces lo mío]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-16 10:43:53</dateadded>
+  <title>Revancha ya</title>
+  <originaltitle>Do Revenge</originaltitle>
+  <actor>
+    <name>Camila Mendes</name>
+    <role>Drea</role>
+    <type>Actor</type>
+    <tmdbid>1721740</tmdbid>
+    <imdbid>nm6161516</imdbid>
+  </actor>
+  <actor>
+    <name>Maya Hawke</name>
+    <role>Eleanor</role>
+    <type>Actor</type>
+    <tmdbid>1903874</tmdbid>
+    <imdbid>nm1638321</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Abrams</name>
+    <role>Max</role>
+    <type>Actor</type>
+    <tmdbid>148992</tmdbid>
+    <imdbid>nm3641002</imdbid>
+    <tvdbid>569390</tvdbid>
+  </actor>
+  <actor>
+    <name>Rish Shah</name>
+    <role>Russ</role>
+    <type>Actor</type>
+    <tmdbid>2341794</tmdbid>
+    <tvdbid>9097738</tvdbid>
+  </actor>
+  <actor>
+    <name>Sarah Michelle Gellar</name>
+    <role>The Headmaster</role>
+    <type>Actor</type>
+    <tmdbid>11863</tmdbid>
+    <imdbid>nm0001264</imdbid>
+    <tvdbid>252097</tvdbid>
+  </actor>
+  <actor>
+    <name>Talia Ryder</name>
+    <role>Gabbi</role>
+    <type>Actor</type>
+    <tmdbid>2475409</tmdbid>
+  </actor>
+  <actor>
+    <name>Alisha Boe</name>
+    <role>Tara</role>
+    <type>Actor</type>
+    <tmdbid>1485380</tmdbid>
+    <imdbid>nm2647981</imdbid>
+    <tvdbid>330243</tvdbid>
+  </actor>
+  <actor>
+    <name>Ava Capri</name>
+    <role>Carissa</role>
+    <type>Actor</type>
+    <tmdbid>2050728</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Daviss</name>
+    <role>Elliot</role>
+    <type>Actor</type>
+    <tmdbid>2119719</tmdbid>
+  </actor>
+  <actor>
+    <name>Paris Berelc</name>
+    <role>Meghan</role>
+    <type>Actor</type>
+    <tmdbid>1512122</tmdbid>
+  </actor>
+  <actor>
+    <name>Maia Reficco</name>
+    <role>Montana</role>
+    <type>Actor</type>
+    <tvdbid>7886561</tvdbid>
+    <tmdbid>2071463</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Turner</name>
+    <role>Erica</role>
+    <type>Actor</type>
+    <tmdbid>1001657</tmdbid>
+    <imdbid>nm3849842</imdbid>
+    <tvdbid>247901</tvdbid>
+  </actor>
+  <actor>
+    <name>Rachel Matthews</name>
+    <role>Allegra</role>
+    <type>Actor</type>
+    <tmdbid>104853</tmdbid>
+  </actor>
+  <actor>
+    <name>Eliza Bennett</name>
+    <role>Jessica</role>
+    <type>Actor</type>
+    <tmdbid>23775</tmdbid>
+    <imdbid>nm1146916</imdbid>
+  </actor>
+  <actor>
+    <name>Francesca Reale</name>
+    <role>Ariana</role>
+    <type>Actor</type>
+    <tmdbid>1688664</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Sui</name>
+    <role>Sage</role>
+    <type>Actor</type>
+    <tmdbid>1448706</tmdbid>
+  </actor>
+  <actor>
+    <name>Jude Timothy Harris</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>3704141</tmdbid>
+  </actor>
+  <actor>
+    <name>Presley Coley</name>
+    <role>Feminist #1</role>
+    <type>Actor</type>
+    <tmdbid>2775065</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Ann Girma</name>
+    <role>Feminist #2</role>
+    <type>Actor</type>
+    <tmdbid>3704143</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Sherley</name>
+    <role>Eco Kid</role>
+    <type>Actor</type>
+    <tmdbid>2515103</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rub</name>
+    <role>Jock</role>
+    <type>Actor</type>
+    <tmdbid>3704145</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Pokopac</name>
+    <role>Theater Girl</role>
+    <type>Actor</type>
+    <tmdbid>2735934</tmdbid>
+  </actor>
+  <actor>
+    <name>Britt Douyon</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3704149</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Allen Durkin</name>
+    <role>Vice Principal Norris</role>
+    <type>Actor</type>
+    <tmdbid>1789189</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Rootare</name>
+    <role>Female Student</role>
+    <type>Actor</type>
+    <tmdbid>1748648</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessi Goei</name>
+    <role>Senior Girl</role>
+    <type>Actor</type>
+    <tmdbid>1690573</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoebe French</name>
+    <role>Willow</role>
+    <type>Actor</type>
+    <tmdbid>2950774</tmdbid>
+  </actor>
+  <actor>
+    <name>Fay the Lizard</name>
+    <role>Oscar Winner Olivia Colman</role>
+    <type>Actor</type>
+    <tmdbid>3704152</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Arroyo</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3681862</tmdbid>
+  </actor>
+  <actor>
+    <name>Jillian Barrie</name>
+    <role>Pool Girl / Beachgoer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704157</tmdbid>
+  </actor>
+  <actor>
+    <name>Denisse Beldin</name>
+    <role>Celeste (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704158</tmdbid>
+  </actor>
+  <actor>
+    <name>Grayson Brooks</name>
+    <role>Rosehill Elite Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704160</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Austin Bryant</name>
+    <role>Student on Campus (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704161</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Burgos</name>
+    <role>Pool Party Guy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704165</tmdbid>
+  </actor>
+  <actor>
+    <name>Soniliz Espina</name>
+    <role>Restaurant Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704166</tmdbid>
+  </actor>
+  <actor>
+    <name>Stejeanslo Filias</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704167</tmdbid>
+  </actor>
+  <actor>
+    <name>Aslean Janelle Florence</name>
+    <role>Party goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704168</tmdbid>
+  </actor>
+  <actor>
+    <name>Trico Fullerton</name>
+    <role>Beachgoer / Beach Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2648316</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Gaita</name>
+    <role>Beach Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2648295</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Gallet</name>
+    <role>Elite School Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704170</tmdbid>
+  </actor>
+  <actor>
+    <name>Kameron Hood</name>
+    <role>Mark (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2933226</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Gonzalez</name>
+    <role>Feminist / Elite Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3632877</tmdbid>
+  </actor>
+  <actor>
+    <name>Ira Grossman</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704172</tmdbid>
+  </actor>
+  <actor>
+    <name>Haley Hammonds</name>
+    <role>Elite (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3677586</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex D. Jennings</name>
+    <role>Tennis Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2594848</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Koschella</name>
+    <role>Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704179</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Kraft</name>
+    <role>Mrs. Davis (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1217862</tmdbid>
+  </actor>
+  <actor>
+    <name>Keila Lorena</name>
+    <role>Rosehill student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3686876</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassady McClincy</name>
+    <role>Ashlyn (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1792414</tmdbid>
+    <tvdbid>498936</tvdbid>
+  </actor>
+  <actor>
+    <name>Zack Olds</name>
+    <role>Rosehill Student / Tennis Camper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704183</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Ramer</name>
+    <role>Blonde Swimming Patient / Tennis Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3463990</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Reimer</name>
+    <role>Theater Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704191</tmdbid>
+  </actor>
+  <actor>
+    <name>Sage Shirley</name>
+    <role>Farm Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3627111</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Stafford</name>
+    <role>Rosehill Elite / Theatre Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3344116</tmdbid>
+  </actor>
+  <actor>
+    <name>Donovan Velez</name>
+    <role>Shopper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704197</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Wallis</name>
+    <role>Theater Kid / Rosehill Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704200</tmdbid>
+  </actor>
+  <actor>
+    <name>Carter Williams</name>
+    <role>Rosehill Student / Theatre Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3704204</tmdbid>
+  </actor>
+  <director tmdbid="1721377">Jennifer Kaytin Robinson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rK-JQU_bShc</trailer>
+  <rating>6.3</rating>
+  <year>2022</year>
+  <sorttitle>Revancha ya</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13327038</imdbid>
+  <tmdbid>762968</tmdbid>
+  <premiered>2022-09-14</premiered>
+  <releasedate>2022-09-14</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>121</runtime>
+  <tagline>Haré lo tuyo si tú haces lo mío</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <studio>Likely Story</studio>
+  <uniqueid type="imdb">tt13327038</uniqueid>
+  <uniqueid type="tmdb">762968</uniqueid>
+  <id>tt13327038</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>927995</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7248</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

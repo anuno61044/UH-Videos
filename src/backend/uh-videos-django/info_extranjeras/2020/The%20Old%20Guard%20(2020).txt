@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A covert team of immortal mercenaries is suddenly exposed and must now fight to keep their identity a secret just as an unexpected new member is discovered.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-13 10:54:00</dateadded>
+  <title>The Old Guard</title>
+  <originaltitle>The Old Guard</originaltitle>
+  <actor>
+    <name>Charlize Theron</name>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>KiKi Layne</name>
+    <type>Actor</type>
+    <tmdbid>1884703</tmdbid>
+    <imdbid>nm8460487</imdbid>
+  </actor>
+  <actor>
+    <name>Matthias Schoenaerts</name>
+    <type>Actor</type>
+    <tmdbid>73381</tmdbid>
+    <imdbid>nm0774386</imdbid>
+    <tvdbid>471019</tvdbid>
+  </actor>
+  <actor>
+    <name>Marwan Kenzari</name>
+    <type>Actor</type>
+    <tmdbid>935235</tmdbid>
+    <imdbid>nm3092471</imdbid>
+  </actor>
+  <director tmdbid="71947" imdbid="nm0697656">Gina Prince-Bythewood</director>
+  <writer>Greg Rucka (screenplay by)</writer>
+  <writer>Greg Rucka (based on the graphic novel series by)</writer>
+  <writer>Leandro Fernandez (illustrated by)</writer>
+  <credits>Greg Rucka (screenplay by)</credits>
+  <credits>Greg Rucka (based on the graphic novel series by)</credits>
+  <credits>Leandro Fernandez (illustrated by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=btRkl6AyQcQ</trailer>
+  <rating>6.7</rating>
+  <year>2020</year>
+  <sorttitle>Old Guard</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7556122</imdbid>
+  <tmdbid>547016</tmdbid>
+  <premiered>2020-07-10</premiered>
+  <releasedate>2020-07-10</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>126</runtime>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Fantasy</genre>
+  <genre>Thriller</genre>
+  <studio>Skydance Media</studio>
+  <studio>Denver and Delilah Productions</studio>
+  <studio>Dune Films</studio>
+  <set tmdbcolid="847029">
+    <name>The Old Guard Collection</name>
+  </set>
+  <set tmdbcolid="847029">
+    <name>La vieja guardia - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7556122</uniqueid>
+  <uniqueid type="tmdb">547016</uniqueid>
+  <id>tt7556122</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>887532</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7536</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

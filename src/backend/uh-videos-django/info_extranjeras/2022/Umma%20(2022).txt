@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Amanda y su hija viven una vida tranquila en una granja estadounidense, pero cuando los restos de su madre separada llegan de Corea, Amanda se ve atormentada por el miedo de convertirse en su propia madre.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-04-08 07:49:19</dateadded>
+  <title>Umma</title>
+  <originaltitle>Umma</originaltitle>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+    <tvdbid>286297</tvdbid>
+  </actor>
+  <actor>
+    <name>Fivel Stewart</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>205955</tmdbid>
+    <tvdbid>332272</tvdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Danny</role>
+    <type>Actor</type>
+    <tmdbid>20212</tmdbid>
+    <imdbid>nm0000551</imdbid>
+    <tvdbid>308082</tvdbid>
+  </actor>
+  <actor>
+    <name>Odeya Rush</name>
+    <role>River</role>
+    <type>Actor</type>
+    <tmdbid>1121786</tmdbid>
+    <imdbid>nm3843467</imdbid>
+  </actor>
+  <actor>
+    <name>MeeWha Alana Lee</name>
+    <role>Amanda’s Mom / Umma</role>
+    <type>Actor</type>
+    <tmdbid>2727080</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Yi</name>
+    <role>Amanda’s Uncle</role>
+    <type>Actor</type>
+    <tmdbid>305993</tmdbid>
+    <imdbid>nm1502541</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Kirksey</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>3118541</tmdbid>
+  </actor>
+  <director tmdbid="1381495">Iris K. Shim</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QQdXvvtu-iI</trailer>
+  <rating>4.7</rating>
+  <year>2022</year>
+  <sorttitle>Umma</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13235822</imdbid>
+  <tmdbid>751237</tmdbid>
+  <premiered>2022-03-18</premiered>
+  <releasedate>2022-03-18</releasedate>
+  <criticrating>27</criticrating>
+  <runtime>84</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Sony Pictures</studio>
+  <studio>CatchLight Studios</studio>
+  <studio>Raimi Productions</studio>
+  <studio>Stage 6 Films</studio>
+  <studio>Starlight Media</studio>
+  <uniqueid type="imdb">tt13235822</uniqueid>
+  <uniqueid type="tmdb">751237</uniqueid>
+  <id>tt13235822</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1333279</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>5010</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

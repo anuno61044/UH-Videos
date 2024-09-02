@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alana Kane y Gary Valentine se conocen, pasan el tiempo juntos y acaban enamorándose en el Valle de San Fernando en 1973.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-18 18:43:18</dateadded>
+  <title>Licorice Pizza</title>
+  <originaltitle>Licorice Pizza</originaltitle>
+  <actor>
+    <name>Alana Haim</name>
+    <role>Alana Kane</role>
+    <type>Actor</type>
+    <tmdbid>1741367</tmdbid>
+  </actor>
+  <actor>
+    <name>Cooper Hoffman</name>
+    <role>Gary Valentine</role>
+    <type>Actor</type>
+    <tmdbid>2764542</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Penn</name>
+    <role>Jack Holden</role>
+    <type>Actor</type>
+    <tmdbid>2228</tmdbid>
+    <imdbid>nm0000576</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Waits</name>
+    <role>Rex Blau</role>
+    <type>Actor</type>
+    <tmdbid>2887</tmdbid>
+    <imdbid>nm0001823</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Jon Peters</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Benny Safdie</name>
+    <role>Joel Wachs</role>
+    <type>Actor</type>
+    <tmdbid>227564</tmdbid>
+    <imdbid>nm1509478</imdbid>
+  </actor>
+  <actor>
+    <name>Skyler Gisondo</name>
+    <role>Lance</role>
+    <type>Actor</type>
+    <tmdbid>61263</tmdbid>
+    <imdbid>nm1711114</imdbid>
+    <tvdbid>275889</tvdbid>
+  </actor>
+  <actor>
+    <name>Mary Elizabeth Ellis</name>
+    <role>Momma Anita</role>
+    <type>Actor</type>
+    <tmdbid>139309</tmdbid>
+    <imdbid>nm1634944</imdbid>
+  </actor>
+  <actor>
+    <name>John Michael Higgins</name>
+    <role>Jerry Frick</role>
+    <type>Actor</type>
+    <tmdbid>8265</tmdbid>
+    <imdbid>nm0383422</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Ebersole</name>
+    <role>Lucille Doolittle</role>
+    <type>Actor</type>
+    <tmdbid>4003</tmdbid>
+    <imdbid>nm0002056</imdbid>
+  </actor>
+  <actor>
+    <name>Harriet Sansom Harris</name>
+    <role>Mary Grady</role>
+    <type>Actor</type>
+    <tmdbid>538</tmdbid>
+    <imdbid>nm0364748</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Cross</name>
+    <role>Matthew</role>
+    <type>Actor</type>
+    <tmdbid>33528</tmdbid>
+    <imdbid>nm0189200</imdbid>
+    <tvdbid>257283</tvdbid>
+  </actor>
+  <actor>
+    <name>Danielle Haim</name>
+    <role>Danielle Kane</role>
+    <type>Actor</type>
+    <tmdbid>1741368</tmdbid>
+  </actor>
+  <actor>
+    <name>Este Haim</name>
+    <role>Este Kane</role>
+    <type>Actor</type>
+    <tmdbid>1741366</tmdbid>
+  </actor>
+  <actor>
+    <name>Moti Haim</name>
+    <role>Moti Kane</role>
+    <type>Actor</type>
+    <tmdbid>3334740</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Haim</name>
+    <role>Donna Kane</role>
+    <type>Actor</type>
+    <tmdbid>3334741</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Rudolph</name>
+    <role>Gale</role>
+    <type>Actor</type>
+    <tmdbid>52792</tmdbid>
+    <imdbid>nm0748973</imdbid>
+    <tvdbid>294127</tvdbid>
+  </actor>
+  <actor>
+    <name>Ryan Heffington</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>1705236</tmdbid>
+  </actor>
+  <actor>
+    <name>Nate Mann</name>
+    <role>Brian</role>
+    <type>Actor</type>
+    <tmdbid>3029979</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Kusman</name>
+    <role>Sue Pomerantz</role>
+    <type>Actor</type>
+    <tmdbid>3159120</tmdbid>
+  </actor>
+  <actor>
+    <name>Destry Allyn Spielberg</name>
+    <role>Frisbee Kahill</role>
+    <type>Actor</type>
+    <tmdbid>2281194</tmdbid>
+  </actor>
+  <actor>
+    <name>George DiCaprio</name>
+    <role>Mr. Jack</role>
+    <type>Actor</type>
+    <tmdbid>2354448</tmdbid>
+  </actor>
+  <actor>
+    <name>Iyana Halley</name>
+    <role>Brenda</role>
+    <type>Actor</type>
+    <tmdbid>1877835</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Chase</name>
+    <role>B. Mitch Reed</role>
+    <type>Actor</type>
+    <tmdbid>1656863</tmdbid>
+    <imdbid>nm2616557</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Dumont</name>
+    <role>Brenda</role>
+    <type>Actor</type>
+    <tmdbid>968089</tmdbid>
+    <imdbid>nm2730808</imdbid>
+    <tvdbid>503879</tvdbid>
+  </actor>
+  <actor>
+    <name>Yumi Mizui</name>
+    <role>Mioko</role>
+    <type>Actor</type>
+    <tmdbid>1502452</tmdbid>
+  </actor>
+  <actor>
+    <name>Megumi Anjo</name>
+    <role>Kimiko</role>
+    <type>Actor</type>
+    <tmdbid>3235986</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Althaus</name>
+    <role>Kiki Page</role>
+    <type>Actor</type>
+    <tmdbid>1774266</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Conway Jr.</name>
+    <role>Vic</role>
+    <type>Actor</type>
+    <tmdbid>1185053</tmdbid>
+  </actor>
+  <actor>
+    <name>Griff Giacchino</name>
+    <role>Mark</role>
+    <type>Actor</type>
+    <tmdbid>3334744</tmdbid>
+  </actor>
+  <actor>
+    <name>James Kelley</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>3334746</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Angarola</name>
+    <role>Kirk</role>
+    <type>Actor</type>
+    <tmdbid>3334748</tmdbid>
+  </actor>
+  <actor>
+    <name>Milo Herschlag</name>
+    <role>Greg Valentine</role>
+    <type>Actor</type>
+    <tmdbid>3334749</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Stark</name>
+    <role>Long Hair Freak</role>
+    <type>Actor</type>
+    <tmdbid>183519</tmdbid>
+    <imdbid>nm0823149</imdbid>
+  </actor>
+  <actor>
+    <name>Bottara Angele</name>
+    <role>Fair Goer #1</role>
+    <type>Actor</type>
+    <tmdbid>3118524</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Delavenne</name>
+    <role>French Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1738122</tmdbid>
+  </actor>
+  <actor>
+    <name>Rogelio Camarillo</name>
+    <role>Armand</role>
+    <type>Actor</type>
+    <tmdbid>1759243</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan M. Hadden</name>
+    <role>Valet</role>
+    <type>Actor</type>
+    <tmdbid>3118531</tmdbid>
+  </actor>
+  <actor>
+    <name>Lakin Valdez</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>1709422</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Kehew</name>
+    <role>Sonny &amp; Cher Tech</role>
+    <type>Actor</type>
+    <tmdbid>1661084</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas John Rudolph</name>
+    <role>Customer #6</role>
+    <type>Actor</type>
+    <tmdbid>2949654</tmdbid>
+  </actor>
+  <actor>
+    <name>Collin Sutton</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1053402</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Nicholson</name>
+    <role>Ray</role>
+    <type>Actor</type>
+    <tmdbid>60960</tmdbid>
+    <imdbid>nm2200658</imdbid>
+  </actor>
+  <actor>
+    <name>Eloy Perez</name>
+    <role>Guillermo</role>
+    <type>Actor</type>
+    <tmdbid>2621301</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Kirksey</name>
+    <role>Cop #5</role>
+    <type>Actor</type>
+    <tmdbid>3118541</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Carl Allen</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1983914</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Spielberg</name>
+    <role>Tiny Toes Girl</role>
+    <type>Actor</type>
+    <tmdbid>8700</tmdbid>
+    <imdbid>nm0818587</imdbid>
+  </actor>
+  <actor>
+    <name>Pearl Anderson</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>3372842</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Kilgariff</name>
+    <role>Joel Wachs Mom</role>
+    <type>Actor</type>
+    <tmdbid>162609</tmdbid>
+    <imdbid>nm0453022</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Becerril</name>
+    <role>Latin Lady (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3118530</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Chicos</name>
+    <role>Upscale Restaurant Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2573644</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerren Hall</name>
+    <role>Campaign Employee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2882010</tmdbid>
+  </actor>
+  <actor>
+    <name>Fatimah Hassan</name>
+    <role>Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>559644</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Herrera</name>
+    <role>Teen Fair Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3118542</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Koen</name>
+    <role>Fair Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2910038</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard B. Larimore</name>
+    <role>Golfer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1542318</tmdbid>
+  </actor>
+  <actor>
+    <name>Paige Locke</name>
+    <role>Fair Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2581752</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoe McLane</name>
+    <role>Pinball Teen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1508651</tmdbid>
+    <imdbid>nm3420091</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Molinari</name>
+    <role>Cop #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>202930</tmdbid>
+    <imdbid>nm1190376</imdbid>
+  </actor>
+  <actor>
+    <name>John C. Reilly</name>
+    <role>Fred Gwynne / Herman Munster (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4764</tmdbid>
+    <imdbid>nm0000604</imdbid>
+    <tvdbid>310418</tvdbid>
+  </actor>
+  <actor>
+    <name>Patrick Salway</name>
+    <role>Pinball Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3118535</tmdbid>
+  </actor>
+  <actor>
+    <name>Tess Rianne Sullivan</name>
+    <role>Wachs Campaign Staffer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2407665</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Townsend</name>
+    <role>Fairgoer #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1578406</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Willy</name>
+    <role>Fair Volunteer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2905434</tmdbid>
+  </actor>
+  <actor>
+    <name>Mimi O'Donnell</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3203996</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Chariton</name>
+    <role>Sam Harpoon</role>
+    <type>Actor</type>
+    <tmdbid>1210997</tmdbid>
+  </actor>
+  <director tmdbid="4762" imdbid="nm0000759">Paul Thomas Anderson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f_-BmqjQJME</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <sorttitle>Licorice Pizza</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11271038</imdbid>
+  <tmdbid>718032</tmdbid>
+  <premiered>2021-11-26</premiered>
+  <releasedate>2021-11-26</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>133</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Ghoulardi Film Company</studio>
+  <studio>Focus Features</studio>
+  <studio>Bron Studios</studio>
+  <uniqueid type="tmdb">718032</uniqueid>
+  <uniqueid type="imdb">tt11271038</uniqueid>
+  <id>tt11271038</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>939482</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>239:100</aspect>
+        <aspectratio>239:100</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8004</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una historia contemporánea sobre el paso a la edad adulta de una adolescente, libremente inspirada en el clásico literario 'El maravilloso Mago de Oz'.]]></plot>
+  <outline><![CDATA[Esto no es una película, es un viaje.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-03 12:44:48</dateadded>
+  <title>Rainbow</title>
+  <originaltitle>Rainbow</originaltitle>
+  <actor>
+    <name>Dora Postigo</name>
+    <role>Dora</role>
+    <type>Actor</type>
+    <tmdbid>2783003</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Maura</name>
+    <role>Coco Cabrera</role>
+    <type>Actor</type>
+    <tmdbid>2744</tmdbid>
+    <imdbid>nm0560962</imdbid>
+    <tvdbid>459215</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Maribel</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Luis Bermejo</name>
+    <role>José Luis</role>
+    <type>Actor</type>
+    <tmdbid>27471</tmdbid>
+    <imdbid>nm1084399</imdbid>
+    <tvdbid>499262</tvdbid>
+  </actor>
+  <actor>
+    <name>Ayax Pedrosa</name>
+    <role>Muñeco</role>
+    <type>Actor</type>
+    <tmdbid>2710517</tmdbid>
+  </actor>
+  <actor>
+    <name>Hovik Keuchkerian</name>
+    <role>Diego Galán</role>
+    <type>Actor</type>
+    <tmdbid>1131415</tmdbid>
+    <imdbid>nm3986032</imdbid>
+    <tvdbid>499258</tvdbid>
+  </actor>
+  <actor>
+    <name>Wekaforé Jibril</name>
+    <role>Akin</role>
+    <type>Actor</type>
+    <tmdbid>3497903</tmdbid>
+  </actor>
+  <actor>
+    <name>Cuentos Rosales</name>
+    <role>Lilth</role>
+    <type>Actor</type>
+    <tmdbid>3727566</tmdbid>
+  </actor>
+  <actor>
+    <name>Ester Expósito</name>
+    <type>Actor</type>
+    <tmdbid>2025252</tmdbid>
+    <imdbid>nm7527792</imdbid>
+    <tvdbid>488432</tvdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gálvez</name>
+    <role>Self</role>
+    <type>Actor</type>
+    <tmdbid>72674</tmdbid>
+  </actor>
+  <actor>
+    <name>Rossy de Palma</name>
+    <type>Actor</type>
+    <tmdbid>25258</tmdbid>
+    <imdbid>nm0658041</imdbid>
+    <tvdbid>580771</tvdbid>
+  </actor>
+  <actor>
+    <name>Iñigo Galiano</name>
+    <role>Actor</role>
+    <type>Actor</type>
+    <tmdbid>2967251</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmina Barrios</name>
+    <type>Actor</type>
+    <tmdbid>1042750</tmdbid>
+    <imdbid>nm4847927</imdbid>
+    <tvdbid>469634</tvdbid>
+  </actor>
+  <actor>
+    <name>Meteora Fontana</name>
+    <role>Meteora</role>
+    <type>Actor</type>
+    <tmdbid>2883140</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Hudson</name>
+    <type>Actor</type>
+    <tmdbid>2073560</tmdbid>
+    <tvdbid>8154286</tvdbid>
+  </actor>
+  <actor>
+    <name>José Emilio Vera</name>
+    <role>Majordome</role>
+    <type>Actor</type>
+    <tmdbid>2735017</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Meléndez Peso</name>
+    <type>Actor</type>
+    <tmdbid>2137605</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Corrochano</name>
+    <role>Actrice</role>
+    <type>Actor</type>
+    <tmdbid>1666680</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana del Arco</name>
+    <type>Actor</type>
+    <tmdbid>1790804</tmdbid>
+  </actor>
+  <actor>
+    <name>Soraya Yasmin</name>
+    <type>Actor</type>
+    <tmdbid>3497902</tmdbid>
+  </actor>
+  <director tmdbid="224870" imdbid="nm1346713" tvdbid="448237">Paco León</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mxnh_BtOyTE</trailer>
+  <rating>4.6</rating>
+  <year>2022</year>
+  <sorttitle>Rainbow</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14722598</imdbid>
+  <tmdbid>960170</tmdbid>
+  <premiered>2022-09-18</premiered>
+  <releasedate>2022-09-18</releasedate>
+  <criticrating>17</criticrating>
+  <runtime>119</runtime>
+  <tagline>Esto no es una película, es un viaje.</tagline>
+  <country>Spain</country>
+  <genre>Fantasía</genre>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <genre>Música</genre>
+  <studio>Telecinco Cinema</studio>
+  <studio>Andy Joke</studio>
+  <studio>Colosé Producciones</studio>
+  <studio>Los Amigos de Dorothy</studio>
+  <uniqueid type="imdb">tt14722598</uniqueid>
+  <uniqueid type="tmdb">960170</uniqueid>
+  <id>tt14722598</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1010373</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7116</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63675</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

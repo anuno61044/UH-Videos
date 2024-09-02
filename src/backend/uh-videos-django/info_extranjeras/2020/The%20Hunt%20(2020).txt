@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.]]></plot>
+  <outline><![CDATA[Cazar hombres es la experiencia definitiva.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-23 09:00:25</dateadded>
+  <title>The Hunt</title>
+  <originaltitle>The Hunt</originaltitle>
+  <actor>
+    <name>Betty Gilpin</name>
+    <type>Actor</type>
+    <tmdbid>92572</tmdbid>
+    <imdbid>nm2365811</imdbid>
+    <tvdbid>303583</tvdbid>
+  </actor>
+  <actor>
+    <name>Hilary Swank</name>
+    <type>Actor</type>
+    <tmdbid>448</tmdbid>
+    <imdbid>nm0005476</imdbid>
+  </actor>
+  <actor>
+    <name>Ike Barinholtz</name>
+    <type>Actor</type>
+    <tmdbid>198150</tmdbid>
+    <imdbid>nm0054697</imdbid>
+    <tvdbid>297647</tvdbid>
+  </actor>
+  <actor>
+    <name>Wayne Duvall</name>
+    <type>Actor</type>
+    <tmdbid>1470</tmdbid>
+    <imdbid>nm0245145</imdbid>
+  </actor>
+  <director tmdbid="79434" imdbid="nm0957505">Craig Zobel</director>
+  <writer>Nick Cuse</writer>
+  <writer>Damon Lindelof</writer>
+  <credits>Nick Cuse</credits>
+  <credits>Damon Lindelof</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ub1l8qPgfsU</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>Hunt</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8244784</imdbid>
+  <tmdbid>514847</tmdbid>
+  <premiered>2020-03-11</premiered>
+  <releasedate>2020-03-11</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>90</runtime>
+  <tagline>Cazar hombres es la experiencia definitiva.</tagline>
+  <country>United States of America</country>
+  <country>Japan</country>
+  <genre>Action</genre>
+  <genre>Horror</genre>
+  <genre>Thriller</genre>
+  <studio>Blumhouse Productions</studio>
+  <studio>DENTSU</studio>
+  <uniqueid type="imdb">tt8244784</uniqueid>
+  <uniqueid type="tmdb">514847</uniqueid>
+  <id>tt8244784</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1236775</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5403</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

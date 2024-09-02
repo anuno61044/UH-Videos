@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia sigue a H, un hombre frío y misterioso que trabaja en una empresa de camiones blindados responsable de mover cientos de millones de dólares por Los Ángeles cada semana.]]></plot>
+  <outline><![CDATA[Un ejército de un solo hombre.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-31 08:49:25</dateadded>
+  <title>Despierta la furia</title>
+  <originaltitle>Wrath of Man</originaltitle>
+  <actor>
+    <name>Jason Statham</name>
+    <role>H</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Bullet</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Rocci Williams</name>
+    <role>Hollow Bob</role>
+    <type>Actor</type>
+    <tmdbid>1629429</tmdbid>
+    <imdbid>nm6875258</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Hartnett</name>
+    <role>Boy Sweat Dave</role>
+    <type>Actor</type>
+    <tmdbid>2299</tmdbid>
+    <imdbid>nm0001326</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Donovan</name>
+    <role>Jackson</role>
+    <type>Actor</type>
+    <tmdbid>52886</tmdbid>
+    <imdbid>nm0232998</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Eastwood</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>928572</tmdbid>
+    <imdbid>nm2207222</imdbid>
+  </actor>
+  <actor>
+    <name>Andy García</name>
+    <role>The King</role>
+    <type>Actor</type>
+    <tmdbid>1271</tmdbid>
+    <imdbid>nm0000412</imdbid>
+    <tvdbid>7912402</tvdbid>
+  </actor>
+  <actor>
+    <name>Deobia Oparei</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>58758</tmdbid>
+    <imdbid>nm0649046</imdbid>
+  </actor>
+  <actor>
+    <name>Laz Alonso</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>10964</tmdbid>
+    <imdbid>nm0022306</imdbid>
+    <tvdbid>280976</tvdbid>
+  </actor>
+  <actor>
+    <name>Raúl Castillo</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>557579</tmdbid>
+    <imdbid>nm1950004</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Reilly</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>1384499</tmdbid>
+    <imdbid>nm2687517</imdbid>
+    <tvdbid>526997</tvdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+    <tvdbid>259360</tvdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Sticky John</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+    <tvdbid>351456</tvdbid>
+  </actor>
+  <actor>
+    <name>Niamh Algar</name>
+    <role>Dana</role>
+    <type>Actor</type>
+    <tmdbid>1362813</tmdbid>
+    <imdbid>nm4862056</imdbid>
+    <tvdbid>513454</tvdbid>
+  </actor>
+  <actor>
+    <name>Post Malone</name>
+    <role>Robber</role>
+    <type>Actor</type>
+    <tmdbid>1821863</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyne Renée</name>
+    <role>Kirsty</role>
+    <type>Actor</type>
+    <tmdbid>45753</tmdbid>
+    <tvdbid>471073</tvdbid>
+  </actor>
+  <actor>
+    <name>Anthony Molinari</name>
+    <role>Robber</role>
+    <type>Actor</type>
+    <tmdbid>202930</tmdbid>
+    <imdbid>nm1190376</imdbid>
+  </actor>
+  <actor>
+    <name>Tadhg Murphy</name>
+    <role>Shirley</role>
+    <type>Actor</type>
+    <tmdbid>1256162</tmdbid>
+    <imdbid>nm1752532</imdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Moggy</role>
+    <type>Actor</type>
+    <tmdbid>205923</tmdbid>
+    <imdbid>nm2129802</imdbid>
+    <tvdbid>317266</tvdbid>
+  </actor>
+  <actor>
+    <name>Darrell D'Silva</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>186396</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Illesley</name>
+    <role>Jackson's Son</role>
+    <type>Actor</type>
+    <tmdbid>2316169</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Calder</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>1355139</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>FBI Agent Okey</role>
+    <type>Actor</type>
+    <tmdbid>1033691</tmdbid>
+    <imdbid>nm3438484</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Babalola</name>
+    <role>Stuart</role>
+    <type>Actor</type>
+    <tmdbid>2766048</tmdbid>
+  </actor>
+  <actor>
+    <name>Eli Brown</name>
+    <role>Dougie</role>
+    <type>Actor</type>
+    <tmdbid>1818688</tmdbid>
+    <imdbid>nm9668853</imdbid>
+    <tvdbid>8002092</tvdbid>
+  </actor>
+  <actor>
+    <name>Cameron Jack</name>
+    <role>Brendan</role>
+    <type>Actor</type>
+    <tmdbid>1473276</tmdbid>
+    <imdbid>nm0413089</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Manning</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1684152</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Cowdery</name>
+    <role>Hubbard</role>
+    <type>Actor</type>
+    <tmdbid>1479957</tmdbid>
+    <imdbid>nm3912910</imdbid>
+  </actor>
+  <actor>
+    <name>Eve Macklin</name>
+    <role>Jane</role>
+    <type>Actor</type>
+    <tmdbid>1092908</tmdbid>
+    <imdbid>nm2984440</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Martinez</name>
+    <role>Chef</role>
+    <type>Actor</type>
+    <tmdbid>1358063</tmdbid>
+  </actor>
+  <actor>
+    <name>Stevee Davies</name>
+    <role>Hotel Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1278601</tmdbid>
+    <imdbid>nm3482517</imdbid>
+  </actor>
+  <actor>
+    <name>James Warren</name>
+    <role>Heavy #1</role>
+    <type>Actor</type>
+    <tmdbid>1646438</tmdbid>
+    <imdbid>nm0912879</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Shoubber</name>
+    <role>Wealthy Arab</role>
+    <type>Actor</type>
+    <tmdbid>2766053</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Joseph Woolf</name>
+    <role>Bar Punter</role>
+    <type>Actor</type>
+    <tmdbid>2303017</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Lacaria</name>
+    <role>Bar Customer</role>
+    <type>Actor</type>
+    <tmdbid>1685493</tmdbid>
+  </actor>
+  <actor>
+    <name>Khalid Ghajji</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>1768008</tmdbid>
+    <imdbid>nm5340002</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Elfonzia</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2766122</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Bratanov</name>
+    <role>Office Manager</role>
+    <type>Actor</type>
+    <tmdbid>2100852</tmdbid>
+    <imdbid>nm7970896</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Farnham</name>
+    <role>Jackson's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>1858354</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Shrimpton</name>
+    <role>Armourer's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2420269</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Pearce</name>
+    <type>Actor</type>
+    <tmdbid>2766130</tmdbid>
+  </actor>
+  <actor>
+    <name>Cain Aiden</name>
+    <role>Stadium Goer</role>
+    <type>Actor</type>
+    <tmdbid>2766131</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Mae</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2766132</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Sanderson</name>
+    <role>Hotel Guest</role>
+    <type>Actor</type>
+    <tmdbid>2766133</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Lynch</name>
+    <role>Pool Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2766134</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>Boss Blake Halls</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+    <imdbid>nm3008739</imdbid>
+    <tvdbid>300914</tvdbid>
+  </actor>
+  <actor>
+    <name>Puneet Tyagi</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>3109891</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerald Tyler</name>
+    <role>Armourer</role>
+    <type>Actor</type>
+    <tmdbid>1919072</tmdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CQgBahCGHUk</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <sorttitle>Despierta la furia</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11083552</imdbid>
+  <tmdbid>637649</tmdbid>
+  <premiered>2021-04-22</premiered>
+  <releasedate>2021-04-22</releasedate>
+  <criticrating>66</criticrating>
+  <runtime>119</runtime>
+  <tagline>Un ejército de un solo hombre.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Crimen</genre>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>Miramax</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Toff Guy Films</studio>
+  <studio>Lionsgate</studio>
+  <studio>CAA Media Finance</studio>
+  <uniqueid type="imdb">tt11083552</uniqueid>
+  <uniqueid type="tmdb">637649</uniqueid>
+  <id>tt11083552</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>937631</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7136</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

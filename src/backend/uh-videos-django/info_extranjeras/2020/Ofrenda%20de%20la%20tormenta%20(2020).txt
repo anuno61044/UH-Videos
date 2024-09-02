@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ha pasado ya un tiempo desde que la inspectora Amaia Salazar (Marta Etura) se enfrentó a su madre. Pero a pesar de que tanto la Guardia Civil como el juez Markina (Leonardo Sbaraglia) dan por cerrado el caso, Amaia siente que no está libre de peligro.La muerte súbita de una niña en Elizondo resulta sospechosa y los análisis forenses del doctor San Martín (Paco Tous) llevan a Amaia a investigar otras muertes de origen similar que conducirán a la inspectora a la resolución final de los sucesos que han asolado el valle de Baztán.]]></plot>
+  <outline><![CDATA[Una Película de Fernando González Molina]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-27 08:52:45</dateadded>
+  <title>Ofrenda a la tormenta</title>
+  <originaltitle>Ofrenda a la tormenta</originaltitle>
+  <actor>
+    <name>Marta Etura</name>
+    <role>Amaia Salazar</role>
+    <type>Actor</type>
+    <tmdbid>34019</tmdbid>
+    <imdbid>nm1011070</imdbid>
+    <tvdbid>7908961</tvdbid>
+  </actor>
+  <actor>
+    <name>Carlos Librado "Nene"</name>
+    <role>Jonan Etxaide</role>
+    <type>Actor</type>
+    <tmdbid>2143181</tmdbid>
+    <imdbid>nm4729886</imdbid>
+    <tvdbid>7971276</tvdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Sbaraglia</name>
+    <role>Javier Markina</role>
+    <type>Actor</type>
+    <tmdbid>19803</tmdbid>
+    <imdbid>nm0768614</imdbid>
+    <tvdbid>465792</tvdbid>
+  </actor>
+  <actor>
+    <name>Imanol Arias</name>
+    <role>Padre Sarasola</role>
+    <type>Actor</type>
+    <tmdbid>36281</tmdbid>
+    <imdbid>nm0002181</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Wagener</name>
+    <role>Fina Hidalgo</role>
+    <type>Actor</type>
+    <tmdbid>34053</tmdbid>
+    <imdbid>nm0905676</imdbid>
+    <tvdbid>612098</tvdbid>
+  </actor>
+  <actor>
+    <name>Francesc Orella</name>
+    <role>Fermín Montes</role>
+    <type>Actor</type>
+    <tmdbid>28509</tmdbid>
+    <imdbid>nm0649649</imdbid>
+    <tvdbid>7911760</tvdbid>
+  </actor>
+  <actor>
+    <name>Benn Northover</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>561028</tmdbid>
+    <imdbid>nm2767678</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Aizpuru</name>
+    <role>Tía Engrasi</role>
+    <type>Actor</type>
+    <tmdbid>1130543</tmdbid>
+    <imdbid>nm1424220</imdbid>
+  </actor>
+  <actor>
+    <name>Elvira Mínguez</name>
+    <role>Flora Salazar</role>
+    <type>Actor</type>
+    <tmdbid>24918</tmdbid>
+    <imdbid>nm0617799</imdbid>
+  </actor>
+  <actor>
+    <name>Colin McFarlane</name>
+    <role>Aloisius Dupree</role>
+    <type>Actor</type>
+    <tmdbid>128386</tmdbid>
+    <imdbid>nm0568801</imdbid>
+  </actor>
+  <actor>
+    <name>Susi Sánchez</name>
+    <role>Rosario</role>
+    <type>Actor</type>
+    <tmdbid>101401</tmdbid>
+    <imdbid>nm0844845</imdbid>
+    <tvdbid>493591</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <role>Comisario General de Pamplona</role>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>Paco Tous</name>
+    <role>Dr. San Martín</role>
+    <type>Actor</type>
+    <tmdbid>1027740</tmdbid>
+    <imdbid>nm0869718</imdbid>
+    <tvdbid>474095</tvdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Cervantes</name>
+    <role>Dr. Berasategui</role>
+    <type>Actor</type>
+    <tmdbid>224874</tmdbid>
+    <imdbid>nm2024943</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Larralde</name>
+    <role>Yolanda Berrueta</role>
+    <type>Actor</type>
+    <tmdbid>932628</tmdbid>
+    <imdbid>nm1007458</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Sánchez</name>
+    <role>Elena Ochoa</role>
+    <type>Actor</type>
+    <tmdbid>1016060</tmdbid>
+    <imdbid>nm0760890</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <role>Rosaura Salazar</role>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Rosa</name>
+    <role>Subinspector Goñi</role>
+    <type>Actor</type>
+    <tmdbid>2639955</tmdbid>
+    <tvdbid>7962222</tvdbid>
+  </actor>
+  <actor>
+    <name>Angel Alkain</name>
+    <role>Iriarte</role>
+    <type>Actor</type>
+    <tmdbid>2265829</tmdbid>
+  </actor>
+  <actor>
+    <name>Ainara Gurrutxaga</name>
+    <role>Hija de Elena Ochoa</role>
+    <type>Actor</type>
+    <tmdbid>2119358</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Villa</name>
+    <role>Inspector Clemos</role>
+    <type>Actor</type>
+    <tmdbid>1062363</tmdbid>
+    <imdbid>nm1094075</imdbid>
+  </actor>
+  <actor>
+    <name>Izaskun Mujika</name>
+    <role>Sonia</role>
+    <type>Actor</type>
+    <tmdbid>3011952</tmdbid>
+  </actor>
+  <actor>
+    <name>Iñigo de la Iglesia</name>
+    <role>Valentin Esparza</role>
+    <type>Actor</type>
+    <tmdbid>1892378</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Mozorova</name>
+    <role>Dra. Takchenko</role>
+    <type>Actor</type>
+    <tmdbid>3011955</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomás del Estal</name>
+    <role>Testigo Piso Obra</role>
+    <type>Actor</type>
+    <tmdbid>119972</tmdbid>
+    <imdbid>nm0215541</imdbid>
+    <tvdbid>520383</tvdbid>
+  </actor>
+  <actor>
+    <name>Virgil-Henry Mathet</name>
+    <role>Marcel Tremond</role>
+    <type>Actor</type>
+    <tmdbid>2366949</tmdbid>
+    <imdbid>nm8980802</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Szenczi</name>
+    <role>Lisa Tremond</role>
+    <type>Actor</type>
+    <tmdbid>3011958</tmdbid>
+  </actor>
+  <actor>
+    <name>Claude Millo</name>
+    <role>Jean Tremond</role>
+    <type>Actor</type>
+    <tmdbid>3011961</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Schardan</name>
+    <role>Agente Johnson</role>
+    <type>Actor</type>
+    <tmdbid>1257573</tmdbid>
+    <imdbid>nm1416923</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Bonjour</name>
+    <role>Jueza Francesa</role>
+    <type>Actor</type>
+    <tmdbid>2204689</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Velasco</name>
+    <role>Sra. Martínez</role>
+    <type>Actor</type>
+    <tmdbid>1493648</tmdbid>
+    <imdbid>nm0892266</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Munarriz</name>
+    <role>Sr. Martínez</role>
+    <type>Actor</type>
+    <tmdbid>1382349</tmdbid>
+    <imdbid>nm0612642</imdbid>
+  </actor>
+  <actor>
+    <name>Lola Markaida</name>
+    <role>Madre de Jonan</role>
+    <type>Actor</type>
+    <tmdbid>3013516</tmdbid>
+  </actor>
+  <actor>
+    <name>Patxi Barko</name>
+    <role>Padre de Jonan</role>
+    <type>Actor</type>
+    <tmdbid>1054297</tmdbid>
+    <imdbid>nm0055103</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Serrano-Clark</name>
+    <role>Marc</role>
+    <type>Actor</type>
+    <tmdbid>2109672</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Portella</name>
+    <role>Ayudante de Dr. San Martín</role>
+    <type>Actor</type>
+    <tmdbid>2181766</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillermo López García</name>
+    <role>Enterrador de Elizondo</role>
+    <type>Actor</type>
+    <tmdbid>2205815</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Calo</name>
+    <role>Abuela Inés</role>
+    <type>Actor</type>
+    <tmdbid>1257568</tmdbid>
+    <imdbid>nm0130660</imdbid>
+  </actor>
+  <actor>
+    <name>Iñigo Elzo</name>
+    <role>Policía foral</role>
+    <type>Actor</type>
+    <tmdbid>3013518</tmdbid>
+  </actor>
+  <actor>
+    <name>Arantxa Moñux</name>
+    <role>Amatxi</role>
+    <type>Actor</type>
+    <tmdbid>1528630</tmdbid>
+  </actor>
+  <director tmdbid="82724" imdbid="nm2692858">Fernando González Molina</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JhA-G-m2Hww</trailer>
+  <rating>6.2</rating>
+  <year>2020</year>
+  <sorttitle>Ofrenda a la tormenta</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt7304824</imdbid>
+  <tmdbid>673174</tmdbid>
+  <premiered>2020-07-24</premiered>
+  <releasedate>2020-07-24</releasedate>
+  <criticrating>50</criticrating>
+  <runtime>140</runtime>
+  <tagline>Una Película de Fernando González Molina</tagline>
+  <country>Germany</country>
+  <country>Spain</country>
+  <genre>Crimen</genre>
+  <genre>Suspense</genre>
+  <studio>Nostromo Pictures</studio>
+  <studio>Mantecadas Salazar AIE</studio>
+  <studio>Atresmedia</studio>
+  <studio>Nadcon Film</studio>
+  <studio>ZDF</studio>
+  <studio>ARTE</studio>
+  <studio>DeAPlaneta</studio>
+  <studio>Orange Studio</studio>
+  <set tmdbcolid="687929">
+    <name>Trilogía del Baztán - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt7304824</uniqueid>
+  <uniqueid type="tmdb">673174</uniqueid>
+  <id>tt7304824</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1500282</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24.000004</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8378</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>234883</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>687929</collectionnumber>
+</movie>

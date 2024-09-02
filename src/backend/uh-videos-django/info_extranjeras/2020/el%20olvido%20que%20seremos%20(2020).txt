@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Narra de manera íntima la vida de un hombre bueno, el médico Héctor Abad Gómez, carismático líder social y hombre de familia, un destacado médico y activista por los derechos humanos en el Medellín polarizado y violento de los años 70. La historia relata la vida del doctor, padre de familia preocupado tanto por sus hijos como por los niños de clases menos favorecidas. En su casa se respiraba la vitalidad y la creatividad características de una educación fundamentada en la tolerancia y el amor, pero la tragedia asomaba.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-21 14:21:02</dateadded>
+  <title>El olvido que seremos</title>
+  <originaltitle>El olvido que seremos</originaltitle>
+  <actor>
+    <name>Javier Cámara</name>
+    <type>Actor</type>
+    <tmdbid>1610</tmdbid>
+    <imdbid>nm0194572</imdbid>
+    <tvdbid>449344</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniela Abad Lombana</name>
+    <type>Actor</type>
+    <tmdbid>1752526</tmdbid>
+  </actor>
+  <actor>
+    <name>Aída Morales</name>
+    <type>Actor</type>
+    <tmdbid>931250</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Tamayo</name>
+    <role>Cecilia Faciolince</role>
+    <type>Actor</type>
+    <tmdbid>2428618</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Urrego</name>
+    <type>Actor</type>
+    <tmdbid>1919397</tmdbid>
+  </actor>
+  <actor>
+    <name>Kami Zea</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>3095963</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciana Echeverry</name>
+    <role>Sol Nina</role>
+    <type>Actor</type>
+    <tmdbid>3095967</tmdbid>
+  </actor>
+  <actor>
+    <name>Camila Zarate</name>
+    <role>Sol</role>
+    <type>Actor</type>
+    <tmdbid>3095971</tmdbid>
+  </actor>
+  <director tmdbid="37526" imdbid="nm0874096">Fernando Trueba</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QXp5pPuHP5M</trailer>
+  <rating>7.2</rating>
+  <year>2020</year>
+  <sorttitle>olvido que seremos</sorttitle>
+  <imdbid>tt11385336</imdbid>
+  <tmdbid>660943</tmdbid>
+  <premiered>2020-08-22</premiered>
+  <releasedate>2020-08-22</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>137</runtime>
+  <country>Colombia</country>
+  <genre>Drama</genre>
+  <studio>Caracol Televisión</studio>
+  <studio>Dago García Producciones Ltda</studio>
+  <uniqueid type="imdb">tt11385336</uniqueid>
+  <uniqueid type="tmdb">660943</uniqueid>
+  <id>tt11385336</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>452983</bitrate>
+        <width>648</width>
+        <height>360</height>
+        <aspect>9:5</aspect>
+        <aspectratio>9:5</aspectratio>
+        <framerate>30.000002</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>136</duration>
+        <durationinseconds>8204</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>126751</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

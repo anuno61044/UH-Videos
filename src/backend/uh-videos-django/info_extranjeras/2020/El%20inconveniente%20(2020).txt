@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sara is offered to buy the perfect apartment, roomy, very luminous and so much inexpensive. Just has a little problem: she can't live in it before Lola, the actual and aged owner, die.]]></plot>
+  <outline><![CDATA[La vida es lo que te pasa mientras haces otros planes]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-22 09:30:37</dateadded>
+  <title>El inconveniente</title>
+  <originaltitle>El inconveniente</originaltitle>
+  <actor>
+    <name>Juana Acosta</name>
+    <type>Actor</type>
+    <tmdbid>1128383</tmdbid>
+    <imdbid>nm0010207</imdbid>
+  </actor>
+  <actor>
+    <name>Kiti Mánver</name>
+    <type>Actor</type>
+    <tmdbid>16975</tmdbid>
+    <imdbid>nm0544330</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Areces</name>
+    <type>Actor</type>
+    <tmdbid>114461</tmdbid>
+    <imdbid>nm1693112</imdbid>
+    <tvdbid>294451</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Grao</name>
+    <type>Actor</type>
+    <tmdbid>233947</tmdbid>
+    <imdbid>nm1268637</imdbid>
+    <tvdbid>306707</tvdbid>
+  </actor>
+  <director tmdbid="586024" imdbid="nm1734912">Bernabé Rico</director>
+  <writer tmdbid="586024" imdbid="nm1734912">Bernabé Rico</writer>
+  <writer>Juan Carlos Rubio</writer>
+  <credits tmdbid="586024" imdbid="nm1734912">Bernabé Rico</credits>
+  <credits>Juan Carlos Rubio</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6I5W30PzP-s</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>inconveniente</sorttitle>
+  <imdbid>tt9354422</imdbid>
+  <tmdbid>677574</tmdbid>
+  <premiered>2020-12-18</premiered>
+  <releasedate>2020-12-18</releasedate>
+  <runtime>93</runtime>
+  <tagline>La vida es lo que te pasa mientras haces otros planes</tagline>
+  <country>Spain</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>La Claqueta</studio>
+  <studio>TalyCual Producciones</studio>
+  <studio>Tito Clint Movies</studio>
+  <uniqueid type="imdb">tt9354422</uniqueid>
+  <uniqueid type="tmdb">677574</uniqueid>
+  <id>tt9354422</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2179449</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5601</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>110404</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

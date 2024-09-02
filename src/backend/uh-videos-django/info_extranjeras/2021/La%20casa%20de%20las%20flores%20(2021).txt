@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[The De La Mora siblings concoct a mischievous plan to break into their old family home to retrieve a hidden treasure of significant importance.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-23 08:15:49</dateadded>
+  <title>La Casa de Las Flores: La Película</title>
+  <originaltitle>La Casa de Las Flores: La Película</originaltitle>
+  <actor>
+    <name>Cecilia Suárez</name>
+    <role>Paulina de la Mora</role>
+    <type>Actor</type>
+    <tmdbid>25911</tmdbid>
+    <imdbid>nm0840762</imdbid>
+    <tvdbid>7962219</tvdbid>
+  </actor>
+  <actor>
+    <name>Aislinn Derbez</name>
+    <type>Actor</type>
+    <tmdbid>1134883</tmdbid>
+    <imdbid>nm3277599</imdbid>
+  </actor>
+  <actor>
+    <name>Dario Yazbek Bernal</name>
+    <type>Actor</type>
+    <tmdbid>1055162</tmdbid>
+    <imdbid>nm3359494</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Medina</name>
+    <type>Actor</type>
+    <tmdbid>1071844</tmdbid>
+    <imdbid>nm1001435</imdbid>
+  </actor>
+  <actor>
+    <name>Paco León</name>
+    <type>Actor</type>
+    <tmdbid>224870</tmdbid>
+    <imdbid>nm1346713</imdbid>
+    <tvdbid>448237</tvdbid>
+  </actor>
+  <actor>
+    <name>Norma Angélica</name>
+    <type>Actor</type>
+    <tmdbid>1174427</tmdbid>
+    <imdbid>nm0030007</imdbid>
+  </actor>
+  <actor>
+    <name>Angélica María</name>
+    <type>Actor</type>
+    <tmdbid>145455</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Burr</name>
+    <type>Actor</type>
+    <tmdbid>1527532</tmdbid>
+  </actor>
+  <actor>
+    <name>Ximena Sariñana</name>
+    <type>Actor</type>
+    <tmdbid>229617</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis de la Rosa</name>
+    <type>Actor</type>
+    <tmdbid>1977842</tmdbid>
+    <imdbid>nm6970669</imdbid>
+    <tvdbid>7962223</tvdbid>
+  </actor>
+  <actor>
+    <name>Tessa Ía</name>
+    <type>Actor</type>
+    <tmdbid>72130</tmdbid>
+    <imdbid>nm1671609</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Chaparro</name>
+    <type>Actor</type>
+    <tmdbid>3105254</tmdbid>
+    <tvdbid>8281161</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Jattin</name>
+    <type>Actor</type>
+    <tmdbid>1470925</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiago Correa</name>
+    <type>Actor</type>
+    <tmdbid>999870</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Cuaik</name>
+    <type>Actor</type>
+    <tmdbid>2564246</tmdbid>
+  </actor>
+  <director tmdbid="2194927" imdbid="nm1919456">Manolo Caro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U58oFGixd5M</trailer>
+  <rating>5.6</rating>
+  <year>2021</year>
+  <sorttitle>Casa de Las Flores: La Pelicula</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt14549558</imdbid>
+  <tmdbid>833971</tmdbid>
+  <premiered>2021-06-23</premiered>
+  <releasedate>2021-06-23</releasedate>
+  <runtime>88</runtime>
+  <country>Mexico</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Noc Noc Cinema</studio>
+  <uniqueid type="imdb">tt14549558</uniqueid>
+  <uniqueid type="tmdb">833971</uniqueid>
+  <id>tt14549558</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1186906</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>87</duration>
+        <durationinseconds>5264</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>246814</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

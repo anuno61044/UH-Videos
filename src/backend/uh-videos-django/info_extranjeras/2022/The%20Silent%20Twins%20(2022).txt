@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Sintiéndose aisladas de esa comunidad poco acogedora, June y Jennifer Gibbons se encierran en sí mismas y rechazan la comunicación con todos excepto entre ellas, retirándose a su propio mundo de fantasía de inspiración artística y deseos adolescentes.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-05 11:53:24</dateadded>
+  <title>The Silent Twins</title>
+  <originaltitle>The Silent Twins</originaltitle>
+  <actor>
+    <name>Letitia Wright</name>
+    <role>June Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>1083010</tmdbid>
+    <imdbid>nm4004793</imdbid>
+  </actor>
+  <actor>
+    <name>Tamara Lawrance</name>
+    <role>Jennifer Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>1595457</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Bandeira</name>
+    <role>Wayne</role>
+    <type>Actor</type>
+    <tmdbid>2448692</tmdbid>
+    <tvdbid>9101711</tvdbid>
+  </actor>
+  <actor>
+    <name>Jordan J Gallagher</name>
+    <role>Ron</role>
+    <type>Actor</type>
+    <tmdbid>3030659</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Richardson</name>
+    <role>Dr. John Rees</role>
+    <type>Actor</type>
+    <tmdbid>3030661</tmdbid>
+  </actor>
+  <actor>
+    <name>Leah Mondesir-Simmonds</name>
+    <role>Young June Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>3566438</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva-Arianna Baxter</name>
+    <role>Young Jennifer Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>3566439</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadine Marshall</name>
+    <role>Gloria Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>1064289</tmdbid>
+  </actor>
+  <actor>
+    <name>Treva Etienne</name>
+    <role>Aubrey Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>12802</tmdbid>
+    <imdbid>nm0262125</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Smiley</name>
+    <role>Tim Thomas</role>
+    <type>Actor</type>
+    <tmdbid>17078</tmdbid>
+    <imdbid>nm0806968</imdbid>
+    <tvdbid>300929</tvdbid>
+  </actor>
+  <actor>
+    <name>Jodhi May</name>
+    <role>Marjorie Wallace</role>
+    <type>Actor</type>
+    <tmdbid>57449</tmdbid>
+  </actor>
+  <actor>
+    <name>Amarah-Jae St. Aubyn</name>
+    <role>Greta Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>2861779</tmdbid>
+  </actor>
+  <actor>
+    <name>Kinga Preis</name>
+    <role>Sister Nowak</role>
+    <type>Actor</type>
+    <tmdbid>107517</tmdbid>
+    <imdbid>nm0695835</imdbid>
+  </actor>
+  <actor>
+    <name>Dafydd Wyn Roberts</name>
+    <role>Headmaster Davis</role>
+    <type>Actor</type>
+    <tmdbid>134910</tmdbid>
+  </actor>
+  <actor>
+    <name>John Edmondson</name>
+    <role>Dr. Davies</role>
+    <type>Actor</type>
+    <tmdbid>222628</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Moor</name>
+    <role>Dr. Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>1221445</tmdbid>
+    <imdbid>nm0600809</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Jupp</name>
+    <role>Dr. Le Couteur</role>
+    <type>Actor</type>
+    <tmdbid>221857</tmdbid>
+    <imdbid>nm1402510</imdbid>
+  </actor>
+  <director tmdbid="1557607">Agnieszka Smoczyńska</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lEN2rk__Xms</trailer>
+  <rating>5.7</rating>
+  <year>2022</year>
+  <sorttitle>Silent Twins</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11052678</imdbid>
+  <tmdbid>812025</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>113</runtime>
+  <country>France</country>
+  <country>Poland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Canal+</studio>
+  <studio>Focus Features</studio>
+  <studio>PISF</studio>
+  <studio>42</studio>
+  <studio>Madants</studio>
+  <studio>30WEST</studio>
+  <studio>Extreme Emotions</studio>
+  <studio>Kindred Spirit</studio>
+  <uniqueid type="imdb">tt11052678</uniqueid>
+  <uniqueid type="tmdb">812025</uniqueid>
+  <id>tt11052678</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>982012</bitrate>
+        <width>1196</width>
+        <height>720</height>
+        <aspect>299:180</aspect>
+        <aspectratio>299:180</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6808</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

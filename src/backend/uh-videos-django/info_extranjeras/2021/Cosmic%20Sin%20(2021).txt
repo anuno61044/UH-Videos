@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En una sociedad futurista, un grupo de científicos y guerreros debe unirse para proteger a su especie de una raza alienígena hostil que ha llegado al planeta con el poder de infectar y controlar a los humanos a su antojo.]]></plot>
+  <outline><![CDATA[Se ha hecho el primer contacto. Es la guerra.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-27 08:54:17</dateadded>
+  <title>Cosmic Sin</title>
+  <originaltitle>Cosmic Sin</originaltitle>
+  <actor>
+    <name>Bruce Willis</name>
+    <role>James Ford</role>
+    <type>Actor</type>
+    <tmdbid>62</tmdbid>
+    <imdbid>nm0000246</imdbid>
+  </actor>
+  <actor>
+    <name>Adelaide Kane</name>
+    <role>Fiona Ardene</role>
+    <type>Actor</type>
+    <tmdbid>131781</tmdbid>
+    <imdbid>nm2560043</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Grillo</name>
+    <role>Gen. Eron Ryle</role>
+    <type>Actor</type>
+    <tmdbid>81685</tmdbid>
+    <imdbid>nm0342029</imdbid>
+  </actor>
+  <actor>
+    <name>Lochlyn Munro</name>
+    <role>Alex Loche</role>
+    <type>Actor</type>
+    <tmdbid>58058</tmdbid>
+    <imdbid>nm0613147</imdbid>
+  </actor>
+  <actor>
+    <name>Costas Mandylor</name>
+    <role>Ltg. Tieve</role>
+    <type>Actor</type>
+    <tmdbid>36055</tmdbid>
+    <imdbid>nm0541908</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Messner</name>
+    <role>Coco</role>
+    <type>Actor</type>
+    <tmdbid>21798</tmdbid>
+    <imdbid>nm0582257</imdbid>
+  </actor>
+  <actor>
+    <name>Eva De Dominici</name>
+    <role>Juda Sayle</role>
+    <type>Actor</type>
+    <tmdbid>1240538</tmdbid>
+    <tvdbid>508338</tvdbid>
+  </actor>
+  <actor>
+    <name>Brandon Thomas Lee</name>
+    <role>Braxton Ryle</role>
+    <type>Actor</type>
+    <tmdbid>1837224</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Large</name>
+    <role>Dash</role>
+    <type>Actor</type>
+    <tmdbid>77109</tmdbid>
+    <imdbid>nm1143429</imdbid>
+  </actor>
+  <actor>
+    <name>C.J. Perry</name>
+    <role>Sol Cantos</role>
+    <type>Actor</type>
+    <tmdbid>1326322</tmdbid>
+    <imdbid>nm3307291</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Gretzky</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>2725451</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Laenen</name>
+    <role>Lt. West</role>
+    <type>Actor</type>
+    <tmdbid>1740126</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Rhynard</name>
+    <role>Soldat alliance</role>
+    <type>Actor</type>
+    <tmdbid>3043541</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Humble</name>
+    <role>Soldat Alliance</role>
+    <type>Actor</type>
+    <tmdbid>3043542</tmdbid>
+  </actor>
+  <director tmdbid="2613318">Edward Drake</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZXdA6dimUiA</trailer>
+  <rating>2.5</rating>
+  <year>2021</year>
+  <sorttitle>Cosmic Sin</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11762434</imdbid>
+  <tmdbid>681887</tmdbid>
+  <premiered>2021-03-12</premiered>
+  <releasedate>2021-03-12</releasedate>
+  <criticrating>3</criticrating>
+  <runtime>88</runtime>
+  <tagline>Se ha hecho el primer contacto. Es la guerra.</tagline>
+  <country>United States of America</country>
+  <genre>Ciencia ficción</genre>
+  <genre>Acción</genre>
+  <genre>Bélica</genre>
+  <studio>308 Enterprises</studio>
+  <studio>BondIt Media Capital</studio>
+  <studio>Buffalo 8</studio>
+  <studio>The Exchange</studio>
+  <uniqueid type="imdb">tt11762434</uniqueid>
+  <uniqueid type="tmdb">681887</uniqueid>
+  <id>tt11762434</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149721</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5302</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127965</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

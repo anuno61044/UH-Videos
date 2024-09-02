@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En un viaje a una pequeña isla volcánica Fabiola se convierte en espía de su hogar. No tiene evidencias ni certezas, pero su intuición le dice que no todo es lo que parece. Se debate entre el miedo a lo que puede encontrar y la necesidad de obtener respuestas. ¿Hasta dónde hurgar en la intimidad de los demás? ¿Hasta dónde mentir para proteger a la gente que quieres?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-22 09:04:13</dateadded>
+  <title>Las consecuencias</title>
+  <originaltitle>Las consecuencias</originaltitle>
+  <actor>
+    <name>Juana Acosta</name>
+    <type>Actor</type>
+    <tmdbid>1128383</tmdbid>
+    <imdbid>nm0010207</imdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Castro</name>
+    <type>Actor</type>
+    <tmdbid>225011</tmdbid>
+    <imdbid>nm0998846</imdbid>
+  </actor>
+  <actor>
+    <name>María Romanillos</name>
+    <type>Actor</type>
+    <tmdbid>2545932</tmdbid>
+    <tvdbid>8424634</tvdbid>
+  </actor>
+  <actor>
+    <name>Carme Elias</name>
+    <type>Actor</type>
+    <tmdbid>36278</tmdbid>
+    <imdbid>nm0255979</imdbid>
+  </actor>
+  <actor>
+    <name>Sonia Almarcha</name>
+    <type>Actor</type>
+    <tmdbid>929712</tmdbid>
+    <imdbid>nm0971346</imdbid>
+    <tvdbid>450325</tvdbid>
+  </actor>
+  <actor>
+    <name>Christian Checa</name>
+    <type>Actor</type>
+    <tmdbid>3102083</tmdbid>
+  </actor>
+  <actor>
+    <name>Héctor Alterio</name>
+    <type>Actor</type>
+    <tmdbid>59136</tmdbid>
+    <imdbid>nm0022765</imdbid>
+  </actor>
+  <director tmdbid="1316690">Claudia Pinto Emperador</director>
+  <rating>5.2</rating>
+  <year>2021</year>
+  <sorttitle>Las consecuencias</sorttitle>
+  <imdbid>tt9077376</imdbid>
+  <tmdbid>833043</tmdbid>
+  <premiered>2021-09-17</premiered>
+  <releasedate>2021-09-17</releasedate>
+  <runtime>97</runtime>
+  <country>Belgium</country>
+  <country>Netherlands</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Potemkino</studio>
+  <studio>N279 Entertainment</studio>
+  <studio>Sin Rodeos Films C.A.</studio>
+  <studio>Érase Una Vez</studio>
+  <studio>Las Consecuencias AIE</studio>
+  <uniqueid type="tmdb">833043</uniqueid>
+  <uniqueid type="imdb">tt9077376</uniqueid>
+  <id>tt9077376</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1069825</bitrate>
+        <width>1664</width>
+        <height>720</height>
+        <aspect>839774:362475</aspect>
+        <aspectratio>839774:362475</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5799</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64190</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

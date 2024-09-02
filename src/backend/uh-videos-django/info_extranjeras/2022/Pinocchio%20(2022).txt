@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Versión en acción real del aclamado cuento sobre una marioneta que se embarca en una trepidante aventura para convertirse en un niño de verdad. La historia también presenta a otros personajes, como Gepetto, el carpintero que fabrica a Pinocho y lo trata como a su propio hijo; Pepito Grillo, que hace las veces de guía y “conciencia” de Pinocho; el Hada Azul; el Honrado Juan; la gaviota Sofía, y el cochero.]]></plot>
+  <outline><![CDATA[El clásico eterno.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-09-08 07:50:48</dateadded>
+  <title>Pinocho</title>
+  <originaltitle>Pinocchio</originaltitle>
+  <actor>
+    <name>Benjamin Evan Ainsworth</name>
+    <role>Pinocchio (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2382044</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Geppetto</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Gordon-Levitt</name>
+    <role>Jiminy Cricket (voice)</role>
+    <type>Actor</type>
+    <tmdbid>24045</tmdbid>
+    <imdbid>nm0330687</imdbid>
+    <tvdbid>291500</tvdbid>
+  </actor>
+  <actor>
+    <name>Luke Evans</name>
+    <role>The Coachman</role>
+    <type>Actor</type>
+    <tmdbid>114019</tmdbid>
+    <imdbid>nm1812656</imdbid>
+    <tvdbid>469914</tvdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Erivo</name>
+    <role>Blue Fairy</role>
+    <type>Actor</type>
+    <tmdbid>1765068</tmdbid>
+    <imdbid>nm7248827</imdbid>
+    <tvdbid>311200</tvdbid>
+  </actor>
+  <actor>
+    <name>Keegan-Michael Key</name>
+    <role>'Honest' John (voice)</role>
+    <type>Actor</type>
+    <tmdbid>298410</tmdbid>
+    <imdbid>nm1221047</imdbid>
+    <tvdbid>303443</tvdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Bracco</name>
+    <role>Sofia the Seagull (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11478</tmdbid>
+    <imdbid>nm0000966</imdbid>
+  </actor>
+  <actor>
+    <name>Kyanne Lamaya</name>
+    <role>Fabiana</role>
+    <type>Actor</type>
+    <tmdbid>3674601</tmdbid>
+  </actor>
+  <actor>
+    <name>Angus Wright</name>
+    <role>Signore Rizzi</role>
+    <type>Actor</type>
+    <tmdbid>933640</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Demetriou</name>
+    <role>Headmaster</role>
+    <type>Actor</type>
+    <tmdbid>1470911</tmdbid>
+    <imdbid>nm5857152</imdbid>
+    <tvdbid>302142</tvdbid>
+  </actor>
+  <actor>
+    <name>Jaquita Ta'le</name>
+    <role>Sabina (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1577873</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewin Lloyd</name>
+    <role>Lampwick</role>
+    <type>Actor</type>
+    <tmdbid>2368172</tmdbid>
+    <tvdbid>8073927</tvdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Battiston</name>
+    <role>Stromboli</role>
+    <type>Actor</type>
+    <tmdbid>7541</tmdbid>
+    <imdbid>nm0061484</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Atim</name>
+    <role>Signora Vitelli</role>
+    <type>Actor</type>
+    <tmdbid>1851642</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Flynn</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1379275</tmdbid>
+    <imdbid>nm5978921</imdbid>
+  </actor>
+  <director tmdbid="24" imdbid="nm0000709">Robert Zemeckis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dZrmy91eZa4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ATau0-bcPRY</trailer>
+  <rating>5.1</rating>
+  <year>2022</year>
+  <sorttitle>Pinocho</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt4593060</imdbid>
+  <tmdbid>532639</tmdbid>
+  <premiered>2022-09-07</premiered>
+  <releasedate>2022-09-07</releasedate>
+  <criticrating>27</criticrating>
+  <runtime>105</runtime>
+  <tagline>El clásico eterno.</tagline>
+  <country>United States of America</country>
+  <genre>Fantasía</genre>
+  <genre>Aventura</genre>
+  <genre>Familia</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Depth of Field</studio>
+  <uniqueid type="imdb">tt4593060</uniqueid>
+  <uniqueid type="tmdb">532639</uniqueid>
+  <id>tt4593060</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1062190</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6308</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

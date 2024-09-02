@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[París, hoy. France de Meurs es una periodista estrella que corre entre un televisor, una guerra lejana y el ajetreo y el bullicio de su ajetreada vida familiar. Su mundo frenético de alto perfil se vuelve repentinamente patas arriba después de un accidente de tráfico en el que hiere a un peatón. Esta irrupción inesperada de la realidad pone todo en cuestión. Mientras Francia intenta desacelerar y retirarse a una vida anónima simple, su fama continúa persiguiéndola hasta que una historia de amor desconcertada parece poner fin a su búsqueda.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-10 13:14:58</dateadded>
+  <title>France</title>
+  <originaltitle>France</originaltitle>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>France de Meurs</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>Blanche Gardin</name>
+    <role>Lou</role>
+    <type>Actor</type>
+    <tmdbid>588159</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Biolay</name>
+    <role>Fred de Meurs</role>
+    <type>Actor</type>
+    <tmdbid>145871</tmdbid>
+    <imdbid>nm1483904</imdbid>
+  </actor>
+  <actor>
+    <name>Emanuele Arioli</name>
+    <role>Charles Castro</role>
+    <type>Actor</type>
+    <tmdbid>3084450</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliane Köhler</name>
+    <role>Mme Arpel</role>
+    <type>Actor</type>
+    <tmdbid>8797</tmdbid>
+    <imdbid>nm0477810</imdbid>
+  </actor>
+  <actor>
+    <name>Gaëtan Amiel</name>
+    <role>Jo</role>
+    <type>Actor</type>
+    <tmdbid>3084452</tmdbid>
+  </actor>
+  <actor>
+    <name>Jawad Zemmar</name>
+    <role>Baptiste</role>
+    <type>Actor</type>
+    <tmdbid>3084453</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Bettinelli</name>
+    <role>Lolo</role>
+    <type>Actor</type>
+    <tmdbid>3084456</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Macron</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1517365</tmdbid>
+  </actor>
+  <director tmdbid="95901">Bruno Dumont</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sdJ2dk1S4bY</trailer>
+  <rating>5.9</rating>
+  <year>2021</year>
+  <sorttitle>France</sorttitle>
+  <imdbid>tt9714030</imdbid>
+  <tmdbid>602334</tmdbid>
+  <premiered>2021-08-25</premiered>
+  <releasedate>2021-08-25</releasedate>
+  <criticrating>66</criticrating>
+  <runtime>134</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Italy</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>ARTE</studio>
+  <studio>3B Productions</studio>
+  <studio>SCOPE Pictures</studio>
+  <studio>Red Balloon Film</studio>
+  <studio>Tea Time Film</studio>
+  <studio>Ascent Film</studio>
+  <studio>BR</studio>
+  <studio>RAI Cinema</studio>
+  <studio>Ciné+</studio>
+  <studio>Eurimages</studio>
+  <studio>La Région Île-de-France</studio>
+  <studio>Pictanovo</studio>
+  <studio>Région Hauts-de-France</studio>
+  <studio>PROCIREP</studio>
+  <studio>Tax Shelter du Gouvernement Fédéral Belge</studio>
+  <studio>Filmförderfonds Bayern</studio>
+  <studio>Filmförderung Hamburg Schleswig-Holstein</studio>
+  <studio>MiBAC</studio>
+  <studio>Apulia Film Commission</studio>
+  <studio>SofiTVciné 7</studio>
+  <studio>Cinémage 14</studio>
+  <uniqueid type="imdb">tt9714030</uniqueid>
+  <uniqueid type="tmdb">602334</uniqueid>
+  <id>tt9714030</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149586</bitrate>
+        <width>1280</width>
+        <height>682</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8011</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128172</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

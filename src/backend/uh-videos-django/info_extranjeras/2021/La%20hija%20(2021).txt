@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Dana, una joven de quince años, se ha quedado embarazada y acaba de escaparse de un centro de menores. Javier, su tutor, está dispuesto a ayudarla, pero a cambio ella tendrá que seguir sus reglas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-26 15:23:46</dateadded>
+  <title>La hija</title>
+  <originaltitle>La hija</originaltitle>
+  <actor>
+    <name>Javier Gutiérrez</name>
+    <role>Javier</role>
+    <type>Actor</type>
+    <tmdbid>19024</tmdbid>
+    <imdbid>nm0349522</imdbid>
+    <tvdbid>472102</tvdbid>
+  </actor>
+  <actor>
+    <name>Patricia López Arnaiz</name>
+    <role>Adela</role>
+    <type>Actor</type>
+    <tmdbid>1603600</tmdbid>
+    <imdbid>nm3802082</imdbid>
+    <tvdbid>8028275</tvdbid>
+  </actor>
+  <actor>
+    <name>Irene Virgüez</name>
+    <role>Irene (as Irene Virguez Filippidis)</role>
+    <type>Actor</type>
+    <tmdbid>3227826</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Villanueva</name>
+    <role>Miguel</role>
+    <type>Actor</type>
+    <tmdbid>1413922</tmdbid>
+    <imdbid>nm1253638</imdbid>
+    <tvdbid>8556337</tvdbid>
+  </actor>
+  <actor>
+    <name>María Morales</name>
+    <role>Silvia</role>
+    <type>Actor</type>
+    <tmdbid>1139519</tmdbid>
+    <imdbid>nm1511166</imdbid>
+  </actor>
+  <actor>
+    <name>Sofian El Benaissati</name>
+    <role>Osman (as Sofian Elben)</role>
+    <type>Actor</type>
+    <tmdbid>3585105</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo de la Torre del Pino</name>
+    <role>Bebé</role>
+    <type>Actor</type>
+    <tmdbid>3585106</tmdbid>
+  </actor>
+  <actor>
+    <name>Atenea Torres Herrera</name>
+    <role>Bebé</role>
+    <type>Actor</type>
+    <tmdbid>3585107</tmdbid>
+  </actor>
+  <director tmdbid="79000">Manuel Martín Cuenca</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m32DM8RNohE</trailer>
+  <rating>6.2</rating>
+  <year>2021</year>
+  <sorttitle>hija</sorttitle>
+  <imdbid>tt11270054</imdbid>
+  <tmdbid>661931</tmdbid>
+  <premiered>2021-11-26</premiered>
+  <releasedate>2021-11-26</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>117</runtime>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <studio>La Loma Blanca</studio>
+  <studio>Mod Producciones</studio>
+  <studio>Movistar+</studio>
+  <studio>TVE</studio>
+  <studio>ICAA</studio>
+  <studio>Canal Sur</studio>
+  <uniqueid type="tmdb">661931</uniqueid>
+  <uniqueid type="imdb">tt11270054</uniqueid>
+  <id>tt11270054</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>882179</bitrate>
+        <width>1920</width>
+        <height>824</height>
+        <aspect>240:103</aspect>
+        <aspectratio>240:103</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7031</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

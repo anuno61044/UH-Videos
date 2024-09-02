@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Aislado en su ático austero con vistas a Central Park, el obsesivo analista de datos de Wall Street, Richard Boca, ve patrones siniestros. Sus modelos informáticos se comportan de forma errática, al igual que los enjambres de mosquitos que se reproducen en su apartamento, una plaga que acompaña a su colapso psicológico.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-26 07:41:36</dateadded>
+  <title>Mosquito State</title>
+  <originaltitle>Mosquito State</originaltitle>
+  <actor>
+    <name>Beau Knapp</name>
+    <role>Richard Boca</role>
+    <type>Actor</type>
+    <tmdbid>1078613</tmdbid>
+    <imdbid>nm3354041</imdbid>
+    <tvdbid>393530</tvdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Vega</name>
+    <role>Lena del Alcázar</role>
+    <type>Actor</type>
+    <tmdbid>1262750</tmdbid>
+    <imdbid>nm5256984</imdbid>
+    <tvdbid>624718</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Kesy</name>
+    <role>Beau Harris</role>
+    <type>Actor</type>
+    <tmdbid>1292258</tmdbid>
+    <imdbid>nm4477836</imdbid>
+  </actor>
+  <actor>
+    <name>Olivier Martinez</name>
+    <role>Edward Werner</role>
+    <type>Actor</type>
+    <tmdbid>15533</tmdbid>
+    <imdbid>nm0553648</imdbid>
+  </actor>
+  <actor>
+    <name>Audrey Wasilewski</name>
+    <role>Sally the Secretary</role>
+    <type>Actor</type>
+    <tmdbid>86170</tmdbid>
+    <imdbid>nm0913585</imdbid>
+  </actor>
+  <actor>
+    <name>Daisy Bishop</name>
+    <role>Abigail Grant</role>
+    <type>Actor</type>
+    <tmdbid>2098804</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominika Kachlik</name>
+    <role>Jennifer</role>
+    <type>Actor</type>
+    <tmdbid>2464977</tmdbid>
+  </actor>
+  <actor>
+    <name>Maximilian Kubiak</name>
+    <role>Pete</role>
+    <type>Actor</type>
+    <tmdbid>2767387</tmdbid>
+  </actor>
+  <actor>
+    <name>Krystin Goodwin</name>
+    <role>News Anchor Cindy</role>
+    <type>Actor</type>
+    <tmdbid>2172134</tmdbid>
+    <imdbid>nm4716109</imdbid>
+  </actor>
+  <actor>
+    <name>Carolina Espiro</name>
+    <role>Resident Economist Rachel Godoy</role>
+    <type>Actor</type>
+    <tmdbid>1375241</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark McKinnon</name>
+    <role>Marlon at the Sports Desk</role>
+    <type>Actor</type>
+    <tmdbid>2211584</tmdbid>
+  </actor>
+  <director tmdbid="1186263">Filip Jan Rymsza</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f1y_vcmRuI4</trailer>
+  <rating>5.1</rating>
+  <year>2020</year>
+  <sorttitle>Mosquito State</sorttitle>
+  <imdbid>tt12789540</imdbid>
+  <tmdbid>728122</tmdbid>
+  <premiered>2020-09-05</premiered>
+  <releasedate>2020-09-05</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>101</runtime>
+  <country>Poland</country>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Royal Road Entertainment</studio>
+  <studio>Shudder</studio>
+  <uniqueid type="imdb">tt12789540</uniqueid>
+  <uniqueid type="tmdb">728122</uniqueid>
+  <id>tt12789540</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1103165</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6062</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

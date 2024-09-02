@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un enfrentamiento de décadas en proceso cierra el círculo del legado de la familia Donovan. A medida que los eventos que hicieron de Ray quien es hoy finalmente salen a la luz, los Donovan se ven atraídos de regreso a Boston para enfrentar el pasado. Cada uno de ellos lucha por superar su educación violenta, pero el destino es difícil de matar, y solo su feroz amor mutuo los mantiene en la lucha.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-14 07:48:50</dateadded>
+  <title>Ray Donovan: The Movie</title>
+  <originaltitle>Ray Donovan: The Movie</originaltitle>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>Ray Donovan</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Terry Donovan</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+    <tvdbid>259360</tvdbid>
+  </actor>
+  <actor>
+    <name>Dash Mihok</name>
+    <role>Bunchy Donovan</role>
+    <type>Actor</type>
+    <tmdbid>6066</tmdbid>
+    <imdbid>nm0005231</imdbid>
+  </actor>
+  <actor>
+    <name>Pooch Hall</name>
+    <role>Daryll</role>
+    <type>Actor</type>
+    <tmdbid>87817</tmdbid>
+    <imdbid>nm0356003</imdbid>
+  </actor>
+  <actor>
+    <name>Kerris Dorsey</name>
+    <role>Bridget Donovan</role>
+    <type>Actor</type>
+    <tmdbid>220064</tmdbid>
+    <imdbid>nm1748388</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Moennig</name>
+    <role>Lena</role>
+    <type>Actor</type>
+    <tmdbid>122231</tmdbid>
+    <imdbid>nm0595485</imdbid>
+    <tvdbid>341359</tvdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Molly Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Voight</name>
+    <role>Mickey Donovan</role>
+    <type>Actor</type>
+    <tmdbid>10127</tmdbid>
+    <imdbid>nm0000685</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Heck</name>
+    <role>Young Mickey</role>
+    <type>Actor</type>
+    <tmdbid>963767</tmdbid>
+    <tvdbid>329716</tvdbid>
+  </actor>
+  <actor>
+    <name>Josh Hamilton</name>
+    <role>Kevin Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>52419</tmdbid>
+    <imdbid>nm0357979</imdbid>
+    <tvdbid>317218</tvdbid>
+  </actor>
+  <actor>
+    <name>Graham Rogers</name>
+    <role>Smitty</role>
+    <type>Actor</type>
+    <tmdbid>1091795</tmdbid>
+    <imdbid>nm4004372</imdbid>
+  </actor>
+  <actor>
+    <name>Alyssa Diaz</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>134180</tmdbid>
+    <imdbid>nm1595801</imdbid>
+    <tvdbid>305638</tvdbid>
+  </actor>
+  <actor>
+    <name>David Patrick Kelly</name>
+    <role>Matty</role>
+    <type>Actor</type>
+    <tmdbid>1737</tmdbid>
+    <imdbid>nm0446314</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Hébert</name>
+    <role>Jim Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>1367847</tmdbid>
+    <imdbid>nm3332884</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Gray</name>
+    <role>Young Ray</role>
+    <type>Actor</type>
+    <tmdbid>2300225</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Petrovski</name>
+    <role>Young Sean Walker</role>
+    <type>Actor</type>
+    <tmdbid>1155122</tmdbid>
+  </actor>
+  <actor>
+    <name>AJ Michalka</name>
+    <role>Young Abby</role>
+    <type>Actor</type>
+    <tmdbid>113926</tmdbid>
+    <imdbid>nm1404488</imdbid>
+  </actor>
+  <actor>
+    <name>Carolyn Braver</name>
+    <role>Colleen</role>
+    <type>Actor</type>
+    <tmdbid>1611581</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Deferrari</name>
+    <role>Young Ezra</role>
+    <type>Actor</type>
+    <tmdbid>1448819</tmdbid>
+  </actor>
+  <actor>
+    <name>Heidi Armbruster</name>
+    <role>Evelynne</role>
+    <type>Actor</type>
+    <tmdbid>92571</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Rothenberg</name>
+    <role>Father O'Connor</role>
+    <type>Actor</type>
+    <tmdbid>59581</tmdbid>
+    <imdbid>nm0745139</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Alda</name>
+    <role>Dr. Arthur Amiot</role>
+    <type>Actor</type>
+    <tmdbid>21278</tmdbid>
+    <imdbid>nm0000257</imdbid>
+    <tvdbid>258013</tvdbid>
+  </actor>
+  <director tmdbid="77365">David Hollander</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pe29-eLHbZY</trailer>
+  <rating>6.8</rating>
+  <year>2022</year>
+  <sorttitle>Ray Donovan: The Movie</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt14124268</imdbid>
+  <tmdbid>800425</tmdbid>
+  <premiered>2022-01-14</premiered>
+  <releasedate>2022-01-14</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>100</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Película de TV</genre>
+  <studio>Showtime Networks</studio>
+  <studio>The Mark Gordon Company</studio>
+  <uniqueid type="imdb">tt14124268</uniqueid>
+  <uniqueid type="tmdb">800425</uniqueid>
+  <id>tt14124268</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1110243</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6021</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

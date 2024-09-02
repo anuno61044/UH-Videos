@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Carlos is a businessman who gets a request to intercede on behalf of a US engineer in the oil industry who's been kidnapped.]]></plot>
+  <outline><![CDATA[Todo tiene un límite]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-08 09:25:29</dateadded>
+  <title>Black Beach</title>
+  <originaltitle>Black Beach</originaltitle>
+  <actor>
+    <name>Raúl Arévalo</name>
+    <type>Actor</type>
+    <tmdbid>34021</tmdbid>
+    <imdbid>nm1666855</imdbid>
+    <tvdbid>461901</tvdbid>
+  </actor>
+  <actor>
+    <name>Paulina García</name>
+    <type>Actor</type>
+    <tmdbid>1532436</tmdbid>
+    <imdbid>nm1257208</imdbid>
+  </actor>
+  <actor>
+    <name>Candela Peña</name>
+    <type>Actor</type>
+    <tmdbid>958</tmdbid>
+    <imdbid>nm0679150</imdbid>
+  </actor>
+  <actor>
+    <name>Claude Musungayi</name>
+    <type>Actor</type>
+    <tmdbid>1125510</tmdbid>
+    <imdbid>nm2442143</imdbid>
+  </actor>
+  <director tmdbid="1128905" imdbid="nm1878916">Esteban Crespo</director>
+  <writer tmdbid="1128905" imdbid="nm1878916">Esteban Crespo</writer>
+  <writer tmdbid="2252012">David Moreno</writer>
+  <credits tmdbid="1128905" imdbid="nm1878916">Esteban Crespo</credits>
+  <credits tmdbid="2252012">David Moreno</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yMIHISs_p_0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rKN-_qD4cik</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_uLTSfS966g</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vU_wlMfi-Y8</trailer>
+  <rating>5.6</rating>
+  <year>2020</year>
+  <sorttitle>Black Beach</sorttitle>
+  <imdbid>tt9660688</imdbid>
+  <tmdbid>735129</tmdbid>
+  <premiered>2020-09-25</premiered>
+  <releasedate>2020-09-25</releasedate>
+  <runtime>116</runtime>
+  <tagline>Todo tiene un límite</tagline>
+  <country>Belgium</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Pris &amp; Batty Films</studio>
+  <studio>Nephilim Producciones</studio>
+  <studio>Lazona</studio>
+  <studio>SCOPE Pictures</studio>
+  <studio>Crea SGR</studio>
+  <studio>Nectar Media</studio>
+  <studio>Africanauan</studio>
+  <studio>TVE</studio>
+  <uniqueid type="imdb">tt9660688</uniqueid>
+  <uniqueid type="tmdb">735129</uniqueid>
+  <id>tt9660688</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1981097</bitrate>
+        <width>720</width>
+        <height>304</height>
+        <aspect>45:19</aspect>
+        <aspectratio>45:19</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6940</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

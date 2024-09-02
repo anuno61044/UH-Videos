@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Para Sara el verano solo significa tener que soportar las continuas burlas de las otras chicas de su pequeño pueblo. Pero todo terminará cuando un desconocido llegue al pueblo y secuestre a sus acosadoras. Sara sabe más de lo que dice, y tendrá que decidir entre hablar y salvar a las chicas, o no decir nada para proteger al extraño hombre que la ha salvado.]]></plot>
+  <outline><![CDATA[La adolescencia puede ser brutal]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-14 20:23:34</dateadded>
+  <title>Cerdita</title>
+  <originaltitle>Cerdita</originaltitle>
+  <actor>
+    <name>Laura Galán</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>1260914</tmdbid>
+    <imdbid>nm3351812</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Holmes</name>
+    <role>The Stranger</role>
+    <type>Actor</type>
+    <tmdbid>1055929</tmdbid>
+    <imdbid>nm0392021</imdbid>
+    <tvdbid>340248</tvdbid>
+  </actor>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Sara's Mother</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+    <tvdbid>448236</tvdbid>
+  </actor>
+  <actor>
+    <name>Irene Ferreiro</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>2649267</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Aguilar</name>
+    <role>Roci</role>
+    <type>Actor</type>
+    <tmdbid>1594576</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Salas</name>
+    <role>Maca</role>
+    <type>Actor</type>
+    <tmdbid>2030317</tmdbid>
+    <tvdbid>7875883</tvdbid>
+  </actor>
+  <actor>
+    <name>José Pastor</name>
+    <role>Pedro</role>
+    <type>Actor</type>
+    <tmdbid>2013136</tmdbid>
+    <tvdbid>8023497</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Delgado-Hierro</name>
+    <role>Juancarlitos</role>
+    <type>Actor</type>
+    <tmdbid>2461319</tmdbid>
+  </actor>
+  <actor>
+    <name>Julián Valcárcel</name>
+    <role>Sara's Father</role>
+    <type>Actor</type>
+    <tmdbid>1609925</tmdbid>
+    <imdbid>nm3274263</imdbid>
+  </actor>
+  <actor>
+    <name>Amets Otxoa</name>
+    <role>Sara's Brother</role>
+    <type>Actor</type>
+    <tmdbid>3177400</tmdbid>
+  </actor>
+  <actor>
+    <name>Pilar Castro</name>
+    <role>Elena</role>
+    <type>Actor</type>
+    <tmdbid>138701</tmdbid>
+    <imdbid>nm0145673</imdbid>
+    <tvdbid>550128</tvdbid>
+  </actor>
+  <actor>
+    <name>Chema Del Barco</name>
+    <role>Juan Carlos</role>
+    <type>Actor</type>
+    <tmdbid>1685615</tmdbid>
+    <imdbid>nm1886486</imdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatien</name>
+    <role>Roci's Father</role>
+    <type>Actor</type>
+    <tmdbid>3648953</tmdbid>
+  </actor>
+  <actor>
+    <name>Stéphanie Magnin Vella</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3648954</tmdbid>
+  </actor>
+  <actor>
+    <name>Malena Gutiérrez</name>
+    <role>Mrs. Maria</role>
+    <type>Actor</type>
+    <tmdbid>3654</tmdbid>
+    <imdbid>nm0349556</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Trinidad</name>
+    <role>Luciana</role>
+    <type>Actor</type>
+    <tmdbid>1935391</tmdbid>
+  </actor>
+  <actor>
+    <name>Lía Lois</name>
+    <role>Amaya</role>
+    <type>Actor</type>
+    <tmdbid>3648955</tmdbid>
+  </actor>
+  <actor>
+    <name>Mabel del Pozo</name>
+    <role>Maca's Mother</role>
+    <type>Actor</type>
+    <tmdbid>588841</tmdbid>
+    <tvdbid>8056469</tvdbid>
+  </actor>
+  <actor>
+    <name>José Vicente Moirón</name>
+    <role>Pedro's Father</role>
+    <type>Actor</type>
+    <tmdbid>2620092</tmdbid>
+  </actor>
+  <director tmdbid="1987284" tvdbid="8969629">Carlota Pereda</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ihYhJpUq32E</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>Cerdita</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt10399608</imdbid>
+  <tmdbid>848058</tmdbid>
+  <premiered>2022-10-07</premiered>
+  <releasedate>2022-10-07</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>100</runtime>
+  <tagline>La adolescencia puede ser brutal</tagline>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <genre>Drama</genre>
+  <genre>Terror</genre>
+  <studio>Backup Media</studio>
+  <studio>Morena Films</studio>
+  <studio>Cerdita AIE</studio>
+  <uniqueid type="imdb">tt10399608</uniqueid>
+  <uniqueid type="tmdb">848058</uniqueid>
+  <id>tt10399608</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>999842</bitrate>
+        <width>960</width>
+        <height>720</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5977</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64210</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

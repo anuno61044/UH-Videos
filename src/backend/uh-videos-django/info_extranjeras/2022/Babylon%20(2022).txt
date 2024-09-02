@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ambientada en Los Angeles durante los años 20, cuenta una historia de ambición y excesos desmesurados que recorre la ascensión y caída de múltiples personajes durante una época de desenfrenada decadencia y depravación en los albores de Hollywood.]]></plot>
+  <outline><![CDATA[Siempre haz una escena.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-31 07:48:49</dateadded>
+  <title>Babylon</title>
+  <originaltitle>Babylon</originaltitle>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>Jack Conrad</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Margot Robbie</name>
+    <role>Nellie LaRoy</role>
+    <type>Actor</type>
+    <tmdbid>234352</tmdbid>
+    <imdbid>nm3053338</imdbid>
+    <tvdbid>327479</tvdbid>
+  </actor>
+  <actor>
+    <name>Diego Calva</name>
+    <role>Manny Torres</role>
+    <type>Actor</type>
+    <tmdbid>1413390</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Smart</name>
+    <role>Elinor St. John</role>
+    <type>Actor</type>
+    <tmdbid>5376</tmdbid>
+    <imdbid>nm0005443</imdbid>
+    <tvdbid>271096</tvdbid>
+  </actor>
+  <actor>
+    <name>Flea</name>
+    <role>Bob Levine</role>
+    <type>Actor</type>
+    <tmdbid>1237</tmdbid>
+  </actor>
+  <actor>
+    <name>Jovan Adepo</name>
+    <role>Sidney Palmer</role>
+    <type>Actor</type>
+    <tmdbid>1607522</tmdbid>
+    <imdbid>nm5381254</imdbid>
+    <tvdbid>582438</tvdbid>
+  </actor>
+  <actor>
+    <name>J.C. Currais</name>
+    <role>Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>932143</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Ortega</name>
+    <role>Elephant Wrangler</role>
+    <type>Actor</type>
+    <tmdbid>4606</tmdbid>
+    <imdbid>nm0650887</imdbid>
+  </actor>
+  <actor>
+    <name>Hansford Prince</name>
+    <role>Joe Holiday</role>
+    <type>Actor</type>
+    <tmdbid>1682377</tmdbid>
+  </actor>
+  <actor>
+    <name>Telvin Griffin</name>
+    <role>Reggie</role>
+    <type>Actor</type>
+    <tmdbid>1517453</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Wilde</name>
+    <role>Ina Conrad</role>
+    <type>Actor</type>
+    <tmdbid>59315</tmdbid>
+    <imdbid>nm1312575</imdbid>
+  </actor>
+  <actor>
+    <name>Circus-Szalewski</name>
+    <role>Driver (Wallach's Party)</role>
+    <type>Actor</type>
+    <tmdbid>99219</tmdbid>
+    <imdbid>nm1167931</imdbid>
+  </actor>
+  <actor>
+    <name>Lukas Haas</name>
+    <role>George Munn</role>
+    <type>Actor</type>
+    <tmdbid>526</tmdbid>
+    <imdbid>nm0001305</imdbid>
+  </actor>
+  <actor>
+    <name>Li Jun Li</name>
+    <role>Lady Fay Zhu</role>
+    <type>Actor</type>
+    <tmdbid>1321015</tmdbid>
+    <imdbid>nm4050835</imdbid>
+    <tvdbid>480298</tvdbid>
+  </actor>
+  <actor>
+    <name>Kaia Gerber</name>
+    <role>Starlet</role>
+    <type>Actor</type>
+    <tmdbid>1957145</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fugit</name>
+    <role>Officer Elwood</role>
+    <type>Actor</type>
+    <tmdbid>11663</tmdbid>
+    <imdbid>nm0297578</imdbid>
+    <tvdbid>275771</tvdbid>
+  </actor>
+  <actor>
+    <name>Eric Roberts</name>
+    <role>Robert Roy</role>
+    <type>Actor</type>
+    <tmdbid>21315</tmdbid>
+    <imdbid>nm0000616</imdbid>
+  </actor>
+  <actor>
+    <name>Cici Lau</name>
+    <role>Gho Zhu</role>
+    <type>Actor</type>
+    <tmdbid>155349</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Seiple</name>
+    <role>Customer at Sam Wong's</role>
+    <type>Actor</type>
+    <tmdbid>1087216</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Newick</name>
+    <role>P.A. (Early Kinoscope)</role>
+    <type>Actor</type>
+    <tmdbid>3792396</tmdbid>
+  </actor>
+  <actor>
+    <name>Rory Scovel</name>
+    <role>The Count</role>
+    <type>Actor</type>
+    <tmdbid>509193</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Hamilton</name>
+    <role>Ruth Adler</role>
+    <type>Actor</type>
+    <tmdbid>1634328</tmdbid>
+  </actor>
+  <actor>
+    <name>P. J. Byrne</name>
+    <role>Max (Ruth's Assistant Director)</role>
+    <type>Actor</type>
+    <tmdbid>1211946</tmdbid>
+    <imdbid>nm0126260</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Chen</name>
+    <role>Ruth's D.P. (James Wong Howe)</role>
+    <type>Actor</type>
+    <tmdbid>1527746</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Clendenin</name>
+    <role>Otto's A.D.</role>
+    <type>Actor</type>
+    <tmdbid>129661</tmdbid>
+    <imdbid>nm0003928</imdbid>
+  </actor>
+  <actor>
+    <name>Miraj Grbić</name>
+    <role>Extra</role>
+    <type>Actor</type>
+    <tmdbid>508582</tmdbid>
+    <imdbid>nm1096977</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Hoops</name>
+    <role>Extra</role>
+    <type>Actor</type>
+    <tmdbid>3151176</tmdbid>
+  </actor>
+  <actor>
+    <name>James Wellington</name>
+    <role>Extra</role>
+    <type>Actor</type>
+    <tmdbid>94652</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Nunez</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>3792405</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Steinel</name>
+    <role>Abby (Assistant Jack's Tent)</role>
+    <type>Actor</type>
+    <tmdbid>1608973</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Jolles</name>
+    <role>Writer (Jack's Tent)</role>
+    <type>Actor</type>
+    <tmdbid>1590322</tmdbid>
+  </actor>
+  <actor>
+    <name>Turtle</name>
+    <role>Employee (Camera Rental House)</role>
+    <type>Actor</type>
+    <tmdbid>1172439</tmdbid>
+    <imdbid>nm0512847</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Clarke Larsen</name>
+    <role>A.C. (Camera Rental House)</role>
+    <type>Actor</type>
+    <tmdbid>2058773</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Irving Thalberg</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>Samara Weaving</name>
+    <role>Constance Moore</role>
+    <type>Actor</type>
+    <tmdbid>1372369</tmdbid>
+    <imdbid>nm3034977</imdbid>
+    <tvdbid>533955</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeff Garlin</name>
+    <role>Don Wallach</role>
+    <type>Actor</type>
+    <tmdbid>60074</tmdbid>
+    <imdbid>nm0307531</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Burkhalter</name>
+    <role>Reporter (Small Restaurant)</role>
+    <type>Actor</type>
+    <tmdbid>1752898</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Walters</name>
+    <role>Editor (Kinoscope)</role>
+    <type>Actor</type>
+    <tmdbid>142263</tmdbid>
+    <imdbid>nm0881814</imdbid>
+  </actor>
+  <actor>
+    <name>Trisha Simmons</name>
+    <role>Woman at Door</role>
+    <type>Actor</type>
+    <tmdbid>1211941</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariel Flores</name>
+    <role>Young Man</role>
+    <type>Actor</type>
+    <tmdbid>2578938</tmdbid>
+  </actor>
+  <actor>
+    <name>Karolina Szymczak</name>
+    <role>Olga Putti</role>
+    <type>Actor</type>
+    <tmdbid>1392665</tmdbid>
+    <imdbid>nm6645738</imdbid>
+  </actor>
+  <actor>
+    <name>Sean O'Bryan</name>
+    <role>Studio Executive (Billy)</role>
+    <type>Actor</type>
+    <tmdbid>33836</tmdbid>
+    <imdbid>nm0639917</imdbid>
+  </actor>
+  <actor>
+    <name>David Ury</name>
+    <role>Fan (Autograph)</role>
+    <type>Actor</type>
+    <tmdbid>1237876</tmdbid>
+    <imdbid>nm1352845</imdbid>
+  </actor>
+  <actor>
+    <name>Katia Gomez</name>
+    <role>Nurse at Sanatorium</role>
+    <type>Actor</type>
+    <tmdbid>550319</tmdbid>
+    <imdbid>nm2006174</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Bednar</name>
+    <role>Nellie's Mother</role>
+    <type>Actor</type>
+    <tmdbid>149516</tmdbid>
+    <imdbid>nm1812287</imdbid>
+  </actor>
+  <actor>
+    <name>Carson Higgins</name>
+    <role>Lloyd (Sound Mixer)</role>
+    <type>Actor</type>
+    <tmdbid>2797243</tmdbid>
+  </actor>
+  <actor>
+    <name>Armando Cosio</name>
+    <role>Grip Harry (1st Day of Sound)</role>
+    <type>Actor</type>
+    <tmdbid>210808</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Koehler</name>
+    <role>D.P. Bill (1st Day of Sound)</role>
+    <type>Actor</type>
+    <tmdbid>76513</tmdbid>
+    <imdbid>nm0462735</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Morgan</name>
+    <role>Clapper (1st Day of Sound)</role>
+    <type>Actor</type>
+    <tmdbid>3792411</tmdbid>
+  </actor>
+  <actor>
+    <name>Ric Sarabia</name>
+    <role>Crew Member (1st Day of Sound)</role>
+    <type>Actor</type>
+    <tmdbid>77597</tmdbid>
+    <imdbid>nm0002878</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Allen Jackson</name>
+    <role>Set Medic (1st Day of Sound)</role>
+    <type>Actor</type>
+    <tmdbid>3178086</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Waterston</name>
+    <role>Estelle</role>
+    <type>Actor</type>
+    <tmdbid>77795</tmdbid>
+    <imdbid>nm2239702</imdbid>
+  </actor>
+  <actor>
+    <name>Yissendy Trinidad</name>
+    <role>Carmelita</role>
+    <type>Actor</type>
+    <tmdbid>3772626</tmdbid>
+  </actor>
+  <actor>
+    <name>Cyrus Hobbi</name>
+    <role>Football Player</role>
+    <type>Actor</type>
+    <tmdbid>2695096</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Hedayat</name>
+    <role>Football Player</role>
+    <type>Actor</type>
+    <tmdbid>2456576</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayley Huntley</name>
+    <role>Liz (Pool Party)</role>
+    <type>Actor</type>
+    <tmdbid>1509115</tmdbid>
+  </actor>
+  <actor>
+    <name>John Mariano</name>
+    <role>Master of Ceremonies</role>
+    <type>Actor</type>
+    <tmdbid>35158</tmdbid>
+    <imdbid>nm0547128</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Allen</name>
+    <role>Manny's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1771351</tmdbid>
+    <imdbid>nm3074123</imdbid>
+  </actor>
+  <actor>
+    <name>Arely Vianet</name>
+    <role>Spanish Language Actress</role>
+    <type>Actor</type>
+    <tmdbid>3792414</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Roberts</name>
+    <role>Studio Employee (Sidney's House)</role>
+    <type>Actor</type>
+    <tmdbid>15372</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Reznik</name>
+    <role>Kinoscope Executive</role>
+    <type>Actor</type>
+    <tmdbid>1495439</tmdbid>
+    <imdbid>nm1422716</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Fineman</name>
+    <role>Marion Davies</role>
+    <type>Actor</type>
+    <tmdbid>2000658</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Skipper</name>
+    <role>William Randolph Hearst</role>
+    <type>Actor</type>
+    <tmdbid>6326</tmdbid>
+    <imdbid>nm0804361</imdbid>
+  </actor>
+  <actor>
+    <name>John Kerry</name>
+    <role>Jonathan Rothschild</role>
+    <type>Actor</type>
+    <tmdbid>105092</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Ramos</name>
+    <role>Harriet Rothschild</role>
+    <type>Actor</type>
+    <tmdbid>155422</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Grant</name>
+    <role>Mildred Yates</role>
+    <type>Actor</type>
+    <tmdbid>151356</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Lefevre</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>3792416</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Nichols</name>
+    <role>Wealthy Man</role>
+    <type>Actor</type>
+    <tmdbid>4944</tmdbid>
+    <imdbid>nm0629737</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Scott Johnson</name>
+    <role>Wealthy Mann</role>
+    <type>Actor</type>
+    <tmdbid>1363383</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Meyer</name>
+    <role>Wealthy Woman</role>
+    <type>Actor</type>
+    <tmdbid>2748969</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenna Power</name>
+    <role>Wealthy Woman</role>
+    <type>Actor</type>
+    <tmdbid>3792420</tmdbid>
+  </actor>
+  <actor>
+    <name>David Abed</name>
+    <role>Young Studio Executive</role>
+    <type>Actor</type>
+    <tmdbid>1961609</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Symons</name>
+    <role>Guest at Hearst Bungalow</role>
+    <type>Actor</type>
+    <tmdbid>1228919</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Thomson</name>
+    <role>Guest at Hearst Bungalow</role>
+    <type>Actor</type>
+    <tmdbid>1365075</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim O'Brien</name>
+    <role>Guest at Hearst Bungalow</role>
+    <type>Actor</type>
+    <tmdbid>1866134</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Doubek</name>
+    <role>Guest at Hearst Bungalow</role>
+    <type>Actor</type>
+    <tmdbid>204904</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorian Martin</name>
+    <role>Production Assistant</role>
+    <type>Actor</type>
+    <tmdbid>3792421</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Giebenhain</name>
+    <role>Prop Master (Kinoscope)</role>
+    <type>Actor</type>
+    <tmdbid>138606</tmdbid>
+    <imdbid>nm0317315</imdbid>
+  </actor>
+  <actor>
+    <name>Mather Zickel</name>
+    <role>Distribution Executive</role>
+    <type>Actor</type>
+    <tmdbid>282835</tmdbid>
+    <imdbid>nm0955991</imdbid>
+  </actor>
+  <actor>
+    <name>Ireland Sexton</name>
+    <role>Thalberg's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>3792425</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Hawtrey</name>
+    <role>Kinoscope Assistant Director</role>
+    <type>Actor</type>
+    <tmdbid>1849473</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Fletcher</name>
+    <role>Guard (Kinoscope)</role>
+    <type>Actor</type>
+    <tmdbid>3507740</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Ohye</name>
+    <role>New MGM Assistant Director</role>
+    <type>Actor</type>
+    <tmdbid>1540120</tmdbid>
+    <imdbid>nm4019546</imdbid>
+  </actor>
+  <actor>
+    <name>James Crittenden</name>
+    <role>Harold</role>
+    <type>Actor</type>
+    <tmdbid>166131</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Ploszek</name>
+    <role>Young Actor (Jack's Beach Set)</role>
+    <type>Actor</type>
+    <tmdbid>1163622</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Beitzel</name>
+    <role>Lewis the Director</role>
+    <type>Actor</type>
+    <tmdbid>157003</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Suplee</name>
+    <role>Wilson</role>
+    <type>Actor</type>
+    <tmdbid>824</tmdbid>
+    <imdbid>nm0839486</imdbid>
+  </actor>
+  <actor>
+    <name>Walker Hare</name>
+    <role>McKay's Associate</role>
+    <type>Actor</type>
+    <tmdbid>1102614</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Fruchey</name>
+    <role>Masked Man</role>
+    <type>Actor</type>
+    <tmdbid>3792427</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Hill</name>
+    <role>Rebecca</role>
+    <type>Actor</type>
+    <tmdbid>1619777</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Thomas</name>
+    <role>Tourism Official</role>
+    <type>Actor</type>
+    <tmdbid>3792430</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Magaña</name>
+    <role>Manny's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>3792431</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Bethzabe</name>
+    <role>Silvia Torres</role>
+    <type>Actor</type>
+    <tmdbid>1517287</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Balderrama</name>
+    <role>Guard at Gate</role>
+    <type>Actor</type>
+    <tmdbid>3235392</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurielle Simmons</name>
+    <role>Ticket Clerk (1952)</role>
+    <type>Actor</type>
+    <tmdbid>3792432</tmdbid>
+  </actor>
+  <actor>
+    <name>Eamon Hunt</name>
+    <role>Man Shouting in Bad Irish Accent</role>
+    <type>Actor</type>
+    <tmdbid>1866144</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenajuan Bentley</name>
+    <role>Conductor (Night Club)</role>
+    <type>Actor</type>
+    <tmdbid>1663204</tmdbid>
+  </actor>
+  <actor>
+    <name>John Macey</name>
+    <role>Kyle</role>
+    <type>Actor</type>
+    <tmdbid>1267251</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Reilly</name>
+    <role>Bellhop</role>
+    <type>Actor</type>
+    <tmdbid>3126471</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcos A. Ferraez</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>21401</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Tonkin</name>
+    <role>Jane Thornton</role>
+    <type>Actor</type>
+    <tmdbid>145247</tmdbid>
+    <imdbid>nm2100081</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Metcalf</name>
+    <role>Orville Pickwick</role>
+    <type>Actor</type>
+    <tmdbid>1409953</tmdbid>
+    <imdbid>nm1146786</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Hammond Jr.</name>
+    <role>Guest (Chicken Line)</role>
+    <type>Actor</type>
+    <tmdbid>1216081</tmdbid>
+  </actor>
+  <actor>
+    <name>Cutty Cuthbert</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>2242594</tmdbid>
+  </actor>
+  <actor>
+    <name>Bregje Heinen</name>
+    <role>Female Guest (Nathalie)</role>
+    <type>Actor</type>
+    <tmdbid>1740271</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Marcolina</name>
+    <role>Female Guest (Jack Tattoo)</role>
+    <type>Actor</type>
+    <tmdbid>3792385</tmdbid>
+  </actor>
+  <actor>
+    <name>Tal Seder</name>
+    <role>Male Guest (Wallach's)</role>
+    <type>Actor</type>
+    <tmdbid>3792384</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Morgan</name>
+    <role>Director (Wallach's Party)</role>
+    <type>Actor</type>
+    <tmdbid>75264</tmdbid>
+    <imdbid>nm0604989</imdbid>
+  </actor>
+  <actor>
+    <name>Nana Ghana</name>
+    <role>Woman in Ostrich Feather Hat</role>
+    <type>Actor</type>
+    <tmdbid>1621287</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Dallesandro</name>
+    <role>Charlie / Photographer</role>
+    <type>Actor</type>
+    <tmdbid>29915</tmdbid>
+  </actor>
+  <actor>
+    <name>E.E. Bell</name>
+    <role>Wilbur</role>
+    <type>Actor</type>
+    <tmdbid>173756</tmdbid>
+    <imdbid>nm0068171</imdbid>
+  </actor>
+  <actor>
+    <name>Sol Landerman</name>
+    <role>Publicity Executive (Wallach's Party)</role>
+    <type>Actor</type>
+    <tmdbid>2585607</tmdbid>
+  </actor>
+  <actor>
+    <name>Karina Fontes</name>
+    <role>Jen</role>
+    <type>Actor</type>
+    <tmdbid>2241611</tmdbid>
+  </actor>
+  <actor>
+    <name>Spike Jonze</name>
+    <role>Otto (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>5953</tmdbid>
+    <imdbid>nm0005069</imdbid>
+  </actor>
+  <actor>
+    <name>Freya Parker</name>
+    <role>Nude Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2992629</tmdbid>
+  </actor>
+  <actor>
+    <name>Tobey Maguire</name>
+    <role>James McKay</role>
+    <type>Actor</type>
+    <tmdbid>2219</tmdbid>
+    <imdbid>nm0001497</imdbid>
+    <tvdbid>327424</tvdbid>
+  </actor>
+  <actor>
+    <name>Lewis Tan</name>
+    <role>Smoking Man</role>
+    <type>Actor</type>
+    <tmdbid>1610940</tmdbid>
+    <imdbid>nm1167985</imdbid>
+    <tvdbid>518633</tvdbid>
+  </actor>
+  <actor>
+    <name>Manny Liotta</name>
+    <role>Sneezing PA</role>
+    <type>Actor</type>
+    <tmdbid>2055980</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Chazelle</name>
+    <role>Bobbie Hart</role>
+    <type>Actor</type>
+    <tmdbid>1419625</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Platt</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <tmdbid>23485</tmdbid>
+  </actor>
+  <director tmdbid="136495">Damien Chazelle</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OjSG2XyKSzA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gBil8RpweBE</trailer>
+  <rating>7.1</rating>
+  <year>2022</year>
+  <sorttitle>Babylon</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10640346</imdbid>
+  <tmdbid>615777</tmdbid>
+  <premiered>2022-12-22</premiered>
+  <releasedate>2022-12-22</releasedate>
+  <criticrating>56</criticrating>
+  <runtime>189</runtime>
+  <tagline>Siempre haz una escena.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <genre>Comedia</genre>
+  <studio>Paramount</studio>
+  <studio>Marc Platt Productions</studio>
+  <studio>Material Pictures</studio>
+  <studio>C2 Motion Picture Group</studio>
+  <studio>Wild Chickens</studio>
+  <studio>Organism Pictures</studio>
+  <uniqueid type="tmdb">615777</uniqueid>
+  <uniqueid type="imdb">tt10640346</uniqueid>
+  <id>tt10640346</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>663713</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>189</duration>
+        <durationinseconds>11348</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

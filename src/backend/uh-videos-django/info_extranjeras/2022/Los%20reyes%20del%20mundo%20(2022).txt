@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[“Un día todos los hombres se quedaron dormidos… Y los cercos de la tierra, ardieron”. Una historia sobre la desobediencia, la amistad y la dignidad que existe en la resistencia. Rá, Culebro, Sere, Winny y Nano. Cinco chicos de la calle de Medellín. Cinco reyes sin reino, sin ley, sin familia, emprenden un viaje en búsqueda de la tierra prometida. Un cuento subversivo a través de un clan salvaje y entrañable, que transita entre realidad y delirio. Un viaje hacia la nada, donde pasa todo.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-05 13:26:11</dateadded>
+  <title>Los reyes del mundo</title>
+  <originaltitle>Los reyes del mundo</originaltitle>
+  <actor>
+    <name>Carlos Andres Castañeda</name>
+    <role>Rá</role>
+    <type>Actor</type>
+    <tmdbid>3715749</tmdbid>
+  </actor>
+  <actor>
+    <name>Brahian Acevedo</name>
+    <role>Nano</role>
+    <type>Actor</type>
+    <tmdbid>3715750</tmdbid>
+  </actor>
+  <actor>
+    <name>Davinson Florez</name>
+    <role>Sere</role>
+    <type>Actor</type>
+    <tmdbid>3715751</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristian Campaña</name>
+    <role>Winny</role>
+    <type>Actor</type>
+    <tmdbid>3715752</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristian David</name>
+    <role>Culebro</role>
+    <type>Actor</type>
+    <tmdbid>3715756</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Eduardo Benjumea</name>
+    <role>Vayú</role>
+    <type>Actor</type>
+    <tmdbid>2521639</tmdbid>
+  </actor>
+  <director tmdbid="1850272">Laura Mora</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xfX5H7ac72I</trailer>
+  <rating>7</rating>
+  <year>2022</year>
+  <sorttitle>Los reyes del mundo</sorttitle>
+  <imdbid>tt15399372</imdbid>
+  <tmdbid>848112</tmdbid>
+  <premiered>2022-10-13</premiered>
+  <releasedate>2022-10-13</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>111</runtime>
+  <country>Colombia</country>
+  <country>France</country>
+  <country>Luxembourg</country>
+  <country>Mexico</country>
+  <country>Norway</country>
+  <genre>Drama</genre>
+  <genre>Aventura</genre>
+  <studio>Caracol Televisión</studio>
+  <studio>Ciudad Lunar</studio>
+  <studio>La Selva Cine</studio>
+  <studio>Iris Productions</studio>
+  <studio>Tu Vas Voir</studio>
+  <studio>Talipot Studio</studio>
+  <studio>Dago García Producciones</studio>
+  <studio>Exile Content</studio>
+  <studio>Mer Film AS</studio>
+  <uniqueid type="tmdb">848112</uniqueid>
+  <uniqueid type="imdb">tt15399372</uniqueid>
+  <id>tt15399372</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>387522</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6666</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63840</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

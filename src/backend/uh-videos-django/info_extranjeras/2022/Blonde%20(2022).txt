@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Reinvención de la historia personal de la sex symbol más famosa del mundo, Marilyn Monroe, en un retrato ficticio de la modelo, actriz y cantante durante los años cincuenta y sesenta, contado a través de la mirada moderna de la cultura de las celebridades.]]></plot>
+  <outline><![CDATA[Todos la observan, nadie la ve.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-03 12:27:11</dateadded>
+  <title>Blonde</title>
+  <originaltitle>Blonde</originaltitle>
+  <actor>
+    <name>Ana de Armas</name>
+    <role>Norma Jeane</role>
+    <type>Actor</type>
+    <tmdbid>224513</tmdbid>
+    <imdbid>nm1869101</imdbid>
+  </actor>
+  <actor>
+    <name>Adrien Brody</name>
+    <role>The Playwright</role>
+    <type>Actor</type>
+    <tmdbid>3490</tmdbid>
+    <imdbid>nm0004778</imdbid>
+    <tvdbid>310424</tvdbid>
+  </actor>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <role>The Ex-Athlete</role>
+    <type>Actor</type>
+    <tmdbid>21127</tmdbid>
+    <imdbid>nm0134072</imdbid>
+    <tvdbid>255793</tvdbid>
+  </actor>
+  <actor>
+    <name>Sara Paxton</name>
+    <role>Miss Flynn</role>
+    <type>Actor</type>
+    <tmdbid>60072</tmdbid>
+    <imdbid>nm0668139</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy DeVito</name>
+    <role>Ex-Athlete's Niece</role>
+    <type>Actor</type>
+    <tmdbid>139310</tmdbid>
+  </actor>
+  <actor>
+    <name>Julianne Nicholson</name>
+    <role>Gladys</role>
+    <type>Actor</type>
+    <tmdbid>86034</tmdbid>
+    <imdbid>nm0629855</imdbid>
+    <tvdbid>303574</tvdbid>
+  </actor>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Tom Ewell / Richard Sherman</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+    <imdbid>nm1058940</imdbid>
+    <tvdbid>346751</tvdbid>
+  </actor>
+  <actor>
+    <name>Xavier Samuel</name>
+    <role>Cass Chaplin</role>
+    <type>Actor</type>
+    <tmdbid>109438</tmdbid>
+    <imdbid>nm1882152</imdbid>
+  </actor>
+  <actor>
+    <name>Caspar Phillipson</name>
+    <role>The President</role>
+    <type>Actor</type>
+    <tmdbid>1441919</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Williams</name>
+    <role>Eddy G. Robinson Jr.</role>
+    <type>Actor</type>
+    <tmdbid>59600</tmdbid>
+    <imdbid>nm0930570</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Wisocky</name>
+    <role>Yvet</role>
+    <type>Actor</type>
+    <tmdbid>60632</tmdbid>
+    <imdbid>nm0936607</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Huss</name>
+    <role>Whitey</role>
+    <type>Actor</type>
+    <tmdbid>18271</tmdbid>
+    <imdbid>nm0403947</imdbid>
+    <tvdbid>260677</tvdbid>
+  </actor>
+  <actor>
+    <name>Catherine Dent</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>65797</tmdbid>
+    <imdbid>nm0219748</imdbid>
+  </actor>
+  <actor>
+    <name>Haley Webb</name>
+    <role>Brooke</role>
+    <type>Actor</type>
+    <tmdbid>94424</tmdbid>
+    <imdbid>nm2251716</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Butler</name>
+    <role>I.E. Shinn</role>
+    <type>Actor</type>
+    <tmdbid>76470</tmdbid>
+    <imdbid>nm0124873</imdbid>
+  </actor>
+  <actor>
+    <name>Tygh Runyan</name>
+    <role>Norma Jeane's Father</role>
+    <type>Actor</type>
+    <tmdbid>55591</tmdbid>
+    <imdbid>nm0750353</imdbid>
+  </actor>
+  <actor>
+    <name>David Warshofsky</name>
+    <role>Mr. Z</role>
+    <type>Actor</type>
+    <tmdbid>37204</tmdbid>
+    <imdbid>nm0913175</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Masini</name>
+    <role>Tony Curtis</role>
+    <type>Actor</type>
+    <tmdbid>1689357</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Lemmon</name>
+    <role>Jack Lemmon</role>
+    <type>Actor</type>
+    <tmdbid>64933</tmdbid>
+  </actor>
+  <actor>
+    <name>Ned Bellamy</name>
+    <role>Doc Fell</role>
+    <type>Actor</type>
+    <tmdbid>2141</tmdbid>
+    <imdbid>nm0068709</imdbid>
+  </actor>
+  <actor>
+    <name>Sonny Valicenti</name>
+    <role>Casting Director</role>
+    <type>Actor</type>
+    <tmdbid>1718318</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatum Shank</name>
+    <role>Dick Tracy</role>
+    <type>Actor</type>
+    <tmdbid>1590215</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Thacher</name>
+    <role>Jiggs</role>
+    <type>Actor</type>
+    <tmdbid>76037</tmdbid>
+    <imdbid>nm0857107</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Leeder</name>
+    <role>Bugs Bunny</role>
+    <type>Actor</type>
+    <tmdbid>1969540</tmdbid>
+  </actor>
+  <actor>
+    <name>Skip Pipo</name>
+    <role>Dr. Bender</role>
+    <type>Actor</type>
+    <tmdbid>1506248</tmdbid>
+  </actor>
+  <actor>
+    <name>Ravil Isyanov</name>
+    <role>Billy Wilder</role>
+    <type>Actor</type>
+    <tmdbid>41742</tmdbid>
+    <imdbid>nm0411570</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Ransom</name>
+    <role>Rudy</role>
+    <type>Actor</type>
+    <tmdbid>1174218</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Brownstein</name>
+    <role>The Acting Coach</role>
+    <type>Actor</type>
+    <tmdbid>62146</tmdbid>
+    <imdbid>nm0115282</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Nagle</name>
+    <role>Radio Announcer</role>
+    <type>Actor</type>
+    <tmdbid>149831</tmdbid>
+    <imdbid>nm0619365</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Shouldis</name>
+    <role>Tuxedo #2</role>
+    <type>Actor</type>
+    <tmdbid>1863994</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cohn</name>
+    <role>Assistant to the Director</role>
+    <type>Actor</type>
+    <tmdbid>63280</tmdbid>
+    <imdbid>nm1443303</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Bannos</name>
+    <role>Brentwood Doctor</role>
+    <type>Actor</type>
+    <tmdbid>54720</tmdbid>
+    <imdbid>nm0052446</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Ostroski</name>
+    <role>The Writer</role>
+    <type>Actor</type>
+    <tmdbid>1391889</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Kriesa</name>
+    <role>Joe E. Brown</role>
+    <type>Actor</type>
+    <tmdbid>1297931</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Matheny</name>
+    <role>Joseph Cotten</role>
+    <type>Actor</type>
+    <tmdbid>1175744</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Hislop</name>
+    <role>Diamonds Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1028668</tmdbid>
+    <imdbid>nm0386816</imdbid>
+  </actor>
+  <actor>
+    <name>Dieterich Gray</name>
+    <role>Photographer's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1200314</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiva Jump</name>
+    <role>Ward Nurse at Norwalk</role>
+    <type>Actor</type>
+    <tmdbid>1367902</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Brennan</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>76022</tmdbid>
+    <imdbid>nm1229637</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Moss</name>
+    <role>Diamonds Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3481555</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Vincent</name>
+    <role>Uncle Clive</role>
+    <type>Actor</type>
+    <tmdbid>1841398</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Lemonides</name>
+    <role>Marilyn Singing Voice</role>
+    <type>Actor</type>
+    <tmdbid>2015048</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Drayer</name>
+    <role>Deputy Will Bonnie</role>
+    <type>Actor</type>
+    <tmdbid>176797</tmdbid>
+    <imdbid>nm1826988</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Smith</name>
+    <role>Dee-Dee</role>
+    <type>Actor</type>
+    <tmdbid>3719566</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary-Pat Green</name>
+    <role>Tracey</role>
+    <type>Actor</type>
+    <tmdbid>1213088</tmdbid>
+    <imdbid>nm0338144</imdbid>
+  </actor>
+  <actor>
+    <name>Ron West</name>
+    <role>Dr. Spindel</role>
+    <type>Actor</type>
+    <tmdbid>1758526</tmdbid>
+  </actor>
+  <actor>
+    <name>Flynn Pratt</name>
+    <role>Actor in Play</role>
+    <type>Actor</type>
+    <tmdbid>3719574</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Wilder</name>
+    <role>Chloroform Man #1</role>
+    <type>Actor</type>
+    <tmdbid>1549025</tmdbid>
+    <imdbid>nm0928627</imdbid>
+  </actor>
+  <actor>
+    <name>Sal Landi</name>
+    <role>Chloroform Man #2</role>
+    <type>Actor</type>
+    <tmdbid>77150</tmdbid>
+    <imdbid>nm0484764</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Meriwether</name>
+    <role>5th Helena Messenger</role>
+    <type>Actor</type>
+    <tmdbid>1181558</tmdbid>
+    <imdbid>nm5111965</imdbid>
+  </actor>
+  <actor>
+    <name>Darrin M. Schlie</name>
+    <role>Assistant Camera Man</role>
+    <type>Actor</type>
+    <tmdbid>3719575</tmdbid>
+  </actor>
+  <actor>
+    <name>Julián Rebolledo</name>
+    <role>Trailer Announcer/Newsreel Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1229458</tmdbid>
+  </actor>
+  <actor>
+    <name>Allan Havey</name>
+    <role>Dr. Greenson</role>
+    <type>Actor</type>
+    <tmdbid>66657</tmdbid>
+    <imdbid>nm0369838</imdbid>
+  </actor>
+  <actor>
+    <name>Tereza Rizzardi</name>
+    <role>Ex-Athlete's Momma</role>
+    <type>Actor</type>
+    <tmdbid>3258690</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia McGovern Zaini</name>
+    <role>Young Norma Jeane (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2907095</tmdbid>
+    <tvdbid>9086754</tvdbid>
+  </actor>
+  <actor>
+    <name>Garret Dillahunt</name>
+    <role>Producer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>39520</tmdbid>
+    <imdbid>nm0226813</imdbid>
+    <tvdbid>275807</tvdbid>
+  </actor>
+  <actor>
+    <name>Lily Fisher</name>
+    <role>Young Norma Jeane</role>
+    <type>Actor</type>
+    <tmdbid>2796434</tmdbid>
+  </actor>
+  <director tmdbid="37618" imdbid="nm0231596">Andrew Dominik</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aIsFywuZPoQ</trailer>
+  <rating>5.5</rating>
+  <year>2022</year>
+  <sorttitle>Blonde</sorttitle>
+  <mpaa>NC-17</mpaa>
+  <imdbid>tt1655389</imdbid>
+  <tmdbid>301502</tmdbid>
+  <premiered>2022-09-16</premiered>
+  <releasedate>2022-09-16</releasedate>
+  <criticrating>42</criticrating>
+  <runtime>167</runtime>
+  <tagline>Todos la observan, nadie la ve.</tagline>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Plan B Entertainment</studio>
+  <uniqueid type="tmdb">301502</uniqueid>
+  <uniqueid type="imdb">tt1655389</uniqueid>
+  <id>tt1655389</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>752263</bitrate>
+        <width>960</width>
+        <height>720</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>167</duration>
+        <durationinseconds>10048</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

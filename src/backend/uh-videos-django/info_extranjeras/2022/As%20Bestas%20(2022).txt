@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja francesa de mediana edad, Antoine y Olga, llega a vivir a un pueblo gallego en busca de una mayor cercanía con la naturaleza. Su presencia, sin embargo, enciende a dos lugareños, los hermanos Xan y Lorenzo, hasta el punto de una abierta hostilidad y luego una violencia impactante.]]></plot>
+  <outline><![CDATA[Un Film de Rodrigo Sorogoyen]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-15 17:27:46</dateadded>
+  <title>As bestas</title>
+  <originaltitle>As bestas</originaltitle>
+  <actor>
+    <name>Marina Foïs</name>
+    <role>Olga</role>
+    <type>Actor</type>
+    <tmdbid>76820</tmdbid>
+    <imdbid>nm0283997</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Ménochet</name>
+    <role>Antoine</role>
+    <type>Actor</type>
+    <tmdbid>81125</tmdbid>
+    <imdbid>nm1616970</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Zahera</name>
+    <role>Xan</role>
+    <type>Actor</type>
+    <tmdbid>28511</tmdbid>
+    <imdbid>nm0951958</imdbid>
+    <tvdbid>520301</tvdbid>
+  </actor>
+  <actor>
+    <name>Diego Anido</name>
+    <role>Lorenzo</role>
+    <type>Actor</type>
+    <tmdbid>2110628</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Colomb</name>
+    <role>Marie Denis</role>
+    <type>Actor</type>
+    <tmdbid>1793110</tmdbid>
+  </actor>
+  <actor>
+    <name>Machi Salgado</name>
+    <role>Rafael</role>
+    <type>Actor</type>
+    <tmdbid>2162190</tmdbid>
+  </actor>
+  <actor>
+    <name>David Menéndez</name>
+    <role>Cabo 3 Alfonso</role>
+    <type>Actor</type>
+    <tmdbid>1410685</tmdbid>
+  </actor>
+  <actor>
+    <name>Luisa Merelas</name>
+    <role>Madre Anta</role>
+    <type>Actor</type>
+    <tmdbid>967362</tmdbid>
+    <imdbid>nm0580655</imdbid>
+  </actor>
+  <actor>
+    <name>José Manuel Fernández y Blanco</name>
+    <role>Pepiño</role>
+    <type>Actor</type>
+    <tmdbid>3654510</tmdbid>
+  </actor>
+  <actor>
+    <name>Federico Pérez Rey</name>
+    <role>Cabo 1 Mariano</role>
+    <type>Actor</type>
+    <tmdbid>588129</tmdbid>
+    <imdbid>nm1853380</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Varela</name>
+    <role>Cabo 2 Xosé</role>
+    <type>Actor</type>
+    <tmdbid>3201104</tmdbid>
+  </actor>
+  <actor>
+    <name>Xavier Estévez</name>
+    <role>Sergento Espin</role>
+    <type>Actor</type>
+    <tmdbid>138710</tmdbid>
+    <imdbid>nm1172031</imdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo García</name>
+    <role>Breixo</role>
+    <type>Actor</type>
+    <tmdbid>1681979</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepo Suevos</name>
+    <role>Granjero</role>
+    <type>Actor</type>
+    <tmdbid>138711</tmdbid>
+    <imdbid>nm1442840</imdbid>
+  </actor>
+  <actor>
+    <name>Emile Duthu</name>
+    <role>Pierrot</role>
+    <type>Actor</type>
+    <tmdbid>3654512</tmdbid>
+  </actor>
+  <director tmdbid="96690">Rodrigo Sorogoyen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IhOWuWm64wY</trailer>
+  <rating>7.5</rating>
+  <year>2022</year>
+  <sorttitle>As bestas</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt15006566</imdbid>
+  <tmdbid>848685</tmdbid>
+  <premiered>2022-07-20</premiered>
+  <releasedate>2022-07-20</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>138</runtime>
+  <tagline>Un Film de Rodrigo Sorogoyen</tagline>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Suspense</genre>
+  <studio>Le Pacte</studio>
+  <studio>Arcadia Motion Pictures</studio>
+  <studio>Caballo Films</studio>
+  <studio>Cronos Entertainment AIE</studio>
+  <uniqueid type="imdb">tt15006566</uniqueid>
+  <uniqueid type="tmdb">848685</uniqueid>
+  <id>tt15006566</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1073349</bitrate>
+        <width>1724</width>
+        <height>720</height>
+        <aspect>479:200</aspect>
+        <aspectratio>479:200</aspectratio>
+        <framerate>23.999758</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8279</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64059</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

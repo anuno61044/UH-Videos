@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.]]></plot>
+  <outline><![CDATA[Cabalgamos juntos. Morimos juntos.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:11:36</dateadded>
+  <title>Bad Boys for Life</title>
+  <originaltitle>Bad Boys for Life</originaltitle>
+  <actor>
+    <name>Will Smith</name>
+    <type>Actor</type>
+    <tmdbid>2888</tmdbid>
+    <imdbid>nm0000226</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Lawrence</name>
+    <type>Actor</type>
+    <tmdbid>78029</tmdbid>
+    <imdbid>nm0001454</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Hudgens</name>
+    <type>Actor</type>
+    <tmdbid>67599</tmdbid>
+    <imdbid>nm1227814</imdbid>
+    <tvdbid>327407</tvdbid>
+  </actor>
+  <actor>
+    <name>Alexander Ludwig</name>
+    <type>Actor</type>
+    <tmdbid>23498</tmdbid>
+    <imdbid>nm1573253</imdbid>
+  </actor>
+  <director tmdbid="1399841" imdbid="nm4816401">Adil El Arbi</director>
+  <director tmdbid="1399842" imdbid="nm4263190">Bilall Fallah</director>
+  <writer>Peter Craig (story by)</writer>
+  <writer>Joe Carnahan (story by)</writer>
+  <writer>Chris Bremner (screenplay by)</writer>
+  <writer>Peter Craig (screenplay by)</writer>
+  <writer>Joe Carnahan (screenplay by)</writer>
+  <writer>George Gallo (based on characters created by)</writer>
+  <credits>Peter Craig (story by)</credits>
+  <credits>Joe Carnahan (story by)</credits>
+  <credits>Chris Bremner (screenplay by)</credits>
+  <credits>Peter Craig (screenplay by)</credits>
+  <credits>Joe Carnahan (screenplay by)</credits>
+  <credits>George Gallo (based on characters created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kwD0-awPZms</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a217119R3tE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bbqWBZEjSO8</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <sorttitle>Bad Boys for Life</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt1502397</imdbid>
+  <tmdbid>38700</tmdbid>
+  <premiered>2020-01-15</premiered>
+  <releasedate>2020-01-15</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>123</runtime>
+  <tagline>Cabalgamos juntos. Morimos juntos.</tagline>
+  <country>United States of America</country>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Thriller</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>Platinum Dunes</studio>
+  <studio>2.0 Entertainment</studio>
+  <studio>Don Simpson/Jerry Bruckheimer Films</studio>
+  <studio>Overbrook Entertainment</studio>
+  <set tmdbcolid="14890">
+    <name>Dos policías rebeldes - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt1502397</uniqueid>
+  <uniqueid type="tmdb">38700</uniqueid>
+  <id>tt1502397</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1021651</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7370</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>14890</collectionnumber>
+</movie>

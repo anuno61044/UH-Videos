@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-03 09:12:24</dateadded>
+  <title>The Eternal Daughter</title>
+  <originaltitle>The Eternal Daughter</originaltitle>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>Julie / Rosalind</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Carly-Sophia Davies</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2954787</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Mydell</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>1353189</tmdbid>
+    <imdbid>nm0616604</imdbid>
+  </actor>
+  <actor>
+    <name>Alfie Sankey-Green</name>
+    <role>Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>2954788</tmdbid>
+  </actor>
+  <actor>
+    <name>August Joshi</name>
+    <role>Mini Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>3532712</tmdbid>
+  </actor>
+  <actor>
+    <name>Crispin Buxton</name>
+    <role>Cousin</role>
+    <type>Actor</type>
+    <tmdbid>1713698</tmdbid>
+  </actor>
+  <director tmdbid="105435" imdbid="nm0389712">Joanna Hogg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5hJR8hEsLZU</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>Eternal Daughter</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13874422</imdbid>
+  <tmdbid>790867</tmdbid>
+  <premiered>2022-12-02</premiered>
+  <releasedate>2022-12-02</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>96</runtime>
+  <country>United States of America</country>
+  <country>United Kingdom</country>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <studio>BBC Film</studio>
+  <studio>Element Pictures</studio>
+  <studio>Sikelia Productions</studio>
+  <studio>A24</studio>
+  <studio>JWH Films</studio>
+  <set tmdbcolid="583369">
+    <name>The Souvenir Collection</name>
+  </set>
+  <uniqueid type="imdb">tt13874422</uniqueid>
+  <uniqueid type="tmdb">790867</uniqueid>
+  <id>tt13874422</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1160886</bitrate>
+        <width>1200</width>
+        <height>720</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5751</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

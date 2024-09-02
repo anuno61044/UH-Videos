@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un historiador arrogante en busca de la fama, una rivalidad profesional poco disimulada, un anciano conspiranoico perdido de su grupo, una boda de altos vuelos carga de secretos, una estudiante extranjera de intercambio, un artista poco convencional hasta para lo poco convencional, un amor prohibido, otro fingido, otro disimulado… Todo ello sacudido y agitado (no removido) en una noche de encierro obligado que desata pasiones, alimenta terrores y despierta instintos reprimidos. Si completas el cóctel con una ciudad en fiestas, un oscuro fantasma y su antiguo tesoro, ¿qué puede salir bien?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-10-09 11:18:51</dateadded>
+  <title>Desmadre incluido</title>
+  <originaltitle>Desmadre incluido</originaltitle>
+  <actor>
+    <name>Macarena Gómez</name>
+    <type>Actor</type>
+    <tmdbid>67052</tmdbid>
+    <imdbid>nm1296762</imdbid>
+    <tvdbid>7948997</tvdbid>
+  </actor>
+  <actor>
+    <name>Cristina Brondo</name>
+    <type>Actor</type>
+    <tmdbid>17523</tmdbid>
+  </actor>
+  <actor>
+    <name>Mara Guil</name>
+    <type>Actor</type>
+    <tmdbid>1744372</tmdbid>
+  </actor>
+  <actor>
+    <name>Arlette Torres</name>
+    <type>Actor</type>
+    <tmdbid>1386049</tmdbid>
+    <imdbid>nm2259318</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Tallafé</name>
+    <type>Actor</type>
+    <tmdbid>4082480</tmdbid>
+  </actor>
+  <actor>
+    <name>Salva Reina</name>
+    <type>Actor</type>
+    <tmdbid>1413918</tmdbid>
+    <imdbid>nm1892699</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Clemente</name>
+    <type>Actor</type>
+    <tmdbid>4082485</tmdbid>
+    <imdbid>nm3276863</imdbid>
+  </actor>
+  <director tmdbid="86341">Miguel Martí</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9VYPUEErRvA</trailer>
+  <rating>5.7</rating>
+  <year>2023</year>
+  <sorttitle>Desmadre incluido</sorttitle>
+  <imdbid>tt28248308</imdbid>
+  <tmdbid>1131929</tmdbid>
+  <premiered>2023-09-22</premiered>
+  <releasedate>2023-09-22</releasedate>
+  <runtime>88</runtime>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <uniqueid type="tmdb">1131929</uniqueid>
+  <uniqueid type="imdb">tt28248308</uniqueid>
+  <id>tt28248308</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>293733</bitrate>
+        <width>640</width>
+        <height>264</height>
+        <aspect>320:133</aspect>
+        <aspectratio>320:133</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5299</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63823</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una pareja divorciada se une y viaja a Bali para evitar que su hija cometa el mismo error que creen que cometieron hace 25 años.]]></plot>
+  <outline><![CDATA[Están juntos en esto para bien o para mal.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-23 19:46:56</dateadded>
+  <title>Pasaje al paraíso</title>
+  <originaltitle>Ticket to Paradise</originaltitle>
+  <actor>
+    <name>Julia Roberts</name>
+    <role>Georgia Cotton</role>
+    <type>Actor</type>
+    <tmdbid>1204</tmdbid>
+    <imdbid>nm0000210</imdbid>
+  </actor>
+  <actor>
+    <name>George Clooney</name>
+    <role>David Cotton</role>
+    <type>Actor</type>
+    <tmdbid>1461</tmdbid>
+    <imdbid>nm0000123</imdbid>
+    <tvdbid>274178</tvdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Lily Cotton</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+    <tvdbid>452348</tvdbid>
+  </actor>
+  <actor>
+    <name>Maxime Bouttier</name>
+    <role>Gede</role>
+    <type>Actor</type>
+    <tmdbid>1308133</tmdbid>
+  </actor>
+  <actor>
+    <name>Billie Lourd</name>
+    <role>Wren Butler</role>
+    <type>Actor</type>
+    <tmdbid>1399531</tmdbid>
+    <imdbid>nm6609666</imdbid>
+    <tvdbid>465716</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucas Bravo</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>2417980</tmdbid>
+    <tvdbid>8122780</tvdbid>
+  </actor>
+  <actor>
+    <name>Genevieve Lemon</name>
+    <role>Beth-Ann</role>
+    <type>Actor</type>
+    <tmdbid>10760</tmdbid>
+  </actor>
+  <actor>
+    <name>Cintya Dharmayanti</name>
+    <role>Losi</role>
+    <type>Actor</type>
+    <tmdbid>3753662</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorian Djoudi</name>
+    <role>Komang</role>
+    <type>Actor</type>
+    <tmdbid>1915145</tmdbid>
+  </actor>
+  <actor>
+    <name>Arielle O'Neill</name>
+    <role>Kimberley</role>
+    <type>Actor</type>
+    <tmdbid>1416868</tmdbid>
+    <imdbid>nm4687524</imdbid>
+  </actor>
+  <actor>
+    <name>Ling Cooper Tang</name>
+    <role>Auctioneer</role>
+    <type>Actor</type>
+    <tmdbid>1852576</tmdbid>
+  </actor>
+  <actor>
+    <name>Romy Poulier</name>
+    <role>Lauren</role>
+    <type>Actor</type>
+    <tmdbid>1674796</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Andre Allen</name>
+    <role>Dean</role>
+    <type>Actor</type>
+    <tmdbid>3586919</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilma Nurfauziah</name>
+    <role>Dewi</role>
+    <type>Actor</type>
+    <tmdbid>3754744</tmdbid>
+  </actor>
+  <actor>
+    <name>Agung Pindha</name>
+    <role>Wayan</role>
+    <type>Actor</type>
+    <tmdbid>3754749</tmdbid>
+  </actor>
+  <actor>
+    <name>Ifa Barry</name>
+    <role>Suli</role>
+    <type>Actor</type>
+    <tmdbid>3754751</tmdbid>
+  </actor>
+  <actor>
+    <name>Nom Gunadi</name>
+    <role>Losi's Uncle</role>
+    <type>Actor</type>
+    <tmdbid>3754752</tmdbid>
+  </actor>
+  <actor>
+    <name>Inaya Servais</name>
+    <role>Ketut</role>
+    <type>Actor</type>
+    <tmdbid>3754753</tmdbid>
+  </actor>
+  <actor>
+    <name>Ida Pandita Putu Wirata</name>
+    <role>Pedanda</role>
+    <type>Actor</type>
+    <tmdbid>3754754</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduard Alexander Waloni</name>
+    <role>Kadek</role>
+    <type>Actor</type>
+    <tmdbid>3754756</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Amrisyanda</name>
+    <role>Rani</role>
+    <type>Actor</type>
+    <tmdbid>3754757</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Wright</name>
+    <role>Shaun</role>
+    <type>Actor</type>
+    <tmdbid>3754760</tmdbid>
+  </actor>
+  <actor>
+    <name>Rowan Chapman</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>3511007</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyoko Yates</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>2617384</tmdbid>
+  </actor>
+  <director tmdbid="17510">Ol Parker</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hpaEBrthHV0</trailer>
+  <rating>6.1</rating>
+  <year>2022</year>
+  <sorttitle>Pasaje al paraiso</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt14109724</imdbid>
+  <tmdbid>800939</tmdbid>
+  <premiered>2022-09-08</premiered>
+  <releasedate>2022-09-08</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>104</runtime>
+  <tagline>Están juntos en esto para bien o para mal.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Romance</genre>
+  <genre>Comedia</genre>
+  <studio>Smoke House Pictures</studio>
+  <studio>Red Om Films</studio>
+  <studio>Working Title Films</studio>
+  <studio>Fin Design &amp; Effects</studio>
+  <uniqueid type="imdb">tt14109724</uniqueid>
+  <uniqueid type="tmdb">800939</uniqueid>
+  <id>tt14109724</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1071208</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6239</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

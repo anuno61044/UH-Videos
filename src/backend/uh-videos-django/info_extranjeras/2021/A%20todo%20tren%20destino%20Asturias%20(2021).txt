@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Cuando Ricardo, un padre responsable, decide llevar personalmente a su hijo a un campamento en Asturias, otros padres proponen que sea él quien se haga cargo también de sus hijos. Cuando el tren está a punto de partir, Felipe, un extravagante individuo y abuelo de dos de los niños, se presenta en la estación.]]></plot>
+  <outline><![CDATA[Una divertidísima aventura (siempre que no te pase a ti)]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-24 10:24:04</dateadded>
+  <title>A todo tren: destino Asturias</title>
+  <originaltitle>A todo tren: destino Asturias</originaltitle>
+  <actor>
+    <name>Santiago Segura</name>
+    <role>Ricardo</role>
+    <type>Actor</type>
+    <tmdbid>10847</tmdbid>
+    <imdbid>nm0782213</imdbid>
+    <tvdbid>293545</tvdbid>
+  </actor>
+  <actor>
+    <name>Leo Harlem</name>
+    <role>Felipe</role>
+    <type>Actor</type>
+    <tmdbid>1423088</tmdbid>
+    <imdbid>nm3335067</imdbid>
+  </actor>
+  <actor>
+    <name>El Cejas</name>
+    <role>Unai</role>
+    <type>Actor</type>
+    <tmdbid>2812392</tmdbid>
+  </actor>
+  <actor>
+    <name>David Guapo</name>
+    <role>Arturo</role>
+    <type>Actor</type>
+    <tmdbid>1490500</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Miranda</name>
+    <role>Marcos</role>
+    <type>Actor</type>
+    <tmdbid>2814905</tmdbid>
+  </actor>
+  <actor>
+    <name>Eneko Otero</name>
+    <role>Nacho</role>
+    <type>Actor</type>
+    <tmdbid>3153928</tmdbid>
+  </actor>
+  <actor>
+    <name>Luna Fulgencio</name>
+    <role>Lara</role>
+    <type>Actor</type>
+    <tmdbid>2272490</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier García</name>
+    <role>Fernandito</role>
+    <type>Actor</type>
+    <tmdbid>3153936</tmdbid>
+  </actor>
+  <actor>
+    <name>Sirena Segura</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>2377844</tmdbid>
+    <imdbid>nm10840211</imdbid>
+  </actor>
+  <actor>
+    <name>Verónica López</name>
+    <role>Cristinita</role>
+    <type>Actor</type>
+    <tmdbid>3153939</tmdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Reyes</name>
+    <role>Ramón</role>
+    <type>Actor</type>
+    <tmdbid>114462</tmdbid>
+    <imdbid>nm1238701</imdbid>
+  </actor>
+  <actor>
+    <name>Florentino Fernández</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>140856</tmdbid>
+    <tvdbid>7874525</tvdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Antuña</name>
+    <role>Farmer</role>
+    <type>Actor</type>
+    <tmdbid>69528</tmdbid>
+    <imdbid>nm0031612</imdbid>
+  </actor>
+  <actor>
+    <name>Alberto Casado</name>
+    <role>Train Waiter</role>
+    <type>Actor</type>
+    <tmdbid>2480971</tmdbid>
+  </actor>
+  <actor>
+    <name>Itziar Castro</name>
+    <role>Shotgun Woman</role>
+    <type>Actor</type>
+    <tmdbid>1464946</tmdbid>
+    <tvdbid>473686</tvdbid>
+  </actor>
+  <actor>
+    <name>Martita de Graná</name>
+    <role>Lara's Mother</role>
+    <type>Actor</type>
+    <tmdbid>3158126</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio de la Torre</name>
+    <role>Avilés Watchman</role>
+    <type>Actor</type>
+    <tmdbid>3483</tmdbid>
+    <imdbid>nm0209409</imdbid>
+    <tvdbid>592203</tvdbid>
+  </actor>
+  <actor>
+    <name>Marta González de la Vega</name>
+    <role>Civil Guard Agent #1</role>
+    <type>Actor</type>
+    <tmdbid>2005167</tmdbid>
+    <imdbid>nm2125297</imdbid>
+  </actor>
+  <actor>
+    <name>Eva Isanta</name>
+    <role>Raquel</role>
+    <type>Actor</type>
+    <tmdbid>1192254</tmdbid>
+    <imdbid>nm0410706</imdbid>
+    <tvdbid>503655</tvdbid>
+  </actor>
+  <actor>
+    <name>Boris Izaguirre</name>
+    <type>Actor</type>
+    <tmdbid>1062011</tmdbid>
+    <imdbid>nm0412698</imdbid>
+    <tvdbid>540856</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Losán</name>
+    <role>Civil Guard Agent #2</role>
+    <type>Actor</type>
+    <tmdbid>2325876</tmdbid>
+  </actor>
+  <actor>
+    <name>Goizalde Núñez</name>
+    <role>Train Station Lady</role>
+    <type>Actor</type>
+    <tmdbid>1455969</tmdbid>
+    <imdbid>nm1323812</imdbid>
+  </actor>
+  <actor>
+    <name>Paz Padilla</name>
+    <role>Susana - Unai's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1460313</tmdbid>
+    <imdbid>nm0655759</imdbid>
+    <tvdbid>543775</tvdbid>
+  </actor>
+  <actor>
+    <name>Cristina Pedroche</name>
+    <role>Madrid Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1580938</tmdbid>
+    <imdbid>nm3749919</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Resines</name>
+    <role>Spot Actor</role>
+    <type>Actor</type>
+    <tmdbid>37569</tmdbid>
+    <imdbid>nm0720277</imdbid>
+    <tvdbid>301061</tvdbid>
+  </actor>
+  <actor>
+    <name>Sara Sálamo</name>
+    <role>Hippie Girl</role>
+    <type>Actor</type>
+    <tmdbid>1167672</tmdbid>
+    <imdbid>nm4932005</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Sanz</name>
+    <role>Train Womanizer</role>
+    <type>Actor</type>
+    <tmdbid>145414</tmdbid>
+    <imdbid>nm0764450</imdbid>
+  </actor>
+  <actor>
+    <name>Santiago Urrialde</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>1093955</tmdbid>
+    <imdbid>nm0882089</imdbid>
+  </actor>
+  <actor>
+    <name>Paz Vega</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>3627</tmdbid>
+    <imdbid>nm0891895</imdbid>
+    <tvdbid>449351</tvdbid>
+  </actor>
+  <actor>
+    <name>Josema Yuste</name>
+    <role>Spot Director</role>
+    <type>Actor</type>
+    <tmdbid>278485</tmdbid>
+    <imdbid>nm0951145</imdbid>
+  </actor>
+  <director tmdbid="10847" imdbid="nm0782213" tvdbid="293545">Santiago Segura</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4WLxwguBud4</trailer>
+  <rating>5.3</rating>
+  <year>2021</year>
+  <sorttitle>todo tren: destino Asturias</sorttitle>
+  <imdbid>tt13150080</imdbid>
+  <tmdbid>800823</tmdbid>
+  <premiered>2021-07-08</premiered>
+  <releasedate>2021-07-08</releasedate>
+  <runtime>85</runtime>
+  <tagline>Una divertidísima aventura (siempre que no te pase a ti)</tagline>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Familia</genre>
+  <studio>Bowfinger</studio>
+  <studio>Atresmedia</studio>
+  <studio>Movistar+</studio>
+  <studio>Buendía Estudios</studio>
+  <studio>The Glow</studio>
+  <set tmdbcolid="1098551">
+    <name>A todo tren - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt13150080</uniqueid>
+  <uniqueid type="tmdb">800823</uniqueid>
+  <id>tt13150080</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2265850</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5073</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>165335</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

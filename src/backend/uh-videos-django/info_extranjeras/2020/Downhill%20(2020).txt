@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-27 20:13:18</dateadded>
+  <title>Downhill</title>
+  <originaltitle>Downhill</originaltitle>
+  <actor>
+    <name>Julia Louis-Dreyfus</name>
+    <type>Actor</type>
+    <tmdbid>15886</tmdbid>
+    <imdbid>nm0000506</imdbid>
+  </actor>
+  <actor>
+    <name>Will Ferrell</name>
+    <type>Actor</type>
+    <tmdbid>23659</tmdbid>
+    <imdbid>nm0002071</imdbid>
+    <tvdbid>289998</tvdbid>
+  </actor>
+  <actor>
+    <name>Zach Woods</name>
+    <type>Actor</type>
+    <tmdbid>464993</tmdbid>
+    <imdbid>nm2046855</imdbid>
+    <tvdbid>358475</tvdbid>
+  </actor>
+  <actor>
+    <name>Zoe Chao</name>
+    <type>Actor</type>
+    <tmdbid>1432528</tmdbid>
+    <imdbid>nm3856316</imdbid>
+    <tvdbid>534135</tvdbid>
+  </actor>
+  <director tmdbid="105648" imdbid="nm0269542" tvdbid="318654">Nat Faxon</director>
+  <director tmdbid="161932" imdbid="nm0711110" tvdbid="280806">Jim Rash</director>
+  <writer>Jesse Armstrong (screenplay by)</writer>
+  <writer>Nat Faxon (screenplay by)</writer>
+  <writer>Jim Rash (screenplay by)</writer>
+  <writer>Ruben Östlund (inspired by the motion picture "Force Majeure" by)</writer>
+  <credits>Jesse Armstrong (screenplay by)</credits>
+  <credits>Nat Faxon (screenplay by)</credits>
+  <credits>Jim Rash (screenplay by)</credits>
+  <credits>Ruben Östlund (inspired by the motion picture "Force Majeure" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AY5SrKf_2ic</trailer>
+  <rating>4.9</rating>
+  <year>2020</year>
+  <sorttitle>Downhill</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt4558376</imdbid>
+  <tmdbid>560391</tmdbid>
+  <premiered>2020-02-06</premiered>
+  <releasedate>2020-02-06</releasedate>
+  <criticrating>38</criticrating>
+  <runtime>86</runtime>
+  <country>United States of America</country>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Searchlight Pictures</studio>
+  <studio>Likely Story</studio>
+  <studio>Filmhaus Films</studio>
+  <uniqueid type="imdb">tt4558376</uniqueid>
+  <uniqueid type="tmdb">560391</uniqueid>
+  <id>tt4558376</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1287279</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>86</duration>
+        <durationinseconds>5188</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una joven que lucha contra la adicción se apodera de una antigua caja de rompecabezas, sin saber que su propósito es convocar a los Cenobitas, un grupo de sádicos seres sobrenaturales de otra dimensión.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-07 10:57:30</dateadded>
+  <title>Hellraiser</title>
+  <originaltitle>Hellraiser</originaltitle>
+  <actor>
+    <name>Odessa A'zion</name>
+    <role>Riley</role>
+    <type>Actor</type>
+    <tmdbid>1972166</tmdbid>
+    <imdbid>nm5570560</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Clayton</name>
+    <role>The Priest</role>
+    <type>Actor</type>
+    <tmdbid>1440698</tmdbid>
+    <imdbid>nm3911870</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Faison</name>
+    <role>Colin</role>
+    <type>Actor</type>
+    <tmdbid>1868461</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Starkey</name>
+    <role>Trevor</role>
+    <type>Actor</type>
+    <tmdbid>1939676</tmdbid>
+    <imdbid>nm6481846</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Flynn</name>
+    <role>Matt</role>
+    <type>Actor</type>
+    <tmdbid>1636739</tmdbid>
+    <imdbid>nm8210730</imdbid>
+    <tvdbid>549660</tvdbid>
+  </actor>
+  <actor>
+    <name>Aoife Hinds</name>
+    <role>Nora</role>
+    <type>Actor</type>
+    <tmdbid>2014269</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Liles</name>
+    <role>The Chatterer</role>
+    <type>Actor</type>
+    <tmdbid>1785114</tmdbid>
+  </actor>
+  <actor>
+    <name>Yinka Olorunnife</name>
+    <role>The Weeper</role>
+    <type>Actor</type>
+    <tmdbid>3646587</tmdbid>
+  </actor>
+  <actor>
+    <name>Selina Lo</name>
+    <role>The Gasp</role>
+    <type>Actor</type>
+    <tmdbid>115500</tmdbid>
+    <imdbid>nm2512937</imdbid>
+  </actor>
+  <actor>
+    <name>Zachary Hing</name>
+    <role>The Asphyx</role>
+    <type>Actor</type>
+    <tmdbid>3479374</tmdbid>
+  </actor>
+  <actor>
+    <name>Goran Visnjic</name>
+    <role>Voight</role>
+    <type>Actor</type>
+    <tmdbid>5725</tmdbid>
+    <imdbid>nm0899681</imdbid>
+    <tvdbid>274191</tvdbid>
+  </actor>
+  <actor>
+    <name>Hiam Abbass</name>
+    <role>Menaker</role>
+    <type>Actor</type>
+    <tmdbid>765</tmdbid>
+    <imdbid>nm0007814</imdbid>
+  </actor>
+  <actor>
+    <name>Predrag Bjelac</name>
+    <role>Lorenz</role>
+    <type>Actor</type>
+    <tmdbid>12044</tmdbid>
+    <imdbid>nm0084759</imdbid>
+  </actor>
+  <actor>
+    <name>Gorica Regodić</name>
+    <role>The Mother</role>
+    <type>Actor</type>
+    <tmdbid>1668502</tmdbid>
+  </actor>
+  <actor>
+    <name>Vukašin Jovanović</name>
+    <role>The Masque</role>
+    <type>Actor</type>
+    <tmdbid>3078950</tmdbid>
+  </actor>
+  <actor>
+    <name>Kit Clarke</name>
+    <role>Joey</role>
+    <type>Actor</type>
+    <tmdbid>3027542</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivona Kustudić</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2093328</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg De Cuir</name>
+    <role>Orderly</role>
+    <type>Actor</type>
+    <tmdbid>1102409</tmdbid>
+    <imdbid>nm4986340</imdbid>
+  </actor>
+  <actor>
+    <name>Miodrag Milovanov</name>
+    <role>Elderly Man</role>
+    <type>Actor</type>
+    <tmdbid>1050902</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikola Kent</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1831361</tmdbid>
+  </actor>
+  <actor>
+    <name>Katarina Gojković</name>
+    <role>Elderly Man’s Daughter</role>
+    <type>Actor</type>
+    <tmdbid>1043276</tmdbid>
+  </actor>
+  <director tmdbid="141962">David Bruckner</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oUlgwJNdu2I</trailer>
+  <rating>6</rating>
+  <year>2022</year>
+  <sorttitle>Hellraiser</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt0887261</imdbid>
+  <tmdbid>338947</tmdbid>
+  <premiered>2022-09-28</premiered>
+  <releasedate>2022-09-28</releasedate>
+  <runtime>121</runtime>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Misterio</genre>
+  <studio>Phantom Four</studio>
+  <studio>Spyglass Media Group</studio>
+  <uniqueid type="imdb">tt0887261</uniqueid>
+  <uniqueid type="tmdb">338947</uniqueid>
+  <id>tt0887261</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>921990</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7253</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En la Barcelona de principios del siglo XX conviven dos ciudades: una burguesa y modernista, la otra sórdida y sucia. La desaparición de la pequeña Teresa Guitart, hija de una rica familia, conmociona al país y la policía tiene pronto una sospechosa: Enriqueta Martí, conocida como ‘La Vampira del Raval’. El periodista Sebastià Comas se adentrará en el laberinto de calles, burdeles y secretos del barrio del Raval, donde sabe que encontrará la verdad sobre las desapariciones y asesinatos macabros de niños de los que se acusa a la Vampira. Pronto descubrirá que allí se esconde una élite dispuesta a ocultar sus vicios a cualquier precio.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-25 16:56:19</dateadded>
+  <title>La vampira de Barcelona</title>
+  <originaltitle>La vampira de Barcelona</originaltitle>
+  <actor>
+    <name>Roger Casamajor</name>
+    <role>Sebastià Comas</role>
+    <type>Actor</type>
+    <tmdbid>17007</tmdbid>
+    <imdbid>nm0142875</imdbid>
+    <tvdbid>513283</tvdbid>
+  </actor>
+  <actor>
+    <name>Nora Navas</name>
+    <role>Enriqueta Martí</role>
+    <type>Actor</type>
+    <tmdbid>226431</tmdbid>
+    <imdbid>nm1155977</imdbid>
+    <tvdbid>489855</tvdbid>
+  </actor>
+  <actor>
+    <name>Bruna Cusí</name>
+    <role>Amèlia</role>
+    <type>Actor</type>
+    <tmdbid>1743949</tmdbid>
+    <imdbid>nm4264236</imdbid>
+    <tvdbid>467327</tvdbid>
+  </actor>
+  <actor>
+    <name>Francesc Orella</name>
+    <role>Salvat</role>
+    <type>Actor</type>
+    <tmdbid>28509</tmdbid>
+    <imdbid>nm0649649</imdbid>
+    <tvdbid>7911760</tvdbid>
+  </actor>
+  <actor>
+    <name>Sergi López</name>
+    <role>Amorós</role>
+    <type>Actor</type>
+    <tmdbid>16972</tmdbid>
+    <imdbid>nm0530365</imdbid>
+  </actor>
+  <actor>
+    <name>Mario Gas</name>
+    <role>Sr. Méndez</role>
+    <type>Actor</type>
+    <tmdbid>589542</tmdbid>
+    <imdbid>nm0309015</imdbid>
+  </actor>
+  <actor>
+    <name>Núria Prims</name>
+    <role>Madame Leonor</role>
+    <type>Actor</type>
+    <tmdbid>143172</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Derqui</name>
+    <role>Sr. Fuster</role>
+    <type>Actor</type>
+    <tmdbid>19827</tmdbid>
+    <imdbid>nm1379745</imdbid>
+    <tvdbid>463887</tvdbid>
+  </actor>
+  <actor>
+    <name>Anna Alarcón</name>
+    <type>Actor</type>
+    <tmdbid>1141781</tmdbid>
+    <imdbid>nm1921636</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Howard</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>2755881</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Pla</name>
+    <role>Travesti</role>
+    <type>Actor</type>
+    <tmdbid>1331701</tmdbid>
+    <tvdbid>8216602</tvdbid>
+  </actor>
+  <director tmdbid="2776702">Lluís Danés</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2FfI4gXG5j0</trailer>
+  <rating>5.8</rating>
+  <year>2022</year>
+  <sorttitle>vampira de Barcelona</sorttitle>
+  <imdbid>tt10873438</imdbid>
+  <tmdbid>742472</tmdbid>
+  <premiered>2022-10-26</premiered>
+  <releasedate>2022-10-26</releasedate>
+  <runtime>106</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Brutal Media</studio>
+  <studio>Filmax</studio>
+  <studio>TV3</studio>
+  <uniqueid type="imdb">tt10873438</uniqueid>
+  <uniqueid type="tmdb">742472</uniqueid>
+  <id>tt10873438</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>917610</bitrate>
+        <width>1280</width>
+        <height>532</height>
+        <aspect>320:133</aspect>
+        <aspectratio>320:133</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6347</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128480</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

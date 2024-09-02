@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Principios del siglo XX. Frank es el carismático capitán de una peculiar embarcación que recorre la selva amazónica. Allí, a pesar de los peligros que el río Amazonas les tiene preparados, Frank llevará en su barco a la científica Lily Houghton y a su hermano McGregor Houghton. Su misión será encontrar un árbol místico que podría tener poderes curativos. Claro que su objetivo no será fácil, y en su aventura se encontrarán con toda clase de dificultades, además de una expedición alemana que busca también este árbol con propiedades curativas. Esta comedia de acción y aventuras está basada en la atracción Jungle Cruise de los parques de ocio de Disney.]]></plot>
+  <outline><![CDATA[El mito es real.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-30 07:39:46</dateadded>
+  <title>Jungle Cruise</title>
+  <originaltitle>Jungle Cruise</originaltitle>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Frank Wolff</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+    <tvdbid>255089</tvdbid>
+  </actor>
+  <actor>
+    <name>Emily Blunt</name>
+    <role>Dr. Lily Houghton</role>
+    <type>Actor</type>
+    <tmdbid>5081</tmdbid>
+    <imdbid>nm1289434</imdbid>
+  </actor>
+  <actor>
+    <name>Edgar Ramírez</name>
+    <role>Lope de Aguirre</role>
+    <type>Actor</type>
+    <tmdbid>25616</tmdbid>
+    <imdbid>nm1183149</imdbid>
+    <tvdbid>7963370</tvdbid>
+  </actor>
+  <actor>
+    <name>Jack Whitehall</name>
+    <role>McGregor Houghton</role>
+    <type>Actor</type>
+    <tmdbid>212285</tmdbid>
+    <imdbid>nm3099754</imdbid>
+    <tvdbid>300828</tvdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Prince Joachim</role>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+    <tvdbid>325974</tvdbid>
+  </actor>
+  <actor>
+    <name>Paul Giamatti</name>
+    <role>Nilo</role>
+    <type>Actor</type>
+    <tmdbid>13242</tmdbid>
+    <imdbid>nm0316079</imdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Trader Sam</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+    <imdbid>nm1227481</imdbid>
+  </actor>
+  <actor>
+    <name>Dani Rovira</name>
+    <role>Sancho</role>
+    <type>Actor</type>
+    <tmdbid>1271600</tmdbid>
+    <imdbid>nm3657043</imdbid>
+    <tvdbid>497671</tvdbid>
+  </actor>
+  <actor>
+    <name>Quim Gutiérrez</name>
+    <role>Melchor</role>
+    <type>Actor</type>
+    <tmdbid>34018</tmdbid>
+    <imdbid>nm1273697</imdbid>
+    <tvdbid>450324</tvdbid>
+  </actor>
+  <actor>
+    <name>Dan Dargan Carter</name>
+    <role>Gonzalo</role>
+    <type>Actor</type>
+    <tmdbid>2896832</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Nyman</name>
+    <role>Sir James Hobbs-Coddington</role>
+    <type>Actor</type>
+    <tmdbid>22810</tmdbid>
+    <imdbid>nm0638762</imdbid>
+    <tvdbid>490005</tvdbid>
+  </actor>
+  <actor>
+    <name>Raphael Alejandro</name>
+    <role>Zaqueu</role>
+    <type>Actor</type>
+    <tmdbid>1368512</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Lockhart</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>2383019</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro López</name>
+    <role>Chief</role>
+    <type>Actor</type>
+    <tmdbid>1223246</tmdbid>
+    <imdbid>nm2641841</imdbid>
+  </actor>
+  <actor>
+    <name>Sulem Calderon</name>
+    <role>Quila</role>
+    <type>Actor</type>
+    <tmdbid>2055681</tmdbid>
+    <imdbid>nm7004279</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Blunt</name>
+    <role>Society Guard</role>
+    <type>Actor</type>
+    <tmdbid>1504931</tmdbid>
+    <imdbid>nm5762740</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ashworth</name>
+    <role>Society Member 1</role>
+    <type>Actor</type>
+    <tmdbid>1301772</tmdbid>
+    <imdbid>nm0039327</imdbid>
+  </actor>
+  <actor>
+    <name>Allan Poppleton</name>
+    <role>Society Worker</role>
+    <type>Actor</type>
+    <tmdbid>132639</tmdbid>
+    <imdbid>nm0691597</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Paige</name>
+    <role>Kid Tourist</role>
+    <type>Actor</type>
+    <tmdbid>3105304</tmdbid>
+  </actor>
+  <actor>
+    <name>James Quattrochi</name>
+    <role>Italian Tourist</role>
+    <type>Actor</type>
+    <tmdbid>51656</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Dunlevy</name>
+    <role>Middlepart</role>
+    <type>Actor</type>
+    <tmdbid>1492293</tmdbid>
+    <imdbid>nm2961388</imdbid>
+  </actor>
+  <actor>
+    <name>Philipp Maximilian</name>
+    <role>Axel</role>
+    <type>Actor</type>
+    <tmdbid>3105214</tmdbid>
+  </actor>
+  <actor>
+    <name>Romualdo Castillo</name>
+    <role>Animal Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2139817</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Haro</name>
+    <role>Bird Vendor</role>
+    <type>Actor</type>
+    <tmdbid>1812569</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Souza</name>
+    <role>Barmaid</role>
+    <type>Actor</type>
+    <tmdbid>1718812</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael H. Cole</name>
+    <role>Bus Conductor</role>
+    <type>Actor</type>
+    <tmdbid>1158065</tmdbid>
+    <imdbid>nm2360398</imdbid>
+  </actor>
+  <actor>
+    <name>Hector Banos</name>
+    <role>Puka Michuna Warrior</role>
+    <type>Actor</type>
+    <tmdbid>2232794</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Luis Zimmerman</name>
+    <role>Puka Michuna Warrior</role>
+    <type>Actor</type>
+    <tmdbid>1216911</tmdbid>
+  </actor>
+  <actor>
+    <name>Travis Gomez</name>
+    <role>Puka Michuna Warrior</role>
+    <type>Actor</type>
+    <tmdbid>2090351</tmdbid>
+  </actor>
+  <actor>
+    <name>David Lengel</name>
+    <role>Boat Tourist</role>
+    <type>Actor</type>
+    <tmdbid>118236</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Randell Brooke</name>
+    <role>Boat Tourist</role>
+    <type>Actor</type>
+    <tmdbid>1622087</tmdbid>
+  </actor>
+  <actor>
+    <name>Piper Collins</name>
+    <role>Boat Tourist</role>
+    <type>Actor</type>
+    <tmdbid>2628528</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Arthur Bolden</name>
+    <role>Boat Tourist</role>
+    <type>Actor</type>
+    <tmdbid>1278911</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Young</name>
+    <role>Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>182213</tmdbid>
+    <imdbid>nm0949852</imdbid>
+  </actor>
+  <director tmdbid="59521" imdbid="nm1429471">Jaume Collet-Serra</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mamwmMsJ_lw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k3zJZXbAPpE</trailer>
+  <rating>6.6</rating>
+  <year>2021</year>
+  <sorttitle>Jungle Cruise</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0870154</imdbid>
+  <tmdbid>451048</tmdbid>
+  <premiered>2021-07-28</premiered>
+  <releasedate>2021-07-28</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>127</runtime>
+  <tagline>El mito es real.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Aventura</genre>
+  <genre>Fantasía</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Seven Bucks Productions</studio>
+  <studio>Davis Entertainment</studio>
+  <studio>Flynn Picture Company</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Zaftig Films</studio>
+  <set tmdbcolid="861429">
+    <name>Jungle Cruise - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt0870154</uniqueid>
+  <uniqueid type="tmdb">451048</uniqueid>
+  <id>tt0870154</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>877228</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7638</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

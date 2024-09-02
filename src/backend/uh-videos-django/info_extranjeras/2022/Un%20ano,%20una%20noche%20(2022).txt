@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ramón y Céline son una joven pareja que se encuentra en el local Bataclan de París la noche del 13 de noviembre de 2015. Durante el asalto terrorista, ambos logran, cada uno por su lado, entrar en el camerino de los músicos y refugiarse allí. Al salir ya no son los mismos. Y no saben si podrán volver a serlo... Adaptación cinematográfica basada en el libro “Paz, amor y Death metal”, de Ramón González, superviviente del atentado terrorista en la sala de conciertos Bataclan de París.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-10 09:38:48</dateadded>
+  <title>Un año, una noche</title>
+  <originaltitle>Un año, una noche</originaltitle>
+  <actor>
+    <name>Nahuel Pérez Biscayart</name>
+    <role>Ramón</role>
+    <type>Actor</type>
+    <tmdbid>66957</tmdbid>
+    <imdbid>nm1465580</imdbid>
+  </actor>
+  <actor>
+    <name>Noémie Merlant</name>
+    <role>Céline</role>
+    <type>Actor</type>
+    <tmdbid>1385600</tmdbid>
+    <imdbid>nm4374524</imdbid>
+  </actor>
+  <actor>
+    <name>Quim Gutiérrez</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>34018</tmdbid>
+    <imdbid>nm1273697</imdbid>
+    <tvdbid>450324</tvdbid>
+  </actor>
+  <actor>
+    <name>Alba Guilera</name>
+    <role>Lucie</role>
+    <type>Actor</type>
+    <tmdbid>1472844</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia de Molina</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>1270686</tmdbid>
+    <imdbid>nm5131296</imdbid>
+    <tvdbid>499261</tvdbid>
+  </actor>
+  <actor>
+    <name>C. Tangana</name>
+    <role>Héctor</role>
+    <type>Actor</type>
+    <tmdbid>2788837</tmdbid>
+  </actor>
+  <actor>
+    <name>Enric Auquer</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1436707</tmdbid>
+    <imdbid>nm3606001</imdbid>
+    <tvdbid>8159706</tvdbid>
+  </actor>
+  <actor>
+    <name>Blanca Apilánez</name>
+    <type>Actor</type>
+    <tmdbid>132446</tmdbid>
+    <imdbid>nm0032042</imdbid>
+  </actor>
+  <actor>
+    <name>Bruno Todeschini</name>
+    <type>Actor</type>
+    <tmdbid>56285</tmdbid>
+    <imdbid>nm0865333</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Broustal</name>
+    <type>Actor</type>
+    <tmdbid>1202592</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike F. Pamphile</name>
+    <role>Hombre Torniquete (Camerino)</role>
+    <type>Actor</type>
+    <tmdbid>3800903</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Lebron Torrent</name>
+    <role>Bailarín Discoteca</role>
+    <type>Actor</type>
+    <tmdbid>3800905</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Moreu</name>
+    <type>Actor</type>
+    <tmdbid>3800908</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Le Drean</name>
+    <type>Actor</type>
+    <tmdbid>3800909</tmdbid>
+  </actor>
+  <director tmdbid="588973" imdbid="nm1050097">Isaki Lacuesta</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CZSXkdyIALY</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>Un ano, una noche</sorttitle>
+  <imdbid>tt14104600</imdbid>
+  <tmdbid>769466</tmdbid>
+  <premiered>2022-10-21</premiered>
+  <releasedate>2022-10-21</releasedate>
+  <runtime>125</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>StudioCanal</studio>
+  <studio>Noodles Production</studio>
+  <studio>Bambú Producciones</studio>
+  <studio>La Termita Films</studio>
+  <studio>Mr. Fields and Friends</studio>
+  <uniqueid type="tmdb">769466</uniqueid>
+  <uniqueid type="imdb">tt14104600</uniqueid>
+  <id>tt14104600</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1049981</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7507</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>64231</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>32000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

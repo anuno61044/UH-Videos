@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[En una noche oscura y sombría, un grupo secreto de matamonstruos surge de las sombras y se reúne en el siniestro templo de los Bloodstone tras la muerte de su líder. Tras una extraña y macabra ceremonia en su memoria, los participantes se ven arrastrados a una misteriosa y mortal competición por una poderosa reliquia, una cacería que acabará enfrentándolos a un peligroso monstruo.]]></plot>
+  <outline><![CDATA[No hay escapatoria durante la noche.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-10-07 09:49:27</dateadded>
+  <title>La maldición del hombre lobo</title>
+  <originaltitle>Werewolf by Night</originaltitle>
+  <actor>
+    <name>Gael García Bernal</name>
+    <role>Jack Russell</role>
+    <type>Actor</type>
+    <tmdbid>258</tmdbid>
+    <imdbid>nm0305558</imdbid>
+    <tvdbid>311077</tvdbid>
+  </actor>
+  <actor>
+    <name>Laura Donnelly</name>
+    <role>Elsa Bloodstone</role>
+    <type>Actor</type>
+    <tmdbid>95706</tmdbid>
+    <tvdbid>455250</tvdbid>
+  </actor>
+  <actor>
+    <name>Harriet Sansom Harris</name>
+    <role>Verussa Bloodstone</role>
+    <type>Actor</type>
+    <tmdbid>538</tmdbid>
+    <imdbid>nm0364748</imdbid>
+  </actor>
+  <actor>
+    <name>Kirk R. Thatcher</name>
+    <role>Jovan</role>
+    <type>Actor</type>
+    <tmdbid>145446</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugenie Bondurant</name>
+    <role>Azarel</role>
+    <type>Actor</type>
+    <tmdbid>1317693</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Nam</name>
+    <role>Liorn</role>
+    <type>Actor</type>
+    <tmdbid>24200</tmdbid>
+    <imdbid>nm1211344</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel J. Watts</name>
+    <role>Barasso</role>
+    <type>Actor</type>
+    <tmdbid>1292452</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Hamacher</name>
+    <role>Billy Swan</role>
+    <type>Actor</type>
+    <tmdbid>2547673</tmdbid>
+  </actor>
+  <actor>
+    <name>Carey Jones</name>
+    <role>Ted (Man-Thing)</role>
+    <type>Actor</type>
+    <tmdbid>1015924</tmdbid>
+    <imdbid>nm0427681</imdbid>
+  </actor>
+  <actor>
+    <name>David Silverman</name>
+    <role>The Flaming Tuba</role>
+    <type>Actor</type>
+    <tmdbid>197</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick D. Wasserman</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>106774</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Dixon</name>
+    <role>Ulysses Bloodstone (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1222025</tmdbid>
+    <imdbid>nm0228960</imdbid>
+    <tvdbid>408671</tvdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Ford</name>
+    <role>Additional Man-Thing Vocalizations (voice)</role>
+    <type>Actor</type>
+    <tmdbid>35176</tmdbid>
+    <imdbid>nm0285701</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Beck</name>
+    <role>Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>1184357</tmdbid>
+  </actor>
+  <director tmdbid="15347">Michael Giacchino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z0KDBStNBBI</trailer>
+  <rating>7.1</rating>
+  <year>2022</year>
+  <sorttitle>maldicion del hombre lobo</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt15318872</imdbid>
+  <tmdbid>894205</tmdbid>
+  <premiered>2022-09-25</premiered>
+  <releasedate>2022-09-25</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>53</runtime>
+  <tagline>No hay escapatoria durante la noche.</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Fantasía</genre>
+  <genre>Terror</genre>
+  <genre>Película de TV</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Kevin Feige Productions</studio>
+  <uniqueid type="imdb">tt15318872</uniqueid>
+  <uniqueid type="tmdb">894205</uniqueid>
+  <id>tt15318872</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3722508</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3157</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>768000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>slo</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Follows Holiday during her career as she is targeted by the Federal Department of Narcotics with an undercover sting operation led by black Federal Agent Jimmy Fletcher, with whom she had a tumultuous affair.]]></plot>
+  <outline><![CDATA[Su voz no será silenciada.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-01 09:39:38</dateadded>
+  <title>The United States vs. Billie Holiday</title>
+  <originaltitle>The United States vs. Billie Holiday</originaltitle>
+  <actor>
+    <name>Andra Day</name>
+    <type>Actor</type>
+    <tmdbid>1658802</tmdbid>
+    <imdbid>nm7363531</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Jordan</name>
+    <type>Actor</type>
+    <tmdbid>30861</tmdbid>
+    <imdbid>nm0430074</imdbid>
+    <tvdbid>263746</tvdbid>
+  </actor>
+  <actor>
+    <name>Miss Lawrence</name>
+    <type>Actor</type>
+    <tmdbid>2129564</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <type>Actor</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+    <tvdbid>308054</tvdbid>
+  </actor>
+  <director tmdbid="20019" imdbid="nm0200005">Lee Daniels</director>
+  <writer>Suzan-Lori Parks (screenplay by)</writer>
+  <writer>Johann Hari (based on the book "Chasing the Scream" by)</writer>
+  <credits>Suzan-Lori Parks (screenplay by)</credits>
+  <credits>Johann Hari (based on the book "Chasing the Scream" by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xi9TSH_-4do</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jKMIHLzihT0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uXjy4fpsOjs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RpZs_KoajuY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qlNl5z4gTn0</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <sorttitle>United States vs. Billie Holiday</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt8521718</imdbid>
+  <tmdbid>566076</tmdbid>
+  <premiered>2021-03-31</premiered>
+  <releasedate>2021-03-31</releasedate>
+  <criticrating>55</criticrating>
+  <runtime>130</runtime>
+  <tagline>Su voz no será silenciada.</tagline>
+  <country>United States of America</country>
+  <genre>Biography</genre>
+  <genre>Drama</genre>
+  <genre>Music</genre>
+  <studio>Lee Daniels Entertainment</studio>
+  <studio>Roth-Kirschenbaum Films</studio>
+  <uniqueid type="imdb">tt8521718</uniqueid>
+  <uniqueid type="tmdb">566076</uniqueid>
+  <id>tt8521718</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>963404</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7809</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Mario trabaja en un gran almacén de objetos perdidos donde custodia todo tipo de enseres acumulados durante décadas. Hace tiempo que decidió apartarse de las personas e invierte su tiempo libre en investigar la procedencia de los objetos para devolver a sus dueños pedazos perdidos de sus vidas. Tan sólo Helena, una joven policía que visita el almacén con frecuencia, ha podido traspasar levemente su coraza. Un día llega al almacén una maleta rescatada del fondo del río. Dentro, encuentra ropa de bebé junto a unos restos humanos. Mario decide investigar por su cuenta y siguiendo el rastro de la maleta llega hasta Sara, una joven atrapada desde niña en una organización de tráfico de personas. Una red que trata a las personas como si fueran objetos.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-01-12 18:10:14</dateadded>
+  <title>Objetos</title>
+  <originaltitle>Objetos</originaltitle>
+  <actor>
+    <name>Álvaro Morte</name>
+    <role>Mario</role>
+    <type>Actor</type>
+    <tmdbid>1340020</tmdbid>
+    <imdbid>nm1486647</imdbid>
+    <tvdbid>526158</tvdbid>
+  </actor>
+  <actor>
+    <name>Eugenia Suárez</name>
+    <role>Sara</role>
+    <type>Actor</type>
+    <tmdbid>1246183</tmdbid>
+    <imdbid>nm1421927</imdbid>
+  </actor>
+  <actor>
+    <name>Verónica Echegui</name>
+    <role>Helena</role>
+    <type>Actor</type>
+    <tmdbid>114254</tmdbid>
+    <imdbid>nm1531585</imdbid>
+    <tvdbid>7865258</tvdbid>
+  </actor>
+  <actor>
+    <name>Daniel Aráoz</name>
+    <role>Ochoa</role>
+    <type>Actor</type>
+    <tmdbid>138758</tmdbid>
+    <imdbid>nm0038231</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Gorostiaga</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>3403884</tmdbid>
+  </actor>
+  <actor>
+    <name>Maitane San Nicolás</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>2607679</tmdbid>
+  </actor>
+  <actor>
+    <name>Selva Alemán</name>
+    <role>Emmeline</role>
+    <type>Actor</type>
+    <tmdbid>1480279</tmdbid>
+  </actor>
+  <actor>
+    <name>Zorion Eguileor</name>
+    <role>Andrés</role>
+    <type>Actor</type>
+    <tmdbid>970993</tmdbid>
+    <imdbid>nm1445349</imdbid>
+  </actor>
+  <actor>
+    <name>Pepa Gracia</name>
+    <role>Dolores</role>
+    <type>Actor</type>
+    <tmdbid>1666681</tmdbid>
+    <imdbid>nm3698796</imdbid>
+  </actor>
+  <actor>
+    <name>David Luque</name>
+    <role>Alberto</role>
+    <type>Actor</type>
+    <tmdbid>1197202</tmdbid>
+    <imdbid>nm1564956</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Ansidei</name>
+    <role>French waitress</role>
+    <type>Actor</type>
+    <tmdbid>1165415</tmdbid>
+    <imdbid>nm1256394</imdbid>
+  </actor>
+  <director tmdbid="1263877" imdbid="nm1085270">Jorge Dorado</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JJa6TxVbyc8</trailer>
+  <rating>5.4</rating>
+  <year>2022</year>
+  <sorttitle>Objetos</sorttitle>
+  <imdbid>tt11797376</imdbid>
+  <tmdbid>946706</tmdbid>
+  <premiered>2022-09-30</premiered>
+  <releasedate>2022-09-30</releasedate>
+  <runtime>104</runtime>
+  <country>Argentina</country>
+  <country>Germany</country>
+  <country>Spain</country>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Tandem Films</studio>
+  <uniqueid type="tmdb">946706</uniqueid>
+  <uniqueid type="imdb">tt11797376</uniqueid>
+  <id>tt11797376</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>162353</bitrate>
+        <width>640</width>
+        <height>268</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6251</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63825</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

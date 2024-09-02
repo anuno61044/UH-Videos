@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una famosa autora junta a sus amigos para divertirse y cerrar viejas heridas en un crucero, con su sobrino allí para hablar con las chicas y enamorarse de una joven agente literaria.]]></plot>
+  <outline><![CDATA[Escribe tus errores.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-14 09:49:54</dateadded>
+  <title>Déjales hablar</title>
+  <originaltitle>Let Them All Talk</originaltitle>
+  <actor>
+    <name>Meryl Streep</name>
+    <role>Alice Hughes</role>
+    <type>Actor</type>
+    <tmdbid>5064</tmdbid>
+    <imdbid>nm0000658</imdbid>
+    <tvdbid>310712</tvdbid>
+  </actor>
+  <actor>
+    <name>Lucas Hedges</name>
+    <role>Tyler Hughes</role>
+    <type>Actor</type>
+    <tmdbid>1105079</tmdbid>
+    <imdbid>nm2348627</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Chan</name>
+    <role>Karen</role>
+    <type>Actor</type>
+    <tmdbid>97576</tmdbid>
+    <imdbid>nm2110418</imdbid>
+    <tvdbid>484957</tvdbid>
+  </actor>
+  <actor>
+    <name>Dianne Wiest</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>1902</tmdbid>
+    <imdbid>nm0001848</imdbid>
+    <tvdbid>315721</tvdbid>
+  </actor>
+  <actor>
+    <name>Candice Bergen</name>
+    <role>Roberta</role>
+    <type>Actor</type>
+    <tmdbid>11850</tmdbid>
+    <imdbid>nm0000298</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Algrant</name>
+    <role>Kelvin Krantz</role>
+    <type>Actor</type>
+    <tmdbid>69696</tmdbid>
+    <imdbid>nm0019341</imdbid>
+  </actor>
+  <actor>
+    <name>John Douglas Thompson</name>
+    <role>Dr. Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>1218156</tmdbid>
+    <imdbid>nm1479034</imdbid>
+    <tvdbid>341534</tvdbid>
+  </actor>
+  <actor>
+    <name>Christopher Fitzgerald</name>
+    <role>Eddie</role>
+    <type>Actor</type>
+    <tmdbid>186311</tmdbid>
+    <imdbid>nm0280199</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Catherine Garrison</name>
+    <role>Customer</role>
+    <type>Actor</type>
+    <tmdbid>171795</tmdbid>
+    <imdbid>nm0308444</imdbid>
+  </actor>
+  <actor>
+    <name>Elna Baker</name>
+    <role>Clovis</role>
+    <type>Actor</type>
+    <tmdbid>2888847</tmdbid>
+  </actor>
+  <actor>
+    <name>Samia Finnerty</name>
+    <role>Samia</role>
+    <type>Actor</type>
+    <tmdbid>2888849</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Hechinger</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>2099497</tmdbid>
+    <tvdbid>8101542</tvdbid>
+  </actor>
+  <actor>
+    <name>David Siegel</name>
+    <role>Karen's Boss</role>
+    <type>Actor</type>
+    <tmdbid>101446</tmdbid>
+    <imdbid>nm0796915</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Doyle</name>
+    <role>Murray Dix</role>
+    <type>Actor</type>
+    <tmdbid>27107</tmdbid>
+    <imdbid>nm0236451</imdbid>
+  </actor>
+  <actor>
+    <name>David Shepherd</name>
+    <role>QM2 Hotel Manager</role>
+    <type>Actor</type>
+    <tmdbid>2888859</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Phippen</name>
+    <role>Check-in Agent</role>
+    <type>Actor</type>
+    <tmdbid>2888861</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominic Crisonino</name>
+    <role>Terminal Guide</role>
+    <type>Actor</type>
+    <tmdbid>2888863</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Rickard</name>
+    <role>Autograph Seeker</role>
+    <type>Actor</type>
+    <tmdbid>2888865</tmdbid>
+  </actor>
+  <actor>
+    <name>Haydn Rickard</name>
+    <role>Autograph Seeker</role>
+    <type>Actor</type>
+    <tmdbid>2888866</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah James</name>
+    <role>Salon Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1493220</tmdbid>
+    <imdbid>nm6773382</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Kaiser</name>
+    <role>QM2 Officer</role>
+    <type>Actor</type>
+    <tmdbid>2359000</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Gwilt</name>
+    <role>Vernon</role>
+    <type>Actor</type>
+    <tmdbid>2888870</tmdbid>
+  </actor>
+  <actor>
+    <name>Saskia Larsen</name>
+    <role>Mika (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1838570</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Meads</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1147921</tmdbid>
+    <imdbid>nm4430776</imdbid>
+  </actor>
+  <director tmdbid="1884" imdbid="nm0001752">Steven Soderbergh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pN-r13IxuGk</trailer>
+  <rating>6.1</rating>
+  <year>2020</year>
+  <sorttitle>Dejales hablar</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt10808832</imdbid>
+  <tmdbid>623856</tmdbid>
+  <premiered>2020-12-10</premiered>
+  <releasedate>2020-12-10</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>113</runtime>
+  <tagline>Escribe tus errores.</tagline>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Drama</genre>
+  <studio>Extension 765</studio>
+  <studio>Warner Max</studio>
+  <uniqueid type="imdb">tt10808832</uniqueid>
+  <uniqueid type="tmdb">623856</uniqueid>
+  <id>tt10808832</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>988666</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6771</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

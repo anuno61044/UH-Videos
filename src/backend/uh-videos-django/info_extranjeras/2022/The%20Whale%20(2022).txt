@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un solitario profesor de inglés con obesidad severa (Brendan Fraser) intenta reconectar con su hija adolescente en una última oportunidad de redención.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-02-22 10:31:08</dateadded>
+  <title>La ballena</title>
+  <originaltitle>The Whale</originaltitle>
+  <actor>
+    <name>Brendan Fraser</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>18269</tmdbid>
+    <imdbid>nm0000409</imdbid>
+    <tvdbid>294157</tvdbid>
+  </actor>
+  <actor>
+    <name>Sadie Sink</name>
+    <role>Ellie</role>
+    <type>Actor</type>
+    <tmdbid>1590797</tmdbid>
+    <imdbid>nm5584750</imdbid>
+    <tvdbid>538549</tvdbid>
+  </actor>
+  <actor>
+    <name>Hong Chau</name>
+    <role>Liz</role>
+    <type>Actor</type>
+    <tmdbid>1360317</tmdbid>
+  </actor>
+  <actor>
+    <name>Ty Simpkins</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>17181</tmdbid>
+    <imdbid>nm1339223</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Morton</name>
+    <role>Mary</role>
+    <type>Actor</type>
+    <tmdbid>2206</tmdbid>
+    <imdbid>nm0608090</imdbid>
+    <tvdbid>318680</tvdbid>
+  </actor>
+  <actor>
+    <name>Sathya Sridharan</name>
+    <role>Dan The Pizza Man</role>
+    <type>Actor</type>
+    <tmdbid>1377031</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacey Sink</name>
+    <role>Young Ellie</role>
+    <type>Actor</type>
+    <tmdbid>2433620</tmdbid>
+  </actor>
+  <director tmdbid="6431" imdbid="nm0004716">Darren Aronofsky</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WVQ2hbXAyZw</trailer>
+  <rating>7.7</rating>
+  <year>2022</year>
+  <sorttitle>ballena</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13833688</imdbid>
+  <tmdbid>785084</tmdbid>
+  <premiered>2022-12-09</premiered>
+  <releasedate>2022-12-09</releasedate>
+  <criticrating>66</criticrating>
+  <runtime>117</runtime>
+  <country>United States of America</country>
+  <genre>Drama</genre>
+  <studio>Protozoa Pictures</studio>
+  <studio>A24</studio>
+  <uniqueid type="tmdb">785084</uniqueid>
+  <uniqueid type="imdb">tt13833688</uniqueid>
+  <id>tt13833688</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>954402</bitrate>
+        <width>960</width>
+        <height>720</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7009</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

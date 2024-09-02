@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Satur (Karra Elejalde) y Tina (Toni Acosta) son un matrimonio en el que ella aporta el dinero y él se ocupa de la casa y el niño. El problema es que el niño, Manu (Quim Ávila), tiene ya 28 años y es un mediocre youtuber. Satur convertirá a su hijo en “El ranger del amor”, un exitoso youtuber enmascarado defensor del amor romántico que se enamora perdidamente de Amanda (María Pedraza). Lo que Manu no sabe es que Amanda es poliamorosa y tiene relaciones con Marta (Cristina Gallego) y Esteban (Luis Bermejo), una acomodada pareja de médicos con dos hijos, y también con Claudia (Lola Rodríguez), una chica trans que trabaja en el mundo de la moda, y con Alex (Eduardo Rosa), monitor de paracaidismo y modelo cachas.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-10 19:03:18</dateadded>
+  <title>Poliamor para principiantes</title>
+  <originaltitle>Poliamor para principiantes</originaltitle>
+  <actor>
+    <name>Karra Elejalde</name>
+    <role>Satur</role>
+    <type>Actor</type>
+    <tmdbid>24977</tmdbid>
+    <imdbid>nm0253216</imdbid>
+  </actor>
+  <actor>
+    <name>Quim Àvila Conde</name>
+    <role>Manu</role>
+    <type>Actor</type>
+    <tmdbid>1376625</tmdbid>
+  </actor>
+  <actor>
+    <name>María Pedraza</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+    <tmdbid>1757167</tmdbid>
+    <imdbid>nm8061858</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Acosta</name>
+    <role>Tina</role>
+    <type>Actor</type>
+    <tmdbid>93467</tmdbid>
+    <imdbid>nm1071554</imdbid>
+    <tvdbid>466543</tvdbid>
+  </actor>
+  <actor>
+    <name>Lola Rodríguez</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>1655012</tmdbid>
+    <tvdbid>8163723</tvdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Rosa</name>
+    <role>Álex</role>
+    <type>Actor</type>
+    <tmdbid>2639955</tmdbid>
+    <tvdbid>7962222</tvdbid>
+  </actor>
+  <actor>
+    <name>Cristina Gallego</name>
+    <role>Marta</role>
+    <type>Actor</type>
+    <tmdbid>1282293</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Bermejo</name>
+    <role>Esteban</role>
+    <type>Actor</type>
+    <tmdbid>27471</tmdbid>
+    <imdbid>nm1084399</imdbid>
+    <tvdbid>499262</tvdbid>
+  </actor>
+  <actor>
+    <name>Inma Cuevas</name>
+    <role>Berta</role>
+    <type>Actor</type>
+    <tmdbid>1383137</tmdbid>
+    <imdbid>nm1933672</imdbid>
+  </actor>
+  <actor>
+    <name>Mery Cabezuelo</name>
+    <role>Margarita</role>
+    <type>Actor</type>
+    <tmdbid>1762552</tmdbid>
+  </actor>
+  <actor>
+    <name>Susi Caramelo</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>2603602</tmdbid>
+  </actor>
+  <actor>
+    <name>Julen Alba</name>
+    <role>Sapoman</role>
+    <type>Actor</type>
+    <tmdbid>3118945</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Penalver</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>2510657</tmdbid>
+    <tvdbid>8107274</tvdbid>
+  </actor>
+  <actor>
+    <name>Eros Herrero</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>3118958</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Toledano</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>1435016</tmdbid>
+    <imdbid>nm1417202</imdbid>
+  </actor>
+  <actor>
+    <name>Mónica Vic</name>
+    <role>Señora del cine #1</role>
+    <type>Actor</type>
+    <tmdbid>1436557</tmdbid>
+  </actor>
+  <actor>
+    <name>Montse Paldro</name>
+    <role>Señora del cine #2</role>
+    <type>Actor</type>
+    <tmdbid>3118960</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Balach</name>
+    <role>Policía del aeropuerto</role>
+    <type>Actor</type>
+    <tmdbid>2094036</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Alcoba</name>
+    <role>Azafata de embarque</role>
+    <type>Actor</type>
+    <tmdbid>2228065</tmdbid>
+  </actor>
+  <actor>
+    <name>Karlos Klaumannsmoller</name>
+    <role>Pasajero con contrabajo</role>
+    <type>Actor</type>
+    <tmdbid>2092918</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Rueda</name>
+    <role>Ildefonso</role>
+    <type>Actor</type>
+    <tmdbid>2185429</tmdbid>
+  </actor>
+  <actor>
+    <name>Roma Calderón</name>
+    <role>Enfermera de hospital</role>
+    <type>Actor</type>
+    <tmdbid>3059664</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Colomo</name>
+    <role>Maestro de yoga</role>
+    <type>Actor</type>
+    <tmdbid>37561</tmdbid>
+    <imdbid>nm0173101</imdbid>
+  </actor>
+  <director tmdbid="37561" imdbid="nm0173101">Fernando Colomo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r06WELJBZ3U</trailer>
+  <rating>4.1</rating>
+  <year>2021</year>
+  <sorttitle>Poliamor para principiantes</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt12976450</imdbid>
+  <tmdbid>805052</tmdbid>
+  <premiered>2021-05-21</premiered>
+  <releasedate>2021-05-21</releasedate>
+  <runtime>94</runtime>
+  <country>France</country>
+  <country>Spain</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <studio>Morena Films</studio>
+  <studio>Ran Entertainment</studio>
+  <studio>Acuerdo de Fluidos</studio>
+  <studio>TVE</studio>
+  <studio>TeleMadrid</studio>
+  <uniqueid type="imdb">tt12976450</uniqueid>
+  <uniqueid type="tmdb">805052</uniqueid>
+  <id>tt12976450</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2193153</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5647</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>239839</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

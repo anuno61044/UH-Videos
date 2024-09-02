@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Markus, who has to go home to his teenage daughter, Mathilde, when his wife dies in a tragic train accident. It seems like an accident until a mathematics geek, who was also a fellow passenger on the train, and his two colleagues show up.]]></plot>
+  <outline><![CDATA[Alguien lo va a pagar.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-19 08:58:30</dateadded>
+  <title>Riders of Justice</title>
+  <originaltitle>Retfærdighedens ryttere</originaltitle>
+  <actor>
+    <name>Mads Mikkelsen</name>
+    <type>Actor</type>
+    <tmdbid>1019</tmdbid>
+    <imdbid>nm0586568</imdbid>
+  </actor>
+  <actor>
+    <name>Nikolaj Lie Kaas</name>
+    <type>Actor</type>
+    <tmdbid>1018</tmdbid>
+    <imdbid>nm0509263</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Heick Gadeberg</name>
+    <type>Actor</type>
+    <tmdbid>2486187</tmdbid>
+    <imdbid>nm3723229</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Brygmann</name>
+    <type>Actor</type>
+    <tmdbid>4467</tmdbid>
+    <imdbid>nm0117368</imdbid>
+    <tvdbid>446650</tvdbid>
+  </actor>
+  <director tmdbid="1012" imdbid="nm0421314">Anders Thomas Jensen</director>
+  <writer>Nikolaj Arcel (idea)</writer>
+  <writer>Anders Thomas Jensen (idea)</writer>
+  <writer>Anders Thomas Jensen (sceenplay)</writer>
+  <credits>Nikolaj Arcel (idea)</credits>
+  <credits>Anders Thomas Jensen (idea)</credits>
+  <credits>Anders Thomas Jensen (sceenplay)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZQSQ-D5Q4gM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j9Okx5teGBQ</trailer>
+  <rating>7.5</rating>
+  <year>2020</year>
+  <sorttitle>Riders of Justice</sorttitle>
+  <mpaa>NR</mpaa>
+  <imdbid>tt11655202</imdbid>
+  <tmdbid>663870</tmdbid>
+  <premiered>2020-11-19</premiered>
+  <releasedate>2020-11-19</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>116</runtime>
+  <tagline>Alguien lo va a pagar.</tagline>
+  <country>Denmark</country>
+  <country>Sweden</country>
+  <genre>Action</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Zentropa International Sweden</studio>
+  <studio>Film i Väst</studio>
+  <studio>Zentropa Entertainments</studio>
+  <uniqueid type="imdb">tt11655202</uniqueid>
+  <uniqueid type="tmdb">663870</uniqueid>
+  <id>tt11655202</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>884223</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6967</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Damián acaba de ser despedido tras 20 años trabajando en la misma empresa. Su reacción, furiosa y un tanto violenta, le lleva a salir corriendo y a esconderse en el primer sitio que encuentra al salir de la oficina: un armario cargado en una furgoneta. El armario, con Damián dentro, es entregado en casa de Lucía y Fede, una pareja de la edad de Damián que vive con su hija adolescente, María. Esa misma noche, un impulso inesperado lleva a Damián a quedarse con la familia para convertirse en una misteriosa presencia que observará y se moverá desde la sombra. Adaptación de la novela homónima de Juan José Millás.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-03-31 11:11:14</dateadded>
+  <title>No mires a los ojos</title>
+  <originaltitle>No mires a los ojos</originaltitle>
+  <actor>
+    <name>Paco León</name>
+    <role>Damián</role>
+    <type>Actor</type>
+    <tmdbid>224870</tmdbid>
+    <imdbid>nm1346713</imdbid>
+    <tvdbid>448237</tvdbid>
+  </actor>
+  <actor>
+    <name>Leonor Watling</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>101</tmdbid>
+    <imdbid>nm0914455</imdbid>
+    <tvdbid>7885324</tvdbid>
+  </actor>
+  <actor>
+    <name>Àlex Brendemühl</name>
+    <role>Fede</role>
+    <type>Actor</type>
+    <tmdbid>28514</tmdbid>
+    <imdbid>nm0107165</imdbid>
+  </actor>
+  <actor>
+    <name>María Romanillos</name>
+    <role>María</role>
+    <type>Actor</type>
+    <tmdbid>2545932</tmdbid>
+    <tvdbid>8424634</tvdbid>
+  </actor>
+  <actor>
+    <name>Juan Diego Botto</name>
+    <role>Sergio O'Kane</role>
+    <type>Actor</type>
+    <tmdbid>36632</tmdbid>
+    <imdbid>nm0098709</imdbid>
+    <tvdbid>365065</tvdbid>
+  </actor>
+  <actor>
+    <name>Susana Abaitua</name>
+    <role>Paula</role>
+    <type>Actor</type>
+    <tmdbid>544004</tmdbid>
+    <imdbid>nm2969728</imdbid>
+  </actor>
+  <actor>
+    <name>Marcos Ruiz</name>
+    <type>Actor</type>
+    <tmdbid>224733</tmdbid>
+    <imdbid>nm2280169</imdbid>
+    <tvdbid>557543</tvdbid>
+  </actor>
+  <director tmdbid="937151">Félix Viscarret</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BHv6EsnQhIk</trailer>
+  <rating>6.2</rating>
+  <year>2022</year>
+  <sorttitle>No mires a los ojos</sorttitle>
+  <imdbid>tt13867056</imdbid>
+  <tmdbid>939899</tmdbid>
+  <premiered>2022-11-04</premiered>
+  <releasedate>2022-11-04</releasedate>
+  <runtime>102</runtime>
+  <country>Belgium</country>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <studio>Tornasol Films</studio>
+  <studio>Entre Chien et Loup</studio>
+  <uniqueid type="tmdb">939899</uniqueid>
+  <uniqueid type="imdb">tt13867056</uniqueid>
+  <id>tt13867056</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>139351</bitrate>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6146</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63820</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Nancy Stokes es una mujer jubilada y viuda que decide cambiar su vida para darle un poco de color. Ya supera los 60 años y está dispuesta a disfrutar de su sexualidad de manera plena. Para ello recurre a los servicios de un trabajador sexual llamado Leo Grande. Junto a él intentará experimentar una noche de placer y autodescubrimiento.]]></plot>
+  <outline><![CDATA[Nunca es demasiado tarde para probar algo nuevo.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-06-17 13:01:58</dateadded>
+  <title>Buena suerte, Leo Grande</title>
+  <originaltitle>Good Luck to You, Leo Grande</originaltitle>
+  <actor>
+    <name>Emma Thompson</name>
+    <role>Nancy Stokes</role>
+    <type>Actor</type>
+    <tmdbid>7056</tmdbid>
+    <imdbid>nm0000668</imdbid>
+    <tvdbid>254313</tvdbid>
+  </actor>
+  <actor>
+    <name>Daryl McCormack</name>
+    <role>Leo Grande</role>
+    <type>Actor</type>
+    <tmdbid>1829245</tmdbid>
+    <tvdbid>7983480</tvdbid>
+  </actor>
+  <actor>
+    <name>Isabella Laughland</name>
+    <role>Becky Foster</role>
+    <type>Actor</type>
+    <tmdbid>234930</tmdbid>
+    <imdbid>nm2877285</imdbid>
+    <tvdbid>512612</tvdbid>
+  </actor>
+  <actor>
+    <name>Les Mabaleka</name>
+    <role>Delivery Person</role>
+    <type>Actor</type>
+    <tmdbid>3396528</tmdbid>
+  </actor>
+  <actor>
+    <name>Lennie Beare</name>
+    <role>Person on Bike</role>
+    <type>Actor</type>
+    <tmdbid>3396529</tmdbid>
+  </actor>
+  <actor>
+    <name>Carina Lopes</name>
+    <role>Waitress 1</role>
+    <type>Actor</type>
+    <tmdbid>3396530</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Ware</name>
+    <role>Waitress 2</role>
+    <type>Actor</type>
+    <tmdbid>3396531</tmdbid>
+  </actor>
+  <director tmdbid="1057496">Sophie Hyde</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4xa6DL_tjv0</trailer>
+  <rating>7.2</rating>
+  <year>2022</year>
+  <sorttitle>Buena suerte, Leo Grande</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt13352968</imdbid>
+  <tmdbid>758330</tmdbid>
+  <premiered>2022-06-17</premiered>
+  <releasedate>2022-06-17</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>97</runtime>
+  <tagline>Nunca es demasiado tarde para probar algo nuevo.</tagline>
+  <country>United Kingdom</country>
+  <genre>Comedia</genre>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <studio>Genesius Pictures</studio>
+  <studio>Cornerstone Films</studio>
+  <studio>Align</studio>
+  <uniqueid type="imdb">tt13352968</uniqueid>
+  <uniqueid type="tmdb">758330</uniqueid>
+  <id>tt13352968</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1148870</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5824</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

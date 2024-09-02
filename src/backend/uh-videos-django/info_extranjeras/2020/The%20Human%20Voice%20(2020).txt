@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Una mujer mira pasar el tiempo junto a las maletas de su ex amante (que se supone que viene a recogerlas, pero nunca llega) y un perro inquieto que no comprende que su amo lo ha abandonado. Dos seres vivos enfrentados al abandono. Durante los tres días de espera, la mujer solo sale una vez a la calle, a comprar un hacha y una lata de gasolina.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-10 08:15:34</dateadded>
+  <title>The Human Voice</title>
+  <originaltitle>The Human Voice</originaltitle>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Agustín Almodóvar</name>
+    <role>Cashier</role>
+    <type>Actor</type>
+    <tmdbid>952</tmdbid>
+    <imdbid>nm0021948</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Almodóvar</name>
+    <type>Actor</type>
+    <tmdbid>1356510</tmdbid>
+    <imdbid>nm4835442</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Almodóvar</name>
+    <type>Actor</type>
+    <tmdbid>2854701</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Pajuelo</name>
+    <type>Actor</type>
+    <tmdbid>3032786</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos García Cambero</name>
+    <type>Actor</type>
+    <tmdbid>4368</tmdbid>
+    <imdbid>nm0305581</imdbid>
+  </actor>
+  <director tmdbid="309" imdbid="nm0000264">Pedro Almodóvar</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oiS4EfoBhcc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G3lGM39dKuY</trailer>
+  <rating>6.9</rating>
+  <year>2020</year>
+  <sorttitle>Human Voice</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11760792</imdbid>
+  <tmdbid>671577</tmdbid>
+  <premiered>2020-09-03</premiered>
+  <releasedate>2020-09-03</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>30</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>El Deseo</studio>
+  <uniqueid type="imdb">tt11760792</uniqueid>
+  <uniqueid type="tmdb">671577</uniqueid>
+  <id>tt11760792</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8640301</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>30</duration>
+        <durationinseconds>1818</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

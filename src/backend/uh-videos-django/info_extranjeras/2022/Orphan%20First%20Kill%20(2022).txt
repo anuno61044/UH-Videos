@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Tras escapar de un centro psiquiátrico estonio, Leena Klammer viaja a América haciéndose pasar por Esther, la hija desaparecida de una familia adinerada. Pero cuando su máscara empieza a caer, se enfrenta a una madre que protegerá a su familia de la "niña" asesina a cualquier precio.]]></plot>
+  <outline><![CDATA[Siempre ha habido algo mal con Esther.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-08-24 15:14:30</dateadded>
+  <title>La huérfana: Primer asesinato</title>
+  <originaltitle>Orphan: First Kill</originaltitle>
+  <actor>
+    <name>Isabelle Fuhrman</name>
+    <role>Leena Klammer / Esther Albright</role>
+    <type>Actor</type>
+    <tmdbid>77517</tmdbid>
+    <imdbid>nm2265157</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Stiles</name>
+    <role>Tricia Albright</role>
+    <type>Actor</type>
+    <tmdbid>12041</tmdbid>
+    <imdbid>nm0005466</imdbid>
+    <tvdbid>310413</tvdbid>
+  </actor>
+  <actor>
+    <name>Rossif Sutherland</name>
+    <role>Allen Albright</role>
+    <type>Actor</type>
+    <tmdbid>58014</tmdbid>
+    <tvdbid>557483</tvdbid>
+  </actor>
+  <actor>
+    <name>Matthew Finlan</name>
+    <role>Gunnar Albright</role>
+    <type>Actor</type>
+    <tmdbid>2563029</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiro Kanagawa</name>
+    <role>Detective Donnan</role>
+    <type>Actor</type>
+    <tmdbid>60719</tmdbid>
+    <imdbid>nm0437032</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Walkes</name>
+    <role>Dr. Segar</role>
+    <type>Actor</type>
+    <tmdbid>3623133</tmdbid>
+  </actor>
+  <actor>
+    <name>David Brown</name>
+    <role>Dr. Novotny</role>
+    <type>Actor</type>
+    <tmdbid>55616</tmdbid>
+    <imdbid>nm0113357</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Cochrane</name>
+    <role>Officer Leahy</role>
+    <type>Actor</type>
+    <tmdbid>1923452</tmdbid>
+  </actor>
+  <actor>
+    <name>Gwendolyn Collins</name>
+    <role>Anna Troyev</role>
+    <type>Actor</type>
+    <tmdbid>2404548</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristen Sawatzky</name>
+    <role>Federica</role>
+    <type>Actor</type>
+    <tmdbid>1661385</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Strome</name>
+    <role>Lobby Guard</role>
+    <type>Actor</type>
+    <tmdbid>1849155</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea del Campo</name>
+    <role>Betsy</role>
+    <type>Actor</type>
+    <tmdbid>1896596</tmdbid>
+  </actor>
+  <actor>
+    <name>Alec Carlos</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>2537199</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Johnston</name>
+    <role>Karen</role>
+    <type>Actor</type>
+    <tmdbid>1701243</tmdbid>
+    <imdbid>nm1770466</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Luby</name>
+    <role>Claire / Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2862934</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxwell Nelson</name>
+    <role>Little Boy</role>
+    <type>Actor</type>
+    <tmdbid>3671058</tmdbid>
+  </actor>
+  <actor>
+    <name>Bradley Sawatzky</name>
+    <role>Officer Kusnetsov</role>
+    <type>Actor</type>
+    <tmdbid>1106200</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sy</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2154533</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Stephenson-Kerr</name>
+    <role>Society 1 / Olive</role>
+    <type>Actor</type>
+    <tmdbid>61160</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Bajer</name>
+    <role>Society 2 / Gertrude</role>
+    <type>Actor</type>
+    <tmdbid>81239</tmdbid>
+  </actor>
+  <actor>
+    <name>Kennedy Irwin</name>
+    <role>Esther Body Double</role>
+    <type>Actor</type>
+    <tmdbid>2830043</tmdbid>
+  </actor>
+  <actor>
+    <name>Sadie Lee</name>
+    <role>Esther Body Double</role>
+    <type>Actor</type>
+    <tmdbid>3671675</tmdbid>
+  </actor>
+  <actor>
+    <name>Maxine Sanders</name>
+    <role>Laughing Partier #2</role>
+    <type>Actor</type>
+    <tmdbid>1633284</tmdbid>
+  </actor>
+  <actor>
+    <name>Parker Bohotchuk</name>
+    <role>Laughing Partier #1</role>
+    <type>Actor</type>
+    <tmdbid>2170030</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Athavale</name>
+    <role>Orderly</role>
+    <type>Actor</type>
+    <tmdbid>1303813</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Stewart-Kanigan</name>
+    <role>Dude 1</role>
+    <type>Actor</type>
+    <tmdbid>3671057</tmdbid>
+  </actor>
+  <actor>
+    <name>Jade Michael</name>
+    <role>Girl 1 / Madison</role>
+    <type>Actor</type>
+    <tmdbid>2537196</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Hurtig</name>
+    <role>Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1148697</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Easton-Fitzgerald</name>
+    <role>Young Esther (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3673665</tmdbid>
+  </actor>
+  <director tmdbid="62768">William Brent Bell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lGrcKxWCq4o</trailer>
+  <rating>5.9</rating>
+  <year>2022</year>
+  <sorttitle>huerfana: Primer asesinato</sorttitle>
+  <mpaa>R</mpaa>
+  <imdbid>tt11851548</imdbid>
+  <tmdbid>760161</tmdbid>
+  <premiered>2022-07-27</premiered>
+  <releasedate>2022-07-27</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>94</runtime>
+  <tagline>Siempre ha habido algo mal con Esther.</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Suspense</genre>
+  <studio>Dark Castle Entertainment</studio>
+  <studio>Entertainment One</studio>
+  <studio>Eagle Vision</studio>
+  <set tmdbcolid="760193">
+    <name>La huérfana - Colección</name>
+  </set>
+  <uniqueid type="imdb">tt11851548</uniqueid>
+  <uniqueid type="tmdb">760161</uniqueid>
+  <id>tt11851548</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1181700</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5656</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

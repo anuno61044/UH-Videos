@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[La historia refleja la vida de Julia, Elsa y Amelia, tres amigas que un día decidieron comenzar a caminar juntas una vez por semana. Lo que empezó por ser una mera distracción y una forma de hacer ejercicio se ha terminado por convertir en una necesidad. Porque esos paseos les sirven también para estar informadas de lo que a cada una de ellas les ocurre. Poco a poco irán descubriendo que la amistad no es siempre idílica, que en la amistad también se guardan secretos y se recurre a la mentira.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-27 08:52:01</dateadded>
+  <title>Invisibles</title>
+  <originaltitle>Invisibles</originaltitle>
+  <actor>
+    <name>Emma Suárez</name>
+    <role>Elsa</role>
+    <type>Actor</type>
+    <tmdbid>24974</tmdbid>
+    <imdbid>nm0840772</imdbid>
+  </actor>
+  <actor>
+    <name>Adriana Ozores</name>
+    <role>Julia</role>
+    <type>Actor</type>
+    <tmdbid>87017</tmdbid>
+    <imdbid>nm0654841</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Poza</name>
+    <role>Amelia</role>
+    <type>Actor</type>
+    <tmdbid>27464</tmdbid>
+    <imdbid>nm1208191</imdbid>
+    <tvdbid>7931319</tvdbid>
+  </actor>
+  <actor>
+    <name>Blanca Portillo</name>
+    <role>Mara</role>
+    <type>Actor</type>
+    <tmdbid>3480</tmdbid>
+    <imdbid>nm0692391</imdbid>
+    <tvdbid>450142</tvdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cayo</name>
+    <role>Alberto</role>
+    <type>Actor</type>
+    <tmdbid>51902</tmdbid>
+    <imdbid>nm0147308</imdbid>
+    <tvdbid>456310</tvdbid>
+  </actor>
+  <actor>
+    <name>Pedro Casablanc</name>
+    <role>Hombre corbata</role>
+    <type>Actor</type>
+    <tmdbid>227071</tmdbid>
+    <imdbid>nm0142677</imdbid>
+    <tvdbid>572321</tvdbid>
+  </actor>
+  <actor>
+    <name>Paqui Horcajo</name>
+    <role>Entrenadora</role>
+    <type>Actor</type>
+    <tmdbid>1651931</tmdbid>
+    <imdbid>nm1914396</imdbid>
+  </actor>
+  <director tmdbid="212674" imdbid="nm0703265">Gracia Querejeta</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2om1hkU3nYM</trailer>
+  <rating>6.4</rating>
+  <year>2020</year>
+  <sorttitle>Invisibles</sorttitle>
+  <imdbid>tt9563096</imdbid>
+  <tmdbid>650625</tmdbid>
+  <premiered>2020-03-06</premiered>
+  <releasedate>2020-03-06</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>80</runtime>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <studio>Nephilim Producciones</studio>
+  <uniqueid type="imdb">tt9563096</uniqueid>
+  <uniqueid type="tmdb">650625</uniqueid>
+  <id>tt9563096</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>590340</bitrate>
+        <width>864</width>
+        <height>360</height>
+        <aspect>320:133</aspect>
+        <aspectratio>320:133</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>80</duration>
+        <durationinseconds>4822</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96323</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

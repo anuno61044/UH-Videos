@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.]]></plot>
+  <outline><![CDATA[Él simplemente, no es una persona de personas...]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-02-10 08:19:10</dateadded>
+  <title>Dolittle</title>
+  <originaltitle>Dolittle</originaltitle>
+  <actor>
+    <name>Robert Downey Jr.</name>
+    <type>Actor</type>
+    <tmdbid>3223</tmdbid>
+    <imdbid>nm0000375</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Banderas</name>
+    <type>Actor</type>
+    <tmdbid>3131</tmdbid>
+    <imdbid>nm0000104</imdbid>
+    <tvdbid>264545</tvdbid>
+  </actor>
+  <actor>
+    <name>Michael Sheen</name>
+    <type>Actor</type>
+    <tmdbid>3968</tmdbid>
+    <imdbid>nm0790688</imdbid>
+    <tvdbid>303575</tvdbid>
+  </actor>
+  <actor>
+    <name>Jim Broadbent</name>
+    <type>Actor</type>
+    <tmdbid>388</tmdbid>
+    <imdbid>nm0000980</imdbid>
+    <tvdbid>248020</tvdbid>
+  </actor>
+  <director tmdbid="2945" imdbid="nm0300866">Stephen Gaghan</director>
+  <writer>Stephen Gaghan (screenplay by)</writer>
+  <writer>Dan Gregor (screenplay by)</writer>
+  <writer>Doug Mand (screenplay by)</writer>
+  <writer>Thomas Shepherd (screen story by)</writer>
+  <writer>Hugh Lofting (character created by)</writer>
+  <credits>Stephen Gaghan (screenplay by)</credits>
+  <credits>Dan Gregor (screenplay by)</credits>
+  <credits>Doug Mand (screenplay by)</credits>
+  <credits>Thomas Shepherd (screen story by)</credits>
+  <credits>Hugh Lofting (character created by)</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=whB9LkjDTSE</trailer>
+  <rating>5.6</rating>
+  <year>2020</year>
+  <sorttitle>Dolittle</sorttitle>
+  <mpaa>PG</mpaa>
+  <imdbid>tt6673612</imdbid>
+  <tmdbid>448119</tmdbid>
+  <premiered>2020-01-01</premiered>
+  <releasedate>2020-01-01</releasedate>
+  <criticrating>14</criticrating>
+  <runtime>90</runtime>
+  <tagline>Él simplemente, no es una persona de personas...</tagline>
+  <country>United Kingdom</country>
+  <country>China</country>
+  <country>United States of America</country>
+  <country>Japan</country>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Family</genre>
+  <genre>Fantasy</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Team Downey</studio>
+  <studio>Perfect World Pictures</studio>
+  <studio>Roth-Kirschenbaum Films</studio>
+  <uniqueid type="imdb">tt6673612</uniqueid>
+  <uniqueid type="tmdb">448119</uniqueid>
+  <id>tt6673612</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2137995</bitrate>
+        <width>720</width>
+        <height>384</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>59.940063</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5387</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

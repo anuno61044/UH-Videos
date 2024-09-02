@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alice Gould, una investigadora privada, simula que padece una enfermedad mental con objeto de ingresar en un hospital psiquiátrico y recabar pruebas del caso en el que trabaja: la muerte de un paciente en circunstancias poco claras.]]></plot>
+  <outline><![CDATA[Una vez cruces esta puerta, olvídate de quién eras ahí fuera]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-12-12 10:50:34</dateadded>
+  <title>Los renglones torcidos de Dios</title>
+  <originaltitle>Los renglones torcidos de Dios</originaltitle>
+  <actor>
+    <name>Bárbara Lennie</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>724188</tmdbid>
+    <imdbid>nm1036659</imdbid>
+  </actor>
+  <actor>
+    <name>Eduard Fernández</name>
+    <role>Samuel Alvar</role>
+    <type>Actor</type>
+    <tmdbid>87015</tmdbid>
+    <imdbid>nm0273464</imdbid>
+    <tvdbid>594235</tvdbid>
+  </actor>
+  <actor>
+    <name>Loreto Mauleón</name>
+    <role>Monserrat Castell</role>
+    <type>Actor</type>
+    <tmdbid>1179338</tmdbid>
+    <imdbid>nm3084972</imdbid>
+    <tvdbid>8038350</tvdbid>
+  </actor>
+  <actor>
+    <name>Javier Beltrán</name>
+    <role>César Arellano</role>
+    <type>Actor</type>
+    <tmdbid>31805</tmdbid>
+    <imdbid>nm2779214</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Derqui</name>
+    <role>Urquieta</role>
+    <type>Actor</type>
+    <tmdbid>19827</tmdbid>
+    <imdbid>nm1379745</imdbid>
+    <tvdbid>463887</tvdbid>
+  </actor>
+  <actor>
+    <name>Federico Aguado</name>
+    <role>Ruipérez</role>
+    <type>Actor</type>
+    <tmdbid>1506918</tmdbid>
+  </actor>
+  <actor>
+    <name>Adelfa Calvo</name>
+    <role>Doctor Bernardos</role>
+    <type>Actor</type>
+    <tmdbid>1331728</tmdbid>
+    <imdbid>nm2431367</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Buíl</name>
+    <role>Ruiz de Pablos</role>
+    <type>Actor</type>
+    <tmdbid>232658</tmdbid>
+  </actor>
+  <actor>
+    <name>Dafnis Balduz</name>
+    <role>Inspector Soto</role>
+    <type>Actor</type>
+    <tmdbid>1062003</tmdbid>
+    <imdbid>nm1568811</imdbid>
+  </actor>
+  <actor>
+    <name>Lluís Soler</name>
+    <role>Man / Fake Del Olmo / Dr. Donadio</role>
+    <type>Actor</type>
+    <tmdbid>1077758</tmdbid>
+    <imdbid>nm0812963</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel Soler</name>
+    <role>Rómulo / Remo</role>
+    <type>Actor</type>
+    <tmdbid>3739844</tmdbid>
+  </actor>
+  <actor>
+    <name>David Selvas</name>
+    <role>Heliodoro</role>
+    <type>Actor</type>
+    <tmdbid>942100</tmdbid>
+    <imdbid>nm0783591</imdbid>
+  </actor>
+  <actor>
+    <name>Francisco Javier Pastor</name>
+    <role>Elephant Man</role>
+    <type>Actor</type>
+    <tmdbid>3188600</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Sacristán</name>
+    <role>Gnome</role>
+    <type>Actor</type>
+    <tmdbid>3824202</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicente Vergara</name>
+    <role>Nurse Terrón</role>
+    <type>Actor</type>
+    <tmdbid>2264687</tmdbid>
+  </actor>
+  <actor>
+    <name>Covadonga Berdiñas</name>
+    <role>Nurse Perro</role>
+    <type>Actor</type>
+    <tmdbid>1533475</tmdbid>
+    <imdbid>nm2293289</imdbid>
+  </actor>
+  <actor>
+    <name>Adolfo Gómez</name>
+    <role>Astrologer</role>
+    <type>Actor</type>
+    <tmdbid>3824208</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Jubany Vilert</name>
+    <role>Swinging Child</role>
+    <type>Actor</type>
+    <tmdbid>3824210</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Ángel González</name>
+    <role>Mutist</role>
+    <type>Actor</type>
+    <tmdbid>2248423</tmdbid>
+    <imdbid>nm0328380</imdbid>
+  </actor>
+  <actor>
+    <name>Txell Aixendri</name>
+    <role>Obese Woman</role>
+    <type>Actor</type>
+    <tmdbid>1457176</tmdbid>
+  </actor>
+  <actor>
+    <name>William Zurita</name>
+    <role>Wax Man</role>
+    <type>Actor</type>
+    <tmdbid>2514062</tmdbid>
+  </actor>
+  <actor>
+    <name>Raquel Ferri</name>
+    <role>Lucía</role>
+    <type>Actor</type>
+    <tmdbid>2619585</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Crosas</name>
+    <role>García del Olmo</role>
+    <type>Actor</type>
+    <tmdbid>180116</tmdbid>
+    <imdbid>nm0188947</imdbid>
+  </actor>
+  <actor>
+    <name>Carles Gilabert</name>
+    <role>Asylum Doorman</role>
+    <type>Actor</type>
+    <tmdbid>2822786</tmdbid>
+  </actor>
+  <actor>
+    <name>Lluís Altés</name>
+    <role>Court Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1288031</tmdbid>
+    <imdbid>nm5580678</imdbid>
+  </actor>
+  <actor>
+    <name>Patty Bonet</name>
+    <role>Disturbing Woman</role>
+    <type>Actor</type>
+    <tmdbid>3824212</tmdbid>
+  </actor>
+  <actor>
+    <name>Pep Ferrer</name>
+    <role>Electroshock Doctor</role>
+    <type>Actor</type>
+    <tmdbid>30355</tmdbid>
+  </actor>
+  <actor>
+    <name>Chus Leiva</name>
+    <role>Lion Cage Nurse</role>
+    <type>Actor</type>
+    <tmdbid>3321521</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Serrats</name>
+    <role>Police Station Officer</role>
+    <type>Actor</type>
+    <tmdbid>1726247</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramon Vila</name>
+    <role>Chaplain</role>
+    <type>Actor</type>
+    <tmdbid>2843064</tmdbid>
+  </actor>
+  <actor>
+    <name>Meritxell Neddermann</name>
+    <role>New Year Eve Party Singer</role>
+    <type>Actor</type>
+    <tmdbid>3824216</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfred Tapscott</name>
+    <role>New Year Eve Party Musician #1</role>
+    <type>Actor</type>
+    <tmdbid>2285173</tmdbid>
+  </actor>
+  <actor>
+    <name>Franco Niella</name>
+    <role>New Year Eve Party Musician #2</role>
+    <type>Actor</type>
+    <tmdbid>3824217</tmdbid>
+  </actor>
+  <actor>
+    <name>Hernán Paolini</name>
+    <role>New Year Eve Party Musician #3</role>
+    <type>Actor</type>
+    <tmdbid>3824218</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Hung</name>
+    <role>New Year Eve Party Musician #4</role>
+    <type>Actor</type>
+    <tmdbid>3824219</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Martínez</name>
+    <role>New Year Eve Party Musician #5</role>
+    <type>Actor</type>
+    <tmdbid>3824220</tmdbid>
+  </actor>
+  <director tmdbid="1051305" imdbid="nm1079062">Oriol Paulo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VpZjyY4wPi0</trailer>
+  <rating>7.1</rating>
+  <year>2022</year>
+  <sorttitle>Los renglones torcidos de Dios</sorttitle>
+  <imdbid>tt13229894</imdbid>
+  <tmdbid>890980</tmdbid>
+  <premiered>2022-10-06</premiered>
+  <releasedate>2022-10-06</releasedate>
+  <runtime>155</runtime>
+  <tagline>Una vez cruces esta puerta, olvídate de quién eras ahí fuera</tagline>
+  <country>Spain</country>
+  <genre>Drama</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>Filmayer</studio>
+  <studio>TV3</studio>
+  <studio>Nostromo Pictures</studio>
+  <studio>Warner Bros. Entertainment España</studio>
+  <studio>Atresmedia</studio>
+  <studio>Orange</studio>
+  <uniqueid type="imdb">tt13229894</uniqueid>
+  <uniqueid type="tmdb">890980</uniqueid>
+  <id>tt13229894</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1100149</bitrate>
+        <width>720</width>
+        <height>282</height>
+        <aspect>120:47</aspect>
+        <aspectratio>120:47</aspectratio>
+        <framerate>24</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>155</duration>
+        <durationinseconds>9320</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>he</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ko</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ru</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ja</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>sv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>da</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>id</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ms</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>cs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ro</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>hr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pl</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>10_Greek</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>pt</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>22_Bokmal</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>uk</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>ar</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>fr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>th</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>it</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>vi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>tr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>12_fil</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

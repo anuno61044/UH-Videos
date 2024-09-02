@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Después del colapso de una mina de diamantes remota en el extremo norte de Canadá, un conductor de una carretera de hielo debe liderar una misión de rescate imposible sobre un océano helado para salvar a los mineros atrapados.]]></plot>
+  <outline><![CDATA[La misión es en un hielo muy delgado]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-28 16:14:06</dateadded>
+  <title>The Ice Road</title>
+  <originaltitle>The Ice Road</originaltitle>
+  <actor>
+    <name>Liam Neeson</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Marcus Thomas</name>
+    <role>Gurty</role>
+    <type>Actor</type>
+    <tmdbid>55174</tmdbid>
+    <imdbid>nm0859197</imdbid>
+  </actor>
+  <actor>
+    <name>Laurence Fishburne</name>
+    <role>Goldenrod</role>
+    <type>Actor</type>
+    <tmdbid>2975</tmdbid>
+    <imdbid>nm0000401</imdbid>
+    <tvdbid>282895</tvdbid>
+  </actor>
+  <actor>
+    <name>Amber Midthunder</name>
+    <role>Tantoo</role>
+    <type>Actor</type>
+    <tmdbid>1654001</tmdbid>
+    <imdbid>nm1690270</imdbid>
+    <tvdbid>463647</tvdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>René Lampard</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Matt McCoy</name>
+    <role>George Sickle</role>
+    <type>Actor</type>
+    <tmdbid>42206</tmdbid>
+    <imdbid>nm0566783</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Sensmeier</name>
+    <role>Cody</role>
+    <type>Actor</type>
+    <tmdbid>1584347</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Salinger</name>
+    <role>CEO Thomason</role>
+    <type>Actor</type>
+    <tmdbid>76234</tmdbid>
+    <imdbid>nm0758413</imdbid>
+  </actor>
+  <actor>
+    <name>BJ Verot</name>
+    <role>Washington</role>
+    <type>Actor</type>
+    <tmdbid>1896599</tmdbid>
+  </actor>
+  <actor>
+    <name>Bradley Sawatzky</name>
+    <role>Tager</role>
+    <type>Actor</type>
+    <tmdbid>1106200</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Bruce</name>
+    <role>Shift Supervisor Mankins</role>
+    <type>Actor</type>
+    <tmdbid>2166937</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Kennerd</name>
+    <role>Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>2565695</tmdbid>
+  </actor>
+  <actor>
+    <name>Arne MacPherson</name>
+    <type>Actor</type>
+    <tmdbid>83853</tmdbid>
+    <imdbid>nm0534202</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Essiembre</name>
+    <type>Actor</type>
+    <tmdbid>1128538</tmdbid>
+    <imdbid>nm0261413</imdbid>
+  </actor>
+  <actor>
+    <name>Marshall Williams</name>
+    <type>Actor</type>
+    <tmdbid>1376711</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Hurtig</name>
+    <role>Fred Ford</role>
+    <type>Actor</type>
+    <tmdbid>1148697</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Walker</name>
+    <role>Varnay</role>
+    <type>Actor</type>
+    <tmdbid>239996</tmdbid>
+    <imdbid>nm0907548</imdbid>
+    <tvdbid>384903</tvdbid>
+  </actor>
+  <director tmdbid="876">Jonathan Hensleigh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-zjikObAJHk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wmHUyPK1ins</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_XfS6kjoM24</trailer>
+  <rating>5.6</rating>
+  <year>2021</year>
+  <sorttitle>Ice Road</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3758814</imdbid>
+  <tmdbid>646207</tmdbid>
+  <premiered>2021-06-24</premiered>
+  <releasedate>2021-06-24</releasedate>
+  <criticrating>22</criticrating>
+  <runtime>109</runtime>
+  <tagline>La misión es en un hielo muy delgado</tagline>
+  <country>United States of America</country>
+  <genre>Acción</genre>
+  <genre>Suspense</genre>
+  <studio>ShivHans Pictures</studio>
+  <studio>Code Entertainment</studio>
+  <studio>Envision Media Arts</studio>
+  <studio>The Solution</studio>
+  <set tmdbcolid="1119879">
+    <name>Ice Road Collection</name>
+  </set>
+  <uniqueid type="imdb">tt3758814</uniqueid>
+  <uniqueid type="tmdb">646207</uniqueid>
+  <id>tt3758814</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1149111</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6554</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128259</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>es</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>en</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

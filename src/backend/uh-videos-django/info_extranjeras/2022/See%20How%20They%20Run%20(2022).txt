@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Un desesperado productor de cine de Hollywood se propone convertir en película una popular obra de teatro. Cuando miembros de la producción son asesinados, el cansado inspector Stoppard y la agente novata Stalker se encontrarán en medio de una intrigante novela policíaca.]]></plot>
+  <outline><![CDATA[El mayor asesinato jamás escenificado.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-11-03 07:51:26</dateadded>
+  <title>Mira cómo corren</title>
+  <originaltitle>See How They Run</originaltitle>
+  <actor>
+    <name>Sam Rockwell</name>
+    <role>Inspector Stoppard</role>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+    <tvdbid>333915</tvdbid>
+  </actor>
+  <actor>
+    <name>Saoirse Ronan</name>
+    <role>Constable Stalker</role>
+    <type>Actor</type>
+    <tmdbid>36592</tmdbid>
+    <imdbid>nm1519680</imdbid>
+  </actor>
+  <actor>
+    <name>Adrien Brody</name>
+    <role>Leo Köpernick</role>
+    <type>Actor</type>
+    <tmdbid>3490</tmdbid>
+    <imdbid>nm0004778</imdbid>
+    <tvdbid>310424</tvdbid>
+  </actor>
+  <actor>
+    <name>Ruth Wilson</name>
+    <role>Petula Spencer</role>
+    <type>Actor</type>
+    <tmdbid>47720</tmdbid>
+    <imdbid>nm2235721</imdbid>
+    <tvdbid>445338</tvdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>John Woolf</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Harris Dickinson</name>
+    <role>Richard Attenborough</role>
+    <type>Actor</type>
+    <tmdbid>1716493</tmdbid>
+    <imdbid>nm6170168</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Cooper</name>
+    <role>Dennis Corrigan</role>
+    <type>Actor</type>
+    <tmdbid>1793783</tmdbid>
+  </actor>
+  <actor>
+    <name>Pippa Bennett-Warner</name>
+    <role>Ann Saville</role>
+    <type>Actor</type>
+    <tmdbid>1376880</tmdbid>
+    <tvdbid>496182</tvdbid>
+  </actor>
+  <actor>
+    <name>Pearl Chanda</name>
+    <role>Sheila Sim</role>
+    <type>Actor</type>
+    <tmdbid>1754638</tmdbid>
+  </actor>
+  <actor>
+    <name>Sian Clifford</name>
+    <role>Edana Romney</role>
+    <type>Actor</type>
+    <tmdbid>1648728</tmdbid>
+    <imdbid>nm5427486</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Fortune-Lloyd</name>
+    <role>Gio</role>
+    <type>Actor</type>
+    <tmdbid>1944459</tmdbid>
+    <imdbid>nm7066351</imdbid>
+  </actor>
+  <actor>
+    <name>David Oyelowo</name>
+    <role>Mervyn Cocker-Norris</role>
+    <type>Actor</type>
+    <tmdbid>35013</tmdbid>
+    <imdbid>nm0654648</imdbid>
+    <tvdbid>396447</tvdbid>
+  </actor>
+  <actor>
+    <name>Shirley Henderson</name>
+    <role>Agatha Christie</role>
+    <type>Actor</type>
+    <tmdbid>1834</tmdbid>
+    <imdbid>nm0376602</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chahidi</name>
+    <role>Fellowes</role>
+    <type>Actor</type>
+    <tmdbid>75074</tmdbid>
+    <imdbid>nm0149628</imdbid>
+  </actor>
+  <actor>
+    <name>Lucian Msamati</name>
+    <role>Max Mallowan</role>
+    <type>Actor</type>
+    <tmdbid>1240427</tmdbid>
+    <imdbid>nm1748634</imdbid>
+  </actor>
+  <actor>
+    <name>Angus Wright</name>
+    <role>Sgt. Bakewell</role>
+    <type>Actor</type>
+    <tmdbid>933640</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Key</name>
+    <role>Commissioner Harrold Scott</role>
+    <type>Actor</type>
+    <tmdbid>1016119</tmdbid>
+    <imdbid>nm2764713</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Cox</name>
+    <role>Major Metcalf</role>
+    <type>Actor</type>
+    <tmdbid>183212</tmdbid>
+    <imdbid>nm0185045</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie McCarthy</name>
+    <role>Mrs. Boyle</role>
+    <type>Actor</type>
+    <tmdbid>1233838</tmdbid>
+    <imdbid>nm0565236</imdbid>
+  </actor>
+  <actor>
+    <name>Ania Marson</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>110322</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Desmeules</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>1077056</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Morgan</name>
+    <role>Joyce</role>
+    <type>Actor</type>
+    <tmdbid>1488449</tmdbid>
+  </actor>
+  <actor>
+    <name>Tolu Ogunmefun</name>
+    <role>Mr. Lyon</role>
+    <type>Actor</type>
+    <tmdbid>1942991</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieran Hodgson</name>
+    <role>Harley the Motorcycle Messenger</role>
+    <type>Actor</type>
+    <tmdbid>1300306</tmdbid>
+  </actor>
+  <director tmdbid="1814510">Tom George</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jwsvofmgIug</trailer>
+  <rating>6.5</rating>
+  <year>2022</year>
+  <sorttitle>Mira como corren</sorttitle>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt13640696</imdbid>
+  <tmdbid>766475</tmdbid>
+  <premiered>2022-09-09</premiered>
+  <releasedate>2022-09-09</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>98</runtime>
+  <tagline>El mayor asesinato jamás escenificado.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Comedia</genre>
+  <genre>Misterio</genre>
+  <genre>Suspense</genre>
+  <studio>DJ Films</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Searchlight Pictures</studio>
+  <uniqueid type="imdb">tt13640696</uniqueid>
+  <uniqueid type="tmdb">766475</uniqueid>
+  <id>tt13640696</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1134767</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5889</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
