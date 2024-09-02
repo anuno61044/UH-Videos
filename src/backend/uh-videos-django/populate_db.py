@@ -20,7 +20,7 @@ HIGH_SCORE_RANGE = (4, 5)  # Rango de puntuaciones altas
 LOW_SCORE_RANGE = (1, 3)  # Rango de puntuaciones bajas
 RATING_VARIATION = [-1, 0, 1]  # Variación de calificación en grupos similares
 
-def populate(num_users=20, num_ratings=120):
+def populate(num_users=30, num_ratings=3000):
     """
     Pobla la base de datos con usuarios, películas y calificaciones para ejemplificar
     los casos cubiertos por el filtrado colaborativo y basado en contenido.
@@ -45,19 +45,20 @@ def populate(num_users=20, num_ratings=120):
 
     # Crear usuarios de prueba
     print(f"Creando {num_users} usuarios...")
-    users = []
-    for _ in range(num_users):
-        user = User.objects.create(
+    users = [
+        User(
             username=fake.user_name(),
             email=fake.email(),
             password='password123'  # Puedes usar una función hash aquí si es necesario
-        )
-        users.append(user)
+        ) for _ in range(num_users)
+    ]
+    User.objects.bulk_create(users)
+    users = User.objects.all()
     print(f"{num_users} usuarios creados.")
 
     movies = []
     # Cargar información de las películas
-    years = ['2024']
+    years = ['2024', '2023', '2022', '2021', '2020']
     for year in years:
         for archivo in os.listdir(f'./info_extranjeras/{year}'):
             if archivo.endswith('.txt'):
@@ -74,16 +75,19 @@ def populate(num_users=20, num_ratings=120):
                 if movie_description is None:
                     movie_description = 'No description'
                 
-                movie = Movie.objects.create(
-                    title=movie_title,
-                    genre=movie_genres[0],
-                    director=movie_director,
-                    url=f'https://visuales.uclv.cu/Peliculas/Extranjeras/{year}/{archivo[:-4]}/',
-                    description=movie_description,
-                    release_date=root.find('releasedate').text
+                movies.append(
+                    Movie(
+                        title=movie_title,
+                        genre=movie_genres[0],
+                        director=movie_director,
+                        url=f'https://visuales.uclv.cu/Peliculas/Extranjeras/{year}/{archivo[:-4]}/',
+                        description=movie_description,
+                        release_date=root.find('releasedate').text
+                    )
                 )
-                movies.append(movie)
     
+    Movie.objects.bulk_create(movies)
+    movies = Movie.objects.all()
     num_movies = len(movies)
     print(f"{num_movies} películas creadas.")
 
@@ -92,9 +96,10 @@ def populate(num_users=20, num_ratings=120):
     group_size = max(1, num_users // similar_groups)  # Tamaño de cada grupo
 
     print(f"Creando calificaciones similares para {similar_groups} grupos de usuarios...")
+    ratings = []
     for group in range(similar_groups):
         base_ratings = {}  # Calificaciones base para el grupo
-        selected_movies = random.sample(movies, k=3)  # Seleccionamos 3 películas para el grupo
+        selected_movies = random.sample(list(movies), k=3)  # Seleccionamos 3 películas para el grupo
 
         # Crear calificaciones base para estas películas
         for movie in selected_movies:
@@ -107,7 +112,7 @@ def populate(num_users=20, num_ratings=120):
                 # Pequeña variación en las calificaciones dentro del grupo
                 varied_score = score + random.choice(RATING_VARIATION)
                 varied_score = max(1, min(5, varied_score))  # Asegurarse de que esté entre 1 y 5
-                Rating.objects.create(user=user, movie=movie, score=varied_score)
+                ratings.append(Rating(user=user, movie=movie, score=varied_score))
 
     # Crear calificaciones adicionales sesgadas hacia contenido (Filtrado Basado en Contenido)
     remaining_ratings = num_ratings - (similar_groups * group_size * 3)
@@ -123,8 +128,10 @@ def populate(num_users=20, num_ratings=120):
                 score = random.randint(*HIGH_SCORE_RANGE)
         else:
             score = random.randint(1, 5)
-        Rating.objects.create(user=user, movie=movie, score=score)
+        ratings.append(Rating(user=user, movie=movie, score=score))
 
+    # Insertar todas las calificaciones en una sola operación
+    Rating.objects.bulk_create(ratings)
     print(f"Base de datos poblada con {num_users} usuarios, {num_movies} películas, y {num_ratings} calificaciones.")
 
 if __name__ == '__main__':
