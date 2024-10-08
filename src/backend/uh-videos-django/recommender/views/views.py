@@ -11,7 +11,8 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework_simplejwt.authentication import JWTAuthentication
 from ..serializers import MovieSerializer, RatingSerializer, UserSerializer
 from ..models import Movie, Rating, User
-from .recommender import get_recommendations  # función que debes crear
+from .recommender import get_recommendations 
+from .metrics import evaluate_recommendations
 
 class MovieList(generics.ListCreateAPIView):
     """
@@ -62,6 +63,7 @@ class UserRecommendations(APIView):
     """
     def get(self, request, user_id):
         recommendations, trace = get_recommendations(user_id)
+        evaluate_recommendations(user_id)
         serialized_recommendations = MovieSerializer(recommendations, many=True).data
         return Response({
             "recommendations": serialized_recommendations,
